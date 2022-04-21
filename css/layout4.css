@@ -1,0 +1,98 @@
+:root {
+    font-size: calc(0.5em + 1vw);
+
+    --white-text: rgb(255, 255, 255);
+    --blue-link: rgb(98, 132, 171);
+    --red-text: rgb(248, 48, 54);
+    --grey-text: rgb(105,105,105);
+    --black-text: rgb(19, 18, 14);
+    --very-light-grey: rgb(241, 241, 241);
+    
+    --search-width: 11rem;
+    --bar-width: 220px;
+
+    --svg-width: 700px;
+    --story-width: 400px;
+
+    --phone-width: 50rem;
+    --max-width: 1366px; 
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    /* background-color: rgb(22, 31, 45); */
+}
+
+.container {
+    display: grid;
+    grid-template-areas: 
+        "title          title"
+        "searchBox      date  "
+        "stories        summary" 
+        "stories        chart" 
+        "footer         footer"; 
+    grid-template-columns: var(--story-width) var(--svg-width) ;
+    grid-template-rows: 2.2rem 120px 3rem auto 1rem;
+    grid-gap: .1em;
+    margin: 0px;
+    height: 100vh;
+    width: calc(100vw - 1.1rem); 
+}
+
+.container *> {
+    border: 1px solid black;    
+}
+
+@media screen and (min-width: 1600px) {
+    :root {
+        font-size: 22px; 
+    }
+    .container {
+        width: 1600px; 
+    }
+}
+
+.title {
+    grid-area: title;
+    text-align: center;
+    font-weight: 500;
+}
+
+.search-box {
+    grid-area: searchBox;
+    display: flex;
+    justify-content: center;
+    /* background-color: rgb(241, 241, 241); */
+}
+
+.date {
+    grid-area: date;
+    margin: .5rem 0rem .0rem 1rem;
+}
+
+.summary {
+    grid-area: summary;
+
+}
+
+.chart {
+    grid-area: chart;
+    overflow: auto;
+    margin: .0rem 0rem .0rem 1rem;
+}
+
+.stories {
+    grid-area: stories;
+    overflow: auto;
+    /* background-color: rgb(241, 241, 241); */
+}
+
+/* .mediaOutlet {
+    grid-area: mediaOutlet;
+    overflow: auto;
+}  */
+
+.footer {
+    grid-area: footer;
+}

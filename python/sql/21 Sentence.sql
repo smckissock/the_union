@@ -1,0 +1,21 @@
+USE [RussiaNews]
+GO
+
+
+EXEC DropTable 'Sentence'
+GO
+
+
+CREATE TABLE [dbo].[Sentence](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[DiffBotStoryID] [int] NOT NULL REFERENCES DiffBotStory(ID),
+	[Text] [varchar](max) NOT NULL,
+	[EditTime] datetime2(6) NOT NULL 
+ CONSTRAINT [PK_Sentence] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+

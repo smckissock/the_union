@@ -1,0 +1,94 @@
+
+.listing-container {
+    display: grid;
+    grid-template-areas: 
+        "title              title           appDropdown     aboutButton"
+        "searchBox          term            switch          switch"
+        "searchBox          dateChart       dateChart       dateChart"
+        "story              listing         listing         listing"
+        "footer             footer          footer          footer"; 
+    grid-template-columns: var(--story-width) var(--media-chart-width) var(--story-chart-width) var(--help-button-width);
+    grid-template-rows: 1.8rem 3rem var(--selected-dates-height) 1fr 1rem; 
+    grid-gap: .0em;
+    margin: 0px;
+    height: 107vh;  /* 100vh is not enough for some reason */
+    width: calc(100vw - 1.1rem); 
+    overflow: hidden; 
+}
+
+.bias-circle {
+    font-size: 16px;
+}
+
+
+.listing {
+    grid-area: listing;
+    overflow: auto;
+}
+
+
+.listing-item {
+    margin-top: 8px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.listing-item:hover { 
+    background-color: var(--very-light-grey);
+    cursor: pointer;
+} 
+
+
+.listing-item-selected { 
+    background-color: LightGrey;
+} 
+
+.listing-date {
+    font-size: 18px;
+    cursor: default;
+    font-weight: 6  00;
+    color: var(--dark-grey-text);
+}
+
+.listing-story-count {
+    font-size: 14px;
+    cursor: default;
+    font-weight: 400;
+    color: var(--dark-grey-text);
+}
+
+
+.listing-media-outlet {
+    font-size: 16px;
+    cursor: default;
+    pointer-events: none;
+    font-weight: 700;
+}
+
+
+.listing-title {
+    font-size: 16px;
+    cursor: default;
+    pointer-events: none;
+    font-weight: 700;
+    color: black;
+}
+
+.listing-author {
+    font-size: 14px;
+    cursor: default;
+    pointer-events: none;
+    font-weight: 500;
+}
+
+.listing-sentence {
+    font-size: 14px;
+    cursor: default;
+    pointer-events: none;
+    font-weight: 500;
+    color: var(--dark-grey-text);
+}
+
+

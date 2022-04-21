@@ -1,0 +1,142 @@
+:root {
+    font-size: calc(0.5em + 1vw);
+
+    --white-text: rgb(255, 255, 255);
+    --blue-link: rgb(98, 132, 171);
+    --red-text: rgb(248, 48, 54);
+    --grey-text: rgb(105,105,105);
+    --dark-grey-text: rgb(56,56,56);
+    --black-text: rgb(19, 18, 14);
+    --very-light-grey: rgb(241, 241, 241);
+  
+    --story-width: 300px;
+    --media-chart-width: 560px;
+    --story-chart-width: 220px;
+    --help-button-width: 50px;
+
+    --selected-dates-height: 120px;
+    --events-height: 156px;
+
+    --phone-width: 50rem;
+    --max-width: 1366px; 
+}
+
+
+html{
+    height:100%;
+}
+
+body {
+    height:100%;
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+.container {
+    display: grid;
+    grid-template-areas: 
+        "title              title           appDropdown     aboutButton"
+        "searchBox          term            switch          switch"
+        "searchBox          dateChart       dateChart       dateChart"
+        "story              scrollChart     scrollChart     scrollChart" 
+        "footer             footer          footer          footer"; 
+    grid-template-columns: var(--story-width) var(--media-chart-width) var(--story-chart-width) var(--help-button-width);
+    grid-template-rows: 1.8rem 3rem var(--selected-dates-height) 1fr 1rem; 
+    grid-gap: .0em;
+    margin: 0px;
+    height: 107vh;  /* 100vh is not enough for some reason */
+    width: calc(100vw - 1.1rem); 
+    overflow: hidden; 
+}
+
+
+.container *> {
+    border: 1px solid black;    
+}
+
+@media screen and (min-width: 1600px) {
+    :root {
+        font-size: 22px; 
+    }
+    .container {
+        width: 1600px; 
+    }
+}
+
+.title {
+    grid-area: title;
+    text-align: center;
+    font-weight: 500;
+    float: left;
+}
+
+.appDropdown {
+    grid-area: appDropdown;
+    text-align: center;
+    font-weight: 500;
+    float: left;
+}
+
+.aboutButton {
+    grid-area: aboutButton;
+    text-align: center;
+    font-weight: 500;
+    float: right;
+}
+
+.search-box {
+    grid-area: searchBox;
+    display: flex;
+    justify-content: center;
+    /* background-color: rgb(241, 241, 241); */
+}
+
+.term {
+    grid-area: term;
+}
+
+.switch {
+    grid-area: switch;
+}
+
+.dates {
+    grid-area: dateChart;
+    margin: .0rem 0rem .0rem 0rem;
+}
+
+
+.event-labels {
+    grid-area: eventLabels;
+}
+
+.event-chart {
+    grid-area: eventChart;
+}
+
+
+.scroll-chart {
+    grid-area: scrollChart;
+    display: grid;
+    float: none;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+    grid-template-columns: 1fr 3fr;   
+}
+
+
+.story {
+    grid-area: story;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.footer {
+    grid-area: footer;
+    font-size: 0.6rem;
+    color: var(--grey-text);
+    border-top: 5px solid var(--table-text-color);
+    padding: 0.2rem;
+    text-align: center;
+}
