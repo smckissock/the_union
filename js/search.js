@@ -46,6 +46,7 @@ import { DateChart } from "./dateChart.js";
 import { StoryChart } from "./storyChart.js";
 import { StoryHtml } from "./storyHtml.js";
 import { ListingHtml } from "./listingHtml.js";
+import { CandidatesHtml } from "./candidatesHtml.js";
 import { trackAppChange, trackInitialApp } from "./track.js";
 
 
@@ -74,6 +75,7 @@ let dateChart = null;
 let eventChart = null;
 let storyHtml = null;
 let listingHtml = null;
+let candidatesHtml = null;
 
 let updateDate = new Date("2020/10/13"); 
 
@@ -130,7 +132,8 @@ function getApps() {
         trackInitialApp(appSlug);
 
         startApp();
-        aboutButton();
+        //aboutButton();
+        candidatesButton();
         switchButton()
     });
 }
@@ -162,6 +165,7 @@ function setup(data) {
     storyChart = new StoryChart(mediaSvg, storyGroup, page.dateScale, eventChart);
     storyHtml = new StoryHtml(d3.select("#story-box"));
     listingHtml = new ListingHtml(d3.select("#listing-box"));
+    candidatesHtml = new CandidatesHtml(d3.select("#candidates-backdrop"));
     
     getExampleTerms(terms);
     setWord(appName);
@@ -489,6 +493,7 @@ export function storyDetailsHtml(story) {
     });
 }
 
+
 function switchButton() {
 
     var switchSvg = d3.select("#switch-box")
@@ -578,6 +583,57 @@ function toggleChartVisible(hide) {
         display = "none";
     d3.select("#story-box").style("display", display);
 }
+
+function candidatesButton() {
+
+    var candidatesButtonSvg = d3.select("#candidatesButton")
+        .append("svg")
+        .attr("width", 50)
+        .attr("height", 50)
+
+    const left = 186; 
+    const width = 80;     
+    const candidatesButtonRect = candidatesButtonSvg.append("rect")
+        .attr("x", 4)  // left
+        .attr("y", 4)
+        .attr("width", 30) // width
+        .attr("height", 30)
+        .attr("fill", "white")
+        .attr("stroke", "black")
+        .attr("stroke-width", 2)
+        .attr("opacity", "1.0")
+        .on('mouseover', function (d) {
+            d3.select(this)
+                .transition()
+                .duration(50)
+                .attr("stroke-width", 5)
+        })
+        .on('mouseout', function (d) {
+            d3.select(this)
+                .transition()
+                .duration(80)
+                .attr("stroke-width", 2);
+        })  
+        .on('click', function (d) {
+            showCandidatesModal();
+        });
+
+    text("Select", candidatesButtonSvg, "button-text", left + 10, 26);
+    text("", candidatesButtonSvg, "button-text", left + 13, 45, "timeline-label");
+    text("Candidate", candidatesButtonSvg, "button-text", left + 18, 45, "listing-label");
+}
+
+function showCandidatesModal() {
+    
+    //let mdl = d3.select("#candidates-backdrop") 
+    //    .style("display", "block")
+
+    candidatesHtml.show(null);    
+
+    //var modal = document.getElementById("candidates-backdrop");
+   // modal.style.display = "block";
+}
+
 
 
 function aboutButton() {

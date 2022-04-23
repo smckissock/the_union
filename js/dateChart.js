@@ -118,7 +118,6 @@ export class DateChart {
         // .bind(this) forces "this" inside brushMode to be the chart instance, not the dom node that triggerted the event
         // https://stackoverflow.com/questions/36489579/this-within-es6-class-method
 
-        debugger;
         let brush = d3.brushX()
             .extent([ [this.dayScale.range()[0], top], [this.dayScale(new Date()), bottom] ])
             //.extent([ [310, top], [320, bottom] ])

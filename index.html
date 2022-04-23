@@ -31,18 +31,33 @@
     <script type="module" src='js/storyChart.js'></script>
     <script type="module" src='js/storyHtml.js'></script>
     <script type="module" src='js/listingHtml.js'></script>
+    <script type="module" src='js/candidatesHtml.js'></script>
     <script type="module" src='js/track.js'></script>
 
     <link href='css/svg.css' rel='stylesheet' type='text/css'>
     <link href='css/chart-style.css' rel='stylesheet' type='text/css'>
     <link href='css/layout.css' rel='stylesheet' type='text/css'>
     <link href='css/listing-layout.css' rel='stylesheet' type='text/css'>
+    <link href='css/page.css' rel='stylesheet' type='text/css'>
 </head>
 
 
 <!-- <body onresize="resize()" onload="loadPage()"> -->
 <!--  <body onload="window.loadPage()">-->
 <body>
+    <div id="candidates-backdrop" class="candidates-backdrop">
+        <div class="candidates-content">
+            <!-- <span class="close">&times;</span> -->
+            <p>Some text in the Modal..</p>
+            <p>Some text in the Modal..</p>
+            <p>Some text in the Modal..</p>
+            <p>Some text in the Modal..</p>
+            <p>Some text in the Modal..</p>
+            <p>Some text in the Modal..</p>
+            <p>Some text in the Modal..</p>
+          </div>
+    </div>
+
     <div id="grid-container" class="container">
         
         <div class="title">
@@ -51,7 +66,8 @@
         </div>
 
         <div id="appDropdown" class="appDropdown"></div>
-        <div id="aboutButton" class="aboutButton"></div> 
+        <!-- <div id="aboutButton" class="aboutButton"></div>  -->
+        <div id="candidatesButton" class="candidatesButton"></div>
         <div id="switch-box" class="switch"></div>
         
         <div class="dates" id="date-chart-box"></div>
