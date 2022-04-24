@@ -1,5 +1,6 @@
-import { storyChart, mediaList, searchTerm, terms, cleanSearchTerm, storiesMap, storySelect, biasColors, storyGroup } from './search.js';
+import { storyChart, mediaList, searchTerm, terms, cleanSearchTerm, storiesMap, storySelect, biasColors, storyGroup, startApp } from './search.js';
 import { insert, formatDate } from './shared.js';
+import { trackAppChange } from "./track.js";
 
 
 export class CandidatesHtml {
@@ -25,27 +26,46 @@ export class CandidatesHtml {
             });
         }
 
-        self.div
-            .style("display", "block");     
+        self.div.style("display", "block");     
     }
 
-    generateHtml(candidates) {
-        debugger;
+    generateHtml(candidates) {        
         let html = "";
         candidates.forEach(function(c) {
             html += self.candidateHtml(c);
 
         });
-        self.bodyDiv.html("<table>" + html + "</table>");
+        self.bodyDiv.html("<table>" + self.headerHtml() + "<body>" + html + "</body></table>");
+    }
+
+    // See this for sticky header css
+    // https://css-tricks.com/position-sticky-and-table-headers/
+    headerHtml() {
+        return `
+            <thead>
+                <tr>
+                    <th>State</th>
+                    <th>Race</th>
+                    <th>Candidate</th>
+                </tr>
+            </thead>
+            `
     }
 
     candidateHtml(c) {
         return `
-            <tr>
+            <tr onclick="self.select('${c.slug}')">
                 <td>${c.state}</td>
                 <td>${c.race}</td>
                 <td>${c.name}</td>
             </tr>
             `
+    }
+
+    select(slug) {     
+        trackAppChange(slug);
+        startApp(slug);
+
+        self.div.style("display", "none");    
     }
 }

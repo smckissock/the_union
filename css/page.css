@@ -22,11 +22,50 @@
     left: 20%;
     padding: 2em 3em;
 
-    overflow: auto;
+    /* overflow: auto; */
 
     /* margin: 10% auto; /* 15% from the top and centered */
     /* padding: 20px; */
     /* border: 1px solid #888; */
     /* width: 60%; Could be more or less, depending on screen size */ */
   }
+
+  table {
+    margin: 1em 0;
+    border-collapse: collapse;
+    border: 0.1em solid #d6d6d6;
+
+    font-size:  smaller;
+
+    overflow: auto;
+
+    /* text-align: left;
+    position: relative;
+    border-collapse: collapse;  */
+  }
+
+  th,
+  td {
+    padding: 0.25em 0.5em 0.25em 1em;
+    vertical-align: text-top;
+    text-align: left;
+    text-indent: -0.5em;
+  }
   
+  th {
+    vertical-align: bottom;
+    background-color: #666;
+    color: #fff;
+  }
+  
+
+  th[scope=row] {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+
+  tr:hover {
+    background-color: #ffff99;
+  }

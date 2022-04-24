@@ -9,6 +9,7 @@ export let storySvg;
 export let terms;
 export let stories;
 export let storiesMap;
+//export let startApp;
 
 export const biasColors = {
     'Newspaper': 'darkGrey',  
@@ -88,7 +89,12 @@ let initialLoad = true;
 }) ()
 
 
-function startApp() {
+export function startApp(slug) {
+    // Called from popup
+    if (slug) {
+        appSlug = slug;
+    }
+
     console.log("Starting app for " + appSlug);
     d3.json("data/" + appSlug + "/dimensions.json").then(function (data) {
         setup(data);
@@ -109,14 +115,12 @@ function getApps() {
         if (!(data.find(d => d.slug === appSlug)))     
             appSlug = data[0].slug; 
         
-
         var dropdownDiv = d3.select("#appDropdown")
         dropdownDiv
             .append("select")
             .attr("id", "selectedApp")
             .on("change", function(d) {
                 appSlug = d3.select(this).property("value");
-
                 trackAppChange(appSlug);
                 startApp();
             })
