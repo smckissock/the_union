@@ -78,7 +78,7 @@ let storyHtml = null;
 let listingHtml = null;
 let candidatesHtml = null;
 
-let updateDate = new Date("2020/10/13"); 
+let updateDate = new Date("2021/4/27"); 
 
 let initialLoad = true;
 
@@ -97,7 +97,7 @@ export function startApp(slug) {
 
     console.log("Starting app for " + appSlug);
     d3.json("data/" + appSlug + "/dimensions.json").then(function (data) {
-        setup(data);
+        setup(data); 
     });
     document.getElementById('search-input').focus();
 
@@ -115,20 +115,20 @@ function getApps() {
         if (!(data.find(d => d.slug === appSlug)))     
             appSlug = data[0].slug; 
         
-        var dropdownDiv = d3.select("#appDropdown")
-        dropdownDiv
-            .append("select")
-            .attr("id", "selectedApp")
-            .on("change", function(d) {
-                appSlug = d3.select(this).property("value");
-                trackAppChange(appSlug);
-                startApp();
-            })
-		    .selectAll("option")
-		    .data(data)
-		    .enter().append("option")
-		    .text(d => d.name)
-            .attr("value", d => d.slug);
+        // var dropdownDiv = d3.select("#appDropdown")
+        // dropdownDiv
+        //     .append("select")
+        //     .attr("id", "selectedApp")
+        //     .on("change", function(d) {
+        //         appSlug = d3.select(this).property("value");
+        //         trackAppChange(appSlug);
+        //         startApp();
+        //     })
+		//     .selectAll("option")
+		//     .data(data)
+		//     .enter().append("option")
+		//     .text(d => d.name)
+        //     .attr("value", d => d.slug);
             
         // Make dropdown show selected app    
         d3.select("#selectedApp").property("value", appSlug);      
@@ -403,7 +403,6 @@ function storyClick(circle, story) {
 
     alert("STORY CLICK!");
 
-
     // If a story is already selected, color it blue 
     if ((selectedCircle != circle) && (selectedCircle)) 
         selectedCircle.setAttribute("fill", selectedStory.color)
@@ -590,9 +589,10 @@ function toggleChartVisible(hide) {
 
 function candidatesButton() {
 
-    var candidatesButtonSvg = d3.select("#candidatesButton")
+    //var candidatesButtonSvg = d3.select("#candidatesButton")
+    var candidatesButtonSvg = d3.select("#appDropdown")
         .append("svg")
-        .attr("width", 50)
+        .attr("width", 150)
         .attr("height", 50)
 
     const left = 186; 
@@ -600,7 +600,7 @@ function candidatesButton() {
     const candidatesButtonRect = candidatesButtonSvg.append("rect")
         .attr("x", 4)  // left
         .attr("y", 4)
-        .attr("width", 30) // width
+        .attr("width", 130) // width
         .attr("height", 30)
         .attr("fill", "white")
         .attr("stroke", "black")
@@ -622,9 +622,9 @@ function candidatesButton() {
             showCandidatesModal();
         });
 
-    text("Select", candidatesButtonSvg, "button-text", left + 10, 26);
-    text("", candidatesButtonSvg, "button-text", left + 13, 45, "timeline-label");
-    text("Candidate", candidatesButtonSvg, "button-text", left + 18, 45, "listing-label");
+    text("Select Candidate", candidatesButtonSvg, "button-text", 14, 24);
+    //text("", candidatesButtonSvg, "button-text", left + 13, 45, "timeline-label");
+    //text("Candidate", candidatesButtonSvg, "button-text", left + 18, 45, "listing-label");
 }
 
 function showCandidatesModal() {

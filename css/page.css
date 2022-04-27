@@ -14,15 +14,14 @@
   .candidates-content {
     background-color: white;
     
-
-    position: fixed;
+    /* position: fixed; */
     top: 3em;
     bottom: 3em;
     right: 20%;
     left: 20%;
     padding: 2em 3em;
 
-    /* overflow: auto; */
+    overflow: auto;
 
     /* margin: 10% auto; /* 15% from the top and centered */
     /* padding: 20px; */
@@ -37,7 +36,7 @@
 
     font-size:  smaller;
 
-    overflow: auto;
+    /* overflow: auto; */
 
     /* text-align: left;
     position: relative;
@@ -46,7 +45,7 @@
 
   th,
   td {
-    padding: 0.25em 0.5em 0.25em 1em;
+    padding: 0.25em 1.0em 0.15em 2.0em;
     vertical-align: text-top;
     text-align: left;
     text-indent: -0.5em;
@@ -67,5 +66,23 @@
   }
 
   tr:hover {
-    background-color: #ffff99;
+    /* background-color: #ffff99; yellow */
+    background-color: #CDCDCD;
+    cursor: pointer;
+  }
+
+  td.blue {
+    color: blue;
+  }
+
+  td.red {
+    color: red;
+  }
+
+  td.number {
+    text-align: right;
+  }
+
+  tr.bold {
+    font-weight: bold;
   }

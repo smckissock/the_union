@@ -47,20 +47,32 @@ export class CandidatesHtml {
                     <th>State</th>
                     <th>Race</th>
                     <th>Candidate</th>
+                    <th>Stories</th>
                 </tr>
             </thead>
             `
     }
 
     candidateHtml(c) {
+        let bold = c.incumbent == "False" ? ""  : 'class="bold"'; 
+        
+        let color = ""; 
+        if (c.party == "D")
+            color = ' class="blue" ';
+        if (c.party == "R")
+            color = ' class="red" ';
+
+        //debugger;
+
         return `
-            <tr onclick="self.select('${c.slug}')">
+            <tr onclick="self.select('${c.slug}')" ${bold}>
                 <td>${c.state}</td>
-                <td>${c.race}</td>
-                <td>${c.name}</td>
+                <td>${c.officeTitle}</td>
+                <td ${color}>${c.name}</td>
+                <td class="number">${c.storyCount}</td>
             </tr>
             `
-    }
+    }   
 
     select(slug) {     
         trackAppChange(slug);
