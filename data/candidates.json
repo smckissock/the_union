@@ -2,361 +2,613 @@
   {
     "state": "Arizona",
     "office": "Governor",
+    "party": "D",
     "race": "Statewide",
-    "name": "Lake",
+    "officeTitle": "Governor",
+    "name": "Katie Hobbs",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "katie-hobbs",
+    "storyCount": "264",
+    "localStoryCount": "98"
+  },
+  {
+    "state": "Arizona",
+    "office": "Governor",
+    "party": "R",
+    "race": "Statewide",
+    "officeTitle": "Governor",
+    "name": "Kari Lake",
+    "incumbent": "False",
+    "slug": "kari-lake",
+    "storyCount": "250",
+    "localStoryCount": "66"
   },
   {
     "state": "Arizona",
     "office": "House",
+    "party": "R",
     "race": "1",
-    "name": "Schweikert",
+    "officeTitle": "House 1st",
+    "name": "David Schweikert",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "david-schweikert",
+    "storyCount": "30",
+    "localStoryCount": "8"
   },
   {
     "state": "Arizona",
     "office": "House",
+    "party": "R",
     "race": "1",
+    "officeTitle": "House 1st",
     "name": "Elijah Norton",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "elijah-norton",
+    "storyCount": "5",
+    "localStoryCount": "4"
   },
   {
     "state": "Arizona",
     "office": "House",
+    "party": "R",
     "race": "2",
+    "officeTitle": "House 2nd",
     "name": "Eli Crane",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "eli-crane",
+    "storyCount": "33",
+    "localStoryCount": "4"
   },
   {
     "state": "Arizona",
     "office": "House",
+    "party": "R",
     "race": "4",
+    "officeTitle": "House 4th",
     "name": "Kelly Cooper",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "kelly-cooper",
+    "storyCount": "4",
+    "localStoryCount": "1"
   },
   {
     "state": "Arizona",
     "office": "House",
+    "party": "R",
     "race": "6",
+    "officeTitle": "House 6th",
     "name": "Juan Ciscomani",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "juan-ciscomani",
+    "storyCount": "8",
+    "localStoryCount": "2"
   },
   {
     "state": "Arizona",
     "office": "House",
+    "party": "R",
     "race": "8",
+    "officeTitle": "House 8th",
     "name": "Debbie Lesko",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "debbie-lesko",
+    "storyCount": "43",
+    "localStoryCount": "12"
   },
   {
     "state": "Arizona",
     "office": "House",
+    "party": "R",
     "race": "9",
-    "name": "Gosar",
+    "officeTitle": "House 9th",
+    "name": "Paul Gosar",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "paul-gosar",
+    "storyCount": "668",
+    "localStoryCount": "67"
   },
   {
     "state": "Arizona",
     "office": "Secretary of State",
+    "party": "D",
     "race": "Statewide",
+    "officeTitle": "Secretary of State",
+    "name": "Reginald Bolding",
+    "incumbent": "False",
+    "slug": "reginald-bolding",
+    "storyCount": "89",
+    "localStoryCount": "45"
+  },
+  {
+    "state": "Arizona",
+    "office": "Secretary of State",
+    "party": "D",
+    "race": "Statewide",
+    "officeTitle": "Secretary of State",
+    "name": "Adrian Fontes",
+    "incumbent": "False",
+    "slug": "adrian-fontes",
+    "storyCount": "53",
+    "localStoryCount": "15"
+  },
+  {
+    "state": "Arizona",
+    "office": "Secretary of State",
+    "party": "R",
+    "race": "Statewide",
+    "officeTitle": "Secretary of State",
     "name": "Shawnna Bolick",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "shawnna-bolick",
+    "storyCount": "23",
+    "localStoryCount": "7"
   },
   {
     "state": "Arizona",
     "office": "Secretary of State",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Secretary of State",
     "name": "Michelle Ugenti-Rita",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "michelle-ugenti-rita",
+    "storyCount": "52",
+    "localStoryCount": "38"
   },
   {
     "state": "Arizona",
     "office": "Secretary of State",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Secretary of State",
     "name": "Mark Finchem",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "mark-finchem",
+    "storyCount": "228",
+    "localStoryCount": "58"
   },
   {
     "state": "Arizona",
     "office": "Senate",
+    "party": "D",
     "race": "Statewide",
+    "officeTitle": "Senate",
+    "name": "Mark Kelly",
+    "incumbent": "True",
+    "slug": "mark-kelly",
+    "storyCount": "1331",
+    "localStoryCount": "192"
+  },
+  {
+    "state": "Arizona",
+    "office": "Senate",
+    "party": "R",
+    "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Mark Brnovich",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "mark-brnovich",
+    "storyCount": "357",
+    "localStoryCount": "119"
   },
   {
     "state": "Arizona",
     "office": "Senate",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Michael McGuire",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "michael-mcguire",
+    "storyCount": "4",
+    "localStoryCount": "0"
   },
   {
     "state": "Arizona",
     "office": "Senate",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Blake Masters",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "blake-masters",
+    "storyCount": "57",
+    "localStoryCount": "2"
   },
   {
     "state": "Arizona",
     "office": "Senate",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Justin Olson",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "justin-olson",
+    "storyCount": "11",
+    "localStoryCount": "5"
   },
   {
     "state": "Ohio",
     "office": "Governor",
+    "party": "D",
     "race": "Statewide",
+    "officeTitle": "Governor",
+    "name": "John Cranley",
+    "incumbent": "False",
+    "slug": "john-cranley",
+    "storyCount": "172",
+    "localStoryCount": "80"
+  },
+  {
+    "state": "Ohio",
+    "office": "Governor",
+    "party": "R",
+    "race": "Statewide",
+    "officeTitle": "Governor",
     "name": "Mike DeWine",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "mike-dewine",
+    "storyCount": "1354",
+    "localStoryCount": "654"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "1",
+    "officeTitle": "House 1st",
     "name": "Steve Chabot",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "steve-chabot",
+    "storyCount": "34",
+    "localStoryCount": "3"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "1",
+    "officeTitle": "House 1st",
     "name": "Jenn Giroux",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "jenn-giroux",
+    "storyCount": "1",
+    "localStoryCount": "0"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "13",
+    "officeTitle": "House 13th",
     "name": "Madison Gesiotto Gilbert",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "madison-gesiotto-gilbert",
+    "storyCount": "21",
+    "localStoryCount": "5"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "13",
+    "officeTitle": "House 13th",
     "name": "Shay Hawkins",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "shay-hawkins",
+    "storyCount": "4",
+    "localStoryCount": "0"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "4",
+    "officeTitle": "House 4th",
     "name": "Jim Jordan",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "jim-jordan",
+    "storyCount": "1369",
+    "localStoryCount": "41"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "7",
+    "officeTitle": "House 7th",
     "name": "Max Miller",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "max-miller",
+    "storyCount": "94",
+    "localStoryCount": "21"
   },
   {
     "state": "Ohio",
     "office": "House",
-    "race": "7",
-    "name": "Jonah Schulz",
-    "incumbent": "False",
-    "app": "Unspecified"
-  },
-  {
-    "state": "Ohio",
-    "office": "House",
-    "race": "7",
-    "name": "Charlie Gaddis",
-    "incumbent": "False",
-    "app": "Unspecified"
-  },
-  {
-    "state": "Ohio",
-    "office": "House",
+    "party": "R",
     "race": "8",
+    "officeTitle": "House 8th",
     "name": "Warren Davidson",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "warren-davidson",
+    "storyCount": "100",
+    "localStoryCount": "8"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "9",
+    "officeTitle": "House 9th",
     "name": "JR Majewski",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "jr-majewski",
+    "storyCount": "3",
+    "localStoryCount": "0"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "9",
+    "officeTitle": "House 9th",
     "name": "Theresa Gavarone",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "theresa-gavarone",
+    "storyCount": "43",
+    "localStoryCount": "13"
   },
   {
     "state": "Ohio",
     "office": "House",
+    "party": "R",
     "race": "9",
+    "officeTitle": "House 9th",
     "name": "Craig Riedel",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "craig-riedel",
+    "storyCount": "6",
+    "localStoryCount": "5"
   },
   {
     "state": "Ohio",
     "office": "Senate",
+    "party": "D",
     "race": "Statewide",
+    "officeTitle": "Senate",
+    "name": "Tim Ryan",
+    "incumbent": "False",
+    "slug": "tim-ryan",
+    "storyCount": "372",
+    "localStoryCount": "95"
+  },
+  {
+    "state": "Ohio",
+    "office": "Senate",
+    "party": "D",
+    "race": "Statewide",
+    "officeTitle": "Senate",
+    "name": "Morgan Harper",
+    "incumbent": "False",
+    "slug": "morgan-harper",
+    "storyCount": "232",
+    "localStoryCount": "74"
+  },
+  {
+    "state": "Ohio",
+    "office": "Senate",
+    "party": "R",
+    "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Mike Gibbons",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "mike-gibbons",
+    "storyCount": "42",
+    "localStoryCount": "5"
   },
   {
     "state": "Ohio",
     "office": "Senate",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Josh Mandel",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "josh-mandel",
+    "storyCount": "161",
+    "localStoryCount": "20"
   },
   {
     "state": "Ohio",
     "office": "Senate",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Jane Timken",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "jane-timken",
+    "storyCount": "134",
+    "localStoryCount": "43"
   },
   {
     "state": "Ohio",
     "office": "Senate",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "J.D. Vance",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "jd-vance",
+    "storyCount": "710",
+    "localStoryCount": "47"
   },
   {
     "state": "Pennsylvania",
     "office": "Governor",
+    "party": "D",
     "race": "Statewide",
+    "officeTitle": "Governor",
+    "name": "Josh Shapiro",
+    "incumbent": "False",
+    "slug": "josh-shapiro",
+    "storyCount": "648",
+    "localStoryCount": "234"
+  },
+  {
+    "state": "Pennsylvania",
+    "office": "Governor",
+    "party": "R",
+    "race": "Statewide",
+    "officeTitle": "Governor",
     "name": "Lou Barletta",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "lou-barletta",
+    "storyCount": "74",
+    "localStoryCount": "31"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
+    "party": "R",
     "race": "1",
-    "name": "Fitzpatrick",
+    "officeTitle": "House 1st",
+    "name": "Brian Fitzpatrick",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "brian-fitzpatrick",
+    "storyCount": "165",
+    "localStoryCount": "17"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
+    "party": "R",
     "race": "1",
+    "officeTitle": "House 1st",
     "name": "Alex Entin",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "alex-entin",
+    "storyCount": "2",
+    "localStoryCount": "0"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
+    "party": "R",
     "race": "10",
-    "name": "Perry",
+    "officeTitle": "House 10th",
+    "name": "Scott Perry",
     "incumbent": "True",
-    "app": "Unspecified"
+    "slug": "scott-perry",
+    "storyCount": "189",
+    "localStoryCount": "22"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
+    "party": "R",
     "race": "10",
+    "officeTitle": "House 10th",
     "name": "Brian Allen",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "brian-allen",
+    "storyCount": "163",
+    "localStoryCount": "6"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
+    "party": "R",
     "race": "17",
+    "officeTitle": "House 17th",
     "name": "Jeremy Shaffer",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "jeremy-shaffer",
+    "storyCount": "6",
+    "localStoryCount": "0"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
-    "race": "17",
-    "name": "Tricia Stable",
-    "incumbent": "False",
-    "app": "Unspecified"
-  },
-  {
-    "state": "Pennsylvania",
-    "office": "House",
+    "party": "R",
     "race": "7",
+    "officeTitle": "House 7th",
     "name": "Lisa Scheller",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "lisa-scheller",
+    "storyCount": "11",
+    "localStoryCount": "0"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
+    "party": "R",
     "race": "7",
+    "officeTitle": "House 7th",
     "name": "Kevin Dellicker",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "kevin-dellicker",
+    "storyCount": "2",
+    "localStoryCount": "0"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
+    "party": "R",
     "race": "8",
+    "officeTitle": "House 8th",
     "name": "Jim Bognet",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "jim-bognet",
+    "storyCount": "3",
+    "localStoryCount": "0"
   },
   {
     "state": "Pennsylvania",
     "office": "House",
+    "party": "R",
     "race": "8",
+    "officeTitle": "House 8th",
     "name": "Mike Marsicano",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "mike-marsicano",
+    "storyCount": "2",
+    "localStoryCount": "0"
   },
   {
     "state": "Pennsylvania",
     "office": "Senate",
+    "party": "D",
     "race": "Statewide",
+    "officeTitle": "Senate",
+    "name": "John Fetterman",
+    "incumbent": "False",
+    "slug": "john-fetterman",
+    "storyCount": "462",
+    "localStoryCount": "109"
+  },
+  {
+    "state": "Pennsylvania",
+    "office": "Senate",
+    "party": "R",
+    "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Mehmet Oz",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "mehmet-oz",
+    "storyCount": "653",
+    "localStoryCount": "81"
   },
   {
     "state": "Pennsylvania",
     "office": "Senate",
+    "party": "R",
     "race": "Statewide",
+    "officeTitle": "Senate",
     "name": "Dave McCormick",
     "incumbent": "False",
-    "app": "Unspecified"
+    "slug": "dave-mccormick",
+    "storyCount": "160",
+    "localStoryCount": "55"
   }
 ]
