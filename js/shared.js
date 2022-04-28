@@ -76,7 +76,7 @@ export function formatDate(date, includeDayOfWeek = false) {
         return rslt;
     else 
         return daysOfWeek[date.getDay()] + ", " + rslt; 
-  }
+}
 
 
 // Inserts value at index postition of str 

@@ -167,24 +167,12 @@ export class StoryChart {
             .on("mouseover", d => self.highlightMediaRow(true, d.name, d.color))
             .on("mouseout", d => self.highlightMediaRow(false, d.name, d.color))
 
-
-        // I DONT KNOW WHAT THE NEXT SECTIONS DOES...
-        // Rects for # of stories
-        // this.mediaSvg.selectAll("rect").data(this.mediasWithStoryCount).enter().append("rect")
-        //     .attr("x", 0)
-        //     .attr("y", d => this.mediaY[d.name] + 6)
-        //     .attr("width", d => storyCountScale(d.storyCount))
-        //     .attr("height", this.rowHeight + 14)
-        //     .attr("fill", barColor)
-        //     .classed("story-count-bar", true);
-
         this.mediaSvg.selectAll("text").data(this.mediasWithStoryCount).enter().append("text")
             .text(d => d.name) // + " "  + d.storyCount)
             .attr("x", 2)
             .attr("y", d => this.mediaY[d.name] + 21)
             .attr("id", d => "t" + className(d.Name))
             .classed("mediaLabel", true);
-
 
         this.storySvg.selectAll("rect.bias-story-rect").data(this.biases).enter().append("rect")
             .attr("x", 0)
@@ -268,7 +256,6 @@ export class StoryChart {
             .on('mouseout', function (d) {
                 if (d === selectedStory)
                     return;
-
 
                 let fillColor = d.color;
                 if (d == selectedStory)

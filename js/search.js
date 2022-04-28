@@ -78,7 +78,7 @@ let storyHtml = null;
 let listingHtml = null;
 let candidatesHtml = null;
 
-let updateDate = new Date("2021/4/27"); 
+let updateDate = new Date("2021/4/24"); 
 
 let initialLoad = true;
 
@@ -227,7 +227,7 @@ function addDateScales() {
     //let lastMonth = 97;  // Nov 2020
     
     let firstMonth = 109; // Dec 2021
-    let lastMonth = 123;  // Nov 2022
+    let lastMonth = 121;  // Nov 2022
     
     page.storyMargins = ({top: 6, right: 0, bottom: 10, left: 40})
 
@@ -246,8 +246,7 @@ function addDateScales() {
     // Ugh - used to scroll the story <g>    
     page.monthToStoryWidth = d3.scaleLinear()
         .domain([firstMonth, lastMonth])
-        .range([0, storyChartSvgWidth + days * dayWidth + 50]); // This needs to get smaller each day..
-
+        .range([0, storyChartSvgWidth + days * dayWidth + 3800]); // This needs to get smaller larger each day. Need to figure formula based on current date  
     // Ugh - used to scroll the story <g>  
     // NOT USED, BUT PROBABLY SHOULD BE INSTEAD OF ABOVE   
     page.dayToStoryWidth = d3.scaleLinear()
@@ -430,7 +429,7 @@ function showFilters() {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
     
-    d3.select("#count-box").text("  " + numberWithCommas(stories.length) + " stories, updated " + formatDate(updateDate));
+    d3.select("#count-box").text("  " + numberWithCommas(stories.length) + " stories, updated through " + formatDate(updateDate, true));
 
     let filterStrings = [];
     if (selectedTerm)

@@ -48,6 +48,7 @@ export class CandidatesHtml {
                     <th>Race</th>
                     <th>Candidate</th>
                     <th>Stories</th>
+                    <th>Local Stories</th>
                 </tr>
             </thead>
             `
@@ -70,6 +71,7 @@ export class CandidatesHtml {
                 <td>${c.officeTitle}</td>
                 <td ${color}>${c.name}</td>
                 <td class="number">${c.storyCount}</td>
+                <td class="number">${c.localStoryCount}</td>
             </tr>
             `
     }   

@@ -365,7 +365,7 @@ p.story-excerpt {
  #count-box {
     color: var(--black-text);
     font-size: .7em;
-    font-weight: 500;
+    font-weight: 600;
     margin: 0rem 0rem 1.5rem .1rem;
     display: block;
  }
