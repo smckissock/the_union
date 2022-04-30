@@ -69,6 +69,7 @@
     /* background-color: #ffff99; yellow */
     background-color: #CDCDCD;
     cursor: pointer;
+    font-weight: bold
   }
 
   td.blue {
@@ -85,4 +86,14 @@
 
   tr.bold {
     font-weight: bold;
+  }
+
+  th.light-text {
+    font-weight: 200;
+    font-size: smaller;
+    vertical-align: center;  
+  }
+
+  th.big-text {
+    font-size:large; 
   }

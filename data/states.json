@@ -238,20 +238,20 @@
         "runoffDate": "",
         "candidates": [
           {
-            "party": "D",
-            "name": "John Cranley",
-            "incumbent": "False",
-            "slug": "john-cranley",
-            "storyCount": "172",
-            "localStoryCount": "80"
-          },
-          {
             "party": "R",
             "name": "Mike DeWine",
             "incumbent": "True",
             "slug": "mike-dewine",
             "storyCount": "1354",
             "localStoryCount": "654"
+          },
+          {
+            "party": "D",
+            "name": "John Cranley",
+            "incumbent": "False",
+            "slug": "john-cranley",
+            "storyCount": "172",
+            "localStoryCount": "80"
           }
         ]
       },

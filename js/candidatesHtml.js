@@ -41,7 +41,10 @@ export class CandidatesHtml {
     stateHtml(state) {
         let html =
             `<tr>
-                <th colspan="4">${state.name}</th>
+                <th class="big-text" colspan="1">${state.name}</th>
+                <th class="light-text">Primary ${state.races[0].primaryDate}</th>
+                <th class="light-text">All Stories</th>
+                <th class="light-text">Local Stories</th>
             </tr>`;
         return html + self.racesHtml(state.races);
     }
@@ -58,8 +61,8 @@ export class CandidatesHtml {
     candidatesHtml(raceCellHtml, candidates) {
         let html = "";
         candidates.forEach(function(candidate, i) {
-            let bold = candidate.incumbent == "False" ? ""  : 'class="bold"'; 
-        
+            let incumbentBall = candidate.incumbent == "False" ? "" : "⬤ ";
+
             let color = ""; 
             if (candidate.party == "D")
                 color = ' class="blue" ';
@@ -67,9 +70,9 @@ export class CandidatesHtml {
                 color = ' class="red" ';
             
             html += 
-            `<tr onclick="self.select('${candidate.slug}')" ${bold}>
+            `<tr onclick="self.select('${candidate.slug}')">
                 ${(i == 0) ? raceCellHtml : ""}
-                <td ${color}>${candidate.name}</td>
+                <td ${color}>${incumbentBall} ${candidate.name}</td>
                 <td class="number">${candidate.storyCount}</td> 
                 <td class="number">${candidate.localStoryCount}</td>    
             </tr>`
