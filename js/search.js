@@ -82,14 +82,18 @@ let updateDate = new Date("2021/4/24");
 
 let initialLoad = true;
 
-// Is there a better way to do startup?
+
 (function loadPage() {
-    appSlug = location.hash.replace("#", "");
+    // if query string is like: ?candidate=jd-vance  start app with that
+    const params = new URLSearchParams(window.location.search)
+    appSlug = params.get('candidate');
+
     getApps();  
 }) ()
 
 
 export function startApp(slug) {
+
     // Called from popup
     if (slug) {
         appSlug = slug;
@@ -97,13 +101,18 @@ export function startApp(slug) {
 
     console.log("Starting app for " + appSlug);
     d3.json("data/" + appSlug + "/dimensions.json").then(function (data) {
-        setup(data); 
+        renderApp(data); 
     });
     document.getElementById('search-input').focus();
 
     // Kludgy - put in window scope so this can be called from an HREF on generated HTML
     window.setExampleSearch = setExampleSearch;
     window.showStories = showStories; 
+
+    var url = new URL(window.location);
+    url.searchParams.set('candidate', appSlug);
+    console.log(appSlug);
+    window.history.pushState({}, '', url);
 }
 
 
@@ -115,22 +124,6 @@ function getApps() {
         if (!(data.find(d => d.slug === appSlug)))     
             appSlug = data[0].slug; 
         
-        // var dropdownDiv = d3.select("#appDropdown")
-        // dropdownDiv
-        //     .append("select")
-        //     .attr("id", "selectedApp")
-        //     .on("change", function(d) {
-        //         appSlug = d3.select(this).property("value");
-        //         trackAppChange(appSlug);
-        //         startApp();
-        //     })
-		//     .selectAll("option")
-		//     .data(data)
-		//     .enter().append("option")
-		//     .text(d => d.name)
-        //     .attr("value", d => d.slug);
-            
-        // Make dropdown show selected app    
         d3.select("#selectedApp").property("value", appSlug);      
         
         trackInitialApp(appSlug);
@@ -143,7 +136,7 @@ function getApps() {
 }
 
 
-function setup(data) {
+function renderApp(data) {
     appName = data.appName;
     featureId = data.featureId;
 
@@ -178,11 +171,9 @@ function setup(data) {
     showStories(terms.find(d => d.name == appName).id); 
     
     document.getElementById("search-input").focus();
-
-    d3.select("#title-text")
-        .text(appName + " Media Coverage") 
-       
-    d3.select("title").text(appName);
+    
+    d3.select("#title-text").text("Lincoln Project / The Union Media Tracking") 
+    d3.select("title").text("Media Tracking");
 }
 
 function addSvgs() {  
