@@ -6,6 +6,7 @@ import { trackAppChange } from "./track.js";
 export class CandidatesHtml {
 
     candidates = null;
+    states = null;
     self = null;
 
     constructor(div) {
@@ -17,64 +18,64 @@ export class CandidatesHtml {
 
     show(candidates) {
         if (candidates != null) {
-            generateHtml(data); 
+            debugger;
+            this.generateHtml2(data); 
         } else {
-            d3.json("data/candidates.json")
+            d3.json("data/states.json")
                 .then(function (data) {
-                    candidates = data;
-                    self.generateHtml(candidates);
+                    self.states = data;
+                    self.generateHtml(self.states);
             });
         }
-
         self.div.style("display", "block");     
     }
 
-    generateHtml(candidates) {        
+    generateHtml(states) {        
         let html = "";
-        candidates.forEach(function(c) {
-            html += self.candidateHtml(c);
-
+        self.states.forEach(function(s) {
+            html += self.stateHtml(s);
         });
-        self.bodyDiv.html("<table>" + self.headerHtml() + "<body>" + html + "</body></table>");
+        self.bodyDiv.html("<table><body>" + html + "</body></table>");
     }
 
-    // See this for sticky header css
-    // https://css-tricks.com/position-sticky-and-table-headers/
-    headerHtml() {
-        return `
-            <thead>
-                <tr>
-                    <th>State</th>
-                    <th>Race</th>
-                    <th>Candidate</th>
-                    <th>Stories</th>
-                    <th>Local Stories</th>
-                </tr>
-            </thead>
-            `
+    stateHtml(state) {
+        let html =
+            `<tr>
+                <th colspan="4">${state.name}</th>
+            </tr>`;
+        return html + self.racesHtml(state.races);
     }
 
-    candidateHtml(c) {
-        let bold = c.incumbent == "False" ? ""  : 'class="bold"'; 
+    racesHtml(races) {
+        let html = "";
+        races.forEach(function(race) {
+            let raceCellHtml = `<td rowspan="${race.candidates.length}">${race.title}</td>`
+            html += self.candidatesHtml(raceCellHtml, race.candidates);
+        });
+        return html;
+    }
+
+    candidatesHtml(raceCellHtml, candidates) {
+        let html = "";
+        candidates.forEach(function(candidate, i) {
+            let bold = candidate.incumbent == "False" ? ""  : 'class="bold"'; 
         
-        let color = ""; 
-        if (c.party == "D")
-            color = ' class="blue" ';
-        if (c.party == "R")
-            color = ' class="red" ';
-
-        //debugger;
-
-        return `
-            <tr onclick="self.select('${c.slug}')" ${bold}>
-                <td>${c.state}</td>
-                <td>${c.officeTitle}</td>
-                <td ${color}>${c.name}</td>
-                <td class="number">${c.storyCount}</td>
-                <td class="number">${c.localStoryCount}</td>
-            </tr>
-            `
-    }   
+            let color = ""; 
+            if (candidate.party == "D")
+                color = ' class="blue" ';
+            if (candidate.party == "R")
+                color = ' class="red" ';
+            
+            html += 
+            `<tr onclick="self.select('${candidate.slug}')" ${bold}>
+                ${(i == 0) ? raceCellHtml : ""}
+                <td ${color}>${candidate.name}</td>
+                <td class="number">${candidate.storyCount}</td> 
+                <td class="number">${candidate.localStoryCount}</td>    
+            </tr>`
+        });
+        return html;
+    }
 
     select(slug) {     
         trackAppChange(slug);
