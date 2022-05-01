@@ -92,16 +92,16 @@ export class DateChart {
         }
 
         // Election Day
-        // this.svg.append("line")    
-        //     .attr("x1", this.dayScale(new Date('2020-11-07'))) // Election day is the 4th!!
-        //     .attr("y1", top)
-        //     .attr("x2", this.dayScale(new Date('2020-11-07')))
-        //     .attr("y2", bottom)
-        //     .style("stroke", "red")
-        //     .style("stroke-width", 4); 
+        this.svg.append("line")    
+             .attr("x1", this.dayScale(new Date('2022-11-07'))) // Election day is the 4th!!
+             .attr("y1", top)
+             .attr("x2", this.dayScale(new Date('2022-11-07')))
+             .attr("y2", bottom)
+             .style("stroke", "red")
+             .style("stroke-width", 4); 
 
-        //     // Days until election day
-        //     this.text(this.daysUntilElection() + " Days", this.svg, "days-until-election", this.dayScale(new Date('2020-11-07')) - 24, top - 4); 
+             // Days until election day
+             this.text(this.daysUntilElection() + " Days", this.svg, "days-until-election", this.dayScale(new Date('2022-11-08')) - 24, top - 4); 
 
 
         // Light box showing time remaining before election    
@@ -227,7 +227,7 @@ export class DateChart {
     daysUntilElection() {   
         const oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
         const firstDate = new Date();
-        const secondDate = new Date(2020, 10, 3);
+        const secondDate = new Date(2022, 11, 8);
 
         return Math.round(Math.abs((firstDate - secondDate) / oneDay) - .5); 
     }

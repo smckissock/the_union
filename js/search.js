@@ -129,9 +129,11 @@ function getApps() {
         trackInitialApp(appSlug);
 
         startApp();
-        //aboutButton();
+        aboutButton();
         candidatesButton();
-        switchButton()
+        switchButton();
+
+        candidatesHtml = new CandidatesHtml(d3.select("#candidates-backdrop"));
     });
 }
 
@@ -162,7 +164,7 @@ function renderApp(data) {
     storyChart = new StoryChart(mediaSvg, storyGroup, page.dateScale, eventChart);
     storyHtml = new StoryHtml(d3.select("#story-box"));
     listingHtml = new ListingHtml(d3.select("#listing-box"));
-    candidatesHtml = new CandidatesHtml(d3.select("#candidates-backdrop"));
+    //candidatesHtml = new CandidatesHtml(d3.select("#candidates-backdrop"));
     
     getExampleTerms(terms);
     setWord(appName);
@@ -618,16 +620,8 @@ function candidatesButton() {
 }
 
 function showCandidatesModal() {
-    
-    //let mdl = d3.select("#candidates-backdrop") 
-    //    .style("display", "block")
-
-    candidatesHtml.show(null);    
-
-    //var modal = document.getElementById("candidates-backdrop");
-   // modal.style.display = "block";
+    candidatesHtml.show();    
 }
-
 
 
 function aboutButton() {

@@ -66,7 +66,6 @@
   }
 
   tr:hover {
-    /* background-color: #ffff99; yellow */
     background-color: #CDCDCD;
     cursor: pointer;
     font-weight: bold

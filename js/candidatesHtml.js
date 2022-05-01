@@ -4,11 +4,10 @@ import { trackAppChange } from "./track.js";
 
 
 export class CandidatesHtml {
-
-    candidates = null;
-    states = null;
+    
     self = null;
-
+    states = null;
+    
     constructor(div) {
         self = this;
         
@@ -16,24 +15,32 @@ export class CandidatesHtml {
         this.bodyDiv = div.select(".candidates-content")
     }
 
-    show(candidates) {
-        if (candidates != null) {
-            debugger;
-            this.generateHtml2(data); 
+    show() {
+
+        if (self.states != null) {
+            self.generateHtml(self.states); 
         } else {
             d3.json("data/states.json")
                 .then(function (data) {
                     self.states = data;
+
+                    data.forEach(state => {
+                        state.races.forEach(race => {
+                            race.candidates.forEach(candidate => {
+                                candidate.race = race;
+                            });
+                        });
+                    }); 
                     self.generateHtml(self.states);
-            });
+                });
         }
         self.div.style("display", "block");     
     }
 
     generateHtml(states) {        
         let html = "";
-        self.states.forEach(function(s) {
-            html += self.stateHtml(s);
+        self.states.forEach(state => {
+            html += self.stateHtml(state);
         });
         self.bodyDiv.html("<table><body>" + html + "</body></table>");
     }
@@ -51,7 +58,7 @@ export class CandidatesHtml {
 
     racesHtml(races) {
         let html = "";
-        races.forEach(function(race) {
+        races.forEach(race => {
             let raceCellHtml = `<td rowspan="${race.candidates.length}">${race.title}</td>`
             html += self.candidatesHtml(raceCellHtml, race.candidates);
         });
@@ -60,7 +67,7 @@ export class CandidatesHtml {
 
     candidatesHtml(raceCellHtml, candidates) {
         let html = "";
-        candidates.forEach(function(candidate, i) {
+        candidates.forEach((candidate, i) => {
             let incumbentBall = candidate.incumbent == "False" ? "" : "⬤ ";
 
             let color = ""; 
