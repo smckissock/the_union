@@ -137,7 +137,8 @@ export class DateChart {
         // else
         //     brush.move(this.brushGroup, brushExtent);
 
-        brush.move(this.brushGroup, [10, 110]);
+        // Ugh - need to calculate this based on today's date
+        brush.move(this.brushGroup, [250, 350]);
 
         
         // Prevent resizing of brush

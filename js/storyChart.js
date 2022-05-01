@@ -354,8 +354,8 @@ export class StoryChart {
 
                 this.storySvg.append("text")
                     .classed("background-month-large", true)
-                    .attr("y", 140)
-                    .attr("x", this.xScale(day) + 15)
+                    .attr("y", 180)
+                    .attr("x", this.xScale(day) + 35)
                     //.attr("transform", 'rotate(45)') 
                     .text(monthNames[monthIndex]);
             }
