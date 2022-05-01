@@ -1,4 +1,4 @@
-import { storyChart, mediaList, searchTerm, terms, cleanSearchTerm, storiesMap, storySelect, biasColors, storyGroup, startApp } from './search.js';
+import { storyChart, mediaList, searchTerm, terms, cleanSearchTerm, storiesMap, storySelect, biasColors, storyGroup, startApp, states } from './search.js';
 import { insert, formatDate } from './shared.js';
 import { trackAppChange } from "./track.js";
 
@@ -6,7 +6,7 @@ import { trackAppChange } from "./track.js";
 export class CandidatesHtml {
     
     self = null;
-    states = null;
+    //states = null;
     
     constructor(div) {
         self = this;
@@ -16,30 +16,13 @@ export class CandidatesHtml {
     }
 
     show() {
-
-        if (self.states != null) {
-            self.generateHtml(self.states); 
-        } else {
-            d3.json("data/states.json")
-                .then(function (data) {
-                    self.states = data;
-
-                    data.forEach(state => {
-                        state.races.forEach(race => {
-                            race.candidates.forEach(candidate => {
-                                candidate.race = race;
-                            });
-                        });
-                    }); 
-                    self.generateHtml(self.states);
-                });
-        }
-        self.div.style("display", "block");     
+        self.generateHtml(states);
+        self.div.style("display", "block");         
     }
 
     generateHtml(states) {        
         let html = "";
-        self.states.forEach(state => {
+        states.forEach(state => {
             html += self.stateHtml(state);
         });
         self.bodyDiv.html("<table><body>" + html + "</body></table>");
@@ -87,7 +70,7 @@ export class CandidatesHtml {
         return html;
     }
 
-    select(slug) {     
+    select(slug) {  
         trackAppChange(slug);
         startApp(slug);
 

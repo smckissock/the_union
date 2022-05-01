@@ -4,11 +4,12 @@ import { page, selectedDatesHeight, barColor, storyGroup, eventGroup } from "./s
 
 export class DateChart {
 
-    constructor(svg, monthScale, weekScale, dayScale) {
+    constructor(svg, monthScale, weekScale, dayScale, importantDays) {
         this.svg = svg;
         this.monthScale = monthScale;
         this.weekScale = weekScale;
         this.dayScale = dayScale;
+        this.importantDays = importantDays;
 
         this.brushGroup; 
         this.monthLabel;  
@@ -20,7 +21,6 @@ export class DateChart {
 
         const top = 14;
         const bottom = 112;
-
 
         let brushExtent; 
         if (!this.loading) 
@@ -92,17 +92,8 @@ export class DateChart {
         }
 
         // Election Day
-        this.svg.append("line")    
-             .attr("x1", this.dayScale(new Date('2022-11-07'))) // Election day is the 4th!!
-             .attr("y1", top)
-             .attr("x2", this.dayScale(new Date('2022-11-07')))
-             .attr("y2", bottom)
-             .style("stroke", "red")
-             .style("stroke-width", 4); 
-
-             // Days until election day
-             this.text(this.daysUntilElection() + " Days", this.svg, "days-until-election", this.dayScale(new Date('2022-11-08')) - 24, top - 4); 
-
+        this.addDayLines(top, bottom);
+       
 
         // Light box showing time remaining before election    
         // this.svg.append("rect")    
@@ -146,6 +137,22 @@ export class DateChart {
         d3.selectAll('.brush>.overlay').remove();
 
         this.loading = false;
+    }
+
+    // Vertical lines for specific days (e.g. election day)
+    addDayLines(top, bottom) {
+        this.importantDays.forEach(day => {
+            this.svg.append("line")    
+                .attr("x1", this.dayScale(day.date)) 
+                .attr("y1", top)
+                .attr("x2", this.dayScale(day.date))
+                .attr("y2", bottom)
+                .style("stroke", "red")
+                .style("stroke-width", 4); 
+
+            const label = day.name + " " + (day.date.getMonth() + 1) +  "/" + (day.date.getDate() + 1);
+            this.text(label, this.svg, "days-until-election", this.dayScale(day.date) - 31, top - 4); 
+        });
     }
 
     brushMove() {

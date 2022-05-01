@@ -86,10 +86,8 @@ export class ListingHtml {
     authorLabel(author = "") {
         if (!author)
             return "";
-        
         return "by " + author;    
     } 
-
 
     showStoryHtml(storyId) {
         const story = stories.find(d => d.id = storyId); 

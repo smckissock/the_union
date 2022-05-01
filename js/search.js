@@ -9,6 +9,7 @@ export let storySvg;
 export let terms;
 export let stories;
 export let storiesMap;
+export let states;
 //export let startApp;
 
 export const biasColors = {
@@ -117,12 +118,30 @@ export function startApp(slug) {
 
 
 function getApps() {
+    // Uee when we need more than one file at startup
+    // Promise.all([
+    //     d3.json("data/apps.json"),
+    //     d3.json("data/states.json")
+    // ]).then(function(data) {
+    //      data is array from the files
+    // });
+
             
-    d3.json("data/apps.json").then(function (data) {
+    d3.json("data/states.json").then(data => {
+        states = data;
+
+        // Add field for each candidate's race
+        states.forEach(state => {
+            state.races.forEach(race => {
+                race.candidates.forEach(candidate => {
+                    candidate.race = race;
+                });
+            });
+        }); 
         
-        // If they didn't have an app slug (e.g. "#niskanen-center") in the URL, use the first app in the list  
+        // If they didn't have an app slug (e.g. "liz-cheney") in the URL, use the first app in the list  
         if (!(data.find(d => d.slug === appSlug)))     
-            appSlug = data[0].slug; 
+            appSlug = states[0].races[0].candidates[0].slug; 
         
         d3.select("#selectedApp").property("value", appSlug);      
         
@@ -154,7 +173,12 @@ function renderApp(data) {
     addSvgs();
     addDateScales(data);
 
-    dateChart = new DateChart(dateSvg, page.monthScale, page.weekScale, page.dayScale); 
+    let importantDays = [ 
+        {name: "Primary", date: new Date(getCandidate(appSlug).race.primaryDate)},
+        {name: "General", date: new Date("2022-11-08")}
+     ]
+
+    dateChart = new DateChart(dateSvg, page.monthScale, page.weekScale, page.dayScale, importantDays); 
 
     if (data.events.length != 0) {
         eventChart = new EventChart(eventLabelSvg, eventSvg, eventGroup, page.dateScale, data.events, storyGroup);
@@ -164,12 +188,10 @@ function renderApp(data) {
     storyChart = new StoryChart(mediaSvg, storyGroup, page.dateScale, eventChart);
     storyHtml = new StoryHtml(d3.select("#story-box"));
     listingHtml = new ListingHtml(d3.select("#listing-box"));
-    //candidatesHtml = new CandidatesHtml(d3.select("#candidates-backdrop"));
     
     getExampleTerms(terms);
     setWord(appName);
-
-    //const appName2 = (appName === "Lincoln Project") ? "The Lincoln Project" : appName;  
+  
     showStories(terms.find(d => d.name == appName).id); 
     
     document.getElementById("search-input").focus();
@@ -216,9 +238,7 @@ function addSvgs() {
 }
 
 function addDateScales() {
-    //let firstMonth = 85; // Dec 2019
-    //let lastMonth = 97;  // Nov 2020
-    
+        
     let firstMonth = 109; // Dec 2021
     let lastMonth = 121;  // Nov 2022
     
@@ -713,4 +733,18 @@ function getExampleTerms() {
 
 function clearAll() {
     document.getElementById("search-input").value = "";
+}
+
+function getCandidate(slug) {
+    let match = null;
+    states.forEach(state => {
+        state.races.forEach(race => {
+            race.candidates.forEach(candidate => {
+                if (candidate.slug == slug) {
+                    match = candidate;
+                }
+            });
+        });
+    });
+    return match; 
 }

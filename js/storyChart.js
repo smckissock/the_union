@@ -280,11 +280,6 @@ export class StoryChart {
     }
 
     moveStoryCursor(d) {
-        // 7/14/2020 This should also:
-        // Move the brush so story is visible
-        // Scroll story area vertically to make story visible
-
-
         // Don't know why this is not always set
         d.dateObject = new Date(d.date);
 
@@ -330,15 +325,12 @@ export class StoryChart {
             this.storySvg.append("text")
                 .classed("month-day", true)
                 .attr("y", 10)
-                .attr("x", this.xScale(day) + 4)
-                //.text("1")
+                .attr("x", this.xScale(day) + 4)                
                 .text(day.getDate());
             this.storySvg.append("text")
                 .classed("month-day", true)
                 .attr("y", 22)
                 .attr("x", this.xScale(day) + 4)
-            //.text(day.getDay() + 1);
-            //.text("0");
 
             const newMonthIndex = (day.getFullYear() === 2021) ? 0 : day.getMonth() + 1;
             if (newMonthIndex !== monthIndex) {
