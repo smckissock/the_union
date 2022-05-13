@@ -79,7 +79,7 @@ let storyHtml = null;
 let listingHtml = null;
 let candidatesHtml = null;
 
-let updateDate = new Date("2021/4/24"); 
+let updateDate = new Date("2021/5/13"); 
 
 let initialLoad = true;
 
@@ -126,6 +126,7 @@ function getApps() {
     //      data is array from the files
     // });
 
+    console.log("getApps()");
             
     d3.json("data/states.json").then(data => {
         states = data;

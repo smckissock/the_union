@@ -34,7 +34,6 @@ export class CandidatesHtml {
                 <th class="big-text" colspan="1">${state.name}</th>
                 <th class="light-text">Primary ${state.races[0].primaryDate}</th>
                 <th class="light-text">All Stories</th>
-                <th class="light-text">Local Stories</th>
             </tr>`;
         return html + self.racesHtml(state.races);
     }
@@ -63,8 +62,7 @@ export class CandidatesHtml {
             `<tr onclick="self.select('${candidate.slug}')">
                 ${(i == 0) ? raceCellHtml : ""}
                 <td ${color}>${incumbentBall} ${candidate.name}</td>
-                <td class="number">${candidate.storyCount}</td> 
-                <td class="number">${candidate.localStoryCount}</td>    
+                <td class="number">${candidate.storyCount}</td>
             </tr>`
         });
         return html;
