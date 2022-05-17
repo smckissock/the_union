@@ -2,7 +2,230 @@
   "appName": "Catherine Davis",
   "appSlug": "catherine-davis",
   "featureId": 0,
-  "terms": [],
+  "terms": [
+    {
+      "id": 146,
+      "name": "Democratic Party",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 226,
+      "name": "Georgia Public Broadcasting",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 227,
+      "name": "Georgia Republican Party",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 234,
+      "name": "Getty Images",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 428,
+      "name": "Republican Party",
+      "type": "Organization",
+      "stories": 14
+    },
+    {
+      "id": 501,
+      "name": "The Atlanta Journal-Constitution",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 539,
+      "name": "Twitter",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 571,
+      "name": "United States Senate",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 883,
+      "name": "Marjorie Taylor Greene",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 946,
+      "name": "Josh Mandel",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 1248,
+      "name": "Elizabeth Cheney",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1320,
+      "name": "Jenni Sweat",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1646,
+      "name": "David Purdue",
+      "type": "Person",
+      "stories": 14
+    },
+    {
+      "id": 1650,
+      "name": "Zachary Taylor",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1664,
+      "name": "Catherine Davis",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 1665,
+      "name": "Mekan Saparow",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1710,
+      "name": "Ted Cruz",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1896,
+      "name": "Tom Williams",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1951,
+      "name": "Stacey Abrams",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2027,
+      "name": "Matt Dolan",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2095,
+      "name": "Brian Kemp",
+      "type": "Person",
+      "stories": 14
+    },
+    {
+      "id": 2203,
+      "name": "Brad Raffensperger",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2230,
+      "name": "Jon Ossoff",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2355,
+      "name": "Vernon Jones",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2466,
+      "name": "Jane Timken",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 3082,
+      "name": "Kandiss Taylor",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2555,
+      "name": "Atlanta",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2609,
+      "name": "Cincinnati",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2623,
+      "name": "Columbus",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2624,
+      "name": "Commerce",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2661,
+      "name": "Florida",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2672,
+      "name": "Georgia",
+      "type": "Place",
+      "stories": 14
+    },
+    {
+      "id": 2845,
+      "name": "Ohio",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2900,
+      "name": "Savannah",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2935,
+      "name": "Toledo",
+      "type": "Place",
+      "stories": 2
+    }
+  ],
   "media": [
     {
       "id": 11,

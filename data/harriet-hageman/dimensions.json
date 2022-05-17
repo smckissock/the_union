@@ -4,208 +4,2908 @@
   "featureId": 0,
   "terms": [
     {
+      "id": 17,
+      "name": "American Conservative Union",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 24,
+      "name": "Anedot",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 33,
+      "name": "Arizona Democratic Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 68,
+      "name": "Blue Rhino",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 75,
+      "name": "Bureau of Engraving and Printing",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 78,
+      "name": "Business Insider",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 86,
+      "name": "Casper Star-Tribune",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 89,
+      "name": "CBS News",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 101,
+      "name": "Citizens' Action Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 102,
+      "name": "Clarium Capital",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 104,
+      "name": "Clark County Commission",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 105,
+      "name": "Club for Growth",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 106,
+      "name": "CNN",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 118,
+      "name": "Congressional Leadership Fund",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 124,
+      "name": "Constitution Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 128,
+      "name": "CPAC",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 141,
+      "name": "Democratic Caucus of the United States Senate",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 142,
+      "name": "Democratic Congressional Campaign Committee",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 144,
+      "name": "Democratic Majority For Israel",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 145,
+      "name": "Democratic National Committee",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
       "id": 146,
       "name": "Democratic Party",
-      "type": "Democratic Party",
-      "stories": 100
+      "type": "Organization",
+      "stories": 74
+    },
+    {
+      "id": 150,
+      "name": "Democratic Socialists of America",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 177,
+      "name": "Facebook",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 182,
+      "name": "Federal Bureau of Investigation",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 183,
+      "name": "Federal Election Commission",
+      "type": "Organization",
+      "stories": 34
+    },
+    {
+      "id": 200,
+      "name": "Fox News",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 204,
+      "name": "Freedom Caucus",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 211,
+      "name": "George Mason University",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 227,
+      "name": "Georgia Republican Party",
+      "type": "Organization",
+      "stories": 2
     },
     {
       "id": 234,
       "name": "Getty Images",
-      "type": "Getty Images",
-      "stories": 100
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 248,
+      "name": "Heritage Action for America",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 254,
+      "name": "House of Representatives of the Philippines",
+      "type": "Organization",
+      "stories": 4
     },
     {
       "id": 255,
       "name": "House Republicans",
-      "type": "House Republicans",
-      "stories": 100
+      "type": "Organization",
+      "stories": 12
+    },
+    {
+      "id": 261,
+      "name": "Insider Inc.",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 272,
+      "name": "Jackson Hole Mountain Resort",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 295,
+      "name": "Major League Baseball",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 296,
+      "name": "Mar-a-Lago",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 308,
+      "name": "Michigan Republican Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 327,
+      "name": "MSNBC",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 329,
+      "name": "My Pillow",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 334,
+      "name": "National Committee",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 337,
+      "name": "National Republican Congressional Committee",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 343,
+      "name": "National Security Agency",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 372,
+      "name": "North Carolina Utilities Commission",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 376,
+      "name": "Oath Keepers",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 378,
+      "name": "Office of Congressional Ethics",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 380,
+      "name": "Ohio Senate",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 389,
+      "name": "Pan Africanist Congress of Azania",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 393,
+      "name": "Pennsylvania State Senate",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 400,
+      "name": "Planned Parenthood",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 403,
+      "name": "Politico",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 405,
+      "name": "Presidents' Athletic Conference",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 422,
+      "name": "Republican Conference of the United States House of Representatives",
+      "type": "Organization",
+      "stories": 22
     },
     {
       "id": 427,
       "name": "Republican National Committee",
-      "type": "Republican National Committee",
-      "stories": 100
+      "type": "Organization",
+      "stories": 92
     },
     {
       "id": 428,
       "name": "Republican Party",
-      "type": "Republican Party",
-      "stories": 100
+      "type": "Organization",
+      "stories": 285
+    },
+    {
+      "id": 459,
+      "name": "South Carolina Republican Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 472,
+      "name": "Stop Trump movement",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 473,
+      "name": "Strategic Petroleum Reserve",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 482,
+      "name": "Supreme Court of the United States",
+      "type": "Organization",
+      "stories": 3
+    },
+    {
+      "id": 485,
+      "name": "Taliban",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 509,
+      "name": "The Daily Caller",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 516,
+      "name": "The New Republic",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 517,
+      "name": "The New York Times",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 523,
+      "name": "The Wall Street Journal",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 525,
+      "name": "The Washington Post",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 527,
+      "name": "Thiel Foundation",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 542,
+      "name": "United States Army",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 545,
+      "name": "United States Congress",
+      "type": "Organization",
+      "stories": 32
+    },
+    {
+      "id": 548,
+      "name": "United States Department of Defense",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 549,
+      "name": "United States Department of Homeland Security",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 550,
+      "name": "United States Department of Justice",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 556,
+      "name": "United States Electoral College",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 557,
+      "name": "United States Environmental Protection Agency",
+      "type": "Organization",
+      "stories": 4
     },
     {
       "id": 562,
       "name": "United States House of Representatives",
-      "type": "United States House of Representatives",
+      "type": "Organization",
       "stories": 100
+    },
+    {
+      "id": 565,
+      "name": "United States Marine Corps",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 567,
+      "name": "United States Naval Academy",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 571,
+      "name": "United States Senate",
+      "type": "Organization",
+      "stories": 41
+    },
+    {
+      "id": 573,
+      "name": "United States Senate Committee on Appropriations",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 592,
+      "name": "University of Southern California",
+      "type": "Organization",
+      "stories": 2
     },
     {
       "id": 600,
       "name": "US Senate",
-      "type": "US Senate",
-      "stories": 100
+      "type": "Organization",
+      "stories": 10
+    },
+    {
+      "id": 613,
+      "name": "Washington Examiner",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 615,
+      "name": "Washington State Republican Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 627,
+      "name": "World Health Organization",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 630,
+      "name": "Wyoming Democratic Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 631,
+      "name": "Wyoming House of Representatives",
+      "type": "Organization",
+      "stories": 2
     },
     {
       "id": 633,
       "name": "Wyoming Republican Party",
-      "type": "Wyoming Republican Party",
-      "stories": 100
+      "type": "Organization",
+      "stories": 40
+    },
+    {
+      "id": 641,
+      "name": "Michele Woodhouse",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 643,
+      "name": "Scooter Libby",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 651,
+      "name": "Perry Johnson",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 652,
+      "name": "Mike Lee",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 661,
+      "name": "Ron DeSantis",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 676,
+      "name": "James Lambert",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 677,
+      "name": "Luke Thompson",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 678,
+      "name": "Maggie Hassan",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 682,
+      "name": "Rodney Davis",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 688,
+      "name": "Joe Crowley",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 693,
+      "name": "Jim McLaughlin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 701,
+      "name": "Dave McCormick",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 704,
+      "name": "Elizabeth Warren",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 717,
+      "name": "Paul Ryan",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 723,
+      "name": "Maggie Haberman",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 724,
+      "name": "Tom Brady",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 727,
+      "name": "Lucy McBath",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 729,
+      "name": "Cheri Beasley",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 730,
+      "name": "Richard Armitage",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 732,
       "name": "Jeremy Adler",
-      "type": "Jeremy Adler",
-      "stories": 100
+      "type": "Person",
+      "stories": 18
+    },
+    {
+      "id": 736,
+      "name": "Vicki Kraft",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 741,
+      "name": "Alex Lasry",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 743,
+      "name": "Denver Riggleman",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 746,
+      "name": "Bobbie Kilberg",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 750,
+      "name": "Michael DuHaime",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 753,
+      "name": "Jamie Raskin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 754,
+      "name": "Penny Pritzker",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 761,
+      "name": "Chris Christie",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 769,
+      "name": "Jeff Fortenberry",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 774,
+      "name": "Antonio Delgado",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 794,
+      "name": "Letitia James",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 795,
+      "name": "Jonathan Capehart",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 798,
+      "name": "Haley Stevens",
+      "type": "Person",
+      "stories": 1
     },
     {
       "id": 799,
       "name": "Jim Jordan",
-      "type": "Jim Jordan",
-      "stories": 100
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 800,
+      "name": "Ken Paxton",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 802,
+      "name": "Sarah Godlewski",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 815,
+      "name": "Herschel Walker",
+      "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 819,
+      "name": "Mike DeWine",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 821,
+      "name": "Chuck Edwards",
+      "type": "Person",
+      "stories": 7
     },
     {
       "id": 826,
       "name": "Anthony Bouchard",
-      "type": "Anthony Bouchard",
-      "stories": 100
+      "type": "Person",
+      "stories": 13
+    },
+    {
+      "id": 827,
+      "name": "John Roberts",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 830,
+      "name": "Peter Navarro",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 837,
+      "name": "Stephen Singiser",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 865,
+      "name": "Nick Schifrin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 871,
+      "name": "Carolyn Maloney",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 873,
+      "name": "Pam Bondi",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 884,
+      "name": "Elissa Slotkin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 891,
+      "name": "Myron Ebell",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 895,
+      "name": "Kamala Harris",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 899,
+      "name": "Bryce Reeves",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 900,
+      "name": "Jeffrey Epstein",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 903,
+      "name": "Duncan D. Hunter",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 911,
+      "name": "Sean Casten",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 920,
+      "name": "Jake Tapper",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 928,
+      "name": "Brian Flores",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 944,
+      "name": "Foster Friess",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 945,
       "name": "Dick Cheney",
-      "type": "Dick Cheney",
-      "stories": 100
+      "type": "Person",
+      "stories": 39
+    },
+    {
+      "id": 946,
+      "name": "Josh Mandel",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 947,
+      "name": "Saddam Hussein",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 949,
+      "name": "Harmeet Dhillon",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 967,
+      "name": "Joe Scarborough",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 968,
+      "name": "Eric Trump",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 969,
+      "name": "Dan Patrick",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 979,
+      "name": "Richard Grenell",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 982,
+      "name": "Josh Dawsey",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 984,
+      "name": "George P. Bush",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1001,
+      "name": "Lou Dobbs",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1007,
+      "name": "Stephen Wolf",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1021,
+      "name": "Devin Nunes",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1022,
+      "name": "Eric Schmitt",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1026,
+      "name": "Lisa Murkowski",
+      "type": "Person",
+      "stories": 22
+    },
+    {
+      "id": 1027,
+      "name": "Julia Edwards",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1028,
+      "name": "Denton Knapp",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1030,
+      "name": "Rodney L. Davis",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1035,
+      "name": "Marc Short",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1039,
+      "name": "Mark Randall Meadows",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1043,
+      "name": "Claudia Tenney",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1046,
+      "name": "Barbara Comstock",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1053,
+      "name": "Donald Trump Jr.",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 1064,
+      "name": "Tom Rice",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 1078,
+      "name": "George W. Bush",
+      "type": "Person",
+      "stories": 26
+    },
+    {
+      "id": 1080,
+      "name": "Lovie Smith",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1081,
+      "name": "Adam Schiff",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1082,
+      "name": "Kari Lake",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1090,
+      "name": "Paul Gosar",
+      "type": "Person",
+      "stories": 4
     },
     {
       "id": 1095,
       "name": "Elise Stefanik",
-      "type": "Elise Stefanik",
-      "stories": 100
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 1096,
+      "name": "Matt Gonzalez",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1098,
+      "name": "Michael Steele",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1101,
+      "name": "Newt Gingrich",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1102,
+      "name": "Bob Dole",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1109,
+      "name": "Joe Cunningham",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1119,
+      "name": "Blake Masters",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1121,
+      "name": "Tim Ramthun",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1125,
+      "name": "Hubert Maga",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1130,
+      "name": "Rand Paul",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1136,
+      "name": "Raphael Warnock",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1139,
+      "name": "Vicente GonzÃ¡lez",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1141,
+      "name": "Tim Scott",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1145,
+      "name": "Rudy Giuliani",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 1147,
       "name": "Donald Trump",
-      "type": "Donald Trump",
-      "stories": 100
+      "type": "Person",
+      "stories": 300
+    },
+    {
+      "id": 1148,
+      "name": "Sean Hannity",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1154,
+      "name": "Alexandria Ocasio-Cortez",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1158,
+      "name": "Hillary Clinton",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1159,
+      "name": "Nicholas Kristof",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1168,
+      "name": "Jens Stoltenberg",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 1170,
       "name": "David Bossie",
-      "type": "David Bossie",
-      "stories": 100
+      "type": "Person",
+      "stories": 14
+    },
+    {
+      "id": 1197,
+      "name": "Chris Burns",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1202,
+      "name": "Ron Watkins",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1209,
+      "name": "Sheldon Adelson",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1223,
+      "name": "Jen Psaki",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1227,
+      "name": "Tim Murtaugh",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1232,
+      "name": "J.B. Pritzker",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1237,
+      "name": "Roger Stone",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1238,
+      "name": "Mark Amodei",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 1248,
       "name": "Elizabeth Cheney",
-      "type": "Elizabeth Cheney",
-      "stories": 100
+      "type": "Person",
+      "stories": 312
+    },
+    {
+      "id": 1284,
+      "name": "Doug Ducey",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1299,
+      "name": "Carolyn Fiddler",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1306,
+      "name": "Tony Fabrizio",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1332,
+      "name": "David McKinley",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1333,
+      "name": "Cory Booker",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 1335,
       "name": "Nancy Pelosi",
-      "type": "Nancy Pelosi",
-      "stories": 100
+      "type": "Person",
+      "stories": 41
+    },
+    {
+      "id": 1341,
+      "name": "Chuck Schumer",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1374,
+      "name": "Mike J. Dunleavy",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1375,
+      "name": "Kimberly Guilfoyle",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1380,
+      "name": "Vaughn Hillyard",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1384,
+      "name": "Ryan Zinke",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1385,
+      "name": "John C. Eastman",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1394,
+      "name": "Gavin Newsom",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1404,
+      "name": "Ted Budd",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1413,
+      "name": "Kelli Ward",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1416,
+      "name": "Andrew R. Wheeler",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1434,
+      "name": "Mike Pence",
+      "type": "Person",
+      "stories": 18
+    },
+    {
+      "id": 1436,
+      "name": "Mike Rounds",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1437,
+      "name": "Ryan Lizza",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1448,
+      "name": "Josh Hawley",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1454,
+      "name": "Arjun Jaikumar",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1459,
+      "name": "Henry Cuellar",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1461,
+      "name": "Stephen Stepanek",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1464,
+      "name": "Lindsey Graham",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1467,
+      "name": "Bill Shuster",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 1468,
       "name": "Jim Banks",
-      "type": "Jim Banks",
-      "stories": 100
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1480,
+      "name": "David Beard",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1501,
+      "name": "Volodymyr Zelenskyy",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1505,
+      "name": "Matthew Stafford",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1506,
+      "name": "Mark Zuckerberg",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1519,
+      "name": "Bo Biteman",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 1523,
       "name": "Kristi Noem",
-      "type": "Kristi Noem",
-      "stories": 100
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1544,
+      "name": "Russell Fry",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1545,
+      "name": "Magnifico",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1563,
+      "name": "Nancy Mace",
+      "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 1564,
+      "name": "Rebecca Dow",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1572,
+      "name": "Val Demings",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1577,
+      "name": "Matt Gaetz",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1585,
+      "name": "Alan K. Simpson",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1591,
+      "name": "Michelle Lujan Grisham",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 1609,
       "name": "Kevin McCarthy",
-      "type": "Kevin McCarthy",
-      "stories": 100
+      "type": "Person",
+      "stories": 112
+    },
+    {
+      "id": 1614,
+      "name": "Fred Upton",
+      "type": "Person",
+      "stories": 20
+    },
+    {
+      "id": 1619,
+      "name": "Jim Inhofe",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1622,
+      "name": "Conor Lamb",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1634,
+      "name": "Alexander Vindman",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1646,
+      "name": "David Purdue",
+      "type": "Person",
+      "stories": 14
+    },
+    {
+      "id": 1647,
+      "name": "Hunter Biden",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1667,
+      "name": "Gerald Ford",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1681,
+      "name": "Patty Murray",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1682,
+      "name": "Ryan Kelley",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1685,
+      "name": "Ronna Romney McDaniel",
+      "type": "Person",
+      "stories": 38
+    },
+    {
+      "id": 1699,
+      "name": "Tom Jones",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1710,
+      "name": "Ted Cruz",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1711,
+      "name": "Antony Blinken",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 1720,
+      "name": "Bill Palatucci",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1732,
+      "name": "Eric Swalwell",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1745,
+      "name": "Jay Kemmerer",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1748,
+      "name": "Valerie Plame",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1749,
+      "name": "Benjamin Franklin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1753,
+      "name": "Rebecca Cloetta",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1758,
+      "name": "Glenn Youngkin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1761,
+      "name": "Charlie Crist",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1765,
+      "name": "Mitch McConnell",
+      "type": "Person",
+      "stories": 18
+    },
+    {
+      "id": 1770,
+      "name": "John Fetterman",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1796,
+      "name": "Larry Hogan",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 1801,
       "name": "J. D. Vance",
-      "type": "J. D. Vance",
-      "stories": 100
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 1813,
+      "name": "Ronald Reagan",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1827,
+      "name": "Mario Draghi",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1832,
+      "name": "Arlan Stangeland",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1839,
+      "name": "Steve Bannon",
+      "type": "Person",
+      "stories": 20
+    },
+    {
+      "id": 1844,
+      "name": "James Craig",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1846,
+      "name": "Eddie Rodriguez",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1850,
+      "name": "Mike Lindell",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1852,
+      "name": "Kris Kobach",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1854,
+      "name": "Sean Eathorne",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1862,
+      "name": "Markos Moulitsas",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1865,
+      "name": "Stephen Breyer",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1875,
+      "name": "Gus Bilirakis",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1877,
+      "name": "Steve Scalise",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1878,
+      "name": "Pat McCrory",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1881,
+      "name": "Chris Taylor",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1890,
+      "name": "Tom Cole",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1892,
+      "name": "Theodore Olson",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1895,
+      "name": "Dan K. Eberhart",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1896,
+      "name": "Tom Williams",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1901,
+      "name": "Peter Meijer",
+      "type": "Person",
+      "stories": 18
+    },
+    {
+      "id": 1905,
+      "name": "Michael Waltz",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1909,
+      "name": "Brett Lindstrom",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1915,
+      "name": "David Brooks",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1921,
+      "name": "Tom Tancredo",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1930,
+      "name": "Richard Nixon",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1931,
+      "name": "Tom Hagedorn",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1951,
+      "name": "Stacey Abrams",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1970,
+      "name": "Judy Woodruff",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1983,
+      "name": "Bill Huizenga",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1989,
+      "name": "Cynthia Lummis",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1997,
+      "name": "William M. McSwain",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1999,
+      "name": "Elaine Luria",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2002,
+      "name": "Tudor Dixon",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2005,
+      "name": "Anthony Gonzalez",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 2006,
+      "name": "Joe Kent",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2010,
+      "name": "John Katko",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2030,
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "stories": 20
+    },
+    {
+      "id": 2034,
+      "name": "Susan Collins",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 2038,
       "name": "Mike Bost",
-      "type": "Mike Bost",
-      "stories": 100
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2039,
+      "name": "Mandela Barnes",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2052,
+      "name": "Bennie Thompson",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2062,
+      "name": "Abigail Spanberger",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2068,
+      "name": "Karoline Leavitt",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2069,
+      "name": "Tim Walz",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2074,
+      "name": "Dan Newhouse",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2077,
+      "name": "Steny Hoyer",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 2087,
       "name": "Joe Biden",
-      "type": "Joe Biden",
-      "stories": 100
+      "type": "Person",
+      "stories": 104
+    },
+    {
+      "id": 2092,
+      "name": "John F. Harris",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2095,
+      "name": "Brian Kemp",
+      "type": "Person",
+      "stories": 28
+    },
+    {
+      "id": 2107,
+      "name": "Rosa DeLauro",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2117,
+      "name": "Katie Arrington",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2121,
+      "name": "Guy Reschenthaler",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2125,
+      "name": "Jaime Herrera Beutler",
+      "type": "Person",
+      "stories": 22
+    },
+    {
+      "id": 2129,
+      "name": "Mark Sanford",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 2130,
       "name": "Jeff Miller",
-      "type": "Jeff Miller",
-      "stories": 100
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2131,
+      "name": "Michael Flynn",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2132,
+      "name": "Bill Stepien",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2136,
+      "name": "Pete Ricketts",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2137,
+      "name": "Sean Parnell",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2140,
+      "name": "Roy Cooper",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2141,
+      "name": "Mark Gordon",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2150,
+      "name": "Jeb Bush",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2156,
+      "name": "Steve Israel",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2157,
+      "name": "Dmitry Peskov",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2158,
+      "name": "Winston Churchill",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2159,
+      "name": "Lloyd Austin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2164,
+      "name": "Harry Reid",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2171,
+      "name": "Michael Brown",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2178,
+      "name": "Kelly Tshibaka",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 2179,
+      "name": "Max Rose",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2182,
+      "name": "John Cornyn",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2183,
+      "name": "Chuck Todd",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2192,
+      "name": "Andrew Cuomo",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2195,
+      "name": "Nikki Haley",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2199,
+      "name": "Hillary Schieve",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2203,
+      "name": "Brad Raffensperger",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2211,
+      "name": "Filemon Vela, Sr.",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2213,
+      "name": "George Soros",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2214,
+      "name": "Adam Kinzinger",
+      "type": "Person",
+      "stories": 96
+    },
+    {
+      "id": 2215,
+      "name": "David M. McIntosh",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2216,
+      "name": "Jen Kiggans",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2224,
+      "name": "Jeremy Ben-Ami",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2231,
+      "name": "Andy Harris",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2239,
+      "name": "John Pritzker",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2240,
+      "name": "Ivanka Trump",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2244,
+      "name": "Dan Scavino",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2246,
+      "name": "Geoff Duncan",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2249,
+      "name": "Beth Van Duyne",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2250,
+      "name": "Greg Abbott",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2275,
+      "name": "Jeanne Shaheen",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2279,
+      "name": "Jody Hice",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2280,
+      "name": "Michael Durant",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2281,
+      "name": "Lynne Cheney",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2283,
+      "name": "Sarah Longwell",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2303,
+      "name": "Madison Cawthorn",
+      "type": "Person",
+      "stories": 22
     },
     {
       "id": 2305,
       "name": "Rick Scott",
-      "type": "Rick Scott",
-      "stories": 100
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2306,
+      "name": "Jane Mayer",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2328,
+      "name": "Scott Beattie",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2341,
+      "name": "Thom Tillis",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 2349,
+      "name": "Bill Cassidy",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2351,
+      "name": "Bob Inglis",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2355,
+      "name": "Vernon Jones",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2364,
+      "name": "Maria Cantwell",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2372,
+      "name": "Pete Jenkins",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2374,
+      "name": "Roy Blunt",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2376,
+      "name": "Carolyn Bourdeaux",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2390,
+      "name": "Matt Schlapp",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2395,
+      "name": "Kenneth C. Griffin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2396,
+      "name": "Angela Paxton",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2401,
+      "name": "Laura BarrÃ³n-LÃ³pez",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2406,
+      "name": "Virginia Thomas",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2411,
+      "name": "Joe Manchin",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2416,
+      "name": "Beto O'Rourke",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2422,
+      "name": "Jim Hagedorn",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2428,
+      "name": "Nicole Malliotakis",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2430,
+      "name": "Gary Bauer",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2433,
+      "name": "Fiona Hill",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2435,
+      "name": "Bret Stephens",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2436,
+      "name": "David Valadao",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 2448,
+      "name": "Mary Martin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2459,
+      "name": "Josh Kraushaar",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 2465,
       "name": "Mitt Romney",
-      "type": "Mitt Romney",
-      "stories": 100
+      "type": "Person",
+      "stories": 30
+    },
+    {
+      "id": 2469,
+      "name": "Judge Jackson",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2475,
+      "name": "Mo Brooks",
+      "type": "Person",
+      "stories": 20
+    },
+    {
+      "id": 2479,
+      "name": "Jerrod Sessler",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2487,
+      "name": "Gerry Dee",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2505,
+      "name": "Kyrsten Sinema",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2510,
+      "name": "Alex X. Mooney",
+      "type": "Person",
+      "stories": 9
+    },
+    {
+      "id": 2514,
+      "name": "Andrew Garbarino",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 2524,
       "name": "Peter Thiel",
-      "type": "Peter Thiel",
-      "stories": 100
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 3006,
+      "name": "Brad Klippert",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3042,
+      "name": "Mike Garcia",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3053,
+      "name": "Susan Rice",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3085,
+      "name": "Harriet Hageman",
+      "type": "Person",
+      "stories": 210
+    },
+    {
+      "id": 3087,
+      "name": "John Gibbs",
+      "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 3094,
+      "name": "Liz Cheney",
+      "type": "Person",
+      "stories": 206
+    },
+    {
+      "id": 3097,
+      "name": "Loren Culp",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 2535,
+      "name": "Afghanistan",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2537,
+      "name": "Alabama",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2538,
+      "name": "Alaska",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 2546,
+      "name": "Annapolis",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2550,
+      "name": "Arizona",
+      "type": "Place",
+      "stories": 12
+    },
+    {
+      "id": 2553,
+      "name": "Asheville",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2555,
+      "name": "Atlanta",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2557,
+      "name": "Austin",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2558,
+      "name": "Australia",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2590,
+      "name": "California",
+      "type": "Place",
+      "stories": 46
+    },
+    {
+      "id": 2597,
+      "name": "Carbon County",
+      "type": "Place",
+      "stories": 2
     },
     {
       "id": 2598,
       "name": "Casper",
-      "type": "Casper",
-      "stories": 100
+      "type": "Place",
+      "stories": 10
     },
     {
       "id": 2607,
       "name": "Cheyenne",
-      "type": "Cheyenne",
-      "stories": 100
+      "type": "Place",
+      "stories": 10
+    },
+    {
+      "id": 2608,
+      "name": "Cheyenne County",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2621,
+      "name": "Colorado",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2624,
+      "name": "Commerce",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2626,
+      "name": "Connecticut",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2643,
+      "name": "Delaware",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2646,
+      "name": "district",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2661,
+      "name": "Florida",
+      "type": "Place",
+      "stories": 12
+    },
+    {
+      "id": 2663,
+      "name": "Fort Laramie",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2672,
+      "name": "Georgia",
+      "type": "Place",
+      "stories": 28
+    },
+    {
+      "id": 2681,
+      "name": "Greensboro",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2692,
+      "name": "Harris County",
+      "type": "Place",
+      "stories": 2
     },
     {
       "id": 2707,
       "name": "Illinois",
-      "type": "Illinois",
-      "stories": 100
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 2709,
+      "name": "India",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2710,
+      "name": "Indiana",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2715,
+      "name": "Iowa",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2721,
+      "name": "Israel",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2738,
+      "name": "Kentucky",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2749,
+      "name": "Laramie",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2750,
+      "name": "Largo",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2751,
+      "name": "Las Vegas",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2759,
+      "name": "Lithuania",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2763,
+      "name": "Lorain",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2765,
+      "name": "Los Angeles County",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2766,
+      "name": "Louisiana",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2771,
+      "name": "Madison",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2782,
+      "name": "Maryland",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2783,
+      "name": "Massachusetts",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2788,
+      "name": "Miami",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2789,
+      "name": "Miami Beach",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2791,
+      "name": "Michigan",
+      "type": "Place",
+      "stories": 14
+    },
+    {
+      "id": 2795,
+      "name": "Minneapolis",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2796,
+      "name": "Minnesota",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2799,
+      "name": "Missouri",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2810,
+      "name": "Munich",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2813,
+      "name": "Nashville",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2815,
+      "name": "Natrona County",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2816,
+      "name": "Nebraska",
+      "type": "Place",
+      "stories": 1
     },
     {
       "id": 2826,
       "name": "New York City",
-      "type": "New York City",
-      "stories": 100
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 2834,
+      "name": "North Carolina",
+      "type": "Place",
+      "stories": 10
+    },
+    {
+      "id": 2836,
+      "name": "North Dakota",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2845,
+      "name": "Ohio",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 2851,
+      "name": "Orlando",
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 2858,
+      "name": "Palm Beach",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2870,
+      "name": "Poland",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2879,
+      "name": "Reno",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2881,
+      "name": "Rhode Island",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2888,
+      "name": "Russia",
+      "type": "Place",
+      "stories": 12
+    },
+    {
+      "id": 2892,
+      "name": "Salt Lake City",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2903,
+      "name": "Selma",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2905,
+      "name": "Serbia",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2910,
+      "name": "South Carolina",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2911,
+      "name": "South Dakota",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2918,
+      "name": "State of Palestine",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2932,
+      "name": "Tennessee",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2934,
+      "name": "Texas",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2938,
+      "name": "Travis County",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2941,
+      "name": "U.S. state",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2942,
+      "name": "Ukraine",
+      "type": "Place",
+      "stories": 22
+    },
+    {
+      "id": 2945,
+      "name": "United States of America",
+      "type": "Place",
+      "stories": 37
     },
     {
       "id": 2946,
       "name": "Utah",
-      "type": "Utah",
-      "stories": 100
+      "type": "Place",
+      "stories": 18
+    },
+    {
+      "id": 2951,
+      "name": "Vermont",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2953,
+      "name": "Virginia",
+      "type": "Place",
+      "stories": 8
     },
     {
       "id": 2959,
       "name": "Washington, D.C.",
-      "type": "Washington, D.C.",
-      "stories": 100
+      "type": "Place",
+      "stories": 26
+    },
+    {
+      "id": 2969,
+      "name": "West Virginia",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2971,
+      "name": "Williamson County",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2972,
+      "name": "Wisconsin",
+      "type": "Place",
+      "stories": 2
     },
     {
       "id": 2976,
       "name": "Wyoming",
-      "type": "Wyoming",
-      "stories": 100
+      "type": "Place",
+      "stories": 154
     }
   ],
   "media": [
@@ -1157,6 +3857,11 @@
     {
       "id": 383,
       "name": "Vox",
+      "bias": "Center Left"
+    },
+    {
+      "id": 1576,
+      "name": "WABE",
       "bias": "Center Left"
     },
     {

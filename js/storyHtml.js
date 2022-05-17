@@ -18,7 +18,7 @@ export class StoryHtml {
         let html = `
             <div class="story-result" ${story.date} onclick="window.open('${story.link}')">
                 <p class="story-outlet">${this.outlet(story.mediaOutlet)}</p>
-                <p><span class="story-date">${story.date}</span></p>
+                <p><span class="story-date">${this.date(story.date)}</span></p>
                 <p class="story-headline">${this.headline(story.headline)}</p>
                 <p class="story-author">${this.author(story.author, story.authorUrl)}</p>
                 <img class="story-image" src='${this.image(story)}' onerror="this.style.display='none'" height="190" width="270">
@@ -39,6 +39,10 @@ export class StoryHtml {
     }
 
     date(date) {
+
+        // Truncate time, for now
+        return date.split(" ")[0];
+
         return formatDate(date);
     }
 

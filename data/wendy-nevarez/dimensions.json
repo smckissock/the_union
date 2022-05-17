@@ -2,7 +2,278 @@
   "appName": "Wendy Nevarez",
   "appSlug": "wendy-nevarez",
   "featureId": 0,
-  "terms": [],
+  "terms": [
+    {
+      "id": 42,
+      "name": "Asheville Regional Airport",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 93,
+      "name": "Charlotte/Douglas International Airport",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 106,
+      "name": "CNN",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 371,
+      "name": "North Carolina Supreme Court",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 427,
+      "name": "Republican National Committee",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 428,
+      "name": "Republican Party",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 461,
+      "name": "Southern Environmental Law Center",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 533,
+      "name": "Transportation Security Administration",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 562,
+      "name": "United States House of Representatives",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 571,
+      "name": "United States Senate",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 641,
+      "name": "Michele Woodhouse",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 821,
+      "name": "Chuck Edwards",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 1025,
+      "name": "Matthew Burril",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1039,
+      "name": "Mark Randall Meadows",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1109,
+      "name": "Joe Cunningham",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1248,
+      "name": "Elizabeth Cheney",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1404,
+      "name": "Ted Budd",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1609,
+      "name": "Kevin McCarthy",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1636,
+      "name": "Jack Kingston",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1646,
+      "name": "David Purdue",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1765,
+      "name": "Mitch McConnell",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1790,
+      "name": "Rod Honeycutt",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1851,
+      "name": "Philip E. Berger",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1878,
+      "name": "Pat McCrory",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1882,
+      "name": "Tim Moore",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2095,
+      "name": "Brian Kemp",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2117,
+      "name": "Katie Arrington",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2214,
+      "name": "Adam Kinzinger",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2303,
+      "name": "Madison Cawthorn",
+      "type": "Person",
+      "stories": 9
+    },
+    {
+      "id": 2341,
+      "name": "Thom Tillis",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2404,
+      "name": "Rosa Parks",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2475,
+      "name": "Mo Brooks",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2510,
+      "name": "Alex X. Mooney",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 3091,
+      "name": "Wendy Nevarez",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 3094,
+      "name": "Liz Cheney",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2553,
+      "name": "Asheville",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2590,
+      "name": "California",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2654,
+      "name": "Episcopal Diocese of Western North Carolina",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2738,
+      "name": "Kentucky",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2834,
+      "name": "North Carolina",
+      "type": "Place",
+      "stories": 10
+    },
+    {
+      "id": 2885,
+      "name": "Robeson County",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2945,
+      "name": "United States of America",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2959,
+      "name": "Washington, D.C.",
+      "type": "Place",
+      "stories": 2
+    }
+  ],
   "media": [
     {
       "id": 11,
@@ -952,6 +1223,11 @@
     {
       "id": 383,
       "name": "Vox",
+      "bias": "Center Left"
+    },
+    {
+      "id": 1576,
+      "name": "WABE",
       "bias": "Center Left"
     },
     {

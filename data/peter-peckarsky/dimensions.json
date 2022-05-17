@@ -2,7 +2,74 @@
   "appName": "Peter Peckarsky",
   "appSlug": "peter-peckarsky",
   "featureId": 0,
-  "terms": [],
+  "terms": [
+    {
+      "id": 146,
+      "name": "Democratic Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 318,
+      "name": "Milwaukee Journal Sentinel",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 621,
+      "name": "Wisconsin Elections Commission",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 741,
+      "name": "Alex Lasry",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 802,
+      "name": "Sarah Godlewski",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1568,
+      "name": "Tom Nelson",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2039,
+      "name": "Mandela Barnes",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3096,
+      "name": "Peter Peckarsky",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2793,
+      "name": "Milwaukee",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2855,
+      "name": "Outagamie County",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2972,
+      "name": "Wisconsin",
+      "type": "Place",
+      "stories": 2
+    }
+  ],
   "media": [
     {
       "id": 11,
@@ -952,6 +1019,11 @@
     {
       "id": 383,
       "name": "Vox",
+      "bias": "Center Left"
+    },
+    {
+      "id": 1576,
+      "name": "WABE",
       "bias": "Center Left"
     },
     {

@@ -65,18 +65,19 @@
     z-index: 2;
   }
 
-  tr:hover {
+  td.blue:hover,
+  td.red:hover {
     background-color: #CDCDCD;
     cursor: pointer;
     font-weight: bold
   }
 
-  td.blue {
-    color: blue;
-  }
-
   td.red {
     color: red;
+  }
+  
+  td.blue {
+    color: blue;
   }
 
   td.number {

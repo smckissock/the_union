@@ -46,9 +46,9 @@
 } 
 
 .listing-date {
-    font-size: 18px;
+    font-size: 14px;
     cursor: default;
-    font-weight: 6  00;
+    font-weight: 600;
     color: var(--dark-grey-text);
 }
 

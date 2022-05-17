@@ -2,7 +2,44 @@
   "appName": "Kristie Sluder",
   "appSlug": "kristie-sluder",
   "featureId": 0,
-  "terms": [],
+  "terms": [
+    {
+      "id": 641,
+      "name": "Michele Woodhouse",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 821,
+      "name": "Chuck Edwards",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1025,
+      "name": "Matthew Burril",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1790,
+      "name": "Rod Honeycutt",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2303,
+      "name": "Madison Cawthorn",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3079,
+      "name": "Kristie Sluder",
+      "type": "Person",
+      "stories": 1
+    }
+  ],
   "media": [
     {
       "id": 11,
@@ -952,6 +989,11 @@
     {
       "id": 383,
       "name": "Vox",
+      "bias": "Center Left"
+    },
+    {
+      "id": 1576,
+      "name": "WABE",
       "bias": "Center Left"
     },
     {

@@ -2,7 +2,416 @@
   "appName": "David Purdue",
   "appSlug": "david-purdue",
   "featureId": 0,
-  "terms": [],
+  "terms": [
+    {
+      "id": 13,
+      "name": "Amazon",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 87,
+      "name": "Catholic Church",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 105,
+      "name": "Club for Growth",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 120,
+      "name": "Connecticut Supreme Court",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 146,
+      "name": "Democratic Party",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 177,
+      "name": "Facebook",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 183,
+      "name": "Federal Election Commission",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 198,
+      "name": "Ford Motor Company",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 265,
+      "name": "Internal Revenue Service",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 380,
+      "name": "Ohio Senate",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 412,
+      "name": "Purdue University",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 428,
+      "name": "Republican Party",
+      "type": "Organization",
+      "stories": 14
+    },
+    {
+      "id": 431,
+      "name": "Republican Party of Wisconsin",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 436,
+      "name": "Rivian Automotive",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 493,
+      "name": "Tesla, Inc.",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 539,
+      "name": "Twitter",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 571,
+      "name": "United States Senate",
+      "type": "Organization",
+      "stories": 12
+    },
+    {
+      "id": 576,
+      "name": "United States Senate Committee on Rules and Administration",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 661,
+      "name": "Ron DeSantis",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 815,
+      "name": "Herschel Walker",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 819,
+      "name": "Mike DeWine",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 879,
+      "name": "Mark Walker",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 886,
+      "name": "Mark Kelly",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 943,
+      "name": "Kathy Barnette",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1007,
+      "name": "Stephen Wolf",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1064,
+      "name": "Tom Rice",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1119,
+      "name": "Blake Masters",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1136,
+      "name": "Raphael Warnock",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 14
+    },
+    {
+      "id": 1248,
+      "name": "Elizabeth Cheney",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1341,
+      "name": "Chuck Schumer",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1389,
+      "name": "Nikema Williams",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1404,
+      "name": "Ted Budd",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1438,
+      "name": "Christopher M. Carr",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1454,
+      "name": "Arjun Jaikumar",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1465,
+      "name": "Paul Laxalt",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1563,
+      "name": "Nancy Mace",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1606,
+      "name": "Sharron Angle",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1609,
+      "name": "Kevin McCarthy",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1617,
+      "name": "Michelangelo Signorile",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1646,
+      "name": "David Purdue",
+      "type": "Person",
+      "stories": 17
+    },
+    {
+      "id": 1710,
+      "name": "Ted Cruz",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1758,
+      "name": "Glenn Youngkin",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1801,
+      "name": "J. D. Vance",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1844,
+      "name": "James Craig",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1878,
+      "name": "Pat McCrory",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1951,
+      "name": "Stacey Abrams",
+      "type": "Person",
+      "stories": 13
+    },
+    {
+      "id": 2022,
+      "name": "Kevin Smith",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2069,
+      "name": "Tim Walz",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2095,
+      "name": "Brian Kemp",
+      "type": "Person",
+      "stories": 20
+    },
+    {
+      "id": 2137,
+      "name": "Sean Parnell",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2164,
+      "name": "Harry Reid",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2226,
+      "name": "Richard M. Burr",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2230,
+      "name": "Jon Ossoff",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2303,
+      "name": "Madison Cawthorn",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2517,
+      "name": "Elon Musk",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2595,
+      "name": "Cape Henlopen State Park",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2661,
+      "name": "Florida",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2672,
+      "name": "Georgia",
+      "type": "Place",
+      "stories": 15
+    },
+    {
+      "id": 2710,
+      "name": "Indiana",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2771,
+      "name": "Madison",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2834,
+      "name": "North Carolina",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2845,
+      "name": "Ohio",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2865,
+      "name": "Philadelphia",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2945,
+      "name": "United States of America",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2953,
+      "name": "Virginia",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2972,
+      "name": "Wisconsin",
+      "type": "Place",
+      "stories": 2
+    }
+  ],
   "media": [
     {
       "id": 11,

@@ -2,7 +2,482 @@
   "appName": "Kandiss Taylor",
   "appSlug": "kandiss-taylor",
   "featureId": 0,
-  "terms": [],
+  "terms": [
+    {
+      "id": 146,
+      "name": "Democratic Party",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 182,
+      "name": "Federal Bureau of Investigation",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 226,
+      "name": "Georgia Public Broadcasting",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 227,
+      "name": "Georgia Republican Party",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 234,
+      "name": "Getty Images",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 378,
+      "name": "Office of Congressional Ethics",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 403,
+      "name": "Politico",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 415,
+      "name": "Quinnipiac University",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 428,
+      "name": "Republican Party",
+      "type": "Organization",
+      "stories": 22
+    },
+    {
+      "id": 501,
+      "name": "The Atlanta Journal-Constitution",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 532,
+      "name": "Trafalgar Group",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 539,
+      "name": "Twitter",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 571,
+      "name": "United States Senate",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 584,
+      "name": "University of Georgia",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 600,
+      "name": "US Senate",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 661,
+      "name": "Ron DeSantis",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 781,
+      "name": "Tim Ryan",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 815,
+      "name": "Herschel Walker",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 883,
+      "name": "Marjorie Taylor Greene",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 946,
+      "name": "Josh Mandel",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 984,
+      "name": "George P. Bush",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 1154,
+      "name": "Alexandria Ocasio-Cortez",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1181,
+      "name": "Corey Taylor",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1248,
+      "name": "Elizabeth Cheney",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1281,
+      "name": "Cody Hall",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1312,
+      "name": "Gary Black",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1320,
+      "name": "Jenni Sweat",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1435,
+      "name": "Kay Granger",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1454,
+      "name": "Arjun Jaikumar",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1459,
+      "name": "Henry Cuellar",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1462,
+      "name": "Scott Walker",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1632,
+      "name": "Ted Strickland",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1646,
+      "name": "David Purdue",
+      "type": "Person",
+      "stories": 26
+    },
+    {
+      "id": 1650,
+      "name": "Zachary Taylor",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1664,
+      "name": "Catherine Davis",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 1665,
+      "name": "Mekan Saparow",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1670,
+      "name": "Steve Singiser",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1689,
+      "name": "Chris Matthews",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1710,
+      "name": "Ted Cruz",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1740,
+      "name": "Jesus",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1795,
+      "name": "Thomas Suozzi",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1842,
+      "name": "L. Lin Wood",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1850,
+      "name": "Mike Lindell",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1888,
+      "name": "Chuck Grassley",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1896,
+      "name": "Tom Williams",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1951,
+      "name": "Stacey Abrams",
+      "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 2027,
+      "name": "Matt Dolan",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 2095,
+      "name": "Brian Kemp",
+      "type": "Person",
+      "stories": 30
+    },
+    {
+      "id": 2183,
+      "name": "Chuck Todd",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2203,
+      "name": "Brad Raffensperger",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2213,
+      "name": "George Soros",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2230,
+      "name": "Jon Ossoff",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2250,
+      "name": "Greg Abbott",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2302,
+      "name": "Scott Pruitt",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2355,
+      "name": "Vernon Jones",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2389,
+      "name": "Van Taylor",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2427,
+      "name": "John Rutherford",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2429,
+      "name": "Barack Obama",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2461,
+      "name": "Seth Bringman",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2466,
+      "name": "Jane Timken",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2534,
+      "name": "Nathaniel Rakich",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 3082,
+      "name": "Kandiss Taylor",
+      "type": "Person",
+      "stories": 18
+    },
+    {
+      "id": 2555,
+      "name": "Atlanta",
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 2557,
+      "name": "Austin",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2558,
+      "name": "Australia",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2609,
+      "name": "Cincinnati",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2623,
+      "name": "Columbus",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2624,
+      "name": "Commerce",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2661,
+      "name": "Florida",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2672,
+      "name": "Georgia",
+      "type": "Place",
+      "stories": 30
+    },
+    {
+      "id": 2845,
+      "name": "Ohio",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2863,
+      "name": "People's Republic of China",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2894,
+      "name": "San Antonio",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2900,
+      "name": "Savannah",
+      "type": "Place",
+      "stories": 4
+    },
+    {
+      "id": 2934,
+      "name": "Texas",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2935,
+      "name": "Toledo",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2947,
+      "name": "Valdosta",
+      "type": "Place",
+      "stories": 2
+    }
+  ],
   "media": [
     {
       "id": 11,

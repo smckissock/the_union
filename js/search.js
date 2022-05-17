@@ -79,7 +79,7 @@ let storyHtml = null;
 let listingHtml = null;
 let candidatesHtml = null;
 
-let updateDate = new Date("2021/5/13"); 
+let updateDate = new Date("2021/5/17"); 
 
 let initialLoad = true;
 
@@ -193,7 +193,13 @@ function renderApp(data) {
     getExampleTerms(terms);
     setWord(appName);
   
-    showStories(terms.find(d => d.name == appName).id); 
+    var term = terms.find(d => d.name == appName);
+    if (!term)
+        console.log(appName + " term not found")
+    else
+        console.log(appName + " term found")
+    showStories(term.id); 
+    //showStories(terms.find(d => d.name == appName).id); 
     
     document.getElementById("search-input").focus();
     

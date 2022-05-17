@@ -1,5 +1,6 @@
 .mediaLabel {
-    font-size: 11px;
+    font-size: 13px;
+    font-weight: 500;
     width: 90px;
     text-anchor: start;
     cursor: default;
@@ -8,7 +9,7 @@
 }
 
 .biasLabel {
-    font-size: 18px;
+    font-size: 15px;
     text-anchor: start;
     cursor: default;
     pointer-events: none;
