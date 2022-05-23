@@ -1,7 +1,7 @@
 import { 
     mediaList, storySvg, 
     storyDetailsHtml, biasColors, 
-    storyChartSvgWidth, mediaChartWidth, barColor, stories, dayWidth, selectedStory, storySelect, featureId } from "./search.js";
+    storyChartSvgWidth, mediaChartWidth, barColor, stories, dayWidth, selectedStory, storySelect, featuredStoryId } from "./search.js";
 import { className } from "./shared.js";    
 
 
@@ -35,11 +35,11 @@ export class StoryChart {
         let svgHeight = ((this.mediasWithStoryCount.length + 7) * this.rowHeight) + 40; // The 7 is for the extra rows for media types. Should be calced
         storySvg.attr("height", svgHeight);
         
-        let featureStory = stories.find(d => d.id == featureId);  // Featured Story
-        if (!featureStory)
+        let featuredStory = stories.find(d => d.id == featuredStoryId);  // Featured Story
+        if (!featuredStory)
             storyDetailsHtml(stories[0]);
         else
-            storyDetailsHtml(featureStory);
+            storyDetailsHtml(featuredStory);
 
         this.mediaSvg.selectAll("*").remove();
         this.storySvg.selectAll("*").remove();

@@ -1,5 +1,51 @@
 [
   {
+    "name": "Florida",
+    "races": [
+      {
+        "title": "Governor",
+        "office": "Governor",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "18",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Ron Desantis",
+            "incumbent": "True",
+            "slug": "ron-desantis",
+            "storyCount": "789",
+            "localStoryCount": "18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "races": [
+      {
+        "title": "Governor",
+        "office": "Governor",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "16",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Brian Kemp",
+            "incumbent": "True",
+            "slug": "brian-kemp",
+            "storyCount": "335",
+            "localStoryCount": "102"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Michigan",
     "races": [
       {
@@ -7,15 +53,9 @@
         "office": "Governor",
         "primaryDate": "2022-08-02",
         "runoffDate": "",
+        "raceType": "Republican Primary",
+        "ranking": "0",
         "candidates": [
-          {
-            "party": "R",
-            "name": "Bob Scott",
-            "incumbent": "False",
-            "slug": "bob-scott",
-            "storyCount": "4",
-            "localStoryCount": "0"
-          },
           {
             "party": "R",
             "name": "Donna Brandenburg",
@@ -26,18 +66,10 @@
           },
           {
             "party": "R",
-            "name": "Evan Space",
+            "name": "Michael Brown",
             "incumbent": "False",
-            "slug": "evan-space",
-            "storyCount": "2",
-            "localStoryCount": "0"
-          },
-          {
-            "party": "R",
-            "name": "Garrett Soldano",
-            "incumbent": "False",
-            "slug": "garrett-soldano",
-            "storyCount": "29",
+            "slug": "michael-brown",
+            "storyCount": "111",
             "localStoryCount": "0"
           },
           {
@@ -50,18 +82,10 @@
           },
           {
             "party": "R",
-            "name": "Kevin Rinke",
+            "name": "Tudor Dixon",
             "incumbent": "False",
-            "slug": "kevin-rinke",
-            "storyCount": "21",
-            "localStoryCount": "0"
-          },
-          {
-            "party": "R",
-            "name": "Michael Brown",
-            "incumbent": "False",
-            "slug": "michael-brown",
-            "storyCount": "92",
+            "slug": "tudor-dixon",
+            "storyCount": "28",
             "localStoryCount": "0"
           },
           {
@@ -74,14 +98,6 @@
           },
           {
             "party": "R",
-            "name": "Ralph Rebandt",
-            "incumbent": "False",
-            "slug": "ralph-rebandt",
-            "storyCount": "7",
-            "localStoryCount": "0"
-          },
-          {
-            "party": "R",
             "name": "Ryan Kelley",
             "incumbent": "False",
             "slug": "ryan-kelley",
@@ -90,10 +106,42 @@
           },
           {
             "party": "R",
-            "name": "Tudor Dixon",
+            "name": "Ralph Rebandt",
             "incumbent": "False",
-            "slug": "tudor-dixon",
-            "storyCount": "28",
+            "slug": "ralph-rebandt",
+            "storyCount": "7",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "R",
+            "name": "Kevin Rinke",
+            "incumbent": "False",
+            "slug": "kevin-rinke",
+            "storyCount": "21",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "R",
+            "name": "Bob Scott",
+            "incumbent": "False",
+            "slug": "bob-scott",
+            "storyCount": "4",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "R",
+            "name": "Garrett Soldano",
+            "incumbent": "False",
+            "slug": "garrett-soldano",
+            "storyCount": "30",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "R",
+            "name": "Evan Space",
+            "incumbent": "False",
+            "slug": "evan-space",
+            "storyCount": "2",
             "localStoryCount": "0"
           }
         ]
@@ -103,13 +151,15 @@
         "office": "House",
         "primaryDate": "2022-08-02",
         "runoffDate": "",
+        "raceType": "Republican Primary",
+        "ranking": "0",
         "candidates": [
           {
             "party": "R",
             "name": "Peter Meijer",
             "incumbent": "True",
             "slug": "peter-meijer",
-            "storyCount": "71",
+            "storyCount": "74",
             "localStoryCount": "0"
           },
           {
@@ -117,7 +167,7 @@
             "name": "John Gibbs",
             "incumbent": "False",
             "slug": "john-gibbs",
-            "storyCount": "26",
+            "storyCount": "28",
             "localStoryCount": "0"
           }
         ]
@@ -125,68 +175,99 @@
     ]
   },
   {
-    "name": "North Carolina",
+    "name": "Ohio",
     "races": [
       {
-        "title": "House 11th",
-        "office": "House",
-        "primaryDate": "2022-05-17",
+        "title": "Senate",
+        "office": "Senate",
+        "primaryDate": "",
         "runoffDate": "",
+        "raceType": "General",
+        "ranking": "9",
         "candidates": [
           {
             "party": "R",
-            "name": "Madison Cawthorn",
-            "incumbent": "True",
-            "slug": "madison-cawthorn",
-            "storyCount": "475",
-            "localStoryCount": "7"
-          },
+            "name": "J.D. Vance",
+            "incumbent": "False",
+            "slug": "jd-vance",
+            "storyCount": "729",
+            "localStoryCount": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pennsylvania",
+    "races": [
+      {
+        "title": "Governor",
+        "office": "Governor",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "3",
+        "candidates": [
           {
             "party": "R",
-            "name": "Matthew Burril",
+            "name": "Doug Mastriano",
             "incumbent": "False",
-            "slug": "matthew-burril",
-            "storyCount": "7",
+            "slug": "doug-mastriano",
+            "storyCount": "341",
+            "localStoryCount": "10"
+          }
+        ]
+      },
+      {
+        "title": "House 7th",
+        "office": "House",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "14",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Lisa Scheller",
+            "incumbent": "False",
+            "slug": "lisa-scheller",
+            "storyCount": "12",
             "localStoryCount": "0"
-          },
+          }
+        ]
+      },
+      {
+        "title": "House 8th",
+        "office": "House",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "11",
+        "candidates": [
           {
             "party": "R",
-            "name": "Michele Woodhouse",
+            "name": "Jim Bognet",
             "incumbent": "False",
-            "slug": "michele-woodhouse",
-            "storyCount": "32",
+            "slug": "jim-bognet",
+            "storyCount": "27",
             "localStoryCount": "0"
-          },
+          }
+        ]
+      },
+      {
+        "title": "House 17th",
+        "office": "House",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "15",
+        "candidates": [
           {
             "party": "R",
-            "name": "Rod Honeycutt",
+            "name": "Jeremy Shaffer",
             "incumbent": "False",
-            "slug": "rod-honeycutt",
-            "storyCount": "7",
-            "localStoryCount": "0"
-          },
-          {
-            "party": "R",
-            "name": "Wendy Nevarez",
-            "incumbent": "False",
-            "slug": "wendy-nevarez",
-            "storyCount": "7",
-            "localStoryCount": "0"
-          },
-          {
-            "party": "R",
-            "name": "Chuck Edwards",
-            "incumbent": "False",
-            "slug": "chuck-edwards",
-            "storyCount": "125",
-            "localStoryCount": "1"
-          },
-          {
-            "party": "R",
-            "name": "Kristie Sluder",
-            "incumbent": "False",
-            "slug": "kristie-sluder",
-            "storyCount": "1",
+            "slug": "jeremy-shaffer",
+            "storyCount": "9",
             "localStoryCount": "0"
           }
         ]
@@ -201,21 +282,15 @@
         "office": "House",
         "primaryDate": "2022-08-02",
         "runoffDate": "",
+        "raceType": "Republican Primary",
+        "ranking": "0",
         "candidates": [
           {
             "party": "R",
             "name": "Jaime Herrera Beutler",
             "incumbent": "True",
             "slug": "jaime-herrera-beutler",
-            "storyCount": "40",
-            "localStoryCount": "3"
-          },
-          {
-            "party": "R",
-            "name": "Joe Kent",
-            "incumbent": "False",
-            "slug": "joe-kent",
-            "storyCount": "37",
+            "storyCount": "42",
             "localStoryCount": "3"
           },
           {
@@ -228,10 +303,18 @@
           },
           {
             "party": "R",
+            "name": "Joe Kent",
+            "incumbent": "False",
+            "slug": "joe-kent",
+            "storyCount": "41",
+            "localStoryCount": "3"
+          },
+          {
+            "party": "R",
             "name": "Vicki Kraft",
             "incumbent": "False",
             "slug": "vicki-kraft",
-            "storyCount": "2",
+            "storyCount": "3",
             "localStoryCount": "0"
           }
         ]
@@ -241,13 +324,23 @@
         "office": "House",
         "primaryDate": "2022-08-02",
         "runoffDate": "",
+        "raceType": "Republican Primary",
+        "ranking": "0",
         "candidates": [
+          {
+            "party": "R",
+            "name": "Loren Culp",
+            "incumbent": "False",
+            "slug": "loren-culp",
+            "storyCount": "21",
+            "localStoryCount": "1"
+          },
           {
             "party": "R",
             "name": "Brad Klippert",
             "incumbent": "False",
             "slug": "brad-klippert",
-            "storyCount": "2",
+            "storyCount": "3",
             "localStoryCount": "0"
           },
           {
@@ -255,16 +348,8 @@
             "name": "Jerrod Sessler",
             "incumbent": "False",
             "slug": "jerrod-sessler",
-            "storyCount": "4",
+            "storyCount": "6",
             "localStoryCount": "0"
-          },
-          {
-            "party": "R",
-            "name": "Loren Culp",
-            "incumbent": "False",
-            "slug": "loren-culp",
-            "storyCount": "19",
-            "localStoryCount": "1"
           }
         ]
       }
@@ -278,21 +363,47 @@
         "office": "Senate",
         "primaryDate": "2022-08-09",
         "runoffDate": "",
+        "raceType": "Democratic Primary",
+        "ranking": "13",
         "candidates": [
-          {
-            "party": "D",
-            "name": "Alex Lasry",
-            "incumbent": "False",
-            "slug": "alex-lasry",
-            "storyCount": "92",
-            "localStoryCount": "0"
-          },
           {
             "party": "D",
             "name": "Mandela Barnes",
             "incumbent": "False",
             "slug": "mandela-barnes",
-            "storyCount": "116",
+            "storyCount": "124",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "D",
+            "name": "Sarah Godlewski",
+            "incumbent": "False",
+            "slug": "sarah-godlewski",
+            "storyCount": "91",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "D",
+            "name": "Alex Lasry",
+            "incumbent": "False",
+            "slug": "alex-lasry",
+            "storyCount": "100",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "D",
+            "name": "Tom Nelson",
+            "incumbent": "False",
+            "slug": "tom-nelson",
+            "storyCount": "74",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "D",
+            "name": "Steven Olikara",
+            "incumbent": "False",
+            "slug": "steven-olikara",
+            "storyCount": "8",
             "localStoryCount": "0"
           },
           {
@@ -301,30 +412,6 @@
             "incumbent": "False",
             "slug": "peter-peckarsky",
             "storyCount": "1",
-            "localStoryCount": "0"
-          },
-          {
-            "party": "D",
-            "name": "Sarah Godlewski",
-            "incumbent": "False",
-            "slug": "sarah-godlewski",
-            "storyCount": "85",
-            "localStoryCount": "0"
-          },
-          {
-            "party": "D",
-            "name": "Steven Olikara",
-            "incumbent": "False",
-            "slug": "steven-olikara",
-            "storyCount": "7",
-            "localStoryCount": "0"
-          },
-          {
-            "party": "D",
-            "name": "Tom Nelson",
-            "incumbent": "False",
-            "slug": "tom-nelson",
-            "storyCount": "70",
             "localStoryCount": "0"
           }
         ]
@@ -339,21 +426,23 @@
         "office": "House",
         "primaryDate": "2022-05-24",
         "runoffDate": "2022-06-21",
+        "raceType": "Republican Primary",
+        "ranking": "5",
         "candidates": [
           {
             "party": "R",
             "name": "Liz Cheney",
             "incumbent": "True",
             "slug": "liz-cheney",
-            "storyCount": "624",
-            "localStoryCount": "16"
+            "storyCount": "646",
+            "localStoryCount": "17"
           },
           {
             "party": "R",
             "name": "Harriet Hageman",
             "incumbent": "False",
             "slug": "harriet-hageman",
-            "storyCount": "226",
+            "storyCount": "228",
             "localStoryCount": "2"
           }
         ]

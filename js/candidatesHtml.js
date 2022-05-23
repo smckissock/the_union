@@ -30,9 +30,15 @@ export class CandidatesHtml {
 
     stateHtml(state) {
         let html =
+            // `<tr>
+            //     <th class="big-text" colspan="1">${state.name}</th>
+            //     <th class="light-text">Primary ${state.races[0].primaryDate}</th>
+            //     <th class="light-text">All Stories</th>
+            //     <th class="light-text">Local Stories</th>
+            // </tr>`;
+
             `<tr>
-                <th class="big-text" colspan="1">${state.name}</th>
-                <th class="light-text">Primary ${state.races[0].primaryDate}</th>
+                <th class="big-text" colspan="3">${state.name}</th>
                 <th class="light-text">All Stories</th>
                 <th class="light-text">Local Stories</th>
             </tr>`;
@@ -40,35 +46,61 @@ export class CandidatesHtml {
     }
 
     racesHtml(races) {
+
+        function candidatesHtml(raceCellHtml, candidates) {
+            let html = "";
+            candidates.forEach((candidate, i) => {
+                let incumbentBall = candidate.incumbent == "False" ? "" : "⬤ ";
+                let color = ""; 
+                if (candidate.party == "D")
+                    color = ' class="blue" ';
+                if (candidate.party == "R")
+                    color = ' class="red" ';
+                
+                html += 
+                `<tr onclick="self.select('${candidate.slug}')">
+                    ${(i == 0) ? raceCellHtml : ""} 
+                    <td ${color}>${incumbentBall} ${candidate.name}</td>
+                    <td class="number">${candidate.storyCount}</td>
+                    <td class="number">${candidate.localStoryCount}</td>
+                </tr>`
+            });
+            return html;
+        }
+
         let html = "";
         races.forEach(race => {
-            let raceCellHtml = `<td rowspan="${race.candidates.length}">${race.title}</td>`
-            html += self.candidatesHtml(raceCellHtml, race.candidates);
-        });
-        return html;
-    }
-
-    candidatesHtml(raceCellHtml, candidates) {
-        let html = "";
-        candidates.forEach((candidate, i) => {
-            let incumbentBall = candidate.incumbent == "False" ? "" : "⬤ ";
-
-            let color = ""; 
-            if (candidate.party == "D")
-                color = ' class="blue" ';
-            if (candidate.party == "R")
-                color = ' class="red" ';
+            let ranking = race.ranking == 0 ? "" : "#" + race.ranking; 
             
-            html += 
-            `<tr onclick="self.select('${candidate.slug}')">
-                ${(i == 0) ? raceCellHtml : ""}
-                <td ${color}>${incumbentBall} ${candidate.name}</td>
-                <td class="number">${candidate.storyCount}</td>
-                <td class="number">${candidate.localStoryCount}</td>
-            </tr>`
+            let raceCellHtml =
+                `<td class="big-text" rowspan="${race.candidates.length}">${ranking}</td>
+                <td class="big-text" rowspan="${race.candidates.length}">${race.title}<span class="light-text"> &nbsp;&nbsp;${race.raceType}</span></td>`
+            html += candidatesHtml(raceCellHtml, race.candidates);
         });
         return html;
     }
+
+    // candidatesHtml(raceCellHtml, candidates) {
+    //     let html = "";
+    //     candidates.forEach((candidate, i) => {
+    //         let incumbentBall = candidate.incumbent == "False" ? "" : "⬤ ";
+
+    //         let color = ""; 
+    //         if (candidate.party == "D")
+    //             color = ' class="blue" ';
+    //         if (candidate.party == "R")
+    //             color = ' class="red" ';
+            
+    //         html += 
+    //         `<tr onclick="self.select('${candidate.slug}')">
+    //             ${(i == 0) ? raceCellHtml : ""}
+    //             <td ${color}>${incumbentBall} ${candidate.name}</td>
+    //             <td class="number">${candidate.storyCount}</td>
+    //             <td class="number">${candidate.localStoryCount}</td>
+    //         </tr>`
+    //     });
+    //     return html;
+    // }
 
     select(slug) {  
         trackAppChange(slug);

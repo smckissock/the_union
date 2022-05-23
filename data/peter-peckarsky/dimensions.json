@@ -1,25 +1,25 @@
 {
   "appName": "Peter Peckarsky",
   "appSlug": "peter-peckarsky",
-  "featureId": 0,
+  "featuredStoryId": 2409,
   "terms": [
     {
       "id": 146,
       "name": "Democratic Party",
       "type": "Organization",
-      "stories": 2
+      "stories": 5
     },
     {
       "id": 318,
       "name": "Milwaukee Journal Sentinel",
       "type": "Organization",
-      "stories": 2
+      "stories": 5
     },
     {
       "id": 621,
       "name": "Wisconsin Elections Commission",
       "type": "Organization",
-      "stories": 2
+      "stories": 5
     },
     {
       "id": 741,
@@ -55,19 +55,19 @@
       "id": 2793,
       "name": "Milwaukee",
       "type": "Place",
-      "stories": 2
+      "stories": 5
     },
     {
       "id": 2855,
       "name": "Outagamie County",
       "type": "Place",
-      "stories": 2
+      "stories": 5
     },
     {
       "id": 2972,
       "name": "Wisconsin",
       "type": "Place",
-      "stories": 2
+      "stories": 5
     }
   ],
   "media": [

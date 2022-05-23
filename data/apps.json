@@ -1,47 +1,55 @@
 [
   {
-    "name": "Bob Scott",
-    "slug": "bob-scott"
+    "name": "Ron Desantis",
+    "slug": "ron-desantis"
+  },
+  {
+    "name": "Brian Kemp",
+    "slug": "brian-kemp"
   },
   {
     "name": "Donna Brandenburg",
     "slug": "donna-brandenburg"
   },
   {
-    "name": "Evan Space",
-    "slug": "evan-space"
-  },
-  {
-    "name": "Garrett Soldano",
-    "slug": "garrett-soldano"
+    "name": "Michael Brown",
+    "slug": "michael-brown"
   },
   {
     "name": "James Craig",
     "slug": "james-craig"
   },
   {
-    "name": "Kevin Rinke",
-    "slug": "kevin-rinke"
-  },
-  {
-    "name": "Michael Brown",
-    "slug": "michael-brown"
+    "name": "Tudor Dixon",
+    "slug": "tudor-dixon"
   },
   {
     "name": "Perry Johnson",
     "slug": "perry-johnson"
   },
   {
-    "name": "Ralph Rebandt",
-    "slug": "ralph-rebandt"
-  },
-  {
     "name": "Ryan Kelley",
     "slug": "ryan-kelley"
   },
   {
-    "name": "Tudor Dixon",
-    "slug": "tudor-dixon"
+    "name": "Ralph Rebandt",
+    "slug": "ralph-rebandt"
+  },
+  {
+    "name": "Kevin Rinke",
+    "slug": "kevin-rinke"
+  },
+  {
+    "name": "Bob Scott",
+    "slug": "bob-scott"
+  },
+  {
+    "name": "Garrett Soldano",
+    "slug": "garrett-soldano"
+  },
+  {
+    "name": "Evan Space",
+    "slug": "evan-space"
   },
   {
     "name": "Peter Meijer",
@@ -52,48 +60,44 @@
     "slug": "john-gibbs"
   },
   {
-    "name": "Madison Cawthorn",
-    "slug": "madison-cawthorn"
+    "name": "J.D. Vance",
+    "slug": "jd-vance"
   },
   {
-    "name": "Matthew Burril",
-    "slug": "matthew-burril"
+    "name": "Doug Mastriano",
+    "slug": "doug-mastriano"
   },
   {
-    "name": "Michele Woodhouse",
-    "slug": "michele-woodhouse"
+    "name": "Lisa Scheller",
+    "slug": "lisa-scheller"
   },
   {
-    "name": "Rod Honeycutt",
-    "slug": "rod-honeycutt"
+    "name": "Jim Bognet",
+    "slug": "jim-bognet"
   },
   {
-    "name": "Wendy Nevarez",
-    "slug": "wendy-nevarez"
-  },
-  {
-    "name": "Chuck Edwards",
-    "slug": "chuck-edwards"
-  },
-  {
-    "name": "Kristie Sluder",
-    "slug": "kristie-sluder"
+    "name": "Jeremy Shaffer",
+    "slug": "jeremy-shaffer"
   },
   {
     "name": "Jaime Herrera Beutler",
     "slug": "jaime-herrera-beutler"
   },
   {
-    "name": "Joe Kent",
-    "slug": "joe-kent"
-  },
-  {
     "name": "Leslie French",
     "slug": "leslie-french"
   },
   {
+    "name": "Joe Kent",
+    "slug": "joe-kent"
+  },
+  {
     "name": "Vicki Kraft",
     "slug": "vicki-kraft"
+  },
+  {
+    "name": "Loren Culp",
+    "slug": "loren-culp"
   },
   {
     "name": "Brad Klippert",
@@ -104,32 +108,28 @@
     "slug": "jerrod-sessler"
   },
   {
-    "name": "Loren Culp",
-    "slug": "loren-culp"
-  },
-  {
-    "name": "Alex Lasry",
-    "slug": "alex-lasry"
-  },
-  {
     "name": "Mandela Barnes",
     "slug": "mandela-barnes"
-  },
-  {
-    "name": "Peter Peckarsky",
-    "slug": "peter-peckarsky"
   },
   {
     "name": "Sarah Godlewski",
     "slug": "sarah-godlewski"
   },
   {
-    "name": "Steven Olikara",
-    "slug": "steven-olikara"
+    "name": "Alex Lasry",
+    "slug": "alex-lasry"
   },
   {
     "name": "Tom Nelson",
     "slug": "tom-nelson"
+  },
+  {
+    "name": "Steven Olikara",
+    "slug": "steven-olikara"
+  },
+  {
+    "name": "Peter Peckarsky",
+    "slug": "peter-peckarsky"
   },
   {
     "name": "Liz Cheney",

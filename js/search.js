@@ -38,7 +38,7 @@ export let searchTerm = "";
 export let cleanSearchTerm = ""
 export let selectedStory = null;
 
-export let featureId;
+export let featuredStoryId;
 
 
 import { svgDropDown } from "./svgDropDown.js";
@@ -79,7 +79,7 @@ let storyHtml = null;
 let listingHtml = null;
 let candidatesHtml = null;
 
-let updateDate = new Date("2021/5/17"); 
+let updateDate = new Date("2022/5/23"); 
 
 let initialLoad = true;
 
@@ -160,7 +160,7 @@ function getApps() {
 
 function renderApp(data) {
     appName = data.appName;
-    featureId = data.featureId;
+    featuredStoryId = data.featuredStoryId;
 
     terms = data.terms;
     terms.forEach(term => term.lower = term.name.toLowerCase());
@@ -174,10 +174,11 @@ function renderApp(data) {
     addSvgs();
     addDateScales(data);
 
-    let importantDays = [ 
-        {name: "Primary", date: new Date(getCandidate(appSlug).race.primaryDate)},
-        {name: "General", date: new Date("2022-11-08")}
-     ]
+    let race = getCandidate(appSlug).race;
+    let importantDays = [ {name: "General", date: new Date("2022-11-08")} ];
+    if (race.raceType.includes("Primary"))
+        importantDays.push({name: "Primary", date: new Date(race.primaryDate)});
+        //importantDays.push({name: "Primary", date: new Date(getCandidate(appSlug).race.primaryDate)},)
 
     dateChart = new DateChart(dateSvg, page.monthScale, page.weekScale, page.dayScale, importantDays); 
 

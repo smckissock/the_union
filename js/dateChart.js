@@ -142,6 +142,7 @@ export class DateChart {
     // Vertical lines for specific days (e.g. election day)
     addDayLines(top, bottom) {
         this.importantDays.forEach(day => {
+
             this.svg.append("line")    
                 .attr("x1", this.dayScale(day.date)) 
                 .attr("y1", top)
@@ -151,7 +152,7 @@ export class DateChart {
                 .style("stroke-width", 4); 
 
             const label = day.name + " " + (day.date.getMonth() + 1) +  "/" + (day.date.getDate() + 1);
-            this.text(label, this.svg, "days-until-election", this.dayScale(day.date) - 31, top - 4); 
+            this.text(label, this.svg, "days-until-election", this.dayScale(day.date) - 31, top - 4);
         });
     }
 
