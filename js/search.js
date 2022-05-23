@@ -137,8 +137,10 @@ function getApps() {
         states.forEach(state => {
             state.races.forEach(race => {
                 race.candidates.forEach(candidate => {
-                    if (candidate.slug == appSlug);
+                    if (candidate.slug == appSlug) {
+                        console.log("Query parameter " + appSlug + " found")
                         appFound = true;
+                    }
                 });
             });
         }); 
