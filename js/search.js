@@ -140,14 +140,22 @@ function getApps() {
             });
         }); 
         
-        // If they didn't have an app slug (e.g. "liz-cheney") in the URL, use the first app in the list  
-        if (!(data.find(d => d.slug === appSlug)))     
+        // Confirm that the app slug given (e.g. "liz-cheney") in the URL exists, otherwise use the first app in the list  
+        let appFound = false;
+        states.forEach(state => {
+            state.races.forEach(race => {
+                race.candidates.forEach(candidate => {
+                    if (candidate.slug == appSlug);
+                        appFound = true;
+                });
+            });
+        }); 
+        if (!appFound)
             appSlug = states[0].races[0].candidates[0].slug; 
         
         d3.select("#selectedApp").property("value", appSlug);      
         
         trackInitialApp(appSlug);
-
         startApp();
         aboutButton();
         candidatesButton();
