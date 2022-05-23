@@ -52,7 +52,6 @@ import { CandidatesHtml } from "./candidatesHtml.js";
 import { trackAppChange, trackInitialApp } from "./track.js";
 
 
-
 let appName; 
 let appSlug; 
 
@@ -117,14 +116,7 @@ export function startApp(slug) {
 }
 
 
-function getApps() {
-    // Uee when we need more than one file at startup
-    // Promise.all([
-    //     d3.json("data/apps.json"),
-    //     d3.json("data/states.json")
-    // ]).then(function(data) {
-    //      data is array from the files
-    // });
+function getApps() {    
 
     console.log("getApps()");
             
@@ -185,8 +177,7 @@ function renderApp(data) {
     let race = getCandidate(appSlug).race;
     let importantDays = [ {name: "General", date: new Date("2022-11-08")} ];
     if (race.raceType.includes("Primary"))
-        importantDays.push({name: "Primary", date: new Date(race.primaryDate)});
-        //importantDays.push({name: "Primary", date: new Date(getCandidate(appSlug).race.primaryDate)},)
+        importantDays.push({name: "Primary", date: new Date(race.primaryDate)});        
 
     dateChart = new DateChart(dateSvg, page.monthScale, page.weekScale, page.dayScale, importantDays); 
 
@@ -208,7 +199,6 @@ function renderApp(data) {
     else
         console.log(appName + " term found")
     showStories(term.id); 
-    //showStories(terms.find(d => d.name == appName).id); 
     
     document.getElementById("search-input").focus();
     
@@ -347,9 +337,6 @@ function setSelectedDates(extent) {
         .innerHTML = getDate(extent[0]) + "</br>" + getDate(extent[1]);
 }
 
-//function setSelectEvents(extent) {
-//    document.getElementById("select-events-box").innerHTML = "_ Indictments</br>_ Meetings</br>_ Tweets";
-//}
 
 function displayStories(data) {
     
@@ -742,10 +729,6 @@ function getExampleTerms() {
     return examples[0];
 }
 
-// // Inserts value at index postition of str 
-// function insert(str, index, value) {
-//     return str.substr(0, index) + value + str.substr(index);
-// }
 
 function clearAll() {
     document.getElementById("search-input").value = "";
