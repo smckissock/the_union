@@ -7,25 +7,25 @@
       "id": 146,
       "name": "Democratic Party",
       "type": "Organization",
-      "stories": 4
+      "stories": 11
     },
     {
       "id": 307,
       "name": "Michigan Democratic Party",
       "type": "Organization",
-      "stories": 1
+      "stories": 2
     },
     {
       "id": 308,
       "name": "Michigan Republican Party",
       "type": "Organization",
-      "stories": 11
+      "stories": 12
     },
     {
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 32
+      "stories": 39
     },
     {
       "id": 2980,
@@ -43,17 +43,23 @@
       "id": 651,
       "name": "Perry Johnson",
       "type": "Person",
-      "stories": 16
+      "stories": 18
     },
     {
       "id": 773,
       "name": "Gretchen Whitmer",
       "type": "Person",
-      "stories": 12
+      "stories": 19
     },
     {
       "id": 890,
       "name": "Chuck Yob",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1002,
+      "name": "Mike Murray",
       "type": "Person",
       "stories": 6
     },
@@ -76,16 +82,22 @@
       "stories": 6
     },
     {
+      "id": 1645,
+      "name": "Mike Brown",
+      "type": "Person",
+      "stories": 6
+    },
+    {
       "id": 1682,
       "name": "Ryan Kelley",
       "type": "Person",
-      "stories": 11
+      "stories": 18
     },
     {
       "id": 1844,
       "name": "James Craig",
       "type": "Person",
-      "stories": 24
+      "stories": 31
     },
     {
       "id": 1901,
@@ -103,7 +115,7 @@
       "id": 2002,
       "name": "Tudor Dixon",
       "type": "Person",
-      "stories": 11
+      "stories": 13
     },
     {
       "id": 2030,
@@ -127,7 +139,7 @@
       "id": 2171,
       "name": "Michael Brown",
       "type": "Person",
-      "stories": 3
+      "stories": 4
     },
     {
       "id": 2206,
@@ -139,7 +151,7 @@
       "id": 2298,
       "name": "Garrett Soldano",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 3051,
@@ -151,7 +163,7 @@
       "id": 3075,
       "name": "Kevin Rinke",
       "type": "Person",
-      "stories": 7
+      "stories": 9
     },
     {
       "id": 3087,
@@ -175,13 +187,13 @@
       "id": 3095,
       "name": "Ralph Rebandt",
       "type": "Person",
-      "stories": 7
+      "stories": 9
     },
     {
       "id": 3099,
       "name": "Donna Brandenburg",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
       "id": 5542,
@@ -199,7 +211,7 @@
       "id": 2645,
       "name": "Detroit",
       "type": "Place",
-      "stories": 22
+      "stories": 28
     },
     {
       "id": 2678,
@@ -229,7 +241,7 @@
       "id": 2791,
       "name": "Michigan",
       "type": "Place",
-      "stories": 29
+      "stories": 36
     },
     {
       "id": 2842,

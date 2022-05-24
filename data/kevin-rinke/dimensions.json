@@ -13,7 +13,7 @@
       "id": 146,
       "name": "Democratic Party",
       "type": "Organization",
-      "stories": 40
+      "stories": 47
     },
     {
       "id": 152,
@@ -31,13 +31,19 @@
       "id": 307,
       "name": "Michigan Democratic Party",
       "type": "Organization",
-      "stories": 13
+      "stories": 14
     },
     {
       "id": 308,
       "name": "Michigan Republican Party",
       "type": "Organization",
-      "stories": 11
+      "stories": 12
+    },
+    {
+      "id": 311,
+      "name": "Michigan Supreme Court",
+      "type": "Organization",
+      "stories": 6
     },
     {
       "id": 358,
@@ -49,13 +55,13 @@
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 86
+      "stories": 93
     },
     {
       "id": 482,
       "name": "Supreme Court of the United States",
       "type": "Organization",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 571,
@@ -85,7 +91,7 @@
       "id": 651,
       "name": "Perry Johnson",
       "type": "Person",
-      "stories": 28
+      "stories": 31
     },
     {
       "id": 699,
@@ -97,7 +103,7 @@
       "id": 773,
       "name": "Gretchen Whitmer",
       "type": "Person",
-      "stories": 54
+      "stories": 67
     },
     {
       "id": 821,
@@ -114,6 +120,12 @@
     {
       "id": 890,
       "name": "Chuck Yob",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1002,
+      "name": "Mike Murray",
       "type": "Person",
       "stories": 6
     },
@@ -205,7 +217,7 @@
       "id": 1645,
       "name": "Mike Brown",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 1670,
@@ -217,7 +229,7 @@
       "id": 1682,
       "name": "Ryan Kelley",
       "type": "Person",
-      "stories": 12
+      "stories": 19
     },
     {
       "id": 1815,
@@ -229,7 +241,7 @@
       "id": 1844,
       "name": "James Craig",
       "type": "Person",
-      "stories": 60
+      "stories": 68
     },
     {
       "id": 1849,
@@ -259,7 +271,7 @@
       "id": 2002,
       "name": "Tudor Dixon",
       "type": "Person",
-      "stories": 36
+      "stories": 39
     },
     {
       "id": 2022,
@@ -313,7 +325,7 @@
       "id": 2171,
       "name": "Michael Brown",
       "type": "Person",
-      "stories": 3
+      "stories": 4
     },
     {
       "id": 2206,
@@ -331,7 +343,7 @@
       "id": 2298,
       "name": "Garrett Soldano",
       "type": "Person",
-      "stories": 33
+      "stories": 36
     },
     {
       "id": 2303,
@@ -361,7 +373,7 @@
       "id": 3075,
       "name": "Kevin Rinke",
       "type": "Person",
-      "stories": 20
+      "stories": 23
     },
     {
       "id": 3087,
@@ -385,13 +397,13 @@
       "id": 3095,
       "name": "Ralph Rebandt",
       "type": "Person",
-      "stories": 7
+      "stories": 9
     },
     {
       "id": 3099,
       "name": "Donna Brandenburg",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
       "id": 5542,
@@ -427,13 +439,19 @@
       "id": 2645,
       "name": "Detroit",
       "type": "Place",
-      "stories": 40
+      "stories": 46
     },
     {
       "id": 2678,
       "name": "Grand Rapids",
       "type": "Place",
       "stories": 13
+    },
+    {
+      "id": 2731,
+      "name": "Kalamazoo County",
+      "type": "Place",
+      "stories": 6
     },
     {
       "id": 2737,
@@ -457,7 +475,7 @@
       "id": 2791,
       "name": "Michigan",
       "type": "Place",
-      "stories": 83
+      "stories": 96
     },
     {
       "id": 2799,
@@ -475,7 +493,7 @@
       "id": 2842,
       "name": "Oakland County",
       "type": "Place",
-      "stories": 10
+      "stories": 16
     },
     {
       "id": 2863,
@@ -494,6 +512,18 @@
       "name": "Washington Township",
       "type": "Place",
       "stories": 12
+    },
+    {
+      "id": 2961,
+      "name": "Washtenaw County",
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 2968,
+      "name": "Wayne County",
+      "type": "Place",
+      "stories": 6
     },
     {
       "id": 3064,

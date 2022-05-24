@@ -13,7 +13,7 @@
       "id": 146,
       "name": "Democratic Party",
       "type": "Organization",
-      "stories": 24
+      "stories": 30
     },
     {
       "id": 149,
@@ -67,7 +67,7 @@
       "id": 571,
       "name": "United States Senate",
       "type": "Organization",
-      "stories": 34
+      "stories": 40
     },
     {
       "id": 661,
@@ -85,7 +85,7 @@
       "id": 741,
       "name": "Alex Lasry",
       "type": "Person",
-      "stories": 12
+      "stories": 13
     },
     {
       "id": 780,
@@ -103,7 +103,7 @@
       "id": 802,
       "name": "Sarah Godlewski",
       "type": "Person",
-      "stories": 12
+      "stories": 18
     },
     {
       "id": 815,
@@ -115,7 +115,7 @@
       "id": 849,
       "name": "Steven Olikara",
       "type": "Person",
-      "stories": 12
+      "stories": 13
     },
     {
       "id": 886,
@@ -160,6 +160,12 @@
       "stories": 10
     },
     {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 6
+    },
+    {
       "id": 1218,
       "name": "John Boozman",
       "type": "Person",
@@ -169,7 +175,7 @@
       "id": 1253,
       "name": "Bernie Sanders",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 1299,
@@ -223,7 +229,7 @@
       "id": 1568,
       "name": "Tom Nelson",
       "type": "Person",
-      "stories": 27
+      "stories": 28
     },
     {
       "id": 1646,
@@ -283,13 +289,13 @@
       "id": 2039,
       "name": "Mandela Barnes",
       "type": "Person",
-      "stories": 22
+      "stories": 28
     },
     {
       "id": 2087,
       "name": "Joe Biden",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 2145,
@@ -370,6 +376,18 @@
       "stories": 10
     },
     {
+      "id": 2771,
+      "name": "Madison",
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 2793,
+      "name": "Milwaukee",
+      "type": "Place",
+      "stories": 6
+    },
+    {
       "id": 2819,
       "name": "New Hampshire",
       "type": "Place",
@@ -421,7 +439,7 @@
       "id": 2972,
       "name": "Wisconsin",
       "type": "Place",
-      "stories": 24
+      "stories": 30
     }
   ],
   "media": [

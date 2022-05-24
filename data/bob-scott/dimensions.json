@@ -7,7 +7,7 @@
       "id": 308,
       "name": "Michigan Republican Party",
       "type": "Organization",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 428,
@@ -37,6 +37,18 @@
       "id": 1147,
       "name": "Donald Trump",
       "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 1199,
+      "name": "Ty Detmer",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1235,
+      "name": "Lana Theis",
+      "type": "Person",
       "stories": 6
     },
     {
@@ -55,7 +67,7 @@
       "id": 1682,
       "name": "Ryan Kelley",
       "type": "Person",
-      "stories": 3
+      "stories": 4
     },
     {
       "id": 1844,
@@ -97,7 +109,7 @@
       "id": 2087,
       "name": "Joe Biden",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 2206,
@@ -110,6 +122,12 @@
       "name": "Garrett Soldano",
       "type": "Person",
       "stories": 8
+    },
+    {
+      "id": 2312,
+      "name": "Patrick Colbeck",
+      "type": "Person",
+      "stories": 6
     },
     {
       "id": 3075,
@@ -127,7 +145,7 @@
       "id": 3088,
       "name": "Bob Scott",
       "type": "Person",
-      "stories": 3
+      "stories": 4
     },
     {
       "id": 3090,
@@ -181,7 +199,7 @@
       "id": 2791,
       "name": "Michigan",
       "type": "Place",
-      "stories": 18
+      "stories": 24
     },
     {
       "id": 2842,

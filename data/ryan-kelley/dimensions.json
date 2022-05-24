@@ -19,7 +19,7 @@
       "id": 146,
       "name": "Democratic Party",
       "type": "Organization",
-      "stories": 10
+      "stories": 17
     },
     {
       "id": 183,
@@ -37,13 +37,13 @@
       "id": 307,
       "name": "Michigan Democratic Party",
       "type": "Organization",
-      "stories": 1
+      "stories": 2
     },
     {
       "id": 308,
       "name": "Michigan Republican Party",
       "type": "Organization",
-      "stories": 17
+      "stories": 24
     },
     {
       "id": 427,
@@ -55,7 +55,7 @@
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 44
+      "stories": 51
     },
     {
       "id": 550,
@@ -79,17 +79,23 @@
       "id": 651,
       "name": "Perry Johnson",
       "type": "Person",
-      "stories": 18
+      "stories": 20
     },
     {
       "id": 773,
       "name": "Gretchen Whitmer",
       "type": "Person",
-      "stories": 18
+      "stories": 25
     },
     {
       "id": 890,
       "name": "Chuck Yob",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1002,
+      "name": "Mike Murray",
       "type": "Person",
       "stories": 6
     },
@@ -109,7 +115,19 @@
       "id": 1147,
       "name": "Donald Trump",
       "type": "Person",
-      "stories": 24
+      "stories": 30
+    },
+    {
+      "id": 1199,
+      "name": "Ty Detmer",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 1235,
+      "name": "Lana Theis",
+      "type": "Person",
+      "stories": 6
     },
     {
       "id": 1237,
@@ -142,10 +160,16 @@
       "stories": 6
     },
     {
+      "id": 1645,
+      "name": "Mike Brown",
+      "type": "Person",
+      "stories": 6
+    },
+    {
       "id": 1682,
       "name": "Ryan Kelley",
       "type": "Person",
-      "stories": 15
+      "stories": 23
     },
     {
       "id": 1831,
@@ -157,7 +181,7 @@
       "id": 1844,
       "name": "James Craig",
       "type": "Person",
-      "stories": 30
+      "stories": 37
     },
     {
       "id": 1901,
@@ -181,7 +205,7 @@
       "id": 2002,
       "name": "Tudor Dixon",
       "type": "Person",
-      "stories": 13
+      "stories": 15
     },
     {
       "id": 2006,
@@ -205,7 +229,7 @@
       "id": 2087,
       "name": "Joe Biden",
       "type": "Person",
-      "stories": 18
+      "stories": 24
     },
     {
       "id": 2095,
@@ -223,7 +247,7 @@
       "id": 2171,
       "name": "Michael Brown",
       "type": "Person",
-      "stories": 3
+      "stories": 4
     },
     {
       "id": 2206,
@@ -235,11 +259,17 @@
       "id": 2298,
       "name": "Garrett Soldano",
       "type": "Person",
-      "stories": 13
+      "stories": 15
     },
     {
       "id": 2303,
       "name": "Madison Cawthorn",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2312,
+      "name": "Patrick Colbeck",
       "type": "Person",
       "stories": 6
     },
@@ -259,7 +289,7 @@
       "id": 3075,
       "name": "Kevin Rinke",
       "type": "Person",
-      "stories": 8
+      "stories": 10
     },
     {
       "id": 3085,
@@ -277,7 +307,7 @@
       "id": 3088,
       "name": "Bob Scott",
       "type": "Person",
-      "stories": 3
+      "stories": 4
     },
     {
       "id": 3090,
@@ -295,13 +325,13 @@
       "id": 3095,
       "name": "Ralph Rebandt",
       "type": "Person",
-      "stories": 7
+      "stories": 9
     },
     {
       "id": 3099,
       "name": "Donna Brandenburg",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
       "id": 5542,
@@ -319,7 +349,7 @@
       "id": 2645,
       "name": "Detroit",
       "type": "Place",
-      "stories": 22
+      "stories": 28
     },
     {
       "id": 2678,
@@ -349,7 +379,7 @@
       "id": 2791,
       "name": "Michigan",
       "type": "Place",
-      "stories": 41
+      "stories": 54
     },
     {
       "id": 2826,

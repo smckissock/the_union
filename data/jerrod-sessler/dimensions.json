@@ -31,11 +31,17 @@
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 12
+      "stories": 18
     },
     {
       "id": 449,
       "name": "Seattle Seahawks",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 538,
+      "name": "Twisted Sister",
       "type": "Organization",
       "stories": 6
     },
@@ -49,13 +55,19 @@
       "id": 562,
       "name": "United States House of Representatives",
       "type": "Organization",
-      "stories": 20
+      "stories": 26
     },
     {
       "id": 571,
       "name": "United States Senate",
       "type": "Organization",
       "stories": 10
+    },
+    {
+      "id": 615,
+      "name": "Washington State Republican Party",
+      "type": "Organization",
+      "stories": 6
     },
     {
       "id": 641,
@@ -103,7 +115,7 @@
       "id": 1147,
       "name": "Donald Trump",
       "type": "Person",
-      "stories": 18
+      "stories": 24
     },
     {
       "id": 1194,
@@ -115,7 +127,7 @@
       "id": 1248,
       "name": "Elizabeth Cheney",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 1299,
@@ -163,7 +175,7 @@
       "id": 1614,
       "name": "Fred Upton",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 1670,
@@ -199,7 +211,7 @@
       "id": 1983,
       "name": "Bill Huizenga",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 2002,
@@ -211,7 +223,7 @@
       "id": 2005,
       "name": "Anthony Gonzalez",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 2006,
@@ -223,7 +235,7 @@
       "id": 2010,
       "name": "John Katko",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 2030,
@@ -235,13 +247,13 @@
       "id": 2074,
       "name": "Dan Newhouse",
       "type": "Person",
-      "stories": 12
+      "stories": 18
     },
     {
       "id": 2087,
       "name": "Joe Biden",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 2125,
@@ -253,7 +265,7 @@
       "id": 2214,
       "name": "Adam Kinzinger",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 2249,
@@ -274,10 +286,16 @@
       "stories": 12
     },
     {
+      "id": 2445,
+      "name": "Dee Snider",
+      "type": "Person",
+      "stories": 6
+    },
+    {
       "id": 2479,
       "name": "Jerrod Sessler",
       "type": "Person",
-      "stories": 5
+      "stories": 11
     },
     {
       "id": 3006,
@@ -307,7 +325,7 @@
       "id": 3097,
       "name": "Loren Culp",
       "type": "Person",
-      "stories": 5
+      "stories": 6
     },
     {
       "id": 3101,

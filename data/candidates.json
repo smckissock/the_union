@@ -4,136 +4,120 @@
     "name": "Ron Desantis",
     "incumbent": "True",
     "slug": "ron-desantis",
-    "storyCount": "791",
-    "localStoryCount": "18"
+    "storyCount": "649",
+    "localStoryCount": "160"
   },
   {
     "party": null,
     "name": "Brian Kemp",
     "incumbent": "True",
     "slug": "brian-kemp",
-    "storyCount": "354",
-    "localStoryCount": "102"
-  },
-  {
-    "party": null,
-    "name": "Donna Brandenburg",
-    "incumbent": "False",
-    "slug": "donna-brandenburg",
-    "storyCount": "7",
-    "localStoryCount": "1"
+    "storyCount": "350",
+    "localStoryCount": "106"
   },
   {
     "party": null,
     "name": "Michael Brown",
     "incumbent": "False",
     "slug": "michael-brown",
-    "storyCount": "112",
-    "localStoryCount": "1"
+    "storyCount": "107",
+    "localStoryCount": "6"
   },
   {
     "party": null,
     "name": "James Craig",
     "incumbent": "False",
     "slug": "james-craig",
-    "storyCount": "43",
-    "localStoryCount": "1"
+    "storyCount": "34",
+    "localStoryCount": "10"
   },
   {
     "party": null,
     "name": "Tudor Dixon",
     "incumbent": "False",
     "slug": "tudor-dixon",
-    "storyCount": "30",
-    "localStoryCount": "1"
+    "storyCount": "20",
+    "localStoryCount": "11"
   },
   {
     "party": null,
     "name": "Perry Johnson",
     "incumbent": "False",
     "slug": "perry-johnson",
-    "storyCount": "26",
-    "localStoryCount": "1"
+    "storyCount": "17",
+    "localStoryCount": "10"
   },
   {
     "party": null,
     "name": "Ryan Kelley",
     "incumbent": "False",
     "slug": "ryan-kelley",
-    "storyCount": "13",
-    "localStoryCount": "1"
+    "storyCount": "6",
+    "localStoryCount": "8"
   },
   {
     "party": null,
     "name": "Ralph Rebandt",
     "incumbent": "False",
     "slug": "ralph-rebandt",
-    "storyCount": "8",
-    "localStoryCount": "1"
+    "storyCount": "1",
+    "localStoryCount": "8"
   },
   {
     "party": null,
     "name": "Kevin Rinke",
     "incumbent": "False",
     "slug": "kevin-rinke",
-    "storyCount": "22",
-    "localStoryCount": "1"
+    "storyCount": "15",
+    "localStoryCount": "8"
   },
   {
     "party": null,
     "name": "Bob Scott",
     "incumbent": "False",
     "slug": "bob-scott",
-    "storyCount": "4",
-    "localStoryCount": "0"
+    "storyCount": "1",
+    "localStoryCount": "3"
   },
   {
     "party": null,
     "name": "Garrett Soldano",
     "incumbent": "False",
     "slug": "garrett-soldano",
-    "storyCount": "31",
-    "localStoryCount": "1"
-  },
-  {
-    "party": null,
-    "name": "Evan Space",
-    "incumbent": "False",
-    "slug": "evan-space",
-    "storyCount": "2",
-    "localStoryCount": "0"
+    "storyCount": "24",
+    "localStoryCount": "8"
   },
   {
     "party": null,
     "name": "Peter Meijer",
     "incumbent": "True",
     "slug": "peter-meijer",
-    "storyCount": "74",
-    "localStoryCount": "0"
+    "storyCount": "71",
+    "localStoryCount": "3"
   },
   {
     "party": null,
     "name": "John Gibbs",
     "incumbent": "False",
     "slug": "john-gibbs",
-    "storyCount": "28",
-    "localStoryCount": "0"
+    "storyCount": "26",
+    "localStoryCount": "2"
   },
   {
     "party": null,
     "name": "J.D. Vance",
     "incumbent": "False",
     "slug": "jd-vance",
-    "storyCount": "733",
-    "localStoryCount": "12"
+    "storyCount": "723",
+    "localStoryCount": "22"
   },
   {
     "party": null,
     "name": "Doug Mastriano",
     "incumbent": "False",
     "slug": "doug-mastriano",
-    "storyCount": "345",
-    "localStoryCount": "10"
+    "storyCount": "332",
+    "localStoryCount": "23"
   },
   {
     "party": null,
@@ -220,63 +204,55 @@
     "name": "Mandela Barnes",
     "incumbent": "False",
     "slug": "mandela-barnes",
-    "storyCount": "124",
-    "localStoryCount": "0"
+    "storyCount": "98",
+    "localStoryCount": "26"
   },
   {
     "party": null,
     "name": "Sarah Godlewski",
     "incumbent": "False",
     "slug": "sarah-godlewski",
-    "storyCount": "91",
-    "localStoryCount": "0"
+    "storyCount": "67",
+    "localStoryCount": "24"
   },
   {
     "party": null,
     "name": "Alex Lasry",
     "incumbent": "False",
     "slug": "alex-lasry",
-    "storyCount": "100",
-    "localStoryCount": "0"
+    "storyCount": "75",
+    "localStoryCount": "25"
   },
   {
     "party": null,
     "name": "Tom Nelson",
     "incumbent": "False",
     "slug": "tom-nelson",
-    "storyCount": "74",
-    "localStoryCount": "0"
+    "storyCount": "51",
+    "localStoryCount": "23"
   },
   {
     "party": null,
     "name": "Steven Olikara",
     "incumbent": "False",
     "slug": "steven-olikara",
-    "storyCount": "8",
-    "localStoryCount": "0"
-  },
-  {
-    "party": null,
-    "name": "Peter Peckarsky",
-    "incumbent": "False",
-    "slug": "peter-peckarsky",
-    "storyCount": "1",
-    "localStoryCount": "0"
+    "storyCount": "3",
+    "localStoryCount": "5"
   },
   {
     "party": null,
     "name": "Liz Cheney",
     "incumbent": "True",
     "slug": "liz-cheney",
-    "storyCount": "651",
-    "localStoryCount": "18"
+    "storyCount": "630",
+    "localStoryCount": "39"
   },
   {
     "party": null,
     "name": "Harriet Hageman",
     "incumbent": "False",
     "slug": "harriet-hageman",
-    "storyCount": "229",
-    "localStoryCount": "2"
+    "storyCount": "225",
+    "localStoryCount": "6"
   }
 ]

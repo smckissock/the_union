@@ -97,7 +97,7 @@
       "id": 146,
       "name": "Democratic Party",
       "type": "Organization",
-      "stories": 315
+      "stories": 339
     },
     {
       "id": 148,
@@ -247,19 +247,19 @@
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 285
+      "stories": 303
     },
     {
       "id": 431,
       "name": "Republican Party of Wisconsin",
       "type": "Organization",
-      "stories": 18
+      "stories": 24
     },
     {
       "id": 471,
       "name": "State Innovation Exchange",
       "type": "Organization",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 482,
@@ -331,7 +331,7 @@
       "id": 571,
       "name": "United States Senate",
       "type": "Organization",
-      "stories": 390
+      "stories": 408
     },
     {
       "id": 572,
@@ -505,7 +505,7 @@
       "id": 741,
       "name": "Alex Lasry",
       "type": "Person",
-      "stories": 137
+      "stories": 140
     },
     {
       "id": 752,
@@ -565,7 +565,7 @@
       "id": 802,
       "name": "Sarah Godlewski",
       "type": "Person",
-      "stories": 194
+      "stories": 207
     },
     {
       "id": 812,
@@ -607,7 +607,7 @@
       "id": 849,
       "name": "Steven Olikara",
       "type": "Person",
-      "stories": 18
+      "stories": 19
     },
     {
       "id": 854,
@@ -625,7 +625,7 @@
       "id": 856,
       "name": "Lena Taylor",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 863,
@@ -853,7 +853,7 @@
       "id": 1147,
       "name": "Donald Trump",
       "type": "Person",
-      "stories": 189
+      "stories": 207
     },
     {
       "id": 1154,
@@ -877,7 +877,7 @@
       "id": 1167,
       "name": "Kurt Kober",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 1172,
@@ -931,7 +931,7 @@
       "id": 1253,
       "name": "Bernie Sanders",
       "type": "Person",
-      "stories": 39
+      "stories": 45
     },
     {
       "id": 1259,
@@ -1075,7 +1075,7 @@
       "id": 1462,
       "name": "Scott Walker",
       "type": "Person",
-      "stories": 24
+      "stories": 36
     },
     {
       "id": 1464,
@@ -1171,7 +1171,7 @@
       "id": 1568,
       "name": "Tom Nelson",
       "type": "Person",
-      "stories": 237
+      "stories": 245
     },
     {
       "id": 1572,
@@ -1201,7 +1201,7 @@
       "id": 1608,
       "name": "Robin Vos",
       "type": "Person",
-      "stories": 15
+      "stories": 21
     },
     {
       "id": 1609,
@@ -1423,7 +1423,7 @@
       "id": 1925,
       "name": "Ron Johnson",
       "type": "Person",
-      "stories": 294
+      "stories": 306
     },
     {
       "id": 1928,
@@ -1519,7 +1519,7 @@
       "id": 2039,
       "name": "Mandela Barnes",
       "type": "Person",
-      "stories": 387
+      "stories": 412
     },
     {
       "id": 2049,
@@ -1549,7 +1549,7 @@
       "id": 2087,
       "name": "Joe Biden",
       "type": "Person",
-      "stories": 257
+      "stories": 275
     },
     {
       "id": 2094,
@@ -1771,7 +1771,7 @@
       "id": 2418,
       "name": "Bill Nelson",
       "type": "Person",
-      "stories": 6
+      "stories": 12
     },
     {
       "id": 2422,
@@ -1801,7 +1801,7 @@
       "id": 2429,
       "name": "Barack Obama",
       "type": "Person",
-      "stories": 12
+      "stories": 18
     },
     {
       "id": 2458,
@@ -2185,7 +2185,7 @@
       "id": 2771,
       "name": "Madison",
       "type": "Place",
-      "stories": 51
+      "stories": 63
     },
     {
       "id": 2780,
@@ -2209,7 +2209,7 @@
       "id": 2793,
       "name": "Milwaukee",
       "type": "Place",
-      "stories": 73
+      "stories": 97
     },
     {
       "id": 2794,
@@ -2263,7 +2263,7 @@
       "id": 2834,
       "name": "North Carolina",
       "type": "Place",
-      "stories": 42
+      "stories": 48
     },
     {
       "id": 2845,
@@ -2395,7 +2395,7 @@
       "id": 2945,
       "name": "United States of America",
       "type": "Place",
-      "stories": 99
+      "stories": 105
     },
     {
       "id": 2951,
@@ -2443,7 +2443,7 @@
       "id": 2972,
       "name": "Wisconsin",
       "type": "Place",
-      "stories": 319
+      "stories": 349
     },
     {
       "id": 5003,

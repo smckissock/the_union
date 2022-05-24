@@ -13,6 +13,18 @@ export class CandidatesHtml {
         
         this.div = div;
         this.bodyDiv = div.select(".candidates-content")
+
+        let totalStories = { "storyCount" : 0, "localStoryCount" : 0 }
+        states.forEach(state => {
+            state.races.forEach(race => {
+                race.candidates.forEach(candidate => {
+                    totalStories.storyCount += +candidate.storyCount;
+                    totalStories.localStoryCount += +candidate.localStoryCount
+                });
+            });
+        });
+        console.log("All Stories " + totalStories.storyCount);
+        console.log("Local Stories " + totalStories.localStoryCount);
     }
 
     show() {

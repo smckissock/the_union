@@ -61,7 +61,7 @@
       "id": 146,
       "name": "Democratic Party",
       "type": "Organization",
-      "stories": 256
+      "stories": 274
     },
     {
       "id": 148,
@@ -187,7 +187,7 @@
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 229
+      "stories": 235
     },
     {
       "id": 431,
@@ -247,7 +247,7 @@
       "id": 571,
       "name": "United States Senate",
       "type": "Organization",
-      "stories": 313
+      "stories": 325
     },
     {
       "id": 572,
@@ -331,7 +331,7 @@
       "id": 741,
       "name": "Alex Lasry",
       "type": "Person",
-      "stories": 108
+      "stories": 111
     },
     {
       "id": 765,
@@ -379,7 +379,7 @@
       "id": 802,
       "name": "Sarah Godlewski",
       "type": "Person",
-      "stories": 220
+      "stories": 233
     },
     {
       "id": 812,
@@ -409,7 +409,7 @@
       "id": 849,
       "name": "Steven Olikara",
       "type": "Person",
-      "stories": 12
+      "stories": 13
     },
     {
       "id": 852,
@@ -565,7 +565,7 @@
       "id": 1147,
       "name": "Donald Trump",
       "type": "Person",
-      "stories": 104
+      "stories": 122
     },
     {
       "id": 1154,
@@ -613,7 +613,7 @@
       "id": 1253,
       "name": "Bernie Sanders",
       "type": "Person",
-      "stories": 18
+      "stories": 24
     },
     {
       "id": 1262,
@@ -745,7 +745,7 @@
       "id": 1568,
       "name": "Tom Nelson",
       "type": "Person",
-      "stories": 224
+      "stories": 232
     },
     {
       "id": 1572,
@@ -925,7 +925,7 @@
       "id": 1925,
       "name": "Ron Johnson",
       "type": "Person",
-      "stories": 252
+      "stories": 264
     },
     {
       "id": 1928,
@@ -973,7 +973,7 @@
       "id": 2039,
       "name": "Mandela Barnes",
       "type": "Person",
-      "stories": 273
+      "stories": 286
     },
     {
       "id": 2049,
@@ -997,7 +997,7 @@
       "id": 2087,
       "name": "Joe Biden",
       "type": "Person",
-      "stories": 174
+      "stories": 192
     },
     {
       "id": 2095,
@@ -1132,6 +1132,12 @@
       "stories": 6
     },
     {
+      "id": 2418,
+      "name": "Bill Nelson",
+      "type": "Person",
+      "stories": 6
+    },
+    {
       "id": 2422,
       "name": "Jim Hagedorn",
       "type": "Person",
@@ -1148,6 +1154,12 @@
       "name": "Nicole Malliotakis",
       "type": "Person",
       "stories": 24
+    },
+    {
+      "id": 2429,
+      "name": "Barack Obama",
+      "type": "Person",
+      "stories": 6
     },
     {
       "id": 2458,
@@ -1411,7 +1423,7 @@
       "id": 2771,
       "name": "Madison",
       "type": "Place",
-      "stories": 33
+      "stories": 39
     },
     {
       "id": 2780,
@@ -1429,7 +1441,7 @@
       "id": 2793,
       "name": "Milwaukee",
       "type": "Place",
-      "stories": 39
+      "stories": 51
     },
     {
       "id": 2794,
@@ -1471,7 +1483,7 @@
       "id": 2834,
       "name": "North Carolina",
       "type": "Place",
-      "stories": 25
+      "stories": 31
     },
     {
       "id": 2855,
@@ -1585,7 +1597,7 @@
       "id": 2972,
       "name": "Wisconsin",
       "type": "Place",
-      "stories": 273
+      "stories": 291
     },
     {
       "id": 5003,
