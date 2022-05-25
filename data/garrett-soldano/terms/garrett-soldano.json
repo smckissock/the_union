@@ -48,14 +48,6 @@
     "title": "GOP primary for Wisconsin governor"
   },
   {
-    "id": 1001,
-    "mediaId": 124,
-    "date": "2/1/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Michigan GOP governor candidate says rape victims shouldn't have abortions, baby might be 'next president'"
-  },
-  {
     "id": 1000,
     "mediaId": 237,
     "date": "2/1/2022 12:00:00 AM",
@@ -70,6 +62,14 @@
     "sentence": "When <span class='selected-term'>Garrett Soldano</span> was asked on a right-wing podcast how he would ensure the sanctity of life? in Michigan, the Republican candidate for governor said he would stop at nothing to protect a fetus.",
     "author": "",
     "title": "Mich. GOP governor candidate said rape victims shouldn't have abortions: Baby inside them may be the next president'"
+  },
+  {
+    "id": 1001,
+    "mediaId": 124,
+    "date": "2/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Michigan GOP governor candidate says rape victims shouldn't have abortions, baby might be 'next president'"
   },
   {
     "id": 998,
@@ -168,20 +168,20 @@
     "title": "Daily Kos Elections Live Digest: 4/22"
   },
   {
-    "id": 6,
-    "mediaId": 43,
-    "date": "4/25/2022 12:00:00 AM",
-    "sentence": "Also in the running are chiropractor <span class='selected-term'>Garrett Soldano</span>, Michigan State Police Captain Mike Brown, and five others.",
-    "author": "",
-    "title": "Morning Digest: Michigan Republican sends horrid"
-  },
-  {
     "id": 886,
     "mediaId": 43,
     "date": "4/25/2022 12:00:00 AM",
     "sentence": "He was the former chair of the Antrim Republican Party and promotes the BIG LIE and is a supporter of <span class='selected-term'>Garrett Soldano</span>!",
     "author": "",
     "title": "'Trucker Randy' gives truckers a bad name with racist podcast claim"
+  },
+  {
+    "id": 6,
+    "mediaId": 43,
+    "date": "4/25/2022 12:00:00 AM",
+    "sentence": "Also in the running are chiropractor <span class='selected-term'>Garrett Soldano</span>, Michigan State Police Captain Mike Brown, and five others.",
+    "author": "",
+    "title": "Morning Digest: Michigan Republican sends horrid"
   },
   {
     "id": 879,
@@ -224,20 +224,20 @@
     "title": "Higher education funding highlights divisions among GOP candidates for governor at debate"
   },
   {
-    "id": 3455,
-    "mediaId": 19,
-    "date": "5/16/2022 12:00:00 AM",
-    "sentence": "Former Detroit Police Chief James Craig is leading his closest opponent, <span class='selected-term'>Garrett Soldano</span>, by 17 points in the Republican primary race for Michigan governor, according to a polling memo released Friday.",
-    "author": "Ethan Letkeman",
-    "title": "Exclusive  She Has Failed Miserably: Former Detroit Police Chief James Craig on Democrat Gov. Gretchen Whitmer"
-  },
-  {
     "id": 3454,
     "mediaId": 261,
     "date": "5/16/2022 12:00:00 AM",
     "sentence": "Based on a poll the business group conducted of support for the 10 candidates who have submitted petition signatures to get on the primary ballot, the chamber invited former Detroit Police Chief James Craig, Oakland County businessman Perry Johnson, Kelley, Oakland County businessman Kevin Rinke, and Kalamazoo chiropractor <span class='selected-term'>Garrett Soldano</span> to participate in the June 2 debate.",
     "author": "Paul Egan",
     "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements"
+  },
+  {
+    "id": 3455,
+    "mediaId": 19,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "Former Detroit Police Chief James Craig is leading his closest opponent, <span class='selected-term'>Garrett Soldano</span>, by 17 points in the Republican primary race for Michigan governor, according to a polling memo released Friday.",
+    "author": "Ethan Letkeman",
+    "title": "Exclusive  She Has Failed Miserably: Former Detroit Police Chief James Craig on Democrat Gov. Gretchen Whitmer"
   },
   {
     "id": 7301,
@@ -254,5 +254,13 @@
     "sentence": "Also on the ballot, and suddenly in much stronger positions, are:Ottawa County real estate agent Ryan Kelley; Farmington Hills pastor Ralph Rebandt; Bloomfield Hills businessman Kevin Rinke, and Kalamazoo chiropractor <span class='selected-term'>Garrett Soldano</span>.",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot"
+  },
+  {
+    "id": 7473,
+    "mediaId": 157,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "Businessman Kevin Rinke, chiropractor <span class='selected-term'>Garrett Soldano</span>, far-right activist Ryan Kelley and the Rev.",
+    "author": "",
+    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race"
   }
 ]

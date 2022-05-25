@@ -7,49 +7,49 @@
       "id": 79,
       "name": "California Democrat",
       "type": "Organization",
-      "stories": 4
+      "stories": 5
     },
     {
       "id": 183,
       "name": "Federal Election Commission",
       "type": "Organization",
-      "stories": 10
+      "stories": 12
     },
     {
       "id": 255,
       "name": "House Republicans",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 449,
       "name": "Seattle Seahawks",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 545,
       "name": "United States Congress",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 562,
       "name": "United States House of Representatives",
       "type": "Organization",
-      "stories": 16
+      "stories": 19
     },
     {
       "id": 571,
       "name": "United States Senate",
       "type": "Organization",
-      "stories": 10
+      "stories": 12
     },
     {
       "id": 641,
@@ -61,13 +61,13 @@
       "id": 683,
       "name": "Tucker Carlson",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 736,
       "name": "Vicki Kraft",
       "type": "Person",
-      "stories": 8
+      "stories": 9
     },
     {
       "id": 821,
@@ -79,13 +79,13 @@
       "id": 837,
       "name": "Stephen Singiser",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1007,
       "name": "Stephen Wolf",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1025,
@@ -97,67 +97,67 @@
       "id": 1147,
       "name": "Donald Trump",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1194,
       "name": "Doug White",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1248,
       "name": "Elizabeth Cheney",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1299,
       "name": "Carolyn Fiddler",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1335,
       "name": "Nancy Pelosi",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1384,
       "name": "Ryan Zinke",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1454,
       "name": "Arjun Jaikumar",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1563,
       "name": "Nancy Mace",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1614,
       "name": "Fred Upton",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1810,
       "name": "Kim Schrier",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1895,
       "name": "Dan K. Eberhart",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1901,
@@ -169,13 +169,13 @@
       "id": 1983,
       "name": "Bill Huizenga",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2005,
       "name": "Anthony Gonzalez",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2006,
@@ -187,43 +187,43 @@
       "id": 2010,
       "name": "John Katko",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2030,
       "name": "Vladimir Putin",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2074,
       "name": "Dan Newhouse",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2087,
       "name": "Joe Biden",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2125,
       "name": "Jaime Herrera Beutler",
       "type": "Person",
-      "stories": 8
+      "stories": 9
     },
     {
       "id": 2214,
       "name": "Adam Kinzinger",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2249,
       "name": "Beth Van Duyne",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2303,
@@ -235,7 +235,7 @@
       "id": 2436,
       "name": "David Valadao",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 2479,
@@ -295,49 +295,49 @@
       "id": 2791,
       "name": "Michigan",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2888,
       "name": "Russia",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2902,
       "name": "Seattle",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2942,
       "name": "Ukraine",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2945,
       "name": "United States of America",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2957,
       "name": "Washington",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2959,
       "name": "Washington, D.C.",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2976,
       "name": "Wyoming",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     }
   ],
   "media": [

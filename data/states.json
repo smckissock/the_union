@@ -15,8 +15,8 @@
             "name": "Ron Desantis",
             "incumbent": "True",
             "slug": "ron-desantis",
-            "storyCount": "649",
-            "localStoryCount": "160"
+            "storyCount": "657",
+            "localStoryCount": "161"
           }
         ]
       }
@@ -38,8 +38,26 @@
             "name": "Brian Kemp",
             "incumbent": "True",
             "slug": "brian-kemp",
-            "storyCount": "350",
-            "localStoryCount": "106"
+            "storyCount": "422",
+            "localStoryCount": "144"
+          }
+        ]
+      },
+      {
+        "title": "Senate",
+        "office": "Senate",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "7",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Herschel Walker",
+            "incumbent": "False",
+            "slug": "herschel-walker",
+            "storyCount": "425",
+            "localStoryCount": "115"
           }
         ]
       }
@@ -58,10 +76,18 @@
         "candidates": [
           {
             "party": "R",
+            "name": "Donna Brandenburg",
+            "incumbent": "False",
+            "slug": "donna-brandenburg",
+            "storyCount": "1",
+            "localStoryCount": "8"
+          },
+          {
+            "party": "R",
             "name": "Michael Brown",
             "incumbent": "False",
             "slug": "michael-brown",
-            "storyCount": "107",
+            "storyCount": "108",
             "localStoryCount": "6"
           },
           {
@@ -69,7 +95,7 @@
             "name": "James Craig",
             "incumbent": "False",
             "slug": "james-craig",
-            "storyCount": "34",
+            "storyCount": "35",
             "localStoryCount": "10"
           },
           {
@@ -77,7 +103,7 @@
             "name": "Tudor Dixon",
             "incumbent": "False",
             "slug": "tudor-dixon",
-            "storyCount": "20",
+            "storyCount": "21",
             "localStoryCount": "11"
           },
           {
@@ -85,7 +111,7 @@
             "name": "Perry Johnson",
             "incumbent": "False",
             "slug": "perry-johnson",
-            "storyCount": "17",
+            "storyCount": "18",
             "localStoryCount": "10"
           },
           {
@@ -93,7 +119,7 @@
             "name": "Ryan Kelley",
             "incumbent": "False",
             "slug": "ryan-kelley",
-            "storyCount": "6",
+            "storyCount": "7",
             "localStoryCount": "8"
           },
           {
@@ -101,7 +127,7 @@
             "name": "Ralph Rebandt",
             "incumbent": "False",
             "slug": "ralph-rebandt",
-            "storyCount": "1",
+            "storyCount": "2",
             "localStoryCount": "8"
           },
           {
@@ -109,7 +135,7 @@
             "name": "Kevin Rinke",
             "incumbent": "False",
             "slug": "kevin-rinke",
-            "storyCount": "15",
+            "storyCount": "16",
             "localStoryCount": "8"
           },
           {
@@ -125,7 +151,7 @@
             "name": "Garrett Soldano",
             "incumbent": "False",
             "slug": "garrett-soldano",
-            "storyCount": "24",
+            "storyCount": "25",
             "localStoryCount": "8"
           }
         ]
@@ -151,7 +177,7 @@
             "name": "John Gibbs",
             "incumbent": "False",
             "slug": "john-gibbs",
-            "storyCount": "26",
+            "storyCount": "27",
             "localStoryCount": "2"
           }
         ]
@@ -174,7 +200,7 @@
             "name": "J.D. Vance",
             "incumbent": "False",
             "slug": "jd-vance",
-            "storyCount": "723",
+            "storyCount": "735",
             "localStoryCount": "22"
           }
         ]
@@ -197,8 +223,8 @@
             "name": "Doug Mastriano",
             "incumbent": "False",
             "slug": "doug-mastriano",
-            "storyCount": "332",
-            "localStoryCount": "23"
+            "storyCount": "338",
+            "localStoryCount": "24"
           }
         ]
       },
@@ -290,7 +316,7 @@
             "name": "Joe Kent",
             "incumbent": "False",
             "slug": "joe-kent",
-            "storyCount": "41",
+            "storyCount": "43",
             "localStoryCount": "3"
           },
           {
@@ -355,7 +381,7 @@
             "name": "Mandela Barnes",
             "incumbent": "False",
             "slug": "mandela-barnes",
-            "storyCount": "98",
+            "storyCount": "100",
             "localStoryCount": "26"
           },
           {
@@ -363,7 +389,7 @@
             "name": "Sarah Godlewski",
             "incumbent": "False",
             "slug": "sarah-godlewski",
-            "storyCount": "67",
+            "storyCount": "68",
             "localStoryCount": "24"
           },
           {
@@ -371,7 +397,7 @@
             "name": "Alex Lasry",
             "incumbent": "False",
             "slug": "alex-lasry",
-            "storyCount": "75",
+            "storyCount": "76",
             "localStoryCount": "25"
           },
           {
@@ -379,7 +405,7 @@
             "name": "Tom Nelson",
             "incumbent": "False",
             "slug": "tom-nelson",
-            "storyCount": "51",
+            "storyCount": "52",
             "localStoryCount": "23"
           },
           {
@@ -387,39 +413,8 @@
             "name": "Steven Olikara",
             "incumbent": "False",
             "slug": "steven-olikara",
-            "storyCount": "3",
+            "storyCount": "4",
             "localStoryCount": "5"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Wyoming",
-    "races": [
-      {
-        "title": "House 1st",
-        "office": "House",
-        "primaryDate": "2022-05-24",
-        "runoffDate": "2022-06-21",
-        "raceType": "Republican Primary",
-        "ranking": "5",
-        "candidates": [
-          {
-            "party": "R",
-            "name": "Liz Cheney",
-            "incumbent": "True",
-            "slug": "liz-cheney",
-            "storyCount": "630",
-            "localStoryCount": "39"
-          },
-          {
-            "party": "R",
-            "name": "Harriet Hageman",
-            "incumbent": "False",
-            "slug": "harriet-hageman",
-            "storyCount": "225",
-            "localStoryCount": "6"
           }
         ]
       }

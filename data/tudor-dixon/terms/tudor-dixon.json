@@ -1,19 +1,19 @@
 [
   {
-    "id": 1033,
-    "mediaId": 195,
-    "date": "1/1/2022 12:00:00 AM",
-    "sentence": "The Cook Political Report rates the race as a toss-up.?\nThe Michigan governor faces a crowded field of 11 Republican challengers, including former Detroit Police Chief James Craig, conservative talk show host <span class='selected-term'>Tudor Dixon</span> and chiropractor Garrett Soldano.",
-    "author": "Julia Manchester",
-    "title": "Seven most vulnerable governors facing reelection in 2022"
-  },
-  {
     "id": 859,
     "mediaId": 195,
     "date": "1/1/2022 12:00:00 AM",
     "sentence": "Whitmer is facing a cavalcade of possible Republican challengers, including former Detroit Police Chief James Craig and conservative media personality <span class='selected-term'>Tudor Dixon</span>, and her ability  or inability  to fend off her ultimate challenger will indicate how Democrats are able to rebut coronavirus-related criticism and compete in Rust Belt swing states like Michigan, Pennsylvania and Wisconsin.",
     "author": "Tal Axelrod",
     "title": "Eleven interesting races to watch in 2022"
+  },
+  {
+    "id": 1033,
+    "mediaId": 195,
+    "date": "1/1/2022 12:00:00 AM",
+    "sentence": "The Cook Political Report rates the race as a toss-up.?\nThe Michigan governor faces a crowded field of 11 Republican challengers, including former Detroit Police Chief James Craig, conservative talk show host <span class='selected-term'>Tudor Dixon</span> and chiropractor Garrett Soldano.",
+    "author": "Julia Manchester",
+    "title": "Seven most vulnerable governors facing reelection in 2022"
   },
   {
     "id": 1031,
@@ -136,20 +136,20 @@
     "title": "Mar-a-Lago Machine: Trump as a Modern-Day Party Boss"
   },
   {
-    "id": 901,
-    "mediaId": 157,
-    "date": "4/19/2022 12:00:00 AM",
-    "sentence": "Mike Brown; businesswomen Donna Brandeburg and <span class='selected-term'>Tudor Dixon</span>; businessman Perry Johnson; real estate agent Ryan Kelley; financial advisor Michael Markey; pastor Ralph Rebandt, businessman Kevin Rinke; and chiropractor Garrett Soldano.",
-    "author": "Bob Brigham",
-    "title": "Meatgrinder' GOP Gov. primary in Michigan will leave nominee broke, bloodied, and disliked': expert"
-  },
-  {
     "id": 899,
     "mediaId": 261,
     "date": "4/19/2022 12:00:00 AM",
     "sentence": "Mike Brown, of Stevensville, who submitted 21,837 signatures last Tuesday;\nNorton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, who submitted 29,735 signatures Tuesday;\nOakland County \"quality guru\" and businessman Perry Johnson, who submitted close to 23,000 signatures Tuesday;\nOttawa County real estate agent Ryan Kelley, who filed 20,100 signatures last Wednesday;\nGrand Haven financial adviser Michael Markey, who submitted 21,862 signatures March 18;\nFarmington Hills pastor Ralph Rebandt, who turned in 16,342 signatures last Tuesday;\nBloomfield Hills businessman Kevin Rinke, who filed 21,000 signatures on Monday, and\nKalamazoo chiropractor Garrett Soldano, who was the first to turn in his petition, when he submitted 20,200 signatures Jan. 19.",
     "author": "Paul Egan",
     "title": "Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says"
+  },
+  {
+    "id": 901,
+    "mediaId": 157,
+    "date": "4/19/2022 12:00:00 AM",
+    "sentence": "Mike Brown; businesswomen Donna Brandeburg and <span class='selected-term'>Tudor Dixon</span>; businessman Perry Johnson; real estate agent Ryan Kelley; financial advisor Michael Markey; pastor Ralph Rebandt, businessman Kevin Rinke; and chiropractor Garrett Soldano.",
+    "author": "Bob Brigham",
+    "title": "Meatgrinder' GOP Gov. primary in Michigan will leave nominee broke, bloodied, and disliked': expert"
   },
   {
     "id": 7,
@@ -246,5 +246,13 @@
     "sentence": "The reports also say that Oakland County businessman and \"quality guru\" Perry Johnson did not file enough valid signatures, but they clear Norton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, whose petitions were also the subject of a complaint.",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot"
+  },
+  {
+    "id": 7473,
+    "mediaId": 157,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "Craigs signatures had been challenged by Democrats and a superPAC supporting right-wing media personality <span class='selected-term'>Tudor Dixon</span>.",
+    "author": "",
+    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race"
   }
 ]

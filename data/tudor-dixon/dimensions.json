@@ -7,157 +7,169 @@
       "id": 120,
       "name": "Connecticut Supreme Court",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 135,
       "name": "Daily Kos",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 146,
       "name": "Democratic Party",
       "type": "Organization",
-      "stories": 46
+      "stories": 55
     },
     {
       "id": 152,
       "name": "Detroit Police Department",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 296,
       "name": "Mar-a-Lago",
       "type": "Organization",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 304,
       "name": "Meijer",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 307,
       "name": "Michigan Democratic Party",
       "type": "Organization",
-      "stories": 14
+      "stories": 20
     },
     {
       "id": 308,
       "name": "Michigan Republican Party",
       "type": "Organization",
-      "stories": 19
+      "stories": 24
     },
     {
       "id": 311,
       "name": "Michigan Supreme Court",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 358,
       "name": "New York Supreme Court, Appellate Division",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 427,
       "name": "Republican National Committee",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 106
+      "stories": 127
     },
     {
       "id": 482,
       "name": "Supreme Court of the United States",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 507,
       "name": "The Cook Political Report",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 545,
       "name": "United States Congress",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 562,
       "name": "United States House of Representatives",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 571,
       "name": "United States Senate",
       "type": "Organization",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 599,
       "name": "Uphill Battle",
       "type": "Organization",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2980,
       "name": "Business Leaders for Michigan",
       "type": "Organization",
-      "stories": 5
+      "stories": 6
     },
     {
       "id": 3224,
       "name": "Detroit Regional Chamber",
       "type": "Organization",
-      "stories": 4
+      "stories": 5
+    },
+    {
+      "id": 5615,
+      "name": "Michigan State University",
+      "type": "Organization",
+      "stories": 1
     },
     {
       "id": 651,
       "name": "Perry Johnson",
       "type": "Person",
-      "stories": 39
+      "stories": 44
     },
     {
       "id": 661,
       "name": "Ron DeSantis",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 699,
       "name": "Tom Barrett",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 727,
       "name": "Lucy McBath",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 773,
       "name": "Gretchen Whitmer",
       "type": "Person",
-      "stories": 78
+      "stories": 92
+    },
+    {
+      "id": 815,
+      "name": "Herschel Walker",
+      "type": "Person",
+      "stories": 1
     },
     {
       "id": 818,
       "name": "Joey Gilbert",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 821,
@@ -169,133 +181,133 @@
       "id": 837,
       "name": "Stephen Singiser",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 890,
       "name": "Chuck Yob",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 906,
       "name": "Kellyanne Conway",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1002,
       "name": "Mike Murray",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1007,
       "name": "Stephen Wolf",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1088,
       "name": "Dana Nessel",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1147,
       "name": "Donald Trump",
       "type": "Person",
-      "stories": 30
+      "stories": 36
     },
     {
       "id": 1148,
       "name": "Sean Hannity",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1228,
       "name": "Digit Lead",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1237,
       "name": "Roger Stone",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1264,
       "name": "Chris Van Hollen",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1299,
       "name": "Carolyn Fiddler",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1374,
       "name": "Mike J. Dunleavy",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1426,
       "name": "Hillary Scholten",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1454,
       "name": "Arjun Jaikumar",
       "type": "Person",
-      "stories": 30
+      "stories": 35
     },
     {
       "id": 1465,
       "name": "Paul Laxalt",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1480,
       "name": "David Beard",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1536,
       "name": "Meshawn Maddock",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1583,
       "name": "Rick Snyder",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1606,
       "name": "Sharron Angle",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1614,
       "name": "Fred Upton",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1645,
       "name": "Mike Brown",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1646,
@@ -307,73 +319,73 @@
       "id": 1670,
       "name": "Steve Singiser",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1682,
       "name": "Ryan Kelley",
       "type": "Person",
-      "stories": 20
+      "stories": 23
     },
     {
       "id": 1698,
       "name": "John Jay Lee",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1758,
       "name": "Glenn Youngkin",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1761,
       "name": "Charlie Crist",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1802,
       "name": "Mark Brewer",
       "type": "Person",
-      "stories": 11
+      "stories": 13
     },
     {
       "id": 1815,
       "name": "Ryan Kelly",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1838,
       "name": "Michael E. Brown",
       "type": "Person",
-      "stories": 1
+      "stories": 2
     },
     {
       "id": 1844,
       "name": "James Craig",
       "type": "Person",
-      "stories": 77
+      "stories": 90
     },
     {
       "id": 1849,
       "name": "Jacob Hagg",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1864,
       "name": "Laura Kelly",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1878,
       "name": "Pat McCrory",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1901,
@@ -385,43 +397,43 @@
       "id": 1906,
       "name": "Lavora Barnes",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1935,
       "name": "Jay Inslee",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1951,
       "name": "Stacey Abrams",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 1966,
       "name": "Derek Schmidt",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1978,
       "name": "Duncan L. Hunter",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 1997,
       "name": "William M. McSwain",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2002,
       "name": "Tudor Dixon",
       "type": "Person",
-      "stories": 50
+      "stories": 57
     },
     {
       "id": 2006,
@@ -433,13 +445,13 @@
       "id": 2022,
       "name": "Kevin Smith",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2030,
       "name": "Vladimir Putin",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2039,
@@ -451,31 +463,31 @@
       "id": 2069,
       "name": "Tim Walz",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2074,
       "name": "Dan Newhouse",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2081,
       "name": "Matthew DePerno",
       "type": "Person",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 2087,
       "name": "Joe Biden",
       "type": "Person",
-      "stories": 12
+      "stories": 15
     },
     {
       "id": 2095,
       "name": "Brian Kemp",
       "type": "Person",
-      "stories": 19
+      "stories": 21
     },
     {
       "id": 2125,
@@ -487,61 +499,61 @@
       "id": 2164,
       "name": "Harry Reid",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2171,
       "name": "Michael Brown",
       "type": "Person",
-      "stories": 4
+      "stories": 7
     },
     {
       "id": 2206,
       "name": "John Engler",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2250,
       "name": "Greg Abbott",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2277,
       "name": "Jeff Singer",
       "type": "Person",
-      "stories": 18
+      "stories": 21
     },
     {
       "id": 2298,
       "name": "Garrett Soldano",
       "type": "Person",
-      "stories": 31
+      "stories": 34
     },
     {
       "id": 2303,
       "name": "Madison Cawthorn",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
       "id": 2379,
       "name": "Stephen Miller",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2416,
       "name": "Beto O'Rourke",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2470,
       "name": "Corey Lewandowski",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2479,
@@ -553,31 +565,31 @@
       "id": 2482,
       "name": "Melania Trump",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2491,
       "name": "David H. McCormick",
       "type": "Person",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 3016,
       "name": "Edward Greim",
       "type": "Person",
-      "stories": 5
+      "stories": 6
     },
     {
       "id": 3051,
       "name": "Shawn Kelley",
       "type": "Person",
-      "stories": 5
+      "stories": 6
     },
     {
       "id": 3075,
       "name": "Kevin Rinke",
       "type": "Person",
-      "stories": 20
+      "stories": 21
     },
     {
       "id": 3085,
@@ -613,7 +625,7 @@
       "id": 3095,
       "name": "Ralph Rebandt",
       "type": "Person",
-      "stories": 9
+      "stories": 10
     },
     {
       "id": 3097,
@@ -625,217 +637,217 @@
       "id": 3099,
       "name": "Donna Brandenburg",
       "type": "Person",
-      "stories": 8
+      "stories": 9
     },
     {
       "id": 4325,
       "name": "David Perdue",
       "type": "Person",
-      "stories": 8
+      "stories": 10
     },
     {
       "id": 5506,
       "name": "Betsy DeVos",
       "type": "Person",
-      "stories": 1
+      "stories": 2
     },
     {
       "id": 5542,
       "name": "Bill Schuette",
       "type": "Person",
-      "stories": 1
+      "stories": 2
     },
     {
       "id": 5544,
       "name": "Dick DeVos",
       "type": "Person",
-      "stories": 1
+      "stories": 2
     },
     {
       "id": 5545,
       "name": "John Sellek",
       "type": "Person",
-      "stories": 1
+      "stories": 2
     },
     {
       "id": 2550,
       "name": "Arizona",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2567,
       "name": "Belarus",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2568,
       "name": "Belgium",
       "type": "Place",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 2571,
       "name": "Bhutan",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2573,
       "name": "Bolivia",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2579,
       "name": "British Indian Ocean Territory",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2590,
       "name": "California",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2592,
       "name": "Cameroon",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2618,
       "name": "Cocos (Keeling) Islands",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2645,
       "name": "Detroit",
       "type": "Place",
-      "stories": 53
+      "stories": 64
     },
     {
       "id": 2661,
       "name": "Florida",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2672,
       "name": "Georgia",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2678,
       "name": "Grand Rapids",
       "type": "Place",
-      "stories": 7
+      "stories": 9
     },
     {
       "id": 2731,
       "name": "Kalamazoo County",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2737,
       "name": "Kent County",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2748,
       "name": "Lansing",
       "type": "Place",
-      "stories": 37
+      "stories": 44
     },
     {
       "id": 2761,
       "name": "Livingston County",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2791,
       "name": "Michigan",
       "type": "Place",
-      "stories": 96
+      "stories": 116
     },
     {
       "id": 2826,
       "name": "New York City",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2842,
       "name": "Oakland County",
       "type": "Place",
-      "stories": 27
+      "stories": 32
     },
     {
       "id": 2863,
       "name": "People's Republic of China",
       "type": "Place",
-      "stories": 5
+      "stories": 6
     },
     {
       "id": 2865,
       "name": "Philadelphia",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2958,
       "name": "Washington Township",
       "type": "Place",
-      "stories": 12
+      "stories": 14
     },
     {
       "id": 2959,
       "name": "Washington, D.C.",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2961,
       "name": "Washtenaw County",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 2968,
       "name": "Wayne County",
       "type": "Place",
-      "stories": 6
+      "stories": 7
     },
     {
       "id": 3064,
       "name": "Farmington Hills",
       "type": "Place",
-      "stories": 5
+      "stories": 6
     },
     {
       "id": 3066,
       "name": "Howell",
       "type": "Place",
-      "stories": 5
+      "stories": 6
     },
     {
       "id": 3068,
       "name": "Mackinac Island",
       "type": "Place",
-      "stories": 5
+      "stories": 6
     },
     {
       "id": 5556,
       "name": "Norton Shores",
       "type": "Place",
-      "stories": 1
+      "stories": 2
     }
   ],
   "media": [
