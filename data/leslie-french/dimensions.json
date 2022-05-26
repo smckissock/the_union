@@ -4,52 +4,34 @@
   "featuredStoryId": 50,
   "terms": [
     {
-      "id": 261,
-      "name": "Insider Inc.",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 296,
-      "name": "Mar-a-Lago",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 1147,
-      "name": "Donald Trump",
+      "id": 3083,
+      "name": "Leslie French",
       "type": "Person",
-      "stories": 7
+      "stories": 1
     },
     {
-      "id": 1158,
-      "name": "Hillary Clinton",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1405,
-      "name": "Dave Brat",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2087,
-      "name": "Joe Biden",
-      "type": "Person",
-      "stories": 7
+      "id": 2888,
+      "name": "Russia",
+      "type": "Place",
+      "stories": 8
     },
     {
       "id": 2100,
       "name": "Ralph Norman",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 3083,
-      "name": "Leslie French",
-      "type": "Person",
-      "stories": 1
+      "id": 261,
+      "name": "Insider Inc.",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2942,
+      "name": "Ukraine",
+      "type": "Place",
+      "stories": 8
     },
     {
       "id": 3087,
@@ -58,22 +40,40 @@
       "stories": 1
     },
     {
-      "id": 2888,
-      "name": "Russia",
-      "type": "Place",
-      "stories": 7
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 8
     },
     {
       "id": 2910,
       "name": "South Carolina",
       "type": "Place",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 2942,
-      "name": "Ukraine",
-      "type": "Place",
-      "stories": 7
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 296,
+      "name": "Mar-a-Lago",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1405,
+      "name": "Dave Brat",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1158,
+      "name": "Hillary Clinton",
+      "type": "Person",
+      "stories": 8
     }
   ],
   "media": [

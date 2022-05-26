@@ -4,2026 +4,184 @@
   "featuredStoryId": 7300,
   "terms": [
     {
-      "id": 8,
-      "name": "Airbnb",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 13,
-      "name": "Amazon",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
       "id": 15,
       "name": "American Bar Association",
       "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 19,
-      "name": "American Enterprise Institute",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 27,
-      "name": "Answers in Genesis",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 31,
-      "name": "Arizona Board of Regents",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 34,
-      "name": "Arizona State University",
-      "type": "Organization",
-      "stories": 14
-    },
-    {
-      "id": 35,
-      "name": "Arizona Supreme Court",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 57,
-      "name": "Baltimore Police Department",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 62,
-      "name": "Bed Bath & Beyond",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 63,
-      "name": "Belarusian Republican Youth Union",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 64,
-      "name": "Black Lives Matter",
-      "type": "Organization",
-      "stories": 14
-    },
-    {
-      "id": 65,
-      "name": "BLK Art Group",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 84,
-      "name": "Capitol Records",
-      "type": "Organization",
-      "stories": 4
-    },
-    {
-      "id": 87,
-      "name": "Catholic Church",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 89,
-      "name": "CBS News",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 91,
-      "name": "Centers for Disease Control and Prevention",
-      "type": "Organization",
-      "stories": 14
-    },
-    {
-      "id": 96,
-      "name": "Christian Concern",
-      "type": "Organization",
-      "stories": 14
-    },
-    {
-      "id": 97,
-      "name": "Christian Legal Centre",
-      "type": "Organization",
-      "stories": 14
-    },
-    {
-      "id": 99,
-      "name": "Church of England",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 106,
-      "name": "CNN",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 107,
-      "name": "Coal India Limited",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 108,
-      "name": "College of the Holy Cross",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 113,
-      "name": "Communist Party USA",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 118,
-      "name": "Congressional Leadership Fund",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 146,
-      "name": "Democratic Party",
-      "type": "Organization",
-      "stories": 129
-    },
-    {
-      "id": 151,
-      "name": "Department for Education",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 154,
-      "name": "Dominion Voting Systems",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 177,
-      "name": "Facebook",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 182,
-      "name": "Federal Bureau of Investigation",
-      "type": "Organization",
-      "stories": 14
-    },
-    {
-      "id": 183,
-      "name": "Federal Election Commission",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 200,
-      "name": "Fox News",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 203,
-      "name": "Freedom",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 205,
-      "name": "Gagosian",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 215,
-      "name": "Georgia Bureau of Investigation",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 246,
-      "name": "Harvest International Ministry",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 262,
-      "name": "Instagram",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 284,
-      "name": "Libertarian Party",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 287,
-      "name": "Live Action",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 290,
-      "name": "Los Angeles Board of Police Commissioners",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 304,
-      "name": "Meijer",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 307,
-      "name": "Michigan Democratic Party",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 308,
-      "name": "Michigan Republican Party",
-      "type": "Organization",
-      "stories": 13
-    },
-    {
-      "id": 318,
-      "name": "Milwaukee Journal Sentinel",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 323,
-      "name": "Moorlandâ€“Spingarn Research Center",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 346,
-      "name": "NATO",
-      "type": "Organization",
-      "stories": 21
-    },
-    {
-      "id": 357,
-      "name": "New York Post",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 358,
-      "name": "New York Supreme Court, Appellate Division",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 394,
-      "name": "Perkins Coie",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 395,
-      "name": "Pfizer",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 400,
-      "name": "Planned Parenthood",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 404,
-      "name": "Power Holding Company of Nigeria",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 413,
-      "name": "Purple Heart",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 417,
-      "name": "RealClearPolitics",
-      "type": "Organization",
-      "stories": 42
-    },
-    {
-      "id": 427,
-      "name": "Republican National Committee",
-      "type": "Organization",
-      "stories": 26
-    },
-    {
-      "id": 428,
-      "name": "Republican Party",
-      "type": "Organization",
-      "stories": 197
-    },
-    {
-      "id": 462,
-      "name": "Southern Poverty Law Center",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 464,
-      "name": "Special Warfare Combatant-craft Crewmen",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 473,
-      "name": "Strategic Petroleum Reserve",
-      "type": "Organization",
-      "stories": 3
-    },
-    {
-      "id": 474,
-      "name": "Student Veterans of America",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 475,
-      "name": "Sun-Gazette",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 477,
-      "name": "Supreme Court of California",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 482,
-      "name": "Supreme Court of the United States",
-      "type": "Organization",
-      "stories": 35
-    },
-    {
-      "id": 507,
-      "name": "The Cook Political Report",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 517,
-      "name": "The New York Times",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 524,
-      "name": "The Walt Disney Company",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 525,
-      "name": "The Washington Post",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 535,
-      "name": "True the Vote",
-      "type": "Organization",
-      "stories": 12
-    },
-    {
-      "id": 539,
-      "name": "Twitter",
-      "type": "Organization",
-      "stories": 35
-    },
-    {
-      "id": 542,
-      "name": "United States Army",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 545,
-      "name": "United States Congress",
-      "type": "Organization",
-      "stories": 12
-    },
-    {
-      "id": 549,
-      "name": "United States Department of Homeland Security",
-      "type": "Organization",
       "stories": 8
-    },
-    {
-      "id": 550,
-      "name": "United States Department of Justice",
-      "type": "Organization",
-      "stories": 21
-    },
-    {
-      "id": 556,
-      "name": "United States Electoral College",
-      "type": "Organization",
-      "stories": 17
-    },
-    {
-      "id": 562,
-      "name": "United States House of Representatives",
-      "type": "Organization",
-      "stories": 51
-    },
-    {
-      "id": 568,
-      "name": "United States Naval Special Warfare Command",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 569,
-      "name": "United States Navy",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 570,
-      "name": "United States Parachute Association",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 571,
-      "name": "United States Senate",
-      "type": "Organization",
-      "stories": 21
-    },
-    {
-      "id": 577,
-      "name": "United States Senate Committee on the Judiciary",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 579,
-      "name": "University of Alberta",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 585,
-      "name": "University of Glasgow",
-      "type": "Organization",
-      "stories": 14
-    },
-    {
-      "id": 587,
-      "name": "University of Michigan",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 591,
-      "name": "University of Oxford",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 600,
-      "name": "US Senate",
-      "type": "Organization",
-      "stories": 23
-    },
-    {
-      "id": 613,
-      "name": "Washington Examiner",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 637,
-      "name": "YouTube",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 3000,
-      "name": "Young Americans for Freedom",
-      "type": "Organization",
-      "stories": 6
-    },
-    {
-      "id": 3137,
-      "name": "Arizona Republican Party",
-      "type": "Organization",
-      "stories": 18
-    },
-    {
-      "id": 3224,
-      "name": "Detroit Regional Chamber",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 3279,
-      "name": "Florida Department of Education",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 3566,
-      "name": "The Daily Caller News Foundation",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 3607,
-      "name": "United States Department of Health and Human Services",
-      "type": "Organization",
-      "stories": 4
-    },
-    {
-      "id": 3623,
-      "name": "United States Postal Service",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 3663,
-      "name": "WorldNetDaily",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 5181,
-      "name": "Center for Immigration Studies",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 5615,
-      "name": "Michigan State University",
-      "type": "Organization",
-      "stories": 1
-    },
-    {
-      "id": 640,
-      "name": "Harry S Truman",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 645,
-      "name": "Jonah Goldberg",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 646,
-      "name": "Shirley Chisholm",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 647,
-      "name": "Abraham Lincoln",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 650,
-      "name": "Bridget Sielicki",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 651,
-      "name": "Perry Johnson",
-      "type": "Person",
-      "stories": 17
-    },
-    {
-      "id": 661,
-      "name": "Ron DeSantis",
-      "type": "Person",
-      "stories": 86
-    },
-    {
-      "id": 672,
-      "name": "Benjamin Talton",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 678,
-      "name": "Maggie Hassan",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 683,
-      "name": "Tucker Carlson",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 685,
-      "name": "Michael Brown Sr.",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 690,
-      "name": "Ronald Inglehart",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 691,
-      "name": "Paul",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 699,
-      "name": "Tom Barrett",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 704,
-      "name": "Elizabeth Warren",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 708,
-      "name": "Laura Cox",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 713,
-      "name": "Amy Totenberg",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 714,
-      "name": "Horace Greeley",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 725,
-      "name": "Thomas Johnson",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 726,
-      "name": "Miguel Estrada",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 737,
-      "name": "Chris Brown",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 749,
-      "name": "Kimberly Gardner",
-      "type": "Person",
-      "stories": 6
-    },
-    {
-      "id": 761,
-      "name": "Chris Christie",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 764,
-      "name": "Awol Erizku",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 771,
-      "name": "Joseph Stalin",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 773,
-      "name": "Gretchen Whitmer",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 778,
-      "name": "Russell L. Smith",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 781,
-      "name": "Tim Ryan",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 796,
-      "name": "Kevin de LeÃ³n",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 797,
-      "name": "Juana MagalÃ­ Chinchilla",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 801,
-      "name": "Gregg Phillips",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 812,
-      "name": "Clarence Thomas",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 815,
-      "name": "Herschel Walker",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 817,
-      "name": "Ming Smith",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 842,
-      "name": "Larry Schweikart",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 851,
-      "name": "Tony Rezko",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 859,
-      "name": "Adam",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 860,
-      "name": "Osama bin Laden",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 867,
-      "name": "Keith Waters",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 875,
-      "name": "John Lott",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 883,
-      "name": "Marjorie Taylor Greene",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 884,
-      "name": "Elissa Slotkin",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 886,
-      "name": "Mark Kelly",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 887,
-      "name": "John Corrigan",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 892,
-      "name": "Cornel West",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 895,
-      "name": "Kamala Harris",
-      "type": "Person",
-      "stories": 56
-    },
-    {
-      "id": 917,
-      "name": "Janice Rogers Brown",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 926,
-      "name": "Mark Finchem",
-      "type": "Person",
-      "stories": 28
-    },
-    {
-      "id": 930,
-      "name": "David Harsanyi",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 936,
-      "name": "Hugh McKean",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 938,
-      "name": "Michael Medved",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 959,
-      "name": "Ross Perot",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 971,
-      "name": "Marco Rubio",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 974,
-      "name": "George Folsey",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 998,
-      "name": "Johnetta Elzie",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1018,
-      "name": "Scott Atran",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1037,
-      "name": "Walter Duranty",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1039,
-      "name": "Mark Randall Meadows",
-      "type": "Person",
-      "stories": 4
-    },
-    {
-      "id": 1055,
-      "name": "Mike Braun",
-      "type": "Person",
-      "stories": 5
-    },
-    {
-      "id": 1078,
-      "name": "George W. Bush",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1079,
-      "name": "Michael L. Brown",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1089,
-      "name": "Ron Kind",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1095,
-      "name": "Elise Stefanik",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1097,
-      "name": "Merrick Garland",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1098,
-      "name": "Michael Steele",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1099,
-      "name": "Dick Tuck",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1109,
-      "name": "Joe Cunningham",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1122,
-      "name": "Sarah White",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1123,
-      "name": "Bobby Rush",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1128,
-      "name": "Ashli Babbitt",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1139,
-      "name": "Vicente GonzÃ¡lez",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1145,
-      "name": "Rudy Giuliani",
-      "type": "Person",
-      "stories": 31
-    },
-    {
-      "id": 1147,
-      "name": "Donald Trump",
-      "type": "Person",
-      "stories": 168
-    },
-    {
-      "id": 1154,
-      "name": "Alexandria Ocasio-Cortez",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1155,
-      "name": "Michelle Obama",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1158,
-      "name": "Hillary Clinton",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 1168,
-      "name": "Jens Stoltenberg",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1174,
-      "name": "Gary Peters",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1180,
-      "name": "Jonathan Edwards",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1207,
-      "name": "Darren Wilson",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1208,
-      "name": "Maxine Waters",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1213,
-      "name": "Charlie Kirk",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1223,
-      "name": "Jen Psaki",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1226,
-      "name": "Sean Patrick Maloney",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 1234,
-      "name": "Pat Nixon",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1248,
-      "name": "Elizabeth Cheney",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 1253,
-      "name": "Bernie Sanders",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1265,
-      "name": "Michael B. Jordan",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1279,
-      "name": "Sanna Marin",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1280,
-      "name": "Dwight Chapin",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1284,
-      "name": "Doug Ducey",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1296,
-      "name": "Eugene Volokh",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1300,
-      "name": "Phil Roe",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1304,
-      "name": "Anthony Fauci",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1319,
-      "name": "Paul the Apostle",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1328,
-      "name": "Paul BÃ©dard",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1335,
-      "name": "Nancy Pelosi",
-      "type": "Person",
-      "stories": 28
-    },
-    {
-      "id": 1348,
-      "name": "Charlie Baker",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1349,
-      "name": "William Magear Tweed",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1367,
-      "name": "Eugene McCarthy",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1394,
-      "name": "Gavin Newsom",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 1404,
-      "name": "Ted Budd",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1413,
-      "name": "Kelli Ward",
-      "type": "Person",
-      "stories": 35
-    },
-    {
-      "id": 1423,
-      "name": "George Barna",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1426,
-      "name": "Hillary Scholten",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1434,
-      "name": "Mike Pence",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 1437,
-      "name": "Ryan Lizza",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1448,
-      "name": "Josh Hawley",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1449,
-      "name": "Magdalena Andersson",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1452,
-      "name": "Eric Holder",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1454,
-      "name": "Arjun Jaikumar",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1459,
-      "name": "Henry Cuellar",
-      "type": "Person",
-      "stories": 14
     },
     {
       "id": 1464,
       "name": "Lindsey Graham",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 1469,
-      "name": "Mark Brnovich",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1473,
-      "name": "Betsy McCaughey",
-      "type": "Person",
-      "stories": 12
-    },
-    {
-      "id": 1488,
-      "name": "James A. Baker",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1503,
-      "name": "Jon Tester",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1507,
-      "name": "Ilhan Omar",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1516,
-      "name": "Larry Elder",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1522,
-      "name": "Mary Kupelian",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1525,
-      "name": "Cameron Smith",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1528,
-      "name": "Dorothy Berry",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1529,
-      "name": "Christopher A. Wray",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1536,
-      "name": "Meshawn Maddock",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1539,
-      "name": "Johnny Depp",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1559,
-      "name": "Andrew A. Snelling",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1563,
-      "name": "Nancy Mace",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1576,
-      "name": "Dinesh D'Souza",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1583,
-      "name": "Rick Snyder",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1586,
-      "name": "Martin Luther King III",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1597,
-      "name": "Meryl Nass",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1609,
-      "name": "Kevin McCarthy",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1610,
-      "name": "Francis Collins",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1614,
-      "name": "Fred Upton",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1618,
-      "name": "Nehemiah",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1624,
-      "name": "Susan Crabtree",
-      "type": "Person",
-      "stories": 35
-    },
-    {
-      "id": 1630,
-      "name": "Robert F. Kennedy",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1646,
-      "name": "David Purdue",
-      "type": "Person",
-      "stories": 4
-    },
-    {
-      "id": 1647,
-      "name": "Hunter Biden",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1658,
-      "name": "Andrew Young",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1659,
-      "name": "Steven Fletcher",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1669,
-      "name": "Joe Kovacs",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1670,
-      "name": "Steve Singiser",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1682,
-      "name": "Ryan Kelley",
-      "type": "Person",
-      "stories": 10
-    },
-    {
-      "id": 1688,
-      "name": "Robin Williams",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1702,
-      "name": "Bill Gates",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1706,
-      "name": "Ron Paul",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1740,
-      "name": "Jesus",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 1749,
-      "name": "Benjamin Franklin",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1750,
-      "name": "Napoleon",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1761,
-      "name": "Charlie Crist",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1765,
-      "name": "Mitch McConnell",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1787,
-      "name": "Dennis Prager",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1788,
-      "name": "Greg Laurie",
-      "type": "Person",
-      "stories": 28
+      "id": 2795,
+      "name": "Minneapolis",
+      "type": "Place",
+      "stories": 8
     },
     {
       "id": 1801,
       "name": "J. D. Vance",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 1805,
-      "name": "Jennifer Granholm",
-      "type": "Person",
+      "id": 2738,
+      "name": "Kentucky",
+      "type": "Place",
+      "stories": 11
+    },
+    {
+      "id": 549,
+      "name": "United States Department of Homeland Security",
+      "type": "Organization",
       "stories": 10
     },
     {
-      "id": 1813,
-      "name": "Ronald Reagan",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1820,
-      "name": "Hubert Humphrey",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1844,
-      "name": "James Craig",
-      "type": "Person",
-      "stories": 23
-    },
-    {
-      "id": 1849,
-      "name": "Jacob Hagg",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1863,
-      "name": "David Mark",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1865,
-      "name": "Stephen Breyer",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1911,
-      "name": "Eric Adams",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1919,
-      "name": "Amanda Gorman",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1920,
-      "name": "Keith Green",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1930,
-      "name": "Richard Nixon",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1951,
-      "name": "Stacey Abrams",
-      "type": "Person",
-      "stories": 19
-    },
-    {
-      "id": 1969,
-      "name": "Volodymyr Zelenskyi",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1970,
-      "name": "Judy Woodruff",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1978,
-      "name": "Duncan L. Hunter",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2002,
-      "name": "Tudor Dixon",
-      "type": "Person",
-      "stories": 6
-    },
-    {
-      "id": 2014,
-      "name": "Tony Evans",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2021,
-      "name": "Jeremiah",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 2028,
-      "name": "Chuck Norris",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2030,
-      "name": "Vladimir Putin",
-      "type": "Person",
-      "stories": 59
-    },
-    {
-      "id": 2031,
-      "name": "Jerrold Nadler",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2034,
-      "name": "Susan Collins",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2039,
-      "name": "Mandela Barnes",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2052,
-      "name": "Bennie Thompson",
-      "type": "Person",
-      "stories": 30
-    },
-    {
-      "id": 2081,
-      "name": "Matthew DePerno",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2083,
-      "name": "Calvin Coolidge",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2087,
-      "name": "Joe Biden",
-      "type": "Person",
-      "stories": 210
-    },
-    {
-      "id": 2090,
-      "name": "Lanhee Chen",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 2093,
-      "name": "Ryan Streeter",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2095,
-      "name": "Brian Kemp",
-      "type": "Person",
-      "stories": 19
-    },
-    {
-      "id": 2117,
-      "name": "Katie Arrington",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2129,
-      "name": "Mark Sanford",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2131,
-      "name": "Michael Flynn",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2133,
-      "name": "Brian Chesky",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2134,
-      "name": "Albert Bourla",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2150,
-      "name": "Jeb Bush",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2161,
-      "name": "William A. Jacobson",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2165,
-      "name": "Marilyn Mosby",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2171,
-      "name": "Michael Brown",
-      "type": "Person",
-      "stories": 116
-    },
-    {
-      "id": 2187,
-      "name": "BeyoncÃ©",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2188,
-      "name": "John McLaughlin",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2213,
-      "name": "George Soros",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2214,
-      "name": "Adam Kinzinger",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 2250,
-      "name": "Greg Abbott",
-      "type": "Person",
-      "stories": 13
-    },
-    {
-      "id": 2251,
-      "name": "Anne Applebaum",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2258,
-      "name": "Craig Ferguson",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2272,
-      "name": "Lyndon B. Johnson",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 2277,
-      "name": "Jeff Singer",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2298,
-      "name": "Garrett Soldano",
-      "type": "Person",
-      "stories": 5
-    },
-    {
-      "id": 2303,
-      "name": "Madison Cawthorn",
+      "id": 842,
+      "name": "Larry Schweikart",
       "type": "Person",
       "stories": 8
     },
     {
-      "id": 2311,
-      "name": "Matt Bennett",
+      "id": 1039,
+      "name": "Mark Randall Meadows",
       "type": "Person",
-      "stories": 7
+      "stories": 5
+    },
+    {
+      "id": 1630,
+      "name": "Robert F. Kennedy",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2567,
+      "name": "Belarus",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2764,
+      "name": "Los Angeles",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 1122,
+      "name": "Sarah White",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2707,
+      "name": "Illinois",
+      "type": "Place",
+      "stories": 24
+    },
+    {
+      "id": 307,
+      "name": "Michigan Democratic Party",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1319,
+      "name": "Paul the Apostle",
+      "type": "Person",
+      "stories": 16
     },
     {
       "id": 2321,
       "name": "John Durham",
       "type": "Person",
-      "stories": 14
+      "stories": 16
     },
     {
-      "id": 2330,
-      "name": "Emahoy TseguÃ©-Maryam GuÃ¨brou",
+      "id": 1559,
+      "name": "Andrew A. Snelling",
       "type": "Person",
-      "stories": 7
+      "stories": 16
     },
     {
-      "id": 2340,
-      "name": "Eddie Glaude",
+      "id": 1813,
+      "name": "Ronald Reagan",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 2347,
-      "name": "Ketanji Brown Jackson",
+      "id": 2890,
+      "name": "Sacramento",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2636,
+      "name": "Dallas",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 4325,
+      "name": "David Perdue",
       "type": "Person",
-      "stories": 7
+      "stories": 12
     },
     {
-      "id": 2368,
-      "name": "Mark Cuban",
+      "id": 640,
+      "name": "Harry S Truman",
       "type": "Person",
-      "stories": 14
+      "stories": 8
     },
     {
-      "id": 2394,
-      "name": "Jack Dorsey",
+      "id": 1248,
+      "name": "Elizabeth Cheney",
       "type": "Person",
-      "stories": 7
+      "stories": 24
     },
     {
-      "id": 2397,
-      "name": "Karen Bass",
+      "id": 2150,
+      "name": "Jeb Bush",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 2398,
-      "name": "Cori Bush",
-      "type": "Person",
-      "stories": 17
+      "id": 2579,
+      "name": "British Indian Ocean Territory",
+      "type": "Place",
+      "stories": 8
     },
     {
-      "id": 2411,
-      "name": "Joe Manchin",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2416,
-      "name": "Beto O'Rourke",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 2419,
-      "name": "John Lewis",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2429,
-      "name": "Barack Obama",
-      "type": "Person",
-      "stories": 35
-    },
-    {
-      "id": 2434,
-      "name": "Rick Caruso",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2465,
-      "name": "Mitt Romney",
-      "type": "Person",
-      "stories": 28
-    },
-    {
-      "id": 2475,
-      "name": "Mo Brooks",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2478,
-      "name": "Jerry Brown",
-      "type": "Person",
-      "stories": 18
-    },
-    {
-      "id": 2482,
-      "name": "Melania Trump",
-      "type": "Person",
-      "stories": 4
-    },
-    {
-      "id": 2483,
-      "name": "Coretta Scott King",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2505,
-      "name": "Kyrsten Sinema",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2508,
-      "name": "Eric Metaxas",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2517,
-      "name": "Elon Musk",
-      "type": "Person",
-      "stories": 11
-    },
-    {
-      "id": 2524,
-      "name": "Peter Thiel",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2526,
-      "name": "Andrew G. McCabe",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2528,
-      "name": "Gareth Jones",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2532,
-      "name": "Alex Arias",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 3021,
-      "name": "Jeff Roorda",
+      "id": 4268,
+      "name": "Five for Fighting",
       "type": "Person",
       "stories": 6
     },
     {
-      "id": 3034,
-      "name": "Lyda Krewson",
-      "type": "Person",
-      "stories": 6
+      "id": 587,
+      "name": "University of Michigan",
+      "type": "Organization",
+      "stories": 8
     },
     {
-      "id": 3044,
-      "name": "Ned Kelly",
+      "id": 2093,
+      "name": "Ryan Streeter",
       "type": "Person",
-      "stories": 6
+      "stories": 8
     },
     {
-      "id": 3051,
-      "name": "Shawn Kelley",
-      "type": "Person",
-      "stories": 6
+      "id": 2973,
+      "name": "Woodlawn",
+      "type": "Place",
+      "stories": 8
     },
     {
-      "id": 3055,
-      "name": "Tishaura Jones",
-      "type": "Person",
-      "stories": 6
-    },
-    {
-      "id": 3059,
-      "name": "William Lacy Clay",
-      "type": "Person",
-      "stories": 6
-    },
-    {
-      "id": 3075,
-      "name": "Kevin Rinke",
-      "type": "Person",
+      "id": 3607,
+      "name": "United States Department of Health and Human Services",
+      "type": "Organization",
       "stories": 5
-    },
-    {
-      "id": 3085,
-      "name": "Harriet Hageman",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 3094,
-      "name": "Liz Cheney",
-      "type": "Person",
-      "stories": 3
     },
     {
       "id": 3095,
@@ -2032,92 +190,1748 @@
       "stories": 5
     },
     {
+      "id": 473,
+      "name": "Strategic Petroleum Reserve",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 1528,
+      "name": "Dorothy Berry",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2416,
+      "name": "Beto O'Rourke",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 1300,
+      "name": "Phil Roe",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 34,
+      "name": "Arizona State University",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 1597,
+      "name": "Meryl Nass",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 542,
+      "name": "United States Army",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2674,
+      "name": "Germany",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 875,
+      "name": "John Lott",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 568,
+      "name": "United States Naval Special Warfare Command",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 678,
+      "name": "Maggie Hassan",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2188,
+      "name": "John McLaughlin",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3068,
+      "name": "Mackinac Island",
+      "type": "Place",
+      "stories": 7
+    },
+    {
+      "id": 3137,
+      "name": "Arizona Republican Party",
+      "type": "Organization",
+      "stories": 22
+    },
+    {
+      "id": 428,
+      "name": "Republican Party",
+      "type": "Organization",
+      "stories": 228
+    },
+    {
+      "id": 1426,
+      "name": "Hillary Scholten",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2131,
+      "name": "Michael Flynn",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2560,
+      "name": "Baltimore",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 1820,
+      "name": "Hubert Humphrey",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1706,
+      "name": "Ron Paul",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2117,
+      "name": "Katie Arrington",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2840,
+      "name": "Northampton",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 200,
+      "name": "Fox News",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 5181,
+      "name": "Center for Immigration Studies",
+      "type": "Organization",
+      "stories": 10
+    },
+    {
+      "id": 1452,
+      "name": "Eric Holder",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2783,
+      "name": "Massachusetts",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 637,
+      "name": "YouTube",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 690,
+      "name": "Ronald Inglehart",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 887,
+      "name": "John Corrigan",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2397,
+      "name": "Karen Bass",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2340,
+      "name": "Eddie Glaude",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 773,
+      "name": "Gretchen Whitmer",
+      "type": "Person",
+      "stories": 19
+    },
+    {
+      "id": 5443,
+      "name": "Todd Bensman",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 1618,
+      "name": "Nehemiah",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 699,
+      "name": "Tom Barrett",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2895,
+      "name": "San Diego",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 685,
+      "name": "Michael Brown Sr.",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1079,
+      "name": "Michael L. Brown",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2781,
+      "name": "Marshall",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 1473,
+      "name": "Betsy McCaughey",
+      "type": "Person",
+      "stories": 14
+    },
+    {
+      "id": 2081,
+      "name": "Matthew DePerno",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2532,
+      "name": "Alex Arias",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2475,
+      "name": "Mo Brooks",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 404,
+      "name": "Power Holding Company of Nigeria",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1516,
+      "name": "Larry Elder",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2807,
+      "name": "Moscow",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 851,
+      "name": "Tony Rezko",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1459,
+      "name": "Henry Cuellar",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 290,
+      "name": "Los Angeles Board of Police Commissioners",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 737,
+      "name": "Chris Brown",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2347,
+      "name": "Ketanji Brown Jackson",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1682,
+      "name": "Ryan Kelley",
+      "type": "Person",
+      "stories": 11
+    },
+    {
+      "id": 62,
+      "name": "Bed Bath & Beyond",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1174,
+      "name": "Gary Peters",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 5253,
+      "name": "Attica Scott",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 3279,
+      "name": "Florida Department of Education",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 570,
+      "name": "United States Parachute Association",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 556,
+      "name": "United States Electoral College",
+      "type": "Organization",
+      "stories": 21
+    },
+    {
+      "id": 2762,
+      "name": "London",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 3021,
+      "name": "Jeff Roorda",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 2959,
+      "name": "Washington, D.C.",
+      "type": "Place",
+      "stories": 40
+    },
+    {
+      "id": 613,
+      "name": "Washington Examiner",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 1454,
+      "name": "Arjun Jaikumar",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 1865,
+      "name": "Stephen Breyer",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 4574,
+      "name": "Chester A. Arthur",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 749,
+      "name": "Kimberly Gardner",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 2845,
+      "name": "Ohio",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 525,
+      "name": "The Washington Post",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2888,
+      "name": "Russia",
+      "type": "Place",
+      "stories": 44
+    },
+    {
+      "id": 2031,
+      "name": "Jerrold Nadler",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 761,
+      "name": "Chris Christie",
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 5545,
+      "name": "John Sellek",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 704,
+      "name": "Elizabeth Warren",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 1155,
+      "name": "Michelle Obama",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2214,
+      "name": "Adam Kinzinger",
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 647,
+      "name": "Abraham Lincoln",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1098,
+      "name": "Michael Steele",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3059,
+      "name": "William Lacy Clay",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 183,
+      "name": "Federal Election Commission",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2411,
+      "name": "Joe Manchin",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2743,
+      "name": "Kuwait",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2940,
+      "name": "Turkey",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 3102,
+      "name": "Doug Mastriano",
+      "type": "Person",
+      "stories": 31
+    },
+    {
+      "id": 2826,
+      "name": "New York City",
+      "type": "Place",
+      "stories": 34
+    },
+    {
+      "id": 1207,
+      "name": "Darren Wilson",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1658,
+      "name": "Andrew Young",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3566,
+      "name": "The Daily Caller News Foundation",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 3623,
+      "name": "United States Postal Service",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 1404,
+      "name": "Ted Budd",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2932,
+      "name": "Tennessee",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2678,
+      "name": "Grand Rapids",
+      "type": "Place",
+      "stories": 3
+    },
+    {
+      "id": 2095,
+      "name": "Brian Kemp",
+      "type": "Person",
+      "stories": 22
+    },
+    {
+      "id": 475,
+      "name": "Sun-Gazette",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2818,
+      "name": "Nevada",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 64,
+      "name": "Black Lives Matter",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 725,
+      "name": "Thomas Johnson",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 107,
+      "name": "Coal India Limited",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1670,
+      "name": "Steve Singiser",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2944,
+      "name": "United Kingdom",
+      "type": "Place",
+      "stories": 24
+    },
+    {
+      "id": 304,
+      "name": "Meijer",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2633,
+      "name": "Cuyahoga County",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2090,
+      "name": "Lanhee Chen",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 19,
+      "name": "American Enterprise Institute",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1525,
+      "name": "Cameron Smith",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2133,
+      "name": "Brian Chesky",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1328,
+      "name": "Paul BÃ©dard",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2330,
+      "name": "Emahoy TseguÃ©-Maryam GuÃ¨brou",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2799,
+      "name": "Missouri",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 2545,
+      "name": "Ann Arbor",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 1765,
+      "name": "Mitch McConnell",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2842,
+      "name": "Oakland County",
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 31,
+      "name": "Arizona Board of Regents",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 482,
+      "name": "Supreme Court of the United States",
+      "type": "Organization",
+      "stories": 40
+    },
+    {
+      "id": 539,
+      "name": "Twitter",
+      "type": "Organization",
+      "stories": 41
+    },
+    {
+      "id": 2925,
+      "name": "Taiwan",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2868,
+      "name": "Pittsburgh",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 1226,
+      "name": "Sean Patrick Maloney",
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 57,
+      "name": "Baltimore Police Department",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1423,
+      "name": "George Barna",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2482,
+      "name": "Melania Trump",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 661,
+      "name": "Ron DeSantis",
+      "type": "Person",
+      "stories": 100
+    },
+    {
+      "id": 1563,
+      "name": "Nancy Mace",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2171,
+      "name": "Michael Brown",
+      "type": "Person",
+      "stories": 119
+    },
+    {
+      "id": 1055,
+      "name": "Mike Braun",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2894,
+      "name": "San Antonio",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2368,
+      "name": "Mark Cuban",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 998,
+      "name": "Johnetta Elzie",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1449,
+      "name": "Magdalena Andersson",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2508,
+      "name": "Eric Metaxas",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 801,
+      "name": "Gregg Phillips",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2311,
+      "name": "Matt Bennett",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2583,
+      "name": "Brownsville",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 884,
+      "name": "Elissa Slotkin",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1335,
+      "name": "Nancy Pelosi",
+      "type": "Person",
+      "stories": 32
+    },
+    {
+      "id": 2394,
+      "name": "Jack Dorsey",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 323,
+      "name": "Moorlandâ€“Spingarn Research Center",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 577,
+      "name": "United States Senate Committee on the Judiciary",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2083,
+      "name": "Calvin Coolidge",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 713,
+      "name": "Amy Totenberg",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2709,
+      "name": "India",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 3085,
+      "name": "Harriet Hageman",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1969,
+      "name": "Volodymyr Zelenskyi",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1304,
+      "name": "Anthony Fauci",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2052,
+      "name": "Bennie Thompson",
+      "type": "Person",
+      "stories": 37
+    },
+    {
+      "id": 796,
+      "name": "Kevin de LeÃ³n",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 936,
+      "name": "Hugh McKean",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3094,
+      "name": "Liz Cheney",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 318,
+      "name": "Milwaukee Journal Sentinel",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2721,
+      "name": "Israel",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 708,
+      "name": "Laura Cox",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3224,
+      "name": "Detroit Regional Chamber",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 2021,
+      "name": "Jeremiah",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 651,
+      "name": "Perry Johnson",
+      "type": "Person",
+      "stories": 19
+    },
+    {
+      "id": 2161,
+      "name": "William A. Jacobson",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2550,
+      "name": "Arizona",
+      "type": "Place",
+      "stories": 78
+    },
+    {
+      "id": 287,
+      "name": "Live Action",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1145,
+      "name": "Rudy Giuliani",
+      "type": "Person",
+      "stories": 37
+    },
+    {
+      "id": 2593,
+      "name": "Canada",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 427,
+      "name": "Republican National Committee",
+      "type": "Organization",
+      "stories": 30
+    },
+    {
+      "id": 1539,
+      "name": "Johnny Depp",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 5556,
+      "name": "Norton Shores",
+      "type": "Place",
+      "stories": 3
+    },
+    {
+      "id": 974,
+      "name": "George Folsey",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 917,
+      "name": "Janice Rogers Brown",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2816,
+      "name": "Nebraska",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 860,
+      "name": "Osama bin Laden",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1919,
+      "name": "Amanda Gorman",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 413,
+      "name": "Purple Heart",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1805,
+      "name": "Jennifer Granholm",
+      "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 2899,
+      "name": "Saudi Arabia",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2645,
+      "name": "Detroit",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 2002,
+      "name": "Tudor Dixon",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 4571,
+      "name": "Lisa Boothe",
+      "type": "Person",
+      "stories": 12
+    },
+    {
+      "id": 579,
+      "name": "University of Alberta",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2942,
+      "name": "Ukraine",
+      "type": "Place",
+      "stories": 52
+    },
+    {
+      "id": 886,
+      "name": "Mark Kelly",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 1437,
+      "name": "Ryan Lizza",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2028,
+      "name": "Chuck Norris",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 4597,
+      "name": "John Yarmuth",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 5542,
+      "name": "Bill Schuette",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 97,
+      "name": "Christian Legal Centre",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 815,
+      "name": "Herschel Walker",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 5345,
+      "name": "Jim Varney",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 2014,
+      "name": "Tony Evans",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2465,
+      "name": "Mitt Romney",
+      "type": "Person",
+      "stories": 32
+    },
+    {
+      "id": 2657,
+      "name": "Ferguson",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 154,
+      "name": "Dominion Voting Systems",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 394,
+      "name": "Perkins Coie",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1349,
+      "name": "William Magear Tweed",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 591,
+      "name": "University of Oxford",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1095,
+      "name": "Elise Stefanik",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 5314,
+      "name": "G. Michael Brown",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 477,
+      "name": "Supreme Court of California",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1646,
+      "name": "David Purdue",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 5615,
+      "name": "Michigan State University",
+      "type": "Organization",
+      "stories": 2
+    },
+    {
+      "id": 2626,
+      "name": "Connecticut",
+      "type": "Place",
+      "stories": 8
+    },
+    {
       "id": 3099,
       "name": "Donna Brandenburg",
       "type": "Person",
       "stories": 5
     },
     {
-      "id": 3102,
-      "name": "Doug Mastriano",
+      "id": 2434,
+      "name": "Rick Caruso",
       "type": "Person",
-      "stories": 27
+      "stories": 8
+    },
+    {
+      "id": 2923,
+      "name": "Sweden",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 867,
+      "name": "Keith Waters",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2866,
+      "name": "Phoenix",
+      "type": "Place",
+      "stories": 5
+    },
+    {
+      "id": 2555,
+      "name": "Atlanta",
+      "type": "Place",
+      "stories": 18
+    },
+    {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 195
+    },
+    {
+      "id": 2675,
+      "name": "Glasgow",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 35,
+      "name": "Arizona Supreme Court",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 3051,
+      "name": "Shawn Kelley",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 3663,
+      "name": "WorldNetDaily",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 2618,
+      "name": "Cocos (Keeling) Islands",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 5130,
+      "name": "special-purpose district of the United States",
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 358,
+      "name": "New York Supreme Court, Appellate Division",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1978,
+      "name": "Duncan L. Hunter",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2429,
+      "name": "Barack Obama",
+      "type": "Person",
+      "stories": 40
+    },
+    {
+      "id": 1610,
+      "name": "Francis Collins",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1413,
+      "name": "Kelli Ward",
+      "type": "Person",
+      "stories": 42
+    },
+    {
+      "id": 2258,
+      "name": "Craig Ferguson",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 691,
+      "name": "Paul",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 1750,
+      "name": "Napoleon",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2573,
+      "name": "Bolivia",
+      "type": "Place",
+      "stories": 8
     },
     {
       "id": 3754,
       "name": "Amber Heard",
       "type": "Person",
-      "stories": 5
+      "stories": 6
     },
     {
-      "id": 3810,
-      "name": "Joan McCarter",
+      "id": 524,
+      "name": "The Walt Disney Company",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 1128,
+      "name": "Ashli Babbitt",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2187,
+      "name": "BeyoncÃ©",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2910,
+      "name": "South Carolina",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 817,
+      "name": "Ming Smith",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1522,
+      "name": "Mary Kupelian",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2524,
+      "name": "Peter Thiel",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1154,
+      "name": "Alexandria Ocasio-Cortez",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2213,
+      "name": "George Soros",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2896,
+      "name": "San Francisco",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 3075,
+      "name": "Kevin Rinke",
       "type": "Person",
       "stories": 5
     },
     {
-      "id": 4268,
-      "name": "Five for Fighting",
+      "id": 646,
+      "name": "Shirley Chisholm",
       "type": "Person",
-      "stories": 5
+      "stories": 8
     },
     {
-      "id": 4325,
-      "name": "David Perdue",
+      "id": 1097,
+      "name": "Merrick Garland",
       "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2782,
+      "name": "Maryland",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 1394,
+      "name": "Gavin Newsom",
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 2725,
+      "name": "Japan",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 3044,
+      "name": "Ned Kelly",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 1788,
+      "name": "Greg Laurie",
+      "type": "Person",
+      "stories": 32
+    },
+    {
+      "id": 2668,
+      "name": "Franklin County",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2865,
+      "name": "Philadelphia",
+      "type": "Place",
       "stories": 10
     },
     {
-      "id": 4330,
-      "name": "Emerald Robinson",
+      "id": 672,
+      "name": "Benjamin Talton",
       "type": "Person",
-      "stories": 5
+      "stories": 8
     },
     {
-      "id": 4508,
-      "name": "Cecilia Altonaga",
+      "id": 1280,
+      "name": "Dwight Chapin",
       "type": "Person",
-      "stories": 5
+      "stories": 8
     },
     {
-      "id": 4571,
-      "name": "Lisa Boothe",
-      "type": "Person",
-      "stories": 10
+      "id": 308,
+      "name": "Michigan Republican Party",
+      "type": "Organization",
+      "stories": 16
     },
     {
-      "id": 4574,
-      "name": "Chester A. Arthur",
+      "id": 1223,
+      "name": "Jen Psaki",
       "type": "Person",
-      "stories": 4
+      "stories": 8
     },
     {
-      "id": 4597,
-      "name": "John Yarmuth",
-      "type": "Person",
-      "stories": 4
+      "id": 562,
+      "name": "United States House of Representatives",
+      "type": "Organization",
+      "stories": 59
     },
     {
-      "id": 5253,
-      "name": "Attica Scott",
+      "id": 1109,
+      "name": "Joe Cunningham",
       "type": "Person",
-      "stories": 4
+      "stories": 8
     },
     {
-      "id": 5261,
-      "name": "Breonna Taylor",
+      "id": 1503,
+      "name": "Jon Tester",
       "type": "Person",
-      "stories": 4
+      "stories": 8
     },
     {
-      "id": 5314,
-      "name": "G. Michael Brown",
+      "id": 2251,
+      "name": "Anne Applebaum",
       "type": "Person",
-      "stories": 4
+      "stories": 8
     },
     {
-      "id": 5345,
-      "name": "Jim Varney",
+      "id": 2505,
+      "name": "Kyrsten Sinema",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2934,
+      "name": "Texas",
+      "type": "Place",
+      "stories": 39
+    },
+    {
+      "id": 938,
+      "name": "Michael Medved",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1078,
+      "name": "George W. Bush",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2277,
+      "name": "Jeff Singer",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2706,
+      "name": "Idaho",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 517,
+      "name": "The New York Times",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2903,
+      "name": "Selma",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 346,
+      "name": "NATO",
+      "type": "Organization",
+      "stories": 24
+    },
+    {
+      "id": 2517,
+      "name": "Elon Musk",
+      "type": "Person",
+      "stories": 13
+    },
+    {
+      "id": 2846,
+      "name": "Oklahoma",
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 2592,
+      "name": "Cameroon",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 600,
+      "name": "US Senate",
+      "type": "Organization",
+      "stories": 27
+    },
+    {
+      "id": 2535,
+      "name": "Afghanistan",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2578,
+      "name": "Bradford County",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 118,
+      "name": "Congressional Leadership Fund",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 569,
+      "name": "United States Navy",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2972,
+      "name": "Wisconsin",
+      "type": "Place",
+      "stories": 13
+    },
+    {
+      "id": 1624,
+      "name": "Susan Crabtree",
+      "type": "Person",
+      "stories": 40
+    },
+    {
+      "id": 2526,
+      "name": "Andrew G. McCabe",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 959,
+      "name": "Ross Perot",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2661,
+      "name": "Florida",
+      "type": "Place",
+      "stories": 54
+    },
+    {
+      "id": 2272,
+      "name": "Lyndon B. Johnson",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2958,
+      "name": "Washington Township",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 87,
+      "name": "Catholic Church",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2901,
+      "name": "Scotland",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 2398,
+      "name": "Cori Bush",
+      "type": "Person",
+      "stories": 20
+    },
+    {
+      "id": 2590,
+      "name": "California",
+      "type": "Place",
+      "stories": 72
+    },
+    {
+      "id": 2787,
+      "name": "Mexico",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 284,
+      "name": "Libertarian Party",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1536,
+      "name": "Meshawn Maddock",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 113,
+      "name": "Communist Party USA",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 244
+    },
+    {
+      "id": 1168,
+      "name": "Jens Stoltenberg",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 971,
+      "name": "Marco Rubio",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2030,
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "stories": 68
+    },
+    {
+      "id": 99,
+      "name": "Church of England",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 550,
+      "name": "United States Department of Justice",
+      "type": "Organization",
+      "stories": 24
+    },
+    {
+      "id": 883,
+      "name": "Marjorie Taylor Greene",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1434,
+      "name": "Mike Pence",
+      "type": "Person",
+      "stories": 19
+    },
+    {
+      "id": 182,
+      "name": "Federal Bureau of Investigation",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 1688,
+      "name": "Robin Williams",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 926,
+      "name": "Mark Finchem",
+      "type": "Person",
+      "stories": 34
+    },
+    {
+      "id": 462,
+      "name": "Southern Poverty Law Center",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1180,
+      "name": "Jonathan Edwards",
       "type": "Person",
       "stories": 8
     },
@@ -2125,637 +1939,823 @@
       "id": 5399,
       "name": "Morgan McGarvey",
       "type": "Person",
-      "stories": 4
+      "stories": 5
     },
     {
-      "id": 5443,
-      "name": "Todd Bensman",
+      "id": 1123,
+      "name": "Bobby Rush",
       "type": "Person",
       "stories": 8
     },
     {
-      "id": 5542,
-      "name": "Bill Schuette",
+      "id": 151,
+      "name": "Department for Education",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 812,
+      "name": "Clarence Thomas",
       "type": "Person",
-      "stories": 2
+      "stories": 8
     },
     {
-      "id": 5545,
-      "name": "John Sellek",
+      "id": 895,
+      "name": "Kamala Harris",
       "type": "Person",
-      "stories": 2
-    },
-    {
-      "id": 2535,
-      "name": "Afghanistan",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2537,
-      "name": "Alabama",
-      "type": "Place",
-      "stories": 21
+      "stories": 64
     },
     {
       "id": 2540,
       "name": "Aleppo",
       "type": "Place",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 2545,
-      "name": "Ann Arbor",
-      "type": "Place",
-      "stories": 7
+      "id": 1586,
+      "name": "Martin Luther King III",
+      "type": "Person",
+      "stories": 8
     },
     {
-      "id": 2550,
-      "name": "Arizona",
-      "type": "Place",
-      "stories": 66
+      "id": 781,
+      "name": "Tim Ryan",
+      "type": "Person",
+      "stories": 24
     },
     {
-      "id": 2552,
-      "name": "Ashdod",
-      "type": "Place",
-      "stories": 7
+      "id": 417,
+      "name": "RealClearPolitics",
+      "type": "Organization",
+      "stories": 48
     },
     {
-      "id": 2555,
-      "name": "Atlanta",
-      "type": "Place",
-      "stories": 15
+      "id": 1529,
+      "name": "Christopher A. Wray",
+      "type": "Person",
+      "stories": 8
     },
     {
-      "id": 2558,
-      "name": "Australia",
-      "type": "Place",
-      "stories": 21
-    },
-    {
-      "id": 2560,
-      "name": "Baltimore",
-      "type": "Place",
-      "stories": 7
+      "id": 474,
+      "name": "Student Veterans of America",
+      "type": "Organization",
+      "stories": 8
     },
     {
       "id": 2566,
       "name": "Beijing",
       "type": "Place",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 2567,
-      "name": "Belarus",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2568,
-      "name": "Belgium",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2573,
-      "name": "Bolivia",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2575,
-      "name": "Boston",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2578,
-      "name": "Bradford County",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2579,
-      "name": "British Indian Ocean Territory",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2583,
-      "name": "Brownsville",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2590,
-      "name": "California",
-      "type": "Place",
-      "stories": 63
-    },
-    {
-      "id": 2592,
-      "name": "Cameroon",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2593,
-      "name": "Canada",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2618,
-      "name": "Cocos (Keeling) Islands",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2626,
-      "name": "Connecticut",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2633,
-      "name": "Cuyahoga County",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2636,
-      "name": "Dallas",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2645,
-      "name": "Detroit",
-      "type": "Place",
-      "stories": 13
-    },
-    {
-      "id": 2657,
-      "name": "Ferguson",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2658,
-      "name": "Finland",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2661,
-      "name": "Florida",
-      "type": "Place",
-      "stories": 46
-    },
-    {
-      "id": 2665,
-      "name": "Fort Worth",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2668,
-      "name": "Franklin County",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2672,
-      "name": "Georgia",
-      "type": "Place",
-      "stories": 40
-    },
-    {
-      "id": 2674,
-      "name": "Germany",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2675,
-      "name": "Glasgow",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2678,
-      "name": "Grand Rapids",
-      "type": "Place",
-      "stories": 2
-    },
-    {
-      "id": 2689,
-      "name": "Hamilton County",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2706,
-      "name": "Idaho",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2707,
-      "name": "Illinois",
-      "type": "Place",
-      "stories": 21
-    },
-    {
-      "id": 2709,
-      "name": "India",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2710,
-      "name": "Indiana",
-      "type": "Place",
-      "stories": 5
-    },
-    {
-      "id": 2720,
-      "name": "Islamic State",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2721,
-      "name": "Israel",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2725,
-      "name": "Japan",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2727,
-      "name": "Jerusalem",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2738,
-      "name": "Kentucky",
-      "type": "Place",
-      "stories": 9
-    },
-    {
-      "id": 2743,
-      "name": "Kuwait",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2748,
-      "name": "Lansing",
-      "type": "Place",
-      "stories": 9
-    },
-    {
-      "id": 2762,
-      "name": "London",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2764,
-      "name": "Los Angeles",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2767,
-      "name": "Louisville",
-      "type": "Place",
-      "stories": 4
-    },
-    {
-      "id": 2772,
-      "name": "Maine",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2781,
-      "name": "Marshall",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2782,
-      "name": "Maryland",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2783,
-      "name": "Massachusetts",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2786,
-      "name": "Mesa County",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2787,
-      "name": "Mexico",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2791,
-      "name": "Michigan",
-      "type": "Place",
-      "stories": 66
-    },
-    {
-      "id": 2795,
-      "name": "Minneapolis",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2799,
-      "name": "Missouri",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2805,
-      "name": "Montgomery",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2807,
-      "name": "Moscow",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2816,
-      "name": "Nebraska",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2818,
-      "name": "Nevada",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2826,
-      "name": "New York City",
-      "type": "Place",
-      "stories": 29
-    },
-    {
-      "id": 2840,
-      "name": "Northampton",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2842,
-      "name": "Oakland County",
-      "type": "Place",
-      "stories": 5
-    },
-    {
-      "id": 2845,
-      "name": "Ohio",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2846,
-      "name": "Oklahoma",
-      "type": "Place",
-      "stories": 5
-    },
-    {
-      "id": 2862,
-      "name": "Pennsylvania",
-      "type": "Place",
-      "stories": 14
+      "id": 1669,
+      "name": "Joe Kovacs",
+      "type": "Person",
+      "stories": 8
     },
     {
       "id": 2863,
       "name": "People's Republic of China",
       "type": "Place",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 2865,
-      "name": "Philadelphia",
+      "id": 106,
+      "name": "CNN",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2552,
+      "name": "Ashdod",
       "type": "Place",
       "stories": 8
     },
     {
-      "id": 2866,
-      "name": "Phoenix",
-      "type": "Place",
-      "stories": 4
+      "id": 246,
+      "name": "Harvest International Ministry",
+      "type": "Organization",
+      "stories": 8
     },
     {
-      "id": 2868,
-      "name": "Pittsburgh",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2888,
-      "name": "Russia",
-      "type": "Place",
-      "stories": 38
-    },
-    {
-      "id": 2890,
-      "name": "Sacramento",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2894,
-      "name": "San Antonio",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2895,
-      "name": "San Diego",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2896,
-      "name": "San Francisco",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2899,
-      "name": "Saudi Arabia",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2901,
-      "name": "Scotland",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2903,
-      "name": "Selma",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2910,
-      "name": "South Carolina",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2912,
-      "name": "South Korea",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2917,
-      "name": "St. Louis",
-      "type": "Place",
-      "stories": 6
-    },
-    {
-      "id": 2919,
-      "name": "Stockholm",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2923,
-      "name": "Sweden",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2925,
-      "name": "Taiwan",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2932,
-      "name": "Tennessee",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2934,
-      "name": "Texas",
-      "type": "Place",
-      "stories": 34
-    },
-    {
-      "id": 2940,
-      "name": "Turkey",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2942,
-      "name": "Ukraine",
-      "type": "Place",
-      "stories": 45
-    },
-    {
-      "id": 2944,
-      "name": "United Kingdom",
-      "type": "Place",
-      "stories": 21
-    },
-    {
-      "id": 2945,
-      "name": "United States of America",
-      "type": "Place",
-      "stories": 186
+      "id": 2303,
+      "name": "Madison Cawthorn",
+      "type": "Person",
+      "stories": 9
     },
     {
       "id": 2946,
       "name": "Utah",
       "type": "Place",
-      "stories": 12
+      "stories": 14
     },
     {
-      "id": 2958,
-      "name": "Washington Township",
+      "id": 1284,
+      "name": "Doug Ducey",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2483,
+      "name": "Coretta Scott King",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2558,
+      "name": "Australia",
       "type": "Place",
+      "stories": 24
+    },
+    {
+      "id": 2912,
+      "name": "South Korea",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 3034,
+      "name": "Lyda Krewson",
+      "type": "Person",
       "stories": 7
     },
     {
-      "id": 2959,
-      "name": "Washington, D.C.",
-      "type": "Place",
-      "stories": 35
+      "id": 859,
+      "name": "Adam",
+      "type": "Person",
+      "stories": 8
     },
     {
-      "id": 2972,
-      "name": "Wisconsin",
-      "type": "Place",
-      "stories": 11
+      "id": 215,
+      "name": "Georgia Bureau of Investigation",
+      "type": "Organization",
+      "stories": 6
     },
     {
-      "id": 2973,
-      "name": "Woodlawn",
-      "type": "Place",
-      "stories": 7
+      "id": 1213,
+      "name": "Charlie Kirk",
+      "type": "Person",
+      "stories": 16
     },
     {
-      "id": 2974,
-      "name": "Worcester",
+      "id": 1296,
+      "name": "Eugene Volokh",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1099,
+      "name": "Dick Tuck",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2298,
+      "name": "Garrett Soldano",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 5261,
+      "name": "Breonna Taylor",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 2767,
+      "name": "Louisville",
       "type": "Place",
-      "stories": 7
+      "stories": 5
+    },
+    {
+      "id": 1576,
+      "name": "Dinesh D'Souza",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2710,
+      "name": "Indiana",
+      "type": "Place",
+      "stories": 6
+    },
+    {
+      "id": 1930,
+      "name": "Richard Nixon",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 13,
+      "name": "Amazon",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 1265,
+      "name": "Michael B. Jordan",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1208,
+      "name": "Maxine Waters",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 507,
+      "name": "The Cook Political Report",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1448,
+      "name": "Josh Hawley",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 1702,
+      "name": "Bill Gates",
+      "type": "Person",
+      "stories": 16
     },
     {
       "id": 2976,
       "name": "Wyoming",
       "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 726,
+      "name": "Miguel Estrada",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2039,
+      "name": "Mandela Barnes",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2919,
+      "name": "Stockholm",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2665,
+      "name": "Fort Worth",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2862,
+      "name": "Pennsylvania",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 108,
+      "name": "College of the Holy Cross",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2805,
+      "name": "Montgomery",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 1614,
+      "name": "Fred Upton",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2748,
+      "name": "Lansing",
+      "type": "Place",
+      "stories": 11
+    },
+    {
+      "id": 2165,
+      "name": "Marilyn Mosby",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2945,
+      "name": "United States of America",
+      "type": "Place",
+      "stories": 213
+    },
+    {
+      "id": 2419,
+      "name": "John Lewis",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1911,
+      "name": "Eric Adams",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 545,
+      "name": "United States Congress",
+      "type": "Organization",
       "stories": 14
     },
     {
-      "id": 3068,
-      "name": "Mackinac Island",
-      "type": "Place",
+      "id": 571,
+      "name": "United States Senate",
+      "type": "Organization",
+      "stories": 24
+    },
+    {
+      "id": 1740,
+      "name": "Jesus",
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 3000,
+      "name": "Young Americans for Freedom",
+      "type": "Organization",
+      "stories": 7
+    },
+    {
+      "id": 177,
+      "name": "Facebook",
+      "type": "Organization",
       "stories": 6
     },
     {
-      "id": 5130,
-      "name": "special-purpose district of the United States",
+      "id": 2134,
+      "name": "Albert Bourla",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 764,
+      "name": "Awol Erizku",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 63,
+      "name": "Belarusian Republican Youth Union",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 146,
+      "name": "Democratic Party",
+      "type": "Organization",
+      "stories": 149
+    },
+    {
+      "id": 203,
+      "name": "Freedom",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 400,
+      "name": "Planned Parenthood",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2786,
+      "name": "Mesa County",
       "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 89,
+      "name": "CBS News",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2672,
+      "name": "Georgia",
+      "type": "Place",
+      "stories": 46
+    },
+    {
+      "id": 2575,
+      "name": "Boston",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2772,
+      "name": "Maine",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2129,
+      "name": "Mark Sanford",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1367,
+      "name": "Eugene McCarthy",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2658,
+      "name": "Finland",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 1761,
+      "name": "Charlie Crist",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 4330,
+      "name": "Emerald Robinson",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 645,
+      "name": "Jonah Goldberg",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1253,
+      "name": "Bernie Sanders",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1507,
+      "name": "Ilhan Omar",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1647,
+      "name": "Hunter Biden",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 395,
+      "name": "Pfizer",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 27,
+      "name": "Answers in Genesis",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1139,
+      "name": "Vicente GonzÃ¡lez",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1844,
+      "name": "James Craig",
+      "type": "Person",
+      "stories": 28
+    },
+    {
+      "id": 84,
+      "name": "Capitol Records",
+      "type": "Organization",
       "stories": 5
     },
     {
-      "id": 5556,
-      "name": "Norton Shores",
+      "id": 535,
+      "name": "True the Vote",
+      "type": "Organization",
+      "stories": 14
+    },
+    {
+      "id": 1787,
+      "name": "Dennis Prager",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2727,
+      "name": "Jerusalem",
       "type": "Place",
-      "stories": 2
+      "stories": 8
+    },
+    {
+      "id": 1279,
+      "name": "Sanna Marin",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2478,
+      "name": "Jerry Brown",
+      "type": "Person",
+      "stories": 21
+    },
+    {
+      "id": 771,
+      "name": "Joseph Stalin",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1970,
+      "name": "Judy Woodruff",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 714,
+      "name": "Horace Greeley",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 464,
+      "name": "Special Warfare Combatant-craft Crewmen",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 797,
+      "name": "Juana MagalÃ­ Chinchilla",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1659,
+      "name": "Steven Fletcher",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1348,
+      "name": "Charlie Baker",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2250,
+      "name": "Greg Abbott",
+      "type": "Person",
+      "stories": 15
+    },
+    {
+      "id": 96,
+      "name": "Christian Concern",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 683,
+      "name": "Tucker Carlson",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3055,
+      "name": "Tishaura Jones",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 1234,
+      "name": "Pat Nixon",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1037,
+      "name": "Walter Duranty",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1488,
+      "name": "James A. Baker",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 4508,
+      "name": "Cecilia Altonaga",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 65,
+      "name": "BLK Art Group",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 262,
+      "name": "Instagram",
+      "type": "Organization",
+      "stories": 6
+    },
+    {
+      "id": 2568,
+      "name": "Belgium",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 8,
+      "name": "Airbnb",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 205,
+      "name": "Gagosian",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 892,
+      "name": "Cornel West",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1951,
+      "name": "Stacey Abrams",
+      "type": "Person",
+      "stories": 22
+    },
+    {
+      "id": 91,
+      "name": "Centers for Disease Control and Prevention",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 2791,
+      "name": "Michigan",
+      "type": "Place",
+      "stories": 79
+    },
+    {
+      "id": 2537,
+      "name": "Alabama",
+      "type": "Place",
+      "stories": 24
+    },
+    {
+      "id": 1089,
+      "name": "Ron Kind",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 778,
+      "name": "Russell L. Smith",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 585,
+      "name": "University of Glasgow",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 1583,
+      "name": "Rick Snyder",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2034,
+      "name": "Susan Collins",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2974,
+      "name": "Worcester",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2720,
+      "name": "Islamic State",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2917,
+      "name": "St. Louis",
+      "type": "Place",
+      "stories": 7
+    },
+    {
+      "id": 1018,
+      "name": "Scott Atran",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1469,
+      "name": "Mark Brnovich",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1920,
+      "name": "Keith Green",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2528,
+      "name": "Gareth Jones",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1158,
+      "name": "Hillary Clinton",
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 1609,
+      "name": "Kevin McCarthy",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 357,
+      "name": "New York Post",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1863,
+      "name": "David Mark",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 650,
+      "name": "Bridget Sielicki",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1749,
+      "name": "Benjamin Franklin",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2689,
+      "name": "Hamilton County",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 1849,
+      "name": "Jacob Hagg",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3810,
+      "name": "Joan McCarter",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 930,
+      "name": "David Harsanyi",
+      "type": "Person",
+      "stories": 16
     }
   ],
   "media": [

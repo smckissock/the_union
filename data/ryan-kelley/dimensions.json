@@ -4,334 +4,10 @@
   "featuredStoryId": 7300,
   "terms": [
     {
-      "id": 89,
-      "name": "CBS News",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 118,
-      "name": "Congressional Leadership Fund",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 146,
-      "name": "Democratic Party",
-      "type": "Organization",
-      "stories": 21
-    },
-    {
-      "id": 183,
-      "name": "Federal Election Commission",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 296,
-      "name": "Mar-a-Lago",
-      "type": "Organization",
-      "stories": 14
-    },
-    {
       "id": 307,
       "name": "Michigan Democratic Party",
       "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 308,
-      "name": "Michigan Republican Party",
-      "type": "Organization",
-      "stories": 29
-    },
-    {
-      "id": 427,
-      "name": "Republican National Committee",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 428,
-      "name": "Republican Party",
-      "type": "Organization",
-      "stories": 62
-    },
-    {
-      "id": 550,
-      "name": "United States Department of Justice",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 2980,
-      "name": "Business Leaders for Michigan",
-      "type": "Organization",
-      "stories": 6
-    },
-    {
-      "id": 3224,
-      "name": "Detroit Regional Chamber",
-      "type": "Organization",
-      "stories": 5
-    },
-    {
-      "id": 5615,
-      "name": "Michigan State University",
-      "type": "Organization",
-      "stories": 1
-    },
-    {
-      "id": 651,
-      "name": "Perry Johnson",
-      "type": "Person",
-      "stories": 23
-    },
-    {
-      "id": 773,
-      "name": "Gretchen Whitmer",
-      "type": "Person",
-      "stories": 30
-    },
-    {
-      "id": 815,
-      "name": "Herschel Walker",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 890,
-      "name": "Chuck Yob",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1002,
-      "name": "Mike Murray",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1088,
-      "name": "Dana Nessel",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1089,
-      "name": "Ron Kind",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1147,
-      "name": "Donald Trump",
-      "type": "Person",
-      "stories": 36
-    },
-    {
-      "id": 1199,
-      "name": "Ty Detmer",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1235,
-      "name": "Lana Theis",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1237,
-      "name": "Roger Stone",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1374,
-      "name": "Mike J. Dunleavy",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1536,
-      "name": "Meshawn Maddock",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1583,
-      "name": "Rick Snyder",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1609,
-      "name": "Kevin McCarthy",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1645,
-      "name": "Mike Brown",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1682,
-      "name": "Ryan Kelley",
-      "type": "Person",
-      "stories": 26
-    },
-    {
-      "id": 1831,
-      "name": "Kristina Karamo",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1844,
-      "name": "James Craig",
-      "type": "Person",
-      "stories": 45
-    },
-    {
-      "id": 1901,
-      "name": "Peter Meijer",
-      "type": "Person",
-      "stories": 2
-    },
-    {
-      "id": 1978,
-      "name": "Duncan L. Hunter",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1997,
-      "name": "William M. McSwain",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2002,
-      "name": "Tudor Dixon",
-      "type": "Person",
-      "stories": 18
-    },
-    {
-      "id": 2006,
-      "name": "Joe Kent",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 2030,
-      "name": "Vladimir Putin",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2081,
-      "name": "Matthew DePerno",
-      "type": "Person",
-      "stories": 21
-    },
-    {
-      "id": 2087,
-      "name": "Joe Biden",
-      "type": "Person",
-      "stories": 29
-    },
-    {
-      "id": 2095,
-      "name": "Brian Kemp",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 2125,
-      "name": "Jaime Herrera Beutler",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 2171,
-      "name": "Michael Brown",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2206,
-      "name": "John Engler",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2298,
-      "name": "Garrett Soldano",
-      "type": "Person",
-      "stories": 17
-    },
-    {
-      "id": 2303,
-      "name": "Madison Cawthorn",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2312,
-      "name": "Patrick Colbeck",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2437,
-      "name": "Matt Maddock",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 3051,
-      "name": "Shawn Kelley",
-      "type": "Person",
-      "stories": 6
-    },
-    {
-      "id": 3075,
-      "name": "Kevin Rinke",
-      "type": "Person",
-      "stories": 11
-    },
-    {
-      "id": 3085,
-      "name": "Harriet Hageman",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 3087,
-      "name": "John Gibbs",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 3088,
-      "name": "Bob Scott",
-      "type": "Person",
-      "stories": 4
-    },
-    {
-      "id": 3090,
-      "name": "Evan Space",
-      "type": "Person",
-      "stories": 2
-    },
-    {
-      "id": 3094,
-      "name": "Liz Cheney",
-      "type": "Person",
-      "stories": 1
+      "stories": 8
     },
     {
       "id": 3095,
@@ -340,14 +16,62 @@
       "stories": 10
     },
     {
-      "id": 3099,
-      "name": "Donna Brandenburg",
-      "type": "Person",
-      "stories": 9
+      "id": 3068,
+      "name": "Mackinac Island",
+      "type": "Place",
+      "stories": 7
     },
     {
-      "id": 5542,
-      "name": "Bill Schuette",
+      "id": 428,
+      "name": "Republican Party",
+      "type": "Organization",
+      "stories": 73
+    },
+    {
+      "id": 3088,
+      "name": "Bob Scott",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 773,
+      "name": "Gretchen Whitmer",
+      "type": "Person",
+      "stories": 35
+    },
+    {
+      "id": 3066,
+      "name": "Howell",
+      "type": "Place",
+      "stories": 7
+    },
+    {
+      "id": 2081,
+      "name": "Matthew DePerno",
+      "type": "Person",
+      "stories": 24
+    },
+    {
+      "id": 1682,
+      "name": "Ryan Kelley",
+      "type": "Person",
+      "stories": 28
+    },
+    {
+      "id": 2959,
+      "name": "Washington, D.C.",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2980,
+      "name": "Business Leaders for Michigan",
+      "type": "Organization",
+      "stories": 7
+    },
+    {
+      "id": 3090,
+      "name": "Evan Space",
       "type": "Person",
       "stories": 2
     },
@@ -355,103 +79,379 @@
       "id": 5545,
       "name": "John Sellek",
       "type": "Person",
-      "stories": 2
+      "stories": 3
     },
     {
-      "id": 2645,
-      "name": "Detroit",
-      "type": "Place",
-      "stories": 34
+      "id": 183,
+      "name": "Federal Election Commission",
+      "type": "Organization",
+      "stories": 8
     },
     {
-      "id": 2678,
-      "name": "Grand Rapids",
-      "type": "Place",
-      "stories": 9
-    },
-    {
-      "id": 2737,
-      "name": "Kent County",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2748,
-      "name": "Lansing",
-      "type": "Place",
-      "stories": 23
-    },
-    {
-      "id": 2761,
-      "name": "Livingston County",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2791,
-      "name": "Michigan",
-      "type": "Place",
-      "stories": 66
+      "id": 2437,
+      "name": "Matt Maddock",
+      "type": "Person",
+      "stories": 8
     },
     {
       "id": 2826,
       "name": "New York City",
       "type": "Place",
-      "stories": 7
+      "stories": 8
+    },
+    {
+      "id": 2678,
+      "name": "Grand Rapids",
+      "type": "Place",
+      "stories": 11
+    },
+    {
+      "id": 2095,
+      "name": "Brian Kemp",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2761,
+      "name": "Livingston County",
+      "type": "Place",
+      "stories": 8
     },
     {
       "id": 2842,
       "name": "Oakland County",
       "type": "Place",
-      "stories": 12
-    },
-    {
-      "id": 2863,
-      "name": "People's Republic of China",
-      "type": "Place",
-      "stories": 6
-    },
-    {
-      "id": 2945,
-      "name": "United States of America",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2958,
-      "name": "Washington Township",
-      "type": "Place",
       "stories": 14
     },
     {
-      "id": 2959,
-      "name": "Washington, D.C.",
-      "type": "Place",
-      "stories": 7
+      "id": 2171,
+      "name": "Michael Brown",
+      "type": "Person",
+      "stories": 10
     },
     {
-      "id": 3064,
-      "name": "Farmington Hills",
-      "type": "Place",
+      "id": 3085,
+      "name": "Harriet Hageman",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3094,
+      "name": "Liz Cheney",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3224,
+      "name": "Detroit Regional Chamber",
+      "type": "Organization",
       "stories": 6
     },
     {
-      "id": 3066,
-      "name": "Howell",
-      "type": "Place",
-      "stories": 6
+      "id": 651,
+      "name": "Perry Johnson",
+      "type": "Person",
+      "stories": 25
     },
     {
-      "id": 3068,
-      "name": "Mackinac Island",
-      "type": "Place",
-      "stories": 6
+      "id": 427,
+      "name": "Republican National Committee",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 1088,
+      "name": "Dana Nessel",
+      "type": "Person",
+      "stories": 8
     },
     {
       "id": 5556,
       "name": "Norton Shores",
       "type": "Place",
+      "stories": 3
+    },
+    {
+      "id": 2645,
+      "name": "Detroit",
+      "type": "Place",
+      "stories": 40
+    },
+    {
+      "id": 2002,
+      "name": "Tudor Dixon",
+      "type": "Person",
+      "stories": 20
+    },
+    {
+      "id": 3087,
+      "name": "John Gibbs",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1831,
+      "name": "Kristina Karamo",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 5542,
+      "name": "Bill Schuette",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 815,
+      "name": "Herschel Walker",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1235,
+      "name": "Lana Theis",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 5615,
+      "name": "Michigan State University",
+      "type": "Organization",
       "stories": 2
+    },
+    {
+      "id": 3099,
+      "name": "Donna Brandenburg",
+      "type": "Person",
+      "stories": 9
+    },
+    {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 42
+    },
+    {
+      "id": 2206,
+      "name": "John Engler",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3051,
+      "name": "Shawn Kelley",
+      "type": "Person",
+      "stories": 7
+    },
+    {
+      "id": 1978,
+      "name": "Duncan L. Hunter",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 3075,
+      "name": "Kevin Rinke",
+      "type": "Person",
+      "stories": 11
+    },
+    {
+      "id": 308,
+      "name": "Michigan Republican Party",
+      "type": "Organization",
+      "stories": 34
+    },
+    {
+      "id": 1997,
+      "name": "William M. McSwain",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 118,
+      "name": "Congressional Leadership Fund",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 2958,
+      "name": "Washington Township",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 1002,
+      "name": "Mike Murray",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1199,
+      "name": "Ty Detmer",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1536,
+      "name": "Meshawn Maddock",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 34
+    },
+    {
+      "id": 2030,
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 550,
+      "name": "United States Department of Justice",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 296,
+      "name": "Mar-a-Lago",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 1237,
+      "name": "Roger Stone",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2125,
+      "name": "Jaime Herrera Beutler",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2737,
+      "name": "Kent County",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2863,
+      "name": "People's Republic of China",
+      "type": "Place",
+      "stories": 7
+    },
+    {
+      "id": 2303,
+      "name": "Madison Cawthorn",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2312,
+      "name": "Patrick Colbeck",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2298,
+      "name": "Garrett Soldano",
+      "type": "Person",
+      "stories": 18
+    },
+    {
+      "id": 1645,
+      "name": "Mike Brown",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2748,
+      "name": "Lansing",
+      "type": "Place",
+      "stories": 27
+    },
+    {
+      "id": 2945,
+      "name": "United States of America",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 146,
+      "name": "Democratic Party",
+      "type": "Organization",
+      "stories": 25
+    },
+    {
+      "id": 2006,
+      "name": "Joe Kent",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 89,
+      "name": "CBS News",
+      "type": "Organization",
+      "stories": 8
+    },
+    {
+      "id": 890,
+      "name": "Chuck Yob",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1901,
+      "name": "Peter Meijer",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1844,
+      "name": "James Craig",
+      "type": "Person",
+      "stories": 53
+    },
+    {
+      "id": 3064,
+      "name": "Farmington Hills",
+      "type": "Place",
+      "stories": 7
+    },
+    {
+      "id": 1374,
+      "name": "Mike J. Dunleavy",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2791,
+      "name": "Michigan",
+      "type": "Place",
+      "stories": 78
+    },
+    {
+      "id": 1089,
+      "name": "Ron Kind",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1583,
+      "name": "Rick Snyder",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1609,
+      "name": "Kevin McCarthy",
+      "type": "Person",
+      "stories": 8
     }
   ],
   "media": [

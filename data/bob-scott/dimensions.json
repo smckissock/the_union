@@ -4,146 +4,38 @@
   "featuredStoryId": 899,
   "terms": [
     {
-      "id": 308,
-      "name": "Michigan Republican Party",
-      "type": "Organization",
-      "stories": 14
+      "id": 3095,
+      "name": "Ralph Rebandt",
+      "type": "Person",
+      "stories": 3
     },
     {
       "id": 428,
       "name": "Republican Party",
       "type": "Organization",
-      "stories": 21
+      "stories": 24
     },
     {
-      "id": 651,
-      "name": "Perry Johnson",
+      "id": 3088,
+      "name": "Bob Scott",
       "type": "Person",
-      "stories": 9
+      "stories": 4
     },
     {
       "id": 773,
       "name": "Gretchen Whitmer",
       "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 890,
-      "name": "Chuck Yob",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1147,
-      "name": "Donald Trump",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 1199,
-      "name": "Ty Detmer",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1235,
-      "name": "Lana Theis",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1536,
-      "name": "Meshawn Maddock",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1583,
-      "name": "Rick Snyder",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 1682,
-      "name": "Ryan Kelley",
-      "type": "Person",
-      "stories": 4
-    },
-    {
-      "id": 1844,
-      "name": "James Craig",
-      "type": "Person",
-      "stories": 9
-    },
-    {
-      "id": 1901,
-      "name": "Peter Meijer",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 1978,
-      "name": "Duncan L. Hunter",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2002,
-      "name": "Tudor Dixon",
-      "type": "Person",
-      "stories": 3
-    },
-    {
-      "id": 2030,
-      "name": "Vladimir Putin",
-      "type": "Person",
-      "stories": 7
+      "stories": 16
     },
     {
       "id": 2081,
       "name": "Matthew DePerno",
       "type": "Person",
-      "stories": 7
+      "stories": 8
     },
     {
-      "id": 2087,
-      "name": "Joe Biden",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 2206,
-      "name": "John Engler",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2298,
-      "name": "Garrett Soldano",
-      "type": "Person",
-      "stories": 9
-    },
-    {
-      "id": 2312,
-      "name": "Patrick Colbeck",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 3075,
-      "name": "Kevin Rinke",
-      "type": "Person",
-      "stories": 3
-    },
-    {
-      "id": 3087,
-      "name": "John Gibbs",
-      "type": "Person",
-      "stories": 1
-    },
-    {
-      "id": 3088,
-      "name": "Bob Scott",
+      "id": 1682,
+      "name": "Ryan Kelley",
       "type": "Person",
       "stories": 4
     },
@@ -154,10 +46,52 @@
       "stories": 2
     },
     {
-      "id": 3095,
-      "name": "Ralph Rebandt",
+      "id": 2678,
+      "name": "Grand Rapids",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2761,
+      "name": "Livingston County",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2842,
+      "name": "Oakland County",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 651,
+      "name": "Perry Johnson",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 2645,
+      "name": "Detroit",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 2002,
+      "name": "Tudor Dixon",
       "type": "Person",
       "stories": 3
+    },
+    {
+      "id": 3087,
+      "name": "John Gibbs",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1235,
+      "name": "Lana Theis",
+      "type": "Person",
+      "stories": 8
     },
     {
       "id": 3099,
@@ -166,52 +100,118 @@
       "stories": 3
     },
     {
-      "id": 2645,
-      "name": "Detroit",
-      "type": "Place",
-      "stories": 14
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 16
     },
     {
-      "id": 2678,
-      "name": "Grand Rapids",
-      "type": "Place",
-      "stories": 7
+      "id": 2206,
+      "name": "John Engler",
+      "type": "Person",
+      "stories": 8
     },
     {
-      "id": 2737,
-      "name": "Kent County",
-      "type": "Place",
-      "stories": 7
+      "id": 1978,
+      "name": "Duncan L. Hunter",
+      "type": "Person",
+      "stories": 8
     },
     {
-      "id": 2748,
-      "name": "Lansing",
-      "type": "Place",
-      "stories": 14
+      "id": 3075,
+      "name": "Kevin Rinke",
+      "type": "Person",
+      "stories": 3
     },
     {
-      "id": 2761,
-      "name": "Livingston County",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2791,
-      "name": "Michigan",
-      "type": "Place",
-      "stories": 28
-    },
-    {
-      "id": 2842,
-      "name": "Oakland County",
-      "type": "Place",
-      "stories": 7
+      "id": 308,
+      "name": "Michigan Republican Party",
+      "type": "Organization",
+      "stories": 16
     },
     {
       "id": 2958,
       "name": "Washington Township",
       "type": "Place",
-      "stories": 7
+      "stories": 8
+    },
+    {
+      "id": 1199,
+      "name": "Ty Detmer",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1536,
+      "name": "Meshawn Maddock",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 16
+    },
+    {
+      "id": 2030,
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2737,
+      "name": "Kent County",
+      "type": "Place",
+      "stories": 8
+    },
+    {
+      "id": 2312,
+      "name": "Patrick Colbeck",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 2298,
+      "name": "Garrett Soldano",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 2748,
+      "name": "Lansing",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 890,
+      "name": "Chuck Yob",
+      "type": "Person",
+      "stories": 8
+    },
+    {
+      "id": 1901,
+      "name": "Peter Meijer",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1844,
+      "name": "James Craig",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 2791,
+      "name": "Michigan",
+      "type": "Place",
+      "stories": 32
+    },
+    {
+      "id": 1583,
+      "name": "Rick Snyder",
+      "type": "Person",
+      "stories": 8
     }
   ],
   "media": [
