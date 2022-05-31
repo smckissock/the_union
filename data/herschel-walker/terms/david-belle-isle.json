@@ -2,17 +2,19 @@
   {
     "id": 8047,
     "mediaId": 1576,
-    "date": "3/11/2022 12:00:00 AM",
+    "date": "d2022-03-11T00:00",
     "sentence": "Republicans: Gary Black, Josh Clark, Kelvin King, Jonathan Jon McColumn, Latham Saddler, <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
-    "title": "Candidates confirmed for 2022 election in Georgia as qualifying ends"
+    "title": "Candidates confirmed for 2022 election in Georgia as qualifying ends",
+    "sentiment": "0.0"
   },
   {
     "id": 7436,
     "mediaId": 441,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T11:00",
     "sentence": "Former University of Georgia football legend <span class='selected-term'>Herschel Walker</span>, 60, is backed by Trump and is running far ahead of any other GOP primary contender despite participating in no debates and avoiding the news media.",
     "author": "Margaret Newkirk",
-    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries"
+    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries",
+    "sentiment": "0.769"
   }
 ]

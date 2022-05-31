@@ -2,89 +2,127 @@
   {
     "id": 6859,
     "mediaId": 129,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "Recent polling shows State Senator <span class='selected-term'>Doug Mastriano</span>, a retired Army colonel with a Ph.D. in history, leading the rest of the Republican candidates.",
     "author": "",
-    "title": "The Most Pivotal Elections in 2022 Are Not the Ones You Think"
+    "title": "The Most Pivotal Elections in 2022 Are Not the Ones You Think",
+    "sentiment": "0"
   },
   {
     "id": 4458,
     "mediaId": 129,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T13:29:47",
     "sentence": "In Pennsylvania, Republican voters united behind a nominee for governor, <span class='selected-term'>Doug Mastriano</span>, who helped lead the brazen effort to overturn the states 2020 election and chartered buses to the rally before the Capitol riot, and who has since promoted a constitutionally impossible effort to decertify President Bidens victory in his state.",
     "author": "",
-    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots"
-  },
-  {
-    "id": 6538,
-    "mediaId": 195,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "In Pennsylvania, <span class='selected-term'>Doug Mastriano</span>, who backs Trump's false claims of election fraud and marched to the Capitol on Jan. 6, will be the GOP's gubernatorial candidate.",
-    "author": "Niall Stanage",
-    "title": "The Memo: Trump faces critical popularity test in Georgia"
-  },
-  {
-    "id": 6566,
-    "mediaId": 238,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "Return to menu\nTwo decades before he was the Republican nominee for Pennsylvania governor, <span class='selected-term'>Doug Mastriano</span> warned in a masters thesis that the United States was vulnerable to a left-wing Hitlerian Putsch? that would begin with the dismantling of the U.S. military and end with the destruction of the countrys democracy.",
-    "author": "Mariana Alfaro",
-    "title": "Post Politics Now Senate primary in Pa. still unresolved as other tests of Trumps influence loom"
+    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
+    "sentiment": "0"
   },
   {
     "id": 6570,
     "mediaId": 151,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T08:30",
     "sentence": "Republicans this week nominated far-right state Sen. <span class='selected-term'>Doug Mastriano</span> to be their gubernatorial nominee in Pennsylvania, where the governor appoints the secretary of state.",
     "author": "",
-    "title": "Trump's bid to control election offices hits first battleground"
+    "title": "Trump's bid to control election offices hits first battleground",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6538,
+    "mediaId": 195,
+    "date": "d2022-05-20T10:00",
+    "sentence": "In Pennsylvania, <span class='selected-term'>Doug Mastriano</span>, who backs Trump's false claims of election fraud and marched to the Capitol on Jan. 6, will be the GOP's gubernatorial candidate.",
+    "author": "Niall Stanage",
+    "title": "The Memo: Trump faces critical popularity test in Georgia",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6566,
+    "mediaId": 238,
+    "date": "d2022-05-20T11:22",
+    "sentence": "Return to menu\nTwo decades before he was the Republican nominee for Pennsylvania governor, <span class='selected-term'>Doug Mastriano</span> warned in a masters thesis that the United States was vulnerable to a left-wing Hitlerian Putsch? that would begin with the dismantling of the U.S. military and end with the destruction of the countrys democracy.",
+    "author": "Mariana Alfaro",
+    "title": "Post Politics Now Senate primary in Pa. still unresolved as other tests of Trumps influence loom",
+    "sentiment": "0.0"
   },
   {
     "id": 7288,
     "mediaId": 136,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T13:35",
     "sentence": "The races are being closely watched to see if more far-right candidates across the country can follow in the footsteps of <span class='selected-term'>Doug Mastriano</span>, who won Pennsylvania's Republican primary race for governor last week by running a campaign focused on pushing Trump's election falsehoods.",
     "author": "Daniel Bush",
-    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents"
+    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents",
+    "sentiment": "0.0"
   },
   {
     "id": 7326,
     "mediaId": 1546,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T17:21",
     "sentence": "Last week, Trump-endorsed <span class='selected-term'>Doug Mastriano</span>, who supports Trump's claims of election fraud, won the Pennsylvania gubernatorial nomination.",
     "author": "Ken Bredemeier",
-    "title": "Trump's Election Fraud Claims Face a Test in Georgia"
-  },
-  {
-    "id": 7349,
-    "mediaId": 32,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Others, such as Pennsylvania's Republican gubernatorial nominee <span class='selected-term'>Doug Mastriano</span>, received Trump's endorsement right before the election, once they had already emerged as frontrunners.",
-    "author": "Kevin Breuninger",
-    "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch"
+    "title": "Trump's Election Fraud Claims Face a Test in Georgia",
+    "sentiment": "0.0"
   },
   {
     "id": 7350,
     "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T08:59:18",
     "sentence": "",
     "author": "",
-    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond"
+    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7349,
+    "mediaId": 32,
+    "date": "d2022-05-24T13:54:55",
+    "sentence": "Others, such as Pennsylvania's Republican gubernatorial nominee <span class='selected-term'>Doug Mastriano</span>, received Trump's endorsement right before the election, once they had already emerged as frontrunners.",
+    "author": "Kevin Breuninger",
+    "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch",
+    "sentiment": "0.0"
   },
   {
     "id": 7345,
     "mediaId": 1576,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "Trump has scored some primary victories with election deniers  most significantly last week in Pennsylvania, when Republican voters there chose his preferred gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, who said he wouldn't have certified Biden's 2020 win of the state.",
     "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win"
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.0"
   },
   {
     "id": 8357,
     "mediaId": 129,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T09:15:29",
     "sentence": "In Pennsylvania, the Republican nominee for governor, <span class='selected-term'>Doug Mastriano</span>, was deeply involved in Mr. Trump's plot to overturn the state's 2020 results, while the two leading Senate candidates, Dr. Mehmet Oz and David McCormick, have equivocated about whether Mr. Biden was fairly elected.",
     "author": "",
-    "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia"
+    "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8468,
+    "mediaId": 151,
+    "date": "d2022-05-26T18:05",
+    "sentence": "Some Republican candidates are true believers, like Pennsylvania gubernatorial nominee <span class='selected-term'>Doug Mastriano</span> and the out-of-nowhere serious contender for the Senate nomination in Pennsylvania, Kathy Barnette, both of whom were outside the U.S. Capitol on Jan. 6.",
+    "author": "",
+    "title": "Why Trump's Fantasies Couldn't Doom Kemp and Raffensperger",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8426,
+    "mediaId": 881,
+    "date": "d2022-05-27T08:22",
+    "sentence": "And Pennsylvania Republicans just nominated state Sen. <span class='selected-term'>Doug Mastriano</span>, a Christian nationalist who attended the Jan. 6 riot, for governor.",
+    "author": "Todd Zwillich",
+    "title": "Trump's Candidates Took a Beating in GeorgiaBut Don't Get Too Excited",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8498,
+    "mediaId": 129,
+    "date": "d2022-05-28T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "The Good News in Georgia Thats Bad News for Trump",
+    "sentiment": "0"
   }
 ]

@@ -2,25 +2,28 @@
   {
     "id": 6095,
     "mediaId": 157,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "",
     "author": "Matthew Chapman",
-    "title": "JD Vance suggests Biden is deliberately letting fentanyl into America to kill rural Trump supporters"
+    "title": "JD Vance suggests Biden is deliberately letting fentanyl into America to kill rural Trump supporters",
+    "sentiment": "0"
   },
   {
     "id": 5665,
     "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T15:24",
     "sentence": "",
     "author": "Jason Lemon",
-    "title": "Trump Pennsylvania Rally for Dr. Oz the Latest Battle in GOP Civil War"
+    "title": "Trump Pennsylvania Rally for Dr. Oz the Latest Battle in GOP Civil War",
+    "sentiment": "0"
   },
   {
     "id": 5632,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T14:46",
     "sentence": "",
     "author": "Jason Lemon",
-    "title": "Trump Defied by Rally-Goers Booing, Turning Backs on Mehmet Oz"
+    "title": "Trump Defied by Rally-Goers Booing, Turning Backs on Mehmet Oz",
+    "sentiment": "0.666"
   }
 ]

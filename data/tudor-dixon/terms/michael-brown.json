@@ -2,41 +2,46 @@
   {
     "id": 3293,
     "mediaId": 261,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T20:36",
     "sentence": "But that means <span class='selected-term'>Tudor Dixon</span>, Michael Brown, Donna Brandenburg, Ralph Rebandt and Michael Markey won't be onstage with their competitors.",
     "author": "Dave Boucher",
-    "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac"
+    "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
+    "sentiment": "0.0"
   },
   {
     "id": 3454,
     "mediaId": 261,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T23:30",
     "sentence": "That means that barring some change, Norton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, Michigan State Police Capt.",
     "author": "Paul Egan",
-    "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements"
+    "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
+    "sentiment": "0.0"
   },
   {
     "id": 7301,
     "mediaId": 98,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:03",
     "sentence": "Another GOP candidate, <span class='selected-term'>Tudor Dixon</span>, had also contested Craig's voter signatures as fake.",
     "author": "DAVID EGGERT",
-    "title": "Primary problem: Michigan GOP governor candidates short signatures"
-  },
-  {
-    "id": 7300,
-    "mediaId": 261,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "The reports also say that Oakland County businessman and \"quality guru\" Perry Johnson did not file enough valid signatures, but they clear Norton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, whose petitions were also the subject of a complaint.",
-    "author": "Paul Egan",
-    "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot"
+    "title": "Primary problem: Michigan GOP governor candidates short signatures",
+    "sentiment": "0.0"
   },
   {
     "id": 7473,
     "mediaId": 157,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "Craigs signatures had been challenged by Democrats and a superPAC supporting right-wing media personality <span class='selected-term'>Tudor Dixon</span>.",
     "author": "",
-    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race"
+    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7300,
+    "mediaId": 261,
+    "date": "d2022-05-24T02:09",
+    "sentence": "The reports also say that Oakland County businessman and \"quality guru\" Perry Johnson did not file enough valid signatures, but they clear Norton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, whose petitions were also the subject of a complaint.",
+    "author": "Paul Egan",
+    "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
+    "sentiment": "-0.882"
   }
 ]

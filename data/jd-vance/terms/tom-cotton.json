@@ -2,41 +2,46 @@
   {
     "id": 6440,
     "mediaId": 238,
-    "date": "4/8/2022 12:00:00 AM",
+    "date": "d2022-04-08T12:00",
     "sentence": "",
     "author": "",
-    "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits..."
-  },
-  {
-    "id": 6101,
-    "mediaId": 237,
-    "date": "4/28/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Larry Hogan to throw down 2024 marker with Reagan library speech"
+    "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits...",
+    "sentiment": "0"
   },
   {
     "id": 6107,
     "mediaId": 120,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T09:15",
     "sentence": "",
     "author": "Hayes Brown",
-    "title": "If Biden has a student loan forgiveness plan, now is the time announce it"
+    "title": "If Biden has a student loan forgiveness plan, now is the time announce it",
+    "sentiment": "0"
+  },
+  {
+    "id": 6101,
+    "mediaId": 237,
+    "date": "d2022-04-28T16:06",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
+    "sentiment": "0"
   },
   {
     "id": 5870,
     "mediaId": 19,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Breitbart News",
-    "title": "Breitbart News Daily Podcast Ep. 128: Vance Wins in OH, Biden Gets Ghoulish on Abortion, Guest: Sen. Tom Cotton on SCOTUS, Ministry of Truth, Our Open Border"
+    "title": "Breitbart News Daily Podcast Ep. 128: Vance Wins in OH, Biden Gets Ghoulish on Abortion, Guest: Sen. Tom Cotton on SCOTUS, Ministry of Truth, Our Open Border",
+    "sentiment": "0"
   },
   {
     "id": 5534,
     "mediaId": 19,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Exclusive  Katie Britt: Congress Should Finish Building the Wall Before Sending Ukraine $40 Billion"
+    "title": "Exclusive  Katie Britt: Congress Should Finish Building the Wall Before Sending Ukraine $40 Billion",
+    "sentiment": "0"
   }
 ]

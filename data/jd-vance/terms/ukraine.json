@@ -2,361 +2,415 @@
   {
     "id": 7018,
     "mediaId": 124,
-    "date": "2/16/2022 12:00:00 AM",
+    "date": "d2022-02-16T14:00",
     "sentence": "",
     "author": "",
-    "title": "In Ukraine, Biden faces a crisis with little political benefit back home"
+    "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
+    "sentiment": "0"
   },
   {
     "id": 6452,
     "mediaId": 238,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T15:31",
     "sentence": "",
     "author": "",
-    "title": "Opinion: As vile as it gets: J.D. Vance goes full great replacement theory"
+    "title": "Opinion: As vile as it gets: J.D. Vance goes full great replacement theory",
+    "sentiment": "0"
   },
   {
     "id": 6438,
     "mediaId": 43,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "",
     "author": "",
-    "title": "In a World This Mercilessly Stupid, How Could Sarah Palin NOT Come Back?"
-  },
-  {
-    "id": 6432,
-    "mediaId": 195,
-    "date": "4/10/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Democrats seek to win over Ukrainian Americans by portraying GOP as soft on Russia"
+    "title": "In a World This Mercilessly Stupid, How Could Sarah Palin NOT Come Back?",
+    "sentiment": "0"
   },
   {
     "id": 6433,
     "mediaId": 43,
-    "date": "4/10/2022 12:00:00 AM",
+    "date": "d2022-04-10T00:00",
     "sentence": "",
     "author": "",
-    "title": "Ukraine, The Common Good and Truer Notions of Freedom and Liberty"
+    "title": "Ukraine, The Common Good and Truer Notions of Freedom and Liberty",
+    "sentiment": "0"
+  },
+  {
+    "id": 6432,
+    "mediaId": 195,
+    "date": "d2022-04-10T12:00",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Democrats seek to win over Ukrainian Americans by portraying GOP as soft on Russia",
+    "sentiment": "-0.313"
   },
   {
     "id": 6413,
     "mediaId": 424,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T10:01",
     "sentence": "",
     "author": "John Nichols",
-    "title": "What J.D. Vance Doesnt Know About France"
+    "title": "What J.D. Vance Doesnt Know About France",
+    "sentiment": "0"
   },
   {
     "id": 6380,
     "mediaId": 409,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T17:47",
     "sentence": "",
     "author": "Caroline Downey",
-    "title": "Trump Endorses J. D. Vance in Ohio Senate Race"
-  },
-  {
-    "id": 6344,
-    "mediaId": 136,
-    "date": "4/16/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jason Lemon",
-    "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces"
-  },
-  {
-    "id": 6348,
-    "mediaId": 323,
-    "date": "4/16/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Joshua Jamerson",
-    "title": "GOP Sparring Over U.S. Role in Ukraine War Colors Ohio Senate Race"
+    "title": "Trump Endorses J. D. Vance in Ohio Senate Race",
+    "sentiment": "0.804"
   },
   {
     "id": 6354,
     "mediaId": 209,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 16, 2022"
+    "title": "10 things you need to know today: April 16, 2022",
+    "sentiment": "-0.571"
+  },
+  {
+    "id": 6348,
+    "mediaId": 323,
+    "date": "d2022-04-16T14:14",
+    "sentence": "",
+    "author": "Joshua Jamerson",
+    "title": "GOP Sparring Over U.S. Role in Ukraine War Colors Ohio Senate Race",
+    "sentiment": "0"
+  },
+  {
+    "id": 6344,
+    "mediaId": 136,
+    "date": "d2022-04-16T17:34",
+    "sentence": "",
+    "author": "Jason Lemon",
+    "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces",
+    "sentiment": "-0.744"
   },
   {
     "id": 6334,
     "mediaId": 409,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T19:47",
     "sentence": "",
     "author": "Jay Nordlinger",
-    "title": "Thank You for Not Killing Us"
-  },
-  {
-    "id": 6303,
-    "mediaId": 18,
-    "date": "4/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jeff Robbins",
-    "title": "Robbins: Here and abroad, democracy hanging in the balance"
-  },
-  {
-    "id": 6310,
-    "mediaId": 238,
-    "date": "4/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Ukraine is taking up less and less of the campaign conversation"
+    "title": "Thank You for Not Killing Us",
+    "sentiment": "0"
   },
   {
     "id": 6327,
     "mediaId": 157,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T00:00",
     "sentence": "",
     "author": "Alex Henderson",
-    "title": "Ukraines nightmare asserts itself in Ohios bitter US Senate race"
+    "title": "Ukraines nightmare asserts itself in Ohios bitter US Senate race",
+    "sentiment": "0"
   },
   {
     "id": 6332,
     "mediaId": 129,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T00:00",
     "sentence": "",
     "author": "",
-    "title": "Republicans Say, Let Them Eat Hate"
+    "title": "Republicans Say, Let Them Eat Hate",
+    "sentiment": "-0.369"
+  },
+  {
+    "id": 6310,
+    "mediaId": 238,
+    "date": "d2022-04-18T15:46",
+    "sentence": "",
+    "author": "",
+    "title": "Ukraine is taking up less and less of the campaign conversation",
+    "sentiment": "0"
+  },
+  {
+    "id": 6303,
+    "mediaId": 18,
+    "date": "d2022-04-18T23:29:48",
+    "sentence": "",
+    "author": "Jeff Robbins",
+    "title": "Robbins: Here and abroad, democracy hanging in the balance",
+    "sentiment": "0"
   },
   {
     "id": 6300,
     "mediaId": 43,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T00:00",
     "sentence": "",
     "author": "",
-    "title": "for Bluesday, April 19th"
-  },
-  {
-    "id": 6225,
-    "mediaId": 195,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Will Marshall",
-    "title": "Trump party blames America first"
+    "title": "for Bluesday, April 19th",
+    "sentiment": "0"
   },
   {
     "id": 6245,
     "mediaId": 43,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t"
+    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
+    "sentiment": "0"
   },
   {
-    "id": 6173,
-    "mediaId": 151,
-    "date": "4/24/2022 12:00:00 AM",
+    "id": 6225,
+    "mediaId": 195,
+    "date": "d2022-04-22T16:00",
     "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Remembering Orrin Hatch"
+    "author": "Will Marshall",
+    "title": "Trump party blames America first",
+    "sentiment": "0"
   },
   {
     "id": 6185,
     "mediaId": 209,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T00:00",
     "sentence": "",
     "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 24, 2022"
+    "title": "10 things you need to know today: April 24, 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 6173,
+    "mediaId": 151,
+    "date": "d2022-04-24T15:24",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Remembering Orrin Hatch",
+    "sentiment": "0"
   },
   {
     "id": 6149,
     "mediaId": 129,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T00:00",
     "sentence": "",
     "author": "",
-    "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group"
+    "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
+    "sentiment": "0"
   },
   {
     "id": 6094,
     "mediaId": 43,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "",
     "author": "",
-    "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness"
+    "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
+    "sentiment": "0"
   },
   {
     "id": 6015,
     "mediaId": 195,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T10:26",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?"
-  },
-  {
-    "id": 5938,
-    "mediaId": 233,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Editors",
-    "title": "Leaked abortion draft opinion, Russia's next moves, Midwest primaries: 5 things to know Tuesday"
+    "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?",
+    "sentiment": "0"
   },
   {
     "id": 5983,
     "mediaId": 43,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "I Got Your Democratic Messaging Right Here"
+    "title": "I Got Your Democratic Messaging Right Here",
+    "sentiment": "0"
+  },
+  {
+    "id": 5938,
+    "mediaId": 233,
+    "date": "d2022-05-03T08:38",
+    "sentence": "",
+    "author": "Editors",
+    "title": "Leaked abortion draft opinion, Russia's next moves, Midwest primaries: 5 things to know Tuesday",
+    "sentiment": "0.559"
   },
   {
     "id": 5859,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Parts of Lviv Without Power or Water After Russian Missile Strikes"
+    "title": "Parts of Lviv Without Power or Water After Russian Missile Strikes",
+    "sentiment": "0"
   },
   {
     "id": 5874,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "NATOs Barking at Russias Gate: Pope Francis Partially Blames West for War in Ukraine"
+    "title": "NATOs Barking at Russias Gate: Pope Francis Partially Blames West for War in Ukraine",
+    "sentiment": "0"
   },
   {
     "id": 5876,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "U.N.: 4.5 Tons of Grain Stuck in Ukraine Due to Russian Blockade"
+    "title": "U.N.: 4.5 Tons of Grain Stuck in Ukraine Due to Russian Blockade",
+    "sentiment": "0"
   },
   {
     "id": 5880,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "PayPal Freezes Funds for Consortium News, An Outlet Critical of U.S. Policy on Ukraine"
+    "title": "PayPal Freezes Funds for Consortium News, An Outlet Critical of U.S. Policy on Ukraine",
+    "sentiment": "0"
   },
   {
     "id": 5883,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Biden Visits Lockheed Martin Plant to Push for Passage of $33B for Ukraine"
+    "title": "Biden Visits Lockheed Martin Plant to Push for Passage of $33B for Ukraine",
+    "sentiment": "0"
   },
   {
     "id": 5892,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Military in Belarus Begins Large-Scale Military Drills to Test Combat Readiness"
-  },
-  {
-    "id": 1730,
-    "mediaId": 238,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion Why J.D. Vance's crude nationalism still might not be the GOP's future"
+    "title": "Military in Belarus Begins Large-Scale Military Drills to Test Combat Readiness",
+    "sentiment": "0"
   },
   {
     "id": 5709,
     "mediaId": 65,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T17:14",
     "sentence": "",
     "author": "Brooke Singman",
-    "title": "Trump reacts to Biden's MAGA criticism, says movement 'saving America'"
+    "title": "Trump reacts to Biden's MAGA criticism, says movement 'saving America'",
+    "sentiment": "0.445"
+  },
+  {
+    "id": 1730,
+    "mediaId": 238,
+    "date": "d2022-05-05T18:13",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion Why J.D. Vance's crude nationalism still might not be the GOP's future",
+    "sentiment": "-0.82"
   },
   {
     "id": 5616,
     "mediaId": 129,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T00:00",
     "sentence": "",
     "author": "",
-    "title": "Appease or Confront"
+    "title": "Appease or Confront",
+    "sentiment": "0"
   },
   {
     "id": 5621,
     "mediaId": 43,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T00:00",
     "sentence": "",
     "author": "",
-    "title": "Abbreviated Pundit Roundup: On Roe, Ukraine and politics"
+    "title": "Abbreviated Pundit Roundup: On Roe, Ukraine and politics",
+    "sentiment": "0"
   },
   {
     "id": 5595,
     "mediaId": 195,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T10:27",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  US expedites Ukraine assistance push"
-  },
-  {
-    "id": 5527,
-    "mediaId": 136,
-    "date": "5/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill"
-  },
-  {
-    "id": 5530,
-    "mediaId": 151,
-    "date": "5/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "McConnell takes on MAGA with Ukraine visit"
+    "title": "The Hills Morning Report  US expedites Ukraine assistance push",
+    "sentiment": "0"
   },
   {
     "id": 5534,
     "mediaId": 19,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Exclusive  Katie Britt: Congress Should Finish Building the Wall Before Sending Ukraine $40 Billion"
+    "title": "Exclusive  Katie Britt: Congress Should Finish Building the Wall Before Sending Ukraine $40 Billion",
+    "sentiment": "0"
   },
   {
-    "id": 5493,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "id": 5530,
+    "mediaId": 151,
+    "date": "d2022-05-15T16:15",
     "sentence": "",
     "author": "",
-    "title": "Live Updates: Ukraine Gives Up Fighting at Mariupol Steel Plant"
+    "title": "McConnell takes on MAGA with Ukraine visit",
+    "sentiment": "0"
   },
   {
-    "id": 5497,
-    "mediaId": 98,
-    "date": "5/17/2022 12:00:00 AM",
+    "id": 5527,
+    "mediaId": 136,
+    "date": "d2022-05-15T21:33",
     "sentence": "",
-    "author": "LISA MASCARO",
-    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine"
+    "author": "Andrew Stanton",
+    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill",
+    "sentiment": "0"
   },
   {
     "id": 5499,
     "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:31",
     "sentence": "",
     "author": "",
-    "title": "McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid"
+    "title": "McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid",
+    "sentiment": "0"
+  },
+  {
+    "id": 5497,
+    "mediaId": 98,
+    "date": "d2022-05-17T03:09",
+    "sentence": "",
+    "author": "LISA MASCARO",
+    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine",
+    "sentiment": "0"
+  },
+  {
+    "id": 5493,
+    "mediaId": 129,
+    "date": "d2022-05-17T05:57:03",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: Ukraine Gives Up Fighting at Mariupol Steel Plant",
+    "sentiment": "0"
   },
   {
     "id": 4461,
     "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T10:28",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Recount looms in Pennsylvania"
+    "title": "The Hills Morning Report  Recount looms in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 7156,
     "mediaId": 151,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T18:08",
     "sentence": "",
     "author": "",
-    "title": "Inside McConnell's bid to quash GOP isolationists'"
+    "title": "Inside McConnell's bid to quash GOP isolationists'",
+    "sentiment": "0"
   },
   {
     "id": 7229,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "My Lunch With President Biden"
+    "title": "My Lunch With President Biden",
+    "sentiment": "0"
+  },
+  {
+    "id": 8563,
+    "mediaId": 136,
+    "date": "d2022-05-29T10:00",
+    "sentence": "",
+    "author": "Jonathan Tobin",
+    "title": "McConnell's Win on Ukraine Aid Isn't the End of GOP Foreign Policy Debate | Opinion",
+    "sentiment": "0"
   }
 ]

@@ -1,58 +1,101 @@
 [
   {
-    "id": 4329,
-    "mediaId": 223,
-    "date": "4/30/2022 12:00:00 AM",
+    "id": 4351,
+    "mediaId": 19,
+    "date": "d2022-04-30T00:00",
     "sentence": "",
-    "author": "Rebecca Downs",
-    "title": "Buried in POLITICO Report is Mention of How Biography on Jill Biden Fared, and the Numbers Are Catastrophic"
+    "author": "James P. Pinkerton",
+    "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk",
+    "sentiment": "0"
   },
   {
     "id": 4351,
     "mediaId": 19,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T00:00",
     "sentence": "",
     "author": "James P. Pinkerton",
-    "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk"
+    "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4329,
+    "mediaId": 223,
+    "date": "d2022-04-30T17:50",
+    "sentence": "",
+    "author": "Rebecca Downs",
+    "title": "Buried in POLITICO Report is Mention of How Biography on Jill Biden Fared, and the Numbers Are Catastrophic",
+    "sentiment": "0.0"
   },
   {
     "id": 4212,
     "mediaId": 675,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T15:48",
     "sentence": "Florida Enacts Protections for Unborn Babies at 15 Weeks https://t.co/IeOANY8LxM\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 14, 2022\nThe move comes as GOP-led states are implementing abortion limits ranging from conception to 15 weeks.",
     "author": "WND News Services",
-    "title": "Amazon to foot the bill for employees' abortion tourism"
+    "title": "Amazon to foot the bill for employees' abortion tourism",
+    "sentiment": "0"
+  },
+  {
+    "id": 4212,
+    "mediaId": 675,
+    "date": "d2022-05-02T15:48",
+    "sentence": "Florida Enacts Protections for Unborn Babies at 15 Weeks https://t.co/IeOANY8LxM\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 14, 2022\nThe move comes as GOP-led states are implementing abortion limits ranging from conception to 15 weeks.",
+    "author": "WND News Services",
+    "title": "Amazon to foot the bill for employees' abortion tourism",
+    "sentiment": "0.0"
   },
   {
     "id": 4130,
     "mediaId": 558,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T12:32",
     "sentence": "And if there's been a fire drill the last couple of weeks, Neeru, it's, of course, been Disney versus <span class='selected-term'>Ron DeSantis</span> in Florida.",
     "author": "",
-    "title": "Roe v. Wade decision: Companies are really going to be forced to take a side, expert explains"
+    "title": "Roe v. Wade decision: Companies are really going to be forced to take a side, expert explains",
+    "sentiment": "0"
+  },
+  {
+    "id": 4130,
+    "mediaId": 558,
+    "date": "d2022-05-03T12:32",
+    "sentence": "And if there's been a fire drill the last couple of weeks, Neeru, it's, of course, been Disney versus <span class='selected-term'>Ron DeSantis</span> in Florida.",
+    "author": "",
+    "title": "Roe v. Wade decision: Companies are really going to be forced to take a side, expert explains",
+    "sentiment": "0.0"
   },
   {
     "id": 4094,
     "mediaId": 43,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "Amazon and other companies have been eager to distance themselves from the end of Roe, since they haven't forked over cash to make <span class='selected-term'>Ron DeSantis</span> president yet and so Ron hasn't been able to pass new nationwide laws punishing them for doing so.",
     "author": "Hunter\nDaily Kos Staff",
-    "title": "These are some of the companies that funded the end of Roe v. Wade"
+    "title": "These are some of the companies that funded the end of Roe v. Wade",
+    "sentiment": "-0.648"
+  },
+  {
+    "id": 4094,
+    "mediaId": 43,
+    "date": "d2022-05-04T00:00",
+    "sentence": "Amazon and other companies have been eager to distance themselves from the end of Roe, since they haven't forked over cash to make <span class='selected-term'>Ron DeSantis</span> president yet and so Ron hasn't been able to pass new nationwide laws punishing them for doing so.",
+    "author": "Hunter\nDaily Kos Staff",
+    "title": "These are some of the companies that funded the end of Roe v. Wade",
+    "sentiment": "0.0"
   },
   {
     "id": 3916,
     "mediaId": 558,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T15:55",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> signed a bill in April stripping Disney of self-governing authority at its Orlando-area parks in retaliation for its opposition to a new state law that limits the teaching of LGBTQ issues in schools.",
     "author": "",
-    "title": "Yelp and others offer travel benefit for abortions"
+    "title": "Yelp and others offer travel benefit for abortions",
+    "sentiment": "0.0"
   },
   {
     "id": 3889,
     "mediaId": 209,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T00:00",
     "sentence": "",
     "author": "Brigid Kennedy",
-    "title": "Where major companies stand on reproductive health care policies"
+    "title": "Where major companies stand on reproductive health care policies",
+    "sentiment": "0.0"
   }
 ]

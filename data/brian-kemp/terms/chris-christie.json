@@ -2,49 +2,109 @@
   {
     "id": 5282,
     "mediaId": 65,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T15:08",
     "sentence": "",
     "author": "Fox News Staff",
-    "title": "Chris Christie sends message to Dems: Follow Obama's advice, tell this story to voters"
+    "title": "Chris Christie sends message to Dems: Follow Obama's advice, tell this story to voters",
+    "sentiment": "0.0"
   },
   {
     "id": 4984,
     "mediaId": 136,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T19:15",
     "sentence": "The former president has officially endorsed former Senator David Perdue over Governor <span class='selected-term'>Brian Kemp</span> in Georgia and Lieutenant Governor Janice McGeachin over Governor Brad Little in Idaho.",
     "author": "Andrew Stanton",
-    "title": "Donald Trump's 'Emotional' Endorsements Will 'Backfire': Chris Christie"
+    "title": "Donald Trump's 'Emotional' Endorsements Will 'Backfire': Chris Christie",
+    "sentiment": "0"
   },
   {
     "id": 3157,
     "mediaId": 136,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T22:52",
     "sentence": "Former President Donald Trump has blasted Republican Georgia Governor <span class='selected-term'>Brian Kemp</span> as a \"real RINO\" as Kemp's campaign continues against Trump-backed GOP primary challenger David Perdue.",
     "author": "Aila Slisco",
-    "title": "Donald Trump Launches Fresh Attack on 'Real RINO' Georgia Gov Brian Kemp"
-  },
-  {
-    "id": 3307,
-    "mediaId": 233,
-    "date": "5/13/2022 12:00:00 AM",
-    "sentence": "In a statement announcing the May 23 rally, Pence called Kemp one of the most successful conservative governors in America.?\n\"<span class='selected-term'>Brian Kemp</span> is my friend, a man dedicated to faith, family and the people of Georgia,? Pence said.",
-    "author": "Ella Lee",
-    "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp"
+    "title": "Donald Trump Launches Fresh Attack on 'Real RINO' Georgia Gov Brian Kemp",
+    "sentiment": "0"
   },
   {
     "id": 3316,
     "mediaId": 1576,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "I am proud to offer my full support for four more years of <span class='selected-term'>Brian Kemp</span> as governor of the great state of Georgia!?\nThe news comes as Pence has taken steps to distance himself from Trump as the former congressman and Indiana governor considers a 2024 presidential run that could put him into direct competition with his former boss.",
     "author": "",
-    "title": "Pence to rally with Kemp in Georgia in break with Trump"
+    "title": "Pence to rally with Kemp in Georgia in break with Trump",
+    "sentiment": "0.806"
+  },
+  {
+    "id": 3307,
+    "mediaId": 233,
+    "date": "d2022-05-13T13:16",
+    "sentence": "In a statement announcing the May 23 rally, Pence called Kemp one of the most successful conservative governors in America.?\n\"<span class='selected-term'>Brian Kemp</span> is my friend, a man dedicated to faith, family and the people of Georgia,? Pence said.",
+    "author": "Ella Lee",
+    "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp",
+    "sentiment": "0.238"
   },
   {
     "id": 7251,
     "mediaId": 238,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T10:00",
     "sentence": "If <span class='selected-term'>Brian Kemp</span> gets over the finish line in the fashion that I believe is possible,? he said, It speaks volumes to the good people of Georgia.?",
     "author": "Matthew Brown",
-    "title": "Inside the Republican push to stop Trumps vendetta tour in Georgia"
+    "title": "Inside the Republican push to stop Trumps vendetta tour in Georgia",
+    "sentiment": "0"
+  },
+  {
+    "id": 8473,
+    "mediaId": 157,
+    "date": "d2022-05-26T00:00",
+    "sentence": "",
+    "author": "Travis Gettys",
+    "title": "Republicans talk trash about Trump as endorsements flop",
+    "sentiment": "0"
+  },
+  {
+    "id": 8571,
+    "mediaId": 151,
+    "date": "d2022-05-26T08:30",
+    "sentence": "",
+    "author": "",
+    "title": "'Trump picked this fight': Why heavyweight Republicans no longer fear Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 8441,
+    "mediaId": 129,
+    "date": "d2022-05-27T14:00:08",
+    "sentence": "Governor's Race: <span class='selected-term'>Brian Kemp</span> scored a landslide victory over David Perdue, delivering Mr. Trump his biggest setback of the 2022 primaries.",
+    "author": "",
+    "title": "Republican Governors Lose Their Dread of Trump",
+    "sentiment": "0.206"
+  },
+  {
+    "id": 8394,
+    "mediaId": 157,
+    "date": "d2022-05-28T00:00",
+    "sentence": "\\u201cYou think <span class='selected-term'>Brian Kemp</span> got 73%?",
+    "author": "Bob Brigham",
+    "title": "'Party of me': Chris Christie rips Trump's selfishness",
+    "sentiment": "-0.768"
+  },
+  {
+    "id": 8485,
+    "mediaId": 21,
+    "date": "d2022-05-28T20:04:16",
+    "sentence": "He came to Georgia to campaign for Trump foe <span class='selected-term'>Brian Kemp</span>, who easily won his GOP gubernatorial primary this week.",
+    "author": "John L. Dorman",
+    "title": "Chris Christie says Trump wants the GOP to be the 'party of me,' where 'everything has to be about him'",
+    "sentiment": "-0.722"
+  },
+  {
+    "id": 8379,
+    "mediaId": 65,
+    "date": "d2022-05-29T12:13",
+    "sentence": "",
+    "author": "Paul Steinhauser",
+    "title": "2024 Watch: Trump takes a hit after Georgia defeats, but still the 800-pound gorilla",
+    "sentiment": "-0.328"
   }
 ]

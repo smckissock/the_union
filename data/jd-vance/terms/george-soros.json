@@ -2,49 +2,55 @@
   {
     "id": 6280,
     "mediaId": 19,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Donald Trump Jr. Sings Eric Greitens Praises: They Only Go After Guys that Will Actually Pose a Threat"
-  },
-  {
-    "id": 5529,
-    "mediaId": 238,
-    "date": "5/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Max Boot",
-    "title": "Opinion The Buffalo shooters views are mainstream on the right"
-  },
-  {
-    "id": 5531,
-    "mediaId": 169,
-    "date": "5/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Amanda Marcotte",
-    "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame"
+    "title": "Donald Trump Jr. Sings Eric Greitens Praises: They Only Go After Guys that Will Actually Pose a Threat",
+    "sentiment": "0"
   },
   {
     "id": 5538,
     "mediaId": 157,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Amanda Marcotte",
-    "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame"
+    "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame",
+    "sentiment": "0"
   },
   {
-    "id": 5494,
-    "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
+    "id": 5531,
+    "mediaId": 169,
+    "date": "d2022-05-15T13:20",
     "sentence": "",
-    "author": "Ishaan Tharoor",
-    "title": "The Orbanization of America: The U.S. right walks in Hungarys path"
+    "author": "Amanda Marcotte",
+    "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame",
+    "sentiment": "0"
+  },
+  {
+    "id": 5529,
+    "mediaId": 238,
+    "date": "d2022-05-15T19:17",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion The Buffalo shooters views are mainstream on the right",
+    "sentiment": "0"
   },
   {
     "id": 5504,
     "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Slaughter in Buffalo Hasnt Quieted the Great Replacement Caucus"
+    "title": "The Slaughter in Buffalo Hasnt Quieted the Great Replacement Caucus",
+    "sentiment": "0"
+  },
+  {
+    "id": 5494,
+    "mediaId": 238,
+    "date": "d2022-05-17T04:01",
+    "sentence": "",
+    "author": "Ishaan Tharoor",
+    "title": "The Orbanization of America: The U.S. right walks in Hungarys path",
+    "sentiment": "0"
   }
 ]

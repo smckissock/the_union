@@ -1,10 +1,11 @@
 {
   "id": 1704,
   "mediaId": 21,
-  "date": "5/7/2022 12:00:00 AM",
+  "date": "d2022-05-07T17:00",
   "headline": "Trump says it will be 'very hard' for Herschel Walker to win the Georgia Senate race if Brian Kemp is the GOP gubernatorial nominee",
   "image": "https://i.insider.com/62163b54081b260018407844?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-walker-kemp-perdue-georgia-republican-primary-challenges-2020-election-2022-5",
+  "sentiment": "-0.664",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     815,
     1147,
-    1646,
     2087,
     2095,
     4325,

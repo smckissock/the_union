@@ -2,9 +2,19 @@
   {
     "id": 4018,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "A tale of courage, humanity, and compassion is coming to Disney+ May 27th...\nx\nx\nx\n-\nDont tell <span class='selected-term'>Ron DeSantis</span> or hell send in the National Guard to invade the Magic Kingdom.",
     "author": "Bill",
-    "title": "Cheers and Jeers: Thursday"
+    "title": "Cheers and Jeers: Thursday",
+    "sentiment": "0"
+  },
+  {
+    "id": 4018,
+    "mediaId": 43,
+    "date": "d2022-05-05T00:00",
+    "sentence": "A tale of courage, humanity, and compassion is coming to Disney+ May 27th...\nx\nx\nx\n-\nDont tell <span class='selected-term'>Ron DeSantis</span> or hell send in the National Guard to invade the Magic Kingdom.",
+    "author": "Bill",
+    "title": "Cheers and Jeers: Thursday",
+    "sentiment": "0.0"
   }
 ]

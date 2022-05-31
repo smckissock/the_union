@@ -2,33 +2,37 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 2378,
     "mediaId": 367,
-    "date": "3/2/2022 12:00:00 AM",
+    "date": "d2022-03-02T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Marquette poll shows Rebecca Kleefisch and Mandela Barnes leading key primary contests"
+    "title": "Marquette poll shows Rebecca Kleefisch and Mandela Barnes leading key primary contests",
+    "sentiment": "0.758"
   },
   {
     "id": 2306,
     "mediaId": 367,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Marquette Poll shows Mandela Barnes, Alex Lasry in tight Democratic U.S. Senate race in Wisconsin"
+    "title": "Marquette Poll shows Mandela Barnes, Alex Lasry in tight Democratic U.S. Senate race in Wisconsin",
+    "sentiment": "0.459"
   },
   {
     "id": 2298,
     "mediaId": 237,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T16:49",
     "sentence": "Among the candidates are <span class='selected-term'>Mandela Barnes</span>, the current lieutenant governor; Alex Lasry, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and Tom Nelson, current Outagamie County executive.",
     "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans"
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
+    "sentiment": "0.0"
   }
 ]

@@ -2,33 +2,37 @@
   {
     "id": 5112,
     "mediaId": 157,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "Jon Skolnik",
-    "title": "Corporate America steps up to fight for abortion access  after backing anti-abortion Republicans"
+    "title": "Corporate America steps up to fight for abortion access  after backing anti-abortion Republicans",
+    "sentiment": "0.0"
   },
   {
     "id": 3506,
     "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T11:00",
     "sentence": "",
     "author": "Hugh Hewitt",
-    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing"
+    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
+    "sentiment": "0.0"
   },
   {
     "id": 6566,
     "mediaId": 238,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T11:22",
     "sentence": "Other tests of Trumps influence loom next week, including in Georgia, where polls show his preferred choice for governor, David Perdue, badly trailing incumbent <span class='selected-term'>Brian Kemp</span> in the GOP primary.",
     "author": "Mariana Alfaro",
-    "title": "Post Politics Now Senate primary in Pa. still unresolved as other tests of Trumps influence loom"
+    "title": "Post Politics Now Senate primary in Pa. still unresolved as other tests of Trumps influence loom",
+    "sentiment": "-0.659"
   },
   {
     "id": 7266,
     "mediaId": 157,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "Sarah K. Burris",
-    "title": "How the Republican Party's deal with Trump is leading to chaos in Georgia GOP elections"
+    "title": "How the Republican Party's deal with Trump is leading to chaos in Georgia GOP elections",
+    "sentiment": "-0.835"
   }
 ]

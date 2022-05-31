@@ -2,25 +2,28 @@
   {
     "id": 8261,
     "mediaId": 43,
-    "date": "1/21/2022 12:00:00 AM",
+    "date": "d2022-01-21T00:00",
     "sentence": "",
     "author": "",
-    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar"
-  },
-  {
-    "id": 6388,
-    "mediaId": 209,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "W. James Antle III",
-    "title": "How endorsing J.D. Vance and Dr. Oz may be Trump's prep for a return to Washington"
+    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
+    "sentiment": "0"
   },
   {
     "id": 6391,
     "mediaId": 19,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "",
     "author": "John Binder",
-    "title": "MAGA Crowd Praises Trumps Endorsing J.D. Vance in Ohio: The Right Choice!"
+    "title": "MAGA Crowd Praises Trumps Endorsing J.D. Vance in Ohio: The Right Choice!",
+    "sentiment": "0.91"
+  },
+  {
+    "id": 6388,
+    "mediaId": 209,
+    "date": "d2022-04-15T05:52",
+    "sentence": "",
+    "author": "W. James Antle III",
+    "title": "How endorsing J.D. Vance and Dr. Oz may be Trump's prep for a return to Washington",
+    "sentiment": "0.47"
   }
 ]

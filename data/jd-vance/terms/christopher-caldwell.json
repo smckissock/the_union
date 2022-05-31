@@ -2,25 +2,28 @@
   {
     "id": 5952,
     "mediaId": 209,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Damon Linker",
-    "title": "Ohio's GOP Senate primary offers a choice of Trump-lite or the full deal"
+    "title": "Ohio's GOP Senate primary offers a choice of Trump-lite or the full deal",
+    "sentiment": "0.688"
   },
   {
     "id": 5811,
     "mediaId": 187,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T04:13",
     "sentence": "",
     "author": "David A. Graham",
-    "title": "The Art of the Dealer"
+    "title": "The Art of the Dealer",
+    "sentiment": "0"
   },
   {
     "id": 5583,
     "mediaId": 129,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "",
-    "title": "What J.D. Vances Primary Win Says About Populism and Resentment in the G.O.P."
+    "title": "What J.D. Vances Primary Win Says About Populism and Resentment in the G.O.P.",
+    "sentiment": "0.668"
   }
 ]

@@ -2,9 +2,19 @@
   {
     "id": 3619,
     "mediaId": 157,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "Apparently, from the view of Governor <span class='selected-term'>Ron DeSantis</span> and Republican legislators who run the state, the sick and dying were too weak to consent and therefore too weak to resist control by ruling elites.",
     "author": "John Stoehr",
-    "title": "What does 1 million dead Americans tell us?"
+    "title": "What does 1 million dead Americans tell us?",
+    "sentiment": "0"
+  },
+  {
+    "id": 3619,
+    "mediaId": 157,
+    "date": "d2022-05-13T00:00",
+    "sentence": "Apparently, from the view of Governor <span class='selected-term'>Ron DeSantis</span> and Republican legislators who run the state, the sick and dying were too weak to consent and therefore too weak to resist control by ruling elites.",
+    "author": "John Stoehr",
+    "title": "What does 1 million dead Americans tell us?",
+    "sentiment": "0.0"
   }
 ]

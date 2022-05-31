@@ -2,25 +2,28 @@
   {
     "id": 2416,
     "mediaId": 195,
-    "date": "1/11/2022 12:00:00 AM",
+    "date": "d2022-01-11T13:18",
     "sentence": "An internal poll released by the Barnes campaign on Friday found that the lieutenant governor has a 29-point lead over Milwaukee Bucks executive Alex Lasry and a 30-point lead over Wisconsin Treasurer <span class='selected-term'>Sarah Godlewski</span>.",
     "author": "Mychael Schnell",
-    "title": "Booker endorses Mandela Barnes in Wisconsin Senate race"
+    "title": "Booker endorses Mandela Barnes in Wisconsin Senate race",
+    "sentiment": "0"
   },
   {
     "id": 2413,
     "mediaId": 195,
-    "date": "1/12/2022 12:00:00 AM",
+    "date": "d2022-01-12T19:37",
     "sentence": "An internal poll released by the campaign on Friday found that he has a 29-point lead over Milwaukee Bucks executive Alex Lasry and is 30 points ahead of Wisconsin Treasurer <span class='selected-term'>Sarah Godlewski</span>.",
     "author": "Mychael Schnell",
-    "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race"
+    "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race",
+    "sentiment": "0"
   },
   {
     "id": 2303,
     "mediaId": 151,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T08:30",
     "sentence": "Nineteen percent backed Barnes, while Milwaukee Bucks executive Alex Lasry received 16 percent and state treasurer <span class='selected-term'>Sarah Godlewski</span> won 7 percent.",
     "author": "",
-    "title": "Pro-Bernie group endorses in key Dem Senate primary"
+    "title": "Pro-Bernie group endorses in key Dem Senate primary",
+    "sentiment": "0.0"
   }
 ]

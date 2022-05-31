@@ -2,49 +2,82 @@
   {
     "id": 4451,
     "mediaId": 239,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:03:54",
     "sentence": "",
     "author": "Robert Knight",
-    "title": "DeSantis delivers a roundhouse blow to Disney"
+    "title": "DeSantis delivers a roundhouse blow to Disney",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4451,
+    "mediaId": 239,
+    "date": "d2022-04-29T00:03:54",
+    "sentence": "",
+    "author": "Robert Knight",
+    "title": "DeSantis delivers a roundhouse blow to Disney",
+    "sentiment": "0.828"
   },
   {
     "id": 4293,
     "mediaId": 195,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T12:00",
     "sentence": "",
     "author": "Joe Concha",
-    "title": "Joe Bidens Ministry of Truth"
+    "title": "Joe Bidens Ministry of Truth",
+    "sentiment": "0.0"
   },
   {
     "id": 3902,
     "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T18:56",
     "sentence": "",
     "author": "Jenny Goldsberry",
-    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report"
+    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
+    "sentiment": "0"
+  },
+  {
+    "id": 3902,
+    "mediaId": 237,
+    "date": "d2022-05-06T18:56",
+    "sentence": "",
+    "author": "Jenny Goldsberry",
+    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
+    "sentiment": "0.0"
   },
   {
     "id": 3826,
     "mediaId": 302,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T14:00",
     "sentence": "",
     "author": "",
-    "title": "Climate catastrophists need to chill | Column"
+    "title": "Climate catastrophists need to chill | Column",
+    "sentiment": "0.0"
   },
   {
     "id": 3618,
     "mediaId": 129,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "",
     "author": "Liam Stack",
-    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak"
+    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
+    "sentiment": "0"
+  },
+  {
+    "id": 3618,
+    "mediaId": 129,
+    "date": "d2022-05-13T00:00",
+    "sentence": "",
+    "author": "Liam Stack",
+    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
+    "sentiment": "0.0"
   },
   {
     "id": 7125,
     "mediaId": 302,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T14:00",
     "sentence": "",
     "author": "",
-    "title": "Are Democrats up to preventing the next coup attempt? | Column"
+    "title": "Are Democrats up to preventing the next coup attempt? | Column",
+    "sentiment": "0.0"
   }
 ]

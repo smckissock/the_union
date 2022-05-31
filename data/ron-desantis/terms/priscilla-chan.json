@@ -2,9 +2,19 @@
   {
     "id": 4364,
     "mediaId": 136,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T19:52",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> on Friday touted his state's recent ban on what he calls \"Zuckerbucks,\" referring to money that Meta CEO Mark Zuckerberg donated to local elections departments ahead of the 2020 election.",
     "author": "Xander Landen",
-    "title": "What Are 'Zuckerbucks'? DeSantis Touts Ban in Election Enforcement"
+    "title": "What Are 'Zuckerbucks'? DeSantis Touts Ban in Election Enforcement",
+    "sentiment": "0"
+  },
+  {
+    "id": 4364,
+    "mediaId": 136,
+    "date": "d2022-04-29T19:52",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> on Friday touted his state's recent ban on what he calls \"Zuckerbucks,\" referring to money that Meta CEO Mark Zuckerberg donated to local elections departments ahead of the 2020 election.",
+    "author": "Xander Landen",
+    "title": "What Are 'Zuckerbucks'? DeSantis Touts Ban in Election Enforcement",
+    "sentiment": "0.0"
   }
 ]

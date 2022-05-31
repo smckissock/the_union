@@ -2,49 +2,55 @@
   {
     "id": 8276,
     "mediaId": 43,
-    "date": "1/13/2022 12:00:00 AM",
+    "date": "d2022-01-13T00:00",
     "sentence": "",
     "author": "Scott Anderson",
-    "title": "Kagro in the Morning podcast (AUDIO): Thursday, January 13, 2022"
+    "title": "Kagro in the Morning podcast (AUDIO): Thursday, January 13, 2022",
+    "sentiment": "-0.543"
   },
   {
     "id": 7598,
     "mediaId": 21,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T19:00",
     "sentence": "\"Women of reproductive age right now don't know a world that doesn't give them choice,\" said Democratic Sen. Raphael Warnock of Georgia, who is facing a challenge from Trump-endorsed, first-time candidate <span class='selected-term'>Herschel Walker</span>.",
     "author": "Warren Rojas",
-    "title": "Biden and Democrats caught flat-footed and without a plan for the possible end of Roe v. Wade"
+    "title": "Biden and Democrats caught flat-footed and without a plan for the possible end of Roe v. Wade",
+    "sentiment": "0"
   },
   {
     "id": 6556,
     "mediaId": 151,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T14:11",
     "sentence": "Why are there so few in office?? by Sabrina Rodrguez\n <span class='selected-term'>Herschel Walker</span>s ties to veterans program face scrutiny,? by APs Brian Slodysko\n And NBCs Alex Seitz-Wald has an interesting story about a planned $5 billion electric vehicle factory for the Atlanta suburbs thats emerged as a point of contention in the Kemp-Perdue primary, with Perdue decrying the woke? project.",
     "author": "",
-    "title": "POLITICO Playbook: Sean Patrick Maloney dodges a bullet"
+    "title": "POLITICO Playbook: Sean Patrick Maloney dodges a bullet",
+    "sentiment": "0.0"
   },
   {
     "id": 7459,
     "mediaId": 178,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "In a stark reminder of the issue's divisiveness, Biden's call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "ZEKE MILLER and CHRIS MEGERIAN Associated Press",
-    "title": "Biden says 'we have to act' after Texas school shooting"
-  },
-  {
-    "id": 7388,
-    "mediaId": 943,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
-    "author": "ZEKE MILLER and CHRIS MEGERIAN",
-    "title": "President Biden delivers emotional plea for new gun restrictions after Texas school shooting"
+    "title": "Biden says 'we have to act' after Texas school shooting",
+    "sentiment": "0.0"
   },
   {
     "id": 7405,
     "mediaId": 18,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:25",
     "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "Associated Press",
-    "title": "Biden says we have to act after Texas school shooting"
+    "title": "Biden says we have to act after Texas school shooting",
+    "sentiment": "0"
+  },
+  {
+    "id": 7388,
+    "mediaId": 943,
+    "date": "d2022-05-25T22:22",
+    "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
+    "author": "ZEKE MILLER and CHRIS MEGERIAN",
+    "title": "President Biden delivers emotional plea for new gun restrictions after Texas school shooting",
+    "sentiment": "0.0"
   }
 ]

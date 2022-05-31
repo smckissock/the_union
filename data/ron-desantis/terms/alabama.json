@@ -2,89 +2,154 @@
   {
     "id": 4376,
     "mediaId": 558,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T17:14",
     "sentence": "",
     "author": "Jeff Deal",
-    "title": "DeSantis says hell bring constitutional carry to Florida before he leaves office"
+    "title": "DeSantis says hell bring constitutional carry to Florida before he leaves office",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4376,
+    "mediaId": 558,
+    "date": "d2022-04-29T17:14",
+    "sentence": "",
+    "author": "Jeff Deal",
+    "title": "DeSantis says hell bring constitutional carry to Florida before he leaves office",
+    "sentiment": "0.415"
   },
   {
     "id": 4345,
     "mediaId": 124,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T01:07:39",
     "sentence": "",
     "author": "",
-    "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors"
+    "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors",
+    "sentiment": "0"
+  },
+  {
+    "id": 4345,
+    "mediaId": 124,
+    "date": "d2022-04-30T01:07:39",
+    "sentence": "",
+    "author": "",
+    "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors",
+    "sentiment": "0.0"
   },
   {
     "id": 4247,
     "mediaId": 239,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:03:35",
     "sentence": "",
     "author": "Victor Morton",
-    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me"
+    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
+    "sentiment": "-0.896"
+  },
+  {
+    "id": 4247,
+    "mediaId": 239,
+    "date": "d2022-05-02T00:03:35",
+    "sentence": "",
+    "author": "Victor Morton",
+    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
+    "sentiment": "0.0"
   },
   {
     "id": 4104,
     "mediaId": 63,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T21:25",
     "sentence": "",
     "author": "Nicholas Reimann",
-    "title": "Louisiana Lawmakers Kill Dont Say Gay Bill Banning Teachers From Discussing Gender Identity"
+    "title": "Louisiana Lawmakers Kill Dont Say Gay Bill Banning Teachers From Discussing Gender Identity",
+    "sentiment": "0"
+  },
+  {
+    "id": 4104,
+    "mediaId": 63,
+    "date": "d2022-05-03T21:25",
+    "sentence": "",
+    "author": "Nicholas Reimann",
+    "title": "Louisiana Lawmakers Kill Dont Say Gay Bill Banning Teachers From Discussing Gender Identity",
+    "sentiment": "0.0"
   },
   {
     "id": 4008,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "AWR Hawkins",
-    "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights"
+    "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4008,
+    "mediaId": 19,
+    "date": "d2022-05-05T00:00",
+    "sentence": "",
+    "author": "AWR Hawkins",
+    "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights",
+    "sentiment": "0.355"
   },
   {
     "id": 3827,
     "mediaId": 65,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T11:28",
     "sentence": "",
     "author": "",
-    "title": "Alabama law criminalizing gender transition surgery, drugs for minors takes effect"
+    "title": "Alabama law criminalizing gender transition surgery, drugs for minors takes effect",
+    "sentiment": "0.0"
   },
   {
     "id": 3594,
     "mediaId": 238,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T18:42",
     "sentence": "",
     "author": "Anne Branigin",
-    "title": "Alabamas ban on medication for trans youths is blocked by judge"
+    "title": "Alabamas ban on medication for trans youths is blocked by judge",
+    "sentiment": "0.0"
   },
   {
     "id": 3462,
     "mediaId": 238,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T10:00",
     "sentence": "",
     "author": "Hannah Natanson",
-    "title": "This Florida teacher married a woman. Now shes not a teacher anymore."
+    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
+    "sentiment": "0"
+  },
+  {
+    "id": 3462,
+    "mediaId": 238,
+    "date": "d2022-05-19T10:00",
+    "sentence": "",
+    "author": "Hannah Natanson",
+    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
+    "sentiment": "0.0"
   },
   {
     "id": 7133,
     "mediaId": 136,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T10:00",
     "sentence": "Though Governor <span class='selected-term'>Ron DeSantis</span> earned the ire of the Beltway crowd and press corps for his handling of the pandemic, the state he governs ranked almost equally with another large state, California, on the mortality front (28th and 27th respectively).",
     "author": "Lee Habeeb",
-    "title": "Federalism is on a Roll | Opinion"
+    "title": "Federalism is on a Roll | Opinion",
+    "sentiment": "0.0"
   },
   {
     "id": 7274,
     "mediaId": 65,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T20:18",
     "sentence": "",
     "author": "",
-    "title": "Florida suspends abortion clinic after hospitalizations"
+    "title": "Florida suspends abortion clinic after hospitalizations",
+    "sentiment": "0.0"
   },
   {
     "id": 7345,
     "mediaId": 1576,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "",
     "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win"
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.0"
   }
 ]

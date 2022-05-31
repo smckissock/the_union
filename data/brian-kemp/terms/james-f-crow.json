@@ -2,9 +2,19 @@
   {
     "id": 4459,
     "mediaId": 409,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T11:45",
     "sentence": "The fact that this years GOP Senate primary features Herschel Walker, arguably the greatest college football player of all time who won a national championship with the University of Georgia, probably helps stir public interest in the race, as well as President Trumps furious denunciations of incumbent GOP governor <span class='selected-term'>Brian Kemp</span>, although Kemp is leading the polls by a wide margin.",
     "author": "Jim Geraghty",
-    "title": "Much Higher Minority Early Voting in Georgias Upcoming Primaries"
+    "title": "Much Higher Minority Early Voting in Georgias Upcoming Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 8498,
+    "mediaId": 129,
+    "date": "d2022-05-28T00:00",
+    "sentence": "The higher-profile race was the battle for the gubernatorial nomination between <span class='selected-term'>Brian Kemp</span> and David Perdue, which Kemp won in an extraordinary rout.",
+    "author": "",
+    "title": "The Good News in Georgia Thats Bad News for Trump",
+    "sentiment": "0.647"
   }
 ]

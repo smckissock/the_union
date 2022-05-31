@@ -2,25 +2,28 @@
   {
     "id": 7699,
     "mediaId": 305,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T09:38",
     "sentence": "Somehow former football player and Republican Georgia Senate candidate <span class='selected-term'>Herschel Walker</span> is still convincing folks that hes the man for the job.",
     "author": "Angela Johnson",
-    "title": "Herschel Walker Endorsed by Pro-Life Organization"
-  },
-  {
-    "id": 7410,
-    "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Former NFL star <span class='selected-term'>Herschel Walker</span> is projected to easily clinch the Republican Senate nomination in Georgia, securing his spot on the ballot to face off against Sen. Raphael Warnock (D-Ga.) in November.",
-    "author": "Max Greenwood",
-    "title": "Herschel Walker clinches GOP Senate nomination in Georgia"
+    "title": "Herschel Walker Endorsed by Pro-Life Organization",
+    "sentiment": "0.849"
   },
   {
     "id": 7411,
     "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T23:43",
     "sentence": "Hes expected to face former NFL player <span class='selected-term'>Herschel Walker</span> in the general election.",
     "author": "Max Greenwood",
-    "title": "Warnock easily secures Democratic Senate nomination in Georgia"
+    "title": "Warnock easily secures Democratic Senate nomination in Georgia",
+    "sentiment": "0.501"
+  },
+  {
+    "id": 7410,
+    "mediaId": 195,
+    "date": "d2022-05-24T23:53",
+    "sentence": "Former NFL star <span class='selected-term'>Herschel Walker</span> is projected to easily clinch the Republican Senate nomination in Georgia, securing his spot on the ballot to face off against Sen. Raphael Warnock (D-Ga.) in November.",
+    "author": "Max Greenwood",
+    "title": "Herschel Walker clinches GOP Senate nomination in Georgia",
+    "sentiment": "0.95"
   }
 ]

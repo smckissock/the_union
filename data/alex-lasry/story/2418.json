@@ -1,10 +1,11 @@
 {
   "id": 2418,
   "mediaId": 129,
-  "date": "1/11/2022 12:00:00 AM",
+  "date": "d2022-01-11T00:00",
   "headline": "Nobody's Getting Special Treatment in 2022",
   "image": "https://static01.nyt.com/images/2022/01/11/us/politics/11onpoilitics-pm-newsletter-1/merlin_193128702_a678e0f0-11d6-4dc7-9792-c45ea3ca53cf-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/01/11/us/politics/democrats-ron-johnson-2022.html",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

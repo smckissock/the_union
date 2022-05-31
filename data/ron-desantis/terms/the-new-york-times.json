@@ -1,58 +1,119 @@
 [
   {
-    "id": 4364,
-    "mediaId": 136,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> on Friday touted his state's recent ban on what he calls \"Zuckerbucks,\" referring to money that Meta CEO Mark Zuckerberg donated to local elections departments ahead of the 2020 election.",
-    "author": "Xander Landen",
-    "title": "What Are 'Zuckerbucks'? DeSantis Touts Ban in Election Enforcement"
-  },
-  {
     "id": 4385,
     "mediaId": 558,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T16:00",
     "sentence": "Heilemann and Sorkin discuss the two enormous business stories dominating headlines: the stunning $44 billion acquisition of Twitter by SpaceX and Tesla CEO Elon Musk, whose roughly $275 billion net worth makes him the worlds richest person, and the Walt Disney Companys increasing embroilment in the culture wars, particularly as a whipping boy for <span class='selected-term'>Ron DeSantis</span>, the Republican governor of Florida.",
     "author": "",
-    "title": "Billions Co-creator Andrew Ross Sorkin on the Shows New Direction"
+    "title": "Billions Co-creator Andrew Ross Sorkin on the Shows New Direction",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4364,
+    "mediaId": 136,
+    "date": "d2022-04-29T19:52",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> on Friday touted his state's recent ban on what he calls \"Zuckerbucks,\" referring to money that Meta CEO Mark Zuckerberg donated to local elections departments ahead of the 2020 election.",
+    "author": "Xander Landen",
+    "title": "What Are 'Zuckerbucks'? DeSantis Touts Ban in Election Enforcement",
+    "sentiment": "0"
+  },
+  {
+    "id": 4364,
+    "mediaId": 136,
+    "date": "d2022-04-29T19:52",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> on Friday touted his state's recent ban on what he calls \"Zuckerbucks,\" referring to money that Meta CEO Mark Zuckerberg donated to local elections departments ahead of the 2020 election.",
+    "author": "Xander Landen",
+    "title": "What Are 'Zuckerbucks'? DeSantis Touts Ban in Election Enforcement",
+    "sentiment": "0.0"
   },
   {
     "id": 4280,
     "mediaId": 558,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T21:00",
     "sentence": "Heilemann and Sorkin discuss how Walt Disney Company found itself at the center of Americas culture wars, what Florida governor <span class='selected-term'>Ron DeSantis</span> seeks to gain from punishing Disney over its opposition to the states so-called Dont Say Gay? law, and the increasingly strained relationship between Republicans and corporate America.",
     "author": "",
-    "title": "Gov. Ron DeSantis May Lose to Disney  But Win With Voters"
+    "title": "Gov. Ron DeSantis May Lose to Disney  But Win With Voters",
+    "sentiment": "0"
+  },
+  {
+    "id": 4280,
+    "mediaId": 558,
+    "date": "d2022-05-01T21:00",
+    "sentence": "Heilemann and Sorkin discuss how Walt Disney Company found itself at the center of Americas culture wars, what Florida governor <span class='selected-term'>Ron DeSantis</span> seeks to gain from punishing Disney over its opposition to the states so-called Dont Say Gay? law, and the increasingly strained relationship between Republicans and corporate America.",
+    "author": "",
+    "title": "Gov. Ron DeSantis May Lose to Disney  But Win With Voters",
+    "sentiment": "0.0"
   },
   {
     "id": 4210,
     "mediaId": 223,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T16:15",
     "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Brad Slager",
-    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise"
+    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
+    "sentiment": "-0.436"
+  },
+  {
+    "id": 4210,
+    "mediaId": 223,
+    "date": "d2022-05-02T16:15",
+    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Brad Slager",
+    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
+    "sentiment": "0.0"
   },
   {
     "id": 4084,
     "mediaId": 187,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "Look at Governor <span class='selected-term'>Ron DeSantis</span> in Florida.",
     "author": "David Frum",
-    "title": "Biden Just Walked Into a Student-Debt Trap"
+    "title": "Biden Just Walked Into a Student-Debt Trap",
+    "sentiment": "0.0"
   },
   {
     "id": 3937,
     "mediaId": 129,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T09:30",
     "sentence": "",
     "author": "",
-    "title": "The Depp Case Brings Stan Culture Into the Courtroom and More: The Week in Narrated Articles"
+    "title": "The Depp Case Brings Stan Culture Into the Courtroom and More: The Week in Narrated Articles",
+    "sentiment": "0.0"
   },
   {
     "id": 7114,
     "mediaId": 151,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T19:59",
     "sentence": "",
     "author": "",
-    "title": "Florida wants to avoid critical race theory and social justice in social studies texts"
+    "title": "Florida wants to avoid critical race theory and social justice in social studies texts",
+    "sentiment": "0"
+  },
+  {
+    "id": 7114,
+    "mediaId": 151,
+    "date": "d2022-05-20T19:59",
+    "sentence": "",
+    "author": "",
+    "title": "Florida wants to avoid critical race theory and social justice in social studies texts",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8536,
+    "mediaId": 157,
+    "date": "d2022-05-28T00:00",
+    "sentence": "Additionally, the Times reports, Trump's fundraising has slowed with an analysis showing his average daily online contributions have dropped for seven consecutive months\nAs he grows weaker, conservatives are looking for the next horse to bet on with Florida Gov <span class='selected-term'>Ron DeSantis</span> (R) leading the pack and former vice president Mike Pence becoming more active.",
+    "author": "Tom Boggioni",
+    "title": "'Anxious' Trump fears he's losing control of the GOP -- and wants to launch his 2024 campaign this summer",
+    "sentiment": "0"
+  },
+  {
+    "id": 8536,
+    "mediaId": 157,
+    "date": "d2022-05-28T00:00",
+    "sentence": "Additionally, the Times reports, Trump's fundraising has slowed with an analysis showing his average daily online contributions have dropped for seven consecutive months\nAs he grows weaker, conservatives are looking for the next horse to bet on with Florida Gov <span class='selected-term'>Ron DeSantis</span> (R) leading the pack and former vice president Mike Pence becoming more active.",
+    "author": "Tom Boggioni",
+    "title": "'Anxious' Trump fears he's losing control of the GOP -- and wants to launch his 2024 campaign this summer",
+    "sentiment": "0.0"
   }
 ]

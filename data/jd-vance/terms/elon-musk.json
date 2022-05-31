@@ -2,49 +2,55 @@
   {
     "id": 6358,
     "mediaId": 129,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Elusive Politics of Elon Musk"
+    "title": "The Elusive Politics of Elon Musk",
+    "sentiment": "0"
   },
   {
     "id": 6328,
     "mediaId": 129,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T00:00",
     "sentence": "",
     "author": "",
-    "title": "This Is Not the Year of the Optimist"
+    "title": "This Is Not the Year of the Optimist",
+    "sentiment": "0"
   },
   {
     "id": 6199,
     "mediaId": 302,
-    "date": "4/23/2022 12:00:00 AM",
+    "date": "d2022-04-23T13:00",
     "sentence": "",
     "author": "Jim Verhulst",
-    "title": "Heres what to read from the left and the right | Column"
+    "title": "Heres what to read from the left and the right | Column",
+    "sentiment": "0"
   },
   {
     "id": 6059,
     "mediaId": 19,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "John Binder",
-    "title": "Exclusive  J.D. Vance: Joe Bidens Propaganda Ministry Is About Enforcing Speech Codes on Americans"
+    "title": "Exclusive  J.D. Vance: Joe Bidens Propaganda Ministry Is About Enforcing Speech Codes on Americans",
+    "sentiment": "0"
   },
   {
     "id": 5791,
     "mediaId": 32,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T12:52:13",
     "sentence": "",
     "author": "Matthew J. Belvedere,Peter Schacknow",
-    "title": "What to watch today: Wall Street set to rise ahead of Fed decision, after weaker ADP data"
+    "title": "What to watch today: Wall Street set to rise ahead of Fed decision, after weaker ADP data",
+    "sentiment": "0"
   },
   {
     "id": 4000,
     "mediaId": 237,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T06:00",
     "sentence": "",
     "author": "Nihal Krishan",
-    "title": "Conservatives eager to see return of political ads on Twitter under Musk"
+    "title": "Conservatives eager to see return of political ads on Twitter under Musk",
+    "sentiment": "0"
   }
 ]

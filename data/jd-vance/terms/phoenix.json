@@ -2,17 +2,19 @@
   {
     "id": 5745,
     "mediaId": 129,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "In Arizona, a Swing State Swings to the Far Right"
+    "title": "In Arizona, a Swing State Swings to the Far Right",
+    "sentiment": "0.665"
   },
   {
     "id": 5663,
     "mediaId": 675,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T16:26",
     "sentence": "",
     "author": "WND News Services",
-    "title": "Watch live: Trump rally tonight from Greensburg, Pennsylvania"
+    "title": "Watch live: Trump rally tonight from Greensburg, Pennsylvania",
+    "sentiment": "0"
   }
 ]

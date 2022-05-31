@@ -2,65 +2,73 @@
   {
     "id": 6400,
     "mediaId": 25,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "",
     "author": "Aaron Navarro",
-    "title": "J.D. Vance lands Donald Trump's endorsement for Ohio Senate GOP race"
+    "title": "J.D. Vance lands Donald Trump's endorsement for Ohio Senate GOP race",
+    "sentiment": "0.21"
   },
   {
     "id": 6063,
     "mediaId": 195,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T21:00",
     "sentence": "",
     "author": "Max Greenwood",
-    "title": "GOP proxy battle in Ohio Senate primary reaches fever pitch"
+    "title": "GOP proxy battle in Ohio Senate primary reaches fever pitch",
+    "sentiment": "0.266"
   },
   {
     "id": 6054,
     "mediaId": 129,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Don Jr. Road Show in Ohio Was No Joke"
+    "title": "The Don Jr. Road Show in Ohio Was No Joke",
+    "sentiment": "0"
   },
   {
     "id": 6032,
     "mediaId": 178,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "Michelle Cottle",
-    "title": "Donald Trump Jr. road show in Ohio was no joke"
+    "title": "Donald Trump Jr. road show in Ohio was no joke",
+    "sentiment": "-0.355"
   },
   {
     "id": 5828,
     "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T01:36",
     "sentence": "",
     "author": "Tal Axelrod",
-    "title": "Vance wins Ohio Senate primary, handing Trump key victory"
+    "title": "Vance wins Ohio Senate primary, handing Trump key victory",
+    "sentiment": "0"
   },
   {
     "id": 5658,
     "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T18:08",
     "sentence": "",
     "author": "Adam Staten",
-    "title": "Trump Poised to Re-create J.D. Vance Magic in Pennsylvania With Dr. Oz"
+    "title": "Trump Poised to Re-create J.D. Vance Magic in Pennsylvania With Dr. Oz",
+    "sentiment": "0.477"
   },
   {
     "id": 3855,
     "mediaId": 195,
-    "date": "5/8/2022 12:00:00 AM",
+    "date": "d2022-05-08T13:30",
     "sentence": "",
     "author": "Douglas E. Schoen",
-    "title": "Does Donald Trump still control the GOP?: Three Senate races will give us an answer"
+    "title": "Does Donald Trump still control the GOP?: Three Senate races will give us an answer",
+    "sentiment": "0"
   },
   {
     "id": 5466,
     "mediaId": 129,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T15:50",
     "sentence": "",
     "author": "",
-    "title": "Primaries Show Limits, and Depths, of Trumps Power Over G.O.P. Base"
+    "title": "Primaries Show Limits, and Depths, of Trumps Power Over G.O.P. Base",
+    "sentiment": "0"
   }
 ]

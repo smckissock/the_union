@@ -2,233 +2,496 @@
   {
     "id": 6251,
     "mediaId": 238,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T15:31",
     "sentence": "",
     "author": "",
-    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future"
+    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
+    "sentiment": "-0.275"
   },
   {
-    "id": 4359,
-    "mediaId": 65,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kelly Laco",
-    "title": "Charlie Crist says he's 'open' to mask mandate, setting up COVID as key issue in race against DeSantis"
-  },
-  {
-    "id": 4367,
-    "mediaId": 409,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "Then <span class='selected-term'>Ron DeSantis</span> and the Florida Republicans brought the hammer down on Disneys special self-government status in central Florida.",
-    "author": "Kyle Smith",
-    "title": "Disney Just Fired Its Corporate-Affairs Chief"
-  },
-  {
-    "id": 4368,
+    "id": 6251,
     "mediaId": 238,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-21T15:31",
     "sentence": "",
     "author": "",
-    "title": "Florida reintroduces math textbooks scrubbed of woke content"
-  },
-  {
-    "id": 4372,
-    "mediaId": 63,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Alison Durkee",
-    "title": "Most AmericansEven RepublicansOppose Florida GOPs Attacks On Disney, Poll Suggests"
-  },
-  {
-    "id": 4430,
-    "mediaId": 558,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) spoke out Friday against President Joe Bidens intentions to reduce student debt.",
-    "author": "",
-    "title": "Gov. Ron DeSantis (R-FL) voices opposition to forgiving student debt: These are people like doctors and lawyers.\""
+    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
+    "sentiment": "0.0"
   },
   {
     "id": 4438,
     "mediaId": 558,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T07:04",
     "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) appeared on Fox News The Ingraham Angle? to defend his bill dissolving the Reedy Creek Improvement District, Disneys special tax district.",
     "author": "",
-    "title": "Gov. Ron DeSantis (R-FL) denies reports that the bill targeting Disney will raise taxes on Floridians."
+    "title": "Gov. Ron DeSantis (R-FL) denies reports that the bill targeting Disney will raise taxes on Floridians.",
+    "sentiment": "0"
+  },
+  {
+    "id": 4438,
+    "mediaId": 558,
+    "date": "d2022-04-29T07:04",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) appeared on Fox News The Ingraham Angle? to defend his bill dissolving the Reedy Creek Improvement District, Disneys special tax district.",
+    "author": "",
+    "title": "Gov. Ron DeSantis (R-FL) denies reports that the bill targeting Disney will raise taxes on Floridians.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4430,
+    "mediaId": 558,
+    "date": "d2022-04-29T08:46",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) spoke out Friday against President Joe Bidens intentions to reduce student debt.",
+    "author": "",
+    "title": "Gov. Ron DeSantis (R-FL) voices opposition to forgiving student debt: These are people like doctors and lawyers.\"",
+    "sentiment": "0"
+  },
+  {
+    "id": 4430,
+    "mediaId": 558,
+    "date": "d2022-04-29T08:46",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) spoke out Friday against President Joe Bidens intentions to reduce student debt.",
+    "author": "",
+    "title": "Gov. Ron DeSantis (R-FL) voices opposition to forgiving student debt: These are people like doctors and lawyers.\"",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4372,
+    "mediaId": 63,
+    "date": "d2022-04-29T18:13",
+    "sentence": "",
+    "author": "Alison Durkee",
+    "title": "Most AmericansEven RepublicansOppose Florida GOPs Attacks On Disney, Poll Suggests",
+    "sentiment": "0"
+  },
+  {
+    "id": 4372,
+    "mediaId": 63,
+    "date": "d2022-04-29T18:13",
+    "sentence": "",
+    "author": "Alison Durkee",
+    "title": "Most AmericansEven RepublicansOppose Florida GOPs Attacks On Disney, Poll Suggests",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4368,
+    "mediaId": 238,
+    "date": "d2022-04-29T19:05",
+    "sentence": "",
+    "author": "",
+    "title": "Florida reintroduces math textbooks scrubbed of woke content",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4367,
+    "mediaId": 409,
+    "date": "d2022-04-29T19:32",
+    "sentence": "Then <span class='selected-term'>Ron DeSantis</span> and the Florida Republicans brought the hammer down on Disneys special self-government status in central Florida.",
+    "author": "Kyle Smith",
+    "title": "Disney Just Fired Its Corporate-Affairs Chief",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4359,
+    "mediaId": 65,
+    "date": "d2022-04-29T20:50",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Charlie Crist says he's 'open' to mask mandate, setting up COVID as key issue in race against DeSantis",
+    "sentiment": "0"
+  },
+  {
+    "id": 4359,
+    "mediaId": 65,
+    "date": "d2022-04-29T20:50",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Charlie Crist says he's 'open' to mask mandate, setting up COVID as key issue in race against DeSantis",
+    "sentiment": "0.0"
   },
   {
     "id": 4242,
     "mediaId": 558,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T07:36",
     "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) sounded off during a press conference about Trevor Noahs jabs at him and the state of Florida during the White House Correspondents dinner on Saturday.",
     "author": "",
-    "title": "Gov. Ron DeSantis (R-FL) responds to Trevor Noah cracking jokes about him at the White House Correspondents Dinner."
+    "title": "Gov. Ron DeSantis (R-FL) responds to Trevor Noah cracking jokes about him at the White House Correspondents Dinner.",
+    "sentiment": "-0.755"
   },
   {
-    "id": 4112,
-    "mediaId": 302,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kirby Wilson",
-    "title": "Will Florida Republicans ban abortion? Heres what we know."
-  },
-  {
-    "id": 4122,
-    "mediaId": 1067,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jeffrey Schweers",
-    "title": "Florida Republicans could ban abortion soon, worried Democrats warn"
-  },
-  {
-    "id": 4134,
+    "id": 4242,
     "mediaId": 558,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) said that the leaked Supreme Court draft opinion to overturn Roe v Wade was a judicial insurrection?.",
+    "date": "d2022-05-02T07:36",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) sounded off during a press conference about Trevor Noahs jabs at him and the state of Florida during the White House Correspondents dinner on Saturday.",
     "author": "",
-    "title": "Gov. DeSantis (R-FL) says the leaked Supreme Court draft opinion to overturn Roe v. Wade is a \"judicial insurrection.\""
-  },
-  {
-    "id": 4151,
-    "mediaId": 169,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Sabrina Haake",
-    "title": "Ron DeSantis tramples the First Amendment: GOP's Disney payback is clearly unconstitutional"
+    "title": "Gov. Ron DeSantis (R-FL) responds to Trevor Noah cracking jokes about him at the White House Correspondents Dinner.",
+    "sentiment": "0.0"
   },
   {
     "id": 4159,
     "mediaId": 19,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "David Ng",
-    "title": "Disney Lost $63 Billion in Market Capitalization Since Going Full Woke in Florida"
+    "title": "Disney Lost $63 Billion in Market Capitalization Since Going Full Woke in Florida",
+    "sentiment": "0"
+  },
+  {
+    "id": 4159,
+    "mediaId": 19,
+    "date": "d2022-05-03T00:00",
+    "sentence": "",
+    "author": "David Ng",
+    "title": "Disney Lost $63 Billion in Market Capitalization Since Going Full Woke in Florida",
+    "sentiment": "0.0"
   },
   {
     "id": 4180,
     "mediaId": 157,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "\"If I were to give political advice to <span class='selected-term'>Ron DeSantis</span>,\" he said, \"I would say he should just focus on getting reelected in Florida.\"",
     "author": "Timothy Evans",
-    "title": "GOP governor predicts Trump's grip on party will finally end this year: 'The people he's endorsing are going to lose'"
+    "title": "GOP governor predicts Trump's grip on party will finally end this year: 'The people he's endorsing are going to lose'",
+    "sentiment": "0.0"
   },
   {
-    "id": 4034,
+    "id": 4151,
+    "mediaId": 169,
+    "date": "d2022-05-03T05:45",
+    "sentence": "",
+    "author": "Sabrina Haake",
+    "title": "Ron DeSantis tramples the First Amendment: GOP's Disney payback is clearly unconstitutional",
+    "sentiment": "-0.65"
+  },
+  {
+    "id": 4151,
+    "mediaId": 169,
+    "date": "d2022-05-03T05:45",
+    "sentence": "",
+    "author": "Sabrina Haake",
+    "title": "Ron DeSantis tramples the First Amendment: GOP's Disney payback is clearly unconstitutional",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4134,
+    "mediaId": 558,
+    "date": "d2022-05-03T11:54",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) said that the leaked Supreme Court draft opinion to overturn Roe v Wade was a judicial insurrection?.",
+    "author": "",
+    "title": "Gov. DeSantis (R-FL) says the leaked Supreme Court draft opinion to overturn Roe v. Wade is a \"judicial insurrection.\"",
+    "sentiment": "0"
+  },
+  {
+    "id": 4134,
+    "mediaId": 558,
+    "date": "d2022-05-03T11:54",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) said that the leaked Supreme Court draft opinion to overturn Roe v Wade was a judicial insurrection?.",
+    "author": "",
+    "title": "Gov. DeSantis (R-FL) says the leaked Supreme Court draft opinion to overturn Roe v. Wade is a \"judicial insurrection.\"",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4122,
     "mediaId": 1067,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-03T17:19",
     "sentence": "",
     "author": "Jeffrey Schweers",
-    "title": "Florida Republicans could soon ban abortion entirely, worried Democrats warn"
+    "title": "Florida Republicans could ban abortion soon, worried Democrats warn",
+    "sentiment": "0.0"
   },
   {
-    "id": 4055,
-    "mediaId": 675,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 4112,
+    "mediaId": 302,
+    "date": "d2022-05-03T19:00",
     "sentence": "",
-    "author": "WND News Services",
-    "title": "Leaking Supreme Court draft called a 'judicial insurrection'"
+    "author": "Kirby Wilson",
+    "title": "Will Florida Republicans ban abortion? Heres what we know.",
+    "sentiment": "0"
   },
   {
-    "id": 4056,
-    "mediaId": 675,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 4112,
+    "mediaId": 302,
+    "date": "d2022-05-03T19:00",
     "sentence": "",
-    "author": "WND News Services",
-    "title": "Leaking Supreme Court draft called a 'judicial insurrection'"
+    "author": "Kirby Wilson",
+    "title": "Will Florida Republicans ban abortion? Heres what we know.",
+    "sentiment": "0.0"
   },
   {
     "id": 4068,
     "mediaId": 302,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T10:00",
     "sentence": "",
     "author": "",
-    "title": "Florida Democrats hope anti-abortion Supreme Court ruling could supercharge governors race"
+    "title": "Florida Democrats hope anti-abortion Supreme Court ruling could supercharge governors race",
+    "sentiment": "0"
   },
   {
-    "id": 3973,
-    "mediaId": 237,
-    "date": "5/5/2022 12:00:00 AM",
+    "id": 4068,
+    "mediaId": 302,
+    "date": "d2022-05-04T10:00",
     "sentence": "",
-    "author": "Kaylee McGhee White",
-    "title": "Have woke corporations finally learned their lesson?"
+    "author": "",
+    "title": "Florida Democrats hope anti-abortion Supreme Court ruling could supercharge governors race",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4055,
+    "mediaId": 675,
+    "date": "d2022-05-04T12:56",
+    "sentence": "",
+    "author": "WND News Services",
+    "title": "Leaking Supreme Court draft called a 'judicial insurrection'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4055,
+    "mediaId": 675,
+    "date": "d2022-05-04T12:56",
+    "sentence": "",
+    "author": "WND News Services",
+    "title": "Leaking Supreme Court draft called a 'judicial insurrection'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4056,
+    "mediaId": 675,
+    "date": "d2022-05-04T12:56",
+    "sentence": "",
+    "author": "WND News Services",
+    "title": "Leaking Supreme Court draft called a 'judicial insurrection'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4056,
+    "mediaId": 675,
+    "date": "d2022-05-04T12:56",
+    "sentence": "",
+    "author": "WND News Services",
+    "title": "Leaking Supreme Court draft called a 'judicial insurrection'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4034,
+    "mediaId": 1067,
+    "date": "d2022-05-04T20:00",
+    "sentence": "",
+    "author": "Jeffrey Schweers",
+    "title": "Florida Republicans could soon ban abortion entirely, worried Democrats warn",
+    "sentiment": "0.0"
   },
   {
     "id": 3994,
     "mediaId": 136,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T09:46",
     "sentence": "This comes after Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> signed the so-called \"Don't Say Gay\" bill into law in March.",
     "author": "Gerrard Kaonga",
-    "title": "Florida Teacher Fired for Discussing Sexual Orientation Sparks Debate"
+    "title": "Florida Teacher Fired for Discussing Sexual Orientation Sparks Debate",
+    "sentiment": "0"
   },
   {
-    "id": 3913,
+    "id": 3994,
+    "mediaId": 136,
+    "date": "d2022-05-05T09:46",
+    "sentence": "This comes after Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> signed the so-called \"Don't Say Gay\" bill into law in March.",
+    "author": "Gerrard Kaonga",
+    "title": "Florida Teacher Fired for Discussing Sexual Orientation Sparks Debate",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3973,
     "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-05T23:00",
     "sentence": "",
-    "author": "Ryan King",
-    "title": "Appeals court reinstates Florida GOP-backed voting law  for now"
+    "author": "Kaylee McGhee White",
+    "title": "Have woke corporations finally learned their lesson?",
+    "sentiment": "0"
   },
   {
-    "id": 3919,
-    "mediaId": 558,
-    "date": "5/6/2022 12:00:00 AM",
+    "id": 3973,
+    "mediaId": 237,
+    "date": "d2022-05-05T23:00",
     "sentence": "",
-    "author": "Tim Craig",
-    "title": "As community veers right, political division tears apart Sarasota. Florida is really in turmoil"
-  },
-  {
-    "id": 3936,
-    "mediaId": 238,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "As community veers right, political division tears apart Sarasota, Fla."
+    "author": "Kaylee McGhee White",
+    "title": "Have woke corporations finally learned their lesson?",
+    "sentiment": "0.0"
   },
   {
     "id": 3939,
     "mediaId": 151,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T08:31",
     "sentence": "",
     "author": "",
-    "title": "Florida Republicans won't let go of Disney's campaign cash"
+    "title": "Florida Republicans won't let go of Disney's campaign cash",
+    "sentiment": "-0.36"
+  },
+  {
+    "id": 3939,
+    "mediaId": 151,
+    "date": "d2022-05-06T08:31",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Republicans won't let go of Disney's campaign cash",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3936,
+    "mediaId": 238,
+    "date": "d2022-05-06T10:00",
+    "sentence": "",
+    "author": "",
+    "title": "As community veers right, political division tears apart Sarasota, Fla.",
+    "sentiment": "0"
+  },
+  {
+    "id": 3936,
+    "mediaId": 238,
+    "date": "d2022-05-06T10:00",
+    "sentence": "",
+    "author": "",
+    "title": "As community veers right, political division tears apart Sarasota, Fla.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3919,
+    "mediaId": 558,
+    "date": "d2022-05-06T14:04",
+    "sentence": "",
+    "author": "Tim Craig",
+    "title": "As community veers right, political division tears apart Sarasota. Florida is really in turmoil",
+    "sentiment": "0"
+  },
+  {
+    "id": 3919,
+    "mediaId": 558,
+    "date": "d2022-05-06T14:04",
+    "sentence": "",
+    "author": "Tim Craig",
+    "title": "As community veers right, political division tears apart Sarasota. Florida is really in turmoil",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3913,
+    "mediaId": 237,
+    "date": "d2022-05-06T16:35",
+    "sentence": "",
+    "author": "Ryan King",
+    "title": "Appeals court reinstates Florida GOP-backed voting law  for now",
+    "sentiment": "0.0"
   },
   {
     "id": 3875,
     "mediaId": 223,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T14:30",
     "sentence": "",
     "author": "Sarah Arnold",
-    "title": "DeSantis: Disney Does Not Run Florida"
+    "title": "DeSantis: Disney Does Not Run Florida",
+    "sentiment": "0"
+  },
+  {
+    "id": 3875,
+    "mediaId": 223,
+    "date": "d2022-05-07T14:30",
+    "sentence": "",
+    "author": "Sarah Arnold",
+    "title": "DeSantis: Disney Does Not Run Florida",
+    "sentiment": "0.0"
   },
   {
     "id": 3732,
     "mediaId": 157,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "David Edwards",
-    "title": "DeSantis-appointed judge declares Florida redistricting map unconstitutional over Black voter suppression"
+    "title": "DeSantis-appointed judge declares Florida redistricting map unconstitutional over Black voter suppression",
+    "sentiment": "-0.646"
+  },
+  {
+    "id": 3732,
+    "mediaId": 157,
+    "date": "d2022-05-11T00:00",
+    "sentence": "",
+    "author": "David Edwards",
+    "title": "DeSantis-appointed judge declares Florida redistricting map unconstitutional over Black voter suppression",
+    "sentiment": "0.0"
   },
   {
     "id": 3668,
     "mediaId": 234,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "The Florida congressional map <span class='selected-term'>Ron DeSantis</span> drew in an apparent effort to dilute the Black vote was blocked Wednesday as unconstitutional?  by a federal judge the governor himself appointed.",
     "author": "Eric Lutz",
-    "title": "Ron DeSantis' Redistricting Map Apparently Deemed Too Racist Even For a DeSantis-Appointed Judge"
+    "title": "Ron DeSantis' Redistricting Map Apparently Deemed Too Racist Even For a DeSantis-Appointed Judge",
+    "sentiment": "-0.62"
+  },
+  {
+    "id": 3668,
+    "mediaId": 234,
+    "date": "d2022-05-12T00:00",
+    "sentence": "The Florida congressional map <span class='selected-term'>Ron DeSantis</span> drew in an apparent effort to dilute the Black vote was blocked Wednesday as unconstitutional?  by a federal judge the governor himself appointed.",
+    "author": "Eric Lutz",
+    "title": "Ron DeSantis' Redistricting Map Apparently Deemed Too Racist Even For a DeSantis-Appointed Judge",
+    "sentiment": "0.0"
   },
   {
     "id": 3609,
     "mediaId": 195,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T14:44",
     "sentence": "",
     "author": "",
-    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms"
+    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms",
+    "sentiment": "0"
+  },
+  {
+    "id": 3609,
+    "mediaId": 195,
+    "date": "d2022-05-13T14:44",
+    "sentence": "",
+    "author": "",
+    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms",
+    "sentiment": "0.0"
   },
   {
     "id": 3556,
     "mediaId": 558,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T08:54",
     "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) announced $125 million in funding for nursing and claimed the Florida government is going to take care of Disneys debt while speaking at Seminole State College, Sanford, Florida today.",
     "author": "",
-    "title": "Gov. DeSantis (R-FL) tells FL to not worry about Disneys debt: I have the biggest budget surplus weve ever had.\""
+    "title": "Gov. DeSantis (R-FL) tells FL to not worry about Disneys debt: I have the biggest budget surplus weve ever had.\"",
+    "sentiment": "0"
+  },
+  {
+    "id": 3556,
+    "mediaId": 558,
+    "date": "d2022-05-16T08:54",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) announced $125 million in funding for nursing and claimed the Florida government is going to take care of Disneys debt while speaking at Seminole State College, Sanford, Florida today.",
+    "author": "",
+    "title": "Gov. DeSantis (R-FL) tells FL to not worry about Disneys debt: I have the biggest budget surplus weve ever had.\"",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8544,
+    "mediaId": 223,
+    "date": "d2022-05-27T14:15",
+    "sentence": "",
+    "author": "Madeline Leesman",
+    "title": "Libs of Tik Tok Kicked Off Instagram",
+    "sentiment": "0"
+  },
+  {
+    "id": 8544,
+    "mediaId": 223,
+    "date": "d2022-05-27T14:15",
+    "sentence": "",
+    "author": "Madeline Leesman",
+    "title": "Libs of Tik Tok Kicked Off Instagram",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8528,
+    "mediaId": 238,
+    "date": "d2022-05-28T16:21",
+    "sentence": "",
+    "author": "Mike DeBonis",
+    "title": "Florida Republicans beat the gun lobby. Congress hasn't followed.",
+    "sentiment": "0.0"
   }
 ]

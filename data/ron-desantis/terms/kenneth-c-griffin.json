@@ -2,25 +2,46 @@
   {
     "id": 4119,
     "mediaId": 1067,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T17:47",
     "sentence": "",
     "author": "Skyler Swisher",
-    "title": "Top DeSantis megadonor doesnt appreciate him targeting Disney"
+    "title": "Top DeSantis megadonor doesnt appreciate him targeting Disney",
+    "sentiment": "-0.447"
+  },
+  {
+    "id": 4119,
+    "mediaId": 1067,
+    "date": "d2022-05-03T17:47",
+    "sentence": "",
+    "author": "Skyler Swisher",
+    "title": "Top DeSantis megadonor doesnt appreciate him targeting Disney",
+    "sentiment": "0.0"
   },
   {
     "id": 3985,
     "mediaId": 558,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T16:37",
     "sentence": "Griffin is also backing the re-election effort of Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "",
-    "title": "Ken Griffin Gives $25 Million to Illinois GOP Governor Candidate"
+    "title": "Ken Griffin Gives $25 Million to Illinois GOP Governor Candidate",
+    "sentiment": "0.0"
   },
   {
     "id": 3949,
     "mediaId": 157,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Timothy Evans",
-    "title": "Ron DeSantis' crusade against Disney is drawing fire from some Republicans"
+    "title": "Ron DeSantis' crusade against Disney is drawing fire from some Republicans",
+    "sentiment": "-0.837"
+  },
+  {
+    "id": 3949,
+    "mediaId": 157,
+    "date": "d2022-05-06T00:00",
+    "sentence": "",
+    "author": "Timothy Evans",
+    "title": "Ron DeSantis' crusade against Disney is drawing fire from some Republicans",
+    "sentiment": "0.0"
   }
 ]

@@ -2,25 +2,28 @@
   {
     "id": 5704,
     "mediaId": 195,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T20:22",
     "sentence": "",
     "author": "Max Greenwood",
-    "title": "Vance to speak at Trump rally for Oz in Pennsylvania"
+    "title": "Vance to speak at Trump rally for Oz in Pennsylvania",
+    "sentiment": "0.454"
   },
   {
     "id": 5678,
     "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T09:54",
     "sentence": "",
     "author": "Ewan Palmer",
-    "title": "How To Watch Donald Trump's Pennsylvania Rally For Dr. Mehmet Oz"
+    "title": "How To Watch Donald Trump's Pennsylvania Rally For Dr. Mehmet Oz",
+    "sentiment": "0"
   },
   {
     "id": 5513,
     "mediaId": 238,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T20:51",
     "sentence": "",
     "author": "Aaron Blake",
-    "title": "How Trumps Dr. Oz endorsement could cost the GOP in Pennsylvania"
+    "title": "How Trumps Dr. Oz endorsement could cost the GOP in Pennsylvania",
+    "sentiment": "0"
   }
 ]

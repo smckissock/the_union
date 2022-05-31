@@ -1,10 +1,11 @@
 {
   "id": 1773,
   "mediaId": 43,
-  "date": "5/4/2022 12:00:00 AM",
+  "date": "d2022-05-04T00:00",
   "headline": "Deadspin, \"Men like Herschel Walker (R) are coming for my rights and probably yours, too\"",
   "image": "https://images.dailykos.com/images/1065756/story_image/JX5QRGK3EFDBZAEOXP5CVAEEKY.jpeg?1651650582",
   "link": "https://www.dailykos.com/story/2022/5/4/2095734/-GA-Sen-Deadspin-Men-like-Herschel-Walker-R-are-coming-for-my-rights-and-probably-yours-too",
+  "sentiment": "-0.588",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,7 +15,6 @@
     815,
     1136,
     1225,
-    2095,
     2457,
     428,
     2672

@@ -1,10 +1,11 @@
 {
   "id": 1725,
   "mediaId": 1576,
-  "date": "5/6/2022 12:00:00 AM",
+  "date": "d2022-05-06T00:00",
   "headline": "GOP works to get out the vote after calling elections rigged",
   "image": "https://www.wabe.org/app/uploads/2022/05/AP22126056255094-336x189.jpg",
   "link": "https://www.wabe.org/gop-works-to-get-out-the-vote-after-calling-elections-rigged/",
+  "sentiment": "-0.317",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,10 +13,8 @@
   "authorUrl": "",
   "termIds": [
     1147,
-    1646,
     2006,
     2087,
-    2095,
     2125,
     4325,
     146,

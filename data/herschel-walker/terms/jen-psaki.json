@@ -1,18 +1,20 @@
 [
   {
-    "id": 8098,
-    "mediaId": 12,
-    "date": "3/1/2022 12:00:00 AM",
-    "sentence": "We wont be surprised if his dad schedules a trip to Georgia in the next few weeks to tout the five-candidate slate hes backing, a group that also includes Senate candidate <span class='selected-term'>Herschel Walker</span>.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Marjorie Taylor Greene to deliver America First response to Biden speech"
-  },
-  {
     "id": 8100,
     "mediaId": 157,
-    "date": "3/1/2022 12:00:00 AM",
+    "date": "d2022-03-01T00:00",
     "sentence": "U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> pulled out of an upcoming event organized by Georgia GOP Rep. Marjorie Taylor -- who's come under fire for speaking at an event hosted by white nationalists who praised Russian President Vladimir Putin's invasion of Ukraine, The Atlanta Journal Constitution reports.",
     "author": "Sky Palma",
-    "title": "Marjorie Taylor Greene suffers more blowback as GOP Senate hopeful pulls out of her event"
+    "title": "Marjorie Taylor Greene suffers more blowback as GOP Senate hopeful pulls out of her event",
+    "sentiment": "0"
+  },
+  {
+    "id": 8098,
+    "mediaId": 12,
+    "date": "d2022-03-01T13:00",
+    "sentence": "We wont be surprised if his dad schedules a trip to Georgia in the next few weeks to tout the five-candidate slate hes backing, a group that also includes Senate candidate <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Marjorie Taylor Greene to deliver America First response to Biden speech",
+    "sentiment": "0.0"
   }
 ]

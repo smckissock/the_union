@@ -2,25 +2,55 @@
   {
     "id": 3682,
     "mediaId": 151,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T21:34",
     "sentence": "",
     "author": "",
-    "title": "Florida judge blocks DeSantis congressional redistricting effort"
+    "title": "Florida judge blocks DeSantis congressional redistricting effort",
+    "sentiment": "0"
+  },
+  {
+    "id": 3682,
+    "mediaId": 151,
+    "date": "d2022-05-11T21:34",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge blocks DeSantis congressional redistricting effort",
+    "sentiment": "0.0"
   },
   {
     "id": 3605,
     "mediaId": 151,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T21:27",
     "sentence": "",
     "author": "",
-    "title": "DeSantis appeals Florida judge's order blocking his redistricting map"
+    "title": "DeSantis appeals Florida judge's order blocking his redistricting map",
+    "sentiment": "-0.607"
+  },
+  {
+    "id": 3605,
+    "mediaId": 151,
+    "date": "d2022-05-13T21:27",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis appeals Florida judge's order blocking his redistricting map",
+    "sentiment": "0.0"
   },
   {
     "id": 3572,
     "mediaId": 157,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "",
     "author": "Matthew Chapman",
-    "title": "Florida judge orders election officials to use court-ordered fix to Ron DeSantis' racial gerrymander"
+    "title": "Florida judge orders election officials to use court-ordered fix to Ron DeSantis' racial gerrymander",
+    "sentiment": "0"
+  },
+  {
+    "id": 3572,
+    "mediaId": 157,
+    "date": "d2022-05-16T00:00",
+    "sentence": "",
+    "author": "Matthew Chapman",
+    "title": "Florida judge orders election officials to use court-ordered fix to Ron DeSantis' racial gerrymander",
+    "sentiment": "0.0"
   }
 ]

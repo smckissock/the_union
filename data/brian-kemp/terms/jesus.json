@@ -2,33 +2,37 @@
   {
     "id": 5033,
     "mediaId": 157,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "NOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Matthew Chapman",
-    "title": "California MAGA candidate claims God will commit voter fraud on her behalf to help her win"
+    "title": "California MAGA candidate claims God will commit voter fraud on her behalf to help her win",
+    "sentiment": "0.0"
   },
   {
     "id": 4491,
     "mediaId": 34,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Abby Zimet",
-    "title": "Demolishing the Demonic Plans of Our Enemy, and Can We Get An Amen"
+    "title": "Demolishing the Demonic Plans of Our Enemy, and Can We Get An Amen",
+    "sentiment": "0"
   },
   {
     "id": 6524,
     "mediaId": 136,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T16:57",
     "sentence": "Taylor, who is challenging incumbent GOP Governor <span class='selected-term'>Brian Kemp</span>, has made religion a cornerstone of her campaign.",
     "author": "Andrew Stanton",
-    "title": "Native Americans Made 'Sacrifice' for 'Our Right to Worship Jesus': Taylor"
+    "title": "Native Americans Made 'Sacrifice' for 'Our Right to Worship Jesus': Taylor",
+    "sentiment": "0"
   },
   {
     "id": 7189,
     "mediaId": 21,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T01:00",
     "sentence": "",
     "author": "Katherine Tangalakis-Lippert",
-    "title": "GOP gubernatorial candidate running on 'Jesus, Guns, Babies' platform says 'the church rules the state of Georgia'"
+    "title": "GOP gubernatorial candidate running on 'Jesus, Guns, Babies' platform says 'the church rules the state of Georgia'",
+    "sentiment": "-0.882"
   }
 ]

@@ -1,10 +1,11 @@
 {
   "id": 859,
   "mediaId": 195,
-  "date": "1/1/2022 12:00:00 AM",
+  "date": "d2022-01-01T11:05",
   "headline": "Eleven interesting races to watch in 2022",
   "image": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/dome_captiol_121621gn_lead.jpg?itok=2aMe9Gu7",
   "link": "https://thehill.com/homenews/campaign/587105-eleven-interesting-races-to-watch-in-2022",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,7 +13,6 @@
   "authorUrl": "https://thehill.com/author/tal-axelrod",
   "termIds": [
     661,
-    1646,
     1761,
     1844,
     1951,

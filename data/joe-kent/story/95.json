@@ -1,10 +1,11 @@
 {
   "id": 95,
   "mediaId": 33,
-  "date": "5/6/2022 12:00:00 AM",
+  "date": "d2022-05-06T00:00",
   "headline": "Peter Thiel plans to wind down his involvement in 2022 after Vance's victory in Ohio",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220506125216-02-peter-thiel-0407-file-restricted-exlarge-169.jpg",
   "link": "https://www.cnn.com/2022/05/06/politics/peter-thiel-jd-vance-ohio-gop/index.html",
+  "sentiment": "0.0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,

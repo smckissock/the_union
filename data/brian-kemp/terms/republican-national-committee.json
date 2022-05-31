@@ -2,33 +2,37 @@
   {
     "id": 5346,
     "mediaId": 223,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T18:00",
     "sentence": "",
     "author": "Rebecca Downs",
-    "title": "More Big Tech Censorship: RNC Video of Interview with Donald Trump Removed from YouTube"
+    "title": "More Big Tech Censorship: RNC Video of Interview with Donald Trump Removed from YouTube",
+    "sentiment": "0.0"
   },
   {
     "id": 4586,
     "mediaId": 188,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T00:00",
     "sentence": "She also faces questions over other controversial statements she's made, including a false assertion that the 2018 gubernatorial election in Georgia was \"stolen\" by Republican <span class='selected-term'>Brian Kemp</span>.",
     "author": "Chris Pandolfo",
-    "title": "Biden's incoming press secretary Karine Jean-Pierre called Fox News 'racist'"
+    "title": "Biden's incoming press secretary Karine Jean-Pierre called Fox News 'racist'",
+    "sentiment": "0.0"
   },
   {
     "id": 3506,
     "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T11:00",
     "sentence": "",
     "author": "Hugh Hewitt",
-    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing"
+    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
+    "sentiment": "0.0"
   },
   {
     "id": 7243,
     "mediaId": 233,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T16:42",
     "sentence": "University of Georgia Professor Charles Bullock told USA TODAY that Trump's endorsement \"really doesn't make much of a difference in the governor's race because <span class='selected-term'>Brian Kemp</span> is well-known.\"",
     "author": "Merdie Nzanga",
-    "title": "Ahead of Georgia primary, RNC chairwoman calls on Republicans to unite"
+    "title": "Ahead of Georgia primary, RNC chairwoman calls on Republicans to unite",
+    "sentiment": "0.222"
   }
 ]

@@ -2,17 +2,19 @@
   {
     "id": 6903,
     "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T12:15",
     "sentence": "Democratic gubernatorial candidate Pennsylvania Attorney General Josh Shapiro recently launched a campaign advertisement designed to boost state Sen. <span class='selected-term'>Doug Mastriano</span>, a Republican candidate some in the party worry may not fare well in the general election.",
     "author": "Kate Scanlon",
-    "title": "Shapiro ad seeks to boost Doug Mastriano in Pennsylvania gubernatorial contest"
+    "title": "Shapiro ad seeks to boost Doug Mastriano in Pennsylvania gubernatorial contest",
+    "sentiment": "0.62"
   },
   {
     "id": 6564,
     "mediaId": 132,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T14:00",
     "sentence": "It would be a terrible legacy for this to be the American generation that hands nearly 250 years of sacrosanct democratic tradition to the <span class='selected-term'>Doug Mastriano</span>s of the moment and say, \"Here, you throw this away.\"",
     "author": "Gene Collier",
-    "title": "Are the 2022 primaries America's last legit election?"
+    "title": "Are the 2022 primaries America's last legit election?",
+    "sentiment": "0.0"
   }
 ]

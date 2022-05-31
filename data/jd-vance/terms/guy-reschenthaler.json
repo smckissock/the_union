@@ -2,25 +2,28 @@
   {
     "id": 5689,
     "mediaId": 19,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Mehmet Oz Booed at Trump Rally in Pennsylvania"
+    "title": "Mehmet Oz Booed at Trump Rally in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 5635,
     "mediaId": 409,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T12:12",
     "sentence": "",
     "author": "Zachary Evans",
-    "title": "Dr. Oz Booed at Rally with Trump, Vance"
+    "title": "Dr. Oz Booed at Rally with Trump, Vance",
+    "sentiment": "0"
   },
   {
     "id": 7210,
     "mediaId": 19,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "Nick Gilbertson",
-    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia"
+    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia",
+    "sentiment": "0"
   }
 ]

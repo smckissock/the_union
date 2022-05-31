@@ -2,17 +2,19 @@
   {
     "id": 1005,
     "mediaId": 43,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T00:00",
     "sentence": "Scott Walker's running mate in 2018 when their ticket lost to Evers and <span class='selected-term'>Mandela Barnes</span>, who is now running for Senate.)",
     "author": "",
-    "title": "GOP primary for Wisconsin governor"
+    "title": "GOP primary for Wisconsin governor",
+    "sentiment": "0.0"
   },
   {
     "id": 938,
     "mediaId": 43,
-    "date": "3/2/2022 12:00:00 AM",
+    "date": "d2022-03-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "House Democrat and indicted GOP attorney general headed to runoffs"
+    "title": "House Democrat and indicted GOP attorney general headed to runoffs",
+    "sentiment": "0.0"
   }
 ]

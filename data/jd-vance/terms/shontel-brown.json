@@ -2,57 +2,64 @@
   {
     "id": 6018,
     "mediaId": 376,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T06:00",
     "sentence": "",
     "author": "Stephanie Akin\nJessica Wehrman",
-    "title": "What to watch in Tuesdays primaries in Ohio and Indiana"
-  },
-  {
-    "id": 5918,
-    "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "G.O.P. Candidates Make Final Push in Ohios Closely Watched Senate Race"
-  },
-  {
-    "id": 5937,
-    "mediaId": 124,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio primaries to test Trumps power over the GOP base"
+    "title": "What to watch in Tuesdays primaries in Ohio and Indiana",
+    "sentiment": "0"
   },
   {
     "id": 5943,
     "mediaId": 237,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T07:00",
     "sentence": "",
     "author": "Sarah Westwood",
-    "title": "Seven things to watch in the Ohio and Indiana primaries"
+    "title": "Seven things to watch in the Ohio and Indiana primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5937,
+    "mediaId": 124,
+    "date": "d2022-05-03T08:39:10",
+    "sentence": "",
+    "author": "",
+    "title": "Ohio primaries to test Trumps power over the GOP base",
+    "sentiment": "0"
+  },
+  {
+    "id": 5918,
+    "mediaId": 129,
+    "date": "d2022-05-03T13:37:50",
+    "sentence": "",
+    "author": "",
+    "title": "G.O.P. Candidates Make Final Push in Ohios Closely Watched Senate Race",
+    "sentiment": "0"
   },
   {
     "id": 5781,
     "mediaId": 238,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T15:17",
     "sentence": "",
     "author": "",
-    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion"
+    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
+    "sentiment": "0"
   },
   {
     "id": 5748,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Downballot: Why progressives must build state power (transcript)"
+    "title": "The Downballot: Why progressives must build state power (transcript)",
+    "sentiment": "0.606"
   },
   {
     "id": 5691,
     "mediaId": 43,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "",
-    "title": "Highlights from The Downballot: Why building progressive state power is imperative"
+    "title": "Highlights from The Downballot: Why building progressive state power is imperative",
+    "sentiment": "0.471"
   }
 ]

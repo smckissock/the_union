@@ -2,17 +2,19 @@
   {
     "id": 5808,
     "mediaId": 409,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T06:30",
     "sentence": "",
     "author": "Jay Nordlinger",
-    "title": "Refuge in pluralism, &c."
+    "title": "Refuge in pluralism, &c.",
+    "sentiment": "0"
   },
   {
     "id": 5583,
     "mediaId": 129,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "",
-    "title": "What J.D. Vances Primary Win Says About Populism and Resentment in the G.O.P."
+    "title": "What J.D. Vances Primary Win Says About Populism and Resentment in the G.O.P.",
+    "sentiment": "0.668"
   }
 ]

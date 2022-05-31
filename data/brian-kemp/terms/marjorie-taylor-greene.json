@@ -2,49 +2,55 @@
   {
     "id": 5047,
     "mediaId": 157,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene\nWatrous said that after sitting on the steps for approximately 15 minutes, he walked away and met a woman who had a YouTube channel whom he told he had gone inside and there wasnt much to see.? The woman wanted to go inside the Capitol and Watrous stated he reentered the Capitol with her.?\nPerhaps sealing Watrous fate was this interchange with the judge, as reported by Syracuse.com:\nWatrous, who was seeking probation rather than jail, told Howell that he was 100% on the side of Capitol Police,? according to MacFarlane.",
     "author": "Ray Hartmann",
-    "title": "Capitol rioter gets smacked down by judge after claiming he was not 'part of that mob'"
-  },
-  {
-    "id": 1984,
-    "mediaId": 12,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin"
+    "title": "Capitol rioter gets smacked down by judge after claiming he was not 'part of that mob'",
+    "sentiment": "-0.796"
   },
   {
     "id": 5009,
     "mediaId": 136,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T11:43",
     "sentence": "2 hr ago 08:14 AM EDT\nTrump Blames Georgia Republicans for Taylor Greene 'Going Through Hell'\nFormer president Donald Trump has come to the rescue of Greene on Thursday, blaming Georgia's Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger to allow \"a horrible thing to happen to a very popular Republican.\"",
     "author": "Giulia Carbonaro",
-    "title": "Marjorie Taylor Greene Testimony Live: Opening Statements Underway"
+    "title": "Marjorie Taylor Greene Testimony Live: Opening Statements Underway",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 1984,
+    "mediaId": 12,
+    "date": "d2022-04-22T12:00",
+    "sentence": "",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
+    "sentiment": "0.522"
   },
   {
     "id": 4631,
     "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T19:50",
     "sentence": "\"The Governor of Georgia, <span class='selected-term'>Brian Kemp</span>, and Secretary of State, Brad Raffensperger, perhaps in collusion with the Radical Left Democrats, have allowed a horrible thing to happen to a very popular Republican, Congresswoman Marjorie Taylor Greene,\" Trump said in a statement Thursday.",
     "author": "Zoe Strozewski",
-    "title": "Brad Raffensperger Sides With Judge, Keeps Marjorie Taylor Greene on Ballot"
+    "title": "Brad Raffensperger Sides With Judge, Keeps Marjorie Taylor Greene on Ballot",
+    "sentiment": "0.0"
   },
   {
     "id": 7093,
     "mediaId": 409,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T06:30",
     "sentence": "They should renominate <span class='selected-term'>Brian Kemp</span> for a second term as governor.",
     "author": "The Editors",
-    "title": "Yes on Kemp, No on Greene"
+    "title": "Yes on Kemp, No on Greene",
+    "sentiment": "-0.635"
   },
   {
     "id": 7342,
     "mediaId": 136,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T01:15",
     "sentence": "Trump's biggest endorsement stake was in Georgia, where he endorsed challengers to two incumbentsRaffensperger and Governor <span class='selected-term'>Brian Kemp</span>as retaliation for their refusal to help him overturn the results of the 2020 presidential election.",
     "author": "Katherine Fung",
-    "title": "Marjorie Taylor Greene Wins GOP Primary and Is More Popular Than Ever"
+    "title": "Marjorie Taylor Greene Wins GOP Primary and Is More Popular Than Ever",
+    "sentiment": "0"
   }
 ]

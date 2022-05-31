@@ -2,25 +2,28 @@
   {
     "id": 2440,
     "mediaId": 367,
-    "date": "1/7/2022 12:00:00 AM",
+    "date": "d2022-01-07T00:00",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> and Alex Lasry, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
-    "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources"
+    "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources",
+    "sentiment": "0"
   },
   {
     "id": 2412,
     "mediaId": 195,
-    "date": "1/14/2022 12:00:00 AM",
+    "date": "d2022-01-14T12:31",
     "sentence": "Mandela Barnes (D) said in a statement that the only people celebrating the announcement were Johnson's \"donors and corporate special interests,\" while Outagamie County executive <span class='selected-term'>Tom Nelson</span> said in a statement Johnson has spent the last ten years \"catering to the ultra-wealthy millionaires and corporate interests.\"",
     "author": "Julia Manchester",
-    "title": "Senate Democrats' super PAC releases $1 million ad buy against Ron Johnson"
+    "title": "Senate Democrats' super PAC releases $1 million ad buy against Ron Johnson",
+    "sentiment": "0"
   },
   {
     "id": 2298,
     "mediaId": 237,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T16:49",
     "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; Alex Lasry, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and <span class='selected-term'>Tom Nelson</span>, current Outagamie County executive.",
     "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans"
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
+    "sentiment": "0.0"
   }
 ]

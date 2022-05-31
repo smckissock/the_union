@@ -1,10 +1,11 @@
 {
   "id": 2126,
   "mediaId": 12,
-  "date": "4/11/2022 12:00:00 AM",
+  "date": "d2022-04-11T12:00",
   "headline": "The Jolt: Brian Kemp tangles with grassroots hecklers yelling Liar!'",
   "image": "https://www.ajc.com/resizer/7IXq5qSLLIYotFiIwOlcclgyiJ8=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/23UQLTHKEUVVBQGJSVDNAF6XBM.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-brian-kemp-tangles-with-grassroots-hecklers-yelling-liar/OPZE3KGDERACLJALNTLNKBMYJE/",
+  "sentiment": "-0.721",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,7 +13,6 @@
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
     1463,
-    1646,
     1710,
     1951,
     2095,

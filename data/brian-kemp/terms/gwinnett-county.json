@@ -2,73 +2,82 @@
   {
     "id": 8194,
     "mediaId": 12,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T13:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Transgender sports ban introduced with high-powered support"
+    "title": "The Jolt: Transgender sports ban introduced with high-powered support",
+    "sentiment": "0"
   },
   {
     "id": 8190,
     "mediaId": 12,
-    "date": "2/3/2022 12:00:00 AM",
+    "date": "d2022-02-03T19:00",
     "sentence": "Both political parties acknowledge these demographic trends generally favor Democrats in a closely divided state, where Democrat Joe Biden won the 2020 presidential race by less than 12,000 votes after Republican <span class='selected-term'>Brian Kemp</span> prevailed in the 2018 gubernatorial contest by 55,000 votes.",
     "author": "Mark Niesse",
-    "title": "Sharp growth in Georgia voters alters landscape for 2022 elections"
-  },
-  {
-    "id": 5280,
-    "mediaId": 12,
-    "date": "4/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Ernie Suggs",
-    "title": "Black Atlanta women judges say Ketanji Brown Jackson scrutiny familiar"
+    "title": "Sharp growth in Georgia voters alters landscape for 2022 elections",
+    "sentiment": "-0.261"
   },
   {
     "id": 5288,
     "mediaId": 12,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T10:00",
     "sentence": "",
     "author": "Josh Reyes",
-    "title": "Gwinnett County school employees to receive bonuses"
+    "title": "Gwinnett County school employees to receive bonuses",
+    "sentiment": "0"
+  },
+  {
+    "id": 5280,
+    "mediaId": 12,
+    "date": "d2022-04-06T16:00",
+    "sentence": "",
+    "author": "Ernie Suggs",
+    "title": "Black Atlanta women judges say Ketanji Brown Jackson scrutiny familiar",
+    "sentiment": "0"
   },
   {
     "id": 5002,
     "mediaId": 12,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T16:00",
     "sentence": "",
     "author": "Zachary Hansen",
-    "title": "Metro Atlanta governments grapple with Juneteenths new holiday status"
-  },
-  {
-    "id": 7065,
-    "mediaId": 151,
-    "date": "5/21/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Georgia's Latino population keeps growing. Why are there so few in office?"
+    "title": "Metro Atlanta governments grapple with Juneteenths new holiday status",
+    "sentiment": "0"
   },
   {
     "id": 7531,
     "mediaId": 1576,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T00:00",
     "sentence": "I support many of President Trumps policies, and I know <span class='selected-term'>Brian Kemp</span> does, Ricketts said.",
     "author": "",
-    "title": "Kemp and Walker look to victory in Georgia as primaries near"
+    "title": "Kemp and Walker look to victory in Georgia as primaries near",
+    "sentiment": "0.208"
   },
   {
-    "id": 7240,
-    "mediaId": 65,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "\"<span class='selected-term'>Brian Kemp</span> just doesn't care.\"",
-    "author": "Jessica Chasmar",
-    "title": "Stacey Abrams says Georgia the worst state in the country to live, despite owning multiple houses there"
+    "id": 7065,
+    "mediaId": 151,
+    "date": "d2022-05-21T11:01",
+    "sentence": "",
+    "author": "",
+    "title": "Georgia's Latino population keeps growing. Why are there so few in office?",
+    "sentiment": "0"
   },
   {
     "id": 7260,
     "mediaId": 1576,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "Georgia voters showed us these 3 things about the fall election"
+    "title": "Georgia voters showed us these 3 things about the fall election",
+    "sentiment": "-0.795"
+  },
+  {
+    "id": 7240,
+    "mediaId": 65,
+    "date": "d2022-05-22T20:38",
+    "sentence": "\"<span class='selected-term'>Brian Kemp</span> just doesn't care.\"",
+    "author": "Jessica Chasmar",
+    "title": "Stacey Abrams says Georgia the worst state in the country to live, despite owning multiple houses there",
+    "sentiment": "-0.601"
   }
 ]

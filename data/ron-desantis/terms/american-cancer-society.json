@@ -2,9 +2,19 @@
   {
     "id": 3500,
     "mediaId": 21,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T18:00",
     "sentence": "\"It's something that you can beat,\" <span class='selected-term'>Ron DeSantis</span> said of a breast cancer diagnosis.",
     "author": "Kimberly Leonard",
-    "title": "Casey DeSantis says her husband, Florida Gov. Ron DeSantis, 'picked me up literally and figuratively' and went to all her chemo treatments"
+    "title": "Casey DeSantis says her husband, Florida Gov. Ron DeSantis, 'picked me up literally and figuratively' and went to all her chemo treatments",
+    "sentiment": "-0.318"
+  },
+  {
+    "id": 3500,
+    "mediaId": 21,
+    "date": "d2022-05-17T18:00",
+    "sentence": "\"It's something that you can beat,\" <span class='selected-term'>Ron DeSantis</span> said of a breast cancer diagnosis.",
+    "author": "Kimberly Leonard",
+    "title": "Casey DeSantis says her husband, Florida Gov. Ron DeSantis, 'picked me up literally and figuratively' and went to all her chemo treatments",
+    "sentiment": "0.0"
   }
 ]

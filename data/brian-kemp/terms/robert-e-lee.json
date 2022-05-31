@@ -2,17 +2,19 @@
   {
     "id": 5002,
     "mediaId": 12,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T16:00",
     "sentence": "",
     "author": "Zachary Hansen",
-    "title": "Metro Atlanta governments grapple with Juneteenths new holiday status"
+    "title": "Metro Atlanta governments grapple with Juneteenths new holiday status",
+    "sentiment": "0"
   },
   {
     "id": 4914,
     "mediaId": 43,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T00:00",
     "sentence": "Lets hear from Beau on Georgia\nThe debate between <span class='selected-term'>Brian Kemp</span> and David Perdue was quite a spectacle.",
     "author": "",
-    "title": "\"Try to Think What We Are Going to Do Ourselves\""
+    "title": "\"Try to Think What We Are Going to Do Ourselves\"",
+    "sentiment": "0.0"
   }
 ]

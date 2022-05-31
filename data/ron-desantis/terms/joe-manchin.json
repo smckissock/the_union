@@ -1,34 +1,65 @@
 [
   {
-    "id": 3828,
-    "mediaId": 195,
-    "date": "5/9/2022 12:00:00 AM",
+    "id": 3841,
+    "mediaId": 98,
+    "date": "d2022-05-09T00:00",
     "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Abortion tops agenda as lawmakers return"
+    "author": "",
+    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
+    "sentiment": "0"
   },
   {
     "id": 3841,
     "mediaId": 98,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T00:00",
     "sentence": "",
     "author": "",
-    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it"
+    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3828,
+    "mediaId": 195,
+    "date": "d2022-05-09T10:33",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Abortion tops agenda as lawmakers return",
+    "sentiment": "0.0"
   },
   {
     "id": 3557,
     "mediaId": 223,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:01",
     "sentence": "We need to get as high on that hierarchy as we can while still winning:\nRadical MAGA King (Think Trump, <span class='selected-term'>Ron DeSantis</span>, Mike Lee, Ted Cruz)\nNormal Republican (Think Murder Turtle and those interchangeable suits who always vote right)\nAnnoying RINO (Think Mitt Romney or Lindsey Graham or Oz)\nJeb!",
     "author": "Kurt Schlichter",
-    "title": "Conservatives, Stop Falling in Love with Politicians"
+    "title": "Conservatives, Stop Falling in Love with Politicians",
+    "sentiment": "0"
+  },
+  {
+    "id": 3557,
+    "mediaId": 223,
+    "date": "d2022-05-16T00:01",
+    "sentence": "We need to get as high on that hierarchy as we can while still winning:\nRadical MAGA King (Think Trump, <span class='selected-term'>Ron DeSantis</span>, Mike Lee, Ted Cruz)\nNormal Republican (Think Murder Turtle and those interchangeable suits who always vote right)\nAnnoying RINO (Think Mitt Romney or Lindsey Graham or Oz)\nJeb!",
+    "author": "Kurt Schlichter",
+    "title": "Conservatives, Stop Falling in Love with Politicians",
+    "sentiment": "0.0"
   },
   {
     "id": 3558,
     "mediaId": 223,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:01",
     "sentence": "",
     "author": "Scott Morefield",
-    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room"
+    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3558,
+    "mediaId": 223,
+    "date": "d2022-05-16T00:01",
+    "sentence": "",
+    "author": "Scott Morefield",
+    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room",
+    "sentiment": "0.331"
   }
 ]

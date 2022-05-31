@@ -1,26 +1,56 @@
 [
   {
-    "id": 4197,
-    "mediaId": 136,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "Calling Governor <span class='selected-term'>Ron DeSantis</span>' plan to dissolve Disney's self-governance district \"harebrained,\" a trio of Democratic Florida lawmakers spoke out against the move Monday, saying it could lead to higher taxes for the counties where Walt Disney World is located.",
-    "author": "Thomas Kika",
-    "title": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers"
+    "id": 4203,
+    "mediaId": 1067,
+    "date": "d2022-05-02T17:09",
+    "sentence": "",
+    "author": "Skyler Swisher",
+    "title": "Lawmakers suspect DeSantis wants to take control of Disney Worlds government",
+    "sentiment": "0"
   },
   {
     "id": 4203,
     "mediaId": 1067,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T17:09",
     "sentence": "",
     "author": "Skyler Swisher",
-    "title": "Lawmakers suspect DeSantis wants to take control of Disney Worlds government"
+    "title": "Lawmakers suspect DeSantis wants to take control of Disney Worlds government",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4197,
+    "mediaId": 136,
+    "date": "d2022-05-02T18:35",
+    "sentence": "Calling Governor <span class='selected-term'>Ron DeSantis</span>' plan to dissolve Disney's self-governance district \"harebrained,\" a trio of Democratic Florida lawmakers spoke out against the move Monday, saying it could lead to higher taxes for the counties where Walt Disney World is located.",
+    "author": "Thomas Kika",
+    "title": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers",
+    "sentiment": "0"
+  },
+  {
+    "id": 4197,
+    "mediaId": 136,
+    "date": "d2022-05-02T18:35",
+    "sentence": "Calling Governor <span class='selected-term'>Ron DeSantis</span>' plan to dissolve Disney's self-governance district \"harebrained,\" a trio of Democratic Florida lawmakers spoke out against the move Monday, saying it could lead to higher taxes for the counties where Walt Disney World is located.",
+    "author": "Thomas Kika",
+    "title": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers",
+    "sentiment": "0.0"
   },
   {
     "id": 3573,
     "mediaId": 1164,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "",
     "author": "Don Jacobson",
-    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district"
+    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
+    "sentiment": "0"
+  },
+  {
+    "id": 3573,
+    "mediaId": 1164,
+    "date": "d2022-05-16T00:00",
+    "sentence": "",
+    "author": "Don Jacobson",
+    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
+    "sentiment": "0.0"
   }
 ]

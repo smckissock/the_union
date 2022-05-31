@@ -2,17 +2,19 @@
   {
     "id": 8073,
     "mediaId": 12,
-    "date": "3/7/2022 12:00:00 AM",
+    "date": "d2022-03-07T13:00",
     "sentence": "Senate candidate <span class='selected-term'>Herschel Walker</span> wasnt the only big name to skip U.S. Rep. Marjorie Taylor Greenes pro-gun rally.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Prepare for surprises this week in Georgia politics"
+    "title": "The Jolt: Prepare for surprises this week in Georgia politics",
+    "sentiment": "-0.391"
   },
   {
     "id": 7505,
     "mediaId": 1576,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "AGRICULTURE COMMISSIONER\nAgriculture Commissioner Gary Black isnt seeking reelection, opting instead to run for U.S. Senate in the Republican primary that includes former football great <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
-    "title": "Incumbents in Georgia face primary opponents down the ballot"
+    "title": "Incumbents in Georgia face primary opponents down the ballot",
+    "sentiment": "0.0"
   }
 ]

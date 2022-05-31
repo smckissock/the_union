@@ -2,17 +2,19 @@
   {
     "id": 2050,
     "mediaId": 234,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T00:00",
     "sentence": "",
     "author": "",
-    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers"
+    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers",
+    "sentiment": "-0.457"
   },
   {
     "id": 6278,
     "mediaId": 124,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T02:35:01",
     "sentence": "",
     "author": "",
-    "title": "Trump-backed House candidate removed from ballot by Tenn. Republicans"
+    "title": "Trump-backed House candidate removed from ballot by Tenn. Republicans",
+    "sentiment": "0"
   }
 ]

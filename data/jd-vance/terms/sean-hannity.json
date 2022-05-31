@@ -2,73 +2,82 @@
   {
     "id": 8261,
     "mediaId": 43,
-    "date": "1/21/2022 12:00:00 AM",
+    "date": "d2022-01-21T00:00",
     "sentence": "",
     "author": "",
-    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar"
+    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
+    "sentiment": "0"
   },
   {
     "id": 5720,
     "mediaId": 238,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T12:59",
     "sentence": "",
     "author": "",
-    "title": "Live updates Abortion becomes central issue as Democrats draw contrast with GOP"
+    "title": "Live updates Abortion becomes central issue as Democrats draw contrast with GOP",
+    "sentiment": "0"
   },
   {
     "id": 5641,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T03:11",
     "sentence": "",
     "author": "Aila Slisco",
-    "title": "Donald Trump Mocks Biden's Stutter, Demands Cognitive Test at PA Rally"
-  },
-  {
-    "id": 5547,
-    "mediaId": 151,
-    "date": "5/13/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "GOP launches Operation Stop Barnette"
+    "title": "Donald Trump Mocks Biden's Stutter, Demands Cognitive Test at PA Rally",
+    "sentiment": "0"
   },
   {
     "id": 5549,
     "mediaId": 129,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "",
     "author": "",
-    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up"
+    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
+    "sentiment": "0"
+  },
+  {
+    "id": 5547,
+    "mediaId": 151,
+    "date": "d2022-05-13T01:11",
+    "sentence": "",
+    "author": "",
+    "title": "GOP launches Operation Stop Barnette",
+    "sentiment": "-0.526"
   },
   {
     "id": 5513,
     "mediaId": 238,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T20:51",
     "sentence": "",
     "author": "Aaron Blake",
-    "title": "How Trumps Dr. Oz endorsement could cost the GOP in Pennsylvania"
+    "title": "How Trumps Dr. Oz endorsement could cost the GOP in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 5500,
     "mediaId": 151,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:11",
     "sentence": "",
     "author": "",
-    "title": "Trump works overtime to push Dr. Oz over the finish line"
+    "title": "Trump works overtime to push Dr. Oz over the finish line",
+    "sentiment": "0"
   },
   {
     "id": 5501,
     "mediaId": 151,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:11",
     "sentence": "",
     "author": "",
-    "title": "Trump works overtime to push Dr. Oz over the finish line"
+    "title": "Trump works overtime to push Dr. Oz over the finish line",
+    "sentiment": "0"
   },
   {
     "id": 4461,
     "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T10:28",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Recount looms in Pennsylvania"
+    "title": "The Hills Morning Report  Recount looms in Pennsylvania",
+    "sentiment": "0"
   }
 ]

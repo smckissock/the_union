@@ -2,41 +2,46 @@
   {
     "id": 73,
     "mediaId": 43,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T00:00",
     "sentence": "Rep. <span class='selected-term'>Peter Meijer</span>, R-Mich., brought in eight times what his Trump-endorsed primary challenger secured last quarter, while Rep. Fred Upton, R-Mich., raised more than five times what Trump-backed state Rep. Steve Carra brought in from October through December.",
     "author": "",
-    "title": "Overnight News Digest February 1, 2022"
+    "title": "Overnight News Digest February 1, 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 63,
     "mediaId": 151,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T19:16",
     "sentence": "Fellow Michigan Republican Rep. <span class='selected-term'>Peter Meijer</span> raised $529,000.",
     "author": "",
-    "title": "House Republicans close money gap in hunt for the majority"
+    "title": "House Republicans close money gap in hunt for the majority",
+    "sentiment": "0.0"
   },
   {
     "id": 52,
     "mediaId": 129,
-    "date": "2/24/2022 12:00:00 AM",
+    "date": "d2022-02-24T00:00",
     "sentence": "Leader McCarthy is very astute, sharp and savvy,? said Representative <span class='selected-term'>Peter Meijer</span> of Michigan, another of the 10 Republicans who voted to impeach Mr. Trump.",
     "author": "",
-    "title": "Courting G.O.P.'s Mainstream and Extreme, McCarthy Plots Rise to Speaker"
+    "title": "Courting G.O.P.'s Mainstream and Extreme, McCarthy Plots Rise to Speaker",
+    "sentiment": "0.0"
   },
   {
     "id": 38,
     "mediaId": 237,
-    "date": "3/23/2022 12:00:00 AM",
+    "date": "d2022-03-23T21:02",
     "sentence": "That's nothing new  same thing happened last time.?\nTrump has come out against GOP Reps. Nancy Mace and Tom Rice of South Carolina, Jaime Herrera Beutler of Washington, and <span class='selected-term'>Peter Meijer</span> of Michigan, among others.",
     "author": "Juliegrace Brufke",
-    "title": "Kevin McCarthy not worried about Trump endorsements in GOP primaries"
+    "title": "Kevin McCarthy not worried about Trump endorsements in GOP primaries",
+    "sentiment": "0.0"
   },
   {
     "id": 3375,
     "mediaId": 238,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "), Tom Rice (S.C.), Dan Newhouse (Wash.), Jaime Herrera Beutler (Wash.), David G. Valadao (Calif.), and <span class='selected-term'>Peter Meijer</span> (Mich.) are running for reelection and facing tough primary challenges.",
     "author": "",
-    "title": "Senate primaries to watch"
+    "title": "Senate primaries to watch",
+    "sentiment": "0.0"
   }
 ]

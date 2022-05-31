@@ -2,9 +2,19 @@
   {
     "id": 3895,
     "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T21:30",
     "sentence": "Disney has faced other ridicule lately, namely from Florida Governor <span class='selected-term'>Ron DeSantis</span> regarding the \"Don't Say Gay\" law.",
     "author": "Nick Mordowanec",
-    "title": "Tweet Accuses Disney of 'Pure Greed' Thanks to Movie Screening Rules"
+    "title": "Tweet Accuses Disney of 'Pure Greed' Thanks to Movie Screening Rules",
+    "sentiment": "0"
+  },
+  {
+    "id": 3895,
+    "mediaId": 136,
+    "date": "d2022-05-06T21:30",
+    "sentence": "Disney has faced other ridicule lately, namely from Florida Governor <span class='selected-term'>Ron DeSantis</span> regarding the \"Don't Say Gay\" law.",
+    "author": "Nick Mordowanec",
+    "title": "Tweet Accuses Disney of 'Pure Greed' Thanks to Movie Screening Rules",
+    "sentiment": "0.0"
   }
 ]

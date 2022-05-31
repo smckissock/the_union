@@ -1,10 +1,11 @@
 {
   "id": 1852,
   "mediaId": 409,
-  "date": "4/29/2022 12:00:00 AM",
+  "date": "d2022-04-29T13:51",
   "headline": "Sparks Fly at Heated Georgia Debate Between Brian Kemp, David Perdue",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/02/cpac-2022-022722-8.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/sparks-fly-at-heated-georgia-debate-between-brian-kemp-david-perdue/",
+  "sentiment": "-0.406",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,7 +13,6 @@
   "authorUrl": "https://www.nationalreview.com/author/caroline-downey/",
   "termIds": [
     1147,
-    1646,
     1951,
     2095,
     2230,

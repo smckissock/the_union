@@ -2,17 +2,19 @@
   {
     "id": 8225,
     "mediaId": 237,
-    "date": "1/27/2022 12:00:00 AM",
+    "date": "d2022-01-27T16:22",
     "sentence": "So far, she has backed Starbuck, Collins, Vance, Georgia Senate candidate <span class='selected-term'>Herschel Walker</span>, Illinois Rep. Mary Miller, North Carolina House candidate Bo Hines, and Florida House candidate Anthony Sabatini.",
     "author": "Paul Bedard",
-    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support"
+    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
+    "sentiment": "0.437"
   },
   {
     "id": 5466,
     "mediaId": 129,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T15:50",
     "sentence": "In Georgias Senate race, Mr. Trumps support for <span class='selected-term'>Herschel Walker</span> kept serious rivals away.",
     "author": "",
-    "title": "Primaries Show Limits, and Depths, of Trumps Power Over G.O.P. Base"
+    "title": "Primaries Show Limits, and Depths, of Trumps Power Over G.O.P. Base",
+    "sentiment": "0"
   }
 ]

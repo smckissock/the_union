@@ -2,33 +2,37 @@
   {
     "id": 690,
     "mediaId": 129,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "Joe Kent, a Trump-backed Army Special Forces veteran prolific on social media and conservative talk shows, appeared to come closer to matching the fund-raising totals of his opponent, Representative <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, but still trailed her in both quarterly hauls and cash on hand.",
     "author": "",
-    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals"
+    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
+    "sentiment": "0.0"
   },
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T21:13",
     "sentence": "Republican women's group Maggie's List has thrown its support behind Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) as part of its latest round of endorsements first obtained by The Hill on Wednesday.",
     "author": "Julia Manchester",
-    "title": "GOP women's group endorses Herrera Beutler in primary race"
+    "title": "GOP women's group endorses Herrera Beutler in primary race",
+    "sentiment": "0.154"
   },
   {
     "id": 186,
     "mediaId": 129,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T00:00",
     "sentence": "He's not a real big digital guy, so we had printouts,? said Joe Kent, who has since won Mr. Trump's backing for his effort to unseat Representative <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, one of the 10 Republican impeachment votes.",
     "author": "",
-    "title": "Mar-a-Lago Machine: Trump as a Modern-Day Party Boss"
+    "title": "Mar-a-Lago Machine: Trump as a Modern-Day Party Boss",
+    "sentiment": "0.0"
   },
   {
     "id": 2214,
     "mediaId": 21,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T14:00",
     "sentence": "Kent is running in a primary challenge against Republican Rep. <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, who was one of 10 House Republicans to vote for Trump's second impeachment.",
     "author": "Jake Lahut",
-    "title": "Republican candidates seeking Trump's endorsement need to show him 'printouts' with 'big' fonts: 'He's not a real big digital guy'"
+    "title": "Republican candidates seeking Trump's endorsement need to show him 'printouts' with 'big' fonts: 'He's not a real big digital guy'",
+    "sentiment": "-0.672"
   }
 ]

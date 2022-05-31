@@ -1,10 +1,11 @@
 {
   "id": 6461,
   "mediaId": 43,
-  "date": "2/20/2022 12:00:00 AM",
+  "date": "d2022-02-20T00:00",
   "headline": "THIS WEEK IN CONGRESS: Senate Does The Absolute Minimum, Postal Service Bill Delayed & 1/6 Com.",
   "image": "https://images.dailykos.com/images/1039721/story_image/RickScott4.jpg?1645284167",
   "link": "https://www.dailykos.com/story/2022/2/20/2081117/-THIS-WEEK-IN-CONGRESS-Senate-Does-The-Absolute-Minimum-Postal-Service-Bill-Delayed-1-6-Com",
+  "sentiment": "0.0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     1055,
     2171,
-    3102,
     3810,
     428,
     545,

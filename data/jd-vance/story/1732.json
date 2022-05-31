@@ -1,10 +1,11 @@
 {
   "id": 1732,
   "mediaId": 195,
-  "date": "5/5/2022 12:00:00 AM",
+  "date": "d2022-05-05T12:30",
   "headline": "J.D. Vance's GOP primary victory in Ohio says little about Trump's endorsement power",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/MR_trumpdonald-vancejd_042422_ap-joe-maiorana.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/opinion/campaign/3478059-j-d-vances-primary-victory-says-little-about-trumps-endorsement-power/",
+  "sentiment": "-0.341",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -18,7 +19,6 @@
     1801,
     2027,
     2087,
-    2095,
     3103,
     428,
     2845

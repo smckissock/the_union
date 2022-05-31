@@ -2,81 +2,91 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 2439,
     "mediaId": 195,
-    "date": "1/7/2022 12:00:00 AM",
+    "date": "d2022-01-07T13:00",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Democrats look to diversify ranks in bid to keep Senate"
+    "title": "Democrats look to diversify ranks in bid to keep Senate",
+    "sentiment": "0.823"
   },
   {
     "id": 2409,
     "mediaId": 178,
-    "date": "1/19/2022 12:00:00 AM",
+    "date": "d2022-01-19T00:00",
     "sentence": "",
     "author": "Associated Press",
-    "title": "Democratic Senate candidate files election lawsuits"
+    "title": "Democratic Senate candidate files election lawsuits",
+    "sentiment": "0.0"
   },
   {
     "id": 2390,
     "mediaId": 238,
-    "date": "2/7/2022 12:00:00 AM",
+    "date": "d2022-02-07T00:00",
     "sentence": "",
     "author": "",
-    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race"
+    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
+    "sentiment": "-0.626"
   },
   {
     "id": 2386,
     "mediaId": 367,
-    "date": "2/23/2022 12:00:00 AM",
+    "date": "d2022-02-23T00:00",
     "sentence": "More:<span class='selected-term'>Mandela Barnes</span> raises $1.23 million during last 3 months of 2021 in Wisconsin U.S. Senate race\nIn joining the state treasurer race, Battino is expected to build on what she learned on the campaign trail over the past year, with voters raising concerns about such issues as rural broadband, health care and financial insecurity.",
     "author": "Bill Glauber",
-    "title": "Gillian Battino expected to leave Democratic U.S. Senate race and announce run for state treasurer"
+    "title": "Gillian Battino expected to leave Democratic U.S. Senate race and announce run for state treasurer",
+    "sentiment": "0"
   },
   {
     "id": 2385,
     "mediaId": 367,
-    "date": "2/24/2022 12:00:00 AM",
+    "date": "d2022-02-24T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race"
+    "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
+    "sentiment": "-0.684"
   },
   {
     "id": 2338,
     "mediaId": 367,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "The push for unionization has received support from Wisconsin Democrats U.S. Sen. Tammy Baldwin and Rep. Mark Pocan, as well as Democratic Senate candidates Alex Lasry and <span class='selected-term'>Mandela Barnes</span>, Wisconsin's lieutenant governor.",
     "author": "Piet Levy",
-    "title": "Employees of Pabst Theater Group in Milwaukee are trying to form a union"
+    "title": "Employees of Pabst Theater Group in Milwaukee are trying to form a union",
+    "sentiment": "0"
   },
   {
     "id": 2332,
     "mediaId": 238,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T11:45",
     "sentence": "",
     "author": "",
-    "title": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race"
+    "title": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race",
+    "sentiment": "-0.508"
   },
   {
     "id": 887,
     "mediaId": 675,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T16:16",
     "sentence": "",
     "author": "WND Staff",
-    "title": "Democrat tax scofflaw tells billionaires: 'Pay your taxes'"
+    "title": "Democrat tax scofflaw tells billionaires: 'Pay your taxes'",
+    "sentiment": "-0.876"
   },
   {
     "id": 2301,
     "mediaId": 367,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution"
+    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution",
+    "sentiment": "0.0"
   }
 ]

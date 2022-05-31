@@ -2,113 +2,127 @@
   {
     "id": 1031,
     "mediaId": 43,
-    "date": "1/3/2022 12:00:00 AM",
+    "date": "d2022-01-03T00:00",
     "sentence": "Monday, Jan 3, 2022  9:30:53 AM Pacific Standard Time  Jeff Singer\nMI-Gov: Conservative radio host <span class='selected-term'>Tudor Dixon</span> has earned the backing of Rep. Bill Huizenga ahead of the August Republican primary to face Democratic incumbent Gretchen Whitmer.",
     "author": "",
-    "title": "Daily Kos Elections Live Digest: 1/3"
+    "title": "Daily Kos Elections Live Digest: 1/3",
+    "sentiment": "0.0"
   },
   {
     "id": 1026,
     "mediaId": 19,
-    "date": "1/12/2022 12:00:00 AM",
+    "date": "d2022-01-12T00:00",
     "sentence": "Conservative media personality <span class='selected-term'>Tudor Dixon</span> came in fourth with about 14 percent of respondents recognizing her name.",
     "author": "Ashley Oliver",
-    "title": "Poll: Republicans Face Uphill Battle to Unseat Michigan Democrat Gov. Gretchen Whitmer"
+    "title": "Poll: Republicans Face Uphill Battle to Unseat Michigan Democrat Gov. Gretchen Whitmer",
+    "sentiment": "0.0"
   },
   {
     "id": 1024,
     "mediaId": 19,
-    "date": "1/13/2022 12:00:00 AM",
+    "date": "d2022-01-13T00:00",
     "sentence": "Both businessman Kevin Rinke and chiropractor Garrett Soldano each trail Whitmer by seven points, while conservative media personality <span class='selected-term'>Tudor Dixon</span> is ten points behind Whitmer.",
     "author": "Ashley Oliver",
-    "title": "Poll: Democrat Gretchen Whitmer Tied with Former Detroit Police Chief James Craig in Michigan Governor's Race"
+    "title": "Poll: Democrat Gretchen Whitmer Tied with Former Detroit Police Chief James Craig in Michigan Governor's Race",
+    "sentiment": "0"
   },
   {
     "id": 1006,
     "mediaId": 261,
-    "date": "1/27/2022 12:00:00 AM",
+    "date": "d2022-01-27T19:49",
     "sentence": "Other Republican candidates for Michigan governor are Oakland County businessman Kevin Rinke; Norton Shores businesswoman and conservative commentator <span class='selected-term'>Tudor Dixon</span>; Kalamazoo chiropractor Garrett Soldano; Michigan State Police Capt.",
     "author": "Paul Egan",
-    "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor"
+    "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor",
+    "sentiment": "0.0"
   },
   {
     "id": 949,
     "mediaId": 19,
-    "date": "2/25/2022 12:00:00 AM",
+    "date": "d2022-02-25T00:00",
     "sentence": "The poll also found that Kevin Rinke holds five percent of the vote, <span class='selected-term'>Tudor Dixon</span> and Ryan Kelly have four percent, and Perry Johnson and Mike Brown hold three percent.",
     "author": "Jacob Bliss",
-    "title": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals"
+    "title": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals",
+    "sentiment": "0.489"
   },
   {
     "id": 917,
     "mediaId": 157,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T00:00",
     "sentence": "There are 12 Republicans running for the GOP nomination in the August primary, including chiropractor Garrett Soldano, right-wing commentator <span class='selected-term'>Tudor Dixon</span>, former Detroit Police Chief James Craig, businessman Perry Johnson and businessman Kevin Rinke.",
     "author": "Allison R. Donahue",
-    "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case"
-  },
-  {
-    "id": 899,
-    "mediaId": 261,
-    "date": "4/19/2022 12:00:00 AM",
-    "sentence": "Mike Brown, of Stevensville, who submitted 21,837 signatures last Tuesday;\nNorton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, who submitted 29,735 signatures Tuesday;\nOakland County \"quality guru\" and businessman Perry Johnson, who submitted close to 23,000 signatures Tuesday;\nOttawa County real estate agent Ryan Kelley, who filed 20,100 signatures last Wednesday;\nGrand Haven financial adviser Michael Markey, who submitted 21,862 signatures March 18;\nFarmington Hills pastor Ralph Rebandt, who turned in 16,342 signatures last Tuesday;\nBloomfield Hills businessman Kevin Rinke, who filed 21,000 signatures on Monday, and\nKalamazoo chiropractor Garrett Soldano, who was the first to turn in his petition, when he submitted 20,200 signatures Jan. 19.",
-    "author": "Paul Egan",
-    "title": "Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says"
+    "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case",
+    "sentiment": "0.0"
   },
   {
     "id": 901,
     "mediaId": 157,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T00:00",
     "sentence": "Mike Brown; businesswomen Donna Brandeburg and <span class='selected-term'>Tudor Dixon</span>; businessman Perry Johnson; real estate agent Ryan Kelley; financial advisor Michael Markey; pastor Ralph Rebandt, businessman Kevin Rinke; and chiropractor Garrett Soldano.",
     "author": "Bob Brigham",
-    "title": "Meatgrinder' GOP Gov. primary in Michigan will leave nominee broke, bloodied, and disliked': expert"
+    "title": "Meatgrinder' GOP Gov. primary in Michigan will leave nominee broke, bloodied, and disliked': expert",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 899,
+    "mediaId": 261,
+    "date": "d2022-04-19T18:39",
+    "sentence": "Mike Brown, of Stevensville, who submitted 21,837 signatures last Tuesday;\nNorton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, who submitted 29,735 signatures Tuesday;\nOakland County \"quality guru\" and businessman Perry Johnson, who submitted close to 23,000 signatures Tuesday;\nOttawa County real estate agent Ryan Kelley, who filed 20,100 signatures last Wednesday;\nGrand Haven financial adviser Michael Markey, who submitted 21,862 signatures March 18;\nFarmington Hills pastor Ralph Rebandt, who turned in 16,342 signatures last Tuesday;\nBloomfield Hills businessman Kevin Rinke, who filed 21,000 signatures on Monday, and\nKalamazoo chiropractor Garrett Soldano, who was the first to turn in his petition, when he submitted 20,200 signatures Jan. 19.",
+    "author": "Paul Egan",
+    "title": "Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says",
+    "sentiment": "0.0"
   },
   {
     "id": 7,
     "mediaId": 43,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "Conservative radio host <span class='selected-term'>Tudor Dixon</span> doesn't have the same resources as her intra-party foes, but she sports endorsements from Reps. Bill Huizenga and Lisa McClain.",
     "author": "",
-    "title": "Daily Kos Elections Live Digest: 4/22"
+    "title": "Daily Kos Elections Live Digest: 4/22",
+    "sentiment": "0.0"
   },
   {
     "id": 881,
     "mediaId": 261,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T12:14",
     "sentence": "The challenges against former Detroit Police Chief James Craig, conservative commentator <span class='selected-term'>Tudor Dixon</span> and Oakland County businessman Perry Johnson could threaten their candidacies if successful.",
     "author": "Clara Hendrickson",
-    "title": "Michigan GOP candidates hoping to unseat Whitmer face challenges to nominating petitions"
+    "title": "Michigan GOP candidates hoping to unseat Whitmer face challenges to nominating petitions",
+    "sentiment": "0.0"
   },
   {
     "id": 877,
     "mediaId": 124,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T23:11:38",
     "sentence": "In a trio of complaints filed this week, attorneys working with the state Democratic Party said they found problems with the nominating petitions filed by former Detroit police chief James Craig, businessman Perry Johnson and conservative commentator <span class='selected-term'>Tudor Dixon</span>  enough to disqualify all three from the Aug. 2 primary, they argue.",
     "author": "",
-    "title": "Michigan Democrats accuse GOP candidates of using forged signatures to get on ballot"
+    "title": "Michigan Democrats accuse GOP candidates of using forged signatures to get on ballot",
+    "sentiment": "0.0"
   },
   {
     "id": 861,
     "mediaId": 19,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "Craig is the current frontrunner in the Republican primary, but the primary field is packed with other candidates, including chiropractor Garrett Soldano, businessman Perry Johnson, real estate broker and activist Ryan Kelley, conservative commentator <span class='selected-term'>Tudor Dixon</span>, and former car dealership owner Kevin Rinke.",
     "author": "Ashley Oliver",
-    "title": "Poll: Michigan Democrat Gretchen Whitmer Trails Republican on Generic Ballot for Governor's Race"
+    "title": "Poll: Michigan Democrat Gretchen Whitmer Trails Republican on Generic Ballot for Governor's Race",
+    "sentiment": "0.0"
   },
   {
     "id": 3296,
     "mediaId": 261,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T18:19",
     "sentence": "Craig's campaign faces two challenges  one from a Michigan resident represented by lawyer and former Michigan Democratic Party Chair Mark Brewer and another from Michigan Strong PAC, a conservative group supporting GOP gubernatorial candidate <span class='selected-term'>Tudor Dixon</span>'s campaign.",
     "author": "Paul Egan",
-    "title": "James Craig acknowledges possible fraud in signature gathering for his petition"
+    "title": "James Craig acknowledges possible fraud in signature gathering for his petition",
+    "sentiment": "0.0"
   },
   {
     "id": 7301,
     "mediaId": 98,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:03",
     "sentence": "Another GOP candidate, <span class='selected-term'>Tudor Dixon</span>, had also contested Craig's voter signatures as fake.",
     "author": "DAVID EGGERT",
-    "title": "Primary problem: Michigan GOP governor candidates short signatures"
+    "title": "Primary problem: Michigan GOP governor candidates short signatures",
+    "sentiment": "0.0"
   }
 ]

@@ -1,10 +1,11 @@
 {
   "id": 6400,
   "mediaId": 25,
-  "date": "4/15/2022 12:00:00 AM",
+  "date": "d2022-04-15T00:00",
   "headline": "J.D. Vance lands Donald Trump's endorsement for Ohio Senate GOP race",
   "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/04/15/f42000e9-4ccd-4846-9c72-29b7a7b201d0/thumbnail/620x413/7beefcf42e0e90aff80f430e58d3d4b2/gettyimages-1239922215.jpg",
   "link": "https://www.cbsnews.com/news/j-d-vance-trump-endorsement-for-ohio-senate-gop-race/",
+  "sentiment": "0.21",
   "mediaOutlet": "cbs news",
   "biasRatingId": 1,
   "wordCount": 0,

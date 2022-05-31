@@ -1,26 +1,29 @@
 [
   {
-    "id": 6633,
-    "mediaId": 136,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "\"After 8 years of the disastrous policies of Tom Wolf, Republican voters in Pennsylvania have chosen <span class='selected-term'>Doug Mastriano</span> as their nominee for Governor,\" RGA Executive Director Dave Rexrode said after the gubernatorial primary.",
-    "author": "Katherine Fung",
-    "title": "Donald Trump Scored Key Ally for 2024 Election Last Night"
-  },
-  {
     "id": 6677,
     "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T01:53",
     "sentence": "Instead of focusing on kitchen-table issues like strengthening the economy and investing in education, <span class='selected-term'>Doug Mastriano</span> is an extremist running on a dangerous agenda that would devastate Pennsylvania families,? said Democratic Governors Association Executive Director Noam Lee.",
     "author": "Tal Axelrod",
-    "title": "Mastriano wins Pennsylvania GOP governor primary despite party concerns"
+    "title": "Mastriano wins Pennsylvania GOP governor primary despite party concerns",
+    "sentiment": "-0.73"
+  },
+  {
+    "id": 6633,
+    "mediaId": 136,
+    "date": "d2022-05-18T15:04",
+    "sentence": "\"After 8 years of the disastrous policies of Tom Wolf, Republican voters in Pennsylvania have chosen <span class='selected-term'>Doug Mastriano</span> as their nominee for Governor,\" RGA Executive Director Dave Rexrode said after the gubernatorial primary.",
+    "author": "Katherine Fung",
+    "title": "Donald Trump Scored Key Ally for 2024 Election Last Night",
+    "sentiment": "0.563"
   },
   {
     "id": 7207,
     "mediaId": 157,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "With the former president currently enduring a mixed bag of his endorsees both winning (Pennsylvania's <span class='selected-term'>Doug Mastriano</span>) and losing (Rep. Madison Cawthorn (R-NC) their primary bids, the report states GOP governors met back in November to make plans to protect their own.",
     "author": "Tom Boggioni",
-    "title": "GOP governors hatched a plan to undercut Trump's interference in elections: report"
+    "title": "GOP governors hatched a plan to undercut Trump's interference in elections: report",
+    "sentiment": "0.0"
   }
 ]

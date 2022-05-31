@@ -2,89 +2,136 @@
   {
     "id": 5260,
     "mediaId": 129,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T23:09",
     "sentence": "Donald Trump will talk about how, oh, <span class='selected-term'>Ron DeSantis</span> is fine, but I would absolutely beat him in 2024.",
     "author": "",
-    "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics"
-  },
-  {
-    "id": 4356,
-    "mediaId": 223,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
-    "author": "Rebecca Downs",
-    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation"
+    "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics",
+    "sentiment": "0.0"
   },
   {
     "id": 4380,
     "mediaId": 65,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T16:23",
     "sentence": "",
     "author": "Andrew Mark Miller",
-    "title": "DeSantis: 'We will be fighting back' against Biden disinformation board, won't let him 'get away' with it"
+    "title": "DeSantis: 'We will be fighting back' against Biden disinformation board, won't let him 'get away' with it",
+    "sentiment": "0"
+  },
+  {
+    "id": 4380,
+    "mediaId": 65,
+    "date": "d2022-04-29T16:23",
+    "sentence": "",
+    "author": "Andrew Mark Miller",
+    "title": "DeSantis: 'We will be fighting back' against Biden disinformation board, won't let him 'get away' with it",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4356,
+    "mediaId": 223,
+    "date": "d2022-04-29T21:20",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
+    "author": "Rebecca Downs",
+    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation",
+    "sentiment": "0"
+  },
+  {
+    "id": 4356,
+    "mediaId": 223,
+    "date": "d2022-04-29T21:20",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
+    "author": "Rebecca Downs",
+    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation",
+    "sentiment": "0.0"
   },
   {
     "id": 4334,
     "mediaId": 65,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T10:03",
     "sentence": "",
     "author": "Kelly Laco",
-    "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in"
+    "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in",
+    "sentiment": "0.0"
   },
   {
     "id": 4315,
     "mediaId": 234,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "He went on to skewer FOX anchors; former CNN host Chris Cuomo; anything to do with CNN +, which shuttered within a month of its launch; and Floridas Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Terry Moseley",
-    "title": "The Nations Most Distinguished Superspreader Event: The White House Correspondents Dinner Returns"
+    "title": "The Nations Most Distinguished Superspreader Event: The White House Correspondents Dinner Returns",
+    "sentiment": "0.0"
   },
   {
     "id": 4323,
     "mediaId": 43,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
     "author": "",
-    "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be"
+    "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
+    "sentiment": "0"
+  },
+  {
+    "id": 4323,
+    "mediaId": 43,
+    "date": "d2022-05-01T00:00",
+    "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
+    "author": "",
+    "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
+    "sentiment": "0.0"
   },
   {
     "id": 4232,
     "mediaId": 238,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T11:45",
     "sentence": "",
     "author": "",
-    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be"
+    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
+    "sentiment": "0"
   },
   {
-    "id": 4108,
-    "mediaId": 718,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "En Florida, que ha sido testigo de algunos de los peores asesinatos en masa de aos recientes, el gobernador <span class='selected-term'>Ron DeSantis</span>, ansioso por convertirse en el sucesor de Trump, ha prometido ofrecer lo mismo al lobby de las armas.",
-    "author": "Jesse Jackson",
-    "title": "Columna: La violencia armada aumenta cuando aumenta el acceso a las armas"
-  },
-  {
-    "id": 4143,
-    "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "Tension between businesses and politicians may intensify\nDisneys recent battles with <span class='selected-term'>Ron DeSantis</span>, Floridas Republican governor, over a law prohibiting discussion of gender identity in some public schools cost the company its special tax privileges and good will from key Republicans.",
+    "id": 4232,
+    "mediaId": 238,
+    "date": "d2022-05-02T11:45",
+    "sentence": "",
     "author": "",
-    "title": "Supreme Court Live Updates: Supreme Court Confirms Leaked Opinion But Says the Draft Is Not a Final Decision"
+    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
+    "sentiment": "0.0"
   },
   {
     "id": 4154,
     "mediaId": 718,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T01:00",
     "sentence": "",
     "author": "Jesse Jackson",
-    "title": "Gun violence rises as access to guns rises"
+    "title": "Gun violence rises as access to guns rises",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4143,
+    "mediaId": 129,
+    "date": "d2022-05-03T09:22:53",
+    "sentence": "Tension between businesses and politicians may intensify\nDisneys recent battles with <span class='selected-term'>Ron DeSantis</span>, Floridas Republican governor, over a law prohibiting discussion of gender identity in some public schools cost the company its special tax privileges and good will from key Republicans.",
+    "author": "",
+    "title": "Supreme Court Live Updates: Supreme Court Confirms Leaked Opinion But Says the Draft Is Not a Final Decision",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4108,
+    "mediaId": 718,
+    "date": "d2022-05-03T19:49",
+    "sentence": "En Florida, que ha sido testigo de algunos de los peores asesinatos en masa de aos recientes, el gobernador <span class='selected-term'>Ron DeSantis</span>, ansioso por convertirse en el sucesor de Trump, ha prometido ofrecer lo mismo al lobby de las armas.",
+    "author": "Jesse Jackson",
+    "title": "Columna: La violencia armada aumenta cuando aumenta el acceso a las armas",
+    "sentiment": "0.0"
   },
   {
     "id": 6522,
     "mediaId": 376,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T14:30",
     "sentence": "",
     "author": "Stephanie Akin\nKate Ackley\nMary Ellen McIntire",
-    "title": "At the Races: NY state of turmoil"
+    "title": "At the Races: NY state of turmoil",
+    "sentiment": "0.0"
   }
 ]

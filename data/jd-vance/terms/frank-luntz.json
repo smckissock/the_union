@@ -1,18 +1,20 @@
 [
   {
-    "id": 735,
-    "mediaId": 21,
-    "date": "1/25/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jake Lahut",
-    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique"
-  },
-  {
     "id": 736,
     "mediaId": 21,
-    "date": "1/25/2022 12:00:00 AM",
+    "date": "d2022-01-25T13:52",
     "sentence": "",
     "author": "Jake Lahut",
-    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique"
+    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
+    "sentiment": "0.655"
+  },
+  {
+    "id": 735,
+    "mediaId": 21,
+    "date": "d2022-01-25T21:00",
+    "sentence": "",
+    "author": "Jake Lahut",
+    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
+    "sentiment": "0.402"
   }
 ]

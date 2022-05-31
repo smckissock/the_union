@@ -2,25 +2,28 @@
   {
     "id": 6113,
     "mediaId": 19,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T00:00",
     "sentence": "",
     "author": "Paul Bois",
-    "title": "Donald Trump Endorses Sheriff Joe Lombardo for Nevada Governor"
+    "title": "Donald Trump Endorses Sheriff Joe Lombardo for Nevada Governor",
+    "sentiment": "0"
   },
   {
     "id": 5728,
     "mediaId": 237,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T06:00",
     "sentence": "",
     "author": "David M. Drucker",
-    "title": "Midterm Memo: Financier Peter Thiel and pollster Tony Fabrizio boosted by Vance win"
+    "title": "Midterm Memo: Financier Peter Thiel and pollster Tony Fabrizio boosted by Vance win",
+    "sentiment": "0.592"
   },
   {
     "id": 5527,
     "mediaId": 136,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T21:33",
     "sentence": "",
     "author": "Andrew Stanton",
-    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill"
+    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill",
+    "sentiment": "0"
   }
 ]

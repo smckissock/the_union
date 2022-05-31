@@ -2,17 +2,19 @@
   {
     "id": 6455,
     "mediaId": 43,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T00:00",
     "sentence": "",
     "author": "",
-    "title": "Morning Digest: Longtime congressman will retire rather than face"
+    "title": "Morning Digest: Longtime congressman will retire rather than face",
+    "sentiment": "0"
   },
   {
     "id": 5875,
     "mediaId": 43,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Morning Digest: Trump's guy won the Ohio Senate"
+    "title": "Morning Digest: Trump's guy won the Ohio Senate",
+    "sentiment": "-0.246"
   }
 ]

@@ -2,25 +2,37 @@
   {
     "id": 4385,
     "mediaId": 558,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T16:00",
     "sentence": "Heilemann and Sorkin discuss the two enormous business stories dominating headlines: the stunning $44 billion acquisition of Twitter by SpaceX and Tesla CEO Elon Musk, whose roughly $275 billion net worth makes him the worlds richest person, and the Walt Disney Companys increasing embroilment in the culture wars, particularly as a whipping boy for <span class='selected-term'>Ron DeSantis</span>, the Republican governor of Florida.",
     "author": "",
-    "title": "Billions Co-creator Andrew Ross Sorkin on the Shows New Direction"
+    "title": "Billions Co-creator Andrew Ross Sorkin on the Shows New Direction",
+    "sentiment": "0.0"
   },
   {
     "id": 4387,
     "mediaId": 558,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T16:00",
     "sentence": "Heilemann and Sorkin discuss the two enormous business stories dominating headlines: the stunning $44 billion acquisition of Twitter by SpaceX and Tesla CEO Elon Musk, whose roughly $275 billion net worth makes him the worlds richest person, and the Walt Disney Companys increasing embroilment in the culture wars, particularly as a whipping boy for <span class='selected-term'>Ron DeSantis</span>, the Republican governor of Florida.",
     "author": "",
-    "title": "Andrew Ross Sorkin on the Biggest Stories in Business"
+    "title": "Andrew Ross Sorkin on the Biggest Stories in Business",
+    "sentiment": "0.0"
   },
   {
     "id": 4280,
     "mediaId": 558,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T21:00",
     "sentence": "Heilemann and Sorkin discuss how Walt Disney Company found itself at the center of Americas culture wars, what Florida governor <span class='selected-term'>Ron DeSantis</span> seeks to gain from punishing Disney over its opposition to the states so-called Dont Say Gay? law, and the increasingly strained relationship between Republicans and corporate America.",
     "author": "",
-    "title": "Gov. Ron DeSantis May Lose to Disney  But Win With Voters"
+    "title": "Gov. Ron DeSantis May Lose to Disney  But Win With Voters",
+    "sentiment": "0"
+  },
+  {
+    "id": 4280,
+    "mediaId": 558,
+    "date": "d2022-05-01T21:00",
+    "sentence": "Heilemann and Sorkin discuss how Walt Disney Company found itself at the center of Americas culture wars, what Florida governor <span class='selected-term'>Ron DeSantis</span> seeks to gain from punishing Disney over its opposition to the states so-called Dont Say Gay? law, and the increasingly strained relationship between Republicans and corporate America.",
+    "author": "",
+    "title": "Gov. Ron DeSantis May Lose to Disney  But Win With Voters",
+    "sentiment": "0.0"
   }
 ]

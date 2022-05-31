@@ -1,42 +1,65 @@
 [
   {
-    "id": 4286,
-    "mediaId": 98,
-    "date": "5/1/2022 12:00:00 AM",
-    "sentence": "That should have been a pretty big sign.?\nThroughout his 25-minute performance, Noah managed to lampoon a striking number of media and political figures  including but not limited to Donald Trump, Jeffrey Toobin, Tucker Carlson, Laura Ingraham, Chris Cuomo, Kyrsten Sinema, Kellyanne Conway, Madison Cawthorn, <span class='selected-term'>Ron DeSantis</span>, Jen Psaki, First Lady Jill Biden and of course, President Joe Biden.",
-    "author": "Christi CarrasStaff Writer",
-    "title": "Trevor Noah roasts pretty much everyone at White House Correspondents Dinner"
+    "id": 4310,
+    "mediaId": 195,
+    "date": "d2022-05-01T04:09",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
+    "author": "Judy Kurtz",
+    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
+    "sentiment": "0"
   },
   {
     "id": 4310,
     "mediaId": 195,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T04:09",
     "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
     "author": "Judy Kurtz",
-    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks"
+    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4286,
+    "mediaId": 98,
+    "date": "d2022-05-01T18:16",
+    "sentence": "That should have been a pretty big sign.?\nThroughout his 25-minute performance, Noah managed to lampoon a striking number of media and political figures  including but not limited to Donald Trump, Jeffrey Toobin, Tucker Carlson, Laura Ingraham, Chris Cuomo, Kyrsten Sinema, Kellyanne Conway, Madison Cawthorn, <span class='selected-term'>Ron DeSantis</span>, Jen Psaki, First Lady Jill Biden and of course, President Joe Biden.",
+    "author": "Christi CarrasStaff Writer",
+    "title": "Trevor Noah roasts pretty much everyone at White House Correspondents Dinner",
+    "sentiment": "0.0"
   },
   {
     "id": 3883,
     "mediaId": 237,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T07:00",
     "sentence": "",
     "author": "Washington Examiner Staff",
-    "title": "'Ultra-MAGA agenda': Quotes of the Week"
+    "title": "'Ultra-MAGA agenda': Quotes of the Week",
+    "sentiment": "0.0"
   },
   {
     "id": 3581,
     "mediaId": 136,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T13:00",
     "sentence": "Looking towards the top of the ticket, Democrats have privately acknowledged that while Republican Governor <span class='selected-term'>Ron DeSantis</span> will likely sail to reelection, they see Demings as someone who has a shot at defeating Rubio, no matter how difficult the fight.",
     "author": "Adrian Carrasquillo",
-    "title": "Can Val Demings Defeat Marco Rubio and Overcome Democrats' Florida Malaise?"
+    "title": "Can Val Demings Defeat Marco Rubio and Overcome Democrats' Florida Malaise?",
+    "sentiment": "0.0"
   },
   {
     "id": 3558,
     "mediaId": 223,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:01",
     "sentence": "",
     "author": "Scott Morefield",
-    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room"
+    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3558,
+    "mediaId": 223,
+    "date": "d2022-05-16T00:01",
+    "sentence": "",
+    "author": "Scott Morefield",
+    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room",
+    "sentiment": "0.331"
   }
 ]

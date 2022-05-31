@@ -1,58 +1,65 @@
 [
   {
-    "id": 6824,
-    "mediaId": 558,
-    "date": "5/14/2022 12:00:00 AM",
-    "sentence": "When asked to clarify his views on abortion in the Saturday interview, Oz distanced himself from for Pennsylvania governor, <span class='selected-term'>Doug Mastriano</span>, a far-right conservative who has called abortion the No.",
-    "author": "STEVE PEOPLES",
-    "title": "'Reprehensible': Oz condemns GOP opponent's tweet on Islam"
-  },
-  {
     "id": 6834,
     "mediaId": 223,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T10:45",
     "sentence": "President Donald J. Trump announces his Endorsement of <span class='selected-term'>Doug Mastriano</span> for Governor of Pennsylvania pic.twitter.com/HrGKVKb7BY\n Liz Harrington (@realLizUSA) May 14, 2022\nAs I highlighted last July, Mastriano had initiated a forensic audit of the 2020 presidential election, which he outlined in an op-ed posted to his official Senate website.",
     "author": "Rebecca Downs",
-    "title": "Donald Trump Made His Endorsement in the PA Gubernatorial Race and People Definitely Have Thoughts"
+    "title": "Donald Trump Made His Endorsement in the PA Gubernatorial Race and People Definitely Have Thoughts",
+    "sentiment": "0.157"
   },
   {
-    "id": 6811,
-    "mediaId": 21,
-    "date": "5/15/2022 12:00:00 AM",
-    "sentence": "Barnette has been endorsed by former National Security Adviser Michael Flynn, Pennsylvania Senator <span class='selected-term'>Doug Mastriano</span>, the Club for Growth, and the anti-abortion group Susan B. Anthony List.",
-    "author": "Hannah Getahun",
-    "title": "Dr. Oz called out an Islamophobic tweet from a GOP opponent who said 'Pedophilia is a Cornerstone of Islam'"
+    "id": 6824,
+    "mediaId": 558,
+    "date": "d2022-05-14T16:12",
+    "sentence": "When asked to clarify his views on abortion in the Saturday interview, Oz distanced himself from for Pennsylvania governor, <span class='selected-term'>Doug Mastriano</span>, a far-right conservative who has called abortion the No.",
+    "author": "STEVE PEOPLES",
+    "title": "'Reprehensible': Oz condemns GOP opponent's tweet on Islam",
+    "sentiment": "0"
   },
   {
     "id": 6813,
     "mediaId": 195,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:14",
     "sentence": "When asked to clarify his views on abortion in the Saturday interview, Oz distanced himself from Trumps newly minted pick for Pennsylvania governor, <span class='selected-term'>Doug Mastriano</span>, a far-right conservative who has called abortion the No.",
     "author": "",
-    "title": "Reprehensible: Oz condemns GOP opponents tweet on Islam"
+    "title": "Reprehensible: Oz condemns GOP opponents tweet on Islam",
+    "sentiment": "0.0"
   },
   {
-    "id": 6716,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "The former president also endorsed <span class='selected-term'>Doug Mastriano</span>, a far-right loyalist who has promoted conspiracy theories and is the leading Republican candidate for governor.",
-    "author": "",
-    "title": "Your Tuesday Evening Briefing"
+    "id": 6811,
+    "mediaId": 21,
+    "date": "d2022-05-15T03:00",
+    "sentence": "Barnette has been endorsed by former National Security Adviser Michael Flynn, Pennsylvania Senator <span class='selected-term'>Doug Mastriano</span>, the Club for Growth, and the anti-abortion group Susan B. Anthony List.",
+    "author": "Hannah Getahun",
+    "title": "Dr. Oz called out an Islamophobic tweet from a GOP opponent who said 'Pedophilia is a Cornerstone of Islam'",
+    "sentiment": "0.0"
   },
   {
     "id": 6739,
     "mediaId": 195,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T14:08",
     "sentence": "On Saturday, former President Trump announced his endorsement of state Sen. <span class='selected-term'>Doug Mastriano</span>.",
     "author": "Maureen Breslin",
-    "title": "Pennsylvania gubernatorial candidate Josh Shapiro tests positive for COVID-19"
+    "title": "Pennsylvania gubernatorial candidate Josh Shapiro tests positive for COVID-19",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6716,
+    "mediaId": 129,
+    "date": "d2022-05-17T22:48",
+    "sentence": "The former president also endorsed <span class='selected-term'>Doug Mastriano</span>, a far-right loyalist who has promoted conspiracy theories and is the leading Republican candidate for governor.",
+    "author": "",
+    "title": "Your Tuesday Evening Briefing",
+    "sentiment": "0"
   },
   {
     "id": 6706,
     "mediaId": 188,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "In the state's gubernatorial contest, Democratic Attorney General Josh Shapiro will face Republican State Sen. <span class='selected-term'>Doug Mastriano</span>.",
     "author": "Chris Pandolfo",
-    "title": "Pennsylvania GOP Senate race appears to be headed for a recount"
+    "title": "Pennsylvania GOP Senate race appears to be headed for a recount",
+    "sentiment": "0.0"
   }
 ]

@@ -2,73 +2,118 @@
   {
     "id": 4031,
     "mediaId": 120,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T20:21",
     "sentence": "",
     "author": "Ja'han Jones",
-    "title": "The group behind some of DeSantis' most draconian measures"
+    "title": "The group behind some of DeSantis' most draconian measures",
+    "sentiment": "0"
+  },
+  {
+    "id": 4031,
+    "mediaId": 120,
+    "date": "d2022-05-04T20:21",
+    "sentence": "",
+    "author": "Ja'han Jones",
+    "title": "The group behind some of DeSantis' most draconian measures",
+    "sentiment": "0.0"
   },
   {
     "id": 3966,
     "mediaId": 129,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "Right now, Republicans of all stripes  <span class='selected-term'>Ron DeSantis</span>, J.D.",
     "author": "",
-    "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It."
+    "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It.",
+    "sentiment": "0.0"
   },
   {
     "id": 3831,
     "mediaId": 195,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T10:00",
     "sentence": "",
     "author": "Juan Williams",
-    "title": "Juan Williams: Biden is right to call out GOP as extreme on abortion"
+    "title": "Juan Williams: Biden is right to call out GOP as extreme on abortion",
+    "sentiment": "0.0"
   },
   {
     "id": 3604,
     "mediaId": 147,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T22:35",
     "sentence": "You could be looking  there are any number of scenarios, but you could be looking at a match, say, between the Florida governor, <span class='selected-term'>Ron DeSantis</span>, and, say, Elizabeth Warren of Massachusetts.",
     "author": "PBS NewsHour",
-    "title": "Former presidential adviser David Gergen discusses leadership and the next generation"
+    "title": "Former presidential adviser David Gergen discusses leadership and the next generation",
+    "sentiment": "0.0"
   },
   {
     "id": 3382,
     "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T04:01",
     "sentence": "",
     "author": "",
-    "title": "10 Republican Voters in Swing States on Trumps Hold on the Party"
+    "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
+    "sentiment": "0.0"
   },
   {
     "id": 3506,
     "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T11:00",
     "sentence": "",
     "author": "Hugh Hewitt",
-    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing"
+    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3506,
+    "mediaId": 238,
+    "date": "d2022-05-17T11:00",
+    "sentence": "",
+    "author": "Hugh Hewitt",
+    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
+    "sentiment": "0.607"
   },
   {
     "id": 6607,
     "mediaId": 129,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "Thats clear not only from the results of the primary contests thus far but also from the talking points and battle cries beyond them  from, for example, the governors mansion in Florida, where <span class='selected-term'>Ron DeSantis</span> plots and executes his plan for emerging as the new leader of the Republican Party.",
     "author": "",
-    "title": "David Graham pondered"
+    "title": "David Graham pondered",
+    "sentiment": "0"
   },
   {
-    "id": 7121,
-    "mediaId": 223,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "DeSantis & @FLCaseyDeSantis Fund $100M for Cancer Centers https://t.co/i4hqlsCtN4\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 17, 2022\nEarly detection is a game changer in the cancer fight.",
-    "author": "Rebecca Downs",
-    "title": "EXCLUSIVE: Casey DeSantis Receives Humanitarian Award at House of Hope"
+    "id": 6607,
+    "mediaId": 129,
+    "date": "d2022-05-19T00:00",
+    "sentence": "Thats clear not only from the results of the primary contests thus far but also from the talking points and battle cries beyond them  from, for example, the governors mansion in Florida, where <span class='selected-term'>Ron DeSantis</span> plots and executes his plan for emerging as the new leader of the Republican Party.",
+    "author": "",
+    "title": "David Graham pondered",
+    "sentiment": "0.0"
   },
   {
     "id": 7130,
     "mediaId": 302,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T10:00:06",
     "sentence": "",
     "author": "",
-    "title": "Floridas focus on math textbooks may be nothing compared to whats next"
+    "title": "Floridas focus on math textbooks may be nothing compared to whats next",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7121,
+    "mediaId": 223,
+    "date": "d2022-05-20T17:00",
+    "sentence": "DeSantis & @FLCaseyDeSantis Fund $100M for Cancer Centers https://t.co/i4hqlsCtN4\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 17, 2022\nEarly detection is a game changer in the cancer fight.",
+    "author": "Rebecca Downs",
+    "title": "EXCLUSIVE: Casey DeSantis Receives Humanitarian Award at House of Hope",
+    "sentiment": "0"
+  },
+  {
+    "id": 7121,
+    "mediaId": 223,
+    "date": "d2022-05-20T17:00",
+    "sentence": "DeSantis & @FLCaseyDeSantis Fund $100M for Cancer Centers https://t.co/i4hqlsCtN4\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 17, 2022\nEarly detection is a game changer in the cancer fight.",
+    "author": "Rebecca Downs",
+    "title": "EXCLUSIVE: Casey DeSantis Receives Humanitarian Award at House of Hope",
+    "sentiment": "0.0"
   }
 ]

@@ -2,17 +2,19 @@
   {
     "id": 8029,
     "mediaId": 43,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T00:00",
     "sentence": "",
     "author": "",
-    "title": "for the Ides of March"
+    "title": "for the Ides of March",
+    "sentiment": "0.0"
   },
   {
     "id": 7819,
     "mediaId": 195,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T19:23",
     "sentence": "Fox News Sunday  White House press secretary Jen Psaki; Sen. Mitch McConnell (R-Ky.)\nFox News Sunday Morning Futures  Ranking member of House Judiciary Committee Rep. Jim Jordan (R-Ohio); <span class='selected-term'>Herschel Walker</span>, Georgia Senate candidate; House Minority Leader Rep. Kevin Mccarthy (R-Calif.); U.S. Army combat veteran and Florida Congressional candidate Cory Mills.",
     "author": "Lexi Lonas",
-    "title": "Sunday shows preview: Ukraine, West condemn Russian attacks on civilians"
+    "title": "Sunday shows preview: Ukraine, West condemn Russian attacks on civilians",
+    "sentiment": "0.0"
   }
 ]

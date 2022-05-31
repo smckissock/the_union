@@ -2,513 +2,577 @@
   {
     "id": 6319,
     "mediaId": 195,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T10:26",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Will Trumps Ohio gamble pay off?"
+    "title": "The Hills Morning Report  Will Trumps Ohio gamble pay off?",
+    "sentiment": "-0.383"
   },
   {
     "id": 6295,
     "mediaId": 409,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T09:23",
     "sentence": "",
     "author": "Jim Geraghty",
-    "title": "The Medias Dirty Secret about GOP Coverage"
+    "title": "The Medias Dirty Secret about GOP Coverage",
+    "sentiment": "0.443"
   },
   {
     "id": 6253,
     "mediaId": 136,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T14:51",
     "sentence": "",
     "author": "Robert Reich",
-    "title": "We're Running Out of Time to Hold Trump Accountable | Opinion"
+    "title": "We're Running Out of Time to Hold Trump Accountable | Opinion",
+    "sentiment": "0.151"
   },
   {
     "id": 6218,
     "mediaId": 558,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T21:14",
     "sentence": "",
     "author": "JILL COLVIN",
-    "title": "Trump's Oz, Vance endorsements bring cash windfall, backlash"
+    "title": "Trump's Oz, Vance endorsements bring cash windfall, backlash",
+    "sentiment": "-0.196"
   },
   {
     "id": 6108,
     "mediaId": 151,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T08:30",
     "sentence": "",
     "author": "",
-    "title": "It's Trump vs. Cruz in Ohio and Pa. Senate races"
-  },
-  {
-    "id": 5755,
-    "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Lexi Lonas",
-    "title": "Oz to speak at Trump rally in Pennsylvania"
-  },
-  {
-    "id": 5803,
-    "mediaId": 233,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "David Jackson",
-    "title": "Donald Trump won Ohio for J.D. Vance. Can he score victories in Pennsylvania, North Carolina and Georgia?"
+    "title": "It's Trump vs. Cruz in Ohio and Pa. Senate races",
+    "sentiment": "0"
   },
   {
     "id": 5844,
     "mediaId": 239,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Susan Ferrechio",
-    "title": "Trumps endorsement winning streak headed for tougher tests in Pennsylvania, Georgia"
+    "title": "Trumps endorsement winning streak headed for tougher tests in Pennsylvania, Georgia",
+    "sentiment": "0"
   },
   {
-    "id": 5704,
+    "id": 5803,
+    "mediaId": 233,
+    "date": "d2022-05-04T09:02",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "Donald Trump won Ohio for J.D. Vance. Can he score victories in Pennsylvania, North Carolina and Georgia?",
+    "sentiment": "0.5"
+  },
+  {
+    "id": 5755,
     "mediaId": 195,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-04T21:46",
     "sentence": "",
-    "author": "Max Greenwood",
-    "title": "Vance to speak at Trump rally for Oz in Pennsylvania"
-  },
-  {
-    "id": 5711,
-    "mediaId": 237,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Juliegrace Brufke",
-    "title": "GOP Senate nominees Vance of Ohio and Oz of Pennsylvania set to rally with Trump"
+    "author": "Lexi Lonas",
+    "title": "Oz to speak at Trump rally in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 5730,
     "mediaId": 239,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:04:03",
     "sentence": "",
     "author": "Susan Ferrechio",
-    "title": "Oz, Trumps candidate, stuck in neck-and-neck GOP race for U.S. Senate in Pennsylvania"
+    "title": "Oz, Trumps candidate, stuck in neck-and-neck GOP race for U.S. Senate in Pennsylvania",
+    "sentiment": "0"
   },
   {
-    "id": 5651,
+    "id": 5711,
     "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-05T17:01",
     "sentence": "",
-    "author": "Ryan King",
-    "title": "'Totally controlled': Trump rips McCormick while lauding Dr. Oz in Pennsylvania rally"
+    "author": "Juliegrace Brufke",
+    "title": "GOP Senate nominees Vance of Ohio and Oz of Pennsylvania set to rally with Trump",
+    "sentiment": "0.886"
   },
   {
-    "id": 5658,
-    "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
+    "id": 5704,
+    "mediaId": 195,
+    "date": "d2022-05-05T20:22",
     "sentence": "",
-    "author": "Adam Staten",
-    "title": "Trump Poised to Re-create J.D. Vance Magic in Pennsylvania With Dr. Oz"
-  },
-  {
-    "id": 5660,
-    "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Daniel Chaitin",
-    "title": "WATCH LIVE: Trump and JD Vance speak at campaign rally for Dr. Oz in Pennsylvania"
-  },
-  {
-    "id": 5663,
-    "mediaId": 675,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "WND News Services",
-    "title": "Watch live: Trump rally tonight from Greensburg, Pennsylvania"
-  },
-  {
-    "id": 5665,
-    "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jason Lemon",
-    "title": "Trump Pennsylvania Rally for Dr. Oz the Latest Battle in GOP Civil War"
-  },
-  {
-    "id": 5667,
-    "mediaId": 238,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion One of the ugliest right-wing lies about Jan. 6 is imploding"
-  },
-  {
-    "id": 5670,
-    "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Salena Zito",
-    "title": "On Trump's Oz rally day, Pompeo raises concerns about Oz voting in Turkish elections"
-  },
-  {
-    "id": 5674,
-    "mediaId": 238,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "On our radar: Trump to rally with Oz in Pennsylvania"
-  },
-  {
-    "id": 5678,
-    "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "How To Watch Donald Trump's Pennsylvania Rally For Dr. Mehmet Oz"
+    "author": "Max Greenwood",
+    "title": "Vance to speak at Trump rally for Oz in Pennsylvania",
+    "sentiment": "0.454"
   },
   {
     "id": 5689,
     "mediaId": 19,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Mehmet Oz Booed at Trump Rally in Pennsylvania"
+    "title": "Mehmet Oz Booed at Trump Rally in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 5690,
     "mediaId": 157,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Bob Brigham",
-    "title": "MAGA boos Dr. Oz as rain turns Trump rally into muddy mess"
+    "title": "MAGA boos Dr. Oz as rain turns Trump rally into muddy mess",
+    "sentiment": "0"
   },
   {
     "id": 5695,
     "mediaId": 19,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Ethan Letkeman",
-    "title": "Watch Live: Donald Trump Holds Save America Rally in Greensburg, Pennsylvania"
+    "title": "Watch Live: Donald Trump Holds Save America Rally in Greensburg, Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 5696,
     "mediaId": 129,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "",
-    "title": "Dr. Oz rallies with Trump and Vance on a rainy night in Pennsylvania, and meets a damp reception."
+    "title": "Dr. Oz rallies with Trump and Vance on a rainy night in Pennsylvania, and meets a damp reception.",
+    "sentiment": "-0.263"
   },
   {
-    "id": 5630,
+    "id": 5678,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-06T09:54",
     "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "Trump Mocked for Seemingly Mistaking Office Mehmet Oz Is Running For"
+    "author": "Ewan Palmer",
+    "title": "How To Watch Donald Trump's Pennsylvania Rally For Dr. Mehmet Oz",
+    "sentiment": "0"
   },
   {
-    "id": 5632,
+    "id": 5674,
+    "mediaId": 238,
+    "date": "d2022-05-06T11:16",
+    "sentence": "",
+    "author": "",
+    "title": "On our radar: Trump to rally with Oz in Pennsylvania",
+    "sentiment": "0"
+  },
+  {
+    "id": 5670,
+    "mediaId": 237,
+    "date": "d2022-05-06T14:08",
+    "sentence": "",
+    "author": "Salena Zito",
+    "title": "On Trump's Oz rally day, Pompeo raises concerns about Oz voting in Turkish elections",
+    "sentiment": "0"
+  },
+  {
+    "id": 5667,
+    "mediaId": 238,
+    "date": "d2022-05-06T15:13",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion One of the ugliest right-wing lies about Jan. 6 is imploding",
+    "sentiment": "0"
+  },
+  {
+    "id": 5665,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-06T15:24",
     "sentence": "",
     "author": "Jason Lemon",
-    "title": "Trump Defied by Rally-Goers Booing, Turning Backs on Mehmet Oz"
+    "title": "Trump Pennsylvania Rally for Dr. Oz the Latest Battle in GOP Civil War",
+    "sentiment": "0"
   },
   {
-    "id": 5635,
-    "mediaId": 409,
-    "date": "5/7/2022 12:00:00 AM",
+    "id": 5663,
+    "mediaId": 675,
+    "date": "d2022-05-06T16:26",
     "sentence": "",
-    "author": "Zachary Evans",
-    "title": "Dr. Oz Booed at Rally with Trump, Vance"
+    "author": "WND News Services",
+    "title": "Watch live: Trump rally tonight from Greensburg, Pennsylvania",
+    "sentiment": "0"
   },
   {
-    "id": 5638,
-    "mediaId": 558,
-    "date": "5/7/2022 12:00:00 AM",
+    "id": 5660,
+    "mediaId": 237,
+    "date": "d2022-05-06T17:55",
     "sentence": "",
-    "author": "Christopher Wilson",
-    "title": "Trump avoids talking abortion ruling, pitches Oz endorsement at Pennsylvania rally"
+    "author": "Daniel Chaitin",
+    "title": "WATCH LIVE: Trump and JD Vance speak at campaign rally for Dr. Oz in Pennsylvania",
+    "sentiment": "0"
   },
   {
-    "id": 5641,
+    "id": 5658,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-06T18:08",
     "sentence": "",
-    "author": "Aila Slisco",
-    "title": "Donald Trump Mocks Biden's Stutter, Demands Cognitive Test at PA Rally"
+    "author": "Adam Staten",
+    "title": "Trump Poised to Re-create J.D. Vance Magic in Pennsylvania With Dr. Oz",
+    "sentiment": "0.477"
   },
   {
-    "id": 5642,
-    "mediaId": 195,
-    "date": "5/7/2022 12:00:00 AM",
+    "id": 5651,
+    "mediaId": 237,
+    "date": "d2022-05-06T23:00",
     "sentence": "",
-    "author": "Caroline Vakil",
-    "title": "Trump rallies for Oz in Pennsylvania, calls his challenger more Toomey than he is MAGA"
+    "author": "Ryan King",
+    "title": "'Totally controlled': Trump rips McCormick while lauding Dr. Oz in Pennsylvania rally",
+    "sentiment": "0.885"
   },
   {
     "id": 5643,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T00:24",
     "sentence": "",
     "author": "Margaret Weaver",
-    "title": "Mehmet Oz Touts 'America-First Agenda' at Rain-Soaked Rally in Pennsylvania"
+    "title": "Mehmet Oz Touts 'America-First Agenda' at Rain-Soaked Rally in Pennsylvania",
+    "sentiment": "0"
+  },
+  {
+    "id": 5642,
+    "mediaId": 195,
+    "date": "d2022-05-07T02:47",
+    "sentence": "",
+    "author": "Caroline Vakil",
+    "title": "Trump rallies for Oz in Pennsylvania, calls his challenger more Toomey than he is MAGA",
+    "sentiment": "0.932"
+  },
+  {
+    "id": 5641,
+    "mediaId": 136,
+    "date": "d2022-05-07T03:11",
+    "sentence": "",
+    "author": "Aila Slisco",
+    "title": "Donald Trump Mocks Biden's Stutter, Demands Cognitive Test at PA Rally",
+    "sentiment": "0"
+  },
+  {
+    "id": 5638,
+    "mediaId": 558,
+    "date": "d2022-05-07T07:17",
+    "sentence": "",
+    "author": "Christopher Wilson",
+    "title": "Trump avoids talking abortion ruling, pitches Oz endorsement at Pennsylvania rally",
+    "sentiment": "0"
+  },
+  {
+    "id": 5635,
+    "mediaId": 409,
+    "date": "d2022-05-07T12:12",
+    "sentence": "",
+    "author": "Zachary Evans",
+    "title": "Dr. Oz Booed at Rally with Trump, Vance",
+    "sentiment": "0"
+  },
+  {
+    "id": 5632,
+    "mediaId": 136,
+    "date": "d2022-05-07T14:46",
+    "sentence": "",
+    "author": "Jason Lemon",
+    "title": "Trump Defied by Rally-Goers Booing, Turning Backs on Mehmet Oz",
+    "sentiment": "0.666"
+  },
+  {
+    "id": 5630,
+    "mediaId": 136,
+    "date": "d2022-05-07T14:54",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "Trump Mocked for Seemingly Mistaking Office Mehmet Oz Is Running For",
+    "sentiment": "0"
   },
   {
     "id": 5625,
     "mediaId": 19,
-    "date": "5/8/2022 12:00:00 AM",
+    "date": "d2022-05-08T00:00",
     "sentence": "",
     "author": "Paul Bois",
-    "title": "Pennsylvania Senate Poll: Dr. Oz Narrowly Leads Three-Way Race"
-  },
-  {
-    "id": 5588,
-    "mediaId": 65,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Fox News Poll: Three-way race in Pennsylvania GOP Senate primary election"
+    "title": "Pennsylvania Senate Poll: Dr. Oz Narrowly Leads Three-Way Race",
+    "sentiment": "0"
   },
   {
     "id": 5607,
     "mediaId": 19,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Pennsylvania Senate Poll: Mehmet Oz Holding onto Lead in Three-Way Statistical Tie"
+    "title": "Pennsylvania Senate Poll: Mehmet Oz Holding onto Lead in Three-Way Statistical Tie",
+    "sentiment": "0"
   },
   {
-    "id": 5567,
-    "mediaId": 233,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Orlando Mayorquin",
-    "title": "Who is Dave McCormick? Former hedge fund executive running for Senate in Pennsylvania"
-  },
-  {
-    "id": 5569,
-    "mediaId": 233,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Orlando Mayorquin",
-    "title": "Trump is backing 'Dr. Oz' in the Pennsylvania Senate race. What to know about the ex-TV show host"
-  },
-  {
-    "id": 5573,
-    "mediaId": 129,
-    "date": "5/11/2022 12:00:00 AM",
+    "id": 5588,
+    "mediaId": 65,
+    "date": "d2022-05-10T22:00",
     "sentence": "",
     "author": "",
-    "title": "Club for Growth Starts Ad Blitz for Kathy Barnette in Pennsylvania Senate Primary"
+    "title": "Fox News Poll: Three-way race in Pennsylvania GOP Senate primary election",
+    "sentiment": "0"
   },
   {
     "id": 5582,
     "mediaId": 129,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "",
-    "title": "Hard-Liners Gain in Pennsylvania G.O.P. Races, Worrying Both Parties"
+    "title": "Hard-Liners Gain in Pennsylvania G.O.P. Races, Worrying Both Parties",
+    "sentiment": "0"
+  },
+  {
+    "id": 5573,
+    "mediaId": 129,
+    "date": "d2022-05-11T11:40",
+    "sentence": "",
+    "author": "",
+    "title": "Club for Growth Starts Ad Blitz for Kathy Barnette in Pennsylvania Senate Primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 5569,
+    "mediaId": 233,
+    "date": "d2022-05-11T16:10",
+    "sentence": "",
+    "author": "Orlando Mayorquin",
+    "title": "Trump is backing 'Dr. Oz' in the Pennsylvania Senate race. What to know about the ex-TV show host",
+    "sentiment": "0"
+  },
+  {
+    "id": 5567,
+    "mediaId": 233,
+    "date": "d2022-05-11T16:46",
+    "sentence": "",
+    "author": "Orlando Mayorquin",
+    "title": "Who is Dave McCormick? Former hedge fund executive running for Senate in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 5562,
     "mediaId": 19,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "",
     "author": "Paul Bois",
-    "title": "Kathy Barnette Claims She Voted for Trump in 2016 Primaries; Her Book Says Otherwise"
+    "title": "Kathy Barnette Claims She Voted for Trump in 2016 Primaries; Her Book Says Otherwise",
+    "sentiment": "0"
   },
   {
     "id": 3326,
     "mediaId": 157,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "",
     "author": "",
-    "title": "Another extreme wing of the Republican Party is emerging  and it's not all Trump"
-  },
-  {
-    "id": 5547,
-    "mediaId": 151,
-    "date": "5/13/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "GOP launches Operation Stop Barnette"
+    "title": "Another extreme wing of the Republican Party is emerging  and it's not all Trump",
+    "sentiment": "0"
   },
   {
     "id": 5549,
     "mediaId": 129,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "",
     "author": "",
-    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up"
+    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
+    "sentiment": "0"
   },
   {
-    "id": 5540,
-    "mediaId": 238,
-    "date": "5/14/2022 12:00:00 AM",
+    "id": 5547,
+    "mediaId": 151,
+    "date": "d2022-05-13T01:11",
     "sentence": "",
-    "author": "Karen Heller",
-    "title": "Dr. Ozs Trump-infused Senate run is coming down to the wire"
+    "author": "",
+    "title": "GOP launches Operation Stop Barnette",
+    "sentiment": "-0.526"
   },
   {
     "id": 5541,
     "mediaId": 323,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T13:00",
     "sentence": "",
     "author": "John McCormick",
-    "title": "Kathy Barnette Scrambles Pennsylvania GOP Senate Primary, Drawing Trump Ire"
+    "title": "Kathy Barnette Scrambles Pennsylvania GOP Senate Primary, Drawing Trump Ire",
+    "sentiment": "0"
   },
   {
-    "id": 3363,
+    "id": 5540,
     "mediaId": 238,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-14T14:33",
     "sentence": "",
-    "author": "Isaac Arnsdorf",
-    "title": "How Trump's pact with the Club for Growth turned into a grudge match"
+    "author": "Karen Heller",
+    "title": "Dr. Ozs Trump-infused Senate run is coming down to the wire",
+    "sentiment": "0"
   },
   {
     "id": 3422,
     "mediaId": 129,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T13:29:38",
     "sentence": "",
     "author": "",
-    "title": "A Republican megadonor scrambled to stop Doug Mastriano in the Pennsylvania governor's race."
+    "title": "A Republican megadonor scrambled to stop Doug Mastriano in the Pennsylvania governor's race.",
+    "sentiment": "0"
   },
   {
     "id": 5515,
     "mediaId": 323,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T15:59",
     "sentence": "",
     "author": "Gerard Baker",
-    "title": "GOP Fails to Find a Sober Populism in Pennsylvania"
+    "title": "GOP Fails to Find a Sober Populism in Pennsylvania",
+    "sentiment": "0"
   },
   {
-    "id": 3382,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "id": 3363,
+    "mediaId": 238,
+    "date": "d2022-05-16T22:00",
     "sentence": "",
-    "author": "",
-    "title": "10 Republican Voters in Swing States on Trumps Hold on the Party"
-  },
-  {
-    "id": 3409,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries"
-  },
-  {
-    "id": 3410,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries"
-  },
-  {
-    "id": 3412,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "What to Watch For in the Pennsylvania and North Carolina Primaries"
-  },
-  {
-    "id": 5484,
-    "mediaId": 1546,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Ken Bredemeier",
-    "title": "Trumps Republican Political Clout Faces Another Test on Tuesday"
-  },
-  {
-    "id": 5489,
-    "mediaId": 195,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: Democrats cross their fingers in Pennsylvania"
-  },
-  {
-    "id": 5501,
-    "mediaId": 151,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Trump works overtime to push Dr. Oz over the finish line"
+    "author": "Isaac Arnsdorf",
+    "title": "How Trump's pact with the Club for Growth turned into a grudge match",
+    "sentiment": "0"
   },
   {
     "id": 5509,
     "mediaId": 19,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Matthew Boyle",
-    "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries"
+    "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries",
+    "sentiment": "0"
   },
   {
-    "id": 5464,
-    "mediaId": 21,
-    "date": "5/18/2022 12:00:00 AM",
+    "id": 5501,
+    "mediaId": 151,
+    "date": "d2022-05-17T00:11",
     "sentence": "",
-    "author": "Jake Lahut",
-    "title": "Why Donald Trump's 'golden ticket' doesn't guarantee success in 2022 Republican primaries  especially for his most controversial favorites"
+    "author": "",
+    "title": "Trump works overtime to push Dr. Oz over the finish line",
+    "sentiment": "0"
   },
   {
-    "id": 5475,
-    "mediaId": 233,
-    "date": "5/18/2022 12:00:00 AM",
+    "id": 3382,
+    "mediaId": 129,
+    "date": "d2022-05-17T04:01",
     "sentence": "",
-    "author": "David Jackson",
-    "title": "Fetterman wins Pennsylvania Democratic Senate primary; NC polls close; live primary results"
+    "author": "",
+    "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
+    "sentiment": "0"
+  },
+  {
+    "id": 3412,
+    "mediaId": 129,
+    "date": "d2022-05-17T04:01",
+    "sentence": "",
+    "author": "",
+    "title": "What to Watch For in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 3409,
+    "mediaId": 129,
+    "date": "d2022-05-17T09:04:42",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 3410,
+    "mediaId": 129,
+    "date": "d2022-05-17T09:04:42",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5489,
+    "mediaId": 195,
+    "date": "d2022-05-17T09:11",
+    "sentence": "",
+    "author": "Niall Stanage",
+    "title": "The Memo: Democrats cross their fingers in Pennsylvania",
+    "sentiment": "0"
+  },
+  {
+    "id": 5484,
+    "mediaId": 1546,
+    "date": "d2022-05-17T17:00",
+    "sentence": "",
+    "author": "Ken Bredemeier",
+    "title": "Trumps Republican Political Clout Faces Another Test on Tuesday",
+    "sentiment": "0"
   },
   {
     "id": 5476,
     "mediaId": 238,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "",
     "author": "Aaron Blake",
-    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more"
+    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
+    "sentiment": "0"
+  },
+  {
+    "id": 5475,
+    "mediaId": 233,
+    "date": "d2022-05-18T01:23",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "Fetterman wins Pennsylvania Democratic Senate primary; NC polls close; live primary results",
+    "sentiment": "0"
+  },
+  {
+    "id": 5464,
+    "mediaId": 21,
+    "date": "d2022-05-18T20:00",
+    "sentence": "",
+    "author": "Jake Lahut",
+    "title": "Why Donald Trump's 'golden ticket' doesn't guarantee success in 2022 Republican primaries  especially for his most controversial favorites",
+    "sentiment": "0"
   },
   {
     "id": 6610,
     "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T23:17",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Primaries fuel questions about potency of Trump endorsements"
-  },
-  {
-    "id": 4461,
-    "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Recount looms in Pennsylvania"
-  },
-  {
-    "id": 5458,
-    "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "GOP lawmakers say primaries show Trumps firm grip on party"
+    "title": "Primaries fuel questions about potency of Trump endorsements",
+    "sentiment": "0"
   },
   {
     "id": 6605,
     "mediaId": 33,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "",
     "author": "Gabby Orr",
-    "title": "Trump may hold off on more endorsements for coming primaries, advisers say"
+    "title": "Trump may hold off on more endorsements for coming primaries, advisers say",
+    "sentiment": "0"
+  },
+  {
+    "id": 5458,
+    "mediaId": 195,
+    "date": "d2022-05-19T09:21",
+    "sentence": "",
+    "author": "",
+    "title": "GOP lawmakers say primaries show Trumps firm grip on party",
+    "sentiment": "0"
+  },
+  {
+    "id": 4461,
+    "mediaId": 195,
+    "date": "d2022-05-19T10:28",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Recount looms in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 6571,
     "mediaId": 151,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T08:30",
     "sentence": "",
     "author": "",
-    "title": "Trumps Alternate Reality Hits a New Crazy Note with Dr. Oz"
+    "title": "Trumps Alternate Reality Hits a New Crazy Note with Dr. Oz",
+    "sentiment": "0"
   },
   {
     "id": 7210,
     "mediaId": 19,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "Nick Gilbertson",
-    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia"
+    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia",
+    "sentiment": "0"
   }
 ]

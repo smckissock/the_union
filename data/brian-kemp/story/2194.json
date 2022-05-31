@@ -1,10 +1,11 @@
 {
   "id": 2194,
   "mediaId": 12,
-  "date": "4/1/2022 12:00:00 AM",
+  "date": "d2022-04-01T10:00",
   "headline": "OPINION: A legislative session for Brian Kemp to take to the bank",
   "image": "https://www.ajc.com/resizer/xteLCzVXSdai4Jyj4MGkYZ0LOps=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/CTKU7WI4EWGAZ6AQCPZEKSY4NU.jpg",
   "link": "https://www.ajc.com/politics/opinion-a-legislative-session-for-brian-kemp-to-take-to-the-bank/NOQ6QFWSZJDZ7FUBGR6YUB2H4U/",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     1103,
     1178,
-    1646,
     1951,
     2095,
     4325,

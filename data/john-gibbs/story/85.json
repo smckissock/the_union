@@ -1,10 +1,11 @@
 {
   "id": 85,
   "mediaId": 129,
-  "date": "1/5/2022 12:00:00 AM",
+  "date": "d2022-01-05T00:00",
   "headline": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
   "image": "https://static01.nyt.com/images/2022/01/05/us/politics/05dc-republicans-1/merlin_182053863_e0185ffb-fd18-4152-89af-5c5b418735e5-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/01/05/us/politics/republican-impeachment-votes-trump-jan-6.html",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

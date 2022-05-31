@@ -2,33 +2,37 @@
   {
     "id": 2377,
     "mediaId": 43,
-    "date": "3/2/2022 12:00:00 AM",
+    "date": "d2022-03-02T00:00",
     "sentence": "Mandela Barnes outpaces Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> 23-13, with Outagamie County Executive Tom Nelson at 5%; a recent Lasry internal from Normington Petts found him trailing Barnes 35-27.",
     "author": "",
-    "title": "Daily Kos Elections Live Digest: 3/2"
-  },
-  {
-    "id": 2374,
-    "mediaId": 124,
-    "date": "3/3/2022 12:00:00 AM",
-    "sentence": "Mandela Barnes (23 percent) and businessman <span class='selected-term'>Alex Lasry</span> (13 percent) are the only two candidates in double-digits.",
-    "author": "",
-    "title": "Twelve months that moved the Democratic Party left of Biden"
+    "title": "Daily Kos Elections Live Digest: 3/2",
+    "sentiment": "0.0"
   },
   {
     "id": 2376,
     "mediaId": 43,
-    "date": "3/3/2022 12:00:00 AM",
+    "date": "d2022-03-03T00:00",
     "sentence": "Mandela Barnes outpaces Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> 23-13, with Outagamie County Executive Tom Nelson at 5%; a recent Lasry internal from Normington Petts found him trailing Barnes 35-27.",
     "author": "",
-    "title": "Morning Digest: A day after being forced into surprise runoff, Texas congressman quits amid scandal"
+    "title": "Morning Digest: A day after being forced into surprise runoff, Texas congressman quits amid scandal",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2374,
+    "mediaId": 124,
+    "date": "d2022-03-03T14:09",
+    "sentence": "Mandela Barnes (23 percent) and businessman <span class='selected-term'>Alex Lasry</span> (13 percent) are the only two candidates in double-digits.",
+    "author": "",
+    "title": "Twelve months that moved the Democratic Party left of Biden",
+    "sentiment": "0.0"
   },
   {
     "id": 2342,
     "mediaId": 43,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "The other three are Sarah Godlewski, who is the state treasurer, <span class='selected-term'>Alex Lasry</span>, who is an executive with the Milwaukee Bucks NBA team and Tom Nelson, who is a county executive from the Northeastern part of this state.",
     "author": "",
-    "title": "The Downballot: We open our mailbag and answer your questions! (transcript)"
+    "title": "The Downballot: We open our mailbag and answer your questions! (transcript)",
+    "sentiment": "0.0"
   }
 ]

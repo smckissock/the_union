@@ -2,17 +2,28 @@
   {
     "id": 4408,
     "mediaId": 151,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T13:03",
     "sentence": "",
     "author": "",
-    "title": "The fall of the White House correspondent"
+    "title": "The fall of the White House correspondent",
+    "sentiment": "0.0"
   },
   {
     "id": 4232,
     "mediaId": 238,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T11:45",
     "sentence": "",
     "author": "",
-    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be"
+    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
+    "sentiment": "0"
+  },
+  {
+    "id": 4232,
+    "mediaId": 238,
+    "date": "d2022-05-02T11:45",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
+    "sentiment": "0.0"
   }
 ]

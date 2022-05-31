@@ -2,9 +2,19 @@
   {
     "id": 7128,
     "mediaId": 136,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T12:00",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> recently signed a \"Stop Woke Act\" to end Diversity, Equity and Inclusion (DEI) efforts in the workplace.",
     "author": "Summer Rose",
-    "title": "Improve the Health of Black Women. Make Racial Trauma at Work Extinct | Opinion"
+    "title": "Improve the Health of Black Women. Make Racial Trauma at Work Extinct | Opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 7128,
+    "mediaId": 136,
+    "date": "d2022-05-20T12:00",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> recently signed a \"Stop Woke Act\" to end Diversity, Equity and Inclusion (DEI) efforts in the workplace.",
+    "author": "Summer Rose",
+    "title": "Improve the Health of Black Women. Make Racial Trauma at Work Extinct | Opinion",
+    "sentiment": "0.0"
   }
 ]

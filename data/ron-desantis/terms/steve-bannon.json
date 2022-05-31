@@ -2,41 +2,64 @@
   {
     "id": 7862,
     "mediaId": 234,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T00:00",
     "sentence": "As Russia drafts young men, some fear ending up on Ukraines front line (The Washington Post)\n<span class='selected-term'>Ron DeSantis</span> Is Threatening Disney With Regulations Because It Spoke Out Against Floridas Anti-LBGTQ Law (V.F.)",
     "author": "Bess Levin",
-    "title": "Jared Kushner and Donald Trump Probably Wont Be Splitting a Milkshake With Two Straws Any Time Soon"
+    "title": "Jared Kushner and Donald Trump Probably Wont Be Splitting a Milkshake With Two Straws Any Time Soon",
+    "sentiment": "0.0"
   },
   {
     "id": 3683,
     "mediaId": 238,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T21:30",
     "sentence": "This is all about <span class='selected-term'>Ron DeSantis</span> trying to push this image of being a super conservative warrior,? Isbell said.",
     "author": "Lori Rozsa",
-    "title": "Judge blocks voting map favored by Florida Gov. Ron DeSantis"
+    "title": "Judge blocks voting map favored by Florida Gov. Ron DeSantis",
+    "sentiment": "0"
   },
   {
-    "id": 3471,
-    "mediaId": 136,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
-    "author": "Katherine Fung",
-    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis"
+    "id": 3683,
+    "mediaId": 238,
+    "date": "d2022-05-11T21:30",
+    "sentence": "This is all about <span class='selected-term'>Ron DeSantis</span> trying to push this image of being a super conservative warrior,? Isbell said.",
+    "author": "Lori Rozsa",
+    "title": "Judge blocks voting map favored by Florida Gov. Ron DeSantis",
+    "sentiment": "0.0"
   },
   {
     "id": 3482,
     "mediaId": 881,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T06:56",
     "sentence": "",
     "author": "David Gilbert",
-    "title": "The conferences star attraction will be authoritarian Prime Minister Viktor Orbnthe type of leader former President Trump aspires to be."
+    "title": "The conferences star attraction will be authoritarian Prime Minister Viktor Orbnthe type of leader former President Trump aspires to be.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3471,
+    "mediaId": 136,
+    "date": "d2022-05-18T17:32",
+    "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
+    "author": "Katherine Fung",
+    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3471,
+    "mediaId": 136,
+    "date": "d2022-05-18T17:32",
+    "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
+    "author": "Katherine Fung",
+    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
+    "sentiment": "0.281"
   },
   {
     "id": 7123,
     "mediaId": 238,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T15:52",
     "sentence": "",
     "author": "Emma Brown",
-    "title": "Ginni Thomas, wife of Supreme Court justice, pressed Ariz. lawmakers to help reverse Trumps loss, emails show"
+    "title": "Ginni Thomas, wife of Supreme Court justice, pressed Ariz. lawmakers to help reverse Trumps loss, emails show",
+    "sentiment": "0.0"
   }
 ]

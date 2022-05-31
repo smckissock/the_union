@@ -2,41 +2,46 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 2377,
     "mediaId": 43,
-    "date": "3/2/2022 12:00:00 AM",
+    "date": "d2022-03-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "Daily Kos Elections Live Digest: 3/2"
-  },
-  {
-    "id": 2374,
-    "mediaId": 124,
-    "date": "3/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Twelve months that moved the Democratic Party left of Biden"
+    "title": "Daily Kos Elections Live Digest: 3/2",
+    "sentiment": "0.0"
   },
   {
     "id": 2376,
     "mediaId": 43,
-    "date": "3/3/2022 12:00:00 AM",
+    "date": "d2022-03-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "Morning Digest: A day after being forced into surprise runoff, Texas congressman quits amid scandal"
+    "title": "Morning Digest: A day after being forced into surprise runoff, Texas congressman quits amid scandal",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2374,
+    "mediaId": 124,
+    "date": "d2022-03-03T14:09",
+    "sentence": "",
+    "author": "",
+    "title": "Twelve months that moved the Democratic Party left of Biden",
+    "sentiment": "0.0"
   },
   {
     "id": 2342,
     "mediaId": 43,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "David Nir:\n The next topic comes from Peter F, who is interested to hear about <span class='selected-term'>Mandela Barnes</span>, who is running for the Senate in Wisconsin and hoping to be the Democratic nominee against Republican incumbent Ron Johnson.",
     "author": "",
-    "title": "The Downballot: We open our mailbag and answer your questions! (transcript)"
+    "title": "The Downballot: We open our mailbag and answer your questions! (transcript)",
+    "sentiment": "0"
   }
 ]

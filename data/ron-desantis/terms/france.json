@@ -2,33 +2,46 @@
   {
     "id": 6173,
     "mediaId": 151,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T15:24",
     "sentence": "",
     "author": "",
-    "title": "POLITICO Playbook: Remembering Orrin Hatch"
+    "title": "POLITICO Playbook: Remembering Orrin Hatch",
+    "sentiment": "0.0"
   },
   {
     "id": 3358,
     "mediaId": 98,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T03:10",
     "sentence": "",
     "author": "",
-    "title": "Column: Trump's goal is to solidify control over the GOP, not help it win elections"
+    "title": "Column: Trump's goal is to solidify control over the GOP, not help it win elections",
+    "sentiment": "0.0"
   },
   {
     "id": 3480,
     "mediaId": 302,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T10:00",
     "sentence": "",
     "author": "",
-    "title": "Trumps goal is to solidify control over the GOP, not help it win elections | Column"
+    "title": "Trumps goal is to solidify control over the GOP, not help it win elections | Column",
+    "sentiment": "0"
+  },
+  {
+    "id": 3480,
+    "mediaId": 302,
+    "date": "d2022-05-18T10:00",
+    "sentence": "",
+    "author": "",
+    "title": "Trumps goal is to solidify control over the GOP, not help it win elections | Column",
+    "sentiment": "0.0"
   },
   {
     "id": 7141,
     "mediaId": 19,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "The company has faced severe pushback to their woke agenda, with parents marching on Disney and Florida Governor <span class='selected-term'>Ron Desantis</span> rescinding the multinationals self-governing status in Orlando.",
     "author": "Spencer Lindquist",
-    "title": "Disney Releases LGBTQ Pride-Themed Toys Marketed to Children"
+    "title": "Disney Releases LGBTQ Pride-Themed Toys Marketed to Children",
+    "sentiment": "0.0"
   }
 ]

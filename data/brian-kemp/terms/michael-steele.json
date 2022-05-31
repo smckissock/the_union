@@ -2,25 +2,28 @@
   {
     "id": 4857,
     "mediaId": 157,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "You have, in Georgia, <span class='selected-term'>Brian Kemp</span>, the Republican who was number one on Donald Trump's enemy list -- he hated him so much he said he'd support Stacey Abrams -- Kemp is humiliating his conspiracy opponent, David Perdue, right now, his pro-trump opponent.\"",
     "author": "Tom Boggioni",
-    "title": "'QAnon freaks and lunatic fringe': Morning Joe panel goes off on 'crazy' Republicans"
+    "title": "'QAnon freaks and lunatic fringe': Morning Joe panel goes off on 'crazy' Republicans",
+    "sentiment": "-0.829"
   },
   {
     "id": 4586,
     "mediaId": 188,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T00:00",
     "sentence": "She also faces questions over other controversial statements she's made, including a false assertion that the 2018 gubernatorial election in Georgia was \"stolen\" by Republican <span class='selected-term'>Brian Kemp</span>.",
     "author": "Chris Pandolfo",
-    "title": "Biden's incoming press secretary Karine Jean-Pierre called Fox News 'racist'"
+    "title": "Biden's incoming press secretary Karine Jean-Pierre called Fox News 'racist'",
+    "sentiment": "0.0"
   },
   {
     "id": 4473,
     "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T09:16",
     "sentence": "",
     "author": "Reid Wilson",
-    "title": "Governors races spoil Trumps once-unblemished endorsement record"
+    "title": "Governors races spoil Trumps once-unblemished endorsement record",
+    "sentiment": "-0.569"
   }
 ]

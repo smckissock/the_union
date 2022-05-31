@@ -1,834 +1,929 @@
 [
   {
-    "id": 6425,
-    "mediaId": 233,
-    "date": "4/12/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Orlando Mayorquin",
-    "title": "Who is Tim Ryan? What to know about the congressman running for senate in Ohio"
-  },
-  {
     "id": 6427,
     "mediaId": 195,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T13:50",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Tim Ryan raises $4.1 million for Senate race in first quarter"
+    "title": "Tim Ryan raises $4.1 million for Senate race in first quarter",
+    "sentiment": "0"
+  },
+  {
+    "id": 6425,
+    "mediaId": 233,
+    "date": "d2022-04-12T14:25",
+    "sentence": "",
+    "author": "Orlando Mayorquin",
+    "title": "Who is Tim Ryan? What to know about the congressman running for senate in Ohio",
+    "sentiment": "0"
   },
   {
     "id": 6417,
     "mediaId": 195,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T17:44",
     "sentence": "",
     "author": "Max Greenwood",
-    "title": "Trump to hold rally in Ohio"
-  },
-  {
-    "id": 6362,
-    "mediaId": 112,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Associated Press",
-    "title": "Formerly anti-Trump author of Hillbilly Elegy wins long-running battle for ex-presidents endorsement in GOP Senate primary in Ohio"
-  },
-  {
-    "id": 6366,
-    "mediaId": 151,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Trump gives Vance coveted endorsement in Ohio Senate race"
-  },
-  {
-    "id": 6369,
-    "mediaId": 165,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Ryan Bort",
-    "title": "Trump Endorses J.D. Vance  Who Once Called Him an Idiot, Noxious, and Reprehensible  for Senate in Ohio"
-  },
-  {
-    "id": 6370,
-    "mediaId": 238,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Trump endorses J.D. Vance in Ohios crowded GOP primary for Senate"
-  },
-  {
-    "id": 6371,
-    "mediaId": 65,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Trump endorses JD Vance in Ohio GOP Senate primary"
-  },
-  {
-    "id": 6374,
-    "mediaId": 195,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Trump endorses Vance in Ohio GOP Senate primary"
-  },
-  {
-    "id": 6378,
-    "mediaId": 223,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Rebecca Downs",
-    "title": "Donald Trump Endorses JD Vance for Closely Watched Senate Seat"
+    "title": "Trump to hold rally in Ohio",
+    "sentiment": "0"
   },
   {
     "id": 6391,
     "mediaId": 19,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "",
     "author": "John Binder",
-    "title": "MAGA Crowd Praises Trumps Endorsing J.D. Vance in Ohio: The Right Choice!"
+    "title": "MAGA Crowd Praises Trumps Endorsing J.D. Vance in Ohio: The Right Choice!",
+    "sentiment": "0.91"
   },
   {
     "id": 6392,
     "mediaId": 19,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "",
     "author": "John Binder",
-    "title": "Donald Trump Endorses Populist J.D. Vance in Ohio Republican Senate Primary Race"
+    "title": "Donald Trump Endorses Populist J.D. Vance in Ohio Republican Senate Primary Race",
+    "sentiment": "0.748"
   },
   {
     "id": 6397,
     "mediaId": 1164,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "",
     "author": "Adam Schrader",
-    "title": "Trump endorses J.D. Vance for Ohio senate seat"
+    "title": "Trump endorses J.D. Vance for Ohio senate seat",
+    "sentiment": "0.678"
   },
   {
     "id": 6398,
     "mediaId": 157,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "",
     "author": "Brad Reed",
-    "title": "'You can almost hear the uncontrollable weeping': Josh Mandel roasted after Trump humiliatingly endorses JD Vance"
+    "title": "'You can almost hear the uncontrollable weeping': Josh Mandel roasted after Trump humiliatingly endorses JD Vance",
+    "sentiment": "0"
   },
   {
-    "id": 6347,
-    "mediaId": 233,
-    "date": "4/16/2022 12:00:00 AM",
+    "id": 6378,
+    "mediaId": 223,
+    "date": "d2022-04-15T18:30",
     "sentence": "",
-    "author": "David Jackson",
-    "title": "J.D. Vance lands Donald Trump endorsement in crowded Ohio GOP Senate primary"
+    "author": "Rebecca Downs",
+    "title": "Donald Trump Endorses JD Vance for Closely Watched Senate Seat",
+    "sentiment": "0.479"
+  },
+  {
+    "id": 6374,
+    "mediaId": 195,
+    "date": "d2022-04-15T21:11",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Trump endorses Vance in Ohio GOP Senate primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 6371,
+    "mediaId": 65,
+    "date": "d2022-04-15T21:22",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Trump endorses JD Vance in Ohio GOP Senate primary",
+    "sentiment": "0.506"
+  },
+  {
+    "id": 6369,
+    "mediaId": 165,
+    "date": "d2022-04-15T21:26",
+    "sentence": "",
+    "author": "Ryan Bort",
+    "title": "Trump Endorses J.D. Vance  Who Once Called Him an Idiot, Noxious, and Reprehensible  for Senate in Ohio",
+    "sentiment": "0.446"
+  },
+  {
+    "id": 6370,
+    "mediaId": 238,
+    "date": "d2022-04-15T21:26",
+    "sentence": "",
+    "author": "",
+    "title": "Trump endorses J.D. Vance in Ohios crowded GOP primary for Senate",
+    "sentiment": "-0.368"
+  },
+  {
+    "id": 6366,
+    "mediaId": 151,
+    "date": "d2022-04-15T22:06",
+    "sentence": "",
+    "author": "",
+    "title": "Trump gives Vance coveted endorsement in Ohio Senate race",
+    "sentiment": "0.769"
+  },
+  {
+    "id": 6362,
+    "mediaId": 112,
+    "date": "d2022-04-15T22:43",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Formerly anti-Trump author of Hillbilly Elegy wins long-running battle for ex-presidents endorsement in GOP Senate primary in Ohio",
+    "sentiment": "-0.462"
   },
   {
     "id": 6354,
     "mediaId": 209,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 16, 2022"
+    "title": "10 things you need to know today: April 16, 2022",
+    "sentiment": "-0.571"
   },
   {
     "id": 6360,
     "mediaId": 33,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "",
-    "title": "ANLISIS | La palabra que explica el respaldo de Donald Trump a J.D. Vance"
+    "title": "ANLISIS | La palabra que explica el respaldo de Donald Trump a J.D. Vance",
+    "sentiment": "0"
   },
   {
     "id": 6361,
     "mediaId": 19,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "Hannah Bleau",
-    "title": "Exclusive  J.D. Vance on Trump Endorsement: Were Going to Win This Thing"
+    "title": "Exclusive  J.D. Vance on Trump Endorsement: Were Going to Win This Thing",
+    "sentiment": "0"
+  },
+  {
+    "id": 6347,
+    "mediaId": 233,
+    "date": "d2022-04-16T14:24",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "J.D. Vance lands Donald Trump endorsement in crowded Ohio GOP Senate primary",
+    "sentiment": "0"
   },
   {
     "id": 2050,
     "mediaId": 234,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T00:00",
     "sentence": "",
     "author": "",
-    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers"
+    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers",
+    "sentiment": "-0.457"
   },
   {
     "id": 6342,
     "mediaId": 239,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T00:00",
     "sentence": "",
     "author": "Jennifer Harper",
-    "title": "NRA plans its major national meeting in Houston in May"
+    "title": "NRA plans its major national meeting in Houston in May",
+    "sentiment": "-0.59"
   },
   {
     "id": 6126,
     "mediaId": 409,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T12:19",
     "sentence": "",
     "author": "John McCormack",
-    "title": "Does Matt Dolan Have a Shot in the Ohio GOP Senate Race?"
+    "title": "Does Matt Dolan Have a Shot in the Ohio GOP Senate Race?",
+    "sentiment": "0.27"
   },
   {
     "id": 4363,
     "mediaId": 112,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T19:53",
     "sentence": "",
     "author": "Robert Schroeder",
-    "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president"
-  },
-  {
-    "id": 5990,
-    "mediaId": 65,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Ohio Dem Senate candidate Ryan rips Trump's 'J.D. Mandel' comment, says GOP treating race as a 'game'"
-  },
-  {
-    "id": 5999,
-    "mediaId": 136,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "Matt Dolan Gains Ground Ahead of Ohio Primary in Threat to Trump's Power"
-  },
-  {
-    "id": 6000,
-    "mediaId": 65,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Amy Nelson",
-    "title": "Josh Mandel 'confident' he'll win Ohio GOP Senate primary without Trump's support"
-  },
-  {
-    "id": 6010,
-    "mediaId": 558,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tom LoBianco",
-    "title": "What to know about Tuesday's big Republican primary in Ohio"
+    "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
+    "sentiment": "0"
   },
   {
     "id": 6033,
     "mediaId": 43,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "Watch The Previous Guy Forget The Name Of The Piece Of Sh*t He Endorsed In Ohio"
+    "title": "Watch The Previous Guy Forget The Name Of The Piece Of Sh*t He Endorsed In Ohio",
+    "sentiment": "0.393"
   },
   {
     "id": 6039,
     "mediaId": 129,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "In Ohio Senate Fight, G.O.P. Shows Strains of Its Identity Crisis"
+    "title": "In Ohio Senate Fight, G.O.P. Shows Strains of Its Identity Crisis",
+    "sentiment": "0"
   },
   {
-    "id": 5896,
+    "id": 6010,
+    "mediaId": 558,
+    "date": "d2022-05-02T12:28",
+    "sentence": "",
+    "author": "Tom LoBianco",
+    "title": "What to know about Tuesday's big Republican primary in Ohio",
+    "sentiment": "0.403"
+  },
+  {
+    "id": 6000,
     "mediaId": 65,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-02T16:44",
+    "sentence": "",
+    "author": "Amy Nelson",
+    "title": "Josh Mandel 'confident' he'll win Ohio GOP Senate primary without Trump's support",
+    "sentiment": "0"
+  },
+  {
+    "id": 5999,
+    "mediaId": 136,
+    "date": "d2022-05-02T16:55",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "Matt Dolan Gains Ground Ahead of Ohio Primary in Threat to Trump's Power",
+    "sentiment": "-0.695"
+  },
+  {
+    "id": 5990,
+    "mediaId": 65,
+    "date": "d2022-05-02T22:17",
     "sentence": "",
     "author": "Tyler Olson",
-    "title": "Polls now closed in Ohio, where the GOP Senate primary is seen a key test of Trump's GOP clout"
-  },
-  {
-    "id": 5900,
-    "mediaId": 233,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Anna Staver",
-    "title": "Ohio primary kicks off 2022 midterm battles as abortion seizes the debate"
-  },
-  {
-    "id": 5905,
-    "mediaId": 136,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Adam Staten",
-    "title": "Trump Worried Tim Ryan's Cash Puts J.D. Vance's Senate Shot at Risk"
-  },
-  {
-    "id": 5908,
-    "mediaId": 136,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Meghan Roos",
-    "title": "Ohio 2022 Primary Live Updates: Trump-Backed J.D. Vance Wins GOP Senate Primary"
-  },
-  {
-    "id": 5909,
-    "mediaId": 237,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Joe Maiorana/AP",
-    "title": "Live Blog: Ohio and Indiana Midterm primaries"
-  },
-  {
-    "id": 5911,
-    "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio Primary Election Results"
-  },
-  {
-    "id": 5913,
-    "mediaId": 120,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Steve Benen",
-    "title": "Why campaign watchers are keeping an eye on Ohio, Indiana today"
-  },
-  {
-    "id": 5916,
-    "mediaId": 195,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Caroline Vakil",
-    "title": "Trump says JD Vance best suited to win the election, warns of Tim Ryans campaign bank account"
-  },
-  {
-    "id": 5918,
-    "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "G.O.P. Candidates Make Final Push in Ohios Closely Watched Senate Race"
-  },
-  {
-    "id": 5933,
-    "mediaId": 195,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Reid Wilson",
-    "title": "Busy month of primaries to set stage for midterms"
-  },
-  {
-    "id": 5935,
-    "mediaId": 136,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Bill Powell",
-    "title": "Races to Watch on Tuesday as Primary Season Kicks Off"
-  },
-  {
-    "id": 5939,
-    "mediaId": 151,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "7 ways Tuesdays primaries could shake the 2022 election"
-  },
-  {
-    "id": 5946,
-    "mediaId": 593,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Eric Cox and Nathan Layne",
-    "title": "Trump-backed Candidate Wins Republican Nomination For Ohio U.S. Senate Seat"
+    "title": "Ohio Dem Senate candidate Ryan rips Trump's 'J.D. Mandel' comment, says GOP treating race as a 'game'",
+    "sentiment": "0"
   },
   {
     "id": 5953,
     "mediaId": 19,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Jacob Bliss",
-    "title": "Rep. Tim Ryan Wins Democrat Primary for Ohios U.S. Senate Seat"
+    "title": "Rep. Tim Ryan Wins Democrat Primary for Ohios U.S. Senate Seat",
+    "sentiment": "0.504"
   },
   {
     "id": 5967,
     "mediaId": 1164,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Danielle Haynes",
-    "title": "Ohio, Indiana voters head to polls in state primaries"
+    "title": "Ohio, Indiana voters head to polls in state primaries",
+    "sentiment": "0.683"
   },
   {
     "id": 5973,
     "mediaId": 98,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Melanie MasonStaff Writer",
-    "title": "Trumps endorsement of Hillbilly Elegy writer tested his power in the GOP"
+    "title": "Trumps endorsement of Hillbilly Elegy writer tested his power in the GOP",
+    "sentiment": "-0.487"
   },
   {
-    "id": 5749,
-    "mediaId": 323,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "The Editorial Board",
-    "title": "Powell Puts Volcker on Hold"
-  },
-  {
-    "id": 5751,
-    "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Your Wednesday Evening Briefing"
-  },
-  {
-    "id": 5754,
-    "mediaId": 209,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Catherine Garcia",
-    "title": "J.D. Vance projected to win GOP Senate primary in Ohio"
-  },
-  {
-    "id": 5761,
+    "id": 5939,
     "mediaId": 151,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-03T08:31",
     "sentence": "",
     "author": "",
-    "title": "Crypto enters primary season with Ohio victories"
+    "title": "7 ways Tuesdays primaries could shake the 2022 election",
+    "sentiment": "0"
   },
   {
-    "id": 5762,
-    "mediaId": 238,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 5935,
+    "mediaId": 136,
+    "date": "d2022-05-03T09:00",
     "sentence": "",
-    "author": "",
-    "title": "Opinion Why the J.D. Vance victory wasnt all about Trump"
+    "author": "Bill Powell",
+    "title": "Races to Watch on Tuesday as Primary Season Kicks Off",
+    "sentiment": "-0.462"
   },
   {
-    "id": 5765,
-    "mediaId": 65,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Democrat Tim Ryan dodges question on whether he'll let Biden campaign for him in Ohio Senate race"
-  },
-  {
-    "id": 5766,
+    "id": 5933,
     "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-03T09:18",
     "sentence": "",
-    "author": "Max Greenwood",
-    "title": "Campaign Report  Trump shows his strength in Ohio"
+    "author": "Reid Wilson",
+    "title": "Busy month of primaries to set stage for midterms",
+    "sentiment": "0"
   },
   {
-    "id": 5771,
-    "mediaId": 136,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "Democrats Target Anti-Trump GOP Voters as MAGA Declares Victory in Ohio"
-  },
-  {
-    "id": 5777,
-    "mediaId": 323,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Aaron Zitner",
-    "title": "J.D. Vance, Tim Ryan Set to Battle for Ohio Blue-Collar Voters in November"
-  },
-  {
-    "id": 5781,
-    "mediaId": 238,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion"
-  },
-  {
-    "id": 5783,
-    "mediaId": 136,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "J.D. Vance Expected to Crush Tim Ryan and Win Ohio Senate Race"
-  },
-  {
-    "id": 5784,
-    "mediaId": 238,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Trump and Biden prevail as party leaders in Ohio primary results"
-  },
-  {
-    "id": 5787,
-    "mediaId": 237,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Virginia Aabram",
-    "title": "Ohio Democrats mock JD Vance as elitist as uphill November Senate fight opens"
-  },
-  {
-    "id": 5788,
+    "id": 5918,
     "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-03T13:37:50",
     "sentence": "",
     "author": "",
-    "title": "A bitter general election battle between Tim Ryan and J.D. Vance for Senate is quickly taking shape."
+    "title": "G.O.P. Candidates Make Final Push in Ohios Closely Watched Senate Race",
+    "sentiment": "0"
   },
   {
-    "id": 5789,
+    "id": 5916,
+    "mediaId": 195,
+    "date": "d2022-05-03T16:50",
+    "sentence": "",
+    "author": "Caroline Vakil",
+    "title": "Trump says JD Vance best suited to win the election, warns of Tim Ryans campaign bank account",
+    "sentiment": "0.788"
+  },
+  {
+    "id": 5913,
     "mediaId": 120,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-03T19:12",
     "sentence": "",
     "author": "Steve Benen",
-    "title": "Michigan Republican defeated after lie back and enjoy it talk"
+    "title": "Why campaign watchers are keeping an eye on Ohio, Indiana today",
+    "sentiment": "0"
   },
   {
-    "id": 5791,
-    "mediaId": 32,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 5911,
+    "mediaId": 129,
+    "date": "d2022-05-03T19:25:33",
     "sentence": "",
-    "author": "Matthew J. Belvedere,Peter Schacknow",
-    "title": "What to watch today: Wall Street set to rise ahead of Fed decision, after weaker ADP data"
+    "author": "",
+    "title": "Ohio Primary Election Results",
+    "sentiment": "0"
   },
   {
-    "id": 5804,
-    "mediaId": 209,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 5909,
+    "mediaId": 237,
+    "date": "d2022-05-03T19:55",
     "sentence": "",
-    "author": "W. James Antle III",
-    "title": "What J.D. Vance's Ohio primary victory means"
+    "author": "Joe Maiorana/AP",
+    "title": "Live Blog: Ohio and Indiana Midterm primaries",
+    "sentiment": "0"
   },
   {
-    "id": 5811,
-    "mediaId": 187,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 5908,
+    "mediaId": 136,
+    "date": "d2022-05-03T20:05",
     "sentence": "",
-    "author": "David A. Graham",
-    "title": "The Art of the Dealer"
+    "author": "Meghan Roos",
+    "title": "Ohio 2022 Primary Live Updates: Trump-Backed J.D. Vance Wins GOP Senate Primary",
+    "sentiment": "0.916"
   },
   {
-    "id": 5812,
-    "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 5905,
+    "mediaId": 136,
+    "date": "d2022-05-03T21:22",
     "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Five takeaways from the Ohio primaries"
+    "author": "Adam Staten",
+    "title": "Trump Worried Tim Ryan's Cash Puts J.D. Vance's Senate Shot at Risk",
+    "sentiment": "-0.824"
   },
   {
-    "id": 5815,
+    "id": 5900,
+    "mediaId": 233,
+    "date": "d2022-05-03T22:33",
+    "sentence": "",
+    "author": "Anna Staver",
+    "title": "Ohio primary kicks off 2022 midterm battles as abortion seizes the debate",
+    "sentiment": "-0.262"
+  },
+  {
+    "id": 5896,
     "mediaId": 65,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-03T23:31",
     "sentence": "",
     "author": "Tyler Olson",
-    "title": "Vance calls for GOP unity after major comeback in Ohio Senate primary"
-  },
-  {
-    "id": 5820,
-    "mediaId": 151,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Trump-backed Vance wins Ohio GOP Senate nod"
-  },
-  {
-    "id": 5822,
-    "mediaId": 136,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "J.D. Vance Thanks Anti-Trump Opponent for Making GOP 'Better' Touting Win"
-  },
-  {
-    "id": 5824,
-    "mediaId": 233,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "David Jackson",
-    "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November"
-  },
-  {
-    "id": 5826,
-    "mediaId": 124,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Democrats nominate Tim Ryan in Ohios key Senate race, NBC News projects"
-  },
-  {
-    "id": 5828,
-    "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "Vance wins Ohio Senate primary, handing Trump key victory"
-  },
-  {
-    "id": 5831,
-    "mediaId": 237,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Salena Zito",
-    "title": "Appalachia gets a voice in J.D. Vance's win in Ohio"
-  },
-  {
-    "id": 5834,
-    "mediaId": 124,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Vance leads in Ohio Republican Senate primary, remains too early to call"
+    "title": "Polls now closed in Ohio, where the GOP Senate primary is seen a key test of Trump's GOP clout",
+    "sentiment": "0"
   },
   {
     "id": 5841,
     "mediaId": 43,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "rich guy J.D. Vance wins massively expensive Ohio Senate primary"
+    "title": "rich guy J.D. Vance wins massively expensive Ohio Senate primary",
+    "sentiment": "-0.17"
   },
   {
     "id": 5846,
     "mediaId": 234,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Eric Lutz",
-    "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked"
+    "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
+    "sentiment": "0"
   },
   {
     "id": 5848,
     "mediaId": 25,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Ohio primary results: Trump-backed J.D. Vance wins Republican Senate race"
+    "title": "Ohio primary results: Trump-backed J.D. Vance wins Republican Senate race",
+    "sentiment": "0.741"
   },
   {
     "id": 5851,
     "mediaId": 157,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Bob Brigham",
-    "title": "Far-right takes a victory lap as JD Vance begins grueling general election battle against Tim Ryan"
+    "title": "Far-right takes a victory lap as JD Vance begins grueling general election battle against Tim Ryan",
+    "sentiment": "-0.476"
   },
   {
     "id": 5869,
     "mediaId": 34,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Jake Johnson",
-    "title": "JD Vance, Backed by Trump and Billionaire Cash, Wins GOP Senate Primary in Ohio"
+    "title": "JD Vance, Backed by Trump and Billionaire Cash, Wins GOP Senate Primary in Ohio",
+    "sentiment": "0.169"
   },
   {
-    "id": 1732,
-    "mediaId": 195,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Dennis Aftergut",
-    "title": "J.D. Vance's GOP primary victory in Ohio says little about Trump's endorsement power"
-  },
-  {
-    "id": 5702,
-    "mediaId": 238,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "E.J. Dionne Jr.",
-    "title": "Opinion Ohios U.S. Senate race pits a fake populist against a real one"
-  },
-  {
-    "id": 5703,
-    "mediaId": 65,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Nikolas Lanum",
-    "title": "Democrat Tim Ryan's Ohio Senate campaign doesn't want disgraced Lincoln Project's help: 'Pls no'"
-  },
-  {
-    "id": 5705,
-    "mediaId": 129,
-    "date": "5/5/2022 12:00:00 AM",
+    "id": 5834,
+    "mediaId": 124,
+    "date": "d2022-05-04T00:02:56",
     "sentence": "",
     "author": "",
-    "title": "In Ohio Senate Race, Democrats Pin Their Hopes on the Suburbs"
+    "title": "Vance leads in Ohio Republican Senate primary, remains too early to call",
+    "sentiment": "0"
   },
   {
-    "id": 5706,
-    "mediaId": 223,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Rebecca Downs",
-    "title": "People Are Preemptively Congratulating J.D. Vance After the Lincoln Project Gets Involved in Race"
-  },
-  {
-    "id": 5728,
+    "id": 5831,
     "mediaId": 237,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:50",
     "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Midterm Memo: Financier Peter Thiel and pollster Tony Fabrizio boosted by Vance win"
+    "author": "Salena Zito",
+    "title": "Appalachia gets a voice in J.D. Vance's win in Ohio",
+    "sentiment": "0.832"
+  },
+  {
+    "id": 5828,
+    "mediaId": 195,
+    "date": "d2022-05-04T01:36",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Vance wins Ohio Senate primary, handing Trump key victory",
+    "sentiment": "0"
+  },
+  {
+    "id": 5826,
+    "mediaId": 124,
+    "date": "d2022-05-04T01:59:52",
+    "sentence": "",
+    "author": "",
+    "title": "Democrats nominate Tim Ryan in Ohios key Senate race, NBC News projects",
+    "sentiment": "0"
+  },
+  {
+    "id": 5824,
+    "mediaId": 233,
+    "date": "d2022-05-04T02:30",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November",
+    "sentiment": "0.241"
+  },
+  {
+    "id": 5822,
+    "mediaId": 136,
+    "date": "d2022-05-04T02:45",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "J.D. Vance Thanks Anti-Trump Opponent for Making GOP 'Better' Touting Win",
+    "sentiment": "0.85"
+  },
+  {
+    "id": 5820,
+    "mediaId": 151,
+    "date": "d2022-05-04T02:47",
+    "sentence": "",
+    "author": "",
+    "title": "Trump-backed Vance wins Ohio GOP Senate nod",
+    "sentiment": "0.536"
+  },
+  {
+    "id": 5815,
+    "mediaId": 65,
+    "date": "d2022-05-04T02:53",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Vance calls for GOP unity after major comeback in Ohio Senate primary",
+    "sentiment": "0.703"
+  },
+  {
+    "id": 5812,
+    "mediaId": 195,
+    "date": "d2022-05-04T04:03",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Five takeaways from the Ohio primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5811,
+    "mediaId": 187,
+    "date": "d2022-05-04T04:13",
+    "sentence": "",
+    "author": "David A. Graham",
+    "title": "The Art of the Dealer",
+    "sentiment": "0"
+  },
+  {
+    "id": 5804,
+    "mediaId": 209,
+    "date": "d2022-05-04T08:50",
+    "sentence": "",
+    "author": "W. James Antle III",
+    "title": "What J.D. Vance's Ohio primary victory means",
+    "sentiment": "0.691"
+  },
+  {
+    "id": 5791,
+    "mediaId": 32,
+    "date": "d2022-05-04T12:52:13",
+    "sentence": "",
+    "author": "Matthew J. Belvedere,Peter Schacknow",
+    "title": "What to watch today: Wall Street set to rise ahead of Fed decision, after weaker ADP data",
+    "sentiment": "0"
+  },
+  {
+    "id": 5789,
+    "mediaId": 120,
+    "date": "d2022-05-04T13:22",
+    "sentence": "",
+    "author": "Steve Benen",
+    "title": "Michigan Republican defeated after lie back and enjoy it talk",
+    "sentiment": "0"
+  },
+  {
+    "id": 5788,
+    "mediaId": 129,
+    "date": "d2022-05-04T13:30:15",
+    "sentence": "",
+    "author": "",
+    "title": "A bitter general election battle between Tim Ryan and J.D. Vance for Senate is quickly taking shape.",
+    "sentiment": "0"
+  },
+  {
+    "id": 5787,
+    "mediaId": 237,
+    "date": "d2022-05-04T13:32",
+    "sentence": "",
+    "author": "Virginia Aabram",
+    "title": "Ohio Democrats mock JD Vance as elitist as uphill November Senate fight opens",
+    "sentiment": "-0.596"
+  },
+  {
+    "id": 5784,
+    "mediaId": 238,
+    "date": "d2022-05-04T14:22",
+    "sentence": "",
+    "author": "",
+    "title": "Trump and Biden prevail as party leaders in Ohio primary results",
+    "sentiment": "0"
+  },
+  {
+    "id": 5783,
+    "mediaId": 136,
+    "date": "d2022-05-04T14:36",
+    "sentence": "",
+    "author": "Ewan Palmer",
+    "title": "J.D. Vance Expected to Crush Tim Ryan and Win Ohio Senate Race",
+    "sentiment": "0"
+  },
+  {
+    "id": 5781,
+    "mediaId": 238,
+    "date": "d2022-05-04T15:17",
+    "sentence": "",
+    "author": "",
+    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 5777,
+    "mediaId": 323,
+    "date": "d2022-05-04T16:03",
+    "sentence": "",
+    "author": "Aaron Zitner",
+    "title": "J.D. Vance, Tim Ryan Set to Battle for Ohio Blue-Collar Voters in November",
+    "sentiment": "0"
+  },
+  {
+    "id": 5771,
+    "mediaId": 136,
+    "date": "d2022-05-04T17:31",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "Democrats Target Anti-Trump GOP Voters as MAGA Declares Victory in Ohio",
+    "sentiment": "0.171"
+  },
+  {
+    "id": 5766,
+    "mediaId": 195,
+    "date": "d2022-05-04T18:21",
+    "sentence": "",
+    "author": "Max Greenwood",
+    "title": "Campaign Report  Trump shows his strength in Ohio",
+    "sentiment": "0.912"
+  },
+  {
+    "id": 5765,
+    "mediaId": 65,
+    "date": "d2022-05-04T18:55",
+    "sentence": "",
+    "author": "",
+    "title": "Democrat Tim Ryan dodges question on whether he'll let Biden campaign for him in Ohio Senate race",
+    "sentiment": "-0.819"
+  },
+  {
+    "id": 5762,
+    "mediaId": 238,
+    "date": "d2022-05-04T19:54",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion Why the J.D. Vance victory wasnt all about Trump",
+    "sentiment": "0.403"
+  },
+  {
+    "id": 5761,
+    "mediaId": 151,
+    "date": "d2022-05-04T19:59",
+    "sentence": "",
+    "author": "",
+    "title": "Crypto enters primary season with Ohio victories",
+    "sentiment": "0.747"
+  },
+  {
+    "id": 5754,
+    "mediaId": 209,
+    "date": "d2022-05-04T21:53",
+    "sentence": "",
+    "author": "Catherine Garcia",
+    "title": "J.D. Vance projected to win GOP Senate primary in Ohio",
+    "sentiment": "0.657"
+  },
+  {
+    "id": 5751,
+    "mediaId": 129,
+    "date": "d2022-05-04T22:46",
+    "sentence": "",
+    "author": "",
+    "title": "Your Wednesday Evening Briefing",
+    "sentiment": "0"
+  },
+  {
+    "id": 5749,
+    "mediaId": 323,
+    "date": "d2022-05-04T23:17",
+    "sentence": "",
+    "author": "The Editorial Board",
+    "title": "Powell Puts Volcker on Hold",
+    "sentiment": "0.657"
   },
   {
     "id": 5731,
     "mediaId": 129,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "In Ohio Senate Race, Democrats Pin Their Hopes on the Suburbs"
+    "title": "In Ohio Senate Race, Democrats Pin Their Hopes on the Suburbs",
+    "sentiment": "0"
   },
   {
     "id": 5732,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Katherine Hamilton",
-    "title": "J.D. Vance on Kamala Harris Stooge Tim Ryans Late-Term Abortion Stance: Barbaric Anywhere in the World"
+    "title": "J.D. Vance on Kamala Harris Stooge Tim Ryans Late-Term Abortion Stance: Barbaric Anywhere in the World",
+    "sentiment": "0"
   },
   {
     "id": 5741,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "John Binder",
-    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement"
+    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement",
+    "sentiment": "0"
   },
   {
     "id": 5742,
     "mediaId": 188,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Chris Pandolfo",
-    "title": "Ohio Senate candidate Tim Ryan on late-term abortion: 'Leave it up to the woman'"
+    "title": "Ohio Senate candidate Tim Ryan on late-term abortion: 'Leave it up to the woman'",
+    "sentiment": "0"
   },
   {
     "id": 5748,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Downballot: Why progressives must build state power (transcript)"
+    "title": "The Downballot: Why progressives must build state power (transcript)",
+    "sentiment": "0.606"
   },
   {
-    "id": 5653,
+    "id": 5728,
+    "mediaId": 237,
+    "date": "d2022-05-05T06:00",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Midterm Memo: Financier Peter Thiel and pollster Tony Fabrizio boosted by Vance win",
+    "sentiment": "0.592"
+  },
+  {
+    "id": 1732,
+    "mediaId": 195,
+    "date": "d2022-05-05T12:30",
+    "sentence": "",
+    "author": "Dennis Aftergut",
+    "title": "J.D. Vance's GOP primary victory in Ohio says little about Trump's endorsement power",
+    "sentiment": "-0.341"
+  },
+  {
+    "id": 5706,
+    "mediaId": 223,
+    "date": "d2022-05-05T19:30",
+    "sentence": "",
+    "author": "Rebecca Downs",
+    "title": "People Are Preemptively Congratulating J.D. Vance After the Lincoln Project Gets Involved in Race",
+    "sentiment": "-0.451"
+  },
+  {
+    "id": 5705,
     "mediaId": 129,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-05T20:03",
     "sentence": "",
     "author": "",
-    "title": "Inflation concerns are at the center of an Ohio Senate contest."
+    "title": "In Ohio Senate Race, Democrats Pin Their Hopes on the Suburbs",
+    "sentiment": "0"
   },
   {
-    "id": 5655,
-    "mediaId": 151,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Why the political environment is outweighing candidate strength  for now"
-  },
-  {
-    "id": 5656,
-    "mediaId": 112,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Victor Reklaitis",
-    "title": "Tim Ryan, Democrats Senate nominee in Ohio, skips Bidens events in the Cincinnati area"
-  },
-  {
-    "id": 5659,
-    "mediaId": 376,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kate Ackley\nNiels Lesniewski",
-    "title": "In Ohio, Biden pushes bipartisan bill as way to curb inflation"
-  },
-  {
-    "id": 5668,
-    "mediaId": 441,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Josh Wingrove",
-    "title": "Biden Heads for JD Vances Home Turf as Democrat Sits Out Event"
-  },
-  {
-    "id": 5669,
+    "id": 5703,
     "mediaId": 65,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-05T20:28",
     "sentence": "",
-    "author": "",
-    "title": "JD Vance campaign fires back at Politico Playbook: They're acting like Tim Ryan's 'PR team'"
+    "author": "Nikolas Lanum",
+    "title": "Democrat Tim Ryan's Ohio Senate campaign doesn't want disgraced Lincoln Project's help: 'Pls no'",
+    "sentiment": "0"
   },
   {
-    "id": 5683,
-    "mediaId": 593,
-    "date": "5/6/2022 12:00:00 AM",
+    "id": 5702,
+    "mediaId": 238,
+    "date": "d2022-05-05T20:49",
     "sentence": "",
-    "author": "AFP News",
-    "title": "Biden Heads To Ohio To Tout Industrial Renewal Plan"
-  },
-  {
-    "id": 5685,
-    "mediaId": 558,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Damon Linker",
-    "title": "The only way for Democrats to ride the abortion tiger to victory in November"
+    "author": "E.J. Dionne Jr.",
+    "title": "Opinion Ohios U.S. Senate race pits a fake populist against a real one",
+    "sentiment": "0.264"
   },
   {
     "id": 5691,
     "mediaId": 43,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "",
-    "title": "Highlights from The Downballot: Why building progressive state power is imperative"
+    "title": "Highlights from The Downballot: Why building progressive state power is imperative",
+    "sentiment": "0.471"
   },
   {
     "id": 5692,
     "mediaId": 19,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Jacob Bliss",
-    "title": "Tim Ryan Devolves: Pro-Life Champion to Radically Pro-Abortion"
+    "title": "Tim Ryan Devolves: Pro-Life Champion to Radically Pro-Abortion",
+    "sentiment": "0"
   },
   {
     "id": 5697,
     "mediaId": 209,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Damon Linker",
-    "title": "The only way for Democrats to ride the abortion tiger to victory in November"
+    "title": "The only way for Democrats to ride the abortion tiger to victory in November",
+    "sentiment": "0"
+  },
+  {
+    "id": 5685,
+    "mediaId": 558,
+    "date": "d2022-05-06T02:58",
+    "sentence": "",
+    "author": "Damon Linker",
+    "title": "The only way for Democrats to ride the abortion tiger to victory in November",
+    "sentiment": "-0.47"
+  },
+  {
+    "id": 5669,
+    "mediaId": 65,
+    "date": "d2022-05-06T14:25",
+    "sentence": "",
+    "author": "",
+    "title": "JD Vance campaign fires back at Politico Playbook: They're acting like Tim Ryan's 'PR team'",
+    "sentiment": "-0.574"
+  },
+  {
+    "id": 5668,
+    "mediaId": 441,
+    "date": "d2022-05-06T15:00",
+    "sentence": "",
+    "author": "Josh Wingrove",
+    "title": "Biden Heads for JD Vances Home Turf as Democrat Sits Out Event",
+    "sentiment": "0.506"
+  },
+  {
+    "id": 5659,
+    "mediaId": 376,
+    "date": "d2022-05-06T17:57",
+    "sentence": "",
+    "author": "Kate Ackley\nNiels Lesniewski",
+    "title": "In Ohio, Biden pushes bipartisan bill as way to curb inflation",
+    "sentiment": "0"
+  },
+  {
+    "id": 5656,
+    "mediaId": 112,
+    "date": "d2022-05-06T19:40",
+    "sentence": "",
+    "author": "Victor Reklaitis",
+    "title": "Tim Ryan, Democrats Senate nominee in Ohio, skips Bidens events in the Cincinnati area",
+    "sentiment": "0"
+  },
+  {
+    "id": 5655,
+    "mediaId": 151,
+    "date": "d2022-05-06T21:06",
+    "sentence": "",
+    "author": "",
+    "title": "Why the political environment is outweighing candidate strength  for now",
+    "sentiment": "-0.32"
+  },
+  {
+    "id": 5653,
+    "mediaId": 129,
+    "date": "d2022-05-06T22:25",
+    "sentence": "",
+    "author": "",
+    "title": "Inflation concerns are at the center of an Ohio Senate contest.",
+    "sentiment": "0"
   },
   {
     "id": 5628,
     "mediaId": 238,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T16:12",
     "sentence": "",
     "author": "",
-    "title": "Can Democrats win back working-class voters? Watch Ohio."
+    "title": "Can Democrats win back working-class voters? Watch Ohio.",
+    "sentiment": "0.544"
   },
   {
     "id": 5610,
     "mediaId": 18,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T19:44",
     "sentence": "",
     "author": "Peter Lucas",
-    "title": "Lucas: Biden could use some love from Massachusetts Democrats"
+    "title": "Lucas: Biden could use some love from Massachusetts Democrats",
+    "sentiment": "0"
   },
   {
     "id": 3780,
     "mediaId": 238,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T10:00",
     "sentence": "",
     "author": "",
-    "title": "Emboldened by wins, GOP goes all in on the culture wars"
+    "title": "Emboldened by wins, GOP goes all in on the culture wars",
+    "sentiment": "0"
   },
   {
     "id": 5559,
     "mediaId": 19,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "",
     "author": "John Binder",
-    "title": "ExclusiveJ.D. Vance: Ruling Class Hellbent on Keeping U.S. in Managed Decline by Weakening China Tariffs"
+    "title": "ExclusiveJ.D. Vance: Ruling Class Hellbent on Keeping U.S. in Managed Decline by Weakening China Tariffs",
+    "sentiment": "0"
   },
   {
     "id": 5527,
     "mediaId": 136,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T21:33",
     "sentence": "",
     "author": "Andrew Stanton",
-    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill"
+    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill",
+    "sentiment": "0"
   },
   {
     "id": 5497,
     "mediaId": 98,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T03:09",
     "sentence": "",
     "author": "LISA MASCARO",
-    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine"
+    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine",
+    "sentiment": "0"
+  },
+  {
+    "id": 8562,
+    "mediaId": 195,
+    "date": "d2022-05-29T15:30",
+    "sentence": "",
+    "author": "Albert Hunt",
+    "title": "Better candidates may not be enough for Democrats to retain the Senate",
+    "sentiment": "0"
   }
 ]

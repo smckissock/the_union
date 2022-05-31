@@ -1,18 +1,38 @@
 [
   {
-    "id": 4418,
+    "id": 4421,
     "mediaId": 302,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T10:00",
     "sentence": "",
     "author": "",
-    "title": "A closer look at Floridas rejected math textbooks"
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0"
   },
   {
     "id": 4421,
     "mediaId": 302,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T10:00",
     "sentence": "",
     "author": "",
-    "title": "A closer look at Floridas rejected math textbooks"
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4418,
+    "mediaId": 302,
+    "date": "d2022-04-29T10:00:02",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0"
+  },
+  {
+    "id": 4418,
+    "mediaId": 302,
+    "date": "d2022-04-29T10:00:02",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0.0"
   }
 ]

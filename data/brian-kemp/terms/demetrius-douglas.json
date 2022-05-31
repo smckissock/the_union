@@ -2,17 +2,19 @@
   {
     "id": 5321,
     "mediaId": 12,
-    "date": "4/5/2022 12:00:00 AM",
+    "date": "d2022-04-05T04:00",
     "sentence": "",
     "author": "Ty Tagami",
-    "title": "State lawmakers send school recess bill to Kemp for signature"
+    "title": "State lawmakers send school recess bill to Kemp for signature",
+    "sentiment": "0"
   },
   {
     "id": 4569,
     "mediaId": 1576,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "",
-    "title": "New Georgia law requires recess, but has several exceptions"
+    "title": "New Georgia law requires recess, but has several exceptions",
+    "sentiment": "0"
   }
 ]

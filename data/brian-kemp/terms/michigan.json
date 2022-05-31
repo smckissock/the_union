@@ -2,57 +2,82 @@
   {
     "id": 5349,
     "mediaId": 136,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T10:00",
     "sentence": "Walker is running to unseat Democratic Senator Raphael Warnock while Perdue is challenging Republican Governor <span class='selected-term'>Brian Kemp</span>.",
     "author": "Alexandra Hutzler",
-    "title": "How to Watch Trump Michigan Rally: Time, Live Stream for GOP Event"
+    "title": "How to Watch Trump Michigan Rally: Time, Live Stream for GOP Event",
+    "sentiment": "0.0"
   },
   {
     "id": 5032,
     "mediaId": 169,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T06:30",
     "sentence": "",
     "author": "Chauncey DeVega",
-    "title": "Has the mainstream media already made its peace with fascism? We'll soon find out"
+    "title": "Has the mainstream media already made its peace with fascism? We'll soon find out",
+    "sentiment": "0.0"
   },
   {
     "id": 4779,
     "mediaId": 223,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T13:30",
     "sentence": "Lindenbaum's name appears as the third signature on the original complaint in the lawsuit alleging voter suppression in the race that saw then-Republican Secretary of State <span class='selected-term'>Brian Kemp</span> defeat Abrams by 55,000 votes statewide in the governor's race.",
     "author": "Guy Benson",
-    "title": "Surprise: Biden Nominates Conspiratorial Election Truther to Oversee US Elections"
+    "title": "Surprise: Biden Nominates Conspiratorial Election Truther to Oversee US Elections",
+    "sentiment": "-0.866"
   },
   {
     "id": 4634,
     "mediaId": 195,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T17:00",
     "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> is far from the only chief executive using taxpayer money to claim credit for new (or relocated) jobs.",
     "author": "Michael Farren",
-    "title": "Sick of sneaky state subsidies? Ban secret deals"
+    "title": "Sick of sneaky state subsidies? Ban secret deals",
+    "sentiment": "0.0"
   },
   {
     "id": 4575,
     "mediaId": 223,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T15:45",
     "sentence": "",
     "author": "Matt Vespa",
-    "title": "What a Woman Found Walking Her Dog Should Spark More Questions About Election Integrity"
+    "title": "What a Woman Found Walking Her Dog Should Spark More Questions About Election Integrity",
+    "sentiment": "0"
   },
   {
     "id": 4466,
     "mediaId": 302,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "",
     "author": "Associated Press",
-    "title": "Biden invokes Defense Production Act for baby formula shortage"
+    "title": "Biden invokes Defense Production Act for baby formula shortage",
+    "sentiment": "0.0"
   },
   {
     "id": 7359,
     "mediaId": 151,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T05:05",
     "sentence": "",
     "author": "",
-    "title": "Raffensperger wins Georgia secretary of state primary over Trump-backed opponent"
+    "title": "Raffensperger wins Georgia secretary of state primary over Trump-backed opponent",
+    "sentiment": "0"
+  },
+  {
+    "id": 8464,
+    "mediaId": 238,
+    "date": "d2022-05-27T13:17",
+    "sentence": "",
+    "author": "Aaron Blake",
+    "title": "Trump's GOP election purge marches on, despite setbacks in Georgia",
+    "sentiment": "0"
+  },
+  {
+    "id": 8463,
+    "mediaId": 195,
+    "date": "d2022-05-27T15:00",
+    "sentence": "",
+    "author": "Dennis Aftergut",
+    "title": "Rays of a much-needed, principled GOP shine through",
+    "sentiment": "0"
   }
 ]

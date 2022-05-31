@@ -1,50 +1,74 @@
 [
   {
-    "id": 7028,
-    "mediaId": 63,
-    "date": "2/15/2022 12:00:00 AM",
-    "sentence": "The committee also subpoenaed Pennsylvania gubernatorial candidate and state Sen. <span class='selected-term'>Doug Mastriano</span> (R), Arizona GOP chairwoman Kelli Ward, former Michigan Republican State Committee chairwoman Laura Cox and Arizona state Rep. Mark Finchem (R), who is also a member of the far-right militia group the Oath Keepers.",
-    "author": "Nicholas Reimann",
-    "title": "Jan. 6 Committee Subpoenas Trump Campaign Officials Over Fake Electors Scheme"
-  },
-  {
     "id": 7030,
     "mediaId": 237,
-    "date": "2/15/2022 12:00:00 AM",
+    "date": "d2022-02-15T20:24",
     "sentence": "The latest bevy of subpoenas includes those sent to Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> and Arizona state Rep. Mark Finchem, two Trump allies who the committee says boosted efforts to send alternate electors who would vote for Trump.",
     "author": "Virginia Aabram",
-    "title": "'False electors' targeted in new round of Jan. 6 committee subpoenas"
+    "title": "'False electors' targeted in new round of Jan. 6 committee subpoenas",
+    "sentiment": "0"
+  },
+  {
+    "id": 7028,
+    "mediaId": 63,
+    "date": "d2022-02-15T22:21",
+    "sentence": "The committee also subpoenaed Pennsylvania gubernatorial candidate and state Sen. <span class='selected-term'>Doug Mastriano</span> (R), Arizona GOP chairwoman Kelli Ward, former Michigan Republican State Committee chairwoman Laura Cox and Arizona state Rep. Mark Finchem (R), who is also a member of the far-right militia group the Oath Keepers.",
+    "author": "Nicholas Reimann",
+    "title": "Jan. 6 Committee Subpoenas Trump Campaign Officials Over Fake Electors Scheme",
+    "sentiment": "0.0"
   },
   {
     "id": 6892,
     "mediaId": 129,
-    "date": "5/8/2022 12:00:00 AM",
+    "date": "d2022-05-08T00:00",
     "sentence": "Lou Barletta, a former congressman and one of two front-runners in the race, has said he would sign any bill that comes to my desk that would protect the life of the unborn.?\nAnother top candidate, <span class='selected-term'>Doug Mastriano</span>, said in a recent debate that he was opposed to any exceptions  for rape, incest or the health of the mother  in an abortion ban.",
     "author": "",
-    "title": "Midterms Biggest Abortion Battleground: Pennsylvania"
+    "title": "Midterms Biggest Abortion Battleground: Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 6791,
     "mediaId": 558,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "State senator <span class='selected-term'>Doug Mastriano</span>, who ahead of the Tuesday primary, said at a recent debate that he would oppose any exceptions to an abortion ban, such as for rape, incest or the safety of the mother.",
     "author": "Joan E Greve",
-    "title": "Abortion rights: how a governors veto can protect womens freedoms"
+    "title": "Abortion rights: how a governors veto can protect womens freedoms",
+    "sentiment": "0.0"
   },
   {
     "id": 6757,
     "mediaId": 98,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "One of those bills, a six-week ban that would effectively block the majority of abortions, was introduced in the state Senate by <span class='selected-term'>Doug Mastriano</span>, a candidate endorsed by former President Trump who is leading the field heading into Tuesdays Republican gubernatorial primary.",
     "author": "Arit John",
-    "title": "Pennsylvania governors race could have outsize impact on abortion access"
+    "title": "Pennsylvania governors race could have outsize impact on abortion access",
+    "sentiment": "0.0"
   },
   {
     "id": 4466,
     "mediaId": 302,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "And in Pennsylvanias GOP race for governor, Trumps endorsed candidate, the far-right <span class='selected-term'>Doug Mastriano</span>, easily won the nomination  though he was already well ahead in the polls when Trump weighed in just days before the primary.",
     "author": "Associated Press",
-    "title": "Biden invokes Defense Production Act for baby formula shortage"
+    "title": "Biden invokes Defense Production Act for baby formula shortage",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8464,
+    "mediaId": 238,
+    "date": "d2022-05-27T13:17",
+    "sentence": "It's not just the election truthers who are winning GOP backing in key races, like the two candidates for Michigan attorney general and secretary of state, and Pennsylvania gubernatorial nominee <span class='selected-term'>Doug Mastriano</span>; there are also subtler and lower-profile instances.",
+    "author": "Aaron Blake",
+    "title": "Trump's GOP election purge marches on, despite setbacks in Georgia",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8463,
+    "mediaId": 195,
+    "date": "d2022-05-27T15:00",
+    "sentence": "There, Republican primary voters nominated extremist <span class='selected-term'>Doug Mastriano</span> for governor.",
+    "author": "Dennis Aftergut",
+    "title": "Rays of a much-needed, principled GOP shine through",
+    "sentiment": "0.0"
   }
 ]

@@ -2,17 +2,37 @@
   {
     "id": 6251,
     "mediaId": 238,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T15:31",
     "sentence": "",
     "author": "",
-    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future"
+    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
+    "sentiment": "-0.275"
+  },
+  {
+    "id": 6251,
+    "mediaId": 238,
+    "date": "d2022-04-21T15:31",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
+    "sentiment": "0.0"
   },
   {
     "id": 4130,
     "mediaId": 558,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T12:32",
     "sentence": "And if there's been a fire drill the last couple of weeks, Neeru, it's, of course, been Disney versus <span class='selected-term'>Ron DeSantis</span> in Florida.",
     "author": "",
-    "title": "Roe v. Wade decision: Companies are really going to be forced to take a side, expert explains"
+    "title": "Roe v. Wade decision: Companies are really going to be forced to take a side, expert explains",
+    "sentiment": "0"
+  },
+  {
+    "id": 4130,
+    "mediaId": 558,
+    "date": "d2022-05-03T12:32",
+    "sentence": "And if there's been a fire drill the last couple of weeks, Neeru, it's, of course, been Disney versus <span class='selected-term'>Ron DeSantis</span> in Florida.",
+    "author": "",
+    "title": "Roe v. Wade decision: Companies are really going to be forced to take a side, expert explains",
+    "sentiment": "0.0"
   }
 ]

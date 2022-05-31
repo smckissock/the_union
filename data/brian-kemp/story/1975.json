@@ -1,10 +1,11 @@
 {
   "id": 1975,
   "mediaId": 157,
-  "date": "4/24/2022 12:00:00 AM",
+  "date": "d2022-04-24T00:00",
   "headline": "Trump is facing humiliation as his effort to dethrone Brian Kemp 'fizzles out in embarrassment': report",
   "image": "https://www.rawstory.com/media-library/brian-kemp-and-david-perdue.jpg?id=28606489&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/trump-kemp-perdue-georgia/",
+  "sentiment": "-0.978",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     934,
     1147,
-    1646,
     1951,
     2095,
     4325,

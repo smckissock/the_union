@@ -2,25 +2,28 @@
   {
     "id": 2285,
     "mediaId": 33,
-    "date": "2/10/2022 12:00:00 AM",
+    "date": "d2022-02-10T00:00",
     "sentence": "In Washington state, Trump endorsed the candidacy of former gubernatorial candidate <span class='selected-term'>Loren Culp</span>, a Republican who is running against GOP Rep. Dan Newhouse in the state's 4th District.",
     "author": "Chris Cillizza",
-    "title": "Two more Republicans just went on Donald Trump's hit list"
+    "title": "Two more Republicans just went on Donald Trump's hit list",
+    "sentiment": "0.0"
   },
   {
     "id": 2217,
     "mediaId": 376,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T15:02",
     "sentence": "Trump endorsed 2020 GOP gubernatorial nominee <span class='selected-term'>Loren Culp</span>, who refused to concede that race despite losing by 13.5 points to Democratic Gov.",
     "author": "",
-    "title": "New lines, interesting races in Washington state"
+    "title": "New lines, interesting races in Washington state",
+    "sentiment": "0.0"
   },
   {
     "id": 2,
     "mediaId": 163,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T10:06",
     "sentence": "* Versus U.S. Representative Dan Newhouse\n* Aug. 2 Republican primary for Washington's 4th congressional district\nTrump's pick to challenge Newhouse is former small-town police chief <span class='selected-term'>Loren Culp</span>, who in March called for the execution of a Black man accused of badly injuring a woman by throwing her down the stairs of a train station.",
     "author": "Reuters",
-    "title": "Factbox: Trump's endorsement power faces test in key elections"
+    "title": "Factbox: Trump's endorsement power faces test in key elections",
+    "sentiment": "0.0"
   }
 ]

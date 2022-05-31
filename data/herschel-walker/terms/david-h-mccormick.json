@@ -2,73 +2,91 @@
   {
     "id": 7793,
     "mediaId": 124,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T08:41:20",
     "sentence": "White House removes Dr. Oz and <span class='selected-term'>Herschel Walker</span> from advisory panel after Senate runs\nMarch 24, 202200:17\nBut by the time McCormick showed up Wednesday, Trump was already close to endorsing Oz, said two other Trump advisers, who said Trump wasnt swayed by the arguments of those close to him who were backing McCormick.",
     "author": "",
-    "title": "Dr. Oz bets Trump endorsement can catapult him in Pa. Senate race"
+    "title": "Dr. Oz bets Trump endorsement can catapult him in Pa. Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 6145,
     "mediaId": 124,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T13:05",
     "sentence": "Trump, for his part, is sticking by Perdue, saying in a statement last night, It is not easy to beat an incumbent, however, if our voters turn out, David Perdue will win in a landslide.?\nThe poll also finds 66 percent of likely voters supporting former football player <span class='selected-term'>Herschel Walker</span>, who has Trumps backing in the Senate race, while the other candidates polled in the single digits.",
     "author": "",
-    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate"
+    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
+    "sentiment": "0.0"
   },
   {
     "id": 5555,
     "mediaId": 157,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "\"If <span class='selected-term'>Herschel Walker</span> wins in Georgia, you look at J.D.Vance in Ohio, and you really want to look at crazy?",
     "author": "Travis Gettys",
-    "title": "Trump-endorsed 'freaks and liars' are making Republicans worried about midterm chances: Morning Joe"
-  },
-  {
-    "id": 3324,
-    "mediaId": 169,
-    "date": "5/13/2022 12:00:00 AM",
-    "sentence": "He's backed <span class='selected-term'>Herschel Walker</span> in Georgia, who lied about graduating college and is accused of threatening to kill his ex-wife.",
-    "author": "Amanda Marcotte",
-    "title": "Trump has only himself to blame for Kathy Barnette, Pennsylvania's terrifying new MAGA darling"
+    "title": "Trump-endorsed 'freaks and liars' are making Republicans worried about midterm chances: Morning Joe",
+    "sentiment": "0"
   },
   {
     "id": 7570,
     "mediaId": 157,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "He's backed <span class='selected-term'>Herschel Walker</span> in Georgia, who lied about graduating college and is accused of threatening to kill his ex-wife.",
     "author": "Amanda Marcotte",
-    "title": "You can credit MAGA misogyny with the surge of Pennsylvania's terrifying new right-wing darling"
+    "title": "You can credit MAGA misogyny with the surge of Pennsylvania's terrifying new right-wing darling",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3324,
+    "mediaId": 169,
+    "date": "d2022-05-13T13:00",
+    "sentence": "He's backed <span class='selected-term'>Herschel Walker</span> in Georgia, who lied about graduating college and is accused of threatening to kill his ex-wife.",
+    "author": "Amanda Marcotte",
+    "title": "Trump has only himself to blame for Kathy Barnette, Pennsylvania's terrifying new MAGA darling",
+    "sentiment": "0.0"
   },
   {
     "id": 5462,
     "mediaId": 238,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T21:29",
     "sentence": "Next week, Georgia Republicans are all but certain to nominate <span class='selected-term'>Herschel Walker</span>, who played for Trumps USFL football team in the early 1980s and was propelled into the Senate race by the ex-president.",
     "author": "Paul Kane",
-    "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell"
+    "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell",
+    "sentiment": "0.386"
   },
   {
     "id": 7554,
     "mediaId": 129,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "",
     "author": "",
-    "title": "A Pennsylvania Election Storm Brews Again, This Time in a G.O.P. Primary"
+    "title": "A Pennsylvania Election Storm Brews Again, This Time in a G.O.P. Primary",
+    "sentiment": "0.0"
   },
   {
     "id": 6539,
     "mediaId": 409,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T09:47",
     "sentence": "As noted a month ago, the GOP Senate primary in Georgia features <span class='selected-term'>Herschel Walker</span> against state agriculture commissioner Gary Black, former state representative Josh Clark, U.S. Air Force captain and entrepreneur Kelvin King, and former U.S. Navy SEAL and director of Intelligence Programs on the National Security Council Latham Saddler.",
     "author": "Jim Geraghty",
-    "title": "Trump's Gambling Isn't Paying Off"
+    "title": "Trump's Gambling Isn't Paying Off",
+    "sentiment": "-0.658"
   },
   {
     "id": 7202,
     "mediaId": 151,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T11:00",
     "sentence": "His preferred Senate candidate in Georgia, <span class='selected-term'>Herschel Walker</span>, is favored to win.",
     "author": "",
-    "title": "'No one's paying any attention': The week that Republicans ignored Trump's election lies"
+    "title": "'No one's paying any attention': The week that Republicans ignored Trump's election lies",
+    "sentiment": "0"
+  },
+  {
+    "id": 8404,
+    "mediaId": 376,
+    "date": "d2022-05-26T14:30",
+    "sentence": "Shop talk: Stephen Lawson\nLawson, CEO of Battleground Strategies, served as deputy campaign manager for former GOP Sen. Kelly Loeffler of Georgia in 2020 and currently is spokesman for a SuperPAC supporting this years nominee, <span class='selected-term'>Herschel Walker</span>, who faces Democratic Sen. Raphael Warnock.",
+    "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
+    "title": "At the Races: Divisions on display",
+    "sentiment": "0.0"
   }
 ]

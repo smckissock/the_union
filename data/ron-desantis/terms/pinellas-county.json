@@ -2,65 +2,100 @@
   {
     "id": 4366,
     "mediaId": 302,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T19:40:17",
     "sentence": "",
     "author": "",
-    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office"
+    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
+    "sentiment": "0"
+  },
+  {
+    "id": 4366,
+    "mediaId": 302,
+    "date": "d2022-04-29T19:40:17",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
+    "sentiment": "0.0"
   },
   {
     "id": 3705,
     "mediaId": 302,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T11:00",
     "sentence": "",
     "author": "",
-    "title": "Lawsuit over teaching about gender identity has effects in Florida schools"
+    "title": "Lawsuit over teaching about gender identity has effects in Florida schools",
+    "sentiment": "0.0"
   },
   {
     "id": 3642,
     "mediaId": 302,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T13:00",
     "sentence": "",
     "author": "",
-    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map"
+    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
+    "sentiment": "0"
   },
   {
-    "id": 3539,
+    "id": 3642,
     "mediaId": 302,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-12T13:00",
     "sentence": "",
     "author": "",
-    "title": "The challenges facing the next Pinellas schools superintendent | Editorial"
+    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
+    "sentiment": "0.0"
   },
   {
     "id": 3542,
     "mediaId": 302,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T18:00",
     "sentence": "",
     "author": "Romy Ellenbogen",
-    "title": "Kelli Stargel announces run for Floridas open 15th Congressional District"
+    "title": "Kelli Stargel announces run for Floridas open 15th Congressional District",
+    "sentiment": "0.0"
   },
   {
     "id": 3543,
     "mediaId": 302,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T18:00",
     "sentence": "",
     "author": "Romy Ellenbogen",
-    "title": "Michele Rayner drops out of Pinellas congressional race, runs for state House"
+    "title": "Michele Rayner drops out of Pinellas congressional race, runs for state House",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3539,
+    "mediaId": 302,
+    "date": "d2022-05-16T20:00",
+    "sentence": "",
+    "author": "",
+    "title": "The challenges facing the next Pinellas schools superintendent | Editorial",
+    "sentiment": "0"
+  },
+  {
+    "id": 3539,
+    "mediaId": 302,
+    "date": "d2022-05-16T20:00",
+    "sentence": "",
+    "author": "",
+    "title": "The challenges facing the next Pinellas schools superintendent | Editorial",
+    "sentiment": "0.0"
   },
   {
     "id": 3507,
     "mediaId": 302,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T11:00",
     "sentence": "",
     "author": "",
-    "title": "Pinellas schools to get new superintendent today"
+    "title": "Pinellas schools to get new superintendent today",
+    "sentiment": "0.0"
   },
   {
     "id": 3473,
     "mediaId": 302,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T15:00",
     "sentence": "",
     "author": "",
-    "title": "Clerk sues Pinellas County for spending on election lawsuit"
+    "title": "Clerk sues Pinellas County for spending on election lawsuit",
+    "sentiment": "0.0"
   }
 ]

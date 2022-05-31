@@ -2,17 +2,19 @@
   {
     "id": 6300,
     "mediaId": 43,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T00:00",
     "sentence": "",
     "author": "",
-    "title": "for Bluesday, April 19th"
+    "title": "for Bluesday, April 19th",
+    "sentiment": "0"
   },
   {
     "id": 6148,
     "mediaId": 43,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T00:00",
     "sentence": "",
     "author": "David Neiwert\nDaily Kos Staff",
-    "title": "Trumpists coalesce at megachurch rallies to create their own brand of"
+    "title": "Trumpists coalesce at megachurch rallies to create their own brand of",
+    "sentiment": "0"
   }
 ]

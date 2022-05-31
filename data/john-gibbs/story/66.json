@@ -1,10 +1,11 @@
 {
   "id": 66,
   "mediaId": 238,
-  "date": "2/2/2022 12:00:00 AM",
+  "date": "d2022-02-02T00:00",
   "headline": "Opinion: Trump-endorsed candidates are having trouble fundraising. That's a bad sign for the former president.",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/02/02/trump-endorsed-candidates-are-having-trouble-fundraising-thats-bad-sign-former-president/",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     1147,
     1248,
-    1646,
     2095,
     2475,
     3085,

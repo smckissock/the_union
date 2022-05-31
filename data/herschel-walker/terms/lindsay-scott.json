@@ -2,25 +2,28 @@
   {
     "id": 8330,
     "mediaId": 1460,
-    "date": "1/8/2022 12:00:00 AM",
+    "date": "d2022-01-08T13:03",
     "sentence": "",
     "author": "Mark Whicker",
-    "title": "CFP National Championship: Georgia fans anxious about the onrushing Tide"
+    "title": "CFP National Championship: Georgia fans anxious about the onrushing Tide",
+    "sentiment": "0.0"
   },
   {
     "id": 8324,
     "mediaId": 12,
-    "date": "1/9/2022 12:00:00 AM",
+    "date": "d2022-01-09T19:00",
     "sentence": "And <span class='selected-term'>Herschel Walker</span> is not walking through that door, fans.",
     "author": "Steve Hummer",
-    "title": "Champion 1980 Bulldogs have waited long enough for company"
+    "title": "Champion 1980 Bulldogs have waited long enough for company",
+    "sentiment": "0.325"
   },
   {
     "id": 8215,
     "mediaId": 12,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T14:00",
     "sentence": "Oh, and a tailback named <span class='selected-term'>Herschel Walker</span>.",
     "author": "Chip Towers",
-    "title": "Belief makes Georgia Bulldogs a threat to win it all again"
+    "title": "Belief makes Georgia Bulldogs a threat to win it all again",
+    "sentiment": "0.0"
   }
 ]

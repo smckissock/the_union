@@ -1,26 +1,56 @@
 [
   {
-    "id": 3787,
-    "mediaId": 558,
-    "date": "5/10/2022 12:00:00 AM",
+    "id": 3798,
+    "mediaId": 25,
+    "date": "d2022-05-10T00:00",
     "sentence": "",
     "author": "",
-    "title": "Florida school yearbook on hold over student protest photos"
-  },
-  {
-    "id": 3791,
-    "mediaId": 558,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Florida school yearbook on hold over student protest photos"
+    "title": "Florida school yearbook on hold after students protest \"Don't Say Gay\" bill in photos",
+    "sentiment": "0"
   },
   {
     "id": 3798,
     "mediaId": 25,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T00:00",
     "sentence": "",
     "author": "",
-    "title": "Florida school yearbook on hold after students protest \"Don't Say Gay\" bill in photos"
+    "title": "Florida school yearbook on hold after students protest \"Don't Say Gay\" bill in photos",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3791,
+    "mediaId": 558,
+    "date": "d2022-05-10T06:28",
+    "sentence": "",
+    "author": "",
+    "title": "Florida school yearbook on hold over student protest photos",
+    "sentiment": "0"
+  },
+  {
+    "id": 3791,
+    "mediaId": 558,
+    "date": "d2022-05-10T06:28",
+    "sentence": "",
+    "author": "",
+    "title": "Florida school yearbook on hold over student protest photos",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3787,
+    "mediaId": 558,
+    "date": "d2022-05-10T08:28",
+    "sentence": "",
+    "author": "",
+    "title": "Florida school yearbook on hold over student protest photos",
+    "sentiment": "0"
+  },
+  {
+    "id": 3787,
+    "mediaId": 558,
+    "date": "d2022-05-10T08:28",
+    "sentence": "",
+    "author": "",
+    "title": "Florida school yearbook on hold over student protest photos",
+    "sentiment": "0.0"
   }
 ]

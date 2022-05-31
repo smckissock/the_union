@@ -2,49 +2,55 @@
   {
     "id": 5421,
     "mediaId": 12,
-    "date": "3/29/2022 12:00:00 AM",
+    "date": "d2022-03-29T21:00",
     "sentence": "On stage with Trump on Saturday, Perdue falsely declared that the 2020 election and his own runoff were absolutely stolen!? Moments later, he promised to jail the people responsible? and gave a big thumbs up to the crowd chanting, Lock him up!? referring to <span class='selected-term'>Brian Kemp</span>.",
     "author": "Patricia Murphy",
-    "title": "OPINION: Meet the 2022 David Perdue"
+    "title": "OPINION: Meet the 2022 David Perdue",
+    "sentiment": "-0.45"
   },
   {
     "id": 5282,
     "mediaId": 65,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T15:08",
     "sentence": "",
     "author": "Fox News Staff",
-    "title": "Chris Christie sends message to Dems: Follow Obama's advice, tell this story to voters"
+    "title": "Chris Christie sends message to Dems: Follow Obama's advice, tell this story to voters",
+    "sentiment": "0.0"
   },
   {
     "id": 5257,
     "mediaId": 43,
-    "date": "4/8/2022 12:00:00 AM",
+    "date": "d2022-04-08T00:00",
     "sentence": "According to AJC, prior to the 2018 election, nearly 47,000 voter registrations were put in pending status, about 70% of which were from Black residents.?\nThe suit was filed in 2018 by Stacey Abrams group Fair Fight Action after she lost her gubernatorial race to Republican <span class='selected-term'>Brian Kemp</span>.",
     "author": "Rebekah Sager",
-    "title": "Georgia voting rights suit heads to trial as midterms heat up in the state"
+    "title": "Georgia voting rights suit heads to trial as midterms heat up in the state",
+    "sentiment": "0"
   },
   {
     "id": 5226,
     "mediaId": 558,
-    "date": "4/10/2022 12:00:00 AM",
+    "date": "d2022-04-10T00:00",
     "sentence": "Abrams, a Democrat, is now turning her sights to the 2022 governor's race after losing the same race in 2018 to Republican <span class='selected-term'>Brian Kemp</span>.",
     "author": "Sam DiSalvo",
-    "title": "How Rich Are Biden, Trump and These Other Potential 2024 Presidential Candidates?"
+    "title": "How Rich Are Biden, Trump and These Other Potential 2024 Presidential Candidates?",
+    "sentiment": "0.0"
   },
   {
     "id": 3388,
     "mediaId": 98,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T06:01",
     "sentence": "",
     "author": "Courtney SubramanianStaff Writer",
-    "title": "Karine Jean-Pierre steps into the bright White House spotlight"
+    "title": "Karine Jean-Pierre steps into the bright White House spotlight",
+    "sentiment": "0.0"
   },
   {
     "id": 7237,
     "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "",
     "author": "",
-    "title": "Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies"
+    "title": "Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies",
+    "sentiment": "0.0"
   }
 ]

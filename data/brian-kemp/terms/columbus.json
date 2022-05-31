@@ -1,42 +1,47 @@
 [
   {
-    "id": 5334,
-    "mediaId": 558,
-    "date": "4/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Mark Rice",
-    "title": "Gov. Kemp picks new district attorney, State Court judge for Columbus area"
-  },
-  {
     "id": 5336,
     "mediaId": 12,
-    "date": "4/4/2022 12:00:00 AM",
+    "date": "d2022-04-04T11:00",
     "sentence": "",
     "author": "Maya T. Prabhu",
-    "title": "The guy in the glass: Longtime Rep. Calvin Smyre wraps 48 years in office"
+    "title": "The guy in the glass: Longtime Rep. Calvin Smyre wraps 48 years in office",
+    "sentiment": "0"
+  },
+  {
+    "id": 5334,
+    "mediaId": 558,
+    "date": "d2022-04-04T18:56",
+    "sentence": "",
+    "author": "Mark Rice",
+    "title": "Gov. Kemp picks new district attorney, State Court judge for Columbus area",
+    "sentiment": "0"
   },
   {
     "id": 5089,
     "mediaId": 558,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T16:19",
     "sentence": "",
     "author": "Nick Wooten",
-    "title": "Kemp signs Georgias first military retirement income tax exemption into law"
+    "title": "Kemp signs Georgias first military retirement income tax exemption into law",
+    "sentiment": "0"
   },
   {
     "id": 4519,
     "mediaId": 169,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T12:07",
     "sentence": "RELATED: Georgia GOP outraged Trump turned against <span class='selected-term'>Brian Kemp</span>: 'I am just so mad  beyond words\"\nBack in March, the president held a tele-rally in support of Perdue, lining the candidate's campaign coffer with half a million dollars.",
     "author": "Jon Skolnik",
-    "title": "Mike Pence and top Republicans flock to Georgia to defeat Trump's candidate in key primary"
+    "title": "Mike Pence and top Republicans flock to Georgia to defeat Trump's candidate in key primary",
+    "sentiment": "0.0"
   },
   {
     "id": 7105,
     "mediaId": 1576,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "",
-    "title": "Georgia's senior congressman facing toughest race since 2010"
+    "title": "Georgia's senior congressman facing toughest race since 2010",
+    "sentiment": "0.0"
   }
 ]

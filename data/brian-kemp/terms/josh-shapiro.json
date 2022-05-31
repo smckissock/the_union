@@ -2,41 +2,46 @@
   {
     "id": 3399,
     "mediaId": 409,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T16:07",
     "sentence": "Angry at the refusal of <span class='selected-term'>Brian Kemp</span> to overturn the results of the 2020 presidential election in Georgia, Trump recruited David Perdue to run against him for governor.",
     "author": "Fred Bauer",
-    "title": "Trump as GOP Kingmaker"
+    "title": "Trump as GOP Kingmaker",
+    "sentiment": "-0.514"
   },
   {
     "id": 3387,
     "mediaId": 195,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T09:19",
     "sentence": "",
     "author": "Max Greenwood",
-    "title": "Seven primary races to watch on Tuesday"
-  },
-  {
-    "id": 4472,
-    "mediaId": 302,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Associated Press",
-    "title": "Primary takeaways: Election denier wins, bad behavior dooms Cawthorn"
-  },
-  {
-    "id": 4476,
-    "mediaId": 943,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Election denier wins GOP nomination for Pennsylvania governor: Takeaways from Tuesdays primaries"
+    "title": "Seven primary races to watch on Tuesday",
+    "sentiment": "0.0"
   },
   {
     "id": 4479,
     "mediaId": 1576,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "",
     "author": "",
-    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn"
+    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4476,
+    "mediaId": 943,
+    "date": "d2022-05-18T06:02",
+    "sentence": "",
+    "author": "",
+    "title": "Election denier wins GOP nomination for Pennsylvania governor: Takeaways from Tuesdays primaries",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4472,
+    "mediaId": 302,
+    "date": "d2022-05-18T12:00",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Primary takeaways: Election denier wins, bad behavior dooms Cawthorn",
+    "sentiment": "0.0"
   }
 ]

@@ -1,10 +1,11 @@
 {
   "id": 1045,
   "mediaId": 43,
-  "date": "3/30/2022 12:00:00 AM",
+  "date": "d2022-03-30T00:00",
   "headline": "Morning Digest: Tennessee GOP's bill would block Trump's pick, but they'll need courts to agree",
   "image": "https://images.dailykos.com/images/1053730/story_image/MorganOrtagus.jpeg?1648588516",
   "link": "https://www.dailykos.com/story/2022/3/30/2088914/-Morning-Digest-Tennessee-GOP-s-bill-would-block-Trump-s-pick-but-they-ll-need-courts-to-agree",
+  "sentiment": "0.0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -22,7 +23,6 @@
     1816,
     2039,
     2087,
-    2095,
     428,
     492,
     2932

@@ -2,73 +2,82 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 2427,
     "mediaId": 323,
-    "date": "1/9/2022 12:00:00 AM",
+    "date": "d2022-01-09T15:26",
     "sentence": "",
     "author": "John McCormick",
-    "title": "Ron Johnson, Republican Senator, to Seek Third Term in Wisconsin"
+    "title": "Ron Johnson, Republican Senator, to Seek Third Term in Wisconsin",
+    "sentiment": "0"
   },
   {
     "id": 2373,
     "mediaId": 21,
-    "date": "3/4/2022 12:00:00 AM",
+    "date": "d2022-03-04T12:00",
     "sentence": "",
     "author": "Patrick Coffee",
-    "title": "9 top political ad agencies that are shaping key races in the 2022 midterms as money shifts to digital"
+    "title": "9 top political ad agencies that are shaping key races in the 2022 midterms as money shifts to digital",
+    "sentiment": "0.0"
   },
   {
     "id": 1200,
     "mediaId": 19,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T00:00",
     "sentence": "",
     "author": "Ashley Oliver and Matthew Boyle",
-    "title": "Analysis: Senate Majority May Come Down to 11 Battleground Races"
+    "title": "Analysis: Senate Majority May Come Down to 11 Battleground Races",
+    "sentiment": "0.0"
   },
   {
     "id": 2361,
     "mediaId": 195,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T11:00",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill"
+    "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill",
+    "sentiment": "0.0"
   },
   {
     "id": 2341,
     "mediaId": 223,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T10:45",
     "sentence": "",
     "author": "Guy Benson",
-    "title": "Progressives: Actually, Please Stop Calling Us 'Progressives,' Thanks"
+    "title": "Progressives: Actually, Please Stop Calling Us 'Progressives,' Thanks",
+    "sentiment": "0.181"
   },
   {
     "id": 2309,
     "mediaId": 238,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T10:00",
     "sentence": "",
     "author": "",
-    "title": "The most interesting Democratic primaries of 2022"
+    "title": "The most interesting Democratic primaries of 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 6551,
     "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T22:38",
     "sentence": "",
     "author": "Max Greenwood",
-    "title": "Campaign Report  What Tuesday tells us about Trump"
+    "title": "Campaign Report  What Tuesday tells us about Trump",
+    "sentiment": "0.0"
   },
   {
     "id": 6525,
     "mediaId": 238,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T22:46",
     "sentence": "",
     "author": "David Weigel",
-    "title": "The Trailer: Four trends from Tuesday's primaries in Pennsylvania, North Carolina and elsewhere"
+    "title": "The Trailer: Four trends from Tuesday's primaries in Pennsylvania, North Carolina and elsewhere",
+    "sentiment": "0.0"
   }
 ]

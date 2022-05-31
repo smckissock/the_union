@@ -1,562 +1,632 @@
 [
   {
-    "id": 735,
-    "mediaId": 21,
-    "date": "1/25/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jake Lahut",
-    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique"
-  },
-  {
     "id": 736,
     "mediaId": 21,
-    "date": "1/25/2022 12:00:00 AM",
+    "date": "d2022-01-25T13:52",
     "sentence": "",
     "author": "Jake Lahut",
-    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique"
+    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
+    "sentiment": "0.655"
+  },
+  {
+    "id": 735,
+    "mediaId": 21,
+    "date": "d2022-01-25T21:00",
+    "sentence": "",
+    "author": "Jake Lahut",
+    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
+    "sentiment": "0.402"
   },
   {
     "id": 6442,
     "mediaId": 237,
-    "date": "4/8/2022 12:00:00 AM",
+    "date": "d2022-04-08T06:00",
     "sentence": "",
     "author": "David M. Drucker",
-    "title": "JD Vance bets Ohio GOP Senate bid on illegal immigration"
+    "title": "JD Vance bets Ohio GOP Senate bid on illegal immigration",
+    "sentiment": "0"
   },
   {
     "id": 6433,
     "mediaId": 43,
-    "date": "4/10/2022 12:00:00 AM",
+    "date": "d2022-04-10T00:00",
     "sentence": "",
     "author": "",
-    "title": "Ukraine, The Common Good and Truer Notions of Freedom and Liberty"
+    "title": "Ukraine, The Common Good and Truer Notions of Freedom and Liberty",
+    "sentiment": "0"
   },
   {
     "id": 6422,
     "mediaId": 129,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T22:19",
     "sentence": "",
     "author": "Neil Vigdor",
-    "title": "Mark Zuckerberg Ends Election Grants"
+    "title": "Mark Zuckerberg Ends Election Grants",
+    "sentiment": "0"
   },
   {
     "id": 6413,
     "mediaId": 424,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T10:01",
     "sentence": "",
     "author": "John Nichols",
-    "title": "What J.D. Vance Doesnt Know About France"
+    "title": "What J.D. Vance Doesnt Know About France",
+    "sentiment": "0"
   },
   {
     "id": 6366,
     "mediaId": 151,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T22:06",
     "sentence": "",
     "author": "",
-    "title": "Trump gives Vance coveted endorsement in Ohio Senate race"
+    "title": "Trump gives Vance coveted endorsement in Ohio Senate race",
+    "sentiment": "0.769"
   },
   {
     "id": 6358,
     "mediaId": 129,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Elusive Politics of Elon Musk"
+    "title": "The Elusive Politics of Elon Musk",
+    "sentiment": "0"
   },
   {
     "id": 2050,
     "mediaId": 234,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T00:00",
     "sentence": "",
     "author": "",
-    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers"
+    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers",
+    "sentiment": "-0.457"
   },
   {
     "id": 6283,
     "mediaId": 234,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T00:00",
     "sentence": "",
     "author": "James Pogue",
-    "title": "Inside the New Right, Where Peter Thiel Is Placing His Biggest Bets"
-  },
-  {
-    "id": 6218,
-    "mediaId": 558,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "JILL COLVIN",
-    "title": "Trump's Oz, Vance endorsements bring cash windfall, backlash"
-  },
-  {
-    "id": 6221,
-    "mediaId": 163,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "James Oliphant",
-    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?"
-  },
-  {
-    "id": 6223,
-    "mediaId": 165,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jack Crosbie",
-    "title": "After Losing Trumps Endorsement, Ohio Republican Calls in Mike Flynn to Dial Up the MAGA Insanity"
-  },
-  {
-    "id": 6232,
-    "mediaId": 238,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Will Trumps base ever turn on him? Look to Ohio."
-  },
-  {
-    "id": 6233,
-    "mediaId": 593,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "James Oliphant",
-    "title": "The Golden Ticket: Will Trump's Endorsement In Ohio Race Burnish Or Tarnish His Star Power?"
-  },
-  {
-    "id": 6235,
-    "mediaId": 169,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Igor Derysh",
-    "title": "Go f**k yourself: Trump and Don Jr. war with top GOP donor who bought ads opposing his candidate"
+    "title": "Inside the New Right, Where Peter Thiel Is Placing His Biggest Bets",
+    "sentiment": "0"
   },
   {
     "id": 6241,
     "mediaId": 234,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "",
     "author": "Emily Jane Fox",
-    "title": "Conservative Guys Are Going to Get All the Girls: Author James Pogue on the New Right"
+    "title": "Conservative Guys Are Going to Get All the Girls: Author James Pogue on the New Right",
+    "sentiment": "0"
+  },
+  {
+    "id": 6235,
+    "mediaId": 169,
+    "date": "d2022-04-22T09:24",
+    "sentence": "",
+    "author": "Igor Derysh",
+    "title": "Go f**k yourself: Trump and Don Jr. war with top GOP donor who bought ads opposing his candidate",
+    "sentiment": "-0.818"
+  },
+  {
+    "id": 6232,
+    "mediaId": 238,
+    "date": "d2022-04-22T12:00",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Will Trumps base ever turn on him? Look to Ohio.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6223,
+    "mediaId": 165,
+    "date": "d2022-04-22T16:20",
+    "sentence": "",
+    "author": "Jack Crosbie",
+    "title": "After Losing Trumps Endorsement, Ohio Republican Calls in Mike Flynn to Dial Up the MAGA Insanity",
+    "sentiment": "0"
+  },
+  {
+    "id": 6221,
+    "mediaId": 163,
+    "date": "d2022-04-22T18:00",
+    "sentence": "",
+    "author": "James Oliphant",
+    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
+    "sentiment": "0"
+  },
+  {
+    "id": 6218,
+    "mediaId": 558,
+    "date": "d2022-04-22T21:14",
+    "sentence": "",
+    "author": "JILL COLVIN",
+    "title": "Trump's Oz, Vance endorsements bring cash windfall, backlash",
+    "sentiment": "-0.196"
   },
   {
     "id": 6195,
     "mediaId": 165,
-    "date": "4/23/2022 12:00:00 AM",
+    "date": "d2022-04-23T16:21",
     "sentence": "",
     "author": "Jack Crosbie",
-    "title": "J.D. Vance Promises Voters That He Really Means It  This Time"
-  },
-  {
-    "id": 6157,
-    "mediaId": 151,
-    "date": "4/25/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Hawley endorses Thiel-backed Arizona Senate candidate"
+    "title": "J.D. Vance Promises Voters That He Really Means It  This Time",
+    "sentiment": "0"
   },
   {
     "id": 6162,
     "mediaId": 129,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Awful Advent of Reactionary Chic"
+    "title": "The Awful Advent of Reactionary Chic",
+    "sentiment": "0"
   },
   {
     "id": 6167,
     "mediaId": 19,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T00:00",
     "sentence": "",
     "author": "Wendell HusebÃ¸",
-    "title": "Josh Hawley Endorses Arizona Senate Candidate Blake Masters"
+    "title": "Josh Hawley Endorses Arizona Senate Candidate Blake Masters",
+    "sentiment": "0.842"
+  },
+  {
+    "id": 6157,
+    "mediaId": 151,
+    "date": "d2022-04-25T13:01",
+    "sentence": "",
+    "author": "",
+    "title": "Hawley endorses Thiel-backed Arizona Senate candidate",
+    "sentiment": "0.859"
   },
   {
     "id": 6140,
     "mediaId": 237,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T22:09",
     "sentence": "",
     "author": "David Sivak",
-    "title": "JD Vance takes lead in GOP Senate primary after Trump endorsement: Poll"
+    "title": "JD Vance takes lead in GOP Senate primary after Trump endorsement: Poll",
+    "sentiment": "0.581"
   },
   {
     "id": 6124,
     "mediaId": 238,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T15:53",
     "sentence": "",
     "author": "",
-    "title": "Opinion Once the toast of liberal parties, J.D. Vance has gone full MAGA"
+    "title": "Opinion Once the toast of liberal parties, J.D. Vance has gone full MAGA",
+    "sentiment": "0"
   },
   {
     "id": 6110,
     "mediaId": 237,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T06:00",
     "sentence": "",
     "author": "David M. Drucker",
-    "title": "Midterm Memo: Power of Trump endorsement on display in Ohio"
+    "title": "Midterm Memo: Power of Trump endorsement on display in Ohio",
+    "sentiment": "0"
   },
   {
     "id": 6053,
     "mediaId": 129,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Don Jr. Road Show in Ohio Was No Joke"
+    "title": "The Don Jr. Road Show in Ohio Was No Joke",
+    "sentiment": "0"
   },
   {
     "id": 6054,
     "mediaId": 129,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Don Jr. Road Show in Ohio Was No Joke"
-  },
-  {
-    "id": 6016,
-    "mediaId": 151,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Arizona GOP Senate frontrunner loses lead amid air assault"
-  },
-  {
-    "id": 6018,
-    "mediaId": 376,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Stephanie Akin\nJessica Wehrman",
-    "title": "What to watch in Tuesdays primaries in Ohio and Indiana"
-  },
-  {
-    "id": 6019,
-    "mediaId": 169,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Igor Derysh",
-    "title": "Trump pal J.D. Vance says Big Tech data collection should be illegal  but set to profit from it"
+    "title": "The Don Jr. Road Show in Ohio Was No Joke",
+    "sentiment": "0"
   },
   {
     "id": 6032,
     "mediaId": 178,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "Michelle Cottle",
-    "title": "Donald Trump Jr. road show in Ohio was no joke"
+    "title": "Donald Trump Jr. road show in Ohio was no joke",
+    "sentiment": "-0.355"
   },
   {
     "id": 6038,
     "mediaId": 43,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "Trump has no idea who is actually in Ohio's primary, but we do. Here's what to watch on Tuesday"
+    "title": "Trump has no idea who is actually in Ohio's primary, but we do. Here's what to watch on Tuesday",
+    "sentiment": "0"
   },
   {
-    "id": 5920,
-    "mediaId": 323,
-    "date": "5/3/2022 12:00:00 AM",
+    "id": 6019,
+    "mediaId": 169,
+    "date": "d2022-05-02T05:30",
     "sentence": "",
-    "author": "John McCormick",
-    "title": "Ohio Senate Primary Tests Trump Influence With Republican Voters"
+    "author": "Igor Derysh",
+    "title": "Trump pal J.D. Vance says Big Tech data collection should be illegal  but set to profit from it",
+    "sentiment": "-0.406"
   },
   {
-    "id": 5935,
-    "mediaId": 136,
-    "date": "5/3/2022 12:00:00 AM",
+    "id": 6018,
+    "mediaId": 376,
+    "date": "d2022-05-02T06:00",
     "sentence": "",
-    "author": "Bill Powell",
-    "title": "Races to Watch on Tuesday as Primary Season Kicks Off"
+    "author": "Stephanie Akin\nJessica Wehrman",
+    "title": "What to watch in Tuesdays primaries in Ohio and Indiana",
+    "sentiment": "0"
+  },
+  {
+    "id": 6016,
+    "mediaId": 151,
+    "date": "d2022-05-02T08:30",
+    "sentence": "",
+    "author": "",
+    "title": "Arizona GOP Senate frontrunner loses lead amid air assault",
+    "sentiment": "0"
   },
   {
     "id": 5964,
     "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee"
+    "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee",
+    "sentiment": "0.225"
   },
   {
-    "id": 5762,
-    "mediaId": 238,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 5935,
+    "mediaId": 136,
+    "date": "d2022-05-03T09:00",
     "sentence": "",
-    "author": "",
-    "title": "Opinion Why the J.D. Vance victory wasnt all about Trump"
+    "author": "Bill Powell",
+    "title": "Races to Watch on Tuesday as Primary Season Kicks Off",
+    "sentiment": "-0.462"
   },
   {
-    "id": 5772,
-    "mediaId": 238,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 5920,
+    "mediaId": 323,
+    "date": "d2022-05-03T11:30",
     "sentence": "",
-    "author": "",
-    "title": "Opinion The bottom line in Ohio? Trump wins."
-  },
-  {
-    "id": 5788,
-    "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "A bitter general election battle between Tim Ryan and J.D. Vance for Senate is quickly taking shape."
-  },
-  {
-    "id": 5804,
-    "mediaId": 209,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "W. James Antle III",
-    "title": "What J.D. Vance's Ohio primary victory means"
-  },
-  {
-    "id": 5817,
-    "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee"
+    "author": "John McCormick",
+    "title": "Ohio Senate Primary Tests Trump Influence With Republican Voters",
+    "sentiment": "0"
   },
   {
     "id": 5842,
     "mediaId": 43,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Laura Clawson",
-    "title": "J.D. Vance is the Ohio Senate candidate Mitch McConnell deserves, however McConnell feels about it"
+    "title": "J.D. Vance is the Ohio Senate candidate Mitch McConnell deserves, however McConnell feels about it",
+    "sentiment": "0"
   },
   {
     "id": 5846,
     "mediaId": 234,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Eric Lutz",
-    "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked"
+    "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
+    "sentiment": "0"
   },
   {
     "id": 5852,
     "mediaId": 157,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Travis Gettys",
-    "title": "Trump thought GOP candidate Josh Mandel was 'weird' -- and 'no amount of sucking up' would win his endorsement: report"
+    "title": "Trump thought GOP candidate Josh Mandel was 'weird' -- and 'no amount of sucking up' would win his endorsement: report",
+    "sentiment": "-0.191"
   },
   {
     "id": 5854,
     "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Tucker, Thiel and Trump: How J.D. Vance Won in Ohio"
+    "title": "Tucker, Thiel and Trump: How J.D. Vance Won in Ohio",
+    "sentiment": "0.685"
   },
   {
     "id": 5856,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "J.D. Vance Wins GOP Senate Primary in Ohio with Help from Trump & Peter Thiel"
+    "title": "J.D. Vance Wins GOP Senate Primary in Ohio with Help from Trump & Peter Thiel",
+    "sentiment": "0.821"
   },
   {
     "id": 5875,
     "mediaId": 43,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Morning Digest: Trump's guy won the Ohio Senate"
+    "title": "Morning Digest: Trump's guy won the Ohio Senate",
+    "sentiment": "-0.246"
   },
   {
     "id": 5887,
     "mediaId": 234,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Caleb Ecarma",
-    "title": "J.D. Vances Victory in Ohio Is a Huge Win for Peter Thiels Political Movement"
+    "title": "J.D. Vances Victory in Ohio Is a Huge Win for Peter Thiels Political Movement",
+    "sentiment": "0.67"
   },
   {
-    "id": 1731,
+    "id": 5817,
     "mediaId": 129,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-04T02:50",
     "sentence": "",
     "author": "",
-    "title": "Tucker, Thiel and Trump: How J.D. Vance won in Ohio."
+    "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee",
+    "sentiment": "0"
+  },
+  {
+    "id": 5804,
+    "mediaId": 209,
+    "date": "d2022-05-04T08:50",
+    "sentence": "",
+    "author": "W. James Antle III",
+    "title": "What J.D. Vance's Ohio primary victory means",
+    "sentiment": "0.691"
+  },
+  {
+    "id": 5788,
+    "mediaId": 129,
+    "date": "d2022-05-04T13:30:15",
+    "sentence": "",
+    "author": "",
+    "title": "A bitter general election battle between Tim Ryan and J.D. Vance for Senate is quickly taking shape.",
+    "sentiment": "0"
+  },
+  {
+    "id": 5772,
+    "mediaId": 238,
+    "date": "d2022-05-04T17:21",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion The bottom line in Ohio? Trump wins.",
+    "sentiment": "-0.485"
+  },
+  {
+    "id": 5762,
+    "mediaId": 238,
+    "date": "d2022-05-04T19:54",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion Why the J.D. Vance victory wasnt all about Trump",
+    "sentiment": "0.403"
   },
   {
     "id": 4018,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Bill",
-    "title": "Cheers and Jeers: Thursday"
-  },
-  {
-    "id": 5712,
-    "mediaId": 238,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion Why a secretive tech billionaire is bankrolling J.D. Vance"
-  },
-  {
-    "id": 5713,
-    "mediaId": 195,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kevin R. Kosar",
-    "title": "The big story from Ohio is not about Donald Trumps power"
-  },
-  {
-    "id": 5715,
-    "mediaId": 136,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "Donald Trump Warns Republican Candidates Against Crossing Him"
-  },
-  {
-    "id": 5723,
-    "mediaId": 558,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Andrew Romano",
-    "title": "Is hard-right Arizona Senate hopeful Blake Masters the next J.D. Vance?"
-  },
-  {
-    "id": 5728,
-    "mediaId": 237,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Midterm Memo: Financier Peter Thiel and pollster Tony Fabrizio boosted by Vance win"
+    "title": "Cheers and Jeers: Thursday",
+    "sentiment": "0"
   },
   {
     "id": 5740,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "Super PAC Backing J.D. Vance (R) Opposition Book On Their Own Candidate Has Been Made Public"
+    "title": "Super PAC Backing J.D. Vance (R) Opposition Book On Their Own Candidate Has Been Made Public",
+    "sentiment": "0.399"
   },
   {
     "id": 5743,
     "mediaId": 157,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Brad Reed",
-    "title": "JD Vance-backing super PAC wrote a brutal oppo book on their own candidate -- and it's public for all to see"
+    "title": "JD Vance-backing super PAC wrote a brutal oppo book on their own candidate -- and it's public for all to see",
+    "sentiment": "-0.174"
   },
   {
     "id": 5748,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Downballot: Why progressives must build state power (transcript)"
+    "title": "The Downballot: Why progressives must build state power (transcript)",
+    "sentiment": "0.606"
   },
   {
-    "id": 3929,
+    "id": 5728,
+    "mediaId": 237,
+    "date": "d2022-05-05T06:00",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Midterm Memo: Financier Peter Thiel and pollster Tony Fabrizio boosted by Vance win",
+    "sentiment": "0.592"
+  },
+  {
+    "id": 5723,
     "mediaId": 558,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-05T11:26",
+    "sentence": "",
+    "author": "Andrew Romano",
+    "title": "Is hard-right Arizona Senate hopeful Blake Masters the next J.D. Vance?",
+    "sentiment": "0.949"
+  },
+  {
+    "id": 1731,
+    "mediaId": 129,
+    "date": "d2022-05-05T13:31:06",
     "sentence": "",
     "author": "",
-    "title": "Conservative urges American Christians to reject the new right's authoritarian impulses"
+    "title": "Tucker, Thiel and Trump: How J.D. Vance won in Ohio.",
+    "sentiment": "0.724"
   },
   {
-    "id": 5675,
-    "mediaId": 558,
-    "date": "5/6/2022 12:00:00 AM",
+    "id": 5715,
+    "mediaId": 136,
+    "date": "d2022-05-05T14:22",
     "sentence": "",
-    "author": "Tom LoBianco",
-    "title": "Anti-abortion crusader Pence capitalizes on a playing field reshaped by pending Roe decision"
+    "author": "Katherine Fung",
+    "title": "Donald Trump Warns Republican Candidates Against Crossing Him",
+    "sentiment": "0"
   },
   {
-    "id": 5677,
-    "mediaId": 63,
-    "date": "5/6/2022 12:00:00 AM",
+    "id": 5713,
+    "mediaId": 195,
+    "date": "d2022-05-05T16:00",
     "sentence": "",
-    "author": "Zach Everson",
-    "title": "Thiel Was Good For $10 Million, But J.D. Vances Other Billionaire Backers Were Good For Nothing"
+    "author": "Kevin R. Kosar",
+    "title": "The big story from Ohio is not about Donald Trumps power",
+    "sentiment": "0"
+  },
+  {
+    "id": 5712,
+    "mediaId": 238,
+    "date": "d2022-05-05T16:07",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion Why a secretive tech billionaire is bankrolling J.D. Vance",
+    "sentiment": "0"
   },
   {
     "id": 5691,
     "mediaId": 43,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "",
-    "title": "Highlights from The Downballot: Why building progressive state power is imperative"
+    "title": "Highlights from The Downballot: Why building progressive state power is imperative",
+    "sentiment": "0.471"
+  },
+  {
+    "id": 5677,
+    "mediaId": 63,
+    "date": "d2022-05-06T10:30",
+    "sentence": "",
+    "author": "Zach Everson",
+    "title": "Thiel Was Good For $10 Million, But J.D. Vances Other Billionaire Backers Were Good For Nothing",
+    "sentiment": "0"
+  },
+  {
+    "id": 5675,
+    "mediaId": 558,
+    "date": "d2022-05-06T10:38",
+    "sentence": "",
+    "author": "Tom LoBianco",
+    "title": "Anti-abortion crusader Pence capitalizes on a playing field reshaped by pending Roe decision",
+    "sentiment": "0"
+  },
+  {
+    "id": 3929,
+    "mediaId": 558,
+    "date": "d2022-05-06T12:06",
+    "sentence": "",
+    "author": "",
+    "title": "Conservative urges American Christians to reject the new right's authoritarian impulses",
+    "sentiment": "0"
   },
   {
     "id": 5628,
     "mediaId": 238,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T16:12",
     "sentence": "",
     "author": "",
-    "title": "Can Democrats win back working-class voters? Watch Ohio."
+    "title": "Can Democrats win back working-class voters? Watch Ohio.",
+    "sentiment": "0.544"
   },
   {
     "id": 5624,
     "mediaId": 43,
-    "date": "5/8/2022 12:00:00 AM",
+    "date": "d2022-05-08T00:00",
     "sentence": "",
     "author": "",
-    "title": "Along With Abortion, Peter Thiel's Other Endorsed Candidate Wants To Ban Birth Control"
+    "title": "Along With Abortion, Peter Thiel's Other Endorsed Candidate Wants To Ban Birth Control",
+    "sentiment": "0"
   },
   {
     "id": 5602,
     "mediaId": 881,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T07:36",
     "sentence": "",
     "author": "",
-    "title": "Racist Replacement Theory Is Bleeding Into GOP Senate Campaigns"
+    "title": "Racist Replacement Theory Is Bleeding Into GOP Senate Campaigns",
+    "sentiment": "0"
   },
   {
     "id": 5563,
     "mediaId": 19,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "",
     "author": "Ethan Letkeman",
-    "title": "NBC Correspondent Lies in Hit Piece Attempt on Arizona GOP Senate Candidate Blake Masters"
-  },
-  {
-    "id": 5529,
-    "mediaId": 238,
-    "date": "5/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Max Boot",
-    "title": "Opinion The Buffalo shooters views are mainstream on the right"
+    "title": "NBC Correspondent Lies in Hit Piece Attempt on Arizona GOP Senate Candidate Blake Masters",
+    "sentiment": "0"
   },
   {
     "id": 5535,
     "mediaId": 129,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Marc Tracy",
-    "title": "How Hollywood and the Media Fueled the Political Rise of J.D. Vance"
+    "title": "How Hollywood and the Media Fueled the Political Rise of J.D. Vance",
+    "sentiment": "0"
   },
   {
     "id": 5536,
     "mediaId": 157,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Sarah K. Burris",
-    "title": "Conservative warns Buffalo shooter's ideology is mainstream to right-wing  while Fox dodges their role"
+    "title": "Conservative warns Buffalo shooter's ideology is mainstream to right-wing  while Fox dodges their role",
+    "sentiment": "0"
+  },
+  {
+    "id": 5529,
+    "mediaId": 238,
+    "date": "d2022-05-15T19:17",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion The Buffalo shooters views are mainstream on the right",
+    "sentiment": "0"
   },
   {
     "id": 5470,
     "mediaId": 132,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T12:44",
     "sentence": "",
     "author": "Jonathan Bernstein",
-    "title": "GOP voters aren't Trump zombies"
+    "title": "GOP voters aren't Trump zombies",
+    "sentiment": "0.431"
   },
   {
     "id": 6605,
     "mediaId": 33,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "",
     "author": "Gabby Orr",
-    "title": "Trump may hold off on more endorsements for coming primaries, advisers say"
+    "title": "Trump may hold off on more endorsements for coming primaries, advisers say",
+    "sentiment": "0"
   },
   {
     "id": 7164,
     "mediaId": 129,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "",
-    "title": "A Renowned Gullah Geechee Cook Gets Her Own Book and More: The Week in Narrated Articles"
+    "title": "A Renowned Gullah Geechee Cook Gets Her Own Book and More: The Week in Narrated Articles",
+    "sentiment": "0.462"
+  },
+  {
+    "id": 8567,
+    "mediaId": 151,
+    "date": "d2022-05-27T13:17",
+    "sentence": "",
+    "author": "",
+    "title": "MAGA's would-be Millennial heir",
+    "sentiment": "0.871"
   }
 ]

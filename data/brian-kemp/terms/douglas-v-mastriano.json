@@ -2,89 +2,118 @@
   {
     "id": 3399,
     "mediaId": 409,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T16:07",
     "sentence": "Angry at the refusal of <span class='selected-term'>Brian Kemp</span> to overturn the results of the 2020 presidential election in Georgia, Trump recruited David Perdue to run against him for governor.",
     "author": "Fred Bauer",
-    "title": "Trump as GOP Kingmaker"
+    "title": "Trump as GOP Kingmaker",
+    "sentiment": "-0.514"
   },
   {
     "id": 3387,
     "mediaId": 195,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T09:19",
     "sentence": "",
     "author": "Max Greenwood",
-    "title": "Seven primary races to watch on Tuesday"
+    "title": "Seven primary races to watch on Tuesday",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4490,
+    "mediaId": 98,
+    "date": "d2022-05-17T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "7 takeaways from primaries in Pennsylvania, North Carolina, Oregon",
+    "sentiment": "0.0"
   },
   {
     "id": 4483,
     "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T19:09",
     "sentence": "",
     "author": "Henry Olsen",
-    "title": "Opinion Republicans have only themselves to blame for unelectable big lie candidates"
+    "title": "Opinion Republicans have only themselves to blame for unelectable big lie candidates",
+    "sentiment": "0.0"
   },
   {
     "id": 3493,
     "mediaId": 129,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "Next week the same approach seems likely to help <span class='selected-term'>Brian Kemp</span> defeat David Perdue for the governors nomination in Georgia.",
     "author": "",
-    "title": "Americas Doug Mastriano Problem"
-  },
-  {
-    "id": 4468,
-    "mediaId": 129,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots"
-  },
-  {
-    "id": 4469,
-    "mediaId": 129,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots"
-  },
-  {
-    "id": 4476,
-    "mediaId": 943,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Election denier wins GOP nomination for Pennsylvania governor: Takeaways from Tuesdays primaries"
+    "title": "Americas Doug Mastriano Problem",
+    "sentiment": "0.0"
   },
   {
     "id": 4479,
     "mediaId": 1576,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "",
     "author": "",
-    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn"
+    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
+    "sentiment": "0.0"
   },
   {
-    "id": 4456,
-    "mediaId": 238,
-    "date": "5/19/2022 12:00:00 AM",
+    "id": 4476,
+    "mediaId": 943,
+    "date": "d2022-05-18T06:02",
     "sentence": "",
-    "author": "Greg Sargent",
-    "title": "Opinion Trumps alarming GOP primary wins demand a serious response"
+    "author": "",
+    "title": "Election denier wins GOP nomination for Pennsylvania governor: Takeaways from Tuesdays primaries",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4468,
+    "mediaId": 129,
+    "date": "d2022-05-18T22:38",
+    "sentence": "",
+    "author": "",
+    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
+    "sentiment": "0"
+  },
+  {
+    "id": 4469,
+    "mediaId": 129,
+    "date": "d2022-05-18T22:38",
+    "sentence": "",
+    "author": "",
+    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
+    "sentiment": "-0.749"
   },
   {
     "id": 4458,
     "mediaId": 129,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T13:29:47",
     "sentence": "",
     "author": "",
-    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots"
+    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
+    "sentiment": "-0.879"
+  },
+  {
+    "id": 4456,
+    "mediaId": 238,
+    "date": "d2022-05-19T15:22",
+    "sentence": "",
+    "author": "Greg Sargent",
+    "title": "Opinion Trumps alarming GOP primary wins demand a serious response",
+    "sentiment": "0"
+  },
+  {
+    "id": 6582,
+    "mediaId": 323,
+    "date": "d2022-05-19T22:37",
+    "sentence": "In the state of Georgia, thanks to <span class='selected-term'>Brian Kemp</span>, our elections were absolutely stolen.",
+    "author": "Kimberley A. Strassel",
+    "title": "The Limits of Stop the Steal",
+    "sentiment": "0.612"
   },
   {
     "id": 6539,
     "mediaId": 409,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T09:47",
     "sentence": "Trump relentlessly pushed former senator David Perdue to run a primary challenge against Georgia governor <span class='selected-term'>Brian Kemp</span>.",
     "author": "Jim Geraghty",
-    "title": "Trump's Gambling Isn't Paying Off"
+    "title": "Trump's Gambling Isn't Paying Off",
+    "sentiment": "0.0"
   }
 ]

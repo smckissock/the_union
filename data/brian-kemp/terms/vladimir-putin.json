@@ -2,145 +2,163 @@
   {
     "id": 1317,
     "mediaId": 12,
-    "date": "2/23/2022 12:00:00 AM",
+    "date": "d2022-02-23T12:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Herschel Walker: I don't support either' Brian Kemp or David Perdue"
-  },
-  {
-    "id": 8106,
-    "mediaId": 12,
-    "date": "2/25/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Trump candidates in Georgia split from pro-Putin rhetoric"
+    "title": "The Jolt: Herschel Walker: I don't support either' Brian Kemp or David Perdue",
+    "sentiment": "0.292"
   },
   {
     "id": 8108,
     "mediaId": 12,
-    "date": "2/25/2022 12:00:00 AM",
+    "date": "d2022-02-25T12:00",
     "sentence": "",
     "author": "Patricia Murphy",
-    "title": "OPINION: The good, the bad, and the un-American in the response to the Ukraine crisis"
+    "title": "OPINION: The good, the bad, and the un-American in the response to the Ukraine crisis",
+    "sentiment": "0"
   },
   {
-    "id": 8097,
+    "id": 8106,
     "mediaId": 12,
-    "date": "3/1/2022 12:00:00 AM",
+    "date": "d2022-02-25T13:00",
     "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "Walker wont go to Marjorie Taylor Greene event after she spoke at pro-Putin rally"
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Trump candidates in Georgia split from pro-Putin rhetoric",
+    "sentiment": "0.0"
   },
   {
     "id": 8098,
     "mediaId": 12,
-    "date": "3/1/2022 12:00:00 AM",
+    "date": "d2022-03-01T13:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Marjorie Taylor Greene to deliver America First response to Biden speech"
+    "title": "The Jolt: Marjorie Taylor Greene to deliver America First response to Biden speech",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8097,
+    "mediaId": 12,
+    "date": "d2022-03-01T17:00",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "Walker wont go to Marjorie Taylor Greene event after she spoke at pro-Putin rally",
+    "sentiment": "0.0"
   },
   {
     "id": 7885,
     "mediaId": 151,
-    "date": "3/27/2022 12:00:00 AM",
+    "date": "d2022-03-27T15:33",
     "sentence": "",
     "author": "",
-    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze"
+    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
+    "sentiment": "0.0"
   },
   {
     "id": 5387,
     "mediaId": 558,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "",
     "author": "",
-    "title": "Biden to Release 1 Million Barrels of Oil From Reserves Daily to Combat High Gas Prices"
+    "title": "Biden to Release 1 Million Barrels of Oil From Reserves Daily to Combat High Gas Prices",
+    "sentiment": "0"
   },
   {
     "id": 5390,
     "mediaId": 33,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "",
     "author": "Kevin Liptak",
-    "title": "Biden considering releasing 1 million barrels of oil per day from strategic reserves"
+    "title": "Biden considering releasing 1 million barrels of oil per day from strategic reserves",
+    "sentiment": "0.0"
   },
   {
     "id": 5391,
     "mediaId": 33,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "En Georgia, el gobernador republicano <span class='selected-term'>Brian Kemp</span>, quien enfrenta una de las carreras de reeleccin ms duras del pas, firm un proyecto de ley que otorgar reembolsos de impuestos de US$ 250 a $ 500 a los georgianos, una medida que varios de sus rivales criticaron como politiquera de ao electoral.",
     "author": "Kevin Liptak",
-    "title": "Biden considera liberar 1 milln de barriles de petrleo por da de reservas estratgicas"
+    "title": "Biden considera liberar 1 milln de barriles de petrleo por da de reservas estratgicas",
+    "sentiment": "0"
   },
   {
     "id": 5393,
     "mediaId": 33,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "En Georgia, el gobernador republicano <span class='selected-term'>Brian Kemp</span>, que enfrenta una de las carreras de reeleccin ms duras del pas, firm un proyecto de ley que otorgar reembolsos de impuestos de US$ 250 a US$ 500 a los georgianos, una medida que varios de sus rivales criticaron como politiquera.",
     "author": "Kevin Liptak",
-    "title": "Biden anunci una liberacin histrica de reservas de petrleo y presiona a las compaas petroleras para que hagan su parte para reducir los precios de la gasolina"
+    "title": "Biden anunci una liberacin histrica de reservas de petrleo y presiona a las compaas petroleras para que hagan su parte para reducir los precios de la gasolina",
+    "sentiment": "0.0"
   },
   {
     "id": 5395,
     "mediaId": 33,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "",
     "author": "Kevin Liptak",
-    "title": "Biden announces historic oil reserve release and presses oil companies to do their part to reduce gas prices"
+    "title": "Biden announces historic oil reserve release and presses oil companies to do their part to reduce gas prices",
+    "sentiment": "0.0"
   },
   {
     "id": 5162,
     "mediaId": 33,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "En Georgia, por ejemplo, los partidarios de la Gran Mentira, la falsa afirmacin de que las elecciones de 2020 fueron robadas al expresidente Donald Trump, abuchearon al gobernador <span class='selected-term'>Brian Kemp</span>, un republicano acrrimo que se enfrenta a un desafo en las primarias de un candidato elegido a dedo por el expresidente.",
     "author": "Por Frida Ghitis",
-    "title": "OPININ | As podra verse la venganza de Putin contra Estados Unidos"
+    "title": "OPININ | As podra verse la venganza de Putin contra Estados Unidos",
+    "sentiment": "0.0"
   },
   {
     "id": 4914,
     "mediaId": 43,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T00:00",
     "sentence": "Lets hear from Beau on Georgia\nThe debate between <span class='selected-term'>Brian Kemp</span> and David Perdue was quite a spectacle.",
     "author": "",
-    "title": "\"Try to Think What We Are Going to Do Ourselves\""
+    "title": "\"Try to Think What We Are Going to Do Ourselves\"",
+    "sentiment": "0.0"
   },
   {
     "id": 3316,
     "mediaId": 1576,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "I am proud to offer my full support for four more years of <span class='selected-term'>Brian Kemp</span> as governor of the great state of Georgia!?\nThe news comes as Pence has taken steps to distance himself from Trump as the former congressman and Indiana governor considers a 2024 presidential run that could put him into direct competition with his former boss.",
     "author": "",
-    "title": "Pence to rally with Kemp in Georgia in break with Trump"
+    "title": "Pence to rally with Kemp in Georgia in break with Trump",
+    "sentiment": "0.806"
   },
   {
     "id": 7294,
     "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now"
+    "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now",
+    "sentiment": "0"
   },
   {
     "id": 7488,
     "mediaId": 151,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T14:00",
     "sentence": "And weve got questions were eager to see answered:\nWhats next for <span class='selected-term'>Brian Kemp</span>?",
     "author": "",
-    "title": "7 big 2022 midterm questions to answer this week"
+    "title": "7 big 2022 midterm questions to answer this week",
+    "sentiment": "0"
   },
   {
     "id": 7434,
     "mediaId": 409,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T13:46",
     "sentence": "Republican incumbent <span class='selected-term'>Brian Kemp</span> is running against former U.S.",
     "author": "Arjun Singh",
-    "title": "Trumps Hold Over GOP Electorate to Be Tested in Closely Watched Primaries"
+    "title": "Trumps Hold Over GOP Electorate to Be Tested in Closely Watched Primaries",
+    "sentiment": "-0.496"
   },
   {
     "id": 7364,
     "mediaId": 136,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T03:50",
     "sentence": "Just hours before Trump's endorsed candidate in Georgia's primary candidate was defeated by incumbent Governor <span class='selected-term'>Brian Kemp</span>, Fox Business host Stuart Varney questioned the former president himself why he wouldn't take the advice of his GOP colleagues.",
     "author": "Katherine Fung",
-    "title": "Trump Ignored Warnings That Dwelling on 2020 Fraud Could Cost Him Elections"
+    "title": "Trump Ignored Warnings That Dwelling on 2020 Fraud Could Cost Him Elections",
+    "sentiment": "-0.647"
   }
 ]

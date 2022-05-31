@@ -2,17 +2,19 @@
   {
     "id": 7047,
     "mediaId": 234,
-    "date": "1/13/2022 12:00:00 AM",
+    "date": "d2022-01-13T00:00",
     "sentence": "(By way of example, the GOP field includesamong other Trumpy characters<span class='selected-term'>Doug Mastriano</span>, a Republican state senator who personally attended and used campaign funds to pay for buses to travel to the U.S. Capitol for the Stop the Steal? rally on January 6.)",
     "author": "",
-    "title": "The Stakes Could Not Be Higher: All Eyes on Pennsylvania as Key Elections Loom"
+    "title": "The Stakes Could Not Be Higher: All Eyes on Pennsylvania as Key Elections Loom",
+    "sentiment": "0.0"
   },
   {
     "id": 7043,
     "mediaId": 25,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T00:00",
     "sentence": "Republican State Senator <span class='selected-term'>Doug Mastriano</span>, who voted for Act 77 in 2019, introduced a bill in November 2021 to repeal certain provisions of the law, including eliminating no-excuse mail voting.",
     "author": "Adam Brewster",
-    "title": "Pennsylvania court strikes down no-excuse mail voting law"
+    "title": "Pennsylvania court strikes down no-excuse mail voting law",
+    "sentiment": "0.0"
   }
 ]

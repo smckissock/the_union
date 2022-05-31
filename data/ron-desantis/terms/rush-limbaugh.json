@@ -2,9 +2,19 @@
   {
     "id": 3558,
     "mediaId": 223,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:01",
     "sentence": "",
     "author": "Scott Morefield",
-    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room"
+    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3558,
+    "mediaId": 223,
+    "date": "d2022-05-16T00:01",
+    "sentence": "",
+    "author": "Scott Morefield",
+    "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room",
+    "sentiment": "0.331"
   }
 ]

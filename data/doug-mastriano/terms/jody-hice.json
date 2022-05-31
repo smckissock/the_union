@@ -2,65 +2,82 @@
   {
     "id": 6958,
     "mediaId": 34,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "Marchant has said that one of them, <span class='selected-term'>Doug Mastriano</span>, is a member of his coalition.",
     "author": "Steven Harper",
-    "title": "November 2022: The Anti-Democracy Coalition"
+    "title": "November 2022: The Anti-Democracy Coalition",
+    "sentiment": "0.0"
   },
   {
     "id": 6859,
     "mediaId": 129,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "Recent polling shows State Senator <span class='selected-term'>Doug Mastriano</span>, a retired Army colonel with a Ph.D. in history, leading the rest of the Republican candidates.",
     "author": "",
-    "title": "The Most Pivotal Elections in 2022 Are Not the Ones You Think"
+    "title": "The Most Pivotal Elections in 2022 Are Not the Ones You Think",
+    "sentiment": "0"
   },
   {
     "id": 6634,
     "mediaId": 65,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T14:37",
     "sentence": "Trump's grip on the GOP was further illustrated Tuesday night when Pennsylvania gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, a strong supporter of Trumps repeated attempts the past year and a half to re-litigate his 2020 election loss, won his primary.",
     "author": "Tyler Olson",
-    "title": "Stefanik, Mullin introduce House resolution to expunge second Trump impeachment"
+    "title": "Stefanik, Mullin introduce House resolution to expunge second Trump impeachment",
+    "sentiment": "-0.259"
   },
   {
     "id": 4456,
     "mediaId": 238,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T15:22",
     "sentence": "Republicans are in full-scale panic about <span class='selected-term'>Doug Mastriano</span>, the right-wing extremist who won the GOP primary for Pennsylvania governor this week.",
     "author": "Greg Sargent",
-    "title": "Opinion Trumps alarming GOP primary wins demand a serious response"
-  },
-  {
-    "id": 6538,
-    "mediaId": 195,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "In Pennsylvania, <span class='selected-term'>Doug Mastriano</span>, who backs Trump's false claims of election fraud and marched to the Capitol on Jan. 6, will be the GOP's gubernatorial candidate.",
-    "author": "Niall Stanage",
-    "title": "The Memo: Trump faces critical popularity test in Georgia"
+    "title": "Opinion Trumps alarming GOP primary wins demand a serious response",
+    "sentiment": "-0.504"
   },
   {
     "id": 6570,
     "mediaId": 151,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T08:30",
     "sentence": "Republicans this week nominated far-right state Sen. <span class='selected-term'>Doug Mastriano</span> to be their gubernatorial nominee in Pennsylvania, where the governor appoints the secretary of state.",
     "author": "",
-    "title": "Trump's bid to control election offices hits first battleground"
+    "title": "Trump's bid to control election offices hits first battleground",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6538,
+    "mediaId": 195,
+    "date": "d2022-05-20T10:00",
+    "sentence": "In Pennsylvania, <span class='selected-term'>Doug Mastriano</span>, who backs Trump's false claims of election fraud and marched to the Capitol on Jan. 6, will be the GOP's gubernatorial candidate.",
+    "author": "Niall Stanage",
+    "title": "The Memo: Trump faces critical popularity test in Georgia",
+    "sentiment": "0.0"
   },
   {
     "id": 7288,
     "mediaId": 136,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T13:35",
     "sentence": "The races are being closely watched to see if more far-right candidates across the country can follow in the footsteps of <span class='selected-term'>Doug Mastriano</span>, who won Pennsylvania's Republican primary race for governor last week by running a campaign focused on pushing Trump's election falsehoods.",
     "author": "Daniel Bush",
-    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents"
+    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents",
+    "sentiment": "0.0"
   },
   {
     "id": 7326,
     "mediaId": 1546,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T17:21",
     "sentence": "Last week, Trump-endorsed <span class='selected-term'>Doug Mastriano</span>, who supports Trump's claims of election fraud, won the Pennsylvania gubernatorial nomination.",
     "author": "Ken Bredemeier",
-    "title": "Trump's Election Fraud Claims Face a Test in Georgia"
+    "title": "Trump's Election Fraud Claims Face a Test in Georgia",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8498,
+    "mediaId": 129,
+    "date": "d2022-05-28T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "The Good News in Georgia Thats Bad News for Trump",
+    "sentiment": "0"
   }
 ]

@@ -1,98 +1,110 @@
 [
   {
-    "id": 6447,
-    "mediaId": 169,
-    "date": "4/7/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Amanda Marcotte",
-    "title": "Boycotting Disney and Oreos: The red flags that MAGA is a cult"
-  },
-  {
     "id": 6451,
     "mediaId": 157,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T00:00",
     "sentence": "",
     "author": "Amanda Marcotte",
-    "title": "Trump's MAGA movement is a cult  and here's the proof"
+    "title": "Trump's MAGA movement is a cult  and here's the proof",
+    "sentiment": "0"
   },
   {
-    "id": 6313,
-    "mediaId": 151,
-    "date": "4/18/2022 12:00:00 AM",
+    "id": 6447,
+    "mediaId": 169,
+    "date": "d2022-04-07T13:10",
     "sentence": "",
-    "author": "",
-    "title": "5 numbers to know from the new FEC reports"
+    "author": "Amanda Marcotte",
+    "title": "Boycotting Disney and Oreos: The red flags that MAGA is a cult",
+    "sentiment": "0"
   },
   {
     "id": 6319,
     "mediaId": 195,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T10:26",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Will Trumps Ohio gamble pay off?"
+    "title": "The Hills Morning Report  Will Trumps Ohio gamble pay off?",
+    "sentiment": "-0.383"
+  },
+  {
+    "id": 6313,
+    "mediaId": 151,
+    "date": "d2022-04-18T14:00",
+    "sentence": "",
+    "author": "",
+    "title": "5 numbers to know from the new FEC reports",
+    "sentiment": "0"
   },
   {
     "id": 6143,
     "mediaId": 136,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T16:51",
     "sentence": "",
     "author": "Andrew Stanton",
-    "title": "Trump Sparking Fights in MAGA World With These Endorsements"
+    "title": "Trump Sparking Fights in MAGA World With These Endorsements",
+    "sentiment": "0"
   },
   {
     "id": 5546,
     "mediaId": 136,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T01:50",
     "sentence": "",
     "author": "Daniel Bush",
-    "title": "Biden Reaches Out to Trump Country Voters While Ramping Up MAGA Criticism"
+    "title": "Biden Reaches Out to Trump Country Voters While Ramping Up MAGA Criticism",
+    "sentiment": "0"
   },
   {
     "id": 5534,
     "mediaId": 19,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Exclusive  Katie Britt: Congress Should Finish Building the Wall Before Sending Ukraine $40 Billion"
+    "title": "Exclusive  Katie Britt: Congress Should Finish Building the Wall Before Sending Ukraine $40 Billion",
+    "sentiment": "0"
   },
   {
     "id": 7161,
     "mediaId": 147,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T01:01",
     "sentence": "",
     "author": "Kim Chandler",
-    "title": "Gov. Kay Ivey, challengers race to the right in Alabama GOP primary"
+    "title": "Gov. Kay Ivey, challengers race to the right in Alabama GOP primary",
+    "sentiment": "0"
   },
   {
     "id": 7482,
     "mediaId": 195,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:29",
     "sentence": "",
     "author": "Niall Stanage",
-    "title": "The Memo: Trump no longer holds MAGA movement in his palm"
-  },
-  {
-    "id": 7309,
-    "mediaId": 323,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Cameron McWhirter",
-    "title": "Georgia GOP Primary Elections for Governor and Secretary of State Are Top Contests Today"
-  },
-  {
-    "id": 7349,
-    "mediaId": 32,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kevin Breuninger",
-    "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch"
+    "title": "The Memo: Trump no longer holds MAGA movement in his palm",
+    "sentiment": "0"
   },
   {
     "id": 7350,
     "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T08:59:18",
     "sentence": "",
     "author": "",
-    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond"
+    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "0"
+  },
+  {
+    "id": 7309,
+    "mediaId": 323,
+    "date": "d2022-05-24T09:30",
+    "sentence": "",
+    "author": "Cameron McWhirter",
+    "title": "Georgia GOP Primary Elections for Governor and Secretary of State Are Top Contests Today",
+    "sentiment": "0"
+  },
+  {
+    "id": 7349,
+    "mediaId": 32,
+    "date": "d2022-05-24T13:54:55",
+    "sentence": "",
+    "author": "Kevin Breuninger",
+    "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch",
+    "sentiment": "0"
   }
 ]

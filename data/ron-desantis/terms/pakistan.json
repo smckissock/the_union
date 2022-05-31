@@ -2,17 +2,19 @@
   {
     "id": 5243,
     "mediaId": 209,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "",
     "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 9, 2022"
+    "title": "10 things you need to know today: April 9, 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 3826,
     "mediaId": 302,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T14:00",
     "sentence": "",
     "author": "",
-    "title": "Climate catastrophists need to chill | Column"
+    "title": "Climate catastrophists need to chill | Column",
+    "sentiment": "0.0"
   }
 ]

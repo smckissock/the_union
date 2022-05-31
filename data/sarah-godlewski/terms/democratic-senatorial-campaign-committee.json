@@ -2,17 +2,19 @@
   {
     "id": 2418,
     "mediaId": 129,
-    "date": "1/11/2022 12:00:00 AM",
+    "date": "d2022-01-11T00:00",
     "sentence": "Mandela Barnes and State Treasurer <span class='selected-term'>Sarah Godlewski</span>, along with Alex Lasry, an executive with the Milwaukee Bucks, and Tom Nelson, a county executive.",
     "author": "",
-    "title": "Nobody's Getting Special Treatment in 2022"
+    "title": "Nobody's Getting Special Treatment in 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 2300,
     "mediaId": 195,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T12:57",
     "sentence": "Mandela Barnes (D), state Treasurer <span class='selected-term'>Sarah Godlewski</span> (D), Milwaukee Bucks vice president Alex Lasry (D), Outagamie County Executive Tom Nelson (D) and nonprofit executive Steven Olikara (D), among others.",
     "author": "Reid Wilson",
-    "title": "Democrats reserve $33 million in fall advertising in fight for Senate"
+    "title": "Democrats reserve $33 million in fall advertising in fight for Senate",
+    "sentiment": "0.0"
   }
 ]

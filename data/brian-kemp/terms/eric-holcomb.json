@@ -2,17 +2,19 @@
   {
     "id": 5090,
     "mediaId": 136,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T16:08",
     "sentence": "In Georgia, Governor <span class='selected-term'>Brian Kemp</span> signed a bill in March that will provide eligible state residents with additional economic payments after they file their taxes.",
     "author": "Matthew Impelli",
-    "title": "Fourth Stimulus Check Update: Some Americans Eligible for More Money"
+    "title": "Fourth Stimulus Check Update: Some Americans Eligible for More Money",
+    "sentiment": "0"
   },
   {
     "id": 4658,
     "mediaId": 409,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T15:21",
     "sentence": "In Georgia, the legislature passed a bill delegating authority to the GHSA to implement policies on transgender athletes, with Governor <span class='selected-term'>Brian Kemp</span> signing the bill last week.",
     "author": "Zachary Evans",
-    "title": "Georgia School Athletics Group Bars Male Students from Girls Sports"
+    "title": "Georgia School Athletics Group Bars Male Students from Girls Sports",
+    "sentiment": "0.0"
   }
 ]

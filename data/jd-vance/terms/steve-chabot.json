@@ -2,17 +2,19 @@
   {
     "id": 5981,
     "mediaId": 19,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Nick Gilbertson",
-    "title": "Clean Sweep: All 22 Trump-Backed Candidates Win Primaries in Ohio, Indiana"
+    "title": "Clean Sweep: All 22 Trump-Backed Candidates Win Primaries in Ohio, Indiana",
+    "sentiment": "0.966"
   },
   {
     "id": 5768,
     "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T18:10",
     "sentence": "",
     "author": "Caroline Vakil",
-    "title": "The Trump-endorsed candidates who have won their primaries"
+    "title": "The Trump-endorsed candidates who have won their primaries",
+    "sentiment": "0"
   }
 ]

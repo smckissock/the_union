@@ -1,42 +1,56 @@
 [
   {
-    "id": 4120,
-    "mediaId": 195,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kimberly Wehle",
-    "title": "SCOTUS leaked abortion opinion is rooted in a time women had no rights"
-  },
-  {
     "id": 4157,
     "mediaId": 239,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Valerie Richardson",
-    "title": "Paging Justice Thomas: Eric Swalwell says Republicans want to ban interracial marriage"
+    "title": "Paging Justice Thomas: Eric Swalwell says Republicans want to ban interracial marriage",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4120,
+    "mediaId": 195,
+    "date": "d2022-05-03T17:45",
+    "sentence": "",
+    "author": "Kimberly Wehle",
+    "title": "SCOTUS leaked abortion opinion is rooted in a time women had no rights",
+    "sentiment": "0.0"
   },
   {
     "id": 3754,
     "mediaId": 65,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T23:57",
     "sentence": "Im not looking to kiss anybodys a--  he seems like a decent guy, Im glad he won, but you have to take some cues from <span class='selected-term'>Ron DeSantis</span>, who enforces the law down here in Florida,\" Bongino said.",
     "author": "",
-    "title": "Bongino calls on Virginia officials to prosecute Alito protesters under 'right to tranquility' law"
+    "title": "Bongino calls on Virginia officials to prosecute Alito protesters under 'right to tranquility' law",
+    "sentiment": "0.0"
   },
   {
     "id": 7123,
     "mediaId": 238,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T15:52",
     "sentence": "",
     "author": "Emma Brown",
-    "title": "Ginni Thomas, wife of Supreme Court justice, pressed Ariz. lawmakers to help reverse Trumps loss, emails show"
+    "title": "Ginni Thomas, wife of Supreme Court justice, pressed Ariz. lawmakers to help reverse Trumps loss, emails show",
+    "sentiment": "0.0"
   },
   {
     "id": 7109,
     "mediaId": 302,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T18:00",
     "sentence": "",
     "author": "Associated Press",
-    "title": "Ginni Thomas emails deepen her involvement in 2020 election"
+    "title": "Ginni Thomas emails deepen her involvement in 2020 election",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8526,
+    "mediaId": 129,
+    "date": "d2022-05-29T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "What Lia Thomas Could Mean for Women's Elite Sports",
+    "sentiment": "0.0"
   }
 ]

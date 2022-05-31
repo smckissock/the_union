@@ -2,17 +2,19 @@
   {
     "id": 7228,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "Republicans have already elevated candidates like State Senator <span class='selected-term'>Doug Mastriano</span>, a far-right 2020 election denier who is the Republican nominee for governor in Pennsylvania.",
     "author": "",
-    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality"
+    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality",
+    "sentiment": "0.0"
   },
   {
     "id": 7289,
     "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T13:33:24",
     "sentence": "During the Republican primary in Pennsylvania, Mr. Shapiro, the state's attorney general, ran an ad that called State Senator <span class='selected-term'>Doug Mastriano</span> one of Donald Trump's strongest supporters.",
     "author": "",
-    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else."
+    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else.",
+    "sentiment": "0.0"
   }
 ]

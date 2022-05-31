@@ -1,10 +1,11 @@
 {
   "id": 1217,
   "mediaId": 65,
-  "date": "3/11/2022 12:00:00 AM",
+  "date": "d2022-03-11T19:58",
   "headline": "Trump returning to Georgia to campaign with David Perdue, Herschel Walker",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c676434c-cf20-4f19-9892-08d461613a33/27514b1e-d1ec-4065-9549-eb8f6d709456/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/trump-georgia-rally-david-perdue-herschel-walker-campaign",
+  "sentiment": "0.832",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     815,
     1147,
-    1646,
     2087,
     2095,
     4325,

@@ -2,17 +2,37 @@
   {
     "id": 4134,
     "mediaId": 558,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T11:54",
     "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) said that the leaked Supreme Court draft opinion to overturn Roe v Wade was a judicial insurrection?.",
     "author": "",
-    "title": "Gov. DeSantis (R-FL) says the leaked Supreme Court draft opinion to overturn Roe v. Wade is a \"judicial insurrection.\""
+    "title": "Gov. DeSantis (R-FL) says the leaked Supreme Court draft opinion to overturn Roe v. Wade is a \"judicial insurrection.\"",
+    "sentiment": "0"
+  },
+  {
+    "id": 4134,
+    "mediaId": 558,
+    "date": "d2022-05-03T11:54",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) said that the leaked Supreme Court draft opinion to overturn Roe v Wade was a judicial insurrection?.",
+    "author": "",
+    "title": "Gov. DeSantis (R-FL) says the leaked Supreme Court draft opinion to overturn Roe v. Wade is a \"judicial insurrection.\"",
+    "sentiment": "0.0"
   },
   {
     "id": 3990,
     "mediaId": 1067,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T13:02",
     "sentence": "",
     "author": "Jim Turner",
-    "title": "Florida jobless claims remain low amid DeSantis warnings"
+    "title": "Florida jobless claims remain low amid DeSantis warnings",
+    "sentiment": "0"
+  },
+  {
+    "id": 3990,
+    "mediaId": 1067,
+    "date": "d2022-05-05T13:02",
+    "sentence": "",
+    "author": "Jim Turner",
+    "title": "Florida jobless claims remain low amid DeSantis warnings",
+    "sentiment": "0.0"
   }
 ]

@@ -2,9 +2,19 @@
   {
     "id": 4032,
     "mediaId": 323,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T20:20",
     "sentence": "Democratic gubernatorial candidates in Florida seized on the leak as a way to potentially shake up a race in which incumbent Republican <span class='selected-term'>Ron DeSantis</span> is leading.",
     "author": "Elizabeth Findell",
-    "title": "Gubernatorial Candidates Seize on Leaked Roe v. Wade Draft Opinion"
+    "title": "Gubernatorial Candidates Seize on Leaked Roe v. Wade Draft Opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 4032,
+    "mediaId": 323,
+    "date": "d2022-05-04T20:20",
+    "sentence": "Democratic gubernatorial candidates in Florida seized on the leak as a way to potentially shake up a race in which incumbent Republican <span class='selected-term'>Ron DeSantis</span> is leading.",
+    "author": "Elizabeth Findell",
+    "title": "Gubernatorial Candidates Seize on Leaked Roe v. Wade Draft Opinion",
+    "sentiment": "0.0"
   }
 ]

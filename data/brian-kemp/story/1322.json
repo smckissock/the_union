@@ -1,10 +1,11 @@
 {
   "id": 1322,
   "mediaId": 169,
-  "date": "2/22/2022 12:00:00 AM",
+  "date": "d2022-02-22T06:00",
   "headline": "Stacey Abrams, David Perdue in unlikely alliance after Brian Kemp changes election rules again",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/02/abrams-perdue-kemp-0218221.jpg",
   "link": "https://www.salon.com/2022/02/22/stacey-abrams-david-perdue-in-unlikely-alliance-after-brian-kemp-changes-rules-again/",
+  "sentiment": "-0.591",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     1008,
     1151,
-    1646,
     1951,
     2095,
     2230,

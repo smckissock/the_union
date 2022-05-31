@@ -1,66 +1,110 @@
 [
   {
-    "id": 3898,
-    "mediaId": 238,
-    "date": "5/6/2022 12:00:00 AM",
+    "id": 3945,
+    "mediaId": 1164,
+    "date": "d2022-05-06T00:00",
     "sentence": "",
-    "author": "",
-    "title": "Appellate court confirms DeSantis-backed voting law in Florida"
-  },
-  {
-    "id": 3900,
-    "mediaId": 302,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Lawrence Mower",
-    "title": "Appeals court reinstates Floridas disputed voting law"
-  },
-  {
-    "id": 3907,
-    "mediaId": 163,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span>, who is running for re-election and is considered a top Republican contender for the 2024 presidential election, signed the bill into law last year after it passed the Republican-majority legislature.",
-    "author": "Joseph Ax",
-    "title": "U.S. appeals court reinstates Florida voting limits that judge had deemed discriminatory"
-  },
-  {
-    "id": 3913,
-    "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Ryan King",
-    "title": "Appeals court reinstates Florida GOP-backed voting law  for now"
-  },
-  {
-    "id": 3924,
-    "mediaId": 593,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span>, who is running for re-election and is considered a top Republican contender for the 2024 presidential election, signed the bill into law last year after it passed the Republican-majority legislature.",
-    "author": "Joseph Ax",
-    "title": "U.S. Appeals Court Reinstates Florida Voting Limits That Judge Had Deemed Discriminatory"
+    "author": "Adam Schrader",
+    "title": "Appeals court temporarily reinstates Florida voting law",
+    "sentiment": "0"
   },
   {
     "id": 3945,
     "mediaId": 1164,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Adam Schrader",
-    "title": "Appeals court temporarily reinstates Florida voting law"
+    "title": "Appeals court temporarily reinstates Florida voting law",
+    "sentiment": "0.0"
   },
   {
-    "id": 3470,
-    "mediaId": 1546,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "Not so, according to Florida Governor <span class='selected-term'>Ron DeSantis</span>, a potential 2024 Republican presidential candidate.",
-    "author": "Chris Simkins",
-    "title": "Looming Midterm Elections Put US Voting Rights in Spotlight"
+    "id": 3913,
+    "mediaId": 237,
+    "date": "d2022-05-06T16:35",
+    "sentence": "",
+    "author": "Ryan King",
+    "title": "Appeals court reinstates Florida GOP-backed voting law  for now",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3907,
+    "mediaId": 163,
+    "date": "d2022-05-06T17:51",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span>, who is running for re-election and is considered a top Republican contender for the 2024 presidential election, signed the bill into law last year after it passed the Republican-majority legislature.",
+    "author": "Joseph Ax",
+    "title": "U.S. appeals court reinstates Florida voting limits that judge had deemed discriminatory",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3900,
+    "mediaId": 302,
+    "date": "d2022-05-06T19:01",
+    "sentence": "",
+    "author": "Lawrence Mower",
+    "title": "Appeals court reinstates Floridas disputed voting law",
+    "sentiment": "0"
+  },
+  {
+    "id": 3900,
+    "mediaId": 302,
+    "date": "d2022-05-06T19:01",
+    "sentence": "",
+    "author": "Lawrence Mower",
+    "title": "Appeals court reinstates Floridas disputed voting law",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3898,
+    "mediaId": 238,
+    "date": "d2022-05-06T20:28",
+    "sentence": "",
+    "author": "",
+    "title": "Appellate court confirms DeSantis-backed voting law in Florida",
+    "sentiment": "0"
+  },
+  {
+    "id": 3898,
+    "mediaId": 238,
+    "date": "d2022-05-06T20:28",
+    "sentence": "",
+    "author": "",
+    "title": "Appellate court confirms DeSantis-backed voting law in Florida",
+    "sentiment": "0.0"
   },
   {
     "id": 3471,
     "mediaId": 136,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T17:32",
     "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
     "author": "Katherine Fung",
-    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis"
+    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3471,
+    "mediaId": 136,
+    "date": "d2022-05-18T17:32",
+    "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
+    "author": "Katherine Fung",
+    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
+    "sentiment": "0.281"
+  },
+  {
+    "id": 3470,
+    "mediaId": 1546,
+    "date": "d2022-05-18T18:39",
+    "sentence": "Not so, according to Florida Governor <span class='selected-term'>Ron DeSantis</span>, a potential 2024 Republican presidential candidate.",
+    "author": "Chris Simkins",
+    "title": "Looming Midterm Elections Put US Voting Rights in Spotlight",
+    "sentiment": "0"
+  },
+  {
+    "id": 3470,
+    "mediaId": 1546,
+    "date": "d2022-05-18T18:39",
+    "sentence": "Not so, according to Florida Governor <span class='selected-term'>Ron DeSantis</span>, a potential 2024 Republican presidential candidate.",
+    "author": "Chris Simkins",
+    "title": "Looming Midterm Elections Put US Voting Rights in Spotlight",
+    "sentiment": "0.0"
   }
 ]

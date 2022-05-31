@@ -2,185 +2,226 @@
   {
     "id": 8175,
     "mediaId": 169,
-    "date": "2/9/2022 12:00:00 AM",
+    "date": "d2022-02-09T14:54",
     "sentence": "",
     "author": "Igor Derysh",
-    "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects"
+    "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
+    "sentiment": "0"
   },
   {
     "id": 6387,
     "mediaId": 195,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T10:00",
     "sentence": "",
     "author": "Niall Stanage",
-    "title": "The Memo: Democrats hope Trump will save them from midterm disaster"
+    "title": "The Memo: Democrats hope Trump will save them from midterm disaster",
+    "sentiment": "0"
   },
   {
     "id": 6172,
     "mediaId": 195,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T15:30",
     "sentence": "",
     "author": "Albert Hunt",
-    "title": "McConnells dilemma: What if Trumps candidates win?"
+    "title": "McConnells dilemma: What if Trumps candidates win?",
+    "sentiment": "0"
   },
   {
     "id": 6160,
     "mediaId": 195,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T10:00",
     "sentence": "",
     "author": "Juan Williams",
-    "title": "Juan Williams: Trump rains on McConnells parade"
+    "title": "Juan Williams: Trump rains on McConnells parade",
+    "sentiment": "0.701"
   },
   {
     "id": 6082,
     "mediaId": 169,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T10:03",
     "sentence": "",
     "author": "Heather Digby Parton",
-    "title": "Trump's puppets: McConnell and McCarthy have lost all control"
+    "title": "Trump's puppets: McConnell and McCarthy have lost all control",
+    "sentiment": "0"
   },
   {
     "id": 4316,
     "mediaId": 129,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day"
+    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
+    "sentiment": "0"
   },
   {
     "id": 6023,
     "mediaId": 195,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:26",
     "sentence": "",
     "author": "Jordain Carney",
-    "title": "Senate GOP to primary voters: Dont screw it up"
+    "title": "Senate GOP to primary voters: Dont screw it up",
+    "sentiment": "0.682"
   },
   {
     "id": 5976,
     "mediaId": 238,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "Republicans reluctant to tout Roe decision they have long sought"
-  },
-  {
-    "id": 5764,
-    "mediaId": 237,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Daniel Chaitin",
-    "title": "'Long arm of Donald Trump' encircles Mitch McConnell in Senate"
-  },
-  {
-    "id": 5770,
-    "mediaId": 151,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Biden: MAGA is the most extreme political organization in recent U.S. history"
-  },
-  {
-    "id": 5804,
-    "mediaId": 209,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "W. James Antle III",
-    "title": "What J.D. Vance's Ohio primary victory means"
+    "title": "Republicans reluctant to tout Roe decision they have long sought",
+    "sentiment": "0"
   },
   {
     "id": 5842,
     "mediaId": 43,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Laura Clawson",
-    "title": "J.D. Vance is the Ohio Senate candidate Mitch McConnell deserves, however McConnell feels about it"
+    "title": "J.D. Vance is the Ohio Senate candidate Mitch McConnell deserves, however McConnell feels about it",
+    "sentiment": "0"
+  },
+  {
+    "id": 5804,
+    "mediaId": 209,
+    "date": "d2022-05-04T08:50",
+    "sentence": "",
+    "author": "W. James Antle III",
+    "title": "What J.D. Vance's Ohio primary victory means",
+    "sentiment": "0.691"
+  },
+  {
+    "id": 5770,
+    "mediaId": 151,
+    "date": "d2022-05-04T17:34",
+    "sentence": "",
+    "author": "",
+    "title": "Biden: MAGA is the most extreme political organization in recent U.S. history",
+    "sentiment": "0"
+  },
+  {
+    "id": 5764,
+    "mediaId": 237,
+    "date": "d2022-05-04T18:59",
+    "sentence": "",
+    "author": "Daniel Chaitin",
+    "title": "'Long arm of Donald Trump' encircles Mitch McConnell in Senate",
+    "sentiment": "0"
   },
   {
     "id": 5651,
     "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T23:00",
     "sentence": "",
     "author": "Ryan King",
-    "title": "'Totally controlled': Trump rips McCormick while lauding Dr. Oz in Pennsylvania rally"
-  },
-  {
-    "id": 5595,
-    "mediaId": 195,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  US expedites Ukraine assistance push"
+    "title": "'Totally controlled': Trump rips McCormick while lauding Dr. Oz in Pennsylvania rally",
+    "sentiment": "0.885"
   },
   {
     "id": 5600,
     "mediaId": 195,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T09:23",
     "sentence": "",
     "author": "Emily Brooks",
-    "title": "State laws muddle national GOPs abortion messaging"
+    "title": "State laws muddle national GOPs abortion messaging",
+    "sentiment": "0"
   },
   {
-    "id": 5527,
-    "mediaId": 136,
-    "date": "5/15/2022 12:00:00 AM",
+    "id": 5595,
+    "mediaId": 195,
+    "date": "d2022-05-10T10:27",
     "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill"
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  US expedites Ukraine assistance push",
+    "sentiment": "0"
   },
   {
     "id": 5530,
     "mediaId": 151,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T16:15",
     "sentence": "",
     "author": "",
-    "title": "McConnell takes on MAGA with Ukraine visit"
+    "title": "McConnell takes on MAGA with Ukraine visit",
+    "sentiment": "0"
   },
   {
-    "id": 5497,
-    "mediaId": 98,
-    "date": "5/17/2022 12:00:00 AM",
+    "id": 5527,
+    "mediaId": 136,
+    "date": "d2022-05-15T21:33",
     "sentence": "",
-    "author": "LISA MASCARO",
-    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine"
+    "author": "Andrew Stanton",
+    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill",
+    "sentiment": "0"
   },
   {
     "id": 5499,
     "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:31",
     "sentence": "",
     "author": "",
-    "title": "McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid"
+    "title": "McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid",
+    "sentiment": "0"
+  },
+  {
+    "id": 5497,
+    "mediaId": 98,
+    "date": "d2022-05-17T03:09",
+    "sentence": "",
+    "author": "LISA MASCARO",
+    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine",
+    "sentiment": "0"
   },
   {
     "id": 5462,
     "mediaId": 238,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T21:29",
     "sentence": "",
     "author": "Paul Kane",
-    "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell"
+    "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell",
+    "sentiment": "0.437"
   },
   {
     "id": 4461,
     "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T10:28",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Recount looms in Pennsylvania"
+    "title": "The Hills Morning Report  Recount looms in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 7156,
     "mediaId": 151,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T18:08",
     "sentence": "",
     "author": "",
-    "title": "Inside McConnell's bid to quash GOP isolationists'"
+    "title": "Inside McConnell's bid to quash GOP isolationists'",
+    "sentiment": "0"
   },
   {
     "id": 7477,
     "mediaId": 234,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "",
     "author": "Caleb Ecarma",
-    "title": "The GOP Needs Trump-Loving Football Champ Herschel Walker to Be Teflon"
+    "title": "The GOP Needs Trump-Loving Football Champ Herschel Walker to Be Teflon",
+    "sentiment": "0"
+  },
+  {
+    "id": 8404,
+    "mediaId": 376,
+    "date": "d2022-05-26T14:30",
+    "sentence": "",
+    "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
+    "title": "At the Races: Divisions on display",
+    "sentiment": "0"
+  },
+  {
+    "id": 8563,
+    "mediaId": 136,
+    "date": "d2022-05-29T10:00",
+    "sentence": "",
+    "author": "Jonathan Tobin",
+    "title": "McConnell's Win on Ukraine Aid Isn't the End of GOP Foreign Policy Debate | Opinion",
+    "sentiment": "0"
   }
 ]

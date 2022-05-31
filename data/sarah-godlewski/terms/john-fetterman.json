@@ -2,41 +2,46 @@
   {
     "id": 2443,
     "mediaId": 65,
-    "date": "1/5/2022 12:00:00 AM",
+    "date": "d2022-01-05T16:00",
     "sentence": "Mandela Barnes, state Treasurer <span class='selected-term'>Sarah Godlewski</span>, and Outagamie County Executive Tom Nelson also have highlighted their push to scrap the filibuster.",
     "author": "Paul Steinhauser",
-    "title": "Democratic Senate candidates put changing the filibuster front and center"
+    "title": "Democratic Senate candidates put changing the filibuster front and center",
+    "sentiment": "0.0"
   },
   {
     "id": 59,
     "mediaId": 195,
-    "date": "2/6/2022 12:00:00 AM",
+    "date": "d2022-02-06T15:30",
     "sentence": "Two other contenders who can put their own money into the contest are state treasurer <span class='selected-term'>Sarah Godlewski</span>, supported by women's groups, and Alex Lasry, whose family owns the Milwaukee Bucks professional basketball team.",
     "author": "Albert Hunt",
-    "title": "Midterm primaries might be critical to balance of the Senate"
+    "title": "Midterm primaries might be critical to balance of the Senate",
+    "sentiment": "0.0"
   },
   {
     "id": 2390,
     "mediaId": 238,
-    "date": "2/7/2022 12:00:00 AM",
+    "date": "d2022-02-07T00:00",
     "sentence": "Democrats have plenty of options, including Milwaukee Bucks executive Alex Lasry and State Treasurer <span class='selected-term'>Sarah Godlewski</span>, who has made her appeal in rural areas a key argument for her campaign.",
     "author": "",
-    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race"
+    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2312,
     "mediaId": 151,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T21:09",
     "sentence": "Until there is a plan, for the safety of our citizens and those seeking asylum, they should not lift it,? said Wisconsin state Treasurer <span class='selected-term'>Sarah Godlewski</span>, who is running for the Democratic Senate nomination.",
     "author": "",
-    "title": "More Dem Senate hopefuls split with Biden on border"
+    "title": "More Dem Senate hopefuls split with Biden on border",
+    "sentiment": "0"
   },
   {
     "id": 2309,
     "mediaId": 238,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T10:00",
     "sentence": "); Milwaukee Bucks executive Alex Lasry; state Treasurer <span class='selected-term'>Sarah Godlewski</span> and a county executive, Tom Nelson.",
     "author": "",
-    "title": "The most interesting Democratic primaries of 2022"
+    "title": "The most interesting Democratic primaries of 2022",
+    "sentiment": "0.0"
   }
 ]

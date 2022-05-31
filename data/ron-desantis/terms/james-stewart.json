@@ -2,9 +2,19 @@
   {
     "id": 3696,
     "mediaId": 21,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T14:00",
     "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
     "author": "Claire Atkinson",
-    "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't"
+    "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
+    "sentiment": "-0.465"
+  },
+  {
+    "id": 3696,
+    "mediaId": 21,
+    "date": "d2022-05-11T14:00",
+    "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
+    "author": "Claire Atkinson",
+    "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
+    "sentiment": "0.0"
   }
 ]

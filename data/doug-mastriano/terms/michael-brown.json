@@ -2,57 +2,64 @@
   {
     "id": 7032,
     "mediaId": 675,
-    "date": "2/13/2022 12:00:00 AM",
+    "date": "d2022-02-13T10:42",
     "sentence": "Republican State Sen. <span class='selected-term'>Doug Mastriano</span> and others sought answers from Pennsylvania Gov.",
     "author": "WND News Services",
-    "title": "The mystery of the migrant kids"
+    "title": "The mystery of the migrant kids",
+    "sentiment": "0.0"
   },
   {
     "id": 7033,
     "mediaId": 675,
-    "date": "2/13/2022 12:00:00 AM",
+    "date": "d2022-02-13T10:42",
     "sentence": "Republican State Sen. <span class='selected-term'>Doug Mastriano</span> and others sought answers from Pennsylvania Gov.",
     "author": "WND News Services",
-    "title": "The mystery of the migrant kids"
-  },
-  {
-    "id": 7028,
-    "mediaId": 63,
-    "date": "2/15/2022 12:00:00 AM",
-    "sentence": "The committee also subpoenaed Pennsylvania gubernatorial candidate and state Sen. <span class='selected-term'>Doug Mastriano</span> (R), Arizona GOP chairwoman Kelli Ward, former Michigan Republican State Committee chairwoman Laura Cox and Arizona state Rep. Mark Finchem (R), who is also a member of the far-right militia group the Oath Keepers.",
-    "author": "Nicholas Reimann",
-    "title": "Jan. 6 Committee Subpoenas Trump Campaign Officials Over Fake Electors Scheme"
-  },
-  {
-    "id": 7029,
-    "mediaId": 32,
-    "date": "2/15/2022 12:00:00 AM",
-    "sentence": "Brandon Bell | Getty Images\nThe House select committee investigating the Jan. 6 Capitol riot issued subpoenas Tuesday to Arizona Republican Party Chairwoman Kelli Ward, GOP State Sen. <span class='selected-term'>Doug Mastriano</span> of Pennsylvania and four others over their alleged efforts to interfere with the certification of the 2020 election results.",
-    "author": "Kevin Breuninger",
-    "title": "House probe of Jan. 6 Capitol riot subpoenas Arizona GOP leader Kelli Ward, 5 others over alternate electors"
-  },
-  {
-    "id": 7030,
-    "mediaId": 237,
-    "date": "2/15/2022 12:00:00 AM",
-    "sentence": "The latest bevy of subpoenas includes those sent to Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> and Arizona state Rep. Mark Finchem, two Trump allies who the committee says boosted efforts to send alternate electors who would vote for Trump.",
-    "author": "Virginia Aabram",
-    "title": "'False electors' targeted in new round of Jan. 6 committee subpoenas"
+    "title": "The mystery of the migrant kids",
+    "sentiment": "0.0"
   },
   {
     "id": 7031,
     "mediaId": 25,
-    "date": "2/15/2022 12:00:00 AM",
+    "date": "d2022-02-15T00:00",
     "sentence": "Mark Finchem, an Arizona state House member, said in a press release the following week that he was there \"to deliver an evidence book and letter to Vice President Pence showing key evidence of fraud in the Arizona Presidential Election, and asking him to consider postponing the award of electors\"\n<span class='selected-term'>Doug Mastriano</span>, a Pennsylvania state senator, publicly called for the Republican-controlled legislature in his state to appoint its own electors to change the outcome of the presidential election there because of \"mounting evidence that the PA presidential election was compromised.\"",
     "author": "Zak Hudak",
-    "title": "January 6 committee subpoenas others tied to false elector scheme"
+    "title": "January 6 committee subpoenas others tied to false elector scheme",
+    "sentiment": "0"
+  },
+  {
+    "id": 7030,
+    "mediaId": 237,
+    "date": "d2022-02-15T20:24",
+    "sentence": "The latest bevy of subpoenas includes those sent to Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> and Arizona state Rep. Mark Finchem, two Trump allies who the committee says boosted efforts to send alternate electors who would vote for Trump.",
+    "author": "Virginia Aabram",
+    "title": "'False electors' targeted in new round of Jan. 6 committee subpoenas",
+    "sentiment": "0"
+  },
+  {
+    "id": 7029,
+    "mediaId": 32,
+    "date": "d2022-02-15T21:52:53",
+    "sentence": "Brandon Bell | Getty Images\nThe House select committee investigating the Jan. 6 Capitol riot issued subpoenas Tuesday to Arizona Republican Party Chairwoman Kelli Ward, GOP State Sen. <span class='selected-term'>Doug Mastriano</span> of Pennsylvania and four others over their alleged efforts to interfere with the certification of the 2020 election results.",
+    "author": "Kevin Breuninger",
+    "title": "House probe of Jan. 6 Capitol riot subpoenas Arizona GOP leader Kelli Ward, 5 others over alternate electors",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7028,
+    "mediaId": 63,
+    "date": "d2022-02-15T22:21",
+    "sentence": "The committee also subpoenaed Pennsylvania gubernatorial candidate and state Sen. <span class='selected-term'>Doug Mastriano</span> (R), Arizona GOP chairwoman Kelli Ward, former Michigan Republican State Committee chairwoman Laura Cox and Arizona state Rep. Mark Finchem (R), who is also a member of the far-right militia group the Oath Keepers.",
+    "author": "Nicholas Reimann",
+    "title": "Jan. 6 Committee Subpoenas Trump Campaign Officials Over Fake Electors Scheme",
+    "sentiment": "0.0"
   },
   {
     "id": 7022,
     "mediaId": 43,
-    "date": "2/16/2022 12:00:00 AM",
+    "date": "d2022-02-16T00:00",
     "sentence": "The subpoenas went to Arizona Republican Party Chairwoman Kelli Ward, a longtime Trump supporter, as well as Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span>, now running for governor there, and Arizona State House Rep. Mark Finchem, now running to be the next secretary of state in Arizona.",
     "author": "",
-    "title": "State officials pushing Trump alternate elector scheme come into focus"
+    "title": "State officials pushing Trump alternate elector scheme come into focus",
+    "sentiment": "-0.608"
   }
 ]

@@ -2,17 +2,37 @@
   {
     "id": 4049,
     "mediaId": 675,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T15:56",
     "sentence": "",
     "author": "Art Moore",
-    "title": "Disney's stock plummets amid embrace of woke politics"
+    "title": "Disney's stock plummets amid embrace of woke politics",
+    "sentiment": "0"
+  },
+  {
+    "id": 4049,
+    "mediaId": 675,
+    "date": "d2022-05-04T15:56",
+    "sentence": "",
+    "author": "Art Moore",
+    "title": "Disney's stock plummets amid embrace of woke politics",
+    "sentiment": "0.0"
   },
   {
     "id": 3701,
     "mediaId": 675,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T12:11",
     "sentence": "",
     "author": "WND Staff",
-    "title": "Disney tries to keep its special district, now federal judge issues ruling"
+    "title": "Disney tries to keep its special district, now federal judge issues ruling",
+    "sentiment": "-0.684"
+  },
+  {
+    "id": 3701,
+    "mediaId": 675,
+    "date": "d2022-05-11T12:11",
+    "sentence": "",
+    "author": "WND Staff",
+    "title": "Disney tries to keep its special district, now federal judge issues ruling",
+    "sentiment": "0.0"
   }
 ]

@@ -2,65 +2,73 @@
   {
     "id": 8271,
     "mediaId": 12,
-    "date": "1/18/2022 12:00:00 AM",
+    "date": "d2022-01-18T12:00",
     "sentence": "A pro-<span class='selected-term'>Herschel Walker</span> outside group, 34N22, launched a statewide billboard campaign on Tuesday tying U.S. Sen. Raphael Warnock to President Joe Bidens policies and Atlantas crime rate.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Voting rights heads to Senate floor for likely defeat"
+    "title": "The Jolt: Voting rights heads to Senate floor for likely defeat",
+    "sentiment": "-0.255"
   },
   {
     "id": 1557,
     "mediaId": 12,
-    "date": "1/25/2022 12:00:00 AM",
+    "date": "d2022-01-25T21:00",
     "sentence": "But none of those military appointments, statewide elections, or traditional Republican check-list attributes have managed to compete with the sheer celebrity of <span class='selected-term'>Herschel Walker</span> since he moved back to Georgia in August and announced his run for Senate, with Donald Trump's blessing.",
     "author": "Patricia Murphy",
-    "title": "OPINION: How to run for Senate when you're not Herschel Walker"
+    "title": "OPINION: How to run for Senate when you're not Herschel Walker",
+    "sentiment": "0.686"
   },
   {
     "id": 2153,
     "mediaId": 305,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T10:55",
     "sentence": "Republican Senate candidate <span class='selected-term'>Herschel Walker</span>, the same one who claimed to have a COVID cure, is narrowly winning an early poll against Sen. Raphael Warnock (D-GA), according to The Hill.",
     "author": "Murjani Rawls",
-    "title": "Herschel Walker Leads Raphael Warnock In Early Georgia Senate Poll"
+    "title": "Herschel Walker Leads Raphael Warnock In Early Georgia Senate Poll",
+    "sentiment": "-0.616"
   },
   {
     "id": 7815,
     "mediaId": 12,
-    "date": "4/10/2022 12:00:00 AM",
+    "date": "d2022-04-10T12:00",
     "sentence": "Former football great <span class='selected-term'>Herschel Walker</span> skipped the first major Republican U.S. Senate debate, but his absence at the event in Gainesville on Saturday helped shape the back-and-forth among the five candidates who showed up.",
     "author": "Greg Bluestein",
-    "title": "Herschel Walkers no-show looms large over Senate GOP debate"
+    "title": "Herschel Walkers no-show looms large over Senate GOP debate",
+    "sentiment": "-0.678"
   },
   {
     "id": 2026,
     "mediaId": 65,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T17:01",
     "sentence": "But the National Right to Life Committee is endorsing Republican Senate candidate <span class='selected-term'>Herschel Walker</span>, who has been outspoken in his support to outlaw abortion as he runs this year to challenge Democratic Sen. Raphael Warnock of Georgia in a crucial Senate showdown that could determine whether the GOP wins back the chamber's majority.",
     "author": "Paul Steinhauser",
-    "title": "Georgia Senate race: Herschel Walker lands endorsement of leading anti-abortion group"
+    "title": "Georgia Senate race: Herschel Walker lands endorsement of leading anti-abortion group",
+    "sentiment": "0.853"
   },
   {
     "id": 7614,
     "mediaId": 1576,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "Tuesdays debate among Georgia Republican Senate candidates was predictably defined by the man who wasnt there  <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
-    "title": "Georgia GOP Senate debate focuses on Herschel Walker absence"
+    "title": "Georgia GOP Senate debate focuses on Herschel Walker absence",
+    "sentiment": "-0.949"
   },
   {
     "id": 3793,
     "mediaId": 376,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T05:00",
     "sentence": "Trump-endorsed former NFL player <span class='selected-term'>Herschel Walker</span> has emerged as Warnocks likely November opponent, but first he has to win a bruising May 24 primary.",
     "author": "Kate Ackley\nStephanie Akin\nNiels Lesniewski\nMary Ellen McIntire",
-    "title": "These 10 senators are most vulnerable six months from Election Day"
+    "title": "These 10 senators are most vulnerable six months from Election Day",
+    "sentiment": "-0.694"
   },
   {
     "id": 7407,
     "mediaId": 136,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:04",
     "sentence": "Former football star <span class='selected-term'>Herschel Walker</span>, who earned Donald Trump's endorsement, won his Senate primary race in Georgia, beating out five other Republican candidates to face off against Democratic Senator Raphael Warnock in November.",
     "author": "Katherine Fung",
-    "title": "Trump-Backed Herschel Walker, Who Questioned Evolution, Wins in Georgia"
+    "title": "Trump-Backed Herschel Walker, Who Questioned Evolution, Wins in Georgia",
+    "sentiment": "-0.728"
   }
 ]

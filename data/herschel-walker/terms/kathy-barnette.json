@@ -2,25 +2,28 @@
   {
     "id": 5555,
     "mediaId": 157,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "\"If <span class='selected-term'>Herschel Walker</span> wins in Georgia, you look at J.D.Vance in Ohio, and you really want to look at crazy?",
     "author": "Travis Gettys",
-    "title": "Trump-endorsed 'freaks and liars' are making Republicans worried about midterm chances: Morning Joe"
+    "title": "Trump-endorsed 'freaks and liars' are making Republicans worried about midterm chances: Morning Joe",
+    "sentiment": "0"
   },
   {
     "id": 7567,
     "mediaId": 376,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T14:00",
     "sentence": "Well see how competitive primaries, or lack thereof, impact other top Senate races this cycle, including the handful of Republicans running against each other in Arizona, whether Republican <span class='selected-term'>Herschel Walker</span> was sufficiently vetted before the primary in Georgia, and whether North Carolina Democrat Cheri Beasley could have used a competitive primary to boost her operation.",
     "author": "Nathan L. Gonzales",
-    "title": "The case for primaries: Pennsylvania edition"
+    "title": "The case for primaries: Pennsylvania edition",
+    "sentiment": "-0.383"
   },
   {
     "id": 3450,
     "mediaId": 151,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T08:31",
     "sentence": "Republican target: Georgia\nPrimary date: May 24\nForecast: Toss-up\nDemocratic Sen. Raphael Warnock and Republican <span class='selected-term'>Herschel Walker</span> are on a November collision course in the most closely divided state of the 2020 presidential election.",
     "author": "",
-    "title": "These 7 states will decide control of the Senate"
+    "title": "These 7 states will decide control of the Senate",
+    "sentiment": "0"
   }
 ]

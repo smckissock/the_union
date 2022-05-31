@@ -1,10 +1,11 @@
 {
   "id": 1314,
   "mediaId": 195,
-  "date": "2/23/2022 12:00:00 AM",
+  "date": "d2022-02-23T21:36",
   "headline": "Herschel Walker says he doesn't support 'either' Kemp or Perdue",
   "image": "https://cdn.jwplayer.com/v2/media/KrpAHl9U/poster.jpg?width=640",
   "link": "https://thehill.com/homenews/campaign/595556-herschel-walker-says-he-doesnt-support-either-kemp-or-perdue",
+  "sentiment": "-0.412",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     815,
     1147,
-    1646,
     2095,
     4325,
     232,

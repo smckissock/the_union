@@ -1,138 +1,155 @@
 [
   {
-    "id": 6447,
-    "mediaId": 169,
-    "date": "4/7/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Amanda Marcotte",
-    "title": "Boycotting Disney and Oreos: The red flags that MAGA is a cult"
-  },
-  {
     "id": 6451,
     "mediaId": 157,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T00:00",
     "sentence": "",
     "author": "Amanda Marcotte",
-    "title": "Trump's MAGA movement is a cult  and here's the proof"
+    "title": "Trump's MAGA movement is a cult  and here's the proof",
+    "sentiment": "0"
   },
   {
-    "id": 6365,
-    "mediaId": 120,
-    "date": "4/15/2022 12:00:00 AM",
+    "id": 6447,
+    "mediaId": 169,
+    "date": "d2022-04-07T13:10",
     "sentence": "",
-    "author": "Ja'han Jones",
-    "title": "J.D. Vance wins Trumps endorsement after months of groveling"
+    "author": "Amanda Marcotte",
+    "title": "Boycotting Disney and Oreos: The red flags that MAGA is a cult",
+    "sentiment": "0"
   },
   {
     "id": 6369,
     "mediaId": 165,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T21:26",
     "sentence": "",
     "author": "Ryan Bort",
-    "title": "Trump Endorses J.D. Vance  Who Once Called Him an Idiot, Noxious, and Reprehensible  for Senate in Ohio"
+    "title": "Trump Endorses J.D. Vance  Who Once Called Him an Idiot, Noxious, and Reprehensible  for Senate in Ohio",
+    "sentiment": "0.446"
   },
   {
-    "id": 6344,
-    "mediaId": 136,
-    "date": "4/16/2022 12:00:00 AM",
+    "id": 6365,
+    "mediaId": 120,
+    "date": "d2022-04-15T22:08",
     "sentence": "",
-    "author": "Jason Lemon",
-    "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces"
+    "author": "Ja'han Jones",
+    "title": "J.D. Vance wins Trumps endorsement after months of groveling",
+    "sentiment": "0.765"
   },
   {
     "id": 6358,
     "mediaId": 129,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Elusive Politics of Elon Musk"
+    "title": "The Elusive Politics of Elon Musk",
+    "sentiment": "0"
   },
   {
-    "id": 6306,
-    "mediaId": 195,
-    "date": "4/18/2022 12:00:00 AM",
+    "id": 6344,
+    "mediaId": 136,
+    "date": "d2022-04-16T17:34",
     "sentence": "",
-    "author": "Mychael Schnell",
-    "title": "Trump Jr. to stump for Vance in Ohio ahead of fathers rally"
+    "author": "Jason Lemon",
+    "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces",
+    "sentiment": "-0.744"
   },
   {
     "id": 6328,
     "mediaId": 129,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T00:00",
     "sentence": "",
     "author": "",
-    "title": "This Is Not the Year of the Optimist"
+    "title": "This Is Not the Year of the Optimist",
+    "sentiment": "0"
   },
   {
-    "id": 6292,
-    "mediaId": 209,
-    "date": "4/19/2022 12:00:00 AM",
+    "id": 6306,
+    "mediaId": 195,
+    "date": "d2022-04-18T19:12",
     "sentence": "",
-    "author": "Grayson Quay",
-    "title": "Conservatives complain of 'doxxing' after expos reveals woman behind 'Libs of TikTok' account"
+    "author": "Mychael Schnell",
+    "title": "Trump Jr. to stump for Vance in Ohio ahead of fathers rally",
+    "sentiment": "0.852"
   },
   {
     "id": 6297,
     "mediaId": 188,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T00:00",
     "sentence": "",
     "author": "Sarah Taylor",
-    "title": "Washington Post reporter taken to the woodshed for doxxing anonymous Libs of Tik Tok creator, prompting outlet to stealth-edit the report"
+    "title": "Washington Post reporter taken to the woodshed for doxxing anonymous Libs of Tik Tok creator, prompting outlet to stealth-edit the report",
+    "sentiment": "0"
   },
   {
-    "id": 6238,
-    "mediaId": 558,
-    "date": "4/22/2022 12:00:00 AM",
+    "id": 6292,
+    "mediaId": 209,
+    "date": "d2022-04-19T11:41",
     "sentence": "",
-    "author": "Samuel Goldman",
-    "title": "The new right isn't conservative. They don't want to be."
+    "author": "Grayson Quay",
+    "title": "Conservatives complain of 'doxxing' after expos reveals woman behind 'Libs of TikTok' account",
+    "sentiment": "0"
   },
   {
     "id": 6245,
     "mediaId": 43,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t"
+    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
+    "sentiment": "0"
   },
   {
     "id": 6247,
     "mediaId": 209,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "",
     "author": "Samuel Goldman",
-    "title": "The new right isn't conservative. They don't want to be."
+    "title": "The new right isn't conservative. They don't want to be.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6238,
+    "mediaId": 558,
+    "date": "d2022-04-22T02:55",
+    "sentence": "",
+    "author": "Samuel Goldman",
+    "title": "The new right isn't conservative. They don't want to be.",
+    "sentiment": "0"
   },
   {
     "id": 6199,
     "mediaId": 302,
-    "date": "4/23/2022 12:00:00 AM",
+    "date": "d2022-04-23T13:00",
     "sentence": "",
     "author": "Jim Verhulst",
-    "title": "Heres what to read from the left and the right | Column"
+    "title": "Heres what to read from the left and the right | Column",
+    "sentiment": "0"
   },
   {
     "id": 4000,
     "mediaId": 237,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T06:00",
     "sentence": "",
     "author": "Nihal Krishan",
-    "title": "Conservatives eager to see return of political ads on Twitter under Musk"
+    "title": "Conservatives eager to see return of political ads on Twitter under Musk",
+    "sentiment": "0"
   },
   {
     "id": 5630,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T14:54",
     "sentence": "",
     "author": "Andrew Stanton",
-    "title": "Trump Mocked for Seemingly Mistaking Office Mehmet Oz Is Running For"
+    "title": "Trump Mocked for Seemingly Mistaking Office Mehmet Oz Is Running For",
+    "sentiment": "0"
   },
   {
     "id": 5522,
     "mediaId": 195,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T10:00",
     "sentence": "",
     "author": "Juan Williams",
-    "title": "Juan Williams: The GOPs fake concern on immigration"
+    "title": "Juan Williams: The GOPs fake concern on immigration",
+    "sentiment": "0"
   }
 ]

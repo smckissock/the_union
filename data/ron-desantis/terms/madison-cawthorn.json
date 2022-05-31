@@ -2,161 +2,226 @@
   {
     "id": 8084,
     "mediaId": 43,
-    "date": "3/4/2022 12:00:00 AM",
+    "date": "d2022-03-04T00:00",
     "sentence": "Or to <span class='selected-term'>Ron DeSantis</span>, whos too busy anyway, directing embarrassing displays of public surliness at schoolchildren.",
     "author": "",
-    "title": "Hitler, But Dumber: The Vladimir Putin Story"
+    "title": "Hitler, But Dumber: The Vladimir Putin Story",
+    "sentiment": "0.0"
   },
   {
     "id": 6440,
     "mediaId": 238,
-    "date": "4/8/2022 12:00:00 AM",
+    "date": "d2022-04-08T12:00",
     "sentence": "",
     "author": "",
-    "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits..."
+    "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits...",
+    "sentiment": "0.0"
   },
   {
     "id": 4914,
     "mediaId": 43,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T00:00",
     "sentence": "",
     "author": "",
-    "title": "\"Try to Think What We Are Going to Do Ourselves\""
+    "title": "\"Try to Think What We Are Going to Do Ourselves\"",
+    "sentiment": "0.0"
   },
   {
     "id": 4333,
     "mediaId": 124,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T11:44",
     "sentence": "",
     "author": "",
-    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality"
+    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
+    "sentiment": "0"
   },
   {
-    "id": 4286,
-    "mediaId": 98,
-    "date": "5/1/2022 12:00:00 AM",
-    "sentence": "That should have been a pretty big sign.?\nThroughout his 25-minute performance, Noah managed to lampoon a striking number of media and political figures  including but not limited to Donald Trump, Jeffrey Toobin, Tucker Carlson, Laura Ingraham, Chris Cuomo, Kyrsten Sinema, Kellyanne Conway, Madison Cawthorn, <span class='selected-term'>Ron DeSantis</span>, Jen Psaki, First Lady Jill Biden and of course, President Joe Biden.",
-    "author": "Christi CarrasStaff Writer",
-    "title": "Trevor Noah roasts pretty much everyone at White House Correspondents Dinner"
+    "id": 4333,
+    "mediaId": 124,
+    "date": "d2022-04-30T11:44",
+    "sentence": "",
+    "author": "",
+    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
+    "sentiment": "0.0"
   },
   {
     "id": 4309,
     "mediaId": 151,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T04:25",
     "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
     "author": "",
-    "title": "Trevor Noah's best jokes at the WHCD"
+    "title": "Trevor Noah's best jokes at the WHCD",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4309,
+    "mediaId": 151,
+    "date": "d2022-05-01T04:25",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
+    "author": "",
+    "title": "Trevor Noah's best jokes at the WHCD",
+    "sentiment": "0.642"
+  },
+  {
+    "id": 4286,
+    "mediaId": 98,
+    "date": "d2022-05-01T18:16",
+    "sentence": "That should have been a pretty big sign.?\nThroughout his 25-minute performance, Noah managed to lampoon a striking number of media and political figures  including but not limited to Donald Trump, Jeffrey Toobin, Tucker Carlson, Laura Ingraham, Chris Cuomo, Kyrsten Sinema, Kellyanne Conway, Madison Cawthorn, <span class='selected-term'>Ron DeSantis</span>, Jen Psaki, First Lady Jill Biden and of course, President Joe Biden.",
+    "author": "Christi CarrasStaff Writer",
+    "title": "Trevor Noah roasts pretty much everyone at White House Correspondents Dinner",
+    "sentiment": "0.0"
   },
   {
     "id": 4022,
     "mediaId": 157,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Travis Gettys",
-    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'"
+    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
+    "sentiment": "0.0"
   },
   {
     "id": 3445,
     "mediaId": 238,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Mariana Alfaro",
-    "title": "Midterm primaries live updates Voters to pick key nominees in Pa., N.C., three other states"
+    "title": "Midterm primaries live updates Voters to pick key nominees in Pa., N.C., three other states",
+    "sentiment": "0.0"
   },
   {
     "id": 3429,
     "mediaId": 234,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "I asked her whether she'd vote for <span class='selected-term'>Ron DeSantis</span>.",
     "author": "",
-    "title": "Alyssa Farah Griffin, the Ex-Trump Aide, Wants to Be America's Household Conservative"
+    "title": "Alyssa Farah Griffin, the Ex-Trump Aide, Wants to Be America's Household Conservative",
+    "sentiment": "0.0"
   },
   {
     "id": 3431,
     "mediaId": 129,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "He said that he had been told before that he was the <span class='selected-term'>Ron DeSantis</span> before Ron DeSantis.",
     "author": "",
-    "title": "Republican Chaos' in Pennsylvania Threatens to Upend the Midterms"
+    "title": "Republican Chaos' in Pennsylvania Threatens to Upend the Midterms",
+    "sentiment": "0.0"
   },
   {
     "id": 3409,
     "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T09:04:42",
     "sentence": "He said that he had been told before that he was the <span class='selected-term'>Ron DeSantis</span> before Ron DeSantis.",
     "author": "",
-    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries"
+    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0.0"
   },
   {
     "id": 3410,
     "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T09:04:42",
     "sentence": "He said that he had been told before that he was the <span class='selected-term'>Ron DeSantis</span> before Ron DeSantis.",
     "author": "",
-    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries"
-  },
-  {
-    "id": 3471,
-    "mediaId": 136,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
-    "author": "Katherine Fung",
-    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis"
-  },
-  {
-    "id": 3484,
-    "mediaId": 238,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "David Weigel",
-    "title": "Victories by Mastriano, Budd show potency of Trumps false stolen election claims in GOP"
+    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0.0"
   },
   {
     "id": 3493,
     "mediaId": 129,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "This is the model, in different styles and contexts, of Glenn Youngkin and <span class='selected-term'>Ron DeSantis</span>.",
     "author": "",
-    "title": "Americas Doug Mastriano Problem"
+    "title": "Americas Doug Mastriano Problem",
+    "sentiment": "0.0"
   },
   {
-    "id": 6522,
-    "mediaId": 376,
-    "date": "5/19/2022 12:00:00 AM",
+    "id": 3484,
+    "mediaId": 238,
+    "date": "d2022-05-18T03:10",
     "sentence": "",
-    "author": "Stephanie Akin\nKate Ackley\nMary Ellen McIntire",
-    "title": "At the Races: NY state of turmoil"
+    "author": "David Weigel",
+    "title": "Victories by Mastriano, Budd show potency of Trumps false stolen election claims in GOP",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3471,
+    "mediaId": 136,
+    "date": "d2022-05-18T17:32",
+    "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
+    "author": "Katherine Fung",
+    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3471,
+    "mediaId": 136,
+    "date": "d2022-05-18T17:32",
+    "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
+    "author": "Katherine Fung",
+    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
+    "sentiment": "0.281"
   },
   {
     "id": 6607,
     "mediaId": 129,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "Thats clear not only from the results of the primary contests thus far but also from the talking points and battle cries beyond them  from, for example, the governors mansion in Florida, where <span class='selected-term'>Ron DeSantis</span> plots and executes his plan for emerging as the new leader of the Republican Party.",
     "author": "",
-    "title": "David Graham pondered"
+    "title": "David Graham pondered",
+    "sentiment": "0"
+  },
+  {
+    "id": 6607,
+    "mediaId": 129,
+    "date": "d2022-05-19T00:00",
+    "sentence": "Thats clear not only from the results of the primary contests thus far but also from the talking points and battle cries beyond them  from, for example, the governors mansion in Florida, where <span class='selected-term'>Ron DeSantis</span> plots and executes his plan for emerging as the new leader of the Republican Party.",
+    "author": "",
+    "title": "David Graham pondered",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6522,
+    "mediaId": 376,
+    "date": "d2022-05-19T14:30",
+    "sentence": "",
+    "author": "Stephanie Akin\nKate Ackley\nMary Ellen McIntire",
+    "title": "At the Races: NY state of turmoil",
+    "sentiment": "0.0"
   },
   {
     "id": 7294,
     "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "Bret: A decent strategy unless <span class='selected-term'>Ron DeSantis</span> is the nominee.",
     "author": "",
-    "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now"
-  },
-  {
-    "id": 7343,
-    "mediaId": 136,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "Townsend added that Kemp's victory is \"very good news\" for other Republicans mounting a 2024 presidential campaign, especially Florida Governor <span class='selected-term'>Ron DeSantis</span>, because it suggests that Trump's power over the GOP is beginning to wane and that a new White House path is being opened for MAGA hopefuls who aren't Trump.",
-    "author": "Katherine Fung",
-    "title": "Trump Sacrificed His Endorsement Record for Georgia Revenge Fantasy"
+    "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now",
+    "sentiment": "0.0"
   },
   {
     "id": 7345,
     "mediaId": 1576,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "",
     "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win"
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7343,
+    "mediaId": 136,
+    "date": "d2022-05-25T01:02",
+    "sentence": "Townsend added that Kemp's victory is \"very good news\" for other Republicans mounting a 2024 presidential campaign, especially Florida Governor <span class='selected-term'>Ron DeSantis</span>, because it suggests that Trump's power over the GOP is beginning to wane and that a new White House path is being opened for MAGA hopefuls who aren't Trump.",
+    "author": "Katherine Fung",
+    "title": "Trump Sacrificed His Endorsement Record for Georgia Revenge Fantasy",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8472,
+    "mediaId": 129,
+    "date": "d2022-05-26T00:00",
+    "sentence": "He makes <span class='selected-term'>Ron DeSantis</span> look like Charlie Baker.",
+    "author": "",
+    "title": "The G.O.P. Has Gone Even Farther to the Right Than I Expected': Three Writers Talk About the Midterms",
+    "sentiment": "0.0"
   }
 ]

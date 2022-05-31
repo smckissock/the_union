@@ -2,41 +2,46 @@
   {
     "id": 6958,
     "mediaId": 34,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "Marchant has said that one of them, <span class='selected-term'>Doug Mastriano</span>, is a member of his coalition.",
     "author": "Steven Harper",
-    "title": "November 2022: The Anti-Democracy Coalition"
+    "title": "November 2022: The Anti-Democracy Coalition",
+    "sentiment": "0.0"
   },
   {
     "id": 6807,
     "mediaId": 195,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T11:30",
     "sentence": "It is completely in her wheelhouse.?\nMadonna, the academic expert, added that Barnette has benefitted from a close, if informal, alliance with gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, who is cut from similar cloth.",
     "author": "Niall Stanage",
-    "title": "The Memo: Barnette roils Pennsylvania Senate race"
-  },
-  {
-    "id": 7349,
-    "mediaId": 32,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Others, such as Pennsylvania's Republican gubernatorial nominee <span class='selected-term'>Doug Mastriano</span>, received Trump's endorsement right before the election, once they had already emerged as frontrunners.",
-    "author": "Kevin Breuninger",
-    "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch"
+    "title": "The Memo: Barnette roils Pennsylvania Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 7350,
     "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T08:59:18",
     "sentence": "",
     "author": "",
-    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond"
+    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7349,
+    "mediaId": 32,
+    "date": "d2022-05-24T13:54:55",
+    "sentence": "Others, such as Pennsylvania's Republican gubernatorial nominee <span class='selected-term'>Doug Mastriano</span>, received Trump's endorsement right before the election, once they had already emerged as frontrunners.",
+    "author": "Kevin Breuninger",
+    "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch",
+    "sentiment": "0.0"
   },
   {
     "id": 7345,
     "mediaId": 1576,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "Trump has scored some primary victories with election deniers  most significantly last week in Pennsylvania, when Republican voters there chose his preferred gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, who said he wouldn't have certified Biden's 2020 win of the state.",
     "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win"
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.0"
   }
 ]

@@ -2,193 +2,217 @@
   {
     "id": 8342,
     "mediaId": 12,
-    "date": "1/3/2022 12:00:00 AM",
+    "date": "d2022-01-03T12:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: The Cobb homage to treason planned for Jan. 6"
+    "title": "The Jolt: The Cobb homage to treason planned for Jan. 6",
+    "sentiment": "0.0"
   },
   {
     "id": 5344,
     "mediaId": 188,
-    "date": "4/4/2022 12:00:00 AM",
+    "date": "d2022-04-04T00:00",
     "sentence": "In Georgia, lawmakers advanced legislation that, if signed into law by Republican Governor <span class='selected-term'>Brian Kemp</span>, will give parents more direct input over what their children are being taught in the states public schools.",
     "author": "Samuel Mangold-Lenett",
-    "title": "Georgia advances legislation that outlines a 'Parents Bill of Rights' in education"
+    "title": "Georgia advances legislation that outlines a 'Parents Bill of Rights' in education",
+    "sentiment": "0"
   },
   {
     "id": 5285,
     "mediaId": 305,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T13:40",
     "sentence": "In January, former Senator and current Republican Gubernatorial candidate David Purdue called for an election police unit, to do what <span class='selected-term'>Brian Kemp</span> has failed to do? to make Georgia elections the safest and securest.? Secretary of State Brad Raffensperger stated that voter fraud is not widespread in Georgia.",
     "author": "Murjani Rawls",
-    "title": "Georgia Republicans Pass Bill To Allow State Police To Investigate Voter Fraud Claims"
+    "title": "Georgia Republicans Pass Bill To Allow State Police To Investigate Voter Fraud Claims",
+    "sentiment": "0"
   },
   {
     "id": 5260,
     "mediaId": 129,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T23:09",
     "sentence": "",
     "author": "",
-    "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics"
-  },
-  {
-    "id": 5234,
-    "mediaId": 65,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'"
-  },
-  {
-    "id": 5235,
-    "mediaId": 65,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'"
-  },
-  {
-    "id": 5236,
-    "mediaId": 21,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Hannah Getahun",
-    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race"
-  },
-  {
-    "id": 5238,
-    "mediaId": 558,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "A former state representative and a successful author, she ran for governor in 2018 and lost narrowly to <span class='selected-term'>Brian Kemp</span>, refusing to concede while protesting his role as secretary of state in controlling his own election.",
-    "author": "Martin Pengelly",
-    "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says"
+    "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics",
+    "sentiment": "0.0"
   },
   {
     "id": 5240,
     "mediaId": 188,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "Stacey Abrams infamously ran for governor in Georgia in 2018 and lost to the states incumbent Republican governor <span class='selected-term'>Brian Kemp</span>.",
     "author": "Samuel Mangold-Lenett",
-    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022"
+    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022",
+    "sentiment": "-0.788"
   },
   {
     "id": 5243,
     "mediaId": 209,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "",
     "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 9, 2022"
+    "title": "10 things you need to know today: April 9, 2022",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5238,
+    "mediaId": 558,
+    "date": "d2022-04-09T05:13",
+    "sentence": "A former state representative and a successful author, she ran for governor in 2018 and lost narrowly to <span class='selected-term'>Brian Kemp</span>, refusing to concede while protesting his role as secretary of state in controlling his own election.",
+    "author": "Martin Pengelly",
+    "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5236,
+    "mediaId": 21,
+    "date": "d2022-04-09T06:00",
+    "sentence": "",
+    "author": "Hannah Getahun",
+    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
+    "sentiment": "0"
+  },
+  {
+    "id": 5234,
+    "mediaId": 65,
+    "date": "d2022-04-09T09:52",
+    "sentence": "",
+    "author": "",
+    "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5235,
+    "mediaId": 65,
+    "date": "d2022-04-09T09:52",
+    "sentence": "",
+    "author": "",
+    "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'",
+    "sentiment": "-0.692"
   },
   {
     "id": 198,
     "mediaId": 19,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:00",
     "sentence": "",
     "author": "Ashley Oliver",
-    "title": "Trump's First Major Midterm Donation Aims to Unseat Brian Kemp in Georgia"
+    "title": "Trump's First Major Midterm Donation Aims to Unseat Brian Kemp in Georgia",
+    "sentiment": "-0.744"
   },
   {
     "id": 2109,
     "mediaId": 19,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:00",
     "sentence": "",
     "author": "Ashley Oliver",
-    "title": "Georgia Poll: Brian Kemp Has Wide Lead over David Perdue in Governor's Primary"
+    "title": "Georgia Poll: Brian Kemp Has Wide Lead over David Perdue in Governor's Primary",
+    "sentiment": "0.376"
   },
   {
     "id": 5078,
     "mediaId": 151,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T11:00",
     "sentence": "",
     "author": "",
-    "title": "Florida's redistricting session: Quick, partisan, and bitter"
-  },
-  {
-    "id": 4999,
-    "mediaId": 32,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Carmen Reinicke",
-    "title": "Nearly 1 in 4 students in the U.S. has access to personal finance education this year"
+    "title": "Florida's redistricting session: Quick, partisan, and bitter",
+    "sentiment": "0.0"
   },
   {
     "id": 5007,
     "mediaId": 32,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T12:00:01",
     "sentence": "",
     "author": "Carmen Reinicke",
-    "title": "Nearly 1 in 4 students in the U.S. has access to personal finance education this year"
+    "title": "Nearly 1 in 4 students in the U.S. has access to personal finance education this year",
+    "sentiment": "0"
+  },
+  {
+    "id": 4999,
+    "mediaId": 32,
+    "date": "d2022-04-22T17:02",
+    "sentence": "",
+    "author": "Carmen Reinicke",
+    "title": "Nearly 1 in 4 students in the U.S. has access to personal finance education this year",
+    "sentiment": "0"
   },
   {
     "id": 4948,
     "mediaId": 63,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T23:44",
     "sentence": "",
     "author": "Mason Bissada",
-    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force"
+    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
+    "sentiment": "0.0"
   },
   {
     "id": 4880,
     "mediaId": 32,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T15:28:37",
     "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> makes remarks during a visit to Adventure Outdoors gun shop as he pushes for a new state law to loosen requirements to carry a handgun in public, in Smyrna, Georgia, January 5, 2022.",
     "author": "Carmen Reinicke",
-    "title": "Georgia just became the latest state to require personal finance education"
+    "title": "Georgia just became the latest state to require personal finance education",
+    "sentiment": "0"
   },
   {
     "id": 4425,
     "mediaId": 237,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T09:39",
     "sentence": "",
     "author": "Christopher Hutton",
-    "title": "Florida reinstates nine math textbooks after removal of 'woke content'"
-  },
-  {
-    "id": 3712,
-    "mediaId": 223,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "And when \"bad\" governors like <span class='selected-term'>Brian Kemp</span> in Georgia, Greg Abbott in Texas, and especially Ron DeSantis in Florida moved toward reopenings, it was seen as a partisan duty to sprint in the opposite direction.",
-    "author": "Guy Benson",
-    "title": "Harvard Study: Student Development Harmed Much Less in States with Open Schools During COVID"
+    "title": "Florida reinstates nine math textbooks after removal of 'woke content'",
+    "sentiment": "0"
   },
   {
     "id": 3723,
     "mediaId": 65,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T02:38",
     "sentence": "And we're quoting: \"Reminder,\" she wrote, \"<span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.\"",
     "author": "",
-    "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege"
+    "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3712,
+    "mediaId": 223,
+    "date": "d2022-05-11T10:25",
+    "sentence": "And when \"bad\" governors like <span class='selected-term'>Brian Kemp</span> in Georgia, Greg Abbott in Texas, and especially Ron DeSantis in Florida moved toward reopenings, it was seen as a partisan duty to sprint in the opposite direction.",
+    "author": "Guy Benson",
+    "title": "Harvard Study: Student Development Harmed Much Less in States with Open Schools During COVID",
+    "sentiment": "-0.568"
   },
   {
     "id": 4537,
     "mediaId": 233,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T15:43",
     "sentence": "",
     "author": "Abraham Kenmore",
-    "title": "'It was disturbing': Attorneys question Georgia county deputies' search of Delaware State bus"
+    "title": "'It was disturbing': Attorneys question Georgia county deputies' search of Delaware State bus",
+    "sentiment": "0.0"
   },
   {
     "id": 3402,
     "mediaId": 409,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T10:51",
     "sentence": "It creates opportunities for rivals: Mike Pence is campaigning next week for <span class='selected-term'>Brian Kemp</span> in Georgia, opposing the Trump-backed candidacy of David Perdue.",
     "author": "Dan McLaughlin",
-    "title": "The Ron DeSantis Dog That Hasnt Barked Yet"
+    "title": "The Ron DeSantis Dog That Hasnt Barked Yet",
+    "sentiment": "0"
   },
   {
     "id": 7080,
     "mediaId": 223,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T17:40",
     "sentence": "It's as if Brent is oblivious to Glenn Younkin winning without Trump and <span class='selected-term'>Brian Kemp</span> excelling in spite of his rift with the man.",
     "author": "Brad Slager",
-    "title": "The Press Is Actively Changing the Language to Push Its Abortion Agenda"
+    "title": "The Press Is Actively Changing the Language to Push Its Abortion Agenda",
+    "sentiment": "0.0"
   },
   {
     "id": 7186,
     "mediaId": 25,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "Republican <span class='selected-term'>Brian Kemp</span> facing a challenge from the former senator, David Purdue, who was put up to the race by Mr. Trump.",
     "author": "",
-    "title": "Full transcript of \"Face the Nation\" on May 22, 2022"
+    "title": "Full transcript of \"Face the Nation\" on May 22, 2022",
+    "sentiment": "0.0"
   }
 ]

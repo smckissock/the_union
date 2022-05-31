@@ -2,33 +2,64 @@
   {
     "id": 3527,
     "mediaId": 98,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Ryan Faughnder",
-    "title": "Netflixs message to employees and woke Hollywoods retreat"
+    "title": "Netflixs message to employees and woke Hollywoods retreat",
+    "sentiment": "0"
+  },
+  {
+    "id": 3527,
+    "mediaId": 98,
+    "date": "d2022-05-17T00:00",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Netflixs message to employees and woke Hollywoods retreat",
+    "sentiment": "0.0"
   },
   {
     "id": 3530,
     "mediaId": 34,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Brett Wilkins",
-    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes"
+    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes",
+    "sentiment": "-0.493"
+  },
+  {
+    "id": 3530,
+    "mediaId": 34,
+    "date": "d2022-05-17T00:00",
+    "sentence": "",
+    "author": "Brett Wilkins",
+    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes",
+    "sentiment": "0.0"
   },
   {
     "id": 3467,
     "mediaId": 65,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T21:30",
     "sentence": "",
     "author": "",
-    "title": "Liberal media outlets 'shaming' companies into taking abortion stance 'isnt reporting,' critics say"
+    "title": "Liberal media outlets 'shaming' companies into taking abortion stance 'isnt reporting,' critics say",
+    "sentiment": "0"
+  },
+  {
+    "id": 3467,
+    "mediaId": 65,
+    "date": "d2022-05-18T21:30",
+    "sentence": "",
+    "author": "",
+    "title": "Liberal media outlets 'shaming' companies into taking abortion stance 'isnt reporting,' critics say",
+    "sentiment": "0.0"
   },
   {
     "id": 7131,
     "mediaId": 302,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T10:00",
     "sentence": "",
     "author": "",
-    "title": "Tampa residents want a Citizen Review Board driven by community values, not politicians | Column"
+    "title": "Tampa residents want a Citizen Review Board driven by community values, not politicians | Column",
+    "sentiment": "0.0"
   }
 ]

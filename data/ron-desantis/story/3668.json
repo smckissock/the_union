@@ -1,10 +1,11 @@
 {
   "id": 3668,
   "mediaId": 234,
-  "date": "5/12/2022 12:00:00 AM",
+  "date": "d2022-05-12T00:00",
   "headline": "Ron DeSantis' Redistricting Map Apparently Deemed Too Racist Even For a DeSantis-Appointed Judge",
   "image": "https://media.vanityfair.com/photos/627d34c3c869e30568428313/master/w_2240,c_limit/1234724021",
   "link": "https://www.vanityfair.com/news/2022/05/florida-judge-rules-desantis-redistricting-map-unconstitutional",
+  "sentiment": "0.0",
   "mediaOutlet": "Vanity Fair",
   "biasRatingId": 1,
   "wordCount": 0,

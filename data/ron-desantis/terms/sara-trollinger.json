@@ -2,9 +2,19 @@
   {
     "id": 7121,
     "mediaId": 223,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T17:00",
     "sentence": "DeSantis & @FLCaseyDeSantis Fund $100M for Cancer Centers https://t.co/i4hqlsCtN4\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 17, 2022\nEarly detection is a game changer in the cancer fight.",
     "author": "Rebecca Downs",
-    "title": "EXCLUSIVE: Casey DeSantis Receives Humanitarian Award at House of Hope"
+    "title": "EXCLUSIVE: Casey DeSantis Receives Humanitarian Award at House of Hope",
+    "sentiment": "0"
+  },
+  {
+    "id": 7121,
+    "mediaId": 223,
+    "date": "d2022-05-20T17:00",
+    "sentence": "DeSantis & @FLCaseyDeSantis Fund $100M for Cancer Centers https://t.co/i4hqlsCtN4\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 17, 2022\nEarly detection is a game changer in the cancer fight.",
+    "author": "Rebecca Downs",
+    "title": "EXCLUSIVE: Casey DeSantis Receives Humanitarian Award at House of Hope",
+    "sentiment": "0.0"
   }
 ]

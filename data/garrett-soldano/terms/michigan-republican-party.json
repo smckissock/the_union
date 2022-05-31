@@ -2,41 +2,46 @@
   {
     "id": 1001,
     "mediaId": 124,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T14:57:36",
     "sentence": "",
     "author": "",
-    "title": "Michigan GOP governor candidate says rape victims shouldn't have abortions, baby might be 'next president'"
+    "title": "Michigan GOP governor candidate says rape victims shouldn't have abortions, baby might be 'next president'",
+    "sentiment": "0.0"
   },
   {
     "id": 998,
     "mediaId": 43,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "On April Moss' right-wing podcast Face The Facts, <span class='selected-term'>Garrett Soldano</span>, a chiropractor and candidate for Michigan governor, said: We must focus on ... defending the DNA when it's created,? adding that women need to understand and know how heroic they are, and how unbelievable they are, that God put them in that moment.?\nSoldano argued that abortions should not be considered for survivors because they don't know if that baby inside of them could be the next president.?\nHe even shared a story of an alleged mentor who found out later in life that his birth mother had been raped by several men in a subway station.",
     "author": "",
-    "title": "Michigan GOP governor candidate says rape victims shouldn't have abortions"
+    "title": "Michigan GOP governor candidate says rape victims shouldn't have abortions",
+    "sentiment": "-0.5"
   },
   {
     "id": 899,
     "mediaId": 261,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T18:39",
     "sentence": "Mike Brown, of Stevensville, who submitted 21,837 signatures last Tuesday;\nNorton Shores businesswoman Tudor Dixon, who submitted 29,735 signatures Tuesday;\nOakland County \"quality guru\" and businessman Perry Johnson, who submitted close to 23,000 signatures Tuesday;\nOttawa County real estate agent Ryan Kelley, who filed 20,100 signatures last Wednesday;\nGrand Haven financial adviser Michael Markey, who submitted 21,862 signatures March 18;\nFarmington Hills pastor Ralph Rebandt, who turned in 16,342 signatures last Tuesday;\nBloomfield Hills businessman Kevin Rinke, who filed 21,000 signatures on Monday, and\nKalamazoo chiropractor <span class='selected-term'>Garrett Soldano</span>, who was the first to turn in his petition, when he submitted 20,200 signatures Jan. 19.",
     "author": "Paul Egan",
-    "title": "Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says"
+    "title": "Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says",
+    "sentiment": "0"
   },
   {
     "id": 3293,
     "mediaId": 261,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T20:36",
     "sentence": "More:Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says\nCandidates James Craig, Perry Johnson, Ryan Kelley, Kevin Rinke and <span class='selected-term'>Garrett Soldano</span> made the cut, according to a news release.",
     "author": "Dave Boucher",
-    "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac"
+    "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
+    "sentiment": "0.0"
   },
   {
     "id": 7301,
     "mediaId": 98,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:03",
     "sentence": "Those qualifying for the ballot would be Dixon, a former conservative TV news host who netted the DeVos family endorsement earlier Monday; chiropractor and grass-roots activist <span class='selected-term'>Garrett Soldano</span>; wealthy self-funding businessman Kevin Rinke; real estate broker and anti-coronavirus lockdown activist Ryan Kelley; and pastor Ralph Rebandt.",
     "author": "DAVID EGGERT",
-    "title": "Primary problem: Michigan GOP governor candidates short signatures"
+    "title": "Primary problem: Michigan GOP governor candidates short signatures",
+    "sentiment": "0.0"
   }
 ]

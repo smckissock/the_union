@@ -2,9 +2,28 @@
   {
     "id": 5475,
     "mediaId": 233,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T01:23",
     "sentence": "",
     "author": "David Jackson",
-    "title": "Fetterman wins Pennsylvania Democratic Senate primary; NC polls close; live primary results"
+    "title": "Fetterman wins Pennsylvania Democratic Senate primary; NC polls close; live primary results",
+    "sentiment": "0"
+  },
+  {
+    "id": 8404,
+    "mediaId": 376,
+    "date": "d2022-05-26T14:30",
+    "sentence": "",
+    "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
+    "title": "At the Races: Divisions on display",
+    "sentiment": "0"
+  },
+  {
+    "id": 8562,
+    "mediaId": 195,
+    "date": "d2022-05-29T15:30",
+    "sentence": "",
+    "author": "Albert Hunt",
+    "title": "Better candidates may not be enough for Democrats to retain the Senate",
+    "sentiment": "0"
   }
 ]

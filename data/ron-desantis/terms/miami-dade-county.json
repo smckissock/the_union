@@ -2,97 +2,217 @@
   {
     "id": 4237,
     "mediaId": 302,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T10:00",
     "sentence": "",
     "author": "",
-    "title": "Pay remains sticking point for many Florida teachers, support staff"
-  },
-  {
-    "id": 3783,
-    "mediaId": 302,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Floridas intellectual freedom survey divides college campuses"
+    "title": "Pay remains sticking point for many Florida teachers, support staff",
+    "sentiment": "0.0"
   },
   {
     "id": 3812,
     "mediaId": 157,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T00:00",
     "sentence": "",
     "author": "",
-    "title": "Stay Woke Go Vote: FL Black Caucus launches campaign to empower voters"
+    "title": "Stay Woke Go Vote: FL Black Caucus launches campaign to empower voters",
+    "sentiment": "0"
+  },
+  {
+    "id": 3812,
+    "mediaId": 157,
+    "date": "d2022-05-10T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "Stay Woke Go Vote: FL Black Caucus launches campaign to empower voters",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3783,
+    "mediaId": 302,
+    "date": "d2022-05-10T10:00",
+    "sentence": "",
+    "author": "",
+    "title": "Floridas intellectual freedom survey divides college campuses",
+    "sentiment": "0"
+  },
+  {
+    "id": 3783,
+    "mediaId": 302,
+    "date": "d2022-05-10T10:00",
+    "sentence": "",
+    "author": "",
+    "title": "Floridas intellectual freedom survey divides college campuses",
+    "sentiment": "0.0"
   },
   {
     "id": 3648,
     "mediaId": 151,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T10:58",
     "sentence": "CAMPAIGN MODE\nTHE SHAPE IM IN  Florida Democrats struggle to find spotlight in race against DeSantis,? by Tampa Bay Times Kirby Wilson and Romy Ellenbogen: The three leading Democratic candidates in the Florida governors race  U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
     "author": "",
-    "title": "Taddeo insists she's staying in Florida's governor's race"
+    "title": "Taddeo insists she's staying in Florida's governor's race",
+    "sentiment": "-0.694"
+  },
+  {
+    "id": 3648,
+    "mediaId": 151,
+    "date": "d2022-05-12T10:58",
+    "sentence": "CAMPAIGN MODE\nTHE SHAPE IM IN  Florida Democrats struggle to find spotlight in race against DeSantis,? by Tampa Bay Times Kirby Wilson and Romy Ellenbogen: The three leading Democratic candidates in the Florida governors race  U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
+    "author": "",
+    "title": "Taddeo insists she's staying in Florida's governor's race",
+    "sentiment": "0.0"
   },
   {
     "id": 3496,
     "mediaId": 302,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T23:00",
     "sentence": "",
     "author": "",
-    "title": "DeSantis: Florida cancer hospitals get $100 million for research"
+    "title": "DeSantis: Florida cancer hospitals get $100 million for research",
+    "sentiment": "0"
   },
   {
-    "id": 3468,
-    "mediaId": 151,
-    "date": "5/18/2022 12:00:00 AM",
+    "id": 3496,
+    "mediaId": 302,
+    "date": "d2022-05-17T23:00",
     "sentence": "",
     "author": "",
-    "title": "Bidens Cuba and Venezuela policy shifts leave Florida Democrats dismayed"
+    "title": "DeSantis: Florida cancer hospitals get $100 million for research",
+    "sentiment": "0.0"
   },
   {
     "id": 3479,
     "mediaId": 151,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T10:59",
     "sentence": " Ken Burke files suit against Pinellas County over election bill lawsuit,? by Florida Politics Kelly Hayes\n Judge in ghost candidate case shields ex-lawmakers contacts,? by Orlando Sentinels Annie Martin\n State Attorney Brian Kramer announces new voter program to curb election crime offenses,? by The Gainesville Suns Javon L. Harris\n  Nikki Fried says media created <span class='selected-term'>Ron DeSantis</span> in explaining poll deficit,? by Florida Politics A.G. Gancarski\n... DATELINE TALLAHASSEE ...\nWHATS IN YOUR WALLET? DeSantis doles out millions but fails to mention it mostly comes from Uncle Sam,? by Orlando Sentinels Jeffrey Schweers: Gov.",
     "author": "",
-    "title": "Biden's foreign policy rankles Florida Dems"
+    "title": "Biden's foreign policy rankles Florida Dems",
+    "sentiment": "0"
   },
   {
-    "id": 3459,
-    "mediaId": 238,
-    "date": "5/19/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Lizette Alvarez",
-    "title": "Opinion Florida lawmakers, too busy with culture wars, missed an actual crisis"
+    "id": 3479,
+    "mediaId": 151,
+    "date": "d2022-05-18T10:59",
+    "sentence": " Ken Burke files suit against Pinellas County over election bill lawsuit,? by Florida Politics Kelly Hayes\n Judge in ghost candidate case shields ex-lawmakers contacts,? by Orlando Sentinels Annie Martin\n State Attorney Brian Kramer announces new voter program to curb election crime offenses,? by The Gainesville Suns Javon L. Harris\n  Nikki Fried says media created <span class='selected-term'>Ron DeSantis</span> in explaining poll deficit,? by Florida Politics A.G. Gancarski\n... DATELINE TALLAHASSEE ...\nWHATS IN YOUR WALLET? DeSantis doles out millions but fails to mention it mostly comes from Uncle Sam,? by Orlando Sentinels Jeffrey Schweers: Gov.",
+    "author": "",
+    "title": "Biden's foreign policy rankles Florida Dems",
+    "sentiment": "0.0"
   },
   {
-    "id": 3461,
-    "mediaId": 302,
-    "date": "5/19/2022 12:00:00 AM",
+    "id": 3468,
+    "mediaId": 151,
+    "date": "d2022-05-18T20:45",
     "sentence": "",
     "author": "",
-    "title": "Florida teachers dont get enough math instruction, report says"
+    "title": "Bidens Cuba and Venezuela policy shifts leave Florida Democrats dismayed",
+    "sentiment": "0.0"
   },
   {
     "id": 3462,
     "mediaId": 238,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T10:00",
     "sentence": "",
     "author": "Hannah Natanson",
-    "title": "This Florida teacher married a woman. Now shes not a teacher anymore."
+    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
+    "sentiment": "0"
+  },
+  {
+    "id": 3462,
+    "mediaId": 238,
+    "date": "d2022-05-19T10:00",
+    "sentence": "",
+    "author": "Hannah Natanson",
+    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3461,
+    "mediaId": 302,
+    "date": "d2022-05-19T11:00",
+    "sentence": "",
+    "author": "",
+    "title": "Florida teachers dont get enough math instruction, report says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3459,
+    "mediaId": 238,
+    "date": "d2022-05-19T15:06",
+    "sentence": "",
+    "author": "Lizette Alvarez",
+    "title": "Opinion Florida lawmakers, too busy with culture wars, missed an actual crisis",
+    "sentiment": "0.0"
   },
   {
     "id": 7117,
     "mediaId": 302,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T18:00",
     "sentence": "",
     "author": "",
-    "title": "As cost of condo insurance soars, Florida legislators remain silent"
+    "title": "As cost of condo insurance soars, Florida legislators remain silent",
+    "sentiment": "0"
+  },
+  {
+    "id": 7117,
+    "mediaId": 302,
+    "date": "d2022-05-20T18:00",
+    "sentence": "",
+    "author": "",
+    "title": "As cost of condo insurance soars, Florida legislators remain silent",
+    "sentiment": "0.0"
   },
   {
     "id": 8369,
     "mediaId": 147,
-    "date": "5/26/2022 12:00:00 AM",
+    "date": "d2022-05-26T00:57",
     "sentence": "",
     "author": "Associated Press",
-    "title": "Florida passes condo safety bill in wake of Surfside collapse"
+    "title": "Florida passes condo safety bill in wake of Surfside collapse",
+    "sentiment": "0"
+  },
+  {
+    "id": 8369,
+    "mediaId": 147,
+    "date": "d2022-05-26T00:57",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Florida passes condo safety bill in wake of Surfside collapse",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8542,
+    "mediaId": 302,
+    "date": "d2022-05-27T17:00",
+    "sentence": "",
+    "author": "",
+    "title": "Charlie Crist's flawed debate strategy must change | A Sun Sentinel editorial",
+    "sentiment": "0"
+  },
+  {
+    "id": 8542,
+    "mediaId": 302,
+    "date": "d2022-05-27T17:00",
+    "sentence": "",
+    "author": "",
+    "title": "Charlie Crist's flawed debate strategy must change | A Sun Sentinel editorial",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8522,
+    "mediaId": 302,
+    "date": "d2022-05-29T14:00",
+    "sentence": "And so when that happens, other opponents may take shots, but our shots need to be directed at the real problem we're all having in Florida, and his name is <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Democratic candidates for Florida governor debate, but focus on DeSantis",
+    "sentiment": "-0.243"
+  },
+  {
+    "id": 8522,
+    "mediaId": 302,
+    "date": "d2022-05-29T14:00",
+    "sentence": "And so when that happens, other opponents may take shots, but our shots need to be directed at the real problem we're all having in Florida, and his name is <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Democratic candidates for Florida governor debate, but focus on DeSantis",
+    "sentiment": "0.0"
   }
 ]

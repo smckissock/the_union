@@ -2,41 +2,91 @@
   {
     "id": 3976,
     "mediaId": 223,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T18:55",
     "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> recently gave a speech where he declared that \"the student debt that is out there, almost 60% of it is graduate school debt.\"",
     "author": "Brad Slager",
-    "title": "Fact-Checker's Own Website Proves DeSantis Accurate in 'Mostly False' Entry"
+    "title": "Fact-Checker's Own Website Proves DeSantis Accurate in 'Mostly False' Entry",
+    "sentiment": "0"
+  },
+  {
+    "id": 3976,
+    "mediaId": 223,
+    "date": "d2022-05-05T18:55",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> recently gave a speech where he declared that \"the student debt that is out there, almost 60% of it is graduate school debt.\"",
+    "author": "Brad Slager",
+    "title": "Fact-Checker's Own Website Proves DeSantis Accurate in 'Mostly False' Entry",
+    "sentiment": "0.0"
   },
   {
     "id": 3883,
     "mediaId": 237,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T07:00",
     "sentence": "",
     "author": "Washington Examiner Staff",
-    "title": "'Ultra-MAGA agenda': Quotes of the Week"
+    "title": "'Ultra-MAGA agenda': Quotes of the Week",
+    "sentiment": "0.0"
   },
   {
     "id": 3792,
     "mediaId": 65,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T06:00",
     "sentence": "",
     "author": "David Rutz",
-    "title": "Disney quiet on Sunny Hostin's disparaging remarks on Black, Latino Republicans: 'Silence is to be expected'"
+    "title": "Disney quiet on Sunny Hostin's disparaging remarks on Black, Latino Republicans: 'Silence is to be expected'",
+    "sentiment": "0"
+  },
+  {
+    "id": 3792,
+    "mediaId": 65,
+    "date": "d2022-05-10T06:00",
+    "sentence": "",
+    "author": "David Rutz",
+    "title": "Disney quiet on Sunny Hostin's disparaging remarks on Black, Latino Republicans: 'Silence is to be expected'",
+    "sentiment": "0.0"
   },
   {
     "id": 3723,
     "mediaId": 65,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T02:38",
     "sentence": "",
     "author": "",
-    "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege"
+    "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege",
+    "sentiment": "0.0"
   },
   {
     "id": 7128,
     "mediaId": 136,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T12:00",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> recently signed a \"Stop Woke Act\" to end Diversity, Equity and Inclusion (DEI) efforts in the workplace.",
     "author": "Summer Rose",
-    "title": "Improve the Health of Black Women. Make Racial Trauma at Work Extinct | Opinion"
+    "title": "Improve the Health of Black Women. Make Racial Trauma at Work Extinct | Opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 7128,
+    "mediaId": 136,
+    "date": "d2022-05-20T12:00",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> recently signed a \"Stop Woke Act\" to end Diversity, Equity and Inclusion (DEI) efforts in the workplace.",
+    "author": "Summer Rose",
+    "title": "Improve the Health of Black Women. Make Racial Trauma at Work Extinct | Opinion",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8523,
+    "mediaId": 129,
+    "date": "d2022-05-29T13:16:45",
+    "sentence": "",
+    "author": "",
+    "title": "Uvalde Live Updates: As Biden Visits Texas, Confronting Anger and Grief",
+    "sentiment": "0"
+  },
+  {
+    "id": 8523,
+    "mediaId": 129,
+    "date": "d2022-05-29T13:16:45",
+    "sentence": "",
+    "author": "",
+    "title": "Uvalde Live Updates: As Biden Visits Texas, Confronting Anger and Grief",
+    "sentiment": "0.0"
   }
 ]

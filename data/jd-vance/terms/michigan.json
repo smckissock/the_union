@@ -2,57 +2,64 @@
   {
     "id": 6455,
     "mediaId": 43,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T00:00",
     "sentence": "",
     "author": "",
-    "title": "Morning Digest: Longtime congressman will retire rather than face"
+    "title": "Morning Digest: Longtime congressman will retire rather than face",
+    "sentiment": "0"
   },
   {
     "id": 16,
     "mediaId": 558,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T08:29",
     "sentence": "",
     "author": "Ben Werschkul",
-    "title": "Business resumes of J.D. Vance and other Trump-backed candidates"
+    "title": "Business resumes of J.D. Vance and other Trump-backed candidates",
+    "sentiment": "0.623"
   },
   {
     "id": 6174,
     "mediaId": 136,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T14:43",
     "sentence": "",
     "author": "Andrew Stanton",
-    "title": "Ballot Chaos, Premature Kudos From Trump Mar Michigan GOP Endorsement Event"
+    "title": "Ballot Chaos, Premature Kudos From Trump Mar Michigan GOP Endorsement Event",
+    "sentiment": "0"
   },
   {
     "id": 5789,
     "mediaId": 120,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T13:22",
     "sentence": "",
     "author": "Steve Benen",
-    "title": "Michigan Republican defeated after lie back and enjoy it talk"
+    "title": "Michigan Republican defeated after lie back and enjoy it talk",
+    "sentiment": "0"
   },
   {
     "id": 5693,
     "mediaId": 25,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Adam Brewster, Jacob Rosen",
-    "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024"
+    "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024",
+    "sentiment": "0"
   },
   {
     "id": 5586,
     "mediaId": 1576,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "",
-    "title": "Accusations of 'grooming' are the latest political attack  with homophobic origins"
+    "title": "Accusations of 'grooming' are the latest political attack  with homophobic origins",
+    "sentiment": "0"
   },
   {
     "id": 7155,
     "mediaId": 136,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T15:12",
     "sentence": "",
     "author": "Andrew Stanton",
-    "title": "Elise Stefanik, J.D. Vance 'Talking Like Nazis': Bill Maher"
+    "title": "Elise Stefanik, J.D. Vance 'Talking Like Nazis': Bill Maher",
+    "sentiment": "-0.918"
   }
 ]

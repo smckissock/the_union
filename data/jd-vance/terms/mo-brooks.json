@@ -2,57 +2,73 @@
   {
     "id": 8192,
     "mediaId": 43,
-    "date": "2/3/2022 12:00:00 AM",
+    "date": "d2022-02-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "Daily Kos Elections 4Q 2021 Senate fundraising reports roundup"
+    "title": "Daily Kos Elections 4Q 2021 Senate fundraising reports roundup",
+    "sentiment": "0"
   },
   {
     "id": 6224,
     "mediaId": 151,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T16:03",
     "sentence": "",
     "author": "",
-    "title": "Vance surge remakes Ohio Senate race"
+    "title": "Vance surge remakes Ohio Senate race",
+    "sentiment": "-0.713"
   },
   {
     "id": 6143,
     "mediaId": 136,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T16:51",
     "sentence": "",
     "author": "Andrew Stanton",
-    "title": "Trump Sparking Fights in MAGA World With These Endorsements"
+    "title": "Trump Sparking Fights in MAGA World With These Endorsements",
+    "sentiment": "0"
   },
   {
     "id": 1797,
     "mediaId": 239,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:03:18",
     "sentence": "",
     "author": "Susan Ferrechio",
-    "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement"
+    "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement",
+    "sentiment": "0.16"
   },
   {
     "id": 5547,
     "mediaId": 151,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T01:11",
     "sentence": "",
     "author": "",
-    "title": "GOP launches Operation Stop Barnette"
+    "title": "GOP launches Operation Stop Barnette",
+    "sentiment": "-0.526"
   },
   {
     "id": 7482,
     "mediaId": 195,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:29",
     "sentence": "",
     "author": "Niall Stanage",
-    "title": "The Memo: Trump no longer holds MAGA movement in his palm"
+    "title": "The Memo: Trump no longer holds MAGA movement in his palm",
+    "sentiment": "0"
   },
   {
     "id": 7412,
     "mediaId": 233,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T23:24",
     "sentence": "",
     "author": "David Jackson",
-    "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates"
+    "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
+    "sentiment": "0"
+  },
+  {
+    "id": 8473,
+    "mediaId": 157,
+    "date": "d2022-05-26T00:00",
+    "sentence": "",
+    "author": "Travis Gettys",
+    "title": "Republicans talk trash about Trump as endorsements flop",
+    "sentiment": "0"
   }
 ]

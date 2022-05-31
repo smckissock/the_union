@@ -2,81 +2,82 @@
   {
     "id": 2256,
     "mediaId": 237,
-    "date": "1/17/2022 12:00:00 AM",
+    "date": "d2022-01-17T10:50",
     "sentence": "It's going to come from the right, too.?\nHe was one of two Republican candidates, along with <span class='selected-term'>Joe Kent</span> of Washington, to attend a September Justice for J6? rally in support of alleged participants of the Jan. 6 Capitol riot still in Washington, D.C., jails.",
     "author": "Emily Brooks",
-    "title": "A top GOP House candidate in Georgia says election doubts still driving voters"
+    "title": "A top GOP House candidate in Georgia says election doubts still driving voters",
+    "sentiment": "0.0"
   },
   {
     "id": 75,
     "mediaId": 237,
-    "date": "1/18/2022 12:00:00 AM",
+    "date": "d2022-01-18T05:30",
     "sentence": "Rep. Jaime Herrera Beutler\nThe six-term Washington state lawmaker faces several primary challengers, including the Trump-backed <span class='selected-term'>Joe Kent</span>.",
     "author": "Kate Scanlon",
-    "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically"
+    "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically",
+    "sentiment": "0.0"
   },
   {
     "id": 70,
     "mediaId": 881,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T11:21",
     "sentence": "Washington Republican Rep. Jaime Herrera-Beutler also topped a half-million dollars, more than the $300,000 raised by Trump-backed challenger <span class='selected-term'>Joe Kent</span>.",
     "author": "Cameron Joseph",
-    "title": "Trump's Favorite Candidates Are Getting Crushed in Fundraising"
+    "title": "Trump's Favorite Candidates Are Getting Crushed in Fundraising",
+    "sentiment": "0.0"
   },
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T21:13",
     "sentence": "Trump has endorsed <span class='selected-term'>Joe Kent</span>, one of Herrera Beutler's Republican primary challengers in Washington's 3rd Congressional District.",
     "author": "Julia Manchester",
-    "title": "GOP women's group endorses Herrera Beutler in primary race"
-  },
-  {
-    "id": 2243,
-    "mediaId": 593,
-    "date": "2/14/2022 12:00:00 AM",
-    "sentence": "\"We need to have a full immigration moratorium,\" said Trump-endorsed <span class='selected-term'>Joe Kent</span>, an Army veteran running in a Washington state primary against U.S. Representative Jaime Herrera Beutler.",
-    "author": "Ted Hesson and Alexandra Ulmer",
-    "title": "U.S. Republicans Try To Out-Trump Each Other With Tough Border Rhetoric Ahead Of Election"
+    "title": "GOP women's group endorses Herrera Beutler in primary race",
+    "sentiment": "0.0"
   },
   {
     "id": 56,
     "mediaId": 151,
-    "date": "2/20/2022 12:00:00 AM",
+    "date": "d2022-02-20T13:48",
     "sentence": "Against Rep. Jaime Herrera Beutler, he's backed Army veteran <span class='selected-term'>Joe Kent</span>.",
     "author": "",
-    "title": "Defiant GOP impeachment voters gear up for Trump-backed primaries"
+    "title": "Defiant GOP impeachment voters gear up for Trump-backed primaries",
+    "sentiment": "0.0"
   },
   {
     "id": 2238,
     "mediaId": 43,
-    "date": "2/25/2022 12:00:00 AM",
+    "date": "d2022-02-25T00:00",
     "sentence": "These chyrons appeared during Carlson's show, accompanying Carlson's statements prior to and during his colloquy with his guest, <span class='selected-term'>Joe Kent</span>a Donald Trump-endorsed zealot currently attempting to unseat Washington Rep. Jaime Herrera Butler.",
     "author": "",
-    "title": "America now has its own 'Fifth Column,' and its name is Fox News"
+    "title": "America now has its own 'Fifth Column,' and its name is Fox News",
+    "sentiment": "-0.373"
   },
   {
     "id": 7597,
     "mediaId": 558,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T21:15",
     "sentence": "",
     "author": "DAVID KLEPPER and JEFF AMY",
-    "title": "GOP works to get out the vote after calling elections rigged"
-  },
-  {
-    "id": 1715,
-    "mediaId": 98,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "DAVID KLEPPER and JEFF AMY",
-    "title": "GOP works to get out the vote after calling elections rigged"
+    "title": "GOP works to get out the vote after calling elections rigged",
+    "sentiment": "0.0"
   },
   {
     "id": 1725,
     "mediaId": 1576,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "",
-    "title": "GOP works to get out the vote after calling elections rigged"
+    "title": "GOP works to get out the vote after calling elections rigged",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 1715,
+    "mediaId": 98,
+    "date": "d2022-05-06T14:08",
+    "sentence": "",
+    "author": "DAVID KLEPPER and JEFF AMY",
+    "title": "GOP works to get out the vote after calling elections rigged",
+    "sentiment": "0.0"
   }
 ]

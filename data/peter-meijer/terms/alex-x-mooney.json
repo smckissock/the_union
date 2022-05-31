@@ -2,17 +2,19 @@
   {
     "id": 63,
     "mediaId": 151,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T19:16",
     "sentence": "Fellow Michigan Republican Rep. <span class='selected-term'>Peter Meijer</span> raised $529,000.",
     "author": "",
-    "title": "House Republicans close money gap in hunt for the majority"
+    "title": "House Republicans close money gap in hunt for the majority",
+    "sentiment": "0.0"
   },
   {
     "id": 1,
     "mediaId": 151,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T22:54",
     "sentence": "Throughout the summer, Reps. <span class='selected-term'>Peter Meijer</span> (R-Mich.), Dan Newhouse (R-Wash.) and Jaime Herrera Beutler (R-Wash.)  all of whom voted to impeach Trump  will face more conservative opponents backed by the former president.",
     "author": "",
-    "title": "Are you going to cave? GOP primaries pit fighters against governing wing"
+    "title": "Are you going to cave? GOP primaries pit fighters against governing wing",
+    "sentiment": "0.0"
   }
 ]

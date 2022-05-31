@@ -2,17 +2,37 @@
   {
     "id": 4094,
     "mediaId": 43,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "Amazon and other companies have been eager to distance themselves from the end of Roe, since they haven't forked over cash to make <span class='selected-term'>Ron DeSantis</span> president yet and so Ron hasn't been able to pass new nationwide laws punishing them for doing so.",
     "author": "Hunter\nDaily Kos Staff",
-    "title": "These are some of the companies that funded the end of Roe v. Wade"
+    "title": "These are some of the companies that funded the end of Roe v. Wade",
+    "sentiment": "-0.648"
+  },
+  {
+    "id": 4094,
+    "mediaId": 43,
+    "date": "d2022-05-04T00:00",
+    "sentence": "Amazon and other companies have been eager to distance themselves from the end of Roe, since they haven't forked over cash to make <span class='selected-term'>Ron DeSantis</span> president yet and so Ron hasn't been able to pass new nationwide laws punishing them for doing so.",
+    "author": "Hunter\nDaily Kos Staff",
+    "title": "These are some of the companies that funded the end of Roe v. Wade",
+    "sentiment": "0.0"
   },
   {
     "id": 3942,
     "mediaId": 238,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T07:00",
     "sentence": "",
     "author": "",
-    "title": "A pair of Four-Pinocchio abortion claims"
+    "title": "A pair of Four-Pinocchio abortion claims",
+    "sentiment": "0"
+  },
+  {
+    "id": 3942,
+    "mediaId": 238,
+    "date": "d2022-05-06T07:00",
+    "sentence": "",
+    "author": "",
+    "title": "A pair of Four-Pinocchio abortion claims",
+    "sentiment": "0.0"
   }
 ]

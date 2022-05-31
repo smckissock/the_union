@@ -2,41 +2,73 @@
   {
     "id": 5243,
     "mediaId": 209,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "",
     "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 9, 2022"
-  },
-  {
-    "id": 4331,
-    "mediaId": 63,
-    "date": "4/30/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Anna Kaplan",
-    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness"
+    "title": "10 things you need to know today: April 9, 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 4333,
     "mediaId": 124,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T11:44",
     "sentence": "",
     "author": "",
-    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality"
+    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
+    "sentiment": "0"
+  },
+  {
+    "id": 4333,
+    "mediaId": 124,
+    "date": "d2022-04-30T11:44",
+    "sentence": "",
+    "author": "",
+    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4331,
+    "mediaId": 63,
+    "date": "d2022-04-30T14:08",
+    "sentence": "",
+    "author": "Anna Kaplan",
+    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
+    "sentiment": "0"
+  },
+  {
+    "id": 4331,
+    "mediaId": 63,
+    "date": "d2022-04-30T14:08",
+    "sentence": "",
+    "author": "Anna Kaplan",
+    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
+    "sentiment": "0.0"
   },
   {
     "id": 3992,
     "mediaId": 237,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T11:33",
     "sentence": "",
     "author": "Paul Bedard",
-    "title": "2024 Shock: Biden 36%, Trump 50%"
+    "title": "2024 Shock: Biden 36%, Trump 50%",
+    "sentiment": "0"
+  },
+  {
+    "id": 3992,
+    "mediaId": 237,
+    "date": "d2022-05-05T11:33",
+    "sentence": "",
+    "author": "Paul Bedard",
+    "title": "2024 Shock: Biden 36%, Trump 50%",
+    "sentiment": "0.0"
   },
   {
     "id": 3612,
     "mediaId": 129,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T10:30",
     "sentence": "",
     "author": "",
-    "title": "The Baby Formula Crisis"
+    "title": "The Baby Formula Crisis",
+    "sentiment": "0.0"
   }
 ]

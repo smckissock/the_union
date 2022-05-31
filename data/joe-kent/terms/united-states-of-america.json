@@ -2,81 +2,82 @@
   {
     "id": 68,
     "mediaId": 163,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T21:37",
     "sentence": "",
     "author": "Alexandra Ulmer",
-    "title": "Republican U.S. lawmakers funnel money to colleagues who crossed Trump"
+    "title": "Republican U.S. lawmakers funnel money to colleagues who crossed Trump",
+    "sentiment": "0.0"
   },
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T21:13",
     "sentence": "Trump has endorsed <span class='selected-term'>Joe Kent</span>, one of Herrera Beutler's Republican primary challengers in Washington's 3rd Congressional District.",
     "author": "Julia Manchester",
-    "title": "GOP women's group endorses Herrera Beutler in primary race"
+    "title": "GOP women's group endorses Herrera Beutler in primary race",
+    "sentiment": "0.0"
   },
   {
     "id": 2242,
     "mediaId": 163,
-    "date": "2/14/2022 12:00:00 AM",
+    "date": "d2022-02-14T10:00",
     "sentence": "\"We need to have a full immigration moratorium,\" said Trump-endorsed <span class='selected-term'>Joe Kent</span>, an Army veteran running in a Washington state primary against U.S. Representative Jaime Herrera Beutler.",
     "author": "Alexandra Ulmer",
-    "title": "U.S. Republicans try to out-Trump each other with tough border rhetoric ahead of election"
-  },
-  {
-    "id": 2243,
-    "mediaId": 593,
-    "date": "2/14/2022 12:00:00 AM",
-    "sentence": "\"We need to have a full immigration moratorium,\" said Trump-endorsed <span class='selected-term'>Joe Kent</span>, an Army veteran running in a Washington state primary against U.S. Representative Jaime Herrera Beutler.",
-    "author": "Ted Hesson and Alexandra Ulmer",
-    "title": "U.S. Republicans Try To Out-Trump Each Other With Tough Border Rhetoric Ahead Of Election"
+    "title": "U.S. Republicans try to out-Trump each other with tough border rhetoric ahead of election",
+    "sentiment": "0.0"
   },
   {
     "id": 2238,
     "mediaId": 43,
-    "date": "2/25/2022 12:00:00 AM",
+    "date": "d2022-02-25T00:00",
     "sentence": "These chyrons appeared during Carlson's show, accompanying Carlson's statements prior to and during his colloquy with his guest, <span class='selected-term'>Joe Kent</span>a Donald Trump-endorsed zealot currently attempting to unseat Washington Rep. Jaime Herrera Butler.",
     "author": "",
-    "title": "America now has its own 'Fifth Column,' and its name is Fox News"
+    "title": "America now has its own 'Fifth Column,' and its name is Fox News",
+    "sentiment": "-0.373"
   },
   {
     "id": 2233,
     "mediaId": 19,
-    "date": "3/7/2022 12:00:00 AM",
+    "date": "d2022-03-07T00:00",
     "sentence": "Republican <span class='selected-term'>Joe Kent</span> is running on a populist platform for a seat in Congress, but first he must win his Washington state GOP primary against incumbent Rep. Jaime Herrera Beutler and her corporate donors.",
     "author": "Neil Munro",
-    "title": "Exclusive  Challenger Joe Kent: GOP Incumbent Is Totally Chamber of Commerce'"
+    "title": "Exclusive  Challenger Joe Kent: GOP Incumbent Is Totally Chamber of Commerce'",
+    "sentiment": "0.0"
   },
   {
     "id": 2230,
     "mediaId": 223,
-    "date": "3/12/2022 12:00:00 AM",
+    "date": "d2022-03-12T20:00",
     "sentence": "",
     "author": "Rebecca Downs",
-    "title": "Missiles Fired at U.S. Consulate in Iraq Reportedly Came from Iran"
+    "title": "Missiles Fired at U.S. Consulate in Iraq Reportedly Came from Iran",
+    "sentiment": "0.0"
   },
   {
     "id": 2223,
     "mediaId": 151,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T17:10",
     "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
     "author": "",
-    "title": "POLITICO Playbook PM: What the March jobs report means for Biden"
+    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
+    "sentiment": "0.0"
   },
   {
     "id": 225,
     "mediaId": 129,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T10:32",
     "sentence": "",
     "author": "",
-    "title": "The G.O.P.'s Putin Wing'"
+    "title": "The G.O.P.'s Putin Wing'",
+    "sentiment": "0.0"
   },
   {
     "id": 2217,
     "mediaId": 376,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T15:02",
     "sentence": "In southwestern Washington, Trump has endorsed former Army Green Beret <span class='selected-term'>Joe Kent</span> against Herrera Beutler.",
     "author": "",
-    "title": "New lines, interesting races in Washington state"
+    "title": "New lines, interesting races in Washington state",
+    "sentiment": "0.0"
   }
 ]

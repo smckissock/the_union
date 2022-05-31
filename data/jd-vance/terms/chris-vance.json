@@ -2,25 +2,28 @@
   {
     "id": 6405,
     "mediaId": 151,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T22:34",
     "sentence": "",
     "author": "",
-    "title": "Ohio Republicans gang up to stop Vance endorsement"
-  },
-  {
-    "id": 5824,
-    "mediaId": 233,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "David Jackson",
-    "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November"
+    "title": "Ohio Republicans gang up to stop Vance endorsement",
+    "sentiment": "-0.821"
   },
   {
     "id": 5828,
     "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T01:36",
     "sentence": "",
     "author": "Tal Axelrod",
-    "title": "Vance wins Ohio Senate primary, handing Trump key victory"
+    "title": "Vance wins Ohio Senate primary, handing Trump key victory",
+    "sentiment": "0"
+  },
+  {
+    "id": 5824,
+    "mediaId": 233,
+    "date": "d2022-05-04T02:30",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November",
+    "sentiment": "0.241"
   }
 ]

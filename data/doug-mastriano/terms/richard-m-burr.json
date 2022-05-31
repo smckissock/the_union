@@ -2,33 +2,37 @@
   {
     "id": 3387,
     "mediaId": 195,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T09:19",
     "sentence": "Pennsylvanias GOP gubernatorial primary\nPennsylvania Republicans appeared poised to nominate state Sen. <span class='selected-term'>Doug Mastriano</span> on Tuesday to take on Democrat Josh Shapiro in the November general election, stirring concern among some GOP officials who fear that Mastriano may prove unelectable.",
     "author": "Max Greenwood",
-    "title": "Seven primary races to watch on Tuesday"
+    "title": "Seven primary races to watch on Tuesday",
+    "sentiment": "0"
   },
   {
     "id": 6724,
     "mediaId": 558,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T20:56",
     "sentence": "And in Pennsylvanias GOP race for governor, Trump's endorsed candidate, the far-right <span class='selected-term'>Doug Mastriano</span>, easily won the nomination  though he was already well ahead in the polls when Trump weighed in just days before the primary.",
     "author": "",
-    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn"
+    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
+    "sentiment": "0.566"
   },
   {
     "id": 6725,
     "mediaId": 558,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T20:56",
     "sentence": "And in Pennsylvanias GOP race for governor, Trump's endorsed candidate, the far-right <span class='selected-term'>Doug Mastriano</span>, easily won the nomination  though he was already well ahead in the polls when Trump weighed in just days before the primary.",
     "author": "",
-    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn"
+    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
+    "sentiment": "0.0"
   },
   {
     "id": 5473,
     "mediaId": 136,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T09:32",
     "sentence": "",
     "author": "Khaleda Rahman",
-    "title": "How Donald Trump's Candidates Fared in Latest Primary Elections"
+    "title": "How Donald Trump's Candidates Fared in Latest Primary Elections",
+    "sentiment": "-0.364"
   }
 ]

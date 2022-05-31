@@ -2,9 +2,19 @@
   {
     "id": 3506,
     "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T11:00",
     "sentence": "",
     "author": "Hugh Hewitt",
-    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing"
+    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8514,
+    "mediaId": 223,
+    "date": "d2022-05-27T00:01",
+    "sentence": "",
+    "author": "Michael Barone",
+    "title": "Primary Results: Trump Repudiated, Republicans Enthused, Democrats Focused On Theoretical Issues",
+    "sentiment": "-0.726"
   }
 ]

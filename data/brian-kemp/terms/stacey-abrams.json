@@ -2,1137 +2,1315 @@
   {
     "id": 1678,
     "mediaId": 1164,
-    "date": "1/5/2022 12:00:00 AM",
+    "date": "d2022-01-05T00:00",
     "sentence": "",
     "author": "Clyde Hughes",
-    "title": "In divisive primary fight, Georgia Gov. Brian Kemp wants to expand gun rights"
+    "title": "In divisive primary fight, Georgia Gov. Brian Kemp wants to expand gun rights",
+    "sentiment": "-0.426"
   },
   {
     "id": 1680,
     "mediaId": 19,
-    "date": "1/5/2022 12:00:00 AM",
+    "date": "d2022-01-05T00:00",
     "sentence": "I'm glad <span class='selected-term'>Brian Kemp</span> is answering my call for constitutional carry in Georgia.",
     "author": "Ashley Oliver",
-    "title": "Brian Kemp Plans to Ease Gun Laws in Georgia: Carry Permit' Should Be the Founding Document of Our Nation'"
+    "title": "Brian Kemp Plans to Ease Gun Laws in Georgia: Carry Permit' Should Be the Founding Document of Our Nation'",
+    "sentiment": "0.246"
   },
   {
     "id": 8239,
     "mediaId": 32,
-    "date": "1/26/2022 12:00:00 AM",
+    "date": "d2022-01-26T12:00:01",
     "sentence": "",
     "author": "Thomas Franck",
-    "title": "Democrats bid to keep the Senate will involve plans to fight inflation and promises for a renewed agenda"
+    "title": "Democrats bid to keep the Senate will involve plans to fight inflation and promises for a renewed agenda",
+    "sentiment": "0.0"
   },
   {
     "id": 1527,
     "mediaId": 65,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T02:00",
     "sentence": "",
     "author": "Kyle Morris",
-    "title": "Stacey Abrams trails Brian Kemp, David Perdue for Georgia governor, new poll shows"
+    "title": "Stacey Abrams trails Brian Kemp, David Perdue for Georgia governor, new poll shows",
+    "sentiment": "-0.228"
   },
   {
     "id": 8218,
     "mediaId": 12,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T12:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "Bidens sagging approval could haunt Georgia Democrats"
+    "title": "Bidens sagging approval could haunt Georgia Democrats",
+    "sentiment": "0.0"
   },
   {
     "id": 1508,
     "mediaId": 19,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T00:00",
     "sentence": "The Democrats walked all over <span class='selected-term'>Brian Kemp</span>.",
     "author": "Ashley Oliver",
-    "title": "Exclusive  Donald Trump Delivers Message to Georgia in First David Perdue Ad: Brian Kemp Let Us Down'"
+    "title": "Exclusive  Donald Trump Delivers Message to Georgia in First David Perdue Ad: Brian Kemp Let Us Down'",
+    "sentiment": "-0.653"
   },
   {
     "id": 8205,
     "mediaId": 43,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T00:00",
     "sentence": "The Democrats walked all over <span class='selected-term'>Brian Kemp</span>, Trump yells, adding, He was afraid of Stacey The Hoax Abrams.",
     "author": "Rebekah Sager",
-    "title": "Perdue kicks off his Stop Stacey campaign with a promise of an election fraud police force"
-  },
-  {
-    "id": 8195,
-    "mediaId": 12,
-    "date": "2/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "Stacey Abrams raises $9.2M after entering gov race in December"
+    "title": "Perdue kicks off his Stop Stacey campaign with a promise of an election fraud police force",
+    "sentiment": "-0.812"
   },
   {
     "id": 8196,
     "mediaId": 1576,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "Stacey Abrams raised $9.25 million since jumping into governor's race"
+    "title": "Stacey Abrams raised $9.25 million since jumping into governor's race",
+    "sentiment": "-0.362"
+  },
+  {
+    "id": 8195,
+    "mediaId": 12,
+    "date": "d2022-02-02T12:00",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "Stacey Abrams raises $9.2M after entering gov race in December",
+    "sentiment": "0.188"
   },
   {
     "id": 8188,
     "mediaId": 12,
-    "date": "2/4/2022 12:00:00 AM",
+    "date": "d2022-02-04T12:00",
     "sentence": "",
     "author": "Patricia Murphy",
-    "title": "Politically Georgia: David Perdue goes all in with Donald Trump"
-  },
-  {
-    "id": 1452,
-    "mediaId": 237,
-    "date": "2/7/2022 12:00:00 AM",
-    "sentence": "The best shot they had of beating <span class='selected-term'>Brian Kemp</span> was to get him into a runoff.?\nStacey Abrams, who lost to Kemp narrowly in 2018, is running again this year and is considered the putative Democratic nominee.",
-    "author": "David M. Drucker",
-    "title": "David Perdue gets clear shot at Georgia Gov. Brian Kemp with Vernon Jones primary exit"
+    "title": "Politically Georgia: David Perdue goes all in with Donald Trump",
+    "sentiment": "0"
   },
   {
     "id": 1462,
     "mediaId": 19,
-    "date": "2/7/2022 12:00:00 AM",
+    "date": "d2022-02-07T00:00",
     "sentence": "What is even worse is that this is a classroom in <span class='selected-term'>Brian Kemp</span>'s Georgia, not New York or California.",
     "author": "Matthew Boyle",
-    "title": "Exclusive David Perdue Slams Stacey Abrams and Brian Kemp in Unmask Our Kids' Ad"
+    "title": "Exclusive David Perdue Slams Stacey Abrams and Brian Kemp in Unmask Our Kids' Ad",
+    "sentiment": "-0.504"
+  },
+  {
+    "id": 1452,
+    "mediaId": 237,
+    "date": "d2022-02-07T16:17",
+    "sentence": "The best shot they had of beating <span class='selected-term'>Brian Kemp</span> was to get him into a runoff.?\nStacey Abrams, who lost to Kemp narrowly in 2018, is running again this year and is considered the putative Democratic nominee.",
+    "author": "David M. Drucker",
+    "title": "David Perdue gets clear shot at Georgia Gov. Brian Kemp with Vernon Jones primary exit",
+    "sentiment": "0"
   },
   {
     "id": 8141,
     "mediaId": 223,
-    "date": "2/14/2022 12:00:00 AM",
+    "date": "d2022-02-14T18:00",
     "sentence": "",
     "author": "Rebecca Downs",
-    "title": "Clever New Ad Uses Raphael Warnock's Own Words Against Him"
-  },
-  {
-    "id": 1322,
-    "mediaId": 169,
-    "date": "2/22/2022 12:00:00 AM",
-    "sentence": "Democrat Stacey Abrams and former Republican U.S. Sen. David Perdue found themselves in an unlikely alliance last week after Georgia's Republican governor, <span class='selected-term'>Brian Kemp</span>, backed a rule change that could benefit his election chances  and not for the first time.",
-    "author": "Igor Derysh",
-    "title": "Stacey Abrams, David Perdue in unlikely alliance after Brian Kemp changes election rules again"
+    "title": "Clever New Ad Uses Raphael Warnock's Own Words Against Him",
+    "sentiment": "0.0"
   },
   {
     "id": 1327,
     "mediaId": 157,
-    "date": "2/22/2022 12:00:00 AM",
+    "date": "d2022-02-22T00:00",
     "sentence": "Democrat Stacey Abrams and former Republican U.S. Sen. David Perdue found themselves in an unlikely alliance last week after Georgia's Republican governor, <span class='selected-term'>Brian Kemp</span>, backed a rule change that could benefit his election chances  and not for the first time.",
     "author": "Igor Derysh",
-    "title": "Stacey Abrams and David Perdue in unlikely alliance after Brian Kemp changes election rules again"
+    "title": "Stacey Abrams and David Perdue in unlikely alliance after Brian Kemp changes election rules again",
+    "sentiment": "-0.524"
+  },
+  {
+    "id": 1322,
+    "mediaId": 169,
+    "date": "d2022-02-22T06:00",
+    "sentence": "Democrat Stacey Abrams and former Republican U.S. Sen. David Perdue found themselves in an unlikely alliance last week after Georgia's Republican governor, <span class='selected-term'>Brian Kemp</span>, backed a rule change that could benefit his election chances  and not for the first time.",
+    "author": "Igor Derysh",
+    "title": "Stacey Abrams, David Perdue in unlikely alliance after Brian Kemp changes election rules again",
+    "sentiment": "-0.591"
   },
   {
     "id": 8112,
     "mediaId": 12,
-    "date": "2/24/2022 12:00:00 AM",
+    "date": "d2022-02-24T13:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "The Jolt: Trump stepping up focus on Georgia candidates"
+    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
+    "sentiment": "0.0"
   },
   {
     "id": 395,
     "mediaId": 12,
-    "date": "2/28/2022 12:00:00 AM",
+    "date": "d2022-02-28T12:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: David Perdue targets Gov. Brian Kemp's prized Rivian deal"
+    "title": "The Jolt: David Perdue targets Gov. Brian Kemp's prized Rivian deal",
+    "sentiment": "0"
   },
   {
     "id": 8044,
     "mediaId": 305,
-    "date": "3/11/2022 12:00:00 AM",
+    "date": "d2022-03-11T11:38",
     "sentence": "",
     "author": "Kalyn Womack",
-    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race"
+    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
+    "sentiment": "-0.452"
   },
   {
     "id": 1175,
     "mediaId": 237,
-    "date": "3/17/2022 12:00:00 AM",
+    "date": "d2022-03-17T23:00",
     "sentence": "Just In...\nFew politicians have drawn as much ire from opposite corners of the political spectrum as <span class='selected-term'>Brian Kemp</span>, the forever embattled Georgia governor seeking a second term in office this year.",
     "author": "Haisten Willis",
-    "title": "The many trials of Brian Kemp"
+    "title": "The many trials of Brian Kemp",
+    "sentiment": "-0.472"
   },
   {
     "id": 1166,
     "mediaId": 12,
-    "date": "3/18/2022 12:00:00 AM",
+    "date": "d2022-03-18T16:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "Stacey Abrams, Brian Kemp and David Perdue each disclose net worth in millions"
+    "title": "Stacey Abrams, Brian Kemp and David Perdue each disclose net worth in millions",
+    "sentiment": "-0.387"
   },
   {
     "id": 1089,
     "mediaId": 19,
-    "date": "3/26/2022 12:00:00 AM",
+    "date": "d2022-03-26T00:00",
     "sentence": "Right here in your state, we are going to throw out your spineless RINO Governor <span class='selected-term'>Brian Kemp</span>, and we are going to replace him with a fearless America First patriot in David Perdue,? Trump plans to say.",
     "author": "Ashley Oliver",
-    "title": "Exclusive  Trump at Georgia Rally: A Vote for RINO Brian Kemp' Is a Vote for Stacey Abrams'"
-  },
-  {
-    "id": 7886,
-    "mediaId": 136,
-    "date": "3/27/2022 12:00:00 AM",
-    "sentence": "During the rally, the former president blasted incumbent Georgia Republican Governor <span class='selected-term'>Brian Kemp</span>, who Trump has turned on since he declined to overturn President Joe Biden's win in the state in 2020.",
-    "author": "Xander Landen",
-    "title": "Trump Rally in Georgia Helps Stacey Abrams With Fundraising Appeal"
+    "title": "Exclusive  Trump at Georgia Rally: A Vote for RINO Brian Kemp' Is a Vote for Stacey Abrams'",
+    "sentiment": "-0.548"
   },
   {
     "id": 7894,
     "mediaId": 12,
-    "date": "3/27/2022 12:00:00 AM",
+    "date": "d2022-03-27T03:00",
     "sentence": "COMMERCE  Former President Donald Trump escalated his grudge Saturday against <span class='selected-term'>Brian Kemp</span> at a rally in northeast Georgia, urging supporters to oust the incumbent he once endorsed and purge state government of many of the governors allies.",
     "author": "Greg Bluestein",
-    "title": "Trump brings his anti-Kemp campaign to Georgia"
+    "title": "Trump brings his anti-Kemp campaign to Georgia",
+    "sentiment": "-0.176"
+  },
+  {
+    "id": 7886,
+    "mediaId": 136,
+    "date": "d2022-03-27T13:43",
+    "sentence": "During the rally, the former president blasted incumbent Georgia Republican Governor <span class='selected-term'>Brian Kemp</span>, who Trump has turned on since he declined to overturn President Joe Biden's win in the state in 2020.",
+    "author": "Xander Landen",
+    "title": "Trump Rally in Georgia Helps Stacey Abrams With Fundraising Appeal",
+    "sentiment": "-0.953"
   },
   {
     "id": 5446,
     "mediaId": 223,
-    "date": "3/28/2022 12:00:00 AM",
+    "date": "d2022-03-28T00:01",
     "sentence": "American democracy is under attack right now  perhaps nowhere more so than in Georgia, where Governor <span class='selected-term'>Brian Kemp</span> is doing everything he can to make it harder for Georgians to vote  especially people of color.",
     "author": "Derek Hunter",
-    "title": "Stacey Abrams Is Displeased"
-  },
-  {
-    "id": 5421,
-    "mediaId": 12,
-    "date": "3/29/2022 12:00:00 AM",
-    "sentence": "On stage with Trump on Saturday, Perdue falsely declared that the 2020 election and his own runoff were absolutely stolen!? Moments later, he promised to jail the people responsible? and gave a big thumbs up to the crowd chanting, Lock him up!? referring to <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Patricia Murphy",
-    "title": "OPINION: Meet the 2022 David Perdue"
+    "title": "Stacey Abrams Is Displeased",
+    "sentiment": "0.0"
   },
   {
     "id": 7877,
     "mediaId": 12,
-    "date": "3/29/2022 12:00:00 AM",
+    "date": "d2022-03-29T11:00",
     "sentence": "For Tuesday, were keeping an eye on:\nA possible House vote on the package with more changes to Georgias elections, which county elections officials have raised objections to;\nThe next steps for <span class='selected-term'>Brian Kemp</span>s proposed income tax cut.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Lawmakers rush to finish favorite bills before time runs out"
+    "title": "The Jolt: Lawmakers rush to finish favorite bills before time runs out",
+    "sentiment": "0"
   },
   {
-    "id": 5399,
-    "mediaId": 323,
-    "date": "3/30/2022 12:00:00 AM",
-    "sentence": "WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022Play video: WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022\n Potomac Watch: Stacey Abrams lost the 2018 Georgia governor's race to republican <span class='selected-term'>Brian Kemp</span>, and to this day she's never accepted the result.",
-    "author": "The Editorial Board",
-    "title": "Tennessees Political Protection Racket"
-  },
-  {
-    "id": 5406,
-    "mediaId": 237,
-    "date": "3/30/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Andrew Kerr",
-    "title": "Stacey Abrams dark money group hauled in $62 million following 2018 election loss"
+    "id": 5421,
+    "mediaId": 12,
+    "date": "d2022-03-29T21:00",
+    "sentence": "On stage with Trump on Saturday, Perdue falsely declared that the 2020 election and his own runoff were absolutely stolen!? Moments later, he promised to jail the people responsible? and gave a big thumbs up to the crowd chanting, Lock him up!? referring to <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Patricia Murphy",
+    "title": "OPINION: Meet the 2022 David Perdue",
+    "sentiment": "-0.45"
   },
   {
     "id": 5413,
     "mediaId": 43,
-    "date": "3/30/2022 12:00:00 AM",
+    "date": "d2022-03-30T00:00",
     "sentence": "In the last year, weve seen coordinated attacks on the legitimacy of our government, and meanwhile, Republicans all over the country  including <span class='selected-term'>Brian Kemp</span> and David Perdue  are abandoning any concern for our future.",
     "author": "",
-    "title": "Hillary Clinton Is Back & She's Ready To Help Stacey Abrams (D) Become Governor"
+    "title": "Hillary Clinton Is Back & She's Ready To Help Stacey Abrams (D) Become Governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 5406,
+    "mediaId": 237,
+    "date": "d2022-03-30T12:41",
+    "sentence": "",
+    "author": "Andrew Kerr",
+    "title": "Stacey Abrams dark money group hauled in $62 million following 2018 election loss",
+    "sentiment": "0"
+  },
+  {
+    "id": 5399,
+    "mediaId": 323,
+    "date": "d2022-03-30T22:53",
+    "sentence": "WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022Play video: WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022\n Potomac Watch: Stacey Abrams lost the 2018 Georgia governor's race to republican <span class='selected-term'>Brian Kemp</span>, and to this day she's never accepted the result.",
+    "author": "The Editorial Board",
+    "title": "Tennessees Political Protection Racket",
+    "sentiment": "-0.67"
   },
   {
     "id": 5392,
     "mediaId": 238,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "",
     "author": "",
-    "title": "Opinion: Trumps lies are failing in Georgia. Thats good news for all of us."
+    "title": "Opinion: Trumps lies are failing in Georgia. Thats good news for all of us.",
+    "sentiment": "-0.956"
   },
   {
     "id": 2194,
     "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T10:00",
     "sentence": "When I met with Gov <span class='selected-term'>Brian Kemp</span> at the beginning of this legislative session, he said he was proud of the work that he had done in his first three years as governor and he laid out his plans for the 40 days ahead.",
     "author": "Patricia Murphy",
-    "title": "OPINION: A legislative session for Brian Kemp to take to the bank"
+    "title": "OPINION: A legislative session for Brian Kemp to take to the bank",
+    "sentiment": "0"
   },
   {
     "id": 5364,
     "mediaId": 65,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T16:20",
     "sentence": "",
     "author": "",
-    "title": "Georgia set to become 25th state with 'constitutional carry' law in major win for gun-rights activists"
+    "title": "Georgia set to become 25th state with 'constitutional carry' law in major win for gun-rights activists",
+    "sentiment": "0"
   },
   {
     "id": 5346,
     "mediaId": 223,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T18:00",
     "sentence": "",
     "author": "Rebecca Downs",
-    "title": "More Big Tech Censorship: RNC Video of Interview with Donald Trump Removed from YouTube"
-  },
-  {
-    "id": 5304,
-    "mediaId": 65,
-    "date": "4/5/2022 12:00:00 AM",
-    "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
-    "author": "Julia Musto",
-    "title": "Stacey Abrams now a millionaire as she aims to take governor's office"
-  },
-  {
-    "id": 5309,
-    "mediaId": 12,
-    "date": "4/5/2022 12:00:00 AM",
-    "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
-    "author": "JEFF AMY",
-    "title": "Stacey Abrams reaches millionaire status before 2nd campaign"
-  },
-  {
-    "id": 5320,
-    "mediaId": 98,
-    "date": "4/5/2022 12:00:00 AM",
-    "sentence": "Since her 2018 defeat against Republican <span class='selected-term'>Brian Kemp</span>, Abrams has become a leading voting rights activist.",
-    "author": "JEFF AMY",
-    "title": "Once mocked for her shaky personal finances, Stacey Abrams is now a millionaire"
+    "title": "More Big Tech Censorship: RNC Video of Interview with Donald Trump Removed from YouTube",
+    "sentiment": "0.0"
   },
   {
     "id": 5326,
     "mediaId": 1576,
-    "date": "4/5/2022 12:00:00 AM",
+    "date": "d2022-04-05T00:00",
     "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
     "author": "",
-    "title": "Stacey Abrams reaches millionaire status before 2nd campaign"
+    "title": "Stacey Abrams reaches millionaire status before 2nd campaign",
+    "sentiment": "-0.206"
   },
   {
     "id": 5328,
     "mediaId": 25,
-    "date": "4/5/2022 12:00:00 AM",
+    "date": "d2022-04-05T00:00",
     "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
     "author": "",
-    "title": "Stacey Abrams' net worth over $3 million as she launches second bid for Georgia governor"
+    "title": "Stacey Abrams' net worth over $3 million as she launches second bid for Georgia governor",
+    "sentiment": "-0.334"
   },
   {
-    "id": 5250,
+    "id": 5320,
+    "mediaId": 98,
+    "date": "d2022-04-05T04:54",
+    "sentence": "Since her 2018 defeat against Republican <span class='selected-term'>Brian Kemp</span>, Abrams has become a leading voting rights activist.",
+    "author": "JEFF AMY",
+    "title": "Once mocked for her shaky personal finances, Stacey Abrams is now a millionaire",
+    "sentiment": "-0.657"
+  },
+  {
+    "id": 5309,
     "mediaId": 12,
-    "date": "4/8/2022 12:00:00 AM",
-    "sentence": "The case has been building for 3 1/2 years since it was filed by Fair Fight Action, a group Democrat Stacey Abrams founded following her loss to Republican <span class='selected-term'>Brian Kemp</span> in the 2018 election for governor.",
-    "author": "Mark Niesse",
-    "title": "Georgia voting rights trial to begin after years of heated elections"
+    "date": "d2022-04-05T11:23",
+    "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
+    "author": "JEFF AMY",
+    "title": "Stacey Abrams reaches millionaire status before 2nd campaign",
+    "sentiment": "-0.306"
+  },
+  {
+    "id": 5304,
+    "mediaId": 65,
+    "date": "d2022-04-05T16:54",
+    "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
+    "author": "Julia Musto",
+    "title": "Stacey Abrams now a millionaire as she aims to take governor's office",
+    "sentiment": "0"
   },
   {
     "id": 5257,
     "mediaId": 43,
-    "date": "4/8/2022 12:00:00 AM",
+    "date": "d2022-04-08T00:00",
     "sentence": "According to AJC, prior to the 2018 election, nearly 47,000 voter registrations were put in pending status, about 70% of which were from Black residents.?\nThe suit was filed in 2018 by Stacey Abrams group Fair Fight Action after she lost her gubernatorial race to Republican <span class='selected-term'>Brian Kemp</span>.",
     "author": "Rebekah Sager",
-    "title": "Georgia voting rights suit heads to trial as midterms heat up in the state"
+    "title": "Georgia voting rights suit heads to trial as midterms heat up in the state",
+    "sentiment": "0"
   },
   {
-    "id": 5234,
-    "mediaId": 65,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'"
-  },
-  {
-    "id": 5235,
-    "mediaId": 65,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'"
-  },
-  {
-    "id": 5236,
-    "mediaId": 21,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Hannah Getahun",
-    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race"
-  },
-  {
-    "id": 5238,
-    "mediaId": 558,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "A former state representative and a successful author, she ran for governor in 2018 and lost narrowly to <span class='selected-term'>Brian Kemp</span>, refusing to concede while protesting his role as secretary of state in controlling his own election.",
-    "author": "Martin Pengelly",
-    "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says"
+    "id": 5250,
+    "mediaId": 12,
+    "date": "d2022-04-08T12:00",
+    "sentence": "The case has been building for 3 1/2 years since it was filed by Fair Fight Action, a group Democrat Stacey Abrams founded following her loss to Republican <span class='selected-term'>Brian Kemp</span> in the 2018 election for governor.",
+    "author": "Mark Niesse",
+    "title": "Georgia voting rights trial to begin after years of heated elections",
+    "sentiment": "-0.688"
   },
   {
     "id": 5240,
     "mediaId": 188,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "Stacey Abrams infamously ran for governor in Georgia in 2018 and lost to the states incumbent Republican governor <span class='selected-term'>Brian Kemp</span>.",
     "author": "Samuel Mangold-Lenett",
-    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022"
+    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022",
+    "sentiment": "-0.788"
+  },
+  {
+    "id": 5238,
+    "mediaId": 558,
+    "date": "d2022-04-09T05:13",
+    "sentence": "A former state representative and a successful author, she ran for governor in 2018 and lost narrowly to <span class='selected-term'>Brian Kemp</span>, refusing to concede while protesting his role as secretary of state in controlling his own election.",
+    "author": "Martin Pengelly",
+    "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5236,
+    "mediaId": 21,
+    "date": "d2022-04-09T06:00",
+    "sentence": "",
+    "author": "Hannah Getahun",
+    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
+    "sentiment": "0"
+  },
+  {
+    "id": 5234,
+    "mediaId": 65,
+    "date": "d2022-04-09T09:52",
+    "sentence": "",
+    "author": "",
+    "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5235,
+    "mediaId": 65,
+    "date": "d2022-04-09T09:52",
+    "sentence": "",
+    "author": "",
+    "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'",
+    "sentiment": "-0.692"
   },
   {
     "id": 5226,
     "mediaId": 558,
-    "date": "4/10/2022 12:00:00 AM",
+    "date": "d2022-04-10T00:00",
     "sentence": "Abrams, a Democrat, is now turning her sights to the 2022 governor's race after losing the same race in 2018 to Republican <span class='selected-term'>Brian Kemp</span>.",
     "author": "Sam DiSalvo",
-    "title": "How Rich Are Biden, Trump and These Other Potential 2024 Presidential Candidates?"
+    "title": "How Rich Are Biden, Trump and These Other Potential 2024 Presidential Candidates?",
+    "sentiment": "0.0"
   },
   {
     "id": 2126,
     "mediaId": 12,
-    "date": "4/11/2022 12:00:00 AM",
+    "date": "d2022-04-11T12:00",
     "sentence": "It's up to <span class='selected-term'>Brian Kemp</span> and David Perdue to explain to Republican women and to all Georgians why they are excluding Kandiss Taylor from participating in multiple Republican primary debates,? Groh-Wargo said.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Brian Kemp tangles with grassroots hecklers yelling Liar!'"
+    "title": "The Jolt: Brian Kemp tangles with grassroots hecklers yelling Liar!'",
+    "sentiment": "-0.721"
   },
   {
     "id": 2119,
     "mediaId": 25,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> on Tuesday signed a law allowing residents to carry handguns in public without a license or background check.",
     "author": "Adam Brewster",
-    "title": "Georgia Governor Brian Kemp signs bill allowing guns to be carried without license"
+    "title": "Georgia Governor Brian Kemp signs bill allowing guns to be carried without license",
+    "sentiment": "0.225"
   },
   {
     "id": 5200,
     "mediaId": 157,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "",
     "author": "Travis Gettys",
-    "title": "GOP's Brian Kemp loses patience with Trump-loving hecklers over 2020 election: 'I'm the governor -- not a dictator!'"
+    "title": "GOP's Brian Kemp loses patience with Trump-loving hecklers over 2020 election: 'I'm the governor -- not a dictator!'",
+    "sentiment": "-0.936"
   },
   {
     "id": 6501,
     "mediaId": 43,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "",
     "author": "",
-    "title": "Daily Kos Elections Live Digest: 4/12"
+    "title": "Daily Kos Elections Live Digest: 4/12",
+    "sentiment": "-0.448"
   },
   {
     "id": 198,
     "mediaId": 19,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:00",
     "sentence": "",
     "author": "Ashley Oliver",
-    "title": "Trump's First Major Midterm Donation Aims to Unseat Brian Kemp in Georgia"
+    "title": "Trump's First Major Midterm Donation Aims to Unseat Brian Kemp in Georgia",
+    "sentiment": "-0.744"
   },
   {
     "id": 2109,
     "mediaId": 19,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:00",
     "sentence": "",
     "author": "Ashley Oliver",
-    "title": "Georgia Poll: Brian Kemp Has Wide Lead over David Perdue in Governor's Primary"
+    "title": "Georgia Poll: Brian Kemp Has Wide Lead over David Perdue in Governor's Primary",
+    "sentiment": "0.376"
   },
   {
     "id": 2091,
     "mediaId": 43,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "",
     "author": "",
-    "title": "Trump's going all in to trash frontrunner Brian Kemp in Georgia's GOP gubernatorial primary"
+    "title": "Trump's going all in to trash frontrunner Brian Kemp in Georgia's GOP gubernatorial primary",
+    "sentiment": "-0.855"
   },
   {
     "id": 5153,
     "mediaId": 1576,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "So weve got  years of people calling into question elections any time theyre close.?\nMore than a week after voting ended in Georgia in 2018, Abrams gave a carefully worded speech in which she accused her opponent, then-Secretary of State <span class='selected-term'>Brian Kemp</span>, of voter suppression, while also acknowledging he would be certified the victor of the election.",
     "author": "",
-    "title": "After 2020, a candidate conceding an election is no longer a sure thing"
+    "title": "After 2020, a candidate conceding an election is no longer a sure thing",
+    "sentiment": "-0.558"
   },
   {
     "id": 5157,
     "mediaId": 43,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "",
     "author": "Rebekah Sager",
-    "title": "Georgia governor signs bill protecting farms from suits filed by neighbors, environmental groups"
+    "title": "Georgia governor signs bill protecting farms from suits filed by neighbors, environmental groups",
+    "sentiment": "0"
   },
   {
     "id": 5050,
     "mediaId": 157,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "NEW!\\n\\nPresident Donald J. Trump:\\n\\n\\u201cThe Governor of Georgia, <span class='selected-term'>Brian Kemp</span>, and Secretary of State, Brad Raffensperger, perhaps in collusion with the Radical Left Democrats, have allowed a horrible thing to happen to a very popular Republican, Congresswoman Marjorie Taylor Greene...pic.twitter.com/IJsGPSoIPK\n Liz Harrington (@Liz Harrington) 1650564245\nWatch below:",
     "author": "Brad Reed",
-    "title": "'She is going through hell!' Trump rages against Brian Kemp for purportedly conspiring against Marjorie Taylor Greene"
-  },
-  {
-    "id": 5014,
-    "mediaId": 21,
-    "date": "4/22/2022 12:00:00 AM",
-    "sentence": "\"The Governor of Georgia, <span class='selected-term'>Brian Kemp</span>, and Secretary of State, Brad Raffensperger, perhaps in collusion with the Radical Left Democrats, have allowed a horrible thing to happen to a very popular Republican, Congresswoman Marjorie Taylor Greene,\" Trump wrote.",
-    "author": "Cheryl Teh",
-    "title": "Trump has accused Georgia's GOP leaders of colluding with 'radical left Democrats' to unseat Marjorie Taylor Greene"
+    "title": "'She is going through hell!' Trump rages against Brian Kemp for purportedly conspiring against Marjorie Taylor Greene",
+    "sentiment": "-0.814"
   },
   {
     "id": 5018,
     "mediaId": 157,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "",
     "author": "Stephen Fowler",
-    "title": "A mental health bill in Georgia shows how conspiracy theories are affecting politics"
+    "title": "A mental health bill in Georgia shows how conspiracy theories are affecting politics",
+    "sentiment": "0"
+  },
+  {
+    "id": 5014,
+    "mediaId": 21,
+    "date": "d2022-04-22T08:00",
+    "sentence": "\"The Governor of Georgia, <span class='selected-term'>Brian Kemp</span>, and Secretary of State, Brad Raffensperger, perhaps in collusion with the Radical Left Democrats, have allowed a horrible thing to happen to a very popular Republican, Congresswoman Marjorie Taylor Greene,\" Trump wrote.",
+    "author": "Cheryl Teh",
+    "title": "Trump has accused Georgia's GOP leaders of colluding with 'radical left Democrats' to unseat Marjorie Taylor Greene",
+    "sentiment": "-0.822"
   },
   {
     "id": 1975,
     "mediaId": 157,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T00:00",
     "sentence": "",
     "author": "Bob Brigham",
-    "title": "Trump is facing humiliation as his effort to dethrone Brian Kemp 'fizzles out in embarrassment': report"
-  },
-  {
-    "id": 1921,
-    "mediaId": 136,
-    "date": "4/26/2022 12:00:00 AM",
-    "sentence": "\"Initially David Perdue opened a fairly strong favorite but the market may have placed an over emphasis on Trump's endorsement at first, in turn underestimating the chances of <span class='selected-term'>Brian Kemp</span>,\" Ladbrokes spokesperson Alex Apati told Newsweek.",
-    "author": "Khaleda Rahman",
-    "title": "David Perdue's Chances of Beating Brian Kemp in Georgia Primary"
+    "title": "Trump is facing humiliation as his effort to dethrone Brian Kemp 'fizzles out in embarrassment': report",
+    "sentiment": "-0.978"
   },
   {
     "id": 4946,
     "mediaId": 19,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T00:00",
     "sentence": "In a Monday statement, Trump said the debate was a BIG win for David Perdue, who exposed <span class='selected-term'>Brian Kemp</span> as the RINO that we all know him to be.?\nTrump identified Perdue as the only Republican who can defeat Stacey The Hoax Abrams,? and said:\nIt also showed how important it is for the MAGA voters to go and support David Perdue in the Election.",
     "author": "Hannah Bleau",
-    "title": "Donald Trump: Georgia Debate a BIG Win for Perdue, Exposed Brian Kemp as RINO"
+    "title": "Donald Trump: Georgia Debate a BIG Win for Perdue, Exposed Brian Kemp as RINO",
+    "sentiment": "-0.694"
   },
   {
-    "id": 1879,
-    "mediaId": 237,
-    "date": "4/28/2022 12:00:00 AM",
-    "sentence": "\"After months and months of <span class='selected-term'>Brian Kemp</span> having exclusive ability to raise unlimited funds as a result of the bill he signed, Kemp will no longer be able to raise these funds while Stacey Abrams and [her leadership committee] One Georgia are denied equal ability to operate under the same rules.",
-    "author": "Cami Mondeaux",
-    "title": "Brian Kemp's campaign fundraising suspended until after GOP primary, judge rules"
+    "id": 1921,
+    "mediaId": 136,
+    "date": "d2022-04-26T12:11",
+    "sentence": "\"Initially David Perdue opened a fairly strong favorite but the market may have placed an over emphasis on Trump's endorsement at first, in turn underestimating the chances of <span class='selected-term'>Brian Kemp</span>,\" Ladbrokes spokesperson Alex Apati told Newsweek.",
+    "author": "Khaleda Rahman",
+    "title": "David Perdue's Chances of Beating Brian Kemp in Georgia Primary",
+    "sentiment": "0.184"
   },
   {
     "id": 4896,
     "mediaId": 157,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T00:00",
     "sentence": "Trump ally Steve Bannon hit the panic button this week after seeing a poll that shows Trump-backed Georgia gubernatorial candidate David Perdue losing badly to incumbent <span class='selected-term'>Brian Kemp</span>.",
     "author": "Brad Reed",
-    "title": "Steve Bannon panics as Trump's attempt to beat Brian Kemp flops: 'Why is Perdue 27 points down?!'"
+    "title": "Steve Bannon panics as Trump's attempt to beat Brian Kemp flops: 'Why is Perdue 27 points down?!'",
+    "sentiment": "-0.894"
   },
   {
-    "id": 1852,
-    "mediaId": 409,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "Sparks flew between former senator David Perdue and Georgia governor <span class='selected-term'>Brian Kemp</span> at the GOP gubernatorial primary debate Thursday night.",
-    "author": "Caroline Downey",
-    "title": "Sparks Fly at Heated Georgia Debate Between Brian Kemp, David Perdue"
+    "id": 1879,
+    "mediaId": 237,
+    "date": "d2022-04-28T16:06",
+    "sentence": "\"After months and months of <span class='selected-term'>Brian Kemp</span> having exclusive ability to raise unlimited funds as a result of the bill he signed, Kemp will no longer be able to raise these funds while Stacey Abrams and [her leadership committee] One Georgia are denied equal ability to operate under the same rules.",
+    "author": "Cami Mondeaux",
+    "title": "Brian Kemp's campaign fundraising suspended until after GOP primary, judge rules",
+    "sentiment": "-0.624"
   },
   {
     "id": 4839,
     "mediaId": 19,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "",
     "author": "Pam Key",
-    "title": "Stacey Abrams: Kemp Has Perfected Cruelty Towards Fragile Transgender Kids"
+    "title": "Stacey Abrams: Kemp Has Perfected Cruelty Towards Fragile Transgender Kids",
+    "sentiment": "-0.441"
+  },
+  {
+    "id": 1852,
+    "mediaId": 409,
+    "date": "d2022-04-29T13:51",
+    "sentence": "Sparks flew between former senator David Perdue and Georgia governor <span class='selected-term'>Brian Kemp</span> at the GOP gubernatorial primary debate Thursday night.",
+    "author": "Caroline Downey",
+    "title": "Sparks Fly at Heated Georgia Debate Between Brian Kemp, David Perdue",
+    "sentiment": "-0.406"
   },
   {
     "id": 1832,
     "mediaId": 1576,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "Georgia's Brian Kemp raises $2.7M for reelection bid"
-  },
-  {
-    "id": 4779,
-    "mediaId": 223,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "Lindenbaum's name appears as the third signature on the original complaint in the lawsuit alleging voter suppression in the race that saw then-Republican Secretary of State <span class='selected-term'>Brian Kemp</span> defeat Abrams by 55,000 votes statewide in the governor's race.",
-    "author": "Guy Benson",
-    "title": "Surprise: Biden Nominates Conspiratorial Election Truther to Oversee US Elections"
+    "title": "Georgia's Brian Kemp raises $2.7M for reelection bid",
+    "sentiment": "-0.452"
   },
   {
     "id": 4797,
     "mediaId": 157,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "And if theyre not voting for <span class='selected-term'>Brian Kemp</span>, theyre not going to be able to vote for Herschel Walker.?\nPer Bluestein, Kemp is fighting back, saying in a new statement, \"Governor Kemp is laser-focused on uniting Republicans on May 24th to make sure Stacey Abrams is never our governor or the next president.\"",
     "author": "Matthew Chapman",
-    "title": "Trump tells Perdue tele-rally that Republicans will bomb in Georgia if Brian Kemp is re-nominated"
+    "title": "Trump tells Perdue tele-rally that Republicans will bomb in Georgia if Brian Kemp is re-nominated",
+    "sentiment": "-0.883"
+  },
+  {
+    "id": 4779,
+    "mediaId": 223,
+    "date": "d2022-05-02T13:30",
+    "sentence": "Lindenbaum's name appears as the third signature on the original complaint in the lawsuit alleging voter suppression in the race that saw then-Republican Secretary of State <span class='selected-term'>Brian Kemp</span> defeat Abrams by 55,000 votes statewide in the governor's race.",
+    "author": "Guy Benson",
+    "title": "Surprise: Biden Nominates Conspiratorial Election Truther to Oversee US Elections",
+    "sentiment": "-0.866"
   },
   {
     "id": 4724,
     "mediaId": 33,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Daniel Dale",
-    "title": "Fact check: Jody Hice, running to oversee Georgia elections, makes yet more false 2020 claims"
+    "title": "Fact check: Jody Hice, running to oversee Georgia elections, makes yet more false 2020 claims",
+    "sentiment": "0"
   },
   {
     "id": 4673,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "Time for Democratic leaders in Washington to take their cues from the states on abortion"
+    "title": "Time for Democratic leaders in Washington to take their cues from the states on abortion",
+    "sentiment": "0"
   },
   {
     "id": 4676,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Ashley Oliver",
-    "title": "Georgia Democrat Stacey Abrams Sponsored Legislation Related to Her Private Business Interests"
+    "title": "Georgia Democrat Stacey Abrams Sponsored Legislation Related to Her Private Business Interests",
+    "sentiment": "0.0"
   },
   {
     "id": 1728,
     "mediaId": 19,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "And if they're not voting for <span class='selected-term'>Brian Kemp</span>, they're not going to be able to vote for Herschel Walker.?\nThe ARW poll also tested Walker in his primary race and found him leading his closest opponent by nearly 50 points, an outsize lead that Walker has held throughout the primary.",
     "author": "Ashley Oliver",
-    "title": "Georgia Poll: Brian Kemp Holds 38-Point Lead over David Perdue"
+    "title": "Georgia Poll: Brian Kemp Holds 38-Point Lead over David Perdue",
+    "sentiment": "0.177"
   },
   {
     "id": 4591,
     "mediaId": 65,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T18:48",
     "sentence": "\"Reminder: <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams,\" Jean-Pierre tweeted on April 2, 2020, reacting to a news story about Kemp saying he only just learned that asymptomatic people can spread COVID-19.",
     "author": "Jessica Chasmar",
-    "title": "Biden's new WH press secretary claimed Trump, GA Gov. Kemp 'stole' elections"
-  },
-  {
-    "id": 4575,
-    "mediaId": 223,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Matt Vespa",
-    "title": "What a Woman Found Walking Her Dog Should Spark More Questions About Election Integrity"
+    "title": "Biden's new WH press secretary claimed Trump, GA Gov. Kemp 'stole' elections",
+    "sentiment": "-0.888"
   },
   {
     "id": 4580,
     "mediaId": 223,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T09:15",
     "sentence": "\"Fox News was racist before #coronavirus, they are racist during coronavirus, and Fox News will be racist after the coronavirus\" @JoyAnnReid #AMJoy #MSNBC #SundayMorning pic.twitter.com/0oOQWqkSE8\n Karine Jean-Pierre (@K_JeanPierre) March 15, 2020\nStolen emails, stolen drone, stolen election .....welcome to the world of #unpresidented Trump https://t.co/NI7vqPV6cu\n Karine Jean-Pierre (@K_JeanPierre) December 18, 2016\nReminder: <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.https://t.co/ZIKGTd6U1v\n Karine Jean-Pierre (@K_JeanPierre) April 2, 2020\nAs Guy stated, all this coming from the administration that promised to unite the country.",
     "author": "Leah Barkoukis",
-    "title": "Biden's New Press Secretary Had Some Interesting Things to Say About Fox News"
+    "title": "Biden's New Press Secretary Had Some Interesting Things to Say About Fox News",
+    "sentiment": "-0.895"
   },
   {
-    "id": 4555,
+    "id": 4575,
     "mediaId": 223,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "And if Psaki views undermining our institutions and the public's faith in our system as part of her job, it may be a seamless transition to her successor:\nReminder: <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.https://t.co/ZIKGTd6U1v\n Karine Jean-Pierre (@K_JeanPierre) April 2, 2020\nTo be fair to Ms. Jean-Pierre, she is hardly alone in embracing this conspiracy theory for political reasons.",
-    "author": "Guy Benson",
-    "title": "Will Biden's Ministry of Truth Investigate His New Press Secretary?"
+    "date": "d2022-05-10T15:45",
+    "sentence": "",
+    "author": "Matt Vespa",
+    "title": "What a Woman Found Walking Her Dog Should Spark More Questions About Election Integrity",
+    "sentiment": "0"
   },
   {
     "id": 4563,
     "mediaId": 65,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T04:38",
     "sentence": "Back on April 2nd, 2020, she tweeted \"Reminder <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.\"",
     "author": "Greg Gutfeld",
-    "title": "Greg Gutfeld: Karine Jean-Pierre's tweets matter"
+    "title": "Greg Gutfeld: Karine Jean-Pierre's tweets matter",
+    "sentiment": "0"
   },
   {
-    "id": 3312,
-    "mediaId": 305,
-    "date": "5/13/2022 12:00:00 AM",
-    "sentence": "Georgia has a been a traditionally red state, but the wins by Warnock, Sen. John Ossoff, and the potential for Stacey Abrams to beat Republican governor <span class='selected-term'>Brian Kemp</span> could show Democrats have been making progress.",
-    "author": "Murjani Rawls",
-    "title": "Potential Warnock vs. Walker Georgia Senate Battle Shows It Could Be A Close Race"
+    "id": 4555,
+    "mediaId": 223,
+    "date": "d2022-05-11T13:01",
+    "sentence": "And if Psaki views undermining our institutions and the public's faith in our system as part of her job, it may be a seamless transition to her successor:\nReminder: <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.https://t.co/ZIKGTd6U1v\n Karine Jean-Pierre (@K_JeanPierre) April 2, 2020\nTo be fair to Ms. Jean-Pierre, she is hardly alone in embracing this conspiracy theory for political reasons.",
+    "author": "Guy Benson",
+    "title": "Will Biden's Ministry of Truth Investigate His New Press Secretary?",
+    "sentiment": "0"
   },
   {
     "id": 3317,
     "mediaId": 25,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "Former Vice President Mike Pence is headlining a primary election-eve campaign event next week for Governor <span class='selected-term'>Brian Kemp</span>, who is facing a Trump-backed primary challenger in former Senator David Perdue.",
     "author": "",
-    "title": "Pence campaigning for Brian Kemp as he faces Trump-backed challenger in Georgia"
-  },
-  {
-    "id": 4511,
-    "mediaId": 675,
-    "date": "5/13/2022 12:00:00 AM",
-    "sentence": "Democratic activist Stacey Abrams, known for her get-out-the-vote activism, is running again for governor of Georgia after narrowly losing to the current governor, <span class='selected-term'>Brian Kemp</span>, in 2018.",
-    "author": "Art Moore",
-    "title": "'2000 Mules' investigator: Georgia officials intimidating my witnesses"
+    "title": "Pence campaigning for Brian Kemp as he faces Trump-backed challenger in Georgia",
+    "sentiment": "0"
   },
   {
     "id": 4525,
     "mediaId": 558,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T07:12",
     "sentence": "But he won.?\nThen in 2020: Reminder: <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.?\nReminder: Brian Kemp stole the gubernatorial election from Georgians and Stacey Abrams.https://t.co/ZIKGTd6U1v\nOn that tweet, Psaki said: We all agree the 2018 election in Georgia is settled.",
     "author": "Josh Dickey",
-    "title": "Jen Psaki Defends Successors Stolen Election Tweets Before Her Last Day as White House Press Secretary"
+    "title": "Jen Psaki Defends Successors Stolen Election Tweets Before Her Last Day as White House Press Secretary",
+    "sentiment": "-0.441"
+  },
+  {
+    "id": 3312,
+    "mediaId": 305,
+    "date": "d2022-05-13T08:41",
+    "sentence": "Georgia has a been a traditionally red state, but the wins by Warnock, Sen. John Ossoff, and the potential for Stacey Abrams to beat Republican governor <span class='selected-term'>Brian Kemp</span> could show Democrats have been making progress.",
+    "author": "Murjani Rawls",
+    "title": "Potential Warnock vs. Walker Georgia Senate Battle Shows It Could Be A Close Race",
+    "sentiment": "0"
+  },
+  {
+    "id": 4511,
+    "mediaId": 675,
+    "date": "d2022-05-13T19:36",
+    "sentence": "Democratic activist Stacey Abrams, known for her get-out-the-vote activism, is running again for governor of Georgia after narrowly losing to the current governor, <span class='selected-term'>Brian Kemp</span>, in 2018.",
+    "author": "Art Moore",
+    "title": "'2000 Mules' investigator: Georgia officials intimidating my witnesses",
+    "sentiment": "-0.764"
   },
   {
     "id": 3402,
     "mediaId": 409,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T10:51",
     "sentence": "It creates opportunities for rivals: Mike Pence is campaigning next week for <span class='selected-term'>Brian Kemp</span> in Georgia, opposing the Trump-backed candidacy of David Perdue.",
     "author": "Dan McLaughlin",
-    "title": "The Ron DeSantis Dog That Hasnt Barked Yet"
+    "title": "The Ron DeSantis Dog That Hasnt Barked Yet",
+    "sentiment": "0"
   },
   {
     "id": 3366,
     "mediaId": 136,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T14:57",
     "sentence": "Former President George W. Bush is reported to be attending a fundraiser in support of Georgia governor <span class='selected-term'>Brian Kemp</span> in another example of recent and longtime enemies of Donald Trump publicly rallying against the MAGA president's endorsed candidate, David Perdue.",
     "author": "Ewan Palmer",
-    "title": "Donald Trump's Enemies Flock to Brian Kemp in Bid to Thwart MAGA Surge"
+    "title": "Donald Trump's Enemies Flock to Brian Kemp in Bid to Thwart MAGA Surge",
+    "sentiment": "-0.259"
   },
   {
     "id": 4471,
     "mediaId": 65,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T21:35",
     "sentence": "",
     "author": "Michael Lee",
-    "title": "Georgia early voting shatters records despite election reforms Dems labeled 'voter suppression'"
-  },
-  {
-    "id": 4459,
-    "mediaId": 409,
-    "date": "5/19/2022 12:00:00 AM",
-    "sentence": "The fact that this years GOP Senate primary features Herschel Walker, arguably the greatest college football player of all time who won a national championship with the University of Georgia, probably helps stir public interest in the race, as well as President Trumps furious denunciations of incumbent GOP governor <span class='selected-term'>Brian Kemp</span>, although Kemp is leading the polls by a wide margin.",
-    "author": "Jim Geraghty",
-    "title": "Much Higher Minority Early Voting in Georgias Upcoming Primaries"
-  },
-  {
-    "id": 4460,
-    "mediaId": 223,
-    "date": "5/19/2022 12:00:00 AM",
-    "sentence": "Despite the loud and hyperbole-filled opposition, the law was passed and Republican Governor <span class='selected-term'>Brian Kemp</span> signed the measure into law while noting criticism of the legislation was disingenuous and completely false.? Kemp was right.",
-    "author": "Spencer Brown",
-    "title": "Georgia Sets Early Voting Record and Debunks 'Jim Crow 2.0' Fear-Mongering"
-  },
-  {
-    "id": 6583,
-    "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Brad Bannon",
-    "title": "Party primaries test power of Trumps backing and progressive platform"
+    "title": "Georgia early voting shatters records despite election reforms Dems labeled 'voter suppression'",
+    "sentiment": "0.0"
   },
   {
     "id": 6608,
     "mediaId": 234,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "Trump has been desperately trying to lift David Perdue, his preferred candidate in Georgias governor race, over incumbent <span class='selected-term'>Brian Kemp</span>a right-wing governor who provoked his ire by not doing more to overturn Joe Bidens 2020 election win.",
     "author": "Eric Lutz",
-    "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out"
+    "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
+    "sentiment": "-0.577"
   },
   {
-    "id": 7082,
+    "id": 4460,
+    "mediaId": 223,
+    "date": "d2022-05-19T10:40",
+    "sentence": "Despite the loud and hyperbole-filled opposition, the law was passed and Republican Governor <span class='selected-term'>Brian Kemp</span> signed the measure into law while noting criticism of the legislation was disingenuous and completely false.? Kemp was right.",
+    "author": "Spencer Brown",
+    "title": "Georgia Sets Early Voting Record and Debunks 'Jim Crow 2.0' Fear-Mongering",
+    "sentiment": "0"
+  },
+  {
+    "id": 4459,
+    "mediaId": 409,
+    "date": "d2022-05-19T11:45",
+    "sentence": "The fact that this years GOP Senate primary features Herschel Walker, arguably the greatest college football player of all time who won a national championship with the University of Georgia, probably helps stir public interest in the race, as well as President Trumps furious denunciations of incumbent GOP governor <span class='selected-term'>Brian Kemp</span>, although Kemp is leading the polls by a wide margin.",
+    "author": "Jim Geraghty",
+    "title": "Much Higher Minority Early Voting in Georgias Upcoming Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 6583,
     "mediaId": 195,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-19T21:30",
     "sentence": "",
-    "author": "Lexi Lonas",
-    "title": "Palin to stump for Perdue in Georgia"
-  },
-  {
-    "id": 7087,
-    "mediaId": 65,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Paul Steinhauser",
-    "title": "Why Trump's full court press in Georgia hasn't helped Perdue's bid to oust Kemp"
+    "author": "Brad Bannon",
+    "title": "Party primaries test power of Trumps backing and progressive platform",
+    "sentiment": "-0.435"
   },
   {
     "id": 7093,
     "mediaId": 409,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T06:30",
     "sentence": "They should renominate <span class='selected-term'>Brian Kemp</span> for a second term as governor.",
     "author": "The Editors",
-    "title": "Yes on Kemp, No on Greene"
+    "title": "Yes on Kemp, No on Greene",
+    "sentiment": "-0.635"
   },
   {
-    "id": 7065,
-    "mediaId": 151,
-    "date": "5/21/2022 12:00:00 AM",
+    "id": 7087,
+    "mediaId": 65,
+    "date": "d2022-05-20T11:07",
     "sentence": "",
-    "author": "",
-    "title": "Georgia's Latino population keeps growing. Why are there so few in office?"
+    "author": "Paul Steinhauser",
+    "title": "Why Trump's full court press in Georgia hasn't helped Perdue's bid to oust Kemp",
+    "sentiment": "-0.559"
   },
   {
-    "id": 7067,
-    "mediaId": 238,
-    "date": "5/21/2022 12:00:00 AM",
+    "id": 7082,
+    "mediaId": 195,
+    "date": "d2022-05-20T16:12",
     "sentence": "",
-    "author": "Matthew Brown",
-    "title": "Voting is surging in Georgia despite controversial new election law"
-  },
-  {
-    "id": 7069,
-    "mediaId": 151,
-    "date": "5/21/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Trump's revenge tour is put to the test in Georgia, Alabama"
+    "author": "Lexi Lonas",
+    "title": "Palin to stump for Perdue in Georgia",
+    "sentiment": "0"
   },
   {
     "id": 7072,
     "mediaId": 129,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T00:00",
     "sentence": "I am with David all the way because <span class='selected-term'>Brian Kemp</span> was the WORST governor in the Country on Election Integrity!? Mr. Trump insisted Friday on his Truth Social messaging platform.",
     "author": "",
-    "title": "Perdue Had Trump. In Georgia, Kemp Had Everything Else."
+    "title": "Perdue Had Trump. In Georgia, Kemp Had Everything Else.",
+    "sentiment": "0"
   },
   {
-    "id": 7190,
-    "mediaId": 21,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "It took everyone getting behind <span class='selected-term'>Brian Kemp</span>  even people that did not support him in the runoff,\" she said of the concentrated effort it took to shore up the 50,000 votes that kept the state from flipping blue.",
-    "author": "Warren Rojas",
-    "title": "David Perdue's closing argument to Georgians ahead of Tuesday's GOP primary: A vote for Brian Kemp is a vote for Stacey Abrams"
+    "id": 7069,
+    "mediaId": 151,
+    "date": "d2022-05-21T01:33",
+    "sentence": "",
+    "author": "",
+    "title": "Trump's revenge tour is put to the test in Georgia, Alabama",
+    "sentiment": "0"
+  },
+  {
+    "id": 7067,
+    "mediaId": 238,
+    "date": "d2022-05-21T10:00",
+    "sentence": "",
+    "author": "Matthew Brown",
+    "title": "Voting is surging in Georgia despite controversial new election law",
+    "sentiment": "0"
+  },
+  {
+    "id": 7065,
+    "mediaId": 151,
+    "date": "d2022-05-21T11:01",
+    "sentence": "",
+    "author": "",
+    "title": "Georgia's Latino population keeps growing. Why are there so few in office?",
+    "sentiment": "0"
   },
   {
     "id": 7228,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality"
-  },
-  {
-    "id": 7238,
-    "mediaId": 195,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Max Greenwood",
-    "title": "Democrats look to defy political headwinds in Georgia"
-  },
-  {
-    "id": 7240,
-    "mediaId": 65,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "\"<span class='selected-term'>Brian Kemp</span> just doesn't care.\"",
-    "author": "Jessica Chasmar",
-    "title": "Stacey Abrams says Georgia the worst state in the country to live, despite owning multiple houses there"
-  },
-  {
-    "id": 7245,
-    "mediaId": 21,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "John L. Dorman",
-    "title": "Early voting turnout in Georgia soars in wake of restrictive election law"
-  },
-  {
-    "id": 7248,
-    "mediaId": 195,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "Not only is he petulant dotard but also a deplorable illegitimate president,? was her sentiment in 2017.\nReminder: <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams,? she said of Abramss gubernatorial loss to Republican Brian Kemp.",
-    "author": "Joe Concha",
-    "title": "Amateur hour at the White House briefing room"
+    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality",
+    "sentiment": "0.0"
   },
   {
     "id": 7260,
     "mediaId": 1576,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "Georgia voters showed us these 3 things about the fall election"
+    "title": "Georgia voters showed us these 3 things about the fall election",
+    "sentiment": "-0.795"
   },
   {
     "id": 7264,
     "mediaId": 157,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "David Edwards",
-    "title": "Georgia Republican: Trump's endorsement 'used to look like a freight train but now is just a Matchbox car'"
+    "title": "Georgia Republican: Trump's endorsement 'used to look like a freight train but now is just a Matchbox car'",
+    "sentiment": "-0.869"
   },
   {
-    "id": 7288,
-    "mediaId": 136,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "The former president has also leveled some of his harshest personal attacks on the state's two Republican officials  Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger  who blocked his attempt to claim a victory over President Joe Biden in the state.",
-    "author": "Daniel Bush",
-    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents"
-  },
-  {
-    "id": 7289,
-    "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "Under the once-in-a-decade redistricting process, Georgia's Republican governor, <span class='selected-term'>Brian Kemp</span>, signed into law a new map that transformed Ms. McBath's district to favor Republicans overwhelmingly.",
-    "author": "",
-    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else."
-  },
-  {
-    "id": 7483,
-    "mediaId": 147,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jeff Amy",
-    "title": "2022 Georgia Primary Election Results"
-  },
-  {
-    "id": 7484,
+    "id": 7248,
     "mediaId": 195,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Rachel Scully",
-    "title": "What time do polls close in Georgia, Texas?"
+    "date": "d2022-05-22T12:00",
+    "sentence": "Not only is he petulant dotard but also a deplorable illegitimate president,? was her sentiment in 2017.\nReminder: <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams,? she said of Abramss gubernatorial loss to Republican Brian Kemp.",
+    "author": "Joe Concha",
+    "title": "Amateur hour at the White House briefing room",
+    "sentiment": "-0.806"
   },
   {
-    "id": 7488,
-    "mediaId": 151,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "And weve got questions were eager to see answered:\nWhats next for <span class='selected-term'>Brian Kemp</span>?",
-    "author": "",
-    "title": "7 big 2022 midterm questions to answer this week"
+    "id": 7245,
+    "mediaId": 21,
+    "date": "d2022-05-22T15:00",
+    "sentence": "",
+    "author": "John L. Dorman",
+    "title": "Early voting turnout in Georgia soars in wake of restrictive election law",
+    "sentiment": "-0.523"
+  },
+  {
+    "id": 7240,
+    "mediaId": 65,
+    "date": "d2022-05-22T20:38",
+    "sentence": "\"<span class='selected-term'>Brian Kemp</span> just doesn't care.\"",
+    "author": "Jessica Chasmar",
+    "title": "Stacey Abrams says Georgia the worst state in the country to live, despite owning multiple houses there",
+    "sentiment": "-0.601"
+  },
+  {
+    "id": 7190,
+    "mediaId": 21,
+    "date": "d2022-05-22T21:00",
+    "sentence": "It took everyone getting behind <span class='selected-term'>Brian Kemp</span>  even people that did not support him in the runoff,\" she said of the concentrated effort it took to shore up the 50,000 votes that kept the state from flipping blue.",
+    "author": "Warren Rojas",
+    "title": "David Perdue's closing argument to Georgians ahead of Tuesday's GOP primary: A vote for Brian Kemp is a vote for Stacey Abrams",
+    "sentiment": "-0.805"
+  },
+  {
+    "id": 7238,
+    "mediaId": 195,
+    "date": "d2022-05-22T21:52",
+    "sentence": "",
+    "author": "Max Greenwood",
+    "title": "Democrats look to defy political headwinds in Georgia",
+    "sentiment": "-0.724"
   },
   {
     "id": 7502,
     "mediaId": 19,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "I am with David all the way because <span class='selected-term'>Brian Kemp</span> was the WORST Governor in the Country on Election Integrity!",
     "author": "Ashley Oliver",
-    "title": "Primary Races Foreshadow Blockbuster November in Georgia"
+    "title": "Primary Races Foreshadow Blockbuster November in Georgia",
+    "sentiment": "-0.607"
   },
   {
-    "id": 7295,
-    "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Im here because <span class='selected-term'>Brian Kemp</span> is the only candidate in tomorrows primary who has already defeated Stacey Abrams, whether she knows it or not, Pence told rally attendees, referring to Abramss refusal to accept the election results of their gubernatorial election four years ago (The Atlanta Journal-Constitution).",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Will GOP primaries offer clues about 2024?"
+    "id": 7289,
+    "mediaId": 129,
+    "date": "d2022-05-23T13:33:24",
+    "sentence": "Under the once-in-a-decade redistricting process, Georgia's Republican governor, <span class='selected-term'>Brian Kemp</span>, signed into law a new map that transformed Ms. McBath's district to favor Republicans overwhelmingly.",
+    "author": "",
+    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else.",
+    "sentiment": "0.0"
   },
   {
-    "id": 7299,
-    "mediaId": 238,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "When you say yes to <span class='selected-term'>Brian Kemp</span> tomorrow youll send a deafening message across America that the Republican Party is the party of the future, Pence said to the crowd.",
-    "author": "Mariana Alfaro",
-    "title": "Trump and Pence take separate sides in Georgias gubernatorial primary"
-  },
-  {
-    "id": 7310,
+    "id": 7288,
     "mediaId": 136,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "\"Folks, that all started right here when <span class='selected-term'>Brian Kemp</span> sold us out and allowed radicals to steal the election,\" the former president said.",
-    "author": "Darragh Roche",
-    "title": "Donald Trump and Joe Biden Will Both Be Big Losers from Georgia Primary"
+    "date": "d2022-05-23T13:35",
+    "sentence": "The former president has also leveled some of his harshest personal attacks on the state's two Republican officials  Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger  who blocked his attempt to claim a victory over President Joe Biden in the state.",
+    "author": "Daniel Bush",
+    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents",
+    "sentiment": "-0.735"
   },
   {
-    "id": 7312,
-    "mediaId": 65,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Abrams, who is running unopposed for the Democratic nomination for governor of the Peach State, lost a close race to Republican <span class='selected-term'>Brian Kemp</span> in 2018.",
-    "author": "Matt Leach",
-    "title": "Georgia voters condemn Stacey Abrams worst state comments, share top priorities ahead of primary election"
-  },
-  {
-    "id": 7313,
-    "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Governors Race: David Perdues impending loss to <span class='selected-term'>Brian Kemp</span> looms as the biggest electoral setback for Donald Trump since his own 2020 defeat.",
-    "author": "",
-    "title": "What to Watch For in Todays Elections in Georgia and Beyond"
-  },
-  {
-    "id": 7314,
-    "mediaId": 65,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "\"<span class='selected-term'>Brian Kemp</span> beat Stacey Abrams four years ago and with your help, Brian Kemp will do it all again in November.\"",
-    "author": "Paul Steinhauser",
-    "title": "Trump and Pence hold dueling rallies for Perdue and Kemp on eve of Georgias bitter GOP gubernatorial primary"
-  },
-  {
-    "id": 7315,
-    "mediaId": 21,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Brandon Bell/Getty Images\nDonald Trump made last-minute plea to Georgians to vote for David Perdue and defeat <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Warren Rojas",
-    "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally"
-  },
-  {
-    "id": 7316,
-    "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Im here because <span class='selected-term'>Brian Kemp</span> frankly is one of the most successful Republican governors in America, Pence said in one of his most public breaks with Trump, who has called Kemp the worst governor in the country for rebuffing his pleas to overturn his 2020 presidential election loss in the state.",
-    "author": "",
-    "title": "Pence: Voting for Kemp sends deafening message that GOP is the future"
-  },
-  {
-    "id": 7318,
-    "mediaId": 233,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Pence and 2024: Mike Pence says he could run for president in 2024 even if Trump also runs\nTuesday contests:Georgia, Alabama, Texas and more: the primary races to watch on Tuesday (and why)\n\"I'm here because <span class='selected-term'>Brian Kemp</span> is the only candidate in tomorrow's primary who has already defeated Stacey Abrams whether she knows it or not,\" said Pence.",
-    "author": "David Jackson",
-    "title": "In Georgia, the Brian Kemp-David Perdue primary has turned into a Donald Trump-Mike Pence feud"
-  },
-  {
-    "id": 7350,
-    "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Here is what else is going on:\nOn Monday, Trump and Mike Pence, his former vice president, held dueling events for their respective candidates in the Republican primary for governor: David Perdue, a former senator and Dollar General executive who entered the race at Trump's insistence, and <span class='selected-term'>Brian Kemp</span>, the incumbent.",
-    "author": "",
-    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond"
-  },
-  {
-    "id": 7412,
-    "mediaId": 233,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Trump declined to discuss the probability that David Perdue will lose the Georgia gubernatorial primary to incumbent Republican <span class='selected-term'>Brian Kemp</span>, preferring to discuss his more successful candidates during an interview Tuesday with Fox Business Network.",
-    "author": "David Jackson",
-    "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates"
-  },
-  {
-    "id": 7414,
-    "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kelsey Carolan",
-    "title": "NotedDC  GOP prepares to take on Stacey Abrams"
-  },
-  {
-    "id": 7419,
-    "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Your Tuesday Evening Briefing"
-  },
-  {
-    "id": 7423,
-    "mediaId": 409,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "While Kemp drew Trumps ire, he earned an endorsement from former vice president Mike Pence, who offered his full support for four more years of <span class='selected-term'>Brian Kemp</span> as governor of the great state of Georgia.",
-    "author": "Brittany Bernstein",
-    "title": "Georgia Governor Kemp Defeats Perdue in GOP Primary, Setting Up Rematch against Stacey Abrams"
-  },
-  {
-    "id": 7425,
-    "mediaId": 558,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "At a rally in Georgia in March, <span class='selected-term'>Brian Kemp</span> is a turncoat, is a coward and is a complete and total disaster.",
-    "author": "Michael Isikoff",
-    "title": "Georgia Gov. Kemp defeats Trump-backed challenger, former Senator Perdue in GOP primary"
-  },
-  {
-    "id": 7435,
-    "mediaId": 65,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "KEMP, PERDUE, MAKE FINAL PITCHES IN GEORGIA'S HEATED GOP GUBERNATORIAL SHOWDOWN\n\"<span class='selected-term'>Brian Kemp</span> is truly an embarrassment to the Republican Party because of what's taken place in your great state, Georgia,\" Trump charged during a tele-rally Monday evening on behalf of Perdue.",
-    "author": "",
-    "title": "Trump looms large over Tuesday primaries in Georgia, Alabama, Arkansas, and runoff in Texas"
-  },
-  {
-    "id": 7436,
-    "mediaId": 441,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "While Republican Governor <span class='selected-term'>Brian Kemp</span> remains popular in Georgia and looks likely to survive a primary challenge, Secretary of State Brad Raffenspergers race is closer.",
-    "author": "Margaret Newkirk",
-    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries"
-  },
-  {
-    "id": 7437,
-    "mediaId": 223,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Down in Georgia, incumbent Governor <span class='selected-term'>Brian Kemp</span>  endorsed by former Vice President Mike Pence  squares off against former Senator David Perdue  endorsed by former President Donald Trump  in a key test of the power held by the previous administration's top two figures.",
-    "author": "Spencer Brown",
-    "title": "Here's What to Expect in the Texas Runoffs and Races in Georgia, Alabama, and Arkansas"
-  },
-  {
-    "id": 7444,
-    "mediaId": 943,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "When <span class='selected-term'>Brian Kemp</span> prevails on Tuesday, he will prove that voters want their leaders to focus on the everyday issues in their lives like high gas prices and rising crime, not indulging the petty grievances of another politician, Hogan told The Associated Press.",
-    "author": "STEVE PEOPLES and JEFF AMY",
-    "title": "What to watch in Tuesdays primaries: Trumps bid to reshape GOP faces biggest hurdles in Georgia"
-  },
-  {
-    "id": 7446,
+    "id": 7488,
     "mediaId": 151,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "",
+    "date": "d2022-05-23T14:00",
+    "sentence": "And weve got questions were eager to see answered:\nWhats next for <span class='selected-term'>Brian Kemp</span>?",
     "author": "",
-    "title": "Trump heads for big rebuke in Tuesdays elections"
+    "title": "7 big 2022 midterm questions to answer this week",
+    "sentiment": "0"
+  },
+  {
+    "id": 7484,
+    "mediaId": 195,
+    "date": "d2022-05-23T18:58",
+    "sentence": "",
+    "author": "Rachel Scully",
+    "title": "What time do polls close in Georgia, Texas?",
+    "sentiment": "0"
+  },
+  {
+    "id": 7483,
+    "mediaId": 147,
+    "date": "d2022-05-23T19:51",
+    "sentence": "",
+    "author": "Jeff Amy",
+    "title": "2022 Georgia Primary Election Results",
+    "sentiment": "0"
   },
   {
     "id": 7461,
     "mediaId": 98,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "",
     "author": "Melanie MasonStaff Writer",
-    "title": "Georgia has its primary today. Heres what to watch"
+    "title": "Georgia has its primary today. Heres what to watch",
+    "sentiment": "-0.26"
   },
   {
     "id": 7463,
     "mediaId": 25,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "\"I am with David all the way because <span class='selected-term'>Brian Kemp</span> was the WORST Governor in the Country on Election Integrity!\"",
     "author": "Adam Brewster, Aaron Navarro",
-    "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue"
+    "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue",
+    "sentiment": "-0.377"
   },
   {
     "id": 7474,
     "mediaId": 1164,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "",
     "author": "Clyde Hughes",
-    "title": "Georgia governor, Senate races highlight primaries in 5 states"
+    "title": "Georgia governor, Senate races highlight primaries in 5 states",
+    "sentiment": "-0.438"
   },
   {
     "id": 7476,
     "mediaId": 188,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "",
     "author": "Alex Nitzberg",
-    "title": "Georgia Gov. Brian Kemp defeats Trump-backed David Perdue in Peach State gubernatorial primary; Kemp will face off against Democrat Stacey Abrams during the general election"
+    "title": "Georgia Gov. Brian Kemp defeats Trump-backed David Perdue in Peach State gubernatorial primary; Kemp will face off against Democrat Stacey Abrams during the general election",
+    "sentiment": "-0.801"
+  },
+  {
+    "id": 7318,
+    "mediaId": 233,
+    "date": "d2022-05-24T00:01",
+    "sentence": "Pence and 2024: Mike Pence says he could run for president in 2024 even if Trump also runs\nTuesday contests:Georgia, Alabama, Texas and more: the primary races to watch on Tuesday (and why)\n\"I'm here because <span class='selected-term'>Brian Kemp</span> is the only candidate in tomorrow's primary who has already defeated Stacey Abrams whether she knows it or not,\" said Pence.",
+    "author": "David Jackson",
+    "title": "In Georgia, the Brian Kemp-David Perdue primary has turned into a Donald Trump-Mike Pence feud",
+    "sentiment": "-0.691"
+  },
+  {
+    "id": 7299,
+    "mediaId": 238,
+    "date": "d2022-05-24T00:04",
+    "sentence": "When you say yes to <span class='selected-term'>Brian Kemp</span> tomorrow youll send a deafening message across America that the Republican Party is the party of the future, Pence said to the crowd.",
+    "author": "Mariana Alfaro",
+    "title": "Trump and Pence take separate sides in Georgias gubernatorial primary",
+    "sentiment": "-0.89"
+  },
+  {
+    "id": 7316,
+    "mediaId": 195,
+    "date": "d2022-05-24T01:11",
+    "sentence": "Im here because <span class='selected-term'>Brian Kemp</span> frankly is one of the most successful Republican governors in America, Pence said in one of his most public breaks with Trump, who has called Kemp the worst governor in the country for rebuffing his pleas to overturn his 2020 presidential election loss in the state.",
+    "author": "",
+    "title": "Pence: Voting for Kemp sends deafening message that GOP is the future",
+    "sentiment": "-0.343"
+  },
+  {
+    "id": 7315,
+    "mediaId": 21,
+    "date": "d2022-05-24T02:00",
+    "sentence": "Brandon Bell/Getty Images\nDonald Trump made last-minute plea to Georgians to vote for David Perdue and defeat <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Warren Rojas",
+    "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7314,
+    "mediaId": 65,
+    "date": "d2022-05-24T03:42",
+    "sentence": "\"<span class='selected-term'>Brian Kemp</span> beat Stacey Abrams four years ago and with your help, Brian Kemp will do it all again in November.\"",
+    "author": "Paul Steinhauser",
+    "title": "Trump and Pence hold dueling rallies for Perdue and Kemp on eve of Georgias bitter GOP gubernatorial primary",
+    "sentiment": "-0.326"
+  },
+  {
+    "id": 7313,
+    "mediaId": 129,
+    "date": "d2022-05-24T04:01",
+    "sentence": "Governors Race: David Perdues impending loss to <span class='selected-term'>Brian Kemp</span> looms as the biggest electoral setback for Donald Trump since his own 2020 defeat.",
+    "author": "",
+    "title": "What to Watch For in Todays Elections in Georgia and Beyond",
+    "sentiment": "-0.793"
+  },
+  {
+    "id": 7312,
+    "mediaId": 65,
+    "date": "d2022-05-24T06:00",
+    "sentence": "Abrams, who is running unopposed for the Democratic nomination for governor of the Peach State, lost a close race to Republican <span class='selected-term'>Brian Kemp</span> in 2018.",
+    "author": "Matt Leach",
+    "title": "Georgia voters condemn Stacey Abrams worst state comments, share top priorities ahead of primary election",
+    "sentiment": "-0.166"
+  },
+  {
+    "id": 7446,
+    "mediaId": 151,
+    "date": "d2022-05-24T08:30",
+    "sentence": "",
+    "author": "",
+    "title": "Trump heads for big rebuke in Tuesdays elections",
+    "sentiment": "-0.916"
+  },
+  {
+    "id": 7444,
+    "mediaId": 943,
+    "date": "d2022-05-24T08:48",
+    "sentence": "When <span class='selected-term'>Brian Kemp</span> prevails on Tuesday, he will prove that voters want their leaders to focus on the everyday issues in their lives like high gas prices and rising crime, not indulging the petty grievances of another politician, Hogan told The Associated Press.",
+    "author": "STEVE PEOPLES and JEFF AMY",
+    "title": "What to watch in Tuesdays primaries: Trumps bid to reshape GOP faces biggest hurdles in Georgia",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7350,
+    "mediaId": 129,
+    "date": "d2022-05-24T08:59:18",
+    "sentence": "Here is what else is going on:\nOn Monday, Trump and Mike Pence, his former vice president, held dueling events for their respective candidates in the Republican primary for governor: David Perdue, a former senator and Dollar General executive who entered the race at Trump's insistence, and <span class='selected-term'>Brian Kemp</span>, the incumbent.",
+    "author": "",
+    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "-0.762"
+  },
+  {
+    "id": 7310,
+    "mediaId": 136,
+    "date": "d2022-05-24T09:20",
+    "sentence": "\"Folks, that all started right here when <span class='selected-term'>Brian Kemp</span> sold us out and allowed radicals to steal the election,\" the former president said.",
+    "author": "Darragh Roche",
+    "title": "Donald Trump and Joe Biden Will Both Be Big Losers from Georgia Primary",
+    "sentiment": "-0.778"
+  },
+  {
+    "id": 7295,
+    "mediaId": 195,
+    "date": "d2022-05-24T10:40",
+    "sentence": "Im here because <span class='selected-term'>Brian Kemp</span> is the only candidate in tomorrows primary who has already defeated Stacey Abrams, whether she knows it or not, Pence told rally attendees, referring to Abramss refusal to accept the election results of their gubernatorial election four years ago (The Atlanta Journal-Constitution).",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Will GOP primaries offer clues about 2024?",
+    "sentiment": "-0.264"
+  },
+  {
+    "id": 7437,
+    "mediaId": 223,
+    "date": "d2022-05-24T10:45",
+    "sentence": "Down in Georgia, incumbent Governor <span class='selected-term'>Brian Kemp</span>  endorsed by former Vice President Mike Pence  squares off against former Senator David Perdue  endorsed by former President Donald Trump  in a key test of the power held by the previous administration's top two figures.",
+    "author": "Spencer Brown",
+    "title": "Here's What to Expect in the Texas Runoffs and Races in Georgia, Alabama, and Arkansas",
+    "sentiment": "-0.538"
+  },
+  {
+    "id": 7436,
+    "mediaId": 441,
+    "date": "d2022-05-24T11:00",
+    "sentence": "While Republican Governor <span class='selected-term'>Brian Kemp</span> remains popular in Georgia and looks likely to survive a primary challenge, Secretary of State Brad Raffenspergers race is closer.",
+    "author": "Margaret Newkirk",
+    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries",
+    "sentiment": "0.633"
+  },
+  {
+    "id": 7435,
+    "mediaId": 65,
+    "date": "d2022-05-24T12:38",
+    "sentence": "KEMP, PERDUE, MAKE FINAL PITCHES IN GEORGIA'S HEATED GOP GUBERNATORIAL SHOWDOWN\n\"<span class='selected-term'>Brian Kemp</span> is truly an embarrassment to the Republican Party because of what's taken place in your great state, Georgia,\" Trump charged during a tele-rally Monday evening on behalf of Perdue.",
+    "author": "",
+    "title": "Trump looms large over Tuesday primaries in Georgia, Alabama, Arkansas, and runoff in Texas",
+    "sentiment": "0"
+  },
+  {
+    "id": 7425,
+    "mediaId": 558,
+    "date": "d2022-05-24T17:48",
+    "sentence": "At a rally in Georgia in March, <span class='selected-term'>Brian Kemp</span> is a turncoat, is a coward and is a complete and total disaster.",
+    "author": "Michael Isikoff",
+    "title": "Georgia Gov. Kemp defeats Trump-backed challenger, former Senator Perdue in GOP primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 7423,
+    "mediaId": 409,
+    "date": "d2022-05-24T20:37",
+    "sentence": "While Kemp drew Trumps ire, he earned an endorsement from former vice president Mike Pence, who offered his full support for four more years of <span class='selected-term'>Brian Kemp</span> as governor of the great state of Georgia.",
+    "author": "Brittany Bernstein",
+    "title": "Georgia Governor Kemp Defeats Perdue in GOP Primary, Setting Up Rematch against Stacey Abrams",
+    "sentiment": "-0.238"
+  },
+  {
+    "id": 7419,
+    "mediaId": 129,
+    "date": "d2022-05-24T22:44",
+    "sentence": "",
+    "author": "",
+    "title": "Your Tuesday Evening Briefing",
+    "sentiment": "0"
+  },
+  {
+    "id": 7414,
+    "mediaId": 195,
+    "date": "d2022-05-24T23:10",
+    "sentence": "",
+    "author": "Kelsey Carolan",
+    "title": "NotedDC  GOP prepares to take on Stacey Abrams",
+    "sentiment": "-0.653"
+  },
+  {
+    "id": 7412,
+    "mediaId": 233,
+    "date": "d2022-05-24T23:24",
+    "sentence": "Trump declined to discuss the probability that David Perdue will lose the Georgia gubernatorial primary to incumbent Republican <span class='selected-term'>Brian Kemp</span>, preferring to discuss his more successful candidates during an interview Tuesday with Fox Business Network.",
+    "author": "David Jackson",
+    "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
+    "sentiment": "-0.802"
   },
   {
     "id": 7345,
     "mediaId": 1576,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "",
     "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win"
-  },
-  {
-    "id": 7365,
-    "mediaId": 65,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Paul Steinhauser",
-    "title": "Kemp's landslide victory in Georgia's GOP gubernatorial primary a stinging setback for Trump"
-  },
-  {
-    "id": 7371,
-    "mediaId": 136,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "Former Senator David Perduewho was not only endorsed by former President Donald Trump but encouraged by Trump to make his gubernatorial bidthrew his support behind one of Trump's greatest rivals in Georgia, Governor <span class='selected-term'>Brian Kemp</span>, after Perdue suffered a massive loss in Tuesday's primary.",
-    "author": "Katherine Fung",
-    "title": "David Perdue Throws Support Behind Trump's Rival After Massive Primary Loss"
-  },
-  {
-    "id": 7376,
-    "mediaId": 147,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Steve Peoples",
-    "title": "Brian Kemp wins Georgia GOP governor's race against Trump-backed challenger"
-  },
-  {
-    "id": 7377,
-    "mediaId": 65,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "\"I am fully supporting <span class='selected-term'>Brian Kemp</span>tomorrow morning you are going to hear me going to work...to make damn sure Stacey Abrams is not the next governor of Georgia.\"",
-    "author": "Paul Steinhauser",
-    "title": "Kemp beats Perdue in Georgia governor primary, striking most significant blow to Trump's endorsement power yet"
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.642"
   },
   {
     "id": 7378,
     "mediaId": 195,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:32",
     "sentence": "",
     "author": "Max Greenwood",
-    "title": "Kemp defeats Perdue in Georgia, a major blow to Trump"
+    "title": "Kemp defeats Perdue in Georgia, a major blow to Trump",
+    "sentiment": "0"
   },
   {
-    "id": 8360,
-    "mediaId": 305,
-    "date": "5/26/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Murjani Rawls",
-    "title": "Stacey Abrams Wins Georgia's Democratic Gubernatorial Primary"
-  },
-  {
-    "id": 8362,
+    "id": 7377,
     "mediaId": 65,
-    "date": "5/26/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:35",
+    "sentence": "\"I am fully supporting <span class='selected-term'>Brian Kemp</span>tomorrow morning you are going to hear me going to work...to make damn sure Stacey Abrams is not the next governor of Georgia.\"",
+    "author": "Paul Steinhauser",
+    "title": "Kemp beats Perdue in Georgia governor primary, striking most significant blow to Trump's endorsement power yet",
+    "sentiment": "0.448"
+  },
+  {
+    "id": 7376,
+    "mediaId": 147,
+    "date": "d2022-05-25T00:43",
     "sentence": "",
-    "author": "",
-    "title": "Stacey Abrams serves as board member, governor of foundation that supports #AbolishThePolice"
+    "author": "Steve Peoples",
+    "title": "Brian Kemp wins Georgia GOP governor's race against Trump-backed challenger",
+    "sentiment": "-0.412"
+  },
+  {
+    "id": 7371,
+    "mediaId": 136,
+    "date": "d2022-05-25T01:33",
+    "sentence": "Former Senator David Perduewho was not only endorsed by former President Donald Trump but encouraged by Trump to make his gubernatorial bidthrew his support behind one of Trump's greatest rivals in Georgia, Governor <span class='selected-term'>Brian Kemp</span>, after Perdue suffered a massive loss in Tuesday's primary.",
+    "author": "Katherine Fung",
+    "title": "David Perdue Throws Support Behind Trump's Rival After Massive Primary Loss",
+    "sentiment": "0.464"
+  },
+  {
+    "id": 7365,
+    "mediaId": 65,
+    "date": "d2022-05-25T03:48",
+    "sentence": "",
+    "author": "Paul Steinhauser",
+    "title": "Kemp's landslide victory in Georgia's GOP gubernatorial primary a stinging setback for Trump",
+    "sentiment": "-0.236"
   },
   {
     "id": 8363,
     "mediaId": 65,
-    "date": "5/26/2022 12:00:00 AM",
+    "date": "d2022-05-26T00:39",
     "sentence": "",
     "author": "",
-    "title": "Georgia Gov. Kemp responds to Trump critiques, says Stacey Abrams is main focus"
+    "title": "Georgia Gov. Kemp responds to Trump critiques, says Stacey Abrams is main focus",
+    "sentiment": "-0.194"
+  },
+  {
+    "id": 8362,
+    "mediaId": 65,
+    "date": "d2022-05-26T06:02",
+    "sentence": "",
+    "author": "",
+    "title": "Stacey Abrams serves as board member, governor of foundation that supports #AbolishThePolice",
+    "sentiment": "0"
+  },
+  {
+    "id": 8360,
+    "mediaId": 305,
+    "date": "d2022-05-26T16:20",
+    "sentence": "",
+    "author": "Murjani Rawls",
+    "title": "Stacey Abrams Wins Georgia's Democratic Gubernatorial Primary",
+    "sentiment": "-0.783"
+  },
+  {
+    "id": 8517,
+    "mediaId": 34,
+    "date": "d2022-05-27T00:00",
+    "sentence": "",
+    "author": "Julie Hollar",
+    "title": "Corporate Media Obsess About Trump, But Ignore Broad GOP Attack on Democracy",
+    "sentiment": "-0.309"
+  },
+  {
+    "id": 8514,
+    "mediaId": 223,
+    "date": "d2022-05-27T00:01",
+    "sentence": "",
+    "author": "Michael Barone",
+    "title": "Primary Results: Trump Repudiated, Republicans Enthused, Democrats Focused On Theoretical Issues",
+    "sentiment": "-0.726"
+  },
+  {
+    "id": 8496,
+    "mediaId": 19,
+    "date": "d2022-05-28T00:00",
+    "sentence": "A vote for RINO <span class='selected-term'>Brian Kemp</span> in this primary is a vote for Governor Stacey Abrams, Trump said in March about Kemp, whom the former president has repeatedly attacked over Georgias 2020 election process.",
+    "author": "Ashley Oliver",
+    "title": "Exclusive  Supercharged Brian Kemp Races into Governors Rematch: Stacey Abrams Will Be Great Unifier for Georgia Republicans",
+    "sentiment": "-0.382"
+  },
+  {
+    "id": 8409,
+    "mediaId": 21,
+    "date": "d2022-05-29T09:00",
+    "sentence": "\"It is my opinion that our elections in Georgia have become a travesty spearheaded by the corrupt, organized, willful assault that Governor <span class='selected-term'>Brian Kemp</span>, Secretary of State Brad Raffensperger, Attorney General Chris Carr, and gubernatorial candidate Stacey Abrams have inflicted on our election process,\" the press release continued.",
+    "author": "Joshua Zitser",
+    "title": "Trump loyalist who lost Georgia governor primary with just 3.4% of the vote is refusing to admit defeat",
+    "sentiment": "-0.886"
   }
 ]

@@ -2,25 +2,28 @@
   {
     "id": 8329,
     "mediaId": 233,
-    "date": "1/8/2022 12:00:00 AM",
+    "date": "d2022-01-08T14:27",
     "sentence": "",
     "author": "David Whitley",
-    "title": "It's time for Georgia to have their day against Alabama in the College Football Playoff championship game"
+    "title": "It's time for Georgia to have their day against Alabama in the College Football Playoff championship game",
+    "sentiment": "0.0"
   },
   {
     "id": 7538,
     "mediaId": 129,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T13:32:04",
     "sentence": "MACON, Ga.  <span class='selected-term'>Herschel Walker</span>, the former football star leading Georgias Republican primary for Senate, had a mixed message about racial issues for 70 or so supporters, mainly white, who came to hear his stump speech this week at the Georgia Sports Hall of Fame.",
     "author": "",
-    "title": "On race, Herschel Walkers offer of absolution divides Georgia voters."
+    "title": "On race, Herschel Walkers offer of absolution divides Georgia voters.",
+    "sentiment": "0.634"
   },
   {
     "id": 7438,
     "mediaId": 238,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T10:42",
     "sentence": "Return to menu\n<span class='selected-term'>Herschel Walker</span>, the former pro football player-turned-businessman, is the front-runner in the Senate Republican primary in Georgia.",
     "author": "Mariana Alfaro",
-    "title": "Primary elections live updates Big races are on the ballot in Georgia, Alabama, Arkansas and Texas"
+    "title": "Primary elections live updates Big races are on the ballot in Georgia, Alabama, Arkansas and Texas",
+    "sentiment": "-0.905"
   }
 ]

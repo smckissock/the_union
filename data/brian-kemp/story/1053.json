@@ -1,10 +1,11 @@
 {
   "id": 1053,
   "mediaId": 12,
-  "date": "3/29/2022 12:00:00 AM",
+  "date": "d2022-03-29T17:00",
   "headline": "David Perdue says he misunderstood lock him up' chants about Brian Kemp",
   "image": "https://www.ajc.com/resizer/jNlpkd93ouAcQoG-nLvyCv3Ecec=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/ITLPI2KE4RF5HXLCEO5KHF666U.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/david-perdue-says-he-misunderstood-lock-him-up-chants-about-brian-kemp/HT67WGY7YFFEVDCH24TFVOMFKM/",
+  "sentiment": "-0.835",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,7 +13,6 @@
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
     1147,
-    1646,
     2087,
     2095,
     2230,

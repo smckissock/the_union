@@ -2,17 +2,19 @@
   {
     "id": 65,
     "mediaId": 43,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "A fifth GOP candidate, businessman <span class='selected-term'>Perry Johnson</span>, entered the race last week after the new fundraising period began, but he's pledged to self-fund $2.5 million.",
     "author": "",
-    "title": "Morning Digest: Democrat announces rematch against House Republican under fire for impeachment vote"
+    "title": "Morning Digest: Democrat announces rematch against House Republican under fire for impeachment vote",
+    "sentiment": "0.0"
   },
   {
     "id": 7,
     "mediaId": 43,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "The August primary also includes two wealthy businessmen, Kevin Rinke and <span class='selected-term'>Perry Johnson</span>.",
     "author": "",
-    "title": "Daily Kos Elections Live Digest: 4/22"
+    "title": "Daily Kos Elections Live Digest: 4/22",
+    "sentiment": "0.0"
   }
 ]

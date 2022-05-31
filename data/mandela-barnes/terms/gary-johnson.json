@@ -2,73 +2,82 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 2440,
     "mediaId": 367,
-    "date": "1/7/2022 12:00:00 AM",
+    "date": "d2022-01-07T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources"
+    "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources",
+    "sentiment": "0"
   },
   {
     "id": 2436,
     "mediaId": 21,
-    "date": "1/8/2022 12:00:00 AM",
+    "date": "d2022-01-08T15:00",
     "sentence": "",
     "author": "John L. Dorman",
-    "title": "GOP Sen. Ron Johnson of Wisconsin, a top foil for Democrats who pledged to only serve for two terms, poised to run for reelection to a third: sources"
-  },
-  {
-    "id": 2422,
-    "mediaId": 147,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Scott Bauer",
-    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection"
+    "title": "GOP Sen. Ron Johnson of Wisconsin, a top foil for Democrats who pledged to only serve for two terms, poised to run for reelection to a third: sources",
+    "sentiment": "0"
   },
   {
     "id": 2424,
     "mediaId": 312,
-    "date": "1/9/2022 12:00:00 AM",
+    "date": "d2022-01-09T16:17",
     "sentence": "",
     "author": "SCOTT BAUER / AP",
-    "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection"
+    "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection",
+    "sentiment": "0"
   },
   {
-    "id": 2321,
-    "mediaId": 195,
-    "date": "4/15/2022 12:00:00 AM",
+    "id": 2422,
+    "mediaId": 147,
+    "date": "d2022-01-09T18:33",
     "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Johnson raises $7.1 million in first quarter"
+    "author": "Scott Bauer",
+    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
+    "sentiment": "0"
   },
   {
     "id": 2323,
     "mediaId": 65,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T01:04",
     "sentence": "",
     "author": "Paul Steinhauser",
-    "title": "Wisconsin GOP Sen. Johnson hauls in $7.1 million over the past three months for his reelection bid"
+    "title": "Wisconsin GOP Sen. Johnson hauls in $7.1 million over the past three months for his reelection bid",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2321,
+    "mediaId": 195,
+    "date": "d2022-04-15T14:20",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Johnson raises $7.1 million in first quarter",
+    "sentiment": "0"
   },
   {
     "id": 2314,
     "mediaId": 147,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T18:40",
     "sentence": "CAMBRIDGE, Wis. (AP)  Among the red barns, bins and tractors of a southern Wisconsin dairy farm, Democratic U.S. Senate candidate <span class='selected-term'>Mandela Barnes</span> sat at a white picnic table painted with black spots to resemble a dairy cow.",
     "author": "Scott Bauer",
-    "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson"
+    "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson",
+    "sentiment": "-0.419"
   },
   {
     "id": 2298,
     "mediaId": 237,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T16:49",
     "sentence": "Among the candidates are <span class='selected-term'>Mandela Barnes</span>, the current lieutenant governor; Alex Lasry, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and Tom Nelson, current Outagamie County executive.",
     "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans"
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
+    "sentiment": "0.0"
   }
 ]

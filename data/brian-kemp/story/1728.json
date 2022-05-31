@@ -1,10 +1,11 @@
 {
   "id": 1728,
   "mediaId": 19,
-  "date": "5/6/2022 12:00:00 AM",
+  "date": "d2022-05-06T00:00",
   "headline": "Georgia Poll: Brian Kemp Holds 38-Point Lead over David Perdue",
   "image": "https://media.breitbart.com/media/2022/02/GettyImages-1058497456-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/06/georgia-poll-brian-kemp-holds-38-point-lead-over-david-perdue/",
+  "sentiment": "0.177",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     815,
     1147,
-    1646,
     1951,
     2095,
     4325,

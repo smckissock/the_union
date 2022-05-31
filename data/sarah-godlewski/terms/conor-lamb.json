@@ -2,25 +2,28 @@
   {
     "id": 2443,
     "mediaId": 65,
-    "date": "1/5/2022 12:00:00 AM",
+    "date": "d2022-01-05T16:00",
     "sentence": "Mandela Barnes, state Treasurer <span class='selected-term'>Sarah Godlewski</span>, and Outagamie County Executive Tom Nelson also have highlighted their push to scrap the filibuster.",
     "author": "Paul Steinhauser",
-    "title": "Democratic Senate candidates put changing the filibuster front and center"
+    "title": "Democratic Senate candidates put changing the filibuster front and center",
+    "sentiment": "0.0"
   },
   {
     "id": 2298,
     "mediaId": 237,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T16:49",
     "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; Alex Lasry, son to a part-owner of the Milwaukee Bucks; <span class='selected-term'>Sarah Godlewski</span>, current state treasurer; and Tom Nelson, current Outagamie County executive.",
     "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans"
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
+    "sentiment": "0.0"
   },
   {
     "id": 3375,
     "mediaId": 238,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "), has an early edge over Milwaukee Bucks executive Alex Lasry, state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Outagamie County Executive Tom Nelson.",
     "author": "",
-    "title": "Senate primaries to watch"
+    "title": "Senate primaries to watch",
+    "sentiment": "0.0"
   }
 ]

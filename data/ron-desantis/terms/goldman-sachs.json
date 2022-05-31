@@ -2,9 +2,19 @@
   {
     "id": 4294,
     "mediaId": 323,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T12:00",
     "sentence": "",
     "author": "Heather Gillers",
-    "title": "Floridas $1 Billion Disney Question"
+    "title": "Floridas $1 Billion Disney Question",
+    "sentiment": "0"
+  },
+  {
+    "id": 4294,
+    "mediaId": 323,
+    "date": "d2022-05-01T12:00",
+    "sentence": "",
+    "author": "Heather Gillers",
+    "title": "Floridas $1 Billion Disney Question",
+    "sentiment": "0.0"
   }
 ]

@@ -2,17 +2,28 @@
   {
     "id": 4354,
     "mediaId": 136,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T21:44",
     "sentence": "At the end of March, Florida Governor <span class='selected-term'>Ron DeSantis</span>, a Republican, signed the controversial GOP-backed education bill into law.",
     "author": "Jason Lemon",
-    "title": "Gay Republicans Slam 'Misguided' Attacks on Florida Law, Trans Bills"
+    "title": "Gay Republicans Slam 'Misguided' Attacks on Florida Law, Trans Bills",
+    "sentiment": "0"
+  },
+  {
+    "id": 4354,
+    "mediaId": 136,
+    "date": "d2022-04-29T21:44",
+    "sentence": "At the end of March, Florida Governor <span class='selected-term'>Ron DeSantis</span>, a Republican, signed the controversial GOP-backed education bill into law.",
+    "author": "Jason Lemon",
+    "title": "Gay Republicans Slam 'Misguided' Attacks on Florida Law, Trans Bills",
+    "sentiment": "0.0"
   },
   {
     "id": 3839,
     "mediaId": 223,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T00:01",
     "sentence": "The next GOP president, be it Trump 2.0 or <span class='selected-term'>Ron DeSantis</span> or whoever, needs to hire slowly and fire quickly.",
     "author": "Kurt Schlichter",
-    "title": "Yawn  Yet Another Never Trump Loser Sucks Up to the Media"
+    "title": "Yawn  Yet Another Never Trump Loser Sucks Up to the Media",
+    "sentiment": "0.0"
   }
 ]

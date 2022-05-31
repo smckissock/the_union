@@ -2,17 +2,37 @@
   {
     "id": 4081,
     "mediaId": 19,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Alana Mastrangelo",
-    "title": "Florida District Fired Pansexual Middle School Art Teacher After She Discussed Sexuality with Students"
+    "title": "Florida District Fired Pansexual Middle School Art Teacher After She Discussed Sexuality with Students",
+    "sentiment": "0"
+  },
+  {
+    "id": 4081,
+    "mediaId": 19,
+    "date": "d2022-05-04T00:00",
+    "sentence": "",
+    "author": "Alana Mastrangelo",
+    "title": "Florida District Fired Pansexual Middle School Art Teacher After She Discussed Sexuality with Students",
+    "sentiment": "0.0"
   },
   {
     "id": 3994,
     "mediaId": 136,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T09:46",
     "sentence": "This comes after Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> signed the so-called \"Don't Say Gay\" bill into law in March.",
     "author": "Gerrard Kaonga",
-    "title": "Florida Teacher Fired for Discussing Sexual Orientation Sparks Debate"
+    "title": "Florida Teacher Fired for Discussing Sexual Orientation Sparks Debate",
+    "sentiment": "0"
+  },
+  {
+    "id": 3994,
+    "mediaId": 136,
+    "date": "d2022-05-05T09:46",
+    "sentence": "This comes after Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> signed the so-called \"Don't Say Gay\" bill into law in March.",
+    "author": "Gerrard Kaonga",
+    "title": "Florida Teacher Fired for Discussing Sexual Orientation Sparks Debate",
+    "sentiment": "0.0"
   }
 ]

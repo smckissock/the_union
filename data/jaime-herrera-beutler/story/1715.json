@@ -1,10 +1,11 @@
 {
   "id": 1715,
   "mediaId": 98,
-  "date": "5/6/2022 12:00:00 AM",
+  "date": "d2022-05-06T14:08",
   "headline": "GOP works to get out the vote after calling elections rigged",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/2a79764/2147483647/strip/true/crop/6000x4000+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3d%2F3d%2F3cf34e54f585f85b51cd7da45304%2F84479dcc02334642a2128bfeb26f364d",
   "link": "https://www.latimes.com/politics/story/2022-05-06/gop-vote-effort-after-calling-elections-rigged",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,10 +13,8 @@
   "authorUrl": "",
   "termIds": [
     1147,
-    1646,
     2006,
     2087,
-    2095,
     2125,
     4325,
     146,

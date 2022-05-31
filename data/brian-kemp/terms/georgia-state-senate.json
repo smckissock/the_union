@@ -2,81 +2,91 @@
   {
     "id": 8230,
     "mediaId": 19,
-    "date": "1/27/2022 12:00:00 AM",
+    "date": "d2022-01-27T00:00",
     "sentence": "",
     "author": "Warner Todd Huston",
-    "title": "Poll: Herschel Walker Holds 3-Point lead over Warnock in Georgia Senate Race"
+    "title": "Poll: Herschel Walker Holds 3-Point lead over Warnock in Georgia Senate Race",
+    "sentiment": "0.0"
   },
   {
     "id": 5452,
     "mediaId": 43,
-    "date": "3/28/2022 12:00:00 AM",
+    "date": "d2022-03-28T00:00",
     "sentence": "Atlanta Journal-Constitution: Trump brings his anti-Kemp campaign to Georgia\nFormer President Donald Trump escalated his grudge Saturday against <span class='selected-term'>Brian Kemp</span> at a rally in northeast Georgia, urging supporters to oust the incumbent he once endorsed and purge state government of many of the governors allies.",
     "author": "",
-    "title": "TFG Tells Perdue if He Doesn't Win, \"I've Wasted My Time\""
-  },
-  {
-    "id": 5355,
-    "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Maya T. Prabhu",
-    "title": "Georgia Legislature approves Juneteenth holiday for state employees"
+    "title": "TFG Tells Perdue if He Doesn't Win, \"I've Wasted My Time\"",
+    "sentiment": "-0.899"
   },
   {
     "id": 5358,
     "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T19:00",
     "sentence": "",
     "author": "David Wickert",
-    "title": "Georgia Senate gives final approval to permit-less carry gun bill"
+    "title": "Georgia Senate gives final approval to permit-less carry gun bill",
+    "sentiment": "0"
   },
   {
     "id": 5360,
     "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T19:00",
     "sentence": "",
     "author": "Ty Tagami",
-    "title": "Georgia Senate approves bill to limit classroom race discussions"
+    "title": "Georgia Senate approves bill to limit classroom race discussions",
+    "sentiment": "0"
+  },
+  {
+    "id": 5355,
+    "mediaId": 12,
+    "date": "d2022-04-01T20:00",
+    "sentence": "",
+    "author": "Maya T. Prabhu",
+    "title": "Georgia Legislature approves Juneteenth holiday for state employees",
+    "sentiment": "0"
   },
   {
     "id": 5167,
     "mediaId": 21,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T18:00",
     "sentence": "",
     "author": "Brent D. Griffiths",
-    "title": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs"
+    "title": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs",
+    "sentiment": "0"
   },
   {
     "id": 1852,
     "mediaId": 409,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T13:51",
     "sentence": "Sparks flew between former senator David Perdue and Georgia governor <span class='selected-term'>Brian Kemp</span> at the GOP gubernatorial primary debate Thursday night.",
     "author": "Caroline Downey",
-    "title": "Sparks Fly at Heated Georgia Debate Between Brian Kemp, David Perdue"
+    "title": "Sparks Fly at Heated Georgia Debate Between Brian Kemp, David Perdue",
+    "sentiment": "-0.406"
   },
   {
     "id": 1704,
     "mediaId": 21,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T17:00",
     "sentence": "\"One of the problems also is if <span class='selected-term'>Brian Kemp</span> gets in, I think it's going to be very, very hard for Herschel Walker to win,\" the former president said.",
     "author": "John L. Dorman",
-    "title": "Trump says it will be 'very hard' for Herschel Walker to win the Georgia Senate race if Brian Kemp is the GOP gubernatorial nominee"
+    "title": "Trump says it will be 'very hard' for Herschel Walker to win the Georgia Senate race if Brian Kemp is the GOP gubernatorial nominee",
+    "sentiment": "-0.609"
   },
   {
     "id": 3312,
     "mediaId": 305,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T08:41",
     "sentence": "Georgia has a been a traditionally red state, but the wins by Warnock, Sen. John Ossoff, and the potential for Stacey Abrams to beat Republican governor <span class='selected-term'>Brian Kemp</span> could show Democrats have been making progress.",
     "author": "Murjani Rawls",
-    "title": "Potential Warnock vs. Walker Georgia Senate Battle Shows It Could Be A Close Race"
+    "title": "Potential Warnock vs. Walker Georgia Senate Battle Shows It Could Be A Close Race",
+    "sentiment": "0"
   },
   {
     "id": 7426,
     "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T17:34",
     "sentence": "",
     "author": "Caroline Vakil",
-    "title": "Walker declines to say if he backed Perdue or Kemp in Ga. gubernatorial primary"
+    "title": "Walker declines to say if he backed Perdue or Kemp in Ga. gubernatorial primary",
+    "sentiment": "-0.195"
   }
 ]

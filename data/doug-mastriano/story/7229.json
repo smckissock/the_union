@@ -1,10 +1,11 @@
 {
   "id": 7229,
   "mediaId": 129,
-  "date": "5/22/2022 12:00:00 AM",
+  "date": "d2022-05-22T00:00",
   "headline": "My Lunch With President Biden",
   "image": "https://static01.nyt.com/images/2022/05/23/opinion/22friedman1/merlin_205765677_b5458489-a0f2-4bc0-91ae-78840e61b8ee-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/22/opinion/biden-trump-republicans-democrats.html",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

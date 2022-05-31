@@ -2,25 +2,28 @@
   {
     "id": 694,
     "mediaId": 195,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T21:47",
     "sentence": "",
     "author": "Max Greenwood and Reid Wilson -",
-    "title": "Five big takeaways from year-end FEC filings"
+    "title": "Five big takeaways from year-end FEC filings",
+    "sentiment": "0.0"
   },
   {
     "id": 340,
     "mediaId": 124,
-    "date": "3/14/2022 12:00:00 AM",
+    "date": "d2022-03-14T13:00",
     "sentence": "Mandela Barnes and Milwaukee Bucks co-owner <span class='selected-term'>Alex Lasry</span>, Godlewski goes after incumbent Republican Sen. Ron Johnson.",
     "author": "",
-    "title": "Trump attempts to fix his Putin problem"
+    "title": "Trump attempts to fix his Putin problem",
+    "sentiment": "0.0"
   },
   {
     "id": 3375,
     "mediaId": 238,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "), has an early edge over Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>, state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson.",
     "author": "",
-    "title": "Senate primaries to watch"
+    "title": "Senate primaries to watch",
+    "sentiment": "0.0"
   }
 ]

@@ -2,41 +2,55 @@
   {
     "id": 5394,
     "mediaId": 43,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "",
     "author": "",
-    "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP"
+    "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP",
+    "sentiment": "0.0"
   },
   {
     "id": 4316,
     "mediaId": 129,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day"
+    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
+    "sentiment": "0"
+  },
+  {
+    "id": 4316,
+    "mediaId": 129,
+    "date": "d2022-05-01T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
+    "sentiment": "0.0"
   },
   {
     "id": 4321,
     "mediaId": 43,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "",
-    "title": "'Growing Pains' actor considers public school teachings 'inaccurate and the immoral'"
+    "title": "'Growing Pains' actor considers public school teachings 'inaccurate and the immoral'",
+    "sentiment": "0.0"
   },
   {
     "id": 3799,
     "mediaId": 19,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives"
+    "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
+    "sentiment": "0.0"
   },
   {
     "id": 3593,
     "mediaId": 157,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Sarah K. Burris",
-    "title": "Missouri newspaper attacks Josh Hawley for lacking principles and wasting time on law that will never pass"
+    "title": "Missouri newspaper attacks Josh Hawley for lacking principles and wasting time on law that will never pass",
+    "sentiment": "0.0"
   }
 ]

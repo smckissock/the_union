@@ -1,10 +1,11 @@
 {
   "id": 42,
   "mediaId": 129,
-  "date": "3/15/2022 12:00:00 AM",
+  "date": "d2022-03-15T00:00",
   "headline": "Ukraine War Shifts the Agenda in Congress, Empowering the Center",
   "image": "https://static01.nyt.com/images/2022/03/15/us/politics/15dc-ukraine-congress/15dc-ukraine-congress-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

@@ -1,26 +1,29 @@
 [
   {
-    "id": 64,
-    "mediaId": 124,
-    "date": "2/2/2022 12:00:00 AM",
-    "sentence": "And in Washington state, Rep. <span class='selected-term'>Jaime Herrera Beutler</span> out-raised her Trump-backed opponent, Joe Kent, bringing in about $422,000 compared to his roughly $297,000 during that same period.",
-    "author": "",
-    "title": "Republicans who impeached Trump outpace challengers in latest fundraising haul"
-  },
-  {
     "id": 690,
     "mediaId": 129,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "Joe Kent, a Trump-backed Army Special Forces veteran prolific on social media and conservative talk shows, appeared to come closer to matching the fund-raising totals of his opponent, Representative <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, but still trailed her in both quarterly hauls and cash on hand.",
     "author": "",
-    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals"
+    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 64,
+    "mediaId": 124,
+    "date": "d2022-02-02T02:59:38",
+    "sentence": "And in Washington state, Rep. <span class='selected-term'>Jaime Herrera Beutler</span> out-raised her Trump-backed opponent, Joe Kent, bringing in about $422,000 compared to his roughly $297,000 during that same period.",
+    "author": "",
+    "title": "Republicans who impeached Trump outpace challengers in latest fundraising haul",
+    "sentiment": "0"
   },
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T21:13",
     "sentence": "Republican women's group Maggie's List has thrown its support behind Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) as part of its latest round of endorsements first obtained by The Hill on Wednesday.",
     "author": "Julia Manchester",
-    "title": "GOP women's group endorses Herrera Beutler in primary race"
+    "title": "GOP women's group endorses Herrera Beutler in primary race",
+    "sentiment": "0.154"
   }
 ]

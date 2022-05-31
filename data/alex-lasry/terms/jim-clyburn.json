@@ -2,33 +2,37 @@
   {
     "id": 2439,
     "mediaId": 195,
-    "date": "1/7/2022 12:00:00 AM",
+    "date": "d2022-01-07T13:00",
     "sentence": "He entered the state's Democratic Senate primary in July against a crowded field, including state Treasurer Sarah Godlewski and businessman <span class='selected-term'>Alex Lasry</span>.",
     "author": "Julia Manchester",
-    "title": "Democrats look to diversify ranks in bid to keep Senate"
+    "title": "Democrats look to diversify ranks in bid to keep Senate",
+    "sentiment": "0.0"
   },
   {
     "id": 2416,
     "mediaId": 195,
-    "date": "1/11/2022 12:00:00 AM",
+    "date": "d2022-01-11T13:18",
     "sentence": "An internal poll released by the Barnes campaign on Friday found that the lieutenant governor has a 29-point lead over Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and a 30-point lead over Wisconsin Treasurer Sarah Godlewski.",
     "author": "Mychael Schnell",
-    "title": "Booker endorses Mandela Barnes in Wisconsin Senate race"
+    "title": "Booker endorses Mandela Barnes in Wisconsin Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2413,
     "mediaId": 195,
-    "date": "1/12/2022 12:00:00 AM",
+    "date": "d2022-01-12T19:37",
     "sentence": "An internal poll released by the campaign on Friday found that he has a 29-point lead over Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and is 30 points ahead of Wisconsin Treasurer Sarah Godlewski.",
     "author": "Mychael Schnell",
-    "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race"
+    "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2303,
     "mediaId": 151,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T08:30",
     "sentence": "Nineteen percent backed Barnes, while Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> received 16 percent and state treasurer Sarah Godlewski won 7 percent.",
     "author": "",
-    "title": "Pro-Bernie group endorses in key Dem Senate primary"
+    "title": "Pro-Bernie group endorses in key Dem Senate primary",
+    "sentiment": "0.0"
   }
 ]

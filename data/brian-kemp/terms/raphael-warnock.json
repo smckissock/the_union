@@ -2,177 +2,199 @@
   {
     "id": 8230,
     "mediaId": 19,
-    "date": "1/27/2022 12:00:00 AM",
+    "date": "d2022-01-27T00:00",
     "sentence": "",
     "author": "Warner Todd Huston",
-    "title": "Poll: Herschel Walker Holds 3-Point lead over Warnock in Georgia Senate Race"
+    "title": "Poll: Herschel Walker Holds 3-Point lead over Warnock in Georgia Senate Race",
+    "sentiment": "0.0"
   },
   {
     "id": 8218,
     "mediaId": 12,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T12:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "Bidens sagging approval could haunt Georgia Democrats"
+    "title": "Bidens sagging approval could haunt Georgia Democrats",
+    "sentiment": "0.0"
   },
   {
     "id": 8205,
     "mediaId": 43,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T00:00",
     "sentence": "The Democrats walked all over <span class='selected-term'>Brian Kemp</span>, Trump yells, adding, He was afraid of Stacey The Hoax Abrams.",
     "author": "Rebekah Sager",
-    "title": "Perdue kicks off his Stop Stacey campaign with a promise of an election fraud police force"
+    "title": "Perdue kicks off his Stop Stacey campaign with a promise of an election fraud police force",
+    "sentiment": "-0.812"
   },
   {
     "id": 8141,
     "mediaId": 223,
-    "date": "2/14/2022 12:00:00 AM",
+    "date": "d2022-02-14T18:00",
     "sentence": "",
     "author": "Rebecca Downs",
-    "title": "Clever New Ad Uses Raphael Warnock's Own Words Against Him"
+    "title": "Clever New Ad Uses Raphael Warnock's Own Words Against Him",
+    "sentiment": "0.0"
   },
   {
     "id": 8061,
     "mediaId": 12,
-    "date": "3/8/2022 12:00:00 AM",
+    "date": "d2022-03-08T22:00",
     "sentence": "",
     "author": "JEFF AMY",
-    "title": "Kemp and Warnock push for halt to gas taxes as prices rise"
+    "title": "Kemp and Warnock push for halt to gas taxes as prices rise",
+    "sentiment": "0"
   },
   {
     "id": 5386,
     "mediaId": 12,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T12:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "The Jolt: For mental health overhaul, truth is a powerful force"
+    "title": "The Jolt: For mental health overhaul, truth is a powerful force",
+    "sentiment": "0"
   },
   {
     "id": 5240,
     "mediaId": 188,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "Stacey Abrams infamously ran for governor in Georgia in 2018 and lost to the states incumbent Republican governor <span class='selected-term'>Brian Kemp</span>.",
     "author": "Samuel Mangold-Lenett",
-    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022"
+    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022",
+    "sentiment": "-0.788"
   },
   {
     "id": 5212,
     "mediaId": 12,
-    "date": "4/11/2022 12:00:00 AM",
+    "date": "d2022-04-11T19:00",
     "sentence": "",
     "author": "Shelia Poole",
-    "title": "Voting will be top at the agenda for faith leaders during upcoming rally"
+    "title": "Voting will be top at the agenda for faith leaders during upcoming rally",
+    "sentiment": "0"
   },
   {
     "id": 5167,
     "mediaId": 21,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T18:00",
     "sentence": "",
     "author": "Brent D. Griffiths",
-    "title": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs"
+    "title": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs",
+    "sentiment": "0"
   },
   {
     "id": 3312,
     "mediaId": 305,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T08:41",
     "sentence": "Georgia has a been a traditionally red state, but the wins by Warnock, Sen. John Ossoff, and the potential for Stacey Abrams to beat Republican governor <span class='selected-term'>Brian Kemp</span> could show Democrats have been making progress.",
     "author": "Murjani Rawls",
-    "title": "Potential Warnock vs. Walker Georgia Senate Battle Shows It Could Be A Close Race"
-  },
-  {
-    "id": 7238,
-    "mediaId": 195,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Max Greenwood",
-    "title": "Democrats look to defy political headwinds in Georgia"
+    "title": "Potential Warnock vs. Walker Georgia Senate Battle Shows It Could Be A Close Race",
+    "sentiment": "0"
   },
   {
     "id": 7245,
     "mediaId": 21,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T15:00",
     "sentence": "",
     "author": "John L. Dorman",
-    "title": "Early voting turnout in Georgia soars in wake of restrictive election law"
+    "title": "Early voting turnout in Georgia soars in wake of restrictive election law",
+    "sentiment": "-0.523"
   },
   {
-    "id": 7491,
-    "mediaId": 169,
-    "date": "5/23/2022 12:00:00 AM",
+    "id": 7238,
+    "mediaId": 195,
+    "date": "d2022-05-22T21:52",
     "sentence": "",
-    "author": "Heather Digby Parton",
-    "title": "Trump's guys may lose in Georgia  but his Big Lie is going strong"
+    "author": "Max Greenwood",
+    "title": "Democrats look to defy political headwinds in Georgia",
+    "sentiment": "-0.724"
   },
   {
     "id": 7498,
     "mediaId": 157,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "",
     "author": "Heather Digby Parton",
-    "title": "Trump is facing an embarrassing defeat  but here's why it might not matter"
+    "title": "Trump is facing an embarrassing defeat  but here's why it might not matter",
+    "sentiment": "-0.976"
   },
   {
     "id": 7501,
     "mediaId": 25,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "Since the 2020 election, former President Donald Trump has been eager to oust Georgia Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger for blocking efforts to overturn the 2020 election in the state.",
     "author": "Adam Brewster, Aaron Navarro",
-    "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue"
+    "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue",
+    "sentiment": "-0.245"
   },
   {
-    "id": 7315,
-    "mediaId": 21,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Brandon Bell/Getty Images\nDonald Trump made last-minute plea to Georgians to vote for David Perdue and defeat <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Warren Rojas",
-    "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally"
-  },
-  {
-    "id": 7416,
-    "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
+    "id": 7491,
+    "mediaId": 169,
+    "date": "d2022-05-23T11:04",
     "sentence": "",
-    "author": "",
-    "title": "Live coverage: Polls close in Alabama, Texas"
-  },
-  {
-    "id": 7418,
-    "mediaId": 18,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "I had an inelegant delivery of a statement that I will keep making  that is <span class='selected-term'>Brian Kemp</span> is a failed governor who doesnt care about the people of Georgia, Abrams said.",
-    "author": "Associated Press",
-    "title": "Midterm updates | Arkansas Sanders mourns Texas victims"
-  },
-  {
-    "id": 7419,
-    "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Your Tuesday Evening Briefing"
-  },
-  {
-    "id": 7421,
-    "mediaId": 136,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "2 hr ago 19:27 PM EDT\nStacey Abrams Wins Georgia's Democratic Primary for Govenor\nStacey Abrams has again won the Democratic primary for governor of Georgia, setting up a potential rematch with Republican <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Jake Thomas",
-    "title": "Primary Live Updates: Sarah Huckabee Sanders Wins Arkansas Governor Primary"
+    "author": "Heather Digby Parton",
+    "title": "Trump's guys may lose in Georgia  but his Big Lie is going strong",
+    "sentiment": "-0.872"
   },
   {
     "id": 7461,
     "mediaId": 98,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "",
     "author": "Melanie MasonStaff Writer",
-    "title": "Georgia has its primary today. Heres what to watch"
+    "title": "Georgia has its primary today. Heres what to watch",
+    "sentiment": "-0.26"
   },
   {
     "id": 7474,
     "mediaId": 1164,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "",
     "author": "Clyde Hughes",
-    "title": "Georgia governor, Senate races highlight primaries in 5 states"
+    "title": "Georgia governor, Senate races highlight primaries in 5 states",
+    "sentiment": "-0.438"
+  },
+  {
+    "id": 7315,
+    "mediaId": 21,
+    "date": "d2022-05-24T02:00",
+    "sentence": "Brandon Bell/Getty Images\nDonald Trump made last-minute plea to Georgians to vote for David Perdue and defeat <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Warren Rojas",
+    "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7421,
+    "mediaId": 136,
+    "date": "d2022-05-24T21:02",
+    "sentence": "2 hr ago 19:27 PM EDT\nStacey Abrams Wins Georgia's Democratic Primary for Govenor\nStacey Abrams has again won the Democratic primary for governor of Georgia, setting up a potential rematch with Republican <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Jake Thomas",
+    "title": "Primary Live Updates: Sarah Huckabee Sanders Wins Arkansas Governor Primary",
+    "sentiment": "-0.416"
+  },
+  {
+    "id": 7419,
+    "mediaId": 129,
+    "date": "d2022-05-24T22:44",
+    "sentence": "",
+    "author": "",
+    "title": "Your Tuesday Evening Briefing",
+    "sentiment": "0"
+  },
+  {
+    "id": 7418,
+    "mediaId": 18,
+    "date": "d2022-05-24T22:48",
+    "sentence": "I had an inelegant delivery of a statement that I will keep making  that is <span class='selected-term'>Brian Kemp</span> is a failed governor who doesnt care about the people of Georgia, Abrams said.",
+    "author": "Associated Press",
+    "title": "Midterm updates | Arkansas Sanders mourns Texas victims",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7416,
+    "mediaId": 195,
+    "date": "d2022-05-24T23:00",
+    "sentence": "",
+    "author": "",
+    "title": "Live coverage: Polls close in Alabama, Texas",
+    "sentiment": "-0.484"
   }
 ]

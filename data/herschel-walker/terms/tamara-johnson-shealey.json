@@ -2,25 +2,28 @@
   {
     "id": 8047,
     "mediaId": 1576,
-    "date": "3/11/2022 12:00:00 AM",
+    "date": "d2022-03-11T00:00",
     "sentence": "Republicans: Gary Black, Josh Clark, Kelvin King, Jonathan Jon McColumn, Latham Saddler, <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
-    "title": "Candidates confirmed for 2022 election in Georgia as qualifying ends"
-  },
-  {
-    "id": 7772,
-    "mediaId": 239,
-    "date": "4/14/2022 12:00:00 AM",
-    "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
-    "author": "Jeff Amy",
-    "title": "Georgias Sen. Warnock raises $13.6M in 2022s first quarter"
+    "title": "Candidates confirmed for 2022 election in Georgia as qualifying ends",
+    "sentiment": "0.0"
   },
   {
     "id": 7773,
     "mediaId": 1576,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
     "author": "",
-    "title": "Georgia's Sen. Warnock raises $13.6M in 2022's first quarter"
+    "title": "Georgia's Sen. Warnock raises $13.6M in 2022's first quarter",
+    "sentiment": "0.927"
+  },
+  {
+    "id": 7772,
+    "mediaId": 239,
+    "date": "d2022-04-14T00:03:51",
+    "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
+    "author": "Jeff Amy",
+    "title": "Georgias Sen. Warnock raises $13.6M in 2022s first quarter",
+    "sentiment": "0.908"
   }
 ]

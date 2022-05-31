@@ -2,25 +2,28 @@
   {
     "id": 7301,
     "mediaId": 98,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:03",
     "sentence": "Those qualifying for the ballot would be Dixon, a former conservative TV news host who netted the DeVos family endorsement earlier Monday; chiropractor and grass-roots activist Garrett Soldano; wealthy self-funding businessman Kevin Rinke; real estate broker and anti-coronavirus lockdown activist Ryan Kelley; and pastor <span class='selected-term'>Ralph Rebandt</span>.",
     "author": "DAVID EGGERT",
-    "title": "Primary problem: Michigan GOP governor candidates short signatures"
-  },
-  {
-    "id": 7300,
-    "mediaId": 261,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Also on the ballot, and suddenly in much stronger positions, are:Ottawa County real estate agent Ryan Kelley; Farmington Hills pastor <span class='selected-term'>Ralph Rebandt</span>; Bloomfield Hills businessman Kevin Rinke, and Kalamazoo chiropractor Garrett Soldano.",
-    "author": "Paul Egan",
-    "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot"
+    "title": "Primary problem: Michigan GOP governor candidates short signatures",
+    "sentiment": "0.0"
   },
   {
     "id": 7473,
     "mediaId": 157,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "",
     "author": "",
-    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race"
+    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7300,
+    "mediaId": 261,
+    "date": "d2022-05-24T02:09",
+    "sentence": "Also on the ballot, and suddenly in much stronger positions, are:Ottawa County real estate agent Ryan Kelley; Farmington Hills pastor <span class='selected-term'>Ralph Rebandt</span>; Bloomfield Hills businessman Kevin Rinke, and Kalamazoo chiropractor Garrett Soldano.",
+    "author": "Paul Egan",
+    "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
+    "sentiment": "0.0"
   }
 ]

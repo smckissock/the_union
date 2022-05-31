@@ -2,57 +2,64 @@
   {
     "id": 6948,
     "mediaId": 195,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T09:15",
     "sentence": "Despite the optimism, there is one concern Pennsylvania Republicans harbor: that state Sen. <span class='selected-term'>Doug Mastriano</span> (R), a leader in the push to overturn the 2020 election results, could nab the GOPs gubernatorial nomination and drag the entire ticket down in November, including the Senate race.",
     "author": "Al Weaver",
-    "title": "Can Dr. Oz complete his GOP metamorphosis with a Senate win?"
+    "title": "Can Dr. Oz complete his GOP metamorphosis with a Senate win?",
+    "sentiment": "0.0"
   },
   {
     "id": 6779,
     "mediaId": 65,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T19:26",
     "sentence": "Also helping Barnette may be that she and state Sen. <span class='selected-term'>Doug Mastriano</span>, the front-runner for Pennsylvania's GOP gubernatorial nomination, endorsed each other and have joined forces on the campaign trail.",
     "author": "",
-    "title": "Three-way Oz-Barnette-McCormick clash for GOP Senate nomination on eve of Pennsylvania primary"
-  },
-  {
-    "id": 5481,
-    "mediaId": 409,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "Pennsylvania state senator <span class='selected-term'>Doug Mastriano</span>, who secured former President Trumps endorsement just a few days ago, was declared the victor in the states GOP gubernatorial primary Tuesday night.",
-    "author": "Caroline Downey",
-    "title": "Trump-Backed Doug Mastriano Wins Pennsylvania GOP Primary for Governor"
+    "title": "Three-way Oz-Barnette-McCormick clash for GOP Senate nomination on eve of Pennsylvania primary",
+    "sentiment": "0.0"
   },
   {
     "id": 6728,
     "mediaId": 21,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T19:34:46",
     "sentence": "Pennsylvania Governor Republican Primary\nCounty Results\narrow_drop_down\nCandidate\nVotes\nPercent\n <span class='selected-term'>Doug Mastriano</span> check_circle\n 364,860\n 43.70%\n Lou Barletta\n 181,522\n 21.74%\n William M McSwain\n 127,693\n 15.29%\n David White\n 65,907\n 7.89%\n Melissa Hart\n 38,253\n 4.58%\n Show More Candidates\n* = Incumbent\n 834,994 votes.",
     "author": "Grace Panetta",
-    "title": "RESULTS: Republican Doug Mastriano wins Republican primary in a crucial race for Pennsylvania governor"
+    "title": "RESULTS: Republican Doug Mastriano wins Republican primary in a crucial race for Pennsylvania governor",
+    "sentiment": "0.603"
   },
   {
-    "id": 6649,
-    "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "The Pennsylvania gubernatorial contest is also set in stone as state Attorney General Josh Shapiro (D) will square off with state Sen. <span class='selected-term'>Doug Mastriano</span> (R), a leading proponent of Trumps claims of widespread voter fraud.",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Pennsylvania Senate race goes to overtime"
-  },
-  {
-    "id": 6653,
-    "mediaId": 65,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "Trump was a winner in Pennsylvanias GOP gubernatorial primary, as state Sen. <span class='selected-term'>Doug Mastriano</span> bested a crowded field of contenders.",
-    "author": "",
-    "title": "Trump-backed Dr. Oz and Dave McCormick go into overtime in Pennsylvanias crucial GOP Senate primary"
+    "id": 5481,
+    "mediaId": 409,
+    "date": "d2022-05-17T22:25",
+    "sentence": "Pennsylvania state senator <span class='selected-term'>Doug Mastriano</span>, who secured former President Trumps endorsement just a few days ago, was declared the victor in the states GOP gubernatorial primary Tuesday night.",
+    "author": "Caroline Downey",
+    "title": "Trump-Backed Doug Mastriano Wins Pennsylvania GOP Primary for Governor",
+    "sentiment": "0.549"
   },
   {
     "id": 6673,
     "mediaId": 21,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T02:36:18",
     "sentence": "She's also running on an unofficial ticket with Republican gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, a state senator and vocal leader in efforts to overturn Trump's election loss in the state.",
     "author": "Grace Panetta",
-    "title": "LIVE RESULTS: John Fetterman wins the Democratic primary for Pennsylvania's Senate race"
+    "title": "LIVE RESULTS: John Fetterman wins the Democratic primary for Pennsylvania's Senate race",
+    "sentiment": "-0.824"
+  },
+  {
+    "id": 6653,
+    "mediaId": 65,
+    "date": "d2022-05-18T09:32",
+    "sentence": "Trump was a winner in Pennsylvanias GOP gubernatorial primary, as state Sen. <span class='selected-term'>Doug Mastriano</span> bested a crowded field of contenders.",
+    "author": "",
+    "title": "Trump-backed Dr. Oz and Dave McCormick go into overtime in Pennsylvanias crucial GOP Senate primary",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6649,
+    "mediaId": 195,
+    "date": "d2022-05-18T10:39",
+    "sentence": "The Pennsylvania gubernatorial contest is also set in stone as state Attorney General Josh Shapiro (D) will square off with state Sen. <span class='selected-term'>Doug Mastriano</span> (R), a leading proponent of Trumps claims of widespread voter fraud.",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Pennsylvania Senate race goes to overtime",
+    "sentiment": "0.0"
   }
 ]

@@ -2,105 +2,118 @@
   {
     "id": 8112,
     "mediaId": 12,
-    "date": "2/24/2022 12:00:00 AM",
+    "date": "d2022-02-24T13:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "The Jolt: Trump stepping up focus on Georgia candidates"
+    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
+    "sentiment": "0.0"
   },
   {
     "id": 1306,
     "mediaId": 19,
-    "date": "2/26/2022 12:00:00 AM",
+    "date": "d2022-02-26T00:00",
     "sentence": "In Trump's statement on Saturday, the former president took aim at Kemp for the dormant Buckhead bill, and also singled out Ralston, Duncan, and three specific state senators:\nRINOs like Governor <span class='selected-term'>Brian Kemp</span>, the man responsible, along with his puppet master Mitch McConnell, for the loss of two Senate Seats and 2020 Presidential Vote, Lt.",
     "author": "Ashley Oliver",
-    "title": "Trump Backs Georgia's Buckhead Bill, Bashes RINOs like Gov. Brian Kemp': They Don't Deliver'"
+    "title": "Trump Backs Georgia's Buckhead Bill, Bashes RINOs like Gov. Brian Kemp': They Don't Deliver'",
+    "sentiment": "-0.422"
   },
   {
     "id": 8073,
     "mediaId": 12,
-    "date": "3/7/2022 12:00:00 AM",
+    "date": "d2022-03-07T13:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Prepare for surprises this week in Georgia politics"
+    "title": "The Jolt: Prepare for surprises this week in Georgia politics",
+    "sentiment": "0.0"
   },
   {
     "id": 7877,
     "mediaId": 12,
-    "date": "3/29/2022 12:00:00 AM",
+    "date": "d2022-03-29T11:00",
     "sentence": "For Tuesday, were keeping an eye on:\nA possible House vote on the package with more changes to Georgias elections, which county elections officials have raised objections to;\nThe next steps for <span class='selected-term'>Brian Kemp</span>s proposed income tax cut.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Lawmakers rush to finish favorite bills before time runs out"
+    "title": "The Jolt: Lawmakers rush to finish favorite bills before time runs out",
+    "sentiment": "0"
   },
   {
     "id": 5386,
     "mediaId": 12,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T12:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "The Jolt: For mental health overhaul, truth is a powerful force"
+    "title": "The Jolt: For mental health overhaul, truth is a powerful force",
+    "sentiment": "0"
   },
   {
     "id": 2194,
     "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T10:00",
     "sentence": "When I met with Gov <span class='selected-term'>Brian Kemp</span> at the beginning of this legislative session, he said he was proud of the work that he had done in his first three years as governor and he laid out his plans for the 40 days ahead.",
     "author": "Patricia Murphy",
-    "title": "OPINION: A legislative session for Brian Kemp to take to the bank"
-  },
-  {
-    "id": 5333,
-    "mediaId": 12,
-    "date": "4/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "SUDHIN THANAWALA",
-    "title": "Georgia governor signs sweeping mental health bill into law"
+    "title": "OPINION: A legislative session for Brian Kemp to take to the bank",
+    "sentiment": "0"
   },
   {
     "id": 5337,
     "mediaId": 12,
-    "date": "4/4/2022 12:00:00 AM",
+    "date": "d2022-04-04T10:00",
     "sentence": "",
     "author": "Maya T. Prabhu",
-    "title": "Gov. Kemp to sign Georgias mental health bill Monday"
+    "title": "Gov. Kemp to sign Georgias mental health bill Monday",
+    "sentiment": "0"
   },
   {
-    "id": 5301,
+    "id": 5333,
     "mediaId": 12,
-    "date": "4/5/2022 12:00:00 AM",
+    "date": "d2022-04-04T22:00",
     "sentence": "",
-    "author": "Mark Niesse",
-    "title": "Georgia legislative session ends with last-minute flurry of tax-cut, gender bills"
+    "author": "SUDHIN THANAWALA",
+    "title": "Georgia governor signs sweeping mental health bill into law",
+    "sentiment": "0"
   },
   {
     "id": 5318,
     "mediaId": 12,
-    "date": "4/5/2022 12:00:00 AM",
+    "date": "d2022-04-05T06:00",
     "sentence": "",
     "author": "JEFF AMY",
-    "title": "Georgia lawmakers create flat income tax, cutting $1 billion"
+    "title": "Georgia lawmakers create flat income tax, cutting $1 billion",
+    "sentiment": "0"
+  },
+  {
+    "id": 5301,
+    "mediaId": 12,
+    "date": "d2022-04-05T18:00",
+    "sentence": "",
+    "author": "Mark Niesse",
+    "title": "Georgia legislative session ends with last-minute flurry of tax-cut, gender bills",
+    "sentiment": "0.0"
   },
   {
     "id": 4923,
     "mediaId": 558,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T15:17",
     "sentence": "",
     "author": "",
-    "title": "Gov. Kemp signs state income tax cuts into law. Heres what that means for you:"
-  },
-  {
-    "id": 4709,
-    "mediaId": 239,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jeff Amy",
-    "title": "Georgia high school athletic association bans transgender athletes"
+    "title": "Gov. Kemp signs state income tax cuts into law. Heres what that means for you:",
+    "sentiment": "0.379"
   },
   {
     "id": 4713,
     "mediaId": 1576,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Georgia high school athletic group bans transgender athletes"
+    "title": "Georgia high school athletic group bans transgender athletes",
+    "sentiment": "0"
+  },
+  {
+    "id": 4709,
+    "mediaId": 239,
+    "date": "d2022-05-04T00:03:41",
+    "sentence": "",
+    "author": "Jeff Amy",
+    "title": "Georgia high school athletic association bans transgender athletes",
+    "sentiment": "0"
   }
 ]

@@ -1,18 +1,20 @@
 [
   {
-    "id": 5661,
-    "mediaId": 65,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Paul Steinhauser",
-    "title": "Hours before Trumps PA rally with Oz, Pompeo questions about Senate candidates Turkish election vote"
-  },
-  {
     "id": 5670,
     "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T14:08",
     "sentence": "",
     "author": "Salena Zito",
-    "title": "On Trump's Oz rally day, Pompeo raises concerns about Oz voting in Turkish elections"
+    "title": "On Trump's Oz rally day, Pompeo raises concerns about Oz voting in Turkish elections",
+    "sentiment": "0"
+  },
+  {
+    "id": 5661,
+    "mediaId": 65,
+    "date": "d2022-05-06T17:40",
+    "sentence": "",
+    "author": "Paul Steinhauser",
+    "title": "Hours before Trumps PA rally with Oz, Pompeo questions about Senate candidates Turkish election vote",
+    "sentiment": "0"
   }
 ]

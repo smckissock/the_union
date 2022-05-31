@@ -2,17 +2,19 @@
   {
     "id": 8025,
     "mediaId": 43,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T00:00",
     "sentence": "Whenever Georgia needed somebody to speak up for their businesses, they called <span class='selected-term'>Herschel Walker</span>, he told supporters at a recent rally in Dahlonega.",
     "author": "",
-    "title": "Herschel Walker (R), \"If evolution is true, why are there still apes? Think about it."
+    "title": "Herschel Walker (R), \"If evolution is true, why are there still apes? Think about it.",
+    "sentiment": "-0.676"
   },
   {
     "id": 7878,
     "mediaId": 43,
-    "date": "3/29/2022 12:00:00 AM",
+    "date": "d2022-03-29T00:00",
     "sentence": "",
     "author": "",
-    "title": "Watch Herschel Walker's (R) Embarrassingly Idiotic Gaffe About Critical Race Theory"
+    "title": "Watch Herschel Walker's (R) Embarrassingly Idiotic Gaffe About Critical Race Theory",
+    "sentiment": "-0.82"
   }
 ]

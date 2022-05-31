@@ -2,17 +2,19 @@
   {
     "id": 917,
     "mediaId": 157,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T00:00",
     "sentence": "There are 12 Republicans running for the GOP nomination in the August primary, including chiropractor Garrett Soldano, right-wing commentator Tudor Dixon, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businessman Perry Johnson and businessman Kevin Rinke.",
     "author": "Allison R. Donahue",
-    "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case"
+    "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case",
+    "sentiment": "0.0"
   },
   {
     "id": 867,
     "mediaId": 881,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T08:11",
     "sentence": "Michigan Republican front-runner <span class='selected-term'>James Craig</span> has pledged to do whatever I can? to keep that law in place should he win the governorship.",
     "author": "Cameron Joseph",
-    "title": "The 2022 elections could determine the fate of abortion access for years in a number of major swing states."
+    "title": "The 2022 elections could determine the fate of abortion access for years in a number of major swing states.",
+    "sentiment": "0.0"
   }
 ]

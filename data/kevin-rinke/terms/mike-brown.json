@@ -2,17 +2,19 @@
   {
     "id": 949,
     "mediaId": 19,
-    "date": "2/25/2022 12:00:00 AM",
+    "date": "d2022-02-25T00:00",
     "sentence": "The poll also found that <span class='selected-term'>Kevin Rinke</span> holds five percent of the vote, Tudor Dixon and Ryan Kelly have four percent, and Perry Johnson and Mike Brown hold three percent.",
     "author": "Jacob Bliss",
-    "title": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals"
+    "title": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals",
+    "sentiment": "0.0"
   },
   {
     "id": 901,
     "mediaId": 157,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T00:00",
     "sentence": "Mike Brown; businesswomen Donna Brandeburg and Tudor Dixon; businessman Perry Johnson; real estate agent Ryan Kelley; financial advisor Michael Markey; pastor Ralph Rebandt, businessman <span class='selected-term'>Kevin Rinke</span>; and chiropractor Garrett Soldano.",
     "author": "Bob Brigham",
-    "title": "Meatgrinder' GOP Gov. primary in Michigan will leave nominee broke, bloodied, and disliked': expert"
+    "title": "Meatgrinder' GOP Gov. primary in Michigan will leave nominee broke, bloodied, and disliked': expert",
+    "sentiment": "0.0"
   }
 ]

@@ -2,25 +2,28 @@
   {
     "id": 6214,
     "mediaId": 157,
-    "date": "4/23/2022 12:00:00 AM",
+    "date": "d2022-04-23T00:00",
     "sentence": "",
     "author": "Tom Boggioni",
-    "title": "Trump has a built-in excuse if his JD Vance endorsement flops with voters: Larry Sabato"
-  },
-  {
-    "id": 5907,
-    "mediaId": 65,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Leaked Supreme Court abortion draft reverberates in Ohio GOP Senate race, candidates tout pro-life credentials"
+    "title": "Trump has a built-in excuse if his JD Vance endorsement flops with voters: Larry Sabato",
+    "sentiment": "-0.359"
   },
   {
     "id": 5935,
     "mediaId": 136,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T09:00",
     "sentence": "",
     "author": "Bill Powell",
-    "title": "Races to Watch on Tuesday as Primary Season Kicks Off"
+    "title": "Races to Watch on Tuesday as Primary Season Kicks Off",
+    "sentiment": "-0.462"
+  },
+  {
+    "id": 5907,
+    "mediaId": 65,
+    "date": "d2022-05-03T20:47",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Leaked Supreme Court abortion draft reverberates in Ohio GOP Senate race, candidates tout pro-life credentials",
+    "sentiment": "0"
   }
 ]

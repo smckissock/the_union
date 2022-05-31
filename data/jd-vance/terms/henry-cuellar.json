@@ -2,41 +2,55 @@
   {
     "id": 6313,
     "mediaId": 151,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T14:00",
     "sentence": "",
     "author": "",
-    "title": "5 numbers to know from the new FEC reports"
+    "title": "5 numbers to know from the new FEC reports",
+    "sentiment": "0"
   },
   {
     "id": 5674,
     "mediaId": 238,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T11:16",
     "sentence": "",
     "author": "",
-    "title": "On our radar: Trump to rally with Oz in Pennsylvania"
+    "title": "On our radar: Trump to rally with Oz in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 5592,
     "mediaId": 238,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T14:21",
     "sentence": "",
     "author": "",
-    "title": "Post Politics Now Biden to speak on inflation, try to turn the tables on Republicans"
+    "title": "Post Politics Now Biden to speak on inflation, try to turn the tables on Republicans",
+    "sentiment": "0"
   },
   {
     "id": 5525,
     "mediaId": 129,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Little Red Boxes Making a Mockery of Campaign Finance Laws"
+    "title": "The Little Red Boxes Making a Mockery of Campaign Finance Laws",
+    "sentiment": "0.633"
   },
   {
     "id": 7331,
     "mediaId": 238,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T03:03",
     "sentence": "",
     "author": "David Weigel",
-    "title": "Kemp, Raffensperger win in blow to Trump and his false election claims"
+    "title": "Kemp, Raffensperger win in blow to Trump and his false election claims",
+    "sentiment": "0"
+  },
+  {
+    "id": 8404,
+    "mediaId": 376,
+    "date": "d2022-05-26T14:30",
+    "sentence": "",
+    "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
+    "title": "At the Races: Divisions on display",
+    "sentiment": "0"
   }
 ]

@@ -1,26 +1,29 @@
 [
   {
-    "id": 6173,
-    "mediaId": 151,
-    "date": "4/24/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Remembering Orrin Hatch"
-  },
-  {
     "id": 6185,
     "mediaId": 209,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T00:00",
     "sentence": "",
     "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 24, 2022"
+    "title": "10 things you need to know today: April 24, 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 6173,
+    "mediaId": 151,
+    "date": "d2022-04-24T15:24",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Remembering Orrin Hatch",
+    "sentiment": "0"
   },
   {
     "id": 5595,
     "mediaId": 195,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T10:27",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  US expedites Ukraine assistance push"
+    "title": "The Hills Morning Report  US expedites Ukraine assistance push",
+    "sentiment": "0"
   }
 ]

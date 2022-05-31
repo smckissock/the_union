@@ -2,17 +2,19 @@
   {
     "id": 67,
     "mediaId": 43,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "Freshman Rep. <span class='selected-term'>Peter Meijer</span> of Michigan, another Trump target, raised $530,000, which far outpaced the $51,000 that his Trump-backed challenger John Gibbs raised after entering the race in early November.",
     "author": "",
-    "title": "Liz Cheney and other Trump targets trounce his endorsees in the fundraising race"
+    "title": "Liz Cheney and other Trump targets trounce his endorsees in the fundraising race",
+    "sentiment": "0"
   },
   {
     "id": 11,
     "mediaId": 376,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T05:00",
     "sentence": "Michigan Rep. <span class='selected-term'>Peter Meijer</span> raised $553,000, compared to the $123,000 raised by opponent John Gibbs, a former acting assistant secretary in the Department of Housing and Urban Development in the Trump administration.",
     "author": "Herb Jackson",
-    "title": "Trump targets outraise challengers, unlike some other incumbents"
+    "title": "Trump targets outraise challengers, unlike some other incumbents",
+    "sentiment": "0.0"
   }
 ]

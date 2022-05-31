@@ -1,50 +1,56 @@
 [
   {
-    "id": 5286,
-    "mediaId": 136,
-    "date": "4/6/2022 12:00:00 AM",
-    "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> tweeted Tuesday night that his administration was coordinating with several responding teams in the impacted areas and that his family's \"thoughts and prayers are with all who have been impacted.\"",
-    "author": "Zoe Strozewski",
-    "title": "Tornadoes Decimate Small Towns in Georgia, South Carolina, Leaving 1 Dead"
-  },
-  {
     "id": 5290,
     "mediaId": 136,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T01:56",
     "sentence": "\"We will continue to do everything we can to support all impacted by today's severe weather and the emergency personnel who are responding to the needs and damage on the ground,\" Georgia Governor <span class='selected-term'>Brian Kemp</span> tweeted in response to a tornado video from Andrew Gorton, a meteorologist for CBS affiliate WTOC.",
     "author": "Aila Slisco",
-    "title": "Watch: Twisters Slamming Georgia, South Carolina Captured on Video"
+    "title": "Watch: Twisters Slamming Georgia, South Carolina Captured on Video",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5286,
+    "mediaId": 136,
+    "date": "d2022-04-06T13:21",
+    "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> tweeted Tuesday night that his administration was coordinating with several responding teams in the impacted areas and that his family's \"thoughts and prayers are with all who have been impacted.\"",
+    "author": "Zoe Strozewski",
+    "title": "Tornadoes Decimate Small Towns in Georgia, South Carolina, Leaving 1 Dead",
+    "sentiment": "0.0"
   },
   {
     "id": 5264,
     "mediaId": 238,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T10:49",
     "sentence": "",
     "author": "Mark Shavin",
-    "title": "After tornadoes strike the Southeast, Ga. residents recount the terror"
+    "title": "After tornadoes strike the Southeast, Ga. residents recount the terror",
+    "sentiment": "0"
   },
   {
     "id": 5209,
     "mediaId": 33,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "",
     "author": "Andy Rose and Theresa Waldrop",
-    "title": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit"
+    "title": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit",
+    "sentiment": "0"
   },
   {
     "id": 4880,
     "mediaId": 32,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T15:28:37",
     "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> makes remarks during a visit to Adventure Outdoors gun shop as he pushes for a new state law to loosen requirements to carry a handgun in public, in Smyrna, Georgia, January 5, 2022.",
     "author": "Carmen Reinicke",
-    "title": "Georgia just became the latest state to require personal finance education"
+    "title": "Georgia just became the latest state to require personal finance education",
+    "sentiment": "0"
   },
   {
     "id": 4849,
     "mediaId": 43,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "In a statement, The Democratic Party of Georgia said new laws will will pit parents against teachers, attack educators, politicize Georgia schools, and jeopardize kids education  all for Kemps own political gain.?\n Georgia Governor <span class='selected-term'>Brian Kemp</span> (R)\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nWith elections less than six months away, many see festival as a chance to vent their anger at far-right president.",
     "author": "",
-    "title": "Black Kos, Week In Review"
+    "title": "Black Kos, Week In Review",
+    "sentiment": "0.0"
   }
 ]

@@ -1,10 +1,11 @@
 {
   "id": 1033,
   "mediaId": 195,
-  "date": "1/1/2022 12:00:00 AM",
+  "date": "d2022-01-01T22:21",
   "headline": "Seven most vulnerable governors facing reelection in 2022",
   "image": "https://cdn.jwplayer.com/v2/media/PJbjrO9I/poster.jpg?width=640",
   "link": "https://thehill.com/homenews/campaign/587202-seven-most-vulnerable-governors-facing-reelection-in-2022",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,7 +13,6 @@
   "authorUrl": "https://thehill.com/author/julia-manchester",
   "termIds": [
     818,
-    1646,
     1698,
     1758,
     1844,

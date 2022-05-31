@@ -1,10 +1,11 @@
 {
   "id": 5007,
   "mediaId": 32,
-  "date": "4/22/2022 12:00:00 AM",
+  "date": "d2022-04-22T12:00:01",
   "headline": "Nearly 1 in 4 students in the U.S. has access to personal finance education this year",
   "image": "https://image.cnbcfm.com/api/v1/image/107044993-1649698966352-Writearoundphoto4.jpg?v=1650570228&w=740&h=416&ffmt=webp",
   "link": "https://www.cnbc.com/2022/04/22/nearly-25percent-of-us-students-have-access-to-personal-finance-education.html",
+  "sentiment": "0",
   "mediaOutlet": "CNBC",
   "biasRatingId": 1,
   "wordCount": 0,

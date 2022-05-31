@@ -1,10 +1,11 @@
 {
   "id": 395,
   "mediaId": 12,
-  "date": "2/28/2022 12:00:00 AM",
+  "date": "d2022-02-28T12:00",
   "headline": "The Jolt: David Perdue targets Gov. Brian Kemp's prized Rivian deal",
   "image": "https://www.ajc.com/resizer/I-9_QnLnRbdW6mDsYhjLm2AEICg=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/DFEBQEETFFHHLHIZP4NXZB2CHU.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-david-perdue-targets-gov-brian-kemps-prized-rivian-deal/25K3W3KNBNEFJBYSDD22YOTJNY/",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,7 +13,6 @@
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
     973,
-    1646,
     1807,
     1951,
     2095,

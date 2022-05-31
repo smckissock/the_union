@@ -2,17 +2,19 @@
   {
     "id": 2321,
     "mediaId": 195,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T14:20",
     "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> trailed at 5 percent, and Godlewski came in at 3 percent support.",
     "author": "Julia Manchester",
-    "title": "Johnson raises $7.1 million in first quarter"
+    "title": "Johnson raises $7.1 million in first quarter",
+    "sentiment": "0.0"
   },
   {
     "id": 6548,
     "mediaId": 367,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T00:00",
     "sentence": "Other top Democratic contenders include state Treasurer Sarah Godlewski and Outagamie County Executive <span class='selected-term'>Tom Nelson</span>.",
     "author": "Bill Glauber",
-    "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance"
+    "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance",
+    "sentiment": "0"
   }
 ]

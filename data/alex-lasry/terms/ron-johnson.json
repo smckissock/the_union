@@ -2,345 +2,388 @@
   {
     "id": 2445,
     "mediaId": 178,
-    "date": "1/5/2022 12:00:00 AM",
+    "date": "d2022-01-05T00:00",
     "sentence": "MADISON, Wis.  Democratic U.S. Senate candidate <span class='selected-term'>Alex Lasry</span> released a plan Wednesday that he said would strengthen democracy, his first major policy proposals of the campaign timed to the anniversary of the insurrection at the U.S. Capitol.",
     "author": "SCOTT BAUER",
-    "title": "Democratic Senate candidate Lasry releases democracy plan"
+    "title": "Democratic Senate candidate Lasry releases democracy plan",
+    "sentiment": "-0.319"
   },
   {
     "id": 2440,
     "mediaId": 367,
-    "date": "1/7/2022 12:00:00 AM",
+    "date": "d2022-01-07T00:00",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Outagamie County Executive Tom Nelson and <span class='selected-term'>Alex Lasry</span>, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
-    "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources"
+    "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources",
+    "sentiment": "0.0"
   },
   {
     "id": 2436,
     "mediaId": 21,
-    "date": "1/8/2022 12:00:00 AM",
+    "date": "d2022-01-08T15:00",
     "sentence": "Mandela Barnes  who is seen as the frontrunner in the race  along with state Treasurer Sarah Godlewski, Outagamie County Executive Tom Nelson, and businessman <span class='selected-term'>Alex Lasry</span>.",
     "author": "John L. Dorman",
-    "title": "GOP Sen. Ron Johnson of Wisconsin, a top foil for Democrats who pledged to only serve for two terms, poised to run for reelection to a third: sources"
-  },
-  {
-    "id": 2422,
-    "mediaId": 147,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>; state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson.",
-    "author": "Scott Bauer",
-    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection"
-  },
-  {
-    "id": 2424,
-    "mediaId": 312,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>; state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson.",
-    "author": "SCOTT BAUER / AP",
-    "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection"
-  },
-  {
-    "id": 2426,
-    "mediaId": 195,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and Outagamie County Executive Tom Nelson.",
-    "author": "Tal Axelrod",
-    "title": "Ron Johnson announces run for third Senate term in Wisconsin"
-  },
-  {
-    "id": 2427,
-    "mediaId": 323,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "Mandela Barnes and State Treasurer Sarah Godlewski, as well as <span class='selected-term'>Alex Lasry</span>, the son of a billionaire hedge-fund manager who is also co-owner of the Milwaukee Bucks basketball team, and Tom Nelson, the top elected official in a county southwest of Green Bay.",
-    "author": "John McCormick",
-    "title": "Ron Johnson, Republican Senator, to Seek Third Term in Wisconsin"
+    "title": "GOP Sen. Ron Johnson of Wisconsin, a top foil for Democrats who pledged to only serve for two terms, poised to run for reelection to a third: sources",
+    "sentiment": "0.0"
   },
   {
     "id": 2435,
     "mediaId": 178,
-    "date": "1/9/2022 12:00:00 AM",
+    "date": "d2022-01-09T00:00",
     "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>; state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson.",
     "author": "SCOTT BAUER",
-    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection"
+    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2427,
+    "mediaId": 323,
+    "date": "d2022-01-09T15:26",
+    "sentence": "Mandela Barnes and State Treasurer Sarah Godlewski, as well as <span class='selected-term'>Alex Lasry</span>, the son of a billionaire hedge-fund manager who is also co-owner of the Milwaukee Bucks basketball team, and Tom Nelson, the top elected official in a county southwest of Green Bay.",
+    "author": "John McCormick",
+    "title": "Ron Johnson, Republican Senator, to Seek Third Term in Wisconsin",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2426,
+    "mediaId": 195,
+    "date": "d2022-01-09T15:42",
+    "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and Outagamie County Executive Tom Nelson.",
+    "author": "Tal Axelrod",
+    "title": "Ron Johnson announces run for third Senate term in Wisconsin",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2424,
+    "mediaId": 312,
+    "date": "d2022-01-09T16:17",
+    "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>; state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson.",
+    "author": "SCOTT BAUER / AP",
+    "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2422,
+    "mediaId": 147,
+    "date": "d2022-01-09T18:33",
+    "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>; state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson.",
+    "author": "Scott Bauer",
+    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
+    "sentiment": "0.0"
   },
   {
     "id": 2420,
     "mediaId": 112,
-    "date": "1/10/2022 12:00:00 AM",
+    "date": "d2022-01-10T03:13",
     "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>; state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson.",
     "author": "Associated Press",
-    "title": "Wisconsin Republican Ron Johnson to run for re-election to Senate, reversing self-imposed term-limit vow"
-  },
-  {
-    "id": 2416,
-    "mediaId": 195,
-    "date": "1/11/2022 12:00:00 AM",
-    "sentence": "An internal poll released by the Barnes campaign on Friday found that the lieutenant governor has a 29-point lead over Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and a 30-point lead over Wisconsin Treasurer Sarah Godlewski.",
-    "author": "Mychael Schnell",
-    "title": "Booker endorses Mandela Barnes in Wisconsin Senate race"
+    "title": "Wisconsin Republican Ron Johnson to run for re-election to Senate, reversing self-imposed term-limit vow",
+    "sentiment": "0.0"
   },
   {
     "id": 2418,
     "mediaId": 129,
-    "date": "1/11/2022 12:00:00 AM",
+    "date": "d2022-01-11T00:00",
     "sentence": "Mandela Barnes and State Treasurer Sarah Godlewski, along with <span class='selected-term'>Alex Lasry</span>, an executive with the Milwaukee Bucks, and Tom Nelson, a county executive.",
     "author": "",
-    "title": "Nobody's Getting Special Treatment in 2022"
+    "title": "Nobody's Getting Special Treatment in 2022",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2416,
+    "mediaId": 195,
+    "date": "d2022-01-11T13:18",
+    "sentence": "An internal poll released by the Barnes campaign on Friday found that the lieutenant governor has a 29-point lead over Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and a 30-point lead over Wisconsin Treasurer Sarah Godlewski.",
+    "author": "Mychael Schnell",
+    "title": "Booker endorses Mandela Barnes in Wisconsin Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2413,
     "mediaId": 195,
-    "date": "1/12/2022 12:00:00 AM",
+    "date": "d2022-01-12T19:37",
     "sentence": "An internal poll released by the campaign on Friday found that he has a 29-point lead over Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and is 30 points ahead of Wisconsin Treasurer Sarah Godlewski.",
     "author": "Mychael Schnell",
-    "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race"
+    "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2408,
     "mediaId": 195,
-    "date": "1/19/2022 12:00:00 AM",
+    "date": "d2022-01-19T10:45",
     "sentence": "Wisconsin Treasurer Sarah Godlewski and Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> also raised more than $1 million during the time period, but each donated large sums of money to their campaigns.",
     "author": "Julia Manchester",
-    "title": "Barnes raises over $1 million in final quarter of 2021"
+    "title": "Barnes raises over $1 million in final quarter of 2021",
+    "sentiment": "0"
   },
   {
     "id": 2406,
     "mediaId": 124,
-    "date": "1/20/2022 12:00:00 AM",
+    "date": "d2022-01-20T09:33",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and Tom Nelson, the Outagamie County executive.",
     "author": "",
-    "title": "Republicans 'all in' for Ron Johnson's Senate re-election fight in Wisconsin"
+    "title": "Republicans 'all in' for Ron Johnson's Senate re-election fight in Wisconsin",
+    "sentiment": "0.0"
   },
   {
     "id": 2400,
     "mediaId": 1390,
-    "date": "1/24/2022 12:00:00 AM",
+    "date": "d2022-01-24T19:00",
     "sentence": "Additionally, Democratic Senate candidate and Milwaukee Bucks senior vice president <span class='selected-term'>Alex Lasry</span>  son of billionaire hedge fund manager and Bucks owner Marc Lasry  said he supports \"Medicare for all who want it\" and more federal spending to \"increase the United States contribution to the Green Climate Fund, invest in additional research and development, and share technology and technical assistance with countries across the world.\"",
     "author": "Houston Keene",
-    "title": "Dem Senate candidates campaign on higher federal spending, despite inflation fears"
+    "title": "Dem Senate candidates campaign on higher federal spending, despite inflation fears",
+    "sentiment": "0.0"
   },
   {
     "id": 2394,
     "mediaId": 367,
-    "date": "1/31/2022 12:00:00 AM",
+    "date": "d2022-01-31T00:00",
     "sentence": "Democrats <span class='selected-term'>Alex Lasry</span> and Sarah Godlewski aren't completely self-funding their campaigns for U.S. Senate, but they're each throwing in a lot of cash.",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate candidate Alex Lasry pours in $1.55 million more into race, while Sarah Godlewski adds $750,000"
+    "title": "Democratic U.S. Senate candidate Alex Lasry pours in $1.55 million more into race, while Sarah Godlewski adds $750,000",
+    "sentiment": "0.0"
   },
   {
     "id": 59,
     "mediaId": 195,
-    "date": "2/6/2022 12:00:00 AM",
+    "date": "d2022-02-06T15:30",
     "sentence": "Two other contenders who can put their own money into the contest are state treasurer Sarah Godlewski, supported by women's groups, and <span class='selected-term'>Alex Lasry</span>, whose family owns the Milwaukee Bucks professional basketball team.",
     "author": "Albert Hunt",
-    "title": "Midterm primaries might be critical to balance of the Senate"
+    "title": "Midterm primaries might be critical to balance of the Senate",
+    "sentiment": "0.0"
   },
   {
     "id": 2390,
     "mediaId": 238,
-    "date": "2/7/2022 12:00:00 AM",
+    "date": "d2022-02-07T00:00",
     "sentence": "Democrats have plenty of options, including Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and State Treasurer Sarah Godlewski, who has made her appeal in rural areas a key argument for her campaign.",
     "author": "",
-    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race"
+    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2385,
     "mediaId": 367,
-    "date": "2/24/2022 12:00:00 AM",
+    "date": "d2022-02-24T00:00",
     "sentence": "Nelson is trying to provide a contrast in the race against top contenders Barnes, state Treasurer Sarah Godlewski and <span class='selected-term'>Alex Lasry</span>, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
-    "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race"
+    "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2371,
     "mediaId": 195,
-    "date": "3/9/2022 12:00:00 AM",
+    "date": "d2022-03-09T15:43",
     "sentence": "Mandela Barnes (D) leading that primary field with 23 percent support, while Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> trailed at 13 percent support and Outagamie County Executive Tom Nelson garnered five percent support.",
     "author": "Julia Manchester",
-    "title": "Johnson touts work with Milwaukee faith initiative in new ads"
+    "title": "Johnson touts work with Milwaukee faith initiative in new ads",
+    "sentiment": "0.0"
   },
   {
     "id": 2368,
     "mediaId": 367,
-    "date": "3/14/2022 12:00:00 AM",
+    "date": "d2022-03-14T00:00",
     "sentence": "While Democrats have a large primary field, the ad space so far has been dominated by Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>, whose campaign has spent more than $3 million on TV spots.",
     "author": "Bill Glauber",
-    "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson"
+    "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson",
+    "sentiment": "0"
   },
   {
     "id": 2361,
     "mediaId": 195,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T11:00",
     "sentence": "Mandela Barnes (D) leading that primary field with 23 percent support, with Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> trailing at 13 percent support, Outagamie County Executive Tom Nelson garnering five percent support and State Treasurer Sarah Godlewski three percent.",
     "author": "Julia Manchester",
-    "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill"
+    "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill",
+    "sentiment": "0.0"
   },
   {
     "id": 2357,
     "mediaId": 367,
-    "date": "3/17/2022 12:00:00 AM",
+    "date": "d2022-03-17T00:00",
     "sentence": "Among the others in the large Senate primary are state Treasurer Sarah Godlewski, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and Outagamie County Executive Tom Nelson.",
     "author": "Patrick Marley",
-    "title": "Gov. Tony Evers isn't endorsing any candidates in the Democratic primary for U.S. Senate"
+    "title": "Gov. Tony Evers isn't endorsing any candidates in the Democratic primary for U.S. Senate",
+    "sentiment": "0"
   },
   {
     "id": 2355,
     "mediaId": 195,
-    "date": "3/21/2022 12:00:00 AM",
+    "date": "d2022-03-21T12:00",
     "sentence": "Mandela Barnes (D) leading the field, with 23 percent support, followed by Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> at 13 percent support.",
     "author": "Julia Manchester",
-    "title": "Marianne Williamson endorses Tom Nelson in Wisconsin Senate race"
+    "title": "Marianne Williamson endorses Tom Nelson in Wisconsin Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2349,
     "mediaId": 367,
-    "date": "3/24/2022 12:00:00 AM",
+    "date": "d2022-03-24T00:00",
     "sentence": "In many ways, Barnes, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>, Outagamie County Executive Tom Nelson and state Treasurer Sarah Godlewski are following the political path Baldwin blazed.",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate contenders in Wisconsin focus on manufacturing"
+    "title": "Democratic U.S. Senate contenders in Wisconsin focus on manufacturing",
+    "sentiment": "0.0"
   },
   {
     "id": 2347,
     "mediaId": 43,
-    "date": "3/28/2022 12:00:00 AM",
+    "date": "d2022-03-28T00:00",
     "sentence": "Or click below to donate and get involved with the Senate Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\nMandela Barnes for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\n<span class='selected-term'>Alex Lasry</span> for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
-    "title": "Rep. Adam Schiff (D. CA) Helps Wisconsin Democrats Take Down Putin's Favorite Senator"
+    "title": "Rep. Adam Schiff (D. CA) Helps Wisconsin Democrats Take Down Putin's Favorite Senator",
+    "sentiment": "0.0"
   },
   {
     "id": 2340,
     "mediaId": 195,
-    "date": "4/4/2022 12:00:00 AM",
+    "date": "d2022-04-04T10:00",
     "sentence": "Outagamie County Executive Tom Nelson has said China is eating our lunch,? when it comes to trade, while Milwaukee Bucks basketball team executive <span class='selected-term'>Alex Lasry</span> vowed to stand up to China? in a TV ad.",
     "author": "Julia Manchester",
-    "title": "Midwest Democrats go all in on tough-on-China approach"
-  },
-  {
-    "id": 2336,
-    "mediaId": 195,
-    "date": "4/12/2022 12:00:00 AM",
-    "sentence": "A Marquette University Law School survey released earlier this month showed Barnes leading the Democratic field of candidates, with 23 percent support, followed by Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> at 13 percent support.",
-    "author": "Julia Manchester",
-    "title": "Barnes posts $1.7M first quarter number in Wisconsin Senate race"
+    "title": "Midwest Democrats go all in on tough-on-China approach",
+    "sentiment": "0.0"
   },
   {
     "id": 2337,
     "mediaId": 367,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "In both public and private polling, Barnes, the state's lieutenant governor, has a lead over three main rivals, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>, state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson.",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate candidate Mandela Barnes opposes Biden administration's plan to lift Title 42 rule at the border"
+    "title": "Democratic U.S. Senate candidate Mandela Barnes opposes Biden administration's plan to lift Title 42 rule at the border",
+    "sentiment": "0.0"
   },
   {
-    "id": 2332,
-    "mediaId": 238,
-    "date": "4/13/2022 12:00:00 AM",
-    "sentence": "Then there is <span class='selected-term'>Alex Lasry</span>, a billionaire's son who is on leave as an executive for the Milwaukee Bucks and who has reached up to 17 percent in internal polling by dumping $2.35 million of his own fortune into ads to jump-start his race.",
-    "author": "",
-    "title": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race"
+    "id": 2336,
+    "mediaId": 195,
+    "date": "d2022-04-12T13:11",
+    "sentence": "A Marquette University Law School survey released earlier this month showed Barnes leading the Democratic field of candidates, with 23 percent support, followed by Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> at 13 percent support.",
+    "author": "Julia Manchester",
+    "title": "Barnes posts $1.7M first quarter number in Wisconsin Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2333,
     "mediaId": 239,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:04:52",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, and <span class='selected-term'>Alex Lasry</span>, the son of Milwaukee Bucks co-owner Marc Lasry.",
     "author": "Mica Soellner",
-    "title": "Democrats battle to knock out Sen. Ron Johnson in tough election year"
+    "title": "Democrats battle to knock out Sen. Ron Johnson in tough election year",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2332,
+    "mediaId": 238,
+    "date": "d2022-04-13T11:45",
+    "sentence": "Then there is <span class='selected-term'>Alex Lasry</span>, a billionaire's son who is on leave as an executive for the Milwaukee Bucks and who has reached up to 17 percent in internal polling by dumping $2.35 million of his own fortune into ads to jump-start his race.",
+    "author": "",
+    "title": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2330,
     "mediaId": 367,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> poured $3.45 million into his campaign in the first three months of the year, while state Treasurer Sarah Godlewski added $1.5 million to her campaign, according to statements issued Thursday.",
     "author": "Bill Glauber",
-    "title": "Bucks executive Alex Lasry, Wisconsin Treasurer Sarah Godlewski spend big in Democratic U.S. Senate race"
-  },
-  {
-    "id": 2321,
-    "mediaId": 195,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>'s campaign said he raised $3.9 million during the period.",
-    "author": "Julia Manchester",
-    "title": "Johnson raises $7.1 million in first quarter"
+    "title": "Bucks executive Alex Lasry, Wisconsin Treasurer Sarah Godlewski spend big in Democratic U.S. Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2326,
     "mediaId": 367,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> poured $3.45 million into his campaign and has raised $3.9 million overall.",
     "author": "Bill Glauber",
-    "title": "Republican U.S. Sen. Ron Johnson raised $7.1 million in campaign cash during the first three months of 2022"
+    "title": "Republican U.S. Sen. Ron Johnson raised $7.1 million in campaign cash during the first three months of 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 2321,
+    "mediaId": 195,
+    "date": "d2022-04-15T14:20",
+    "sentence": "Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>'s campaign said he raised $3.9 million during the period.",
+    "author": "Julia Manchester",
+    "title": "Johnson raises $7.1 million in first quarter",
+    "sentiment": "0.0"
   },
   {
     "id": 2314,
     "mediaId": 147,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T18:40",
     "sentence": "",
     "author": "Scott Bauer",
-    "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson"
+    "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson",
+    "sentiment": "0.0"
   },
   {
     "id": 2304,
     "mediaId": 195,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T19:34",
     "sentence": "However, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> trails just behind him at 16 percent, a difference that falls within the poll's margin of error.",
     "author": "Tal Axelrod",
-    "title": "Democratic Senate primary tightening in Wisconsin: poll"
+    "title": "Democratic Senate primary tightening in Wisconsin: poll",
+    "sentiment": "0.0"
   },
   {
     "id": 2302,
     "mediaId": 238,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T14:00",
     "sentence": "The Marquette Law poll finds that Barnes, who was at 23 percent in February, is down to 19 percent, while former Bucks executive <span class='selected-term'>Alex Lasry</span> has risen from 13 to 16 percent.",
     "author": "",
-    "title": "Opinion The Wisconsin GOP is stuck with Ron Johnson. Democrats could pick a winner."
+    "title": "Opinion The Wisconsin GOP is stuck with Ron Johnson. Democrats could pick a winner.",
+    "sentiment": "0.0"
   },
   {
     "id": 2301,
     "mediaId": 367,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "Mandela Barnes was the choice of 19% while Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> was at 16%, with state Treasurer Sarah Godlewski at 7% and Outagamie County Executive Tom Nelson at 5%.",
     "author": "Bill Glauber",
-    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution"
-  },
-  {
-    "id": 2292,
-    "mediaId": 238,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "Now another non-politician, <span class='selected-term'>Alex Lasry</span>, on leave as senior vice president of the Milwaukee Bucks NBA team, wants to replace Johnson.",
-    "author": "",
-    "title": "Opinion A Ron Johnson challenger asks: What if Wisconsin actually had two senators?"
+    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution",
+    "sentiment": "0.0"
   },
   {
     "id": 2294,
     "mediaId": 43,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\nMandela Barnes for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\n<span class='selected-term'>Alex Lasry</span> for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
-    "title": "Now Says That COVID Vaccines Could Cause AIDS"
+    "title": "Now Says That COVID Vaccines Could Cause AIDS",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2292,
+    "mediaId": 238,
+    "date": "d2022-05-03T14:00",
+    "sentence": "Now another non-politician, <span class='selected-term'>Alex Lasry</span>, on leave as senior vice president of the Milwaukee Bucks NBA team, wants to replace Johnson.",
+    "author": "",
+    "title": "Opinion A Ron Johnson challenger asks: What if Wisconsin actually had two senators?",
+    "sentiment": "0.0"
   },
   {
     "id": 2288,
     "mediaId": 43,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T00:00",
     "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\nMandela Barnes for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\n<span class='selected-term'>Alex Lasry</span> for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
-    "title": "Admits He's Waging \"Guerilla War\" Against The Medical Establishment"
+    "title": "Admits He's Waging \"Guerilla War\" Against The Medical Establishment",
+    "sentiment": "0.0"
   },
   {
     "id": 6547,
     "mediaId": 367,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T00:00",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and Outagamie County Executive Tom Nelson.",
     "author": "Patrick Marley",
-    "title": "Ron Johnson unifies Republicans at state convention as they remain split over issues and other candidates"
+    "title": "Ron Johnson unifies Republicans at state convention as they remain split over issues and other candidates",
+    "sentiment": "0.0"
   },
   {
     "id": 6548,
     "mediaId": 367,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T00:00",
     "sentence": "A recent Marquette University Law School Poll showed a race that appeared to be tightening, with Barnes leading <span class='selected-term'>Alex Lasry</span>, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
-    "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance"
+    "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance",
+    "sentiment": "0.0"
   }
 ]

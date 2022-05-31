@@ -2,33 +2,37 @@
   {
     "id": 5549,
     "mediaId": 129,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "",
     "author": "",
-    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up"
-  },
-  {
-    "id": 5529,
-    "mediaId": 238,
-    "date": "5/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Max Boot",
-    "title": "Opinion The Buffalo shooters views are mainstream on the right"
+    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
+    "sentiment": "0"
   },
   {
     "id": 5536,
     "mediaId": 157,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Sarah K. Burris",
-    "title": "Conservative warns Buffalo shooter's ideology is mainstream to right-wing  while Fox dodges their role"
+    "title": "Conservative warns Buffalo shooter's ideology is mainstream to right-wing  while Fox dodges their role",
+    "sentiment": "0"
+  },
+  {
+    "id": 5529,
+    "mediaId": 238,
+    "date": "d2022-05-15T19:17",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion The Buffalo shooters views are mainstream on the right",
+    "sentiment": "0"
   },
   {
     "id": 5472,
     "mediaId": 302,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T10:00",
     "sentence": "",
     "author": "",
-    "title": "In wake of the Buffalo mass shooting, lets pity the poor white people ... again | Column"
+    "title": "In wake of the Buffalo mass shooting, lets pity the poor white people ... again | Column",
+    "sentiment": "0"
   }
 ]

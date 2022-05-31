@@ -1,10 +1,11 @@
 {
   "id": 5745,
   "mediaId": 129,
-  "date": "5/5/2022 12:00:00 AM",
+  "date": "d2022-05-05T00:00",
   "headline": "In Arizona, a Swing State Swings to the Far Right",
   "image": "https://static01.nyt.com/images/2022/04/08/us/politics/00pol-arizona-Kari/merlin_205043214_4a5b2cc5-6954-483b-93b1-6133a902debb-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/05/us/politics/arizona-midterms-swing.html",
+  "sentiment": "0.665",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

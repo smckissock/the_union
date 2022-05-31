@@ -2,33 +2,37 @@
   {
     "id": 1005,
     "mediaId": 43,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T00:00",
     "sentence": "A dozen Republicans are seeking their party's nod, including former Detroit Police Chief <span class='selected-term'>James Craig</span>, chiropractor Garrett Soldano, businessman Kevin Rinke, and conservative radio host Tudor Dixon.",
     "author": "",
-    "title": "GOP primary for Wisconsin governor"
+    "title": "GOP primary for Wisconsin governor",
+    "sentiment": "0.0"
   },
   {
     "id": 938,
     "mediaId": 43,
-    "date": "3/2/2022 12:00:00 AM",
+    "date": "d2022-03-02T00:00",
     "sentence": "Governors\n? MI-Gov: MIRS has commissioned a survey of the August Republican primary by the GOP firm Mitchell Research that finds former Detroit Police Chief <span class='selected-term'>James Craig</span> leading chiropractor Garrett Soldano 32-10.",
     "author": "",
-    "title": "House Democrat and indicted GOP attorney general headed to runoffs"
+    "title": "House Democrat and indicted GOP attorney general headed to runoffs",
+    "sentiment": "0.0"
   },
   {
     "id": 868,
     "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "Ready for the Midterm Primary Elections? Here's What to Know."
+    "title": "Ready for the Midterm Primary Elections? Here's What to Know.",
+    "sentiment": "0.0"
   },
   {
     "id": 869,
     "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "Ready for the Midterm Primary Elections? Here's What to Know."
+    "title": "Ready for the Midterm Primary Elections? Here's What to Know.",
+    "sentiment": "0.0"
   }
 ]

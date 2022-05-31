@@ -2,41 +2,46 @@
   {
     "id": 1000,
     "mediaId": 237,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T15:47",
     "sentence": "Abortion remarks by <span class='selected-term'>Garrett Soldano</span>, a Republican candidate for Michigan governor, went viral, creating controversy in a crowded gubernatorial primary race.",
     "author": "Kate Scanlon",
-    "title": "Republican candidate for Michigan governor sparks abortion controversy"
+    "title": "Republican candidate for Michigan governor sparks abortion controversy",
+    "sentiment": "-0.602"
   },
   {
     "id": 886,
     "mediaId": 43,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T00:00",
     "sentence": "He was the former chair of the Antrim Republican Party and promotes the BIG LIE and is a supporter of <span class='selected-term'>Garrett Soldano</span>!",
     "author": "",
-    "title": "'Trucker Randy' gives truckers a bad name with racist podcast claim"
+    "title": "'Trucker Randy' gives truckers a bad name with racist podcast claim",
+    "sentiment": "0.0"
   },
   {
     "id": 7301,
     "mediaId": 98,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:03",
     "sentence": "Those qualifying for the ballot would be Dixon, a former conservative TV news host who netted the DeVos family endorsement earlier Monday; chiropractor and grass-roots activist <span class='selected-term'>Garrett Soldano</span>; wealthy self-funding businessman Kevin Rinke; real estate broker and anti-coronavirus lockdown activist Ryan Kelley; and pastor Ralph Rebandt.",
     "author": "DAVID EGGERT",
-    "title": "Primary problem: Michigan GOP governor candidates short signatures"
-  },
-  {
-    "id": 7300,
-    "mediaId": 261,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Also on the ballot, and suddenly in much stronger positions, are:Ottawa County real estate agent Ryan Kelley; Farmington Hills pastor Ralph Rebandt; Bloomfield Hills businessman Kevin Rinke, and Kalamazoo chiropractor <span class='selected-term'>Garrett Soldano</span>.",
-    "author": "Paul Egan",
-    "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot"
+    "title": "Primary problem: Michigan GOP governor candidates short signatures",
+    "sentiment": "0.0"
   },
   {
     "id": 7473,
     "mediaId": 157,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "Businessman Kevin Rinke, chiropractor <span class='selected-term'>Garrett Soldano</span>, far-right activist Ryan Kelley and the Rev.",
     "author": "",
-    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race"
+    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7300,
+    "mediaId": 261,
+    "date": "d2022-05-24T02:09",
+    "sentence": "Also on the ballot, and suddenly in much stronger positions, are:Ottawa County real estate agent Ryan Kelley; Farmington Hills pastor Ralph Rebandt; Bloomfield Hills businessman Kevin Rinke, and Kalamazoo chiropractor <span class='selected-term'>Garrett Soldano</span>.",
+    "author": "Paul Egan",
+    "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
+    "sentiment": "0.0"
   }
 ]

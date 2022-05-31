@@ -1,10 +1,11 @@
 {
   "id": 690,
   "mediaId": 129,
-  "date": "2/2/2022 12:00:00 AM",
+  "date": "d2022-02-02T00:00",
   "headline": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
   "image": "https://static01.nyt.com/images/2022/02/02/us/politics/02dc-gop-impeach-1/merlin_201225483_941671ec-66b5-4ab8-a343-34bf69d117b3-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/02/02/us/politics/republicans-impeach-trump-primary-fund-raising.html",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

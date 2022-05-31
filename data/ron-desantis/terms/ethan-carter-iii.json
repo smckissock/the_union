@@ -2,9 +2,19 @@
   {
     "id": 3767,
     "mediaId": 943,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T13:28",
     "sentence": "La ley sancionada por el gobernador republicano <span class='selected-term'>Ron DeSantis</span>, prohbe dar clases sobre orientacin sexual o identidad de gnero desde el jardn de infantes hasta tercer grado.",
     "author": "Associated Press",
-    "title": "Florida: Censuran protesta de estudiantes contra ley antigay"
+    "title": "Florida: Censuran protesta de estudiantes contra ley antigay",
+    "sentiment": "0"
+  },
+  {
+    "id": 3767,
+    "mediaId": 943,
+    "date": "d2022-05-10T13:28",
+    "sentence": "La ley sancionada por el gobernador republicano <span class='selected-term'>Ron DeSantis</span>, prohbe dar clases sobre orientacin sexual o identidad de gnero desde el jardn de infantes hasta tercer grado.",
+    "author": "Associated Press",
+    "title": "Florida: Censuran protesta de estudiantes contra ley antigay",
+    "sentiment": "0.0"
   }
 ]

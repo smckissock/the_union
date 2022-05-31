@@ -1,10 +1,11 @@
 {
   "id": 195,
   "mediaId": 157,
-  "date": "4/13/2022 12:00:00 AM",
+  "date": "d2022-04-13T00:00",
   "headline": "Trump finally opens his war chest as he struggles to take down GOP governor Brian Kemp in Georgia",
   "image": "https://www.rawstory.com/media-library/former-president-donald-trump-poses-with-georgia-gop-senate-candidate-david-perdue.png?id=29677171&width=1200&coordinates=0%2C6%2C0%2C274&height=600",
   "link": "https://www.rawstory.com/trump-opens-war-chest-to-defeat-kemp-in-georgia/",
+  "sentiment": "-0.826",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     1147,
     1248,
-    1646,
     2095,
     3094,
     4325,

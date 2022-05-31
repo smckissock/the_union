@@ -2,41 +2,82 @@
   {
     "id": 4204,
     "mediaId": 302,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T17:00",
     "sentence": "",
     "author": "",
-    "title": "Florida Capitol Police Director Glass tapped by DeSantis as acting FDLE commissioner"
+    "title": "Florida Capitol Police Director Glass tapped by DeSantis as acting FDLE commissioner",
+    "sentiment": "0"
+  },
+  {
+    "id": 4204,
+    "mediaId": 302,
+    "date": "d2022-05-02T17:00",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Capitol Police Director Glass tapped by DeSantis as acting FDLE commissioner",
+    "sentiment": "0.0"
   },
   {
     "id": 4044,
     "mediaId": 65,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T18:00",
     "sentence": "",
     "author": "Kelly Laco",
-    "title": "FL judge says Biden border policies merely a speedbump for migrants as catch-and-release lawsuit advances"
+    "title": "FL judge says Biden border policies merely a speedbump for migrants as catch-and-release lawsuit advances",
+    "sentiment": "0"
+  },
+  {
+    "id": 4044,
+    "mediaId": 65,
+    "date": "d2022-05-04T18:00",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "FL judge says Biden border policies merely a speedbump for migrants as catch-and-release lawsuit advances",
+    "sentiment": "0.0"
   },
   {
     "id": 3939,
     "mediaId": 151,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T08:31",
     "sentence": "",
     "author": "",
-    "title": "Florida Republicans won't let go of Disney's campaign cash"
+    "title": "Florida Republicans won't let go of Disney's campaign cash",
+    "sentiment": "-0.36"
+  },
+  {
+    "id": 3939,
+    "mediaId": 151,
+    "date": "d2022-05-06T08:31",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Republicans won't let go of Disney's campaign cash",
+    "sentiment": "0.0"
   },
   {
     "id": 3636,
     "mediaId": 302,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T17:00",
     "sentence": "",
     "author": "Lawrence Mower",
-    "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run"
+    "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run",
+    "sentiment": "0"
+  },
+  {
+    "id": 3636,
+    "mediaId": 302,
+    "date": "d2022-05-12T17:00",
+    "sentence": "",
+    "author": "Lawrence Mower",
+    "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run",
+    "sentiment": "0.0"
   },
   {
     "id": 3473,
     "mediaId": 302,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T15:00",
     "sentence": "",
     "author": "",
-    "title": "Clerk sues Pinellas County for spending on election lawsuit"
+    "title": "Clerk sues Pinellas County for spending on election lawsuit",
+    "sentiment": "0.0"
   }
 ]

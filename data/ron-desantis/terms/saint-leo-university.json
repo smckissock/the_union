@@ -2,17 +2,28 @@
   {
     "id": 4114,
     "mediaId": 302,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T19:00",
     "sentence": "",
     "author": "Langston Taylor",
-    "title": "Most Florida voters oppose abortion bans, polls show"
+    "title": "Most Florida voters oppose abortion bans, polls show",
+    "sentiment": "0"
+  },
+  {
+    "id": 4114,
+    "mediaId": 302,
+    "date": "d2022-05-03T19:00",
+    "sentence": "",
+    "author": "Langston Taylor",
+    "title": "Most Florida voters oppose abortion bans, polls show",
+    "sentiment": "0.0"
   },
   {
     "id": 7132,
     "mediaId": 302,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T10:00",
     "sentence": "",
     "author": "",
-    "title": "Floridas focus on math textbooks may be nothing compared to whats next"
+    "title": "Floridas focus on math textbooks may be nothing compared to whats next",
+    "sentiment": "0.0"
   }
 ]

@@ -2,17 +2,19 @@
   {
     "id": 6160,
     "mediaId": 195,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T10:00",
     "sentence": "",
     "author": "Juan Williams",
-    "title": "Juan Williams: Trump rains on McConnells parade"
+    "title": "Juan Williams: Trump rains on McConnells parade",
+    "sentiment": "0.701"
   },
   {
     "id": 5522,
     "mediaId": 195,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T10:00",
     "sentence": "",
     "author": "Juan Williams",
-    "title": "Juan Williams: The GOPs fake concern on immigration"
+    "title": "Juan Williams: The GOPs fake concern on immigration",
+    "sentiment": "0"
   }
 ]

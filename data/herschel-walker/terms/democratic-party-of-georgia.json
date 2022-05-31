@@ -2,57 +2,73 @@
   {
     "id": 8262,
     "mediaId": 12,
-    "date": "1/20/2022 12:00:00 AM",
+    "date": "d2022-01-20T19:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "Walker has limited public campaign stops, but hes profited from private events"
+    "title": "Walker has limited public campaign stops, but hes profited from private events",
+    "sentiment": "0.21"
   },
   {
     "id": 8218,
     "mediaId": 12,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T12:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "Bidens sagging approval could haunt Georgia Democrats"
+    "title": "Bidens sagging approval could haunt Georgia Democrats",
+    "sentiment": "-0.851"
   },
   {
     "id": 8044,
     "mediaId": 305,
-    "date": "3/11/2022 12:00:00 AM",
+    "date": "d2022-03-11T11:38",
     "sentence": "Sen. Ralph Warnock is also seeking to win a six-term and Republican <span class='selected-term'>Herschel Walker</span> is unfortunately still trying.",
     "author": "Kalyn Womack",
-    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race"
+    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
+    "sentiment": "0.0"
   },
   {
     "id": 8025,
     "mediaId": 43,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T00:00",
     "sentence": "Whenever Georgia needed somebody to speak up for their businesses, they called <span class='selected-term'>Herschel Walker</span>, he told supporters at a recent rally in Dahlonega.",
     "author": "",
-    "title": "Herschel Walker (R), \"If evolution is true, why are there still apes? Think about it."
+    "title": "Herschel Walker (R), \"If evolution is true, why are there still apes? Think about it.",
+    "sentiment": "-0.676"
   },
   {
     "id": 7878,
     "mediaId": 43,
-    "date": "3/29/2022 12:00:00 AM",
+    "date": "d2022-03-29T00:00",
     "sentence": "",
     "author": "",
-    "title": "Watch Herschel Walker's (R) Embarrassingly Idiotic Gaffe About Critical Race Theory"
+    "title": "Watch Herschel Walker's (R) Embarrassingly Idiotic Gaffe About Critical Race Theory",
+    "sentiment": "-0.82"
   },
   {
     "id": 7783,
     "mediaId": 19,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:00",
     "sentence": "Republican <span class='selected-term'>Herschel Walker</span> holds a five-point lead over incumbent Sen. Raphael Warnock (D-GA) in a hypothetical matchup for Georgias U.S. Senate seat, according to a recent poll.",
     "author": "Jacob Bliss",
-    "title": "Poll: Republican Herschel Walker Shows 5-Point Lead over Democrat Sen. Raphael Warnock"
+    "title": "Poll: Republican Herschel Walker Shows 5-Point Lead over Democrat Sen. Raphael Warnock",
+    "sentiment": "0"
   },
   {
     "id": 7629,
     "mediaId": 237,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T14:50",
     "sentence": "",
     "author": "Asher Notheis",
-    "title": "Herschel Walker will skip second primary debate in Georgia Senate race"
+    "title": "Herschel Walker will skip second primary debate in Georgia Senate race",
+    "sentiment": "-0.72"
+  },
+  {
+    "id": 8579,
+    "mediaId": 151,
+    "date": "d2022-05-29T11:00",
+    "sentence": "Only in Georgia, it was incumbent Sen. Raphael Warnock who issued the call Thursday for three televised debates, as soon as his fall Senate election match-up with <span class='selected-term'>Herschel Walker</span> was set.",
+    "author": "",
+    "title": "He doesn't speak in beautiful syntax: GOP bets the Senate that Walker is ready for prime time",
+    "sentiment": "-0.858"
   }
 ]

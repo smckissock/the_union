@@ -2,17 +2,28 @@
   {
     "id": 3468,
     "mediaId": 151,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T20:45",
     "sentence": "",
     "author": "",
-    "title": "Bidens Cuba and Venezuela policy shifts leave Florida Democrats dismayed"
+    "title": "Bidens Cuba and Venezuela policy shifts leave Florida Democrats dismayed",
+    "sentiment": "0.0"
   },
   {
     "id": 7147,
     "mediaId": 19,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "Hannah Bleau",
-    "title": "Ron DeSantis: Biden Administration Wants to Punish Americans for Using Carbon with Higher Gas Prices"
+    "title": "Ron DeSantis: Biden Administration Wants to Punish Americans for Using Carbon with Higher Gas Prices",
+    "sentiment": "0"
+  },
+  {
+    "id": 7147,
+    "mediaId": 19,
+    "date": "d2022-05-20T00:00",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis: Biden Administration Wants to Punish Americans for Using Carbon with Higher Gas Prices",
+    "sentiment": "0.0"
   }
 ]

@@ -2,49 +2,64 @@
   {
     "id": 859,
     "mediaId": 195,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T11:05",
     "sentence": "Whitmer is facing a cavalcade of possible Republican challengers, including former Detroit Police Chief <span class='selected-term'>James Craig</span> and conservative media personality Tudor Dixon, and her ability  or inability  to fend off her ultimate challenger will indicate how Democrats are able to rebut coronavirus-related criticism and compete in Rust Belt swing states like Michigan, Pennsylvania and Wisconsin.",
     "author": "Tal Axelrod",
-    "title": "Eleven interesting races to watch in 2022"
+    "title": "Eleven interesting races to watch in 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 1011,
     "mediaId": 43,
-    "date": "1/25/2022 12:00:00 AM",
+    "date": "d2022-01-25T00:00",
     "sentence": "Gretchen Whitmer defeating one of her Republican opponents, former Detroit Police Chief <span class='selected-term'>James Craig</span>, 46-41, which is an improvement from her 45-44 edge in the firm's August survey.",
     "author": "",
-    "title": "they offer a difficult landscape for Democrats"
+    "title": "they offer a difficult landscape for Democrats",
+    "sentiment": "0.0"
   },
   {
     "id": 929,
     "mediaId": 19,
-    "date": "3/21/2022 12:00:00 AM",
+    "date": "d2022-03-21T00:00",
     "sentence": "Gretchen Whitmer (D) is looking to defend herself against many Republican challengers, including frontrunner <span class='selected-term'>James Craig</span>, who was a strong supporter of the trucker convoys.",
     "author": "Wendell HusebÃ¸",
-    "title": "Poll: Joe Biden's Approval Rating Is 36 Percent, Impacting Battleground States"
+    "title": "Poll: Joe Biden's Approval Rating Is 36 Percent, Impacting Battleground States",
+    "sentiment": "0.0"
   },
   {
     "id": 884,
     "mediaId": 43,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T00:00",
     "sentence": "Governors\n? MI-Gov: Republican Rep. Jack Bergman, whose 1st District covers the Upper Peninsula and northernmost portion of the Lower Peninsula, has switched his endorsement in the August GOP primary from former Detroit Police Chief <span class='selected-term'>James Craig</span> to self-funding businessman Perry Johnson.",
     "author": "",
-    "title": "Morning Digest: Trump's man in Georgia keeps flogging election conspiracies as his campaign craters"
+    "title": "Morning Digest: Trump's man in Georgia keeps flogging election conspiracies as his campaign craters",
+    "sentiment": "0.0"
   },
   {
     "id": 867,
     "mediaId": 881,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T08:11",
     "sentence": "Michigan Republican front-runner <span class='selected-term'>James Craig</span> has pledged to do whatever I can? to keep that law in place should he win the governorship.",
     "author": "Cameron Joseph",
-    "title": "The 2022 elections could determine the fate of abortion access for years in a number of major swing states."
+    "title": "The 2022 elections could determine the fate of abortion access for years in a number of major swing states.",
+    "sentiment": "0.0"
   },
   {
     "id": 8357,
     "mediaId": 129,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T09:15:29",
     "sentence": "The Michigan Bureau of Elections recommended on Monday that <span class='selected-term'>James Craig</span>, a former Detroit police chief, and Perry Johnson, a wealthy businessman, be excluded from the Aug. 2 primary, finding that neither candidate met the requirement of submitting signatures from at least 15,000 registered voters.",
     "author": "",
-    "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia"
+    "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8441,
+    "mediaId": 129,
+    "date": "d2022-05-27T14:00:08",
+    "sentence": "The five candidates, half of the party's field, were denied a spot on the Aug. 2 primary ballot by the Board of State Canvassers, including <span class='selected-term'>James Craig</span>, a former Detroit police chief, and Perry Johnson, a wealthy businessman.",
+    "author": "",
+    "title": "Republican Governors Lose Their Dread of Trump",
+    "sentiment": "0.0"
   }
 ]

@@ -2,33 +2,37 @@
   {
     "id": 5402,
     "mediaId": 12,
-    "date": "3/30/2022 12:00:00 AM",
+    "date": "d2022-03-30T20:00",
     "sentence": "",
     "author": "Mark Niesse",
-    "title": "Bill passes to allow removal of blue lights from Georgia trooper cars"
+    "title": "Bill passes to allow removal of blue lights from Georgia trooper cars",
+    "sentiment": "0"
   },
   {
     "id": 5319,
     "mediaId": 12,
-    "date": "4/5/2022 12:00:00 AM",
+    "date": "d2022-04-05T05:00",
     "sentence": "",
     "author": "Maya T. Prabhu",
-    "title": "Georgia lawmakers approve divisive concepts, transgender sports bill"
+    "title": "Georgia lawmakers approve divisive concepts, transgender sports bill",
+    "sentiment": "0"
   },
   {
     "id": 5186,
     "mediaId": 1576,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:00",
     "sentence": "",
     "author": "",
-    "title": "Public college costs to fall in Georgia as fee goes away"
+    "title": "Public college costs to fall in Georgia as fee goes away",
+    "sentiment": "0"
   },
   {
     "id": 7438,
     "mediaId": 238,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T10:42",
     "sentence": "Today, Republican voters in Georgia will decide a marquee primary contest for governor between incumbent <span class='selected-term'>Brian Kemp</span> and former U.S. senator David Perdue, an election that could be a big setback for former president Donald Trump as he tries to play GOP kingmaker.",
     "author": "Mariana Alfaro",
-    "title": "Primary elections live updates Big races are on the ballot in Georgia, Alabama, Arkansas and Texas"
+    "title": "Primary elections live updates Big races are on the ballot in Georgia, Alabama, Arkansas and Texas",
+    "sentiment": "0.0"
   }
 ]

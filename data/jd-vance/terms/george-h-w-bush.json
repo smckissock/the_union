@@ -2,17 +2,19 @@
   {
     "id": 5556,
     "mediaId": 19,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "",
     "author": "Paul Bois",
-    "title": "Report: George P. Bush Floundering Due to Family Name"
+    "title": "Report: George P. Bush Floundering Due to Family Name",
+    "sentiment": "0"
   },
   {
     "id": 7229,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "My Lunch With President Biden"
+    "title": "My Lunch With President Biden",
+    "sentiment": "0"
   }
 ]

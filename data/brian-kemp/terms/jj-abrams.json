@@ -1,18 +1,20 @@
 [
   {
-    "id": 5304,
-    "mediaId": 65,
-    "date": "4/5/2022 12:00:00 AM",
-    "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
-    "author": "Julia Musto",
-    "title": "Stacey Abrams now a millionaire as she aims to take governor's office"
-  },
-  {
     "id": 5316,
     "mediaId": 558,
-    "date": "4/5/2022 12:00:00 AM",
+    "date": "d2022-04-05T09:54",
     "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
     "author": "",
-    "title": "Stacey Abrams now a millionaire as she aims to take governor's office"
+    "title": "Stacey Abrams now a millionaire as she aims to take governor's office",
+    "sentiment": "0"
+  },
+  {
+    "id": 5304,
+    "mediaId": 65,
+    "date": "d2022-04-05T16:54",
+    "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
+    "author": "Julia Musto",
+    "title": "Stacey Abrams now a millionaire as she aims to take governor's office",
+    "sentiment": "0"
   }
 ]

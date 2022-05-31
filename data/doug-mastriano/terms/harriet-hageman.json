@@ -2,9 +2,19 @@
   {
     "id": 7288,
     "mediaId": 136,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T13:35",
     "sentence": "The races are being closely watched to see if more far-right candidates across the country can follow in the footsteps of <span class='selected-term'>Doug Mastriano</span>, who won Pennsylvania's Republican primary race for governor last week by running a campaign focused on pushing Trump's election falsehoods.",
     "author": "Daniel Bush",
-    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents"
+    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8376,
+    "mediaId": 151,
+    "date": "d2022-05-29T15:39",
+    "sentence": "Most recently, this trend was on display in <span class='selected-term'>DOUG MASTRIANO</span>s victory in the Pennsylvania GOP gubernatorial primary (though he rejects the label).",
+    "author": "",
+    "title": "POLITICO Playbook: Trumps new obsession",
+    "sentiment": "0.0"
   }
 ]

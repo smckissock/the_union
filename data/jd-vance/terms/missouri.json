@@ -2,49 +2,64 @@
   {
     "id": 7973,
     "mediaId": 124,
-    "date": "3/22/2022 12:00:00 AM",
+    "date": "d2022-03-22T13:17",
     "sentence": "",
     "author": "",
-    "title": "The GOP's bid to retake the Senate is encountering early struggles"
+    "title": "The GOP's bid to retake the Senate is encountering early struggles",
+    "sentiment": "0"
   },
   {
     "id": 6280,
     "mediaId": 19,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Donald Trump Jr. Sings Eric Greitens Praises: They Only Go After Guys that Will Actually Pose a Threat"
+    "title": "Donald Trump Jr. Sings Eric Greitens Praises: They Only Go After Guys that Will Actually Pose a Threat",
+    "sentiment": "0"
   },
   {
     "id": 6213,
     "mediaId": 209,
-    "date": "4/23/2022 12:00:00 AM",
+    "date": "d2022-04-23T00:00",
     "sentence": "",
     "author": "Steve Larkin",
-    "title": "Morality just isn't Republicans' thing anymore"
+    "title": "Morality just isn't Republicans' thing anymore",
+    "sentiment": "0"
   },
   {
     "id": 6157,
     "mediaId": 151,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T13:01",
     "sentence": "",
     "author": "",
-    "title": "Hawley endorses Thiel-backed Arizona Senate candidate"
+    "title": "Hawley endorses Thiel-backed Arizona Senate candidate",
+    "sentiment": "0.859"
   },
   {
     "id": 4316,
     "mediaId": 129,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day"
+    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
+    "sentiment": "0"
   },
   {
     "id": 5597,
     "mediaId": 238,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T10:00",
     "sentence": "",
     "author": "",
-    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today"
+    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today",
+    "sentiment": "0"
+  },
+  {
+    "id": 8571,
+    "mediaId": 151,
+    "date": "d2022-05-26T08:30",
+    "sentence": "",
+    "author": "",
+    "title": "'Trump picked this fight': Why heavyweight Republicans no longer fear Trump",
+    "sentiment": "0"
   }
 ]

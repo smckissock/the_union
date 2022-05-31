@@ -2,49 +2,55 @@
   {
     "id": 1089,
     "mediaId": 19,
-    "date": "3/26/2022 12:00:00 AM",
+    "date": "d2022-03-26T00:00",
     "sentence": "Right here in your state, we are going to throw out your spineless RINO Governor <span class='selected-term'>Brian Kemp</span>, and we are going to replace him with a fearless America First patriot in David Perdue,? Trump plans to say.",
     "author": "Ashley Oliver",
-    "title": "Exclusive  Trump at Georgia Rally: A Vote for RINO Brian Kemp' Is a Vote for Stacey Abrams'"
+    "title": "Exclusive  Trump at Georgia Rally: A Vote for RINO Brian Kemp' Is a Vote for Stacey Abrams'",
+    "sentiment": "-0.548"
   },
   {
     "id": 7906,
     "mediaId": 558,
-    "date": "3/26/2022 12:00:00 AM",
+    "date": "d2022-03-26T11:09",
     "sentence": "He also backed other candidates in the state against establishment Republicans, including David Perdue against the sitting governor, <span class='selected-term'>Brian Kemp</span>.",
     "author": "Edward Helmore",
-    "title": "Trump heads to Georgia in high-stakes bid to shape Republican primaries"
+    "title": "Trump heads to Georgia in high-stakes bid to shape Republican primaries",
+    "sentiment": "0.0"
   },
   {
     "id": 7894,
     "mediaId": 12,
-    "date": "3/27/2022 12:00:00 AM",
+    "date": "d2022-03-27T03:00",
     "sentence": "COMMERCE  Former President Donald Trump escalated his grudge Saturday against <span class='selected-term'>Brian Kemp</span> at a rally in northeast Georgia, urging supporters to oust the incumbent he once endorsed and purge state government of many of the governors allies.",
     "author": "Greg Bluestein",
-    "title": "Trump brings his anti-Kemp campaign to Georgia"
-  },
-  {
-    "id": 2079,
-    "mediaId": 112,
-    "date": "4/14/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Associated Press",
-    "title": "Trump PAC gives $500,000 for attack ads against Georgia's Brian Kemp"
+    "title": "Trump brings his anti-Kemp campaign to Georgia",
+    "sentiment": "-0.176"
   },
   {
     "id": 2088,
     "mediaId": 1576,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "",
     "author": "",
-    "title": "Trump PAC gives $500,000 to attack Georgia's Brian Kemp"
+    "title": "Trump PAC gives $500,000 to attack Georgia's Brian Kemp",
+    "sentiment": "-0.969"
+  },
+  {
+    "id": 2079,
+    "mediaId": 112,
+    "date": "d2022-04-14T01:43",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Trump PAC gives $500,000 for attack ads against Georgia's Brian Kemp",
+    "sentiment": "-0.902"
   },
   {
     "id": 7315,
     "mediaId": 21,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T02:00",
     "sentence": "Brandon Bell/Getty Images\nDonald Trump made last-minute plea to Georgians to vote for David Perdue and defeat <span class='selected-term'>Brian Kemp</span>.",
     "author": "Warren Rojas",
-    "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally"
+    "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally",
+    "sentiment": "0.0"
   }
 ]

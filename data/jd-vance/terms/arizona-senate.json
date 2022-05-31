@@ -1,26 +1,29 @@
 [
   {
-    "id": 6157,
-    "mediaId": 151,
-    "date": "4/25/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Hawley endorses Thiel-backed Arizona Senate candidate"
-  },
-  {
     "id": 6167,
     "mediaId": 19,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T00:00",
     "sentence": "",
     "author": "Wendell HusebÃ¸",
-    "title": "Josh Hawley Endorses Arizona Senate Candidate Blake Masters"
+    "title": "Josh Hawley Endorses Arizona Senate Candidate Blake Masters",
+    "sentiment": "0.842"
+  },
+  {
+    "id": 6157,
+    "mediaId": 151,
+    "date": "d2022-04-25T13:01",
+    "sentence": "",
+    "author": "",
+    "title": "Hawley endorses Thiel-backed Arizona Senate candidate",
+    "sentiment": "0.859"
   },
   {
     "id": 5723,
     "mediaId": 558,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T11:26",
     "sentence": "",
     "author": "Andrew Romano",
-    "title": "Is hard-right Arizona Senate hopeful Blake Masters the next J.D. Vance?"
+    "title": "Is hard-right Arizona Senate hopeful Blake Masters the next J.D. Vance?",
+    "sentiment": "0.949"
   }
 ]

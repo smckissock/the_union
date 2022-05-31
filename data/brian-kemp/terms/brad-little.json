@@ -2,49 +2,55 @@
   {
     "id": 5090,
     "mediaId": 136,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T16:08",
     "sentence": "In Georgia, Governor <span class='selected-term'>Brian Kemp</span> signed a bill in March that will provide eligible state residents with additional economic payments after they file their taxes.",
     "author": "Matthew Impelli",
-    "title": "Fourth Stimulus Check Update: Some Americans Eligible for More Money"
-  },
-  {
-    "id": 4473,
-    "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Reid Wilson",
-    "title": "Governors races spoil Trumps once-unblemished endorsement record"
-  },
-  {
-    "id": 4477,
-    "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Little fends of Trump-backed primary challenge in Idaho governor primary"
+    "title": "Fourth Stimulus Check Update: Some Americans Eligible for More Money",
+    "sentiment": "0"
   },
   {
     "id": 4479,
     "mediaId": 1576,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "",
     "author": "",
-    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn"
+    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4477,
+    "mediaId": 195,
+    "date": "d2022-05-18T04:23",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Little fends of Trump-backed primary challenge in Idaho governor primary",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4473,
+    "mediaId": 195,
+    "date": "d2022-05-18T09:16",
+    "sentence": "",
+    "author": "Reid Wilson",
+    "title": "Governors races spoil Trumps once-unblemished endorsement record",
+    "sentiment": "-0.569"
   },
   {
     "id": 6583,
     "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T21:30",
     "sentence": "",
     "author": "Brad Bannon",
-    "title": "Party primaries test power of Trumps backing and progressive platform"
+    "title": "Party primaries test power of Trumps backing and progressive platform",
+    "sentiment": "-0.435"
   },
   {
     "id": 7087,
     "mediaId": 65,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T11:07",
     "sentence": "",
     "author": "Paul Steinhauser",
-    "title": "Why Trump's full court press in Georgia hasn't helped Perdue's bid to oust Kemp"
+    "title": "Why Trump's full court press in Georgia hasn't helped Perdue's bid to oust Kemp",
+    "sentiment": "-0.559"
   }
 ]

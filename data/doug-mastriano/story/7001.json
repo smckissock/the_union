@@ -1,10 +1,11 @@
 {
   "id": 7001,
   "mediaId": 65,
-  "date": "3/8/2022 12:00:00 AM",
+  "date": "d2022-03-08T23:00",
   "headline": "Fox News Poll: McCormick tops Dr. Oz in Pennsylvania GOP senate primary poll",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/496f0650-1d8b-4193-b9c3-1a2bee20f7a1/2904d5e1-7580-4d85-8001-0ba1679ff215/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/mccormick-tops-dr-oz-pennsylvania-gop-senate-primary",
+  "sentiment": "0.0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,

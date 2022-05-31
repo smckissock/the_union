@@ -2,41 +2,46 @@
   {
     "id": 6288,
     "mediaId": 136,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T18:54",
     "sentence": "",
     "author": "Natalie Colarossi",
-    "title": "Trump to Rally for Nebraska Candidate Accused of Sexual Assault"
+    "title": "Trump to Rally for Nebraska Candidate Accused of Sexual Assault",
+    "sentiment": "0"
   },
   {
     "id": 6043,
     "mediaId": 238,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T23:00",
     "sentence": "",
     "author": "",
-    "title": "Trump makes closing pitch for Nebraska candidate accused of groping"
-  },
-  {
-    "id": 6021,
-    "mediaId": 136,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Margaret Weaver",
-    "title": "Trump Touts Perfect Cognitive Test, Then Misspeaks Endorsing 'J.D. Mandel'"
+    "title": "Trump makes closing pitch for Nebraska candidate accused of groping",
+    "sentiment": "0"
   },
   {
     "id": 6031,
     "mediaId": 43,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "More deranged previous guy in Nebraska, because gropsters stick together"
+    "title": "More deranged previous guy in Nebraska, because gropsters stick together",
+    "sentiment": "0"
+  },
+  {
+    "id": 6021,
+    "mediaId": 136,
+    "date": "d2022-05-02T01:09",
+    "sentence": "",
+    "author": "Margaret Weaver",
+    "title": "Trump Touts Perfect Cognitive Test, Then Misspeaks Endorsing 'J.D. Mandel'",
+    "sentiment": "0"
   },
   {
     "id": 5686,
     "mediaId": 195,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T01:05",
     "sentence": "",
     "author": "Caroline Vakil",
-    "title": "Trump holds second rally in a week for embattled Nebraska gubernatorial candidate"
+    "title": "Trump holds second rally in a week for embattled Nebraska gubernatorial candidate",
+    "sentiment": "0"
   }
 ]

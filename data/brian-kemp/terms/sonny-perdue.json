@@ -2,57 +2,64 @@
   {
     "id": 395,
     "mediaId": 12,
-    "date": "2/28/2022 12:00:00 AM",
+    "date": "d2022-02-28T12:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: David Perdue targets Gov. Brian Kemp's prized Rivian deal"
+    "title": "The Jolt: David Perdue targets Gov. Brian Kemp's prized Rivian deal",
+    "sentiment": "0"
   },
   {
     "id": 5366,
     "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T13:00",
     "sentence": "Since its Friday, we always like to send you into the week with a little light reading, including:\nJamie DuPrees Washington Insider column Thursday, Georgia at the tip of the spear?;\nFridays Political Insider column, A legislative session for <span class='selected-term'>Brian Kemp</span> to take to the bank.?\nAs always, Jolt readers are some of our favorite tipsters.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: See Sonny Perdues resume for his new $524,000 job as chancellor"
+    "title": "The Jolt: See Sonny Perdues resume for his new $524,000 job as chancellor",
+    "sentiment": "0"
   },
   {
     "id": 5030,
     "mediaId": 12,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T13:00",
     "sentence": "",
     "author": "Eric Stirgus",
-    "title": "Sonny Perdue says Georgia must sell value of college degree"
+    "title": "Sonny Perdue says Georgia must sell value of college degree",
+    "sentiment": "0"
   },
   {
     "id": 1984,
     "mediaId": 12,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T12:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin"
+    "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
+    "sentiment": "0.522"
   },
   {
     "id": 1854,
     "mediaId": 12,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T12:00",
     "sentence": "A new 11-Alive/ Survey USA statewide poll echoes our AJC poll this week, with <span class='selected-term'>Brian Kemp</span> at 56% and David Perdue at 31%.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: David Perdue to Brian Kemp: I made you governor"
+    "title": "The Jolt: David Perdue to Brian Kemp: I made you governor",
+    "sentiment": "0.238"
   },
   {
     "id": 4470,
     "mediaId": 65,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T22:00",
     "sentence": "",
     "author": "",
-    "title": "Fox News Poll: Georgias GOP primary race for governor sees Kemp holding wide lead over Perdue"
+    "title": "Fox News Poll: Georgias GOP primary race for governor sees Kemp holding wide lead over Perdue",
+    "sentiment": "0.592"
   },
   {
     "id": 7463,
     "mediaId": 25,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "\"I am with David all the way because <span class='selected-term'>Brian Kemp</span> was the WORST Governor in the Country on Election Integrity!\"",
     "author": "Adam Brewster, Aaron Navarro",
-    "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue"
+    "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue",
+    "sentiment": "-0.377"
   }
 ]

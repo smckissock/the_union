@@ -1,10 +1,11 @@
 {
   "id": 6777,
   "mediaId": 147,
-  "date": "5/16/2022 12:00:00 AM",
+  "date": "d2022-05-16T21:00",
   "headline": "2022 Pennsylvania Primary Election Results",
   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/05/2022-04-07T102011Z_1999694794_RC26HT9XR2HS_RTRMADP_3_USA-ELECTION-REPUBLICANS-REGISTRATION-1200x800.jpg",
   "link": "https://www.pbs.org/newshour/politics/2022-pennsylvania-primary-election-results",
+  "sentiment": "-0.617",
   "mediaOutlet": "PBS NewsHour",
   "biasRatingId": 1,
   "wordCount": 0,

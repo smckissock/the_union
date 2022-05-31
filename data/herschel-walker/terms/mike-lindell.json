@@ -2,9 +2,19 @@
   {
     "id": 7864,
     "mediaId": 43,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T00:00",
     "sentence": "CNN:\nFor years, <span class='selected-term'>Herschel Walker</span> has told the same inspiring story: that he graduated in the top 1% of his class at the University of Georgia.",
     "author": "",
-    "title": "candidate Walker claimed he graduated in the top 1% of his college class. He didn't"
+    "title": "candidate Walker claimed he graduated in the top 1% of his college class. He didn't",
+    "sentiment": "0.386"
+  },
+  {
+    "id": 8418,
+    "mediaId": 136,
+    "date": "d2022-05-28T19:27",
+    "sentence": "Still, several of his endorsed candidates have easily won their primaries including <span class='selected-term'>Herschel Walker</span>, who faced little opposition in the primary for Georgia's Senate race, and other candidates running in heavily-conservative districts.",
+    "author": "Andrew Stanton",
+    "title": "Lindell Claims Georgia Primaries 'Stolen' to Ding Trump Endorsement Cred",
+    "sentiment": "0.0"
   }
 ]

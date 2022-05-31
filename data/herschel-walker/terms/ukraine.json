@@ -1,178 +1,200 @@
 [
   {
-    "id": 8106,
-    "mediaId": 12,
-    "date": "2/25/2022 12:00:00 AM",
-    "sentence": "Former U.S. Sen. David Perdue said Russia wouldnt have invaded its neighbor if Trump was still president and Senate candidate <span class='selected-term'>Herschel Walker</span> faulted Bidens disastrous foreign policy  and Americans themselves.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Trump candidates in Georgia split from pro-Putin rhetoric"
-  },
-  {
     "id": 8108,
     "mediaId": 12,
-    "date": "2/25/2022 12:00:00 AM",
+    "date": "d2022-02-25T12:00",
     "sentence": "The fundraiser was for House and Senate candidates, including <span class='selected-term'>Herschel Walker</span>.",
     "author": "Patricia Murphy",
-    "title": "OPINION: The good, the bad, and the un-American in the response to the Ukraine crisis"
+    "title": "OPINION: The good, the bad, and the un-American in the response to the Ukraine crisis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8106,
+    "mediaId": 12,
+    "date": "d2022-02-25T13:00",
+    "sentence": "Former U.S. Sen. David Perdue said Russia wouldnt have invaded its neighbor if Trump was still president and Senate candidate <span class='selected-term'>Herschel Walker</span> faulted Bidens disastrous foreign policy  and Americans themselves.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Trump candidates in Georgia split from pro-Putin rhetoric",
+    "sentiment": "0.0"
   },
   {
     "id": 8105,
     "mediaId": 12,
-    "date": "2/26/2022 12:00:00 AM",
+    "date": "d2022-02-26T13:00",
     "sentence": "Each of Georgias Trump-endorsed candidates  a quintet that includes Perdue and GOP U.S. Senate front-runner <span class='selected-term'>Herschel Walker</span>  declined to comment on the former presidents glowing words about the Russian leader.",
     "author": "Greg Bluestein",
-    "title": "Ukraine could refocus debates in Georgia midterm races"
-  },
-  {
-    "id": 8098,
-    "mediaId": 12,
-    "date": "3/1/2022 12:00:00 AM",
-    "sentence": "We wont be surprised if his dad schedules a trip to Georgia in the next few weeks to tout the five-candidate slate hes backing, a group that also includes Senate candidate <span class='selected-term'>Herschel Walker</span>.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Marjorie Taylor Greene to deliver America First response to Biden speech"
+    "title": "Ukraine could refocus debates in Georgia midterm races",
+    "sentiment": "0.0"
   },
   {
     "id": 8100,
     "mediaId": 157,
-    "date": "3/1/2022 12:00:00 AM",
+    "date": "d2022-03-01T00:00",
     "sentence": "U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> pulled out of an upcoming event organized by Georgia GOP Rep. Marjorie Taylor -- who's come under fire for speaking at an event hosted by white nationalists who praised Russian President Vladimir Putin's invasion of Ukraine, The Atlanta Journal Constitution reports.",
     "author": "Sky Palma",
-    "title": "Marjorie Taylor Greene suffers more blowback as GOP Senate hopeful pulls out of her event"
+    "title": "Marjorie Taylor Greene suffers more blowback as GOP Senate hopeful pulls out of her event",
+    "sentiment": "0"
+  },
+  {
+    "id": 8098,
+    "mediaId": 12,
+    "date": "d2022-03-01T13:00",
+    "sentence": "We wont be surprised if his dad schedules a trip to Georgia in the next few weeks to tout the five-candidate slate hes backing, a group that also includes Senate candidate <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Marjorie Taylor Greene to deliver America First response to Biden speech",
+    "sentiment": "0.0"
   },
   {
     "id": 8073,
     "mediaId": 12,
-    "date": "3/7/2022 12:00:00 AM",
+    "date": "d2022-03-07T13:00",
     "sentence": "Senate candidate <span class='selected-term'>Herschel Walker</span> wasnt the only big name to skip U.S. Rep. Marjorie Taylor Greenes pro-gun rally.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Prepare for surprises this week in Georgia politics"
+    "title": "The Jolt: Prepare for surprises this week in Georgia politics",
+    "sentiment": "-0.391"
   },
   {
     "id": 8038,
     "mediaId": 43,
-    "date": "3/12/2022 12:00:00 AM",
+    "date": "d2022-03-12T00:00",
     "sentence": "x\nx\nNew revelations about <span class='selected-term'>Herschel Walker</span> show how Democrats could hold the Senate\nHerschel Walkers candidacy for the U.S. Senate in Georgia is built on celebrity, but when hes out on the campaign trail, hes as likely to offer his success as a businessman as a qualification to serve in Washington as he is to reminisce about his days as a football star.",
     "author": "",
-    "title": "Western Democracy is Stronger than We Thought: Saturday's Good News"
+    "title": "Western Democracy is Stronger than We Thought: Saturday's Good News",
+    "sentiment": "0.0"
   },
   {
     "id": 8028,
     "mediaId": 234,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T00:00",
     "sentence": "Per HuffPost:\nRepublican Senate candidate <span class='selected-term'>Herschel Walker</span> cast doubt on the theory of evolution in recent remarks, saying the fact that apes and humans coexist disproves accepted science.",
     "author": "Bess Levin",
-    "title": "Eric Trump: Putin Was Pants-Pissingly Terrified of My Dad, O.K.?"
+    "title": "Eric Trump: Putin Was Pants-Pissingly Terrified of My Dad, O.K.?",
+    "sentiment": "-0.26"
   },
   {
     "id": 8029,
     "mediaId": 43,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T00:00",
     "sentence": "",
     "author": "",
-    "title": "for the Ides of March"
+    "title": "for the Ides of March",
+    "sentiment": "0.0"
   },
   {
     "id": 7997,
     "mediaId": 124,
-    "date": "3/17/2022 12:00:00 AM",
+    "date": "d2022-03-17T13:05",
     "sentence": "A brutal Senate primary is heating up in Georgia, where Republican Gary Blacks campaign dropped opposition research about primary opponent <span class='selected-term'>Herschel Walker</span> (former President Donald Trumps pick), highlighting a lengthy list of allegations of domestic assault, threats and violence.",
     "author": "",
-    "title": "Day 22 into Russia's invasion of Ukraine: A glimmer of hope and a devastating reality"
-  },
-  {
-    "id": 7930,
-    "mediaId": 233,
-    "date": "3/24/2022 12:00:00 AM",
-    "sentence": "Biden to Mehmet Oz, <span class='selected-term'>Herschel Walker</span>: Resign or be fired from presidential board.",
-    "author": "Nicole Fallert",
-    "title": "100,000 refugees"
-  },
-  {
-    "id": 7931,
-    "mediaId": 233,
-    "date": "3/24/2022 12:00:00 AM",
-    "sentence": "The White House sent letters to Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span>, telling them they would be fired if they did not resign from the President's Council on Sports, Fitness and Nutrition, according to reports by several media outlets.",
-    "author": "Amy Nakamura",
-    "title": "OnPolitics: Should Russia be kicked out of the G-20?"
+    "title": "Day 22 into Russia's invasion of Ukraine: A glimmer of hope and a devastating reality",
+    "sentiment": "-0.953"
   },
   {
     "id": 7955,
     "mediaId": 43,
-    "date": "3/24/2022 12:00:00 AM",
+    "date": "d2022-03-24T00:00",
     "sentence": "Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span> were both appointed to the President's Council on Sports, Fitness & Nutrition by twice-popular-voter-loser former President Donald Trump.",
     "author": "",
-    "title": "Biden requests resignations of Dr. Mehmet Oz and Herschel Walker by end of day"
+    "title": "Biden requests resignations of Dr. Mehmet Oz and Herschel Walker by end of day",
+    "sentiment": "-0.418"
+  },
+  {
+    "id": 7931,
+    "mediaId": 233,
+    "date": "d2022-03-24T21:03",
+    "sentence": "The White House sent letters to Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span>, telling them they would be fired if they did not resign from the President's Council on Sports, Fitness and Nutrition, according to reports by several media outlets.",
+    "author": "Amy Nakamura",
+    "title": "OnPolitics: Should Russia be kicked out of the G-20?",
+    "sentiment": "0"
+  },
+  {
+    "id": 7930,
+    "mediaId": 233,
+    "date": "d2022-03-24T21:52",
+    "sentence": "Biden to Mehmet Oz, <span class='selected-term'>Herschel Walker</span>: Resign or be fired from presidential board.",
+    "author": "Nicole Fallert",
+    "title": "100,000 refugees",
+    "sentiment": "0.0"
   },
   {
     "id": 7900,
     "mediaId": 237,
-    "date": "3/26/2022 12:00:00 AM",
+    "date": "d2022-03-26T22:51",
     "sentence": "",
     "author": "Heather Hamilton",
-    "title": "Single most dangerous time: Trump blasts climate change, CRT, and KBJ"
+    "title": "Single most dangerous time: Trump blasts climate change, CRT, and KBJ",
+    "sentiment": "0"
   },
   {
     "id": 7897,
     "mediaId": 43,
-    "date": "3/27/2022 12:00:00 AM",
+    "date": "d2022-03-27T00:00",
     "sentence": "Kid Rock says that Trump asked him for advice on handling North Korea\n 18%\n88 votes\nRussian airstrike in Ukraine causes heavy damage to an oil refinery owned by a Russian company\n 13%\n65 votes\nQ-Anon group says the wat in Ukraine is all [art of a plan to expose Biden's criminality so that JFK, who is disguied as Donald Trump, can assume the presidency\n 32%\n158 votes\nAfter capturing 117 Russian tanks, Ukraine now has more tanks than it did at the beginning of the war\n 25%\n122 votes\n<span class='selected-term'>Herschel Walker</span> demands that schools stop teaching \"CTR\"\n 13%\n64 votes",
     "author": "",
-    "title": "Tweets of the Week March"
+    "title": "Tweets of the Week March",
+    "sentiment": "0"
   },
   {
     "id": 7857,
     "mediaId": 124,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T12:44:43",
     "sentence": "Georgia Senate: Two super PACs backing GOP Senate candidates Gary Black and Latham Saddler are planning seven-figure ad buys attacking Republican frontrunner <span class='selected-term'>Herschel Walker</span> ahead of the May 24 primary, in an attempt to force Walker into a primary runoff, Politico reports.",
     "author": "",
-    "title": "For all of Bidens troubles, hes still more popular than Trump in the NBC News poll"
+    "title": "For all of Bidens troubles, hes still more popular than Trump in the NBC News poll",
+    "sentiment": "0.0"
   },
   {
     "id": 7819,
     "mediaId": 195,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T19:23",
     "sentence": "Fox News Sunday  White House press secretary Jen Psaki; Sen. Mitch McConnell (R-Ky.)\nFox News Sunday Morning Futures  Ranking member of House Judiciary Committee Rep. Jim Jordan (R-Ohio); <span class='selected-term'>Herschel Walker</span>, Georgia Senate candidate; House Minority Leader Rep. Kevin Mccarthy (R-Calif.); U.S. Army combat veteran and Florida Congressional candidate Cory Mills.",
     "author": "Lexi Lonas",
-    "title": "Sunday shows preview: Ukraine, West condemn Russian attacks on civilians"
+    "title": "Sunday shows preview: Ukraine, West condemn Russian attacks on civilians",
+    "sentiment": "0.0"
   },
   {
     "id": 7794,
     "mediaId": 209,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T07:01",
     "sentence": "Donald Trump has \"racked up quite a roster of endorsees: Dr. Oz, <span class='selected-term'>Herschel Walker</span>, Sarah Palin  his goal is to turn Congress into The Celebrity Apprentice,\" Kimmel said.",
     "author": "Peter Weber",
-    "title": "Late night hosts explore Russia's sanctions pains, Don Jr.'s election texts, Trump's Dr. Oz nod"
+    "title": "Late night hosts explore Russia's sanctions pains, Don Jr.'s election texts, Trump's Dr. Oz nod",
+    "sentiment": "0.253"
   },
   {
     "id": 6245,
     "mediaId": 43,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "Fuck yes, I hope your lil kakistocrat kingmaker costs you loads of winnable races this fall, although maybe you kids could find a moment to reflect upon just how you wound up with an electorate thats so horny to back serial abusers like Eric Greitens, <span class='selected-term'>Herschel Walker</span>, and Charles Gropey? Herbster, because that shit didnt happen overnight.",
     "author": "",
-    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t"
+    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
+    "sentiment": "0"
   },
   {
     "id": 7646,
     "mediaId": 25,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "In Ohio, in particular, JD Vance he's endorsed, a number of other candidates, Pennsylvania, <span class='selected-term'>Herschel Walker</span>, Georgia.",
     "author": "",
-    "title": "Full transcript of \"Face the Nation\" on May 1, 2022"
-  },
-  {
-    "id": 7419,
-    "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Raphael Warnock, the incumbent Democratic senator, will most likely cruise to a primary win and confront <span class='selected-term'>Herschel Walker</span>, the former football star, in the fall.",
-    "author": "",
-    "title": "Your Tuesday Evening Briefing"
+    "title": "Full transcript of \"Face the Nation\" on May 1, 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 7462,
     "mediaId": 157,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "NOW WATCH: <span class='selected-term'>Herschel Walker</span> argues with reporter Trump 'never said' election was stolen\nStories Chosen For You",
     "author": "Tom Boggioni",
-    "title": "'He will not run the country': Putin's inner circle reportedly looking for his replacement"
+    "title": "'He will not run the country': Putin's inner circle reportedly looking for his replacement",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7419,
+    "mediaId": 129,
+    "date": "d2022-05-24T22:44",
+    "sentence": "Raphael Warnock, the incumbent Democratic senator, will most likely cruise to a primary win and confront <span class='selected-term'>Herschel Walker</span>, the former football star, in the fall.",
+    "author": "",
+    "title": "Your Tuesday Evening Briefing",
+    "sentiment": "0"
   }
 ]

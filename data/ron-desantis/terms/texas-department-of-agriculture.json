@@ -2,17 +2,37 @@
   {
     "id": 4340,
     "mediaId": 1067,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T08:58",
     "sentence": "",
     "author": "Steven Lemongello",
-    "title": "Crist, Fried, Taddeo slam DeSantis, go easy on each other at Orlando forum"
+    "title": "Crist, Fried, Taddeo slam DeSantis, go easy on each other at Orlando forum",
+    "sentiment": "-0.622"
+  },
+  {
+    "id": 4340,
+    "mediaId": 1067,
+    "date": "d2022-04-30T08:58",
+    "sentence": "",
+    "author": "Steven Lemongello",
+    "title": "Crist, Fried, Taddeo slam DeSantis, go easy on each other at Orlando forum",
+    "sentiment": "0.0"
   },
   {
     "id": 4129,
     "mediaId": 302,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T14:00",
     "sentence": "She wrote that, Im going to do everything in my power to protect the women of Florida and preserve freedom over our bodies  including beating <span class='selected-term'>Ron DeSantis</span>.?\nState Sen. Annette Taddeo, D-Miami, said the brunt of the ruling would be felt by women who cannot afford to cross state lines, the majority of them Black and Brown, to states that allow access to this medical care.?\nGov.",
     "author": "",
-    "title": "Florida politicians react to leaked draft opinion on overturning Roe v. Wade"
+    "title": "Florida politicians react to leaked draft opinion on overturning Roe v. Wade",
+    "sentiment": "0"
+  },
+  {
+    "id": 4129,
+    "mediaId": 302,
+    "date": "d2022-05-03T14:00",
+    "sentence": "She wrote that, Im going to do everything in my power to protect the women of Florida and preserve freedom over our bodies  including beating <span class='selected-term'>Ron DeSantis</span>.?\nState Sen. Annette Taddeo, D-Miami, said the brunt of the ruling would be felt by women who cannot afford to cross state lines, the majority of them Black and Brown, to states that allow access to this medical care.?\nGov.",
+    "author": "",
+    "title": "Florida politicians react to leaked draft opinion on overturning Roe v. Wade",
+    "sentiment": "0.0"
   }
 ]

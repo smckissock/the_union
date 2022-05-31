@@ -2,25 +2,28 @@
   {
     "id": 6208,
     "mediaId": 19,
-    "date": "4/23/2022 12:00:00 AM",
+    "date": "d2022-04-23T00:00",
     "sentence": "",
     "author": "Matthew Boyle",
-    "title": "Trump Reveals Trailer of Explosive 2000 Mules Ballot Harvesting Documentary at Ohio Rally"
+    "title": "Trump Reveals Trailer of Explosive 2000 Mules Ballot Harvesting Documentary at Ohio Rally",
+    "sentiment": "0"
   },
   {
     "id": 1731,
     "mediaId": 129,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T13:31:06",
     "sentence": "",
     "author": "",
-    "title": "Tucker, Thiel and Trump: How J.D. Vance won in Ohio."
+    "title": "Tucker, Thiel and Trump: How J.D. Vance won in Ohio.",
+    "sentiment": "0.724"
   },
   {
     "id": 5549,
     "mediaId": 129,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "",
     "author": "",
-    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up"
+    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
+    "sentiment": "0"
   }
 ]

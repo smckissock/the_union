@@ -2,25 +2,46 @@
   {
     "id": 4452,
     "mediaId": 239,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:03:54",
     "sentence": "",
     "author": "",
-    "title": "Florida sheriff arrested following sex scandal investigation"
-  },
-  {
-    "id": 3901,
-    "mediaId": 21,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kimberly Leonard",
-    "title": "Ron DeSantis signs $1.2 billion in tax breaks for Floridians to fight 'Bidenflation headwinds,' though Biden's stimulus will help pay for it"
+    "title": "Florida sheriff arrested following sex scandal investigation",
+    "sentiment": "0.0"
   },
   {
     "id": 3906,
     "mediaId": 65,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T17:57",
     "sentence": "",
     "author": "Ron DeSantis",
-    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing"
+    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
+    "sentiment": "0"
+  },
+  {
+    "id": 3906,
+    "mediaId": 65,
+    "date": "d2022-05-06T17:57",
+    "sentence": "",
+    "author": "Ron DeSantis",
+    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3901,
+    "mediaId": 21,
+    "date": "d2022-05-06T19:00",
+    "sentence": "",
+    "author": "Kimberly Leonard",
+    "title": "Ron DeSantis signs $1.2 billion in tax breaks for Floridians to fight 'Bidenflation headwinds,' though Biden's stimulus will help pay for it",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3901,
+    "mediaId": 21,
+    "date": "d2022-05-06T19:00",
+    "sentence": "",
+    "author": "Kimberly Leonard",
+    "title": "Ron DeSantis signs $1.2 billion in tax breaks for Floridians to fight 'Bidenflation headwinds,' though Biden's stimulus will help pay for it",
+    "sentiment": "0.407"
   }
 ]

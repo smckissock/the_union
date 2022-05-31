@@ -2,17 +2,37 @@
   {
     "id": 4428,
     "mediaId": 302,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T09:00",
     "sentence": "",
     "author": "",
-    "title": "What if only the informed were allowed to vote? | Letters"
+    "title": "What if only the informed were allowed to vote? | Letters",
+    "sentiment": "0"
+  },
+  {
+    "id": 4428,
+    "mediaId": 302,
+    "date": "d2022-04-29T09:00",
+    "sentence": "",
+    "author": "",
+    "title": "What if only the informed were allowed to vote? | Letters",
+    "sentiment": "0.0"
   },
   {
     "id": 4145,
     "mediaId": 302,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T09:00",
     "sentence": "",
     "author": "",
-    "title": "Disney is no more political now than Walt himself was | Letters"
+    "title": "Disney is no more political now than Walt himself was | Letters",
+    "sentiment": "0"
+  },
+  {
+    "id": 4145,
+    "mediaId": 302,
+    "date": "d2022-05-03T09:00",
+    "sentence": "",
+    "author": "",
+    "title": "Disney is no more political now than Walt himself was | Letters",
+    "sentiment": "0.0"
   }
 ]

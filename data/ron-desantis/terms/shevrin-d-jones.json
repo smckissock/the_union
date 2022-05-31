@@ -2,33 +2,55 @@
   {
     "id": 5078,
     "mediaId": 151,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T11:00",
     "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
     "author": "",
-    "title": "Florida's redistricting session: Quick, partisan, and bitter"
+    "title": "Florida's redistricting session: Quick, partisan, and bitter",
+    "sentiment": "0"
   },
   {
-    "id": 4368,
-    "mediaId": 238,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "",
+    "id": 5078,
+    "mediaId": 151,
+    "date": "d2022-04-19T11:00",
+    "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
     "author": "",
-    "title": "Florida reintroduces math textbooks scrubbed of woke content"
+    "title": "Florida's redistricting session: Quick, partisan, and bitter",
+    "sentiment": "0.0"
   },
   {
     "id": 4401,
     "mediaId": 65,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T14:28",
     "sentence": "",
     "author": "",
-    "title": "Jack Brewer files police report on Joy Reid for putting kids in danger, demands apology"
+    "title": "Jack Brewer files police report on Joy Reid for putting kids in danger, demands apology",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4368,
+    "mediaId": 238,
+    "date": "d2022-04-29T19:05",
+    "sentence": "",
+    "author": "",
+    "title": "Florida reintroduces math textbooks scrubbed of woke content",
+    "sentiment": "0.0"
   },
   {
     "id": 3812,
     "mediaId": 157,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T00:00",
     "sentence": "",
     "author": "",
-    "title": "Stay Woke Go Vote: FL Black Caucus launches campaign to empower voters"
+    "title": "Stay Woke Go Vote: FL Black Caucus launches campaign to empower voters",
+    "sentiment": "0"
+  },
+  {
+    "id": 3812,
+    "mediaId": 157,
+    "date": "d2022-05-10T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "Stay Woke Go Vote: FL Black Caucus launches campaign to empower voters",
+    "sentiment": "0.0"
   }
 ]

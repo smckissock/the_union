@@ -2,33 +2,37 @@
   {
     "id": 5905,
     "mediaId": 136,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T21:22",
     "sentence": "",
     "author": "Adam Staten",
-    "title": "Trump Worried Tim Ryan's Cash Puts J.D. Vance's Senate Shot at Risk"
+    "title": "Trump Worried Tim Ryan's Cash Puts J.D. Vance's Senate Shot at Risk",
+    "sentiment": "-0.824"
   },
   {
     "id": 5783,
     "mediaId": 136,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T14:36",
     "sentence": "",
     "author": "Ewan Palmer",
-    "title": "J.D. Vance Expected to Crush Tim Ryan and Win Ohio Senate Race"
+    "title": "J.D. Vance Expected to Crush Tim Ryan and Win Ohio Senate Race",
+    "sentiment": "0"
   },
   {
     "id": 5736,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Politico Gives Vance Campaign Seven Hours Overnight to Respond to Hit Piece"
+    "title": "Politico Gives Vance Campaign Seven Hours Overnight to Respond to Hit Piece",
+    "sentiment": "-0.932"
   },
   {
     "id": 5526,
     "mediaId": 129,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "",
     "author": "",
-    "title": "From Voodoo to MAGA to Buffalo"
+    "title": "From Voodoo to MAGA to Buffalo",
+    "sentiment": "0"
   }
 ]

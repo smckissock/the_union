@@ -1,18 +1,20 @@
 [
   {
-    "id": 7075,
-    "mediaId": 323,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "Plus, Donald Trump recommends Mehmet Oz declare victory before all the votes have been counted in Pennsylvania, and the contest between Georgia Governor <span class='selected-term'>Brian Kemp</span> and David Perdue enters the homestretch.Read Transcript\nAD\nLoading advertisement...\n00:00\n1x\nSubscribe\nApple Podcasts\nGoogle Podcasts\nSpotify\niHeartRadio\nTuneIn\nStitcher\nAmazon Alexa\nRSS\nProsecutors presented evidence this week that Mr. Sussmann worked with cyber-researchers and opposition-research firm Fusion GPS to produce the claims on behalf of the Clinton campaign, and to feed them to the FBI.",
-    "author": "The Editorial Board",
-    "title": "Hillary Clinton Did It"
-  },
-  {
     "id": 7102,
     "mediaId": 1576,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "Late last year, Governor <span class='selected-term'>Brian Kemp</span> trumpeted another electric vehicle plant as the largest economic development announcement in state history.",
     "author": "",
-    "title": "Georgia woos a second electric vehicle plant with $5.5 billion Hyundai factory"
+    "title": "Georgia woos a second electric vehicle plant with $5.5 billion Hyundai factory",
+    "sentiment": "0"
+  },
+  {
+    "id": 7075,
+    "mediaId": 323,
+    "date": "d2022-05-20T22:39",
+    "sentence": "Plus, Donald Trump recommends Mehmet Oz declare victory before all the votes have been counted in Pennsylvania, and the contest between Georgia Governor <span class='selected-term'>Brian Kemp</span> and David Perdue enters the homestretch.Read Transcript\nAD\nLoading advertisement...\n00:00\n1x\nSubscribe\nApple Podcasts\nGoogle Podcasts\nSpotify\niHeartRadio\nTuneIn\nStitcher\nAmazon Alexa\nRSS\nProsecutors presented evidence this week that Mr. Sussmann worked with cyber-researchers and opposition-research firm Fusion GPS to produce the claims on behalf of the Clinton campaign, and to feed them to the FBI.",
+    "author": "The Editorial Board",
+    "title": "Hillary Clinton Did It",
+    "sentiment": "0.0"
   }
 ]

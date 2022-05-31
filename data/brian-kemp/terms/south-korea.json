@@ -2,65 +2,73 @@
   {
     "id": 4461,
     "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T10:28",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Recount looms in Pennsylvania"
+    "title": "The Hills Morning Report  Recount looms in Pennsylvania",
+    "sentiment": "0"
   },
   {
     "id": 6566,
     "mediaId": 238,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T11:22",
     "sentence": "Other tests of Trumps influence loom next week, including in Georgia, where polls show his preferred choice for governor, David Perdue, badly trailing incumbent <span class='selected-term'>Brian Kemp</span> in the GOP primary.",
     "author": "Mariana Alfaro",
-    "title": "Post Politics Now Senate primary in Pa. still unresolved as other tests of Trumps influence loom"
-  },
-  {
-    "id": 7081,
-    "mediaId": 195,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "The Hills 12:30 Report  De Blasio finds opening to Washington"
+    "title": "Post Politics Now Senate primary in Pa. still unresolved as other tests of Trumps influence loom",
+    "sentiment": "-0.659"
   },
   {
     "id": 7083,
     "mediaId": 558,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T14:38",
     "sentence": "",
     "author": "",
-    "title": "Hyundai to build $5.5 bn electric vehicle plant in US"
+    "title": "Hyundai to build $5.5 bn electric vehicle plant in US",
+    "sentiment": "0"
+  },
+  {
+    "id": 7081,
+    "mediaId": 195,
+    "date": "d2022-05-20T16:47",
+    "sentence": "",
+    "author": "",
+    "title": "The Hills 12:30 Report  De Blasio finds opening to Washington",
+    "sentiment": "0.0"
   },
   {
     "id": 6556,
     "mediaId": 151,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T14:11",
     "sentence": " One interesting nugget: Trumps political machine recently transferred $2 million to various pro-David Perdue and anti-<span class='selected-term'>Brian Kemp</span> efforts in Georgia,? NYTs Shane Goldmacher reports, noting that it is by far, the most Trump has spent on another politician.?\n Georgia's Latino population keeps growing.",
     "author": "",
-    "title": "POLITICO Playbook: Sean Patrick Maloney dodges a bullet"
-  },
-  {
-    "id": 7255,
-    "mediaId": 233,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Maureen Groppe",
-    "title": "Biden ending South Korea visit with continued emphasis on economic, security cooperation"
+    "title": "POLITICO Playbook: Sean Patrick Maloney dodges a bullet",
+    "sentiment": "-0.582"
   },
   {
     "id": 7263,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "Biden Arrives in Tokyo Seeking to Shore Up Support for Economic Plan"
+    "title": "Biden Arrives in Tokyo Seeking to Shore Up Support for Economic Plan",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7255,
+    "mediaId": 233,
+    "date": "d2022-05-22T04:01",
+    "sentence": "",
+    "author": "Maureen Groppe",
+    "title": "Biden ending South Korea visit with continued emphasis on economic, security cooperation",
+    "sentiment": "0"
   },
   {
     "id": 7237,
     "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "",
     "author": "",
-    "title": "Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies"
+    "title": "Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies",
+    "sentiment": "0.0"
   }
 ]

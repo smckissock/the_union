@@ -1,26 +1,20 @@
 [
   {
-    "id": 7078,
-    "mediaId": 406,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "\"The future of transportation is in the Peach State as we announce the largest project in our state's history  delivering high-quality jobs on the leading edge of mobility to hardworking Georgians,\" said Governor <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Hyundai Motor Group",
-    "title": "Hyundai Motor Group to Establish First Dedicated EV Plant and Battery Manufacturing Facility in the U.S."
-  },
-  {
     "id": 7102,
     "mediaId": 1576,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "Late last year, Governor <span class='selected-term'>Brian Kemp</span> trumpeted another electric vehicle plant as the largest economic development announcement in state history.",
     "author": "",
-    "title": "Georgia woos a second electric vehicle plant with $5.5 billion Hyundai factory"
+    "title": "Georgia woos a second electric vehicle plant with $5.5 billion Hyundai factory",
+    "sentiment": "0"
   },
   {
     "id": 7256,
     "mediaId": 441,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T03:59",
     "sentence": "Chung said Hyundai would invest an additional $5 billion through 2025 to collaborate with American enterprises in diverse technologies, such as robotics, urban air mobility, autonomous driving and AI.?\nGeorgias Republican Governor <span class='selected-term'>Brian Kemp</span> -- who faces former Senator David Perdue in Tuesdays GOP primary -- has backed hefty incentives to lure automotive companies.",
     "author": "Jennifer Jacobs",
-    "title": "Biden Urges Hyundai, Samsung to Embrace Union Workers"
+    "title": "Biden Urges Hyundai, Samsung to Embrace Union Workers",
+    "sentiment": "0.0"
   }
 ]

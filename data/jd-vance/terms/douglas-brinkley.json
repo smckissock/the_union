@@ -2,25 +2,28 @@
   {
     "id": 6394,
     "mediaId": 129,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "",
     "author": "",
-    "title": "SEARCH"
+    "title": "SEARCH",
+    "sentiment": "0"
   },
   {
     "id": 5535,
     "mediaId": 129,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Marc Tracy",
-    "title": "How Hollywood and the Media Fueled the Political Rise of J.D. Vance"
+    "title": "How Hollywood and the Media Fueled the Political Rise of J.D. Vance",
+    "sentiment": "0"
   },
   {
     "id": 7164,
     "mediaId": 129,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "",
-    "title": "A Renowned Gullah Geechee Cook Gets Her Own Book and More: The Week in Narrated Articles"
+    "title": "A Renowned Gullah Geechee Cook Gets Her Own Book and More: The Week in Narrated Articles",
+    "sentiment": "0.462"
   }
 ]

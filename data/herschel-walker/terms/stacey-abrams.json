@@ -2,505 +2,577 @@
   {
     "id": 8260,
     "mediaId": 12,
-    "date": "1/21/2022 12:00:00 AM",
+    "date": "d2022-01-21T11:00",
     "sentence": "Hell face one of four Republicans, including <span class='selected-term'>Herschel Walker</span>, who have gotten into the GOP primary to challenge him.",
     "author": "Patricia Murphy",
-    "title": "OPINION: Raphael Warnocks year of victories, defeats, and Senate prayers"
+    "title": "OPINION: Raphael Warnocks year of victories, defeats, and Senate prayers",
+    "sentiment": "0.0"
   },
   {
     "id": 8239,
     "mediaId": 32,
-    "date": "1/26/2022 12:00:00 AM",
+    "date": "d2022-01-26T12:00:01",
     "sentence": "He will ultimately face one of his Republican challengers, including retired football player <span class='selected-term'>Herschel Walker</span> and former Trump administration official Latham Saddler.",
     "author": "Thomas Franck",
-    "title": "Democrats bid to keep the Senate will involve plans to fight inflation and promises for a renewed agenda"
+    "title": "Democrats bid to keep the Senate will involve plans to fight inflation and promises for a renewed agenda",
+    "sentiment": "0"
   },
   {
     "id": 8218,
     "mediaId": 12,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T12:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "Bidens sagging approval could haunt Georgia Democrats"
+    "title": "Bidens sagging approval could haunt Georgia Democrats",
+    "sentiment": "-0.851"
   },
   {
     "id": 8205,
     "mediaId": 43,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T00:00",
     "sentence": "Warnock soaring to the lead in fundraising over GOP opponent, Trump lapdog <span class='selected-term'>Herschel Walker</span>\nThis is a short blurb about Daily Kos.",
     "author": "Rebekah Sager",
-    "title": "Perdue kicks off his Stop Stacey campaign with a promise of an election fraud police force"
-  },
-  {
-    "id": 8195,
-    "mediaId": 12,
-    "date": "2/2/2022 12:00:00 AM",
-    "sentence": "U.S. Sen. Raphael Warnock has amassed $23 million in his campaign account  more than four times higher than his closest Republican rival, former football star <span class='selected-term'>Herschel Walker</span>.",
-    "author": "Greg Bluestein",
-    "title": "Stacey Abrams raises $9.2M after entering gov race in December"
+    "title": "Perdue kicks off his Stop Stacey campaign with a promise of an election fraud police force",
+    "sentiment": "0.0"
   },
   {
     "id": 8196,
     "mediaId": 1576,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "Last week, Democratic Sen. Raphael Warnock said he raised $9.8 million in the last three months of 2021, while his Republican challenger <span class='selected-term'>Herschel Walker</span> said donors gave him $5.4 million.",
     "author": "",
-    "title": "Stacey Abrams raised $9.25 million since jumping into governor's race"
+    "title": "Stacey Abrams raised $9.25 million since jumping into governor's race",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8195,
+    "mediaId": 12,
+    "date": "d2022-02-02T12:00",
+    "sentence": "U.S. Sen. Raphael Warnock has amassed $23 million in his campaign account  more than four times higher than his closest Republican rival, former football star <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Greg Bluestein",
+    "title": "Stacey Abrams raises $9.2M after entering gov race in December",
+    "sentiment": "0"
   },
   {
     "id": 8188,
     "mediaId": 12,
-    "date": "2/4/2022 12:00:00 AM",
+    "date": "d2022-02-04T12:00",
     "sentence": "In this episode of the Politically Georgia podcast, host Greg Bluestein and political insider Patricia Murphy break down the focus on Donald Trump, Stacey Abrams huge fundraising figures and the pressure on Republican Senate candidates not named <span class='selected-term'>Herschel Walker</span>.",
     "author": "Patricia Murphy",
-    "title": "Politically Georgia: David Perdue goes all in with Donald Trump"
-  },
-  {
-    "id": 8155,
-    "mediaId": 558,
-    "date": "2/11/2022 12:00:00 AM",
-    "sentence": "ATLANTA (AP)  Republicans risk losing the U.S. Senate race if they nominate <span class='selected-term'>Herschel Walker</span>, two of Walker's rivals said, citing a report by The Associated Press about how police confiscated a gun from the former football great following a domestic dispute 20 years ago.",
-    "author": "",
-    "title": "Walker's past could let Warnock keep Senate seat, rivals say"
-  },
-  {
-    "id": 8156,
-    "mediaId": 558,
-    "date": "2/11/2022 12:00:00 AM",
-    "sentence": "(AP Photo/Ben Gray, File)\nATLANTA (AP)  Republicans risk losing the U.S. Senate race if they nominate <span class='selected-term'>Herschel Walker</span>, two of Walker's rivals said, citing a report by The Associated Press about how police confiscated a gun from the former football great following a domestic dispute 20 years ago.",
-    "author": "JEFF AMY",
-    "title": "Walker's past could let Warnock keep Senate seat, rivals say"
+    "title": "Politically Georgia: David Perdue goes all in with Donald Trump",
+    "sentiment": "0.0"
   },
   {
     "id": 8163,
     "mediaId": 178,
-    "date": "2/11/2022 12:00:00 AM",
+    "date": "d2022-02-11T00:00",
     "sentence": "\"It is time for <span class='selected-term'>Herschel Walker</span> to enter through the front door, make himself available to the public and have the press do interviews that test your knowledge and skills and answer the many questions that everyone has,\" Black said Friday, saying Walker needs to talk about his policy positions as well as his past.",
     "author": "JEFF AMY Associated Press",
-    "title": "Walker's past could let Warnock keep Senate seat, rivals say"
+    "title": "Walker's past could let Warnock keep Senate seat, rivals say",
+    "sentiment": "-0.966"
+  },
+  {
+    "id": 8156,
+    "mediaId": 558,
+    "date": "d2022-02-11T13:30",
+    "sentence": "(AP Photo/Ben Gray, File)\nATLANTA (AP)  Republicans risk losing the U.S. Senate race if they nominate <span class='selected-term'>Herschel Walker</span>, two of Walker's rivals said, citing a report by The Associated Press about how police confiscated a gun from the former football great following a domestic dispute 20 years ago.",
+    "author": "JEFF AMY",
+    "title": "Walker's past could let Warnock keep Senate seat, rivals say",
+    "sentiment": "-0.977"
+  },
+  {
+    "id": 8155,
+    "mediaId": 558,
+    "date": "d2022-02-11T13:31",
+    "sentence": "ATLANTA (AP)  Republicans risk losing the U.S. Senate race if they nominate <span class='selected-term'>Herschel Walker</span>, two of Walker's rivals said, citing a report by The Associated Press about how police confiscated a gun from the former football great following a domestic dispute 20 years ago.",
+    "author": "",
+    "title": "Walker's past could let Warnock keep Senate seat, rivals say",
+    "sentiment": "-0.979"
   },
   {
     "id": 8141,
     "mediaId": 223,
-    "date": "2/14/2022 12:00:00 AM",
+    "date": "d2022-02-14T18:00",
     "sentence": "Source: AP Photo/Carolyn Kaster\nA new ad from 34N22, a pro <span class='selected-term'>Herschel Walker</span> Super PAC in Georgia is targeting Sen. Raphael Warnock (D-GA) in a rather clever way, by using his own words against him.",
     "author": "Rebecca Downs",
-    "title": "Clever New Ad Uses Raphael Warnock's Own Words Against Him"
+    "title": "Clever New Ad Uses Raphael Warnock's Own Words Against Him",
+    "sentiment": "0.0"
   },
   {
     "id": 1319,
     "mediaId": 19,
-    "date": "2/23/2022 12:00:00 AM",
+    "date": "d2022-02-23T00:00",
     "sentence": "",
     "author": "Ashley Oliver",
-    "title": "Herschel Walker Doesn't Support Kemp or Perdue: I'm Mad at Both of Them'"
+    "title": "Herschel Walker Doesn't Support Kemp or Perdue: I'm Mad at Both of Them'",
+    "sentiment": "-0.436"
   },
   {
     "id": 8112,
     "mediaId": 12,
-    "date": "2/24/2022 12:00:00 AM",
+    "date": "d2022-02-24T13:00",
     "sentence": "The Florida compound will host back-to-back fundraisers in mid-March, along with a third <span class='selected-term'>Herschel Walker</span> event.",
     "author": "Greg Bluestein",
-    "title": "The Jolt: Trump stepping up focus on Georgia candidates"
+    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
+    "sentiment": "0.428"
   },
   {
     "id": 1252,
     "mediaId": 12,
-    "date": "3/8/2022 12:00:00 AM",
+    "date": "d2022-03-08T12:00",
     "sentence": "Republican Senate candidate <span class='selected-term'>Herschel Walker</span> indicated he won't debate his GOP rivals.",
     "author": "Greg Bluestein",
-    "title": "Herschel Walker won't commit to GOP debates, while Kemp ups pressure on Perdue"
+    "title": "Herschel Walker won't commit to GOP debates, while Kemp ups pressure on Perdue",
+    "sentiment": "-0.803"
   },
   {
     "id": 1232,
     "mediaId": 238,
-    "date": "3/10/2022 12:00:00 AM",
+    "date": "d2022-03-10T00:00",
     "sentence": "If Democrats manage to hold the Senate, Trump's influence in promoting people such as <span class='selected-term'>Herschel Walker</span>  and the Republican base's desire for just that kind of candidate  will be why.",
     "author": "",
-    "title": "Opinion: New revelations about Herschel Walker show how Democrats could hold the Senate"
+    "title": "Opinion: New revelations about Herschel Walker show how Democrats could hold the Senate",
+    "sentiment": "-0.893"
   },
   {
     "id": 8044,
     "mediaId": 305,
-    "date": "3/11/2022 12:00:00 AM",
+    "date": "d2022-03-11T11:38",
     "sentence": "Sen. Ralph Warnock is also seeking to win a six-term and Republican <span class='selected-term'>Herschel Walker</span> is unfortunately still trying.",
     "author": "Kalyn Womack",
-    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race"
-  },
-  {
-    "id": 7886,
-    "mediaId": 136,
-    "date": "3/27/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Xander Landen",
-    "title": "Trump Rally in Georgia Helps Stacey Abrams With Fundraising Appeal"
+    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
+    "sentiment": "0.0"
   },
   {
     "id": 7894,
     "mediaId": 12,
-    "date": "3/27/2022 12:00:00 AM",
+    "date": "d2022-03-27T03:00",
     "sentence": "If Kemp runs, I think <span class='selected-term'>Herschel Walker</span> will be seriously and negatively impacted, Trump thundered from the stage at an old racetrack in Commerce.",
     "author": "Greg Bluestein",
-    "title": "Trump brings his anti-Kemp campaign to Georgia"
+    "title": "Trump brings his anti-Kemp campaign to Georgia",
+    "sentiment": "-0.388"
+  },
+  {
+    "id": 7886,
+    "mediaId": 136,
+    "date": "d2022-03-27T13:43",
+    "sentence": "",
+    "author": "Xander Landen",
+    "title": "Trump Rally in Georgia Helps Stacey Abrams With Fundraising Appeal",
+    "sentiment": "0"
   },
   {
     "id": 7877,
     "mediaId": 12,
-    "date": "3/29/2022 12:00:00 AM",
+    "date": "d2022-03-29T11:00",
     "sentence": "Republican Senate hopeful <span class='selected-term'>Herschel Walker</span> indicated recently that he would avoid debates against his GOP rivals and instead focus on Democratic U.S. Sen. Raphael Warnock.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Lawmakers rush to finish favorite bills before time runs out"
+    "title": "The Jolt: Lawmakers rush to finish favorite bills before time runs out",
+    "sentiment": "0"
   },
   {
     "id": 7838,
     "mediaId": 19,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T00:00",
     "sentence": "Republican <span class='selected-term'>Herschel Walker</span> holds a narrow lead over incumbent Sen. Raphael Warnock (D-GA) in a hypothetical matchup in the race for U.S. Senate in Georgia, according to a poll published Wednesday.",
     "author": "Ashley Oliver",
-    "title": "Poll: Herschel Walker Leads Raphael Warnock in Tight Georgia Senate Race"
-  },
-  {
-    "id": 2153,
-    "mediaId": 305,
-    "date": "4/7/2022 12:00:00 AM",
-    "sentence": "Republican Senate candidate <span class='selected-term'>Herschel Walker</span>, the same one who claimed to have a COVID cure, is narrowly winning an early poll against Sen. Raphael Warnock (D-GA), according to The Hill.",
-    "author": "Murjani Rawls",
-    "title": "Herschel Walker Leads Raphael Warnock In Early Georgia Senate Poll"
+    "title": "Poll: Herschel Walker Leads Raphael Warnock in Tight Georgia Senate Race",
+    "sentiment": "0.583"
   },
   {
     "id": 2155,
     "mediaId": 239,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T00:04",
     "sentence": "Republican <span class='selected-term'>Herschel Walker</span> has surged ahead of Democratic Sen. Raphael Warnock in the high-profile Georgia U.S. Senate contest, according to a poll released Wednesday.",
     "author": "Valerie Richardson",
-    "title": "Herschel Walker opens up lead over Raphael Warnock in Georgia Senate poll"
+    "title": "Herschel Walker opens up lead over Raphael Warnock in Georgia Senate poll",
+    "sentiment": "0.91"
+  },
+  {
+    "id": 2153,
+    "mediaId": 305,
+    "date": "d2022-04-07T10:55",
+    "sentence": "Republican Senate candidate <span class='selected-term'>Herschel Walker</span>, the same one who claimed to have a COVID cure, is narrowly winning an early poll against Sen. Raphael Warnock (D-GA), according to The Hill.",
+    "author": "Murjani Rawls",
+    "title": "Herschel Walker Leads Raphael Warnock In Early Georgia Senate Poll",
+    "sentiment": "-0.616"
   },
   {
     "id": 2145,
     "mediaId": 43,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "",
     "author": "",
-    "title": "Democrats Raise Red Flags Over That Photo Op Of Herschel Walker (R) & Clarence Thomas"
+    "title": "Democrats Raise Red Flags Over That Photo Op Of Herschel Walker (R) & Clarence Thomas",
+    "sentiment": "0.264"
   },
   {
     "id": 4946,
     "mediaId": 19,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T00:00",
     "sentence": "He also predicted that a Kemp win would negatively affect the great <span class='selected-term'>Herschel Walker</span>s race for the Senate  it will be very hard for him to win with Kemp on the ticket.?\nDont let the Democrats, or the RINOs win in Georgia.",
     "author": "Hannah Bleau",
-    "title": "Donald Trump: Georgia Debate a BIG Win for Perdue, Exposed Brian Kemp as RINO"
+    "title": "Donald Trump: Georgia Debate a BIG Win for Perdue, Exposed Brian Kemp as RINO",
+    "sentiment": "0.0"
   },
   {
     "id": 4797,
     "mediaId": 157,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "And if theyre not voting for Brian Kemp, theyre not going to be able to vote for <span class='selected-term'>Herschel Walker</span>.?\nPer Bluestein, Kemp is fighting back, saying in a new statement, \"Governor Kemp is laser-focused on uniting Republicans on May 24th to make sure Stacey Abrams is never our governor or the next president.\"",
     "author": "Matthew Chapman",
-    "title": "Trump tells Perdue tele-rally that Republicans will bomb in Georgia if Brian Kemp is re-nominated"
+    "title": "Trump tells Perdue tele-rally that Republicans will bomb in Georgia if Brian Kemp is re-nominated",
+    "sentiment": "-0.752"
   },
   {
     "id": 7592,
     "mediaId": 238,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T11:40",
     "sentence": "Its reminiscent of a real-life Black man revered for his athleticism and heretofore seen as just happy-go-lucky: the great running back from the University of Georgia, <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
-    "title": "Herschel Walkers insulting campaign is the worst kind of sports idolatry"
+    "title": "Herschel Walkers insulting campaign is the worst kind of sports idolatry",
+    "sentiment": "-0.943"
   },
   {
     "id": 3312,
     "mediaId": 305,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T08:41",
     "sentence": "A recent round of polling shows that Sen. Raphael Warnock (D-GA) is looking at a close race, presuming GOP candidate <span class='selected-term'>Herschel Walker</span> wins the Republican nomination for the upcoming Georgia Senate race, according to Newsweek.",
     "author": "Murjani Rawls",
-    "title": "Potential Warnock vs. Walker Georgia Senate Battle Shows It Could Be A Close Race"
+    "title": "Potential Warnock vs. Walker Georgia Senate Battle Shows It Could Be A Close Race",
+    "sentiment": "0.194"
   },
   {
     "id": 4459,
     "mediaId": 409,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T11:45",
     "sentence": "The fact that this years GOP Senate primary features <span class='selected-term'>Herschel Walker</span>, arguably the greatest college football player of all time who won a national championship with the University of Georgia, probably helps stir public interest in the race, as well as President Trumps furious denunciations of incumbent GOP governor Brian Kemp, although Kemp is leading the polls by a wide margin.",
     "author": "Jim Geraghty",
-    "title": "Much Higher Minority Early Voting in Georgias Upcoming Primaries"
+    "title": "Much Higher Minority Early Voting in Georgias Upcoming Primaries",
+    "sentiment": "0.85"
   },
   {
     "id": 7087,
     "mediaId": 65,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T11:07",
     "sentence": "Hes also backing former football star <span class='selected-term'>Herschel Walker</span> in the Senate primary, and has also taken sides in the GOP primaries for lieutenant governor, Secretary of State, and a couple of congressional contests.",
     "author": "Paul Steinhauser",
-    "title": "Why Trump's full court press in Georgia hasn't helped Perdue's bid to oust Kemp"
+    "title": "Why Trump's full court press in Georgia hasn't helped Perdue's bid to oust Kemp",
+    "sentiment": "0.0"
   },
   {
     "id": 7069,
     "mediaId": 151,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T01:33",
     "sentence": "Meanwhile, Tuesdays Georgia primary is likely to solidify another clash of two titans this fall: Democratic Sen. Raphael Warnock and Republican <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
-    "title": "Trump's revenge tour is put to the test in Georgia, Alabama"
+    "title": "Trump's revenge tour is put to the test in Georgia, Alabama",
+    "sentiment": "0"
   },
   {
     "id": 7527,
     "mediaId": 305,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T15:58",
     "sentence": "Now that Stacey Abrams is back in the race to triumph her loss in the gubernatorial primary in 2018 and <span class='selected-term'>Herschel Walker</span> is taking a stab at the Senate race following his glorification of former President Trump, more people seem to be interested in participating in the election.",
     "author": "Kalyn Womack",
-    "title": "Georgia Sees Record Number of Early Votes from Minorities"
+    "title": "Georgia Sees Record Number of Early Votes from Minorities",
+    "sentiment": "0"
   },
   {
     "id": 7228,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "This fall, Mr. Warnock is expected to face <span class='selected-term'>Herschel Walker</span>, the Republican former football star with scant political experience.",
     "author": "",
-    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality"
-  },
-  {
-    "id": 7238,
-    "mediaId": 195,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "Likewise, former NFL player <span class='selected-term'>Herschel Walker</span>, whom Trump has also endorsed, is the heavy favorite to win the Republican Senate nod.",
-    "author": "Max Greenwood",
-    "title": "Democrats look to defy political headwinds in Georgia"
-  },
-  {
-    "id": 7245,
-    "mediaId": 21,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "Brian Kemp and Trump-backed former Sen. David Perdue; the GOP Senate primary where former NFL player <span class='selected-term'>Herschel Walker</span> is set to glide to the nomination and face first-term Democratic Sen. Raphael Warnock; the Georgia secretary of state race which features Raffensperger and Trump-endorsed Rep. Jody Hice; and the Democratic gubernatorial primary, where former state House minority leader Stacey Abrams is running unopposed in her second bid for the Governor's Mansion.",
-    "author": "John L. Dorman",
-    "title": "Early voting turnout in Georgia soars in wake of restrictive election law"
+    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality",
+    "sentiment": "0.0"
   },
   {
     "id": 7260,
     "mediaId": 1576,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "Their likely U.S. Senate candidate is <span class='selected-term'>Herschel Walker</span>, whos Black.",
     "author": "",
-    "title": "Georgia voters showed us these 3 things about the fall election"
+    "title": "Georgia voters showed us these 3 things about the fall election",
+    "sentiment": "0.0"
   },
   {
-    "id": 7289,
-    "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "This fall, Mr. Warnock is expected to face <span class='selected-term'>Herschel Walker</span>, the Republican former football star with scant political experience.",
-    "author": "",
-    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else."
+    "id": 7245,
+    "mediaId": 21,
+    "date": "d2022-05-22T15:00",
+    "sentence": "Brian Kemp and Trump-backed former Sen. David Perdue; the GOP Senate primary where former NFL player <span class='selected-term'>Herschel Walker</span> is set to glide to the nomination and face first-term Democratic Sen. Raphael Warnock; the Georgia secretary of state race which features Raffensperger and Trump-endorsed Rep. Jody Hice; and the Democratic gubernatorial primary, where former state House minority leader Stacey Abrams is running unopposed in her second bid for the Governor's Mansion.",
+    "author": "John L. Dorman",
+    "title": "Early voting turnout in Georgia soars in wake of restrictive election law",
+    "sentiment": "-0.793"
   },
   {
-    "id": 7483,
-    "mediaId": 147,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "Trumps candidate for U.S. Senate, football legend <span class='selected-term'>Herschel Walker</span>, appears to be cruising to the Republican nomination despite some GOP leaders warning that Walker will be unelectable in November against Democratic incumbent Raphael Warnock.",
-    "author": "Jeff Amy",
-    "title": "2022 Georgia Primary Election Results"
-  },
-  {
-    "id": 7484,
+    "id": 7238,
     "mediaId": 195,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "Warnock is set to battle former University of Georgia football star <span class='selected-term'>Herschel Walker</span>, who has Trumps backing, while Abrams looks likely to face Kemp in a rematch of the 2018 gubernatorial election.",
-    "author": "Rachel Scully",
-    "title": "What time do polls close in Georgia, Texas?"
-  },
-  {
-    "id": 7488,
-    "mediaId": 151,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "PAPER TRAIL  <span class='selected-term'>Herschel Walker</span>s ties to veterans program face scrutiny, by the Associated Press Brian Slodysko and Jeff Amy: Herschel Walker, the football legend and leading Republican Senate candidate in Georgia, often boasts of his work helping service members and veterans struggling with mental health.",
-    "author": "",
-    "title": "7 big 2022 midterm questions to answer this week"
+    "date": "d2022-05-22T21:52",
+    "sentence": "Likewise, former NFL player <span class='selected-term'>Herschel Walker</span>, whom Trump has also endorsed, is the heavy favorite to win the Republican Senate nod.",
+    "author": "Max Greenwood",
+    "title": "Democrats look to defy political headwinds in Georgia",
+    "sentiment": "0"
   },
   {
     "id": 7502,
     "mediaId": 19,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "In Georgia, they are seeking redemption for races lost in 2020, they have a state celebrity on the ballot in <span class='selected-term'>Herschel Walker</span>, and many of the primaries are highly competitive and elevated by Trumps intervention.",
     "author": "Ashley Oliver",
-    "title": "Primary Races Foreshadow Blockbuster November in Georgia"
+    "title": "Primary Races Foreshadow Blockbuster November in Georgia",
+    "sentiment": "0"
   },
   {
-    "id": 7299,
-    "mediaId": 238,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Trumps political clout will also be tested in two other races: the Senate contest where ex-NFL star <span class='selected-term'>Herschel Walker</span> is expected to win the GOP nod to face Sen. Raphael G. Warnock (D); and the secretary of state race between Brad Raffensperger and Trumps pick, Rep. Jody Hice (R).",
-    "author": "Mariana Alfaro",
-    "title": "Trump and Pence take separate sides in Georgias gubernatorial primary"
-  },
-  {
-    "id": 7313,
+    "id": 7289,
     "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "This week, Georgia will also kick off one of the countrys most important Senate elections, between Senator Raphael Warnock, a Democrat running for re-election, and <span class='selected-term'>Herschel Walker</span>, a Republican backed by Mr. Trump who is widely expected to cruise to victory in his partys primary.",
+    "date": "d2022-05-23T13:33:24",
+    "sentence": "This fall, Mr. Warnock is expected to face <span class='selected-term'>Herschel Walker</span>, the Republican former football star with scant political experience.",
     "author": "",
-    "title": "What to Watch For in Todays Elections in Georgia and Beyond"
+    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else.",
+    "sentiment": "0"
   },
   {
-    "id": 7315,
-    "mediaId": 21,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Trump talked up Perdue and former football star <span class='selected-term'>Herschel Walker</span>, his pick to knock off Warnock in the general election, during a rally in Commerce, Georgia on March 26.",
-    "author": "Warren Rojas",
-    "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally"
-  },
-  {
-    "id": 7350,
-    "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "And Josh Clark, a former Georgia state representative who is running a long-shot Senate campaign against <span class='selected-term'>Herschel Walker</span>, the Trump-endorsed former football star, touted his endorsement from Mike Lindell, the MyPillow chief executive who is a full-time amplifier of election conspiracy theories.",
-    "author": "",
-    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond"
-  },
-  {
-    "id": 7412,
-    "mediaId": 233,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Rep. Marjorie Taylor Greenes primary race is also underway, along with the Senate contest between incumbent Rep. Raphael Warnock and football star <span class='selected-term'>Herschel Walker</span>.",
-    "author": "David Jackson",
-    "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates"
-  },
-  {
-    "id": 7414,
-    "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Trump has endorsed NFL legend <span class='selected-term'>Herschel Walker</span>, a Republican who is polling with a strong lead.",
-    "author": "Kelsey Carolan",
-    "title": "NotedDC  GOP prepares to take on Stacey Abrams"
-  },
-  {
-    "id": 7419,
-    "mediaId": 129,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Raphael Warnock, the incumbent Democratic senator, will most likely cruise to a primary win and confront <span class='selected-term'>Herschel Walker</span>, the former football star, in the fall.",
-    "author": "",
-    "title": "Your Tuesday Evening Briefing"
-  },
-  {
-    "id": 7423,
-    "mediaId": 409,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Meanwhile, Trump-backed Senate candidate <span class='selected-term'>Herschel Walker</span> defeated several competitors to win the Republican primary, including state Agriculture Commissioner Gary Black and military veteran Latham Saddler, the AP projected.",
-    "author": "Brittany Bernstein",
-    "title": "Georgia Governor Kemp Defeats Perdue in GOP Primary, Setting Up Rematch against Stacey Abrams"
-  },
-  {
-    "id": 7425,
-    "mediaId": 558,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Also in Georgia, former football star <span class='selected-term'>Herschel Walker</span> for the Republican nomination for U.S. Senate.",
-    "author": "Michael Isikoff",
-    "title": "Georgia Gov. Kemp defeats Trump-backed challenger, former Senator Perdue in GOP primary"
-  },
-  {
-    "id": 7427,
-    "mediaId": 136,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "GOP candidate <span class='selected-term'>Herschel Walker</span>, currently running to represent Georgia in the U.S. Senate, denied that former President Donald Trump has ever claimed the 2020 presidential election was stolen.",
-    "author": "Andrew Stanton",
-    "title": "Herschel Walker Denies Trump Ever Said Election Was 'Stolen'"
-  },
-  {
-    "id": 7432,
-    "mediaId": 305,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "The Georgia primary races have started today, and GOP Senate candidate <span class='selected-term'>Herschel Walker</span> couldnt help but give another priceless soundbite.",
-    "author": "Murjani Rawls",
-    "title": "Herschel Walker Claims Trump Never Said The Presidential Election Was 'Stolen'"
-  },
-  {
-    "id": 7435,
-    "mediaId": 65,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "The most high-profile is former college and pro-football legend <span class='selected-term'>Herschel Walker</span>, who appears poised to easily capture the GOP nomination on his way to battling Democratic Sen. Raphael Warnock in a blockbuster general election showdown that could decide whether Republicans win back the Senate majority.",
-    "author": "",
-    "title": "Trump looms large over Tuesday primaries in Georgia, Alabama, Arkansas, and runoff in Texas"
-  },
-  {
-    "id": 7436,
-    "mediaId": 441,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Former University of Georgia football legend <span class='selected-term'>Herschel Walker</span>, 60, is backed by Trump and is running far ahead of any other GOP primary contender despite participating in no debates and avoiding the news media.",
-    "author": "Margaret Newkirk",
-    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries"
-  },
-  {
-    "id": 7437,
-    "mediaId": 223,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Also in Georgia, we'll be keeping an eye on the crowded GOP Senate primary in which Trump-endorsed former NFL player <span class='selected-term'>Herschel Walker</span> is expected to win his primary against Georgia Agriculture Commissioner Gary Black, former state Representative Josh Clark, and a hat-trick of American heroes: former Navy Seal Latham Saddler, U.S. Air Force veteran Kelvin King, and former U.S. Army Special Forces brigadier general Jonathan McColumn.",
-    "author": "Spencer Brown",
-    "title": "Here's What to Expect in the Texas Runoffs and Races in Georgia, Alabama, and Arkansas"
-  },
-  {
-    "id": 7444,
-    "mediaId": 943,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Trump-backed former NFL star <span class='selected-term'>Herschel Walker</span> is poised to win Georgias GOP Senate nomination after fending off conservative opponents who raised questions about his history of domestic violence.",
-    "author": "STEVE PEOPLES and JEFF AMY",
-    "title": "What to watch in Tuesdays primaries: Trumps bid to reshape GOP faces biggest hurdles in Georgia"
-  },
-  {
-    "id": 7446,
+    "id": 7488,
     "mediaId": 151,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Its one reason Trumps orbit and Senate Minority Leader Mitch McConnells political operation have united behind former football star <span class='selected-term'>Herschel Walker</span> in the Georgia Senate race: the likelihood of a close election in November against Democratic Sen. Raphael Warnock.",
+    "date": "d2022-05-23T14:00",
+    "sentence": "PAPER TRAIL  <span class='selected-term'>Herschel Walker</span>s ties to veterans program face scrutiny, by the Associated Press Brian Slodysko and Jeff Amy: Herschel Walker, the football legend and leading Republican Senate candidate in Georgia, often boasts of his work helping service members and veterans struggling with mental health.",
     "author": "",
-    "title": "Trump heads for big rebuke in Tuesdays elections"
+    "title": "7 big 2022 midterm questions to answer this week",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7484,
+    "mediaId": 195,
+    "date": "d2022-05-23T18:58",
+    "sentence": "Warnock is set to battle former University of Georgia football star <span class='selected-term'>Herschel Walker</span>, who has Trumps backing, while Abrams looks likely to face Kemp in a rematch of the 2018 gubernatorial election.",
+    "author": "Rachel Scully",
+    "title": "What time do polls close in Georgia, Texas?",
+    "sentiment": "0"
+  },
+  {
+    "id": 7483,
+    "mediaId": 147,
+    "date": "d2022-05-23T19:51",
+    "sentence": "Trumps candidate for U.S. Senate, football legend <span class='selected-term'>Herschel Walker</span>, appears to be cruising to the Republican nomination despite some GOP leaders warning that Walker will be unelectable in November against Democratic incumbent Raphael Warnock.",
+    "author": "Jeff Amy",
+    "title": "2022 Georgia Primary Election Results",
+    "sentiment": "-0.949"
   },
   {
     "id": 7461,
     "mediaId": 98,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "Those contests, along with the likely rise of football legend <span class='selected-term'>Herschel Walker</span> and a pair of battles for the direction of the Democratic Party, make up a busy night of midterm primary action.",
     "author": "Melanie MasonStaff Writer",
-    "title": "Georgia has its primary today. Heres what to watch"
+    "title": "Georgia has its primary today. Heres what to watch",
+    "sentiment": "0.622"
   },
   {
     "id": 7463,
     "mediaId": 25,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "Former star Georgia running back <span class='selected-term'>Herschel Walker</span> has led the Republican field since he entered the race with Trump's encouragement.",
     "author": "Adam Brewster, Aaron Navarro",
-    "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue"
+    "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue",
+    "sentiment": "0.0"
   },
   {
     "id": 7474,
     "mediaId": 1164,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "In the Georgia U.S. Senate race, former NFL star <span class='selected-term'>Herschel Walker</span>, who is backed by Trump, is expected to handily win, setting up a showdown with current Democratic Sen. Raphael Warnock.",
     "author": "Clyde Hughes",
-    "title": "Georgia governor, Senate races highlight primaries in 5 states"
+    "title": "Georgia governor, Senate races highlight primaries in 5 states",
+    "sentiment": "0.0"
   },
   {
     "id": 7476,
     "mediaId": 188,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "Former NFL player <span class='selected-term'>Herschel Walker</span>, another Trump-backed candidate, secured victory in the Republican primary for U.S. Senate in Georgia, according to an AP race call, and will now go up against Democratic Sen. Raphael Warnock.",
     "author": "Alex Nitzberg",
-    "title": "Georgia Gov. Brian Kemp defeats Trump-backed David Perdue in Peach State gubernatorial primary; Kemp will face off against Democrat Stacey Abrams during the general election"
+    "title": "Georgia Gov. Brian Kemp defeats Trump-backed David Perdue in Peach State gubernatorial primary; Kemp will face off against Democrat Stacey Abrams during the general election",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7299,
+    "mediaId": 238,
+    "date": "d2022-05-24T00:04",
+    "sentence": "Trumps political clout will also be tested in two other races: the Senate contest where ex-NFL star <span class='selected-term'>Herschel Walker</span> is expected to win the GOP nod to face Sen. Raphael G. Warnock (D); and the secretary of state race between Brad Raffensperger and Trumps pick, Rep. Jody Hice (R).",
+    "author": "Mariana Alfaro",
+    "title": "Trump and Pence take separate sides in Georgias gubernatorial primary",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7315,
+    "mediaId": 21,
+    "date": "d2022-05-24T02:00",
+    "sentence": "Trump talked up Perdue and former football star <span class='selected-term'>Herschel Walker</span>, his pick to knock off Warnock in the general election, during a rally in Commerce, Georgia on March 26.",
+    "author": "Warren Rojas",
+    "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7313,
+    "mediaId": 129,
+    "date": "d2022-05-24T04:01",
+    "sentence": "This week, Georgia will also kick off one of the countrys most important Senate elections, between Senator Raphael Warnock, a Democrat running for re-election, and <span class='selected-term'>Herschel Walker</span>, a Republican backed by Mr. Trump who is widely expected to cruise to victory in his partys primary.",
+    "author": "",
+    "title": "What to Watch For in Todays Elections in Georgia and Beyond",
+    "sentiment": "0.656"
+  },
+  {
+    "id": 7446,
+    "mediaId": 151,
+    "date": "d2022-05-24T08:30",
+    "sentence": "Its one reason Trumps orbit and Senate Minority Leader Mitch McConnells political operation have united behind former football star <span class='selected-term'>Herschel Walker</span> in the Georgia Senate race: the likelihood of a close election in November against Democratic Sen. Raphael Warnock.",
+    "author": "",
+    "title": "Trump heads for big rebuke in Tuesdays elections",
+    "sentiment": "-0.67"
+  },
+  {
+    "id": 7444,
+    "mediaId": 943,
+    "date": "d2022-05-24T08:48",
+    "sentence": "Trump-backed former NFL star <span class='selected-term'>Herschel Walker</span> is poised to win Georgias GOP Senate nomination after fending off conservative opponents who raised questions about his history of domestic violence.",
+    "author": "STEVE PEOPLES and JEFF AMY",
+    "title": "What to watch in Tuesdays primaries: Trumps bid to reshape GOP faces biggest hurdles in Georgia",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7350,
+    "mediaId": 129,
+    "date": "d2022-05-24T08:59:18",
+    "sentence": "And Josh Clark, a former Georgia state representative who is running a long-shot Senate campaign against <span class='selected-term'>Herschel Walker</span>, the Trump-endorsed former football star, touted his endorsement from Mike Lindell, the MyPillow chief executive who is a full-time amplifier of election conspiracy theories.",
+    "author": "",
+    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "0.311"
+  },
+  {
+    "id": 7437,
+    "mediaId": 223,
+    "date": "d2022-05-24T10:45",
+    "sentence": "Also in Georgia, we'll be keeping an eye on the crowded GOP Senate primary in which Trump-endorsed former NFL player <span class='selected-term'>Herschel Walker</span> is expected to win his primary against Georgia Agriculture Commissioner Gary Black, former state Representative Josh Clark, and a hat-trick of American heroes: former Navy Seal Latham Saddler, U.S. Air Force veteran Kelvin King, and former U.S. Army Special Forces brigadier general Jonathan McColumn.",
+    "author": "Spencer Brown",
+    "title": "Here's What to Expect in the Texas Runoffs and Races in Georgia, Alabama, and Arkansas",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7436,
+    "mediaId": 441,
+    "date": "d2022-05-24T11:00",
+    "sentence": "Former University of Georgia football legend <span class='selected-term'>Herschel Walker</span>, 60, is backed by Trump and is running far ahead of any other GOP primary contender despite participating in no debates and avoiding the news media.",
+    "author": "Margaret Newkirk",
+    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries",
+    "sentiment": "0.769"
+  },
+  {
+    "id": 7435,
+    "mediaId": 65,
+    "date": "d2022-05-24T12:38",
+    "sentence": "The most high-profile is former college and pro-football legend <span class='selected-term'>Herschel Walker</span>, who appears poised to easily capture the GOP nomination on his way to battling Democratic Sen. Raphael Warnock in a blockbuster general election showdown that could decide whether Republicans win back the Senate majority.",
+    "author": "",
+    "title": "Trump looms large over Tuesday primaries in Georgia, Alabama, Arkansas, and runoff in Texas",
+    "sentiment": "0.481"
+  },
+  {
+    "id": 7432,
+    "mediaId": 305,
+    "date": "d2022-05-24T14:27",
+    "sentence": "The Georgia primary races have started today, and GOP Senate candidate <span class='selected-term'>Herschel Walker</span> couldnt help but give another priceless soundbite.",
+    "author": "Murjani Rawls",
+    "title": "Herschel Walker Claims Trump Never Said The Presidential Election Was 'Stolen'",
+    "sentiment": "-0.809"
+  },
+  {
+    "id": 7427,
+    "mediaId": 136,
+    "date": "d2022-05-24T17:22",
+    "sentence": "GOP candidate <span class='selected-term'>Herschel Walker</span>, currently running to represent Georgia in the U.S. Senate, denied that former President Donald Trump has ever claimed the 2020 presidential election was stolen.",
+    "author": "Andrew Stanton",
+    "title": "Herschel Walker Denies Trump Ever Said Election Was 'Stolen'",
+    "sentiment": "-0.845"
+  },
+  {
+    "id": 7425,
+    "mediaId": 558,
+    "date": "d2022-05-24T17:48",
+    "sentence": "Also in Georgia, former football star <span class='selected-term'>Herschel Walker</span> for the Republican nomination for U.S. Senate.",
+    "author": "Michael Isikoff",
+    "title": "Georgia Gov. Kemp defeats Trump-backed challenger, former Senator Perdue in GOP primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 7423,
+    "mediaId": 409,
+    "date": "d2022-05-24T20:37",
+    "sentence": "Meanwhile, Trump-backed Senate candidate <span class='selected-term'>Herschel Walker</span> defeated several competitors to win the Republican primary, including state Agriculture Commissioner Gary Black and military veteran Latham Saddler, the AP projected.",
+    "author": "Brittany Bernstein",
+    "title": "Georgia Governor Kemp Defeats Perdue in GOP Primary, Setting Up Rematch against Stacey Abrams",
+    "sentiment": "-0.35"
+  },
+  {
+    "id": 7419,
+    "mediaId": 129,
+    "date": "d2022-05-24T22:44",
+    "sentence": "Raphael Warnock, the incumbent Democratic senator, will most likely cruise to a primary win and confront <span class='selected-term'>Herschel Walker</span>, the former football star, in the fall.",
+    "author": "",
+    "title": "Your Tuesday Evening Briefing",
+    "sentiment": "0"
+  },
+  {
+    "id": 7414,
+    "mediaId": 195,
+    "date": "d2022-05-24T23:10",
+    "sentence": "Trump has endorsed NFL legend <span class='selected-term'>Herschel Walker</span>, a Republican who is polling with a strong lead.",
+    "author": "Kelsey Carolan",
+    "title": "NotedDC  GOP prepares to take on Stacey Abrams",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7412,
+    "mediaId": 233,
+    "date": "d2022-05-24T23:24",
+    "sentence": "Rep. Marjorie Taylor Greenes primary race is also underway, along with the Senate contest between incumbent Rep. Raphael Warnock and football star <span class='selected-term'>Herschel Walker</span>.",
+    "author": "David Jackson",
+    "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
+    "sentiment": "0.0"
   },
   {
     "id": 7345,
     "mediaId": 1576,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "Former football great <span class='selected-term'>Herschel Walker</span>, Trump's pick for U.S. Senate in Georgia, dominated the Republican challengers in his primary.",
     "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win"
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.395"
   },
   {
     "id": 7377,
     "mediaId": 65,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:35",
     "sentence": "The most high-profile candidate Trump endorsed is former college and pro-football legend <span class='selected-term'>Herschel Walker</span>, who easily captured the GOP nomination on his way to battling Democratic Sen. Raphael Warnock in a blockbuster general election showdown that could decide whether Republicans win back the Senate majority.",
     "author": "Paul Steinhauser",
-    "title": "Kemp beats Perdue in Georgia governor primary, striking most significant blow to Trump's endorsement power yet"
+    "title": "Kemp beats Perdue in Georgia governor primary, striking most significant blow to Trump's endorsement power yet",
+    "sentiment": "0.0"
   },
   {
     "id": 8363,
     "mediaId": 65,
-    "date": "5/26/2022 12:00:00 AM",
+    "date": "d2022-05-26T00:39",
     "sentence": "Heisman Trophy winner and former Dallas Cowboys running back <span class='selected-term'>Herschel Walker</span>, however, handily defeated his opponents, earning a Trump-endorsed win in the U.S. Senate primary.",
     "author": "",
-    "title": "Georgia Gov. Kemp responds to Trump critiques, says Stacey Abrams is main focus"
+    "title": "Georgia Gov. Kemp responds to Trump critiques, says Stacey Abrams is main focus",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8496,
+    "mediaId": 19,
+    "date": "d2022-05-28T00:00",
+    "sentence": "The battleground state has attracted national attention as Trump has continued to be vocal about his ire toward Kemp, and in the Senate race, Georgians have somewhat of a celebrity on the ballot in <span class='selected-term'>Herschel Walker</span>, who is up against vulnerable Sen. Raphael Warnock (D-GA).",
+    "author": "Ashley Oliver",
+    "title": "Exclusive  Supercharged Brian Kemp Races into Governors Rematch: Stacey Abrams Will Be Great Unifier for Georgia Republicans",
+    "sentiment": "0"
   }
 ]

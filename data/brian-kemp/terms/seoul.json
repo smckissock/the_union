@@ -2,41 +2,46 @@
   {
     "id": 6566,
     "mediaId": 238,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T11:22",
     "sentence": "Other tests of Trumps influence loom next week, including in Georgia, where polls show his preferred choice for governor, David Perdue, badly trailing incumbent <span class='selected-term'>Brian Kemp</span> in the GOP primary.",
     "author": "Mariana Alfaro",
-    "title": "Post Politics Now Senate primary in Pa. still unresolved as other tests of Trumps influence loom"
+    "title": "Post Politics Now Senate primary in Pa. still unresolved as other tests of Trumps influence loom",
+    "sentiment": "-0.659"
   },
   {
     "id": 7083,
     "mediaId": 558,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T14:38",
     "sentence": "",
     "author": "",
-    "title": "Hyundai to build $5.5 bn electric vehicle plant in US"
-  },
-  {
-    "id": 7252,
-    "mediaId": 323,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "Left unmentioned in Mr. Bidens speech: <span class='selected-term'>Brian Kemp</span>, the states Republican governor, who touted Hyundais investment at a separate event two days ago.",
-    "author": "Andrew Restuccia",
-    "title": "Biden Keeps Eye on Domestic Politics as He Travels Through Asia"
-  },
-  {
-    "id": 7255,
-    "mediaId": 233,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Maureen Groppe",
-    "title": "Biden ending South Korea visit with continued emphasis on economic, security cooperation"
+    "title": "Hyundai to build $5.5 bn electric vehicle plant in US",
+    "sentiment": "0"
   },
   {
     "id": 7263,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "Biden Arrives in Tokyo Seeking to Shore Up Support for Economic Plan"
+    "title": "Biden Arrives in Tokyo Seeking to Shore Up Support for Economic Plan",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7255,
+    "mediaId": 233,
+    "date": "d2022-05-22T04:01",
+    "sentence": "",
+    "author": "Maureen Groppe",
+    "title": "Biden ending South Korea visit with continued emphasis on economic, security cooperation",
+    "sentiment": "0"
+  },
+  {
+    "id": 7252,
+    "mediaId": 323,
+    "date": "d2022-05-22T09:08",
+    "sentence": "Left unmentioned in Mr. Bidens speech: <span class='selected-term'>Brian Kemp</span>, the states Republican governor, who touted Hyundais investment at a separate event two days ago.",
+    "author": "Andrew Restuccia",
+    "title": "Biden Keeps Eye on Domestic Politics as He Travels Through Asia",
+    "sentiment": "0"
   }
 ]

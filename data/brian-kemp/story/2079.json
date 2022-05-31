@@ -1,10 +1,11 @@
 {
   "id": 2079,
   "mediaId": 112,
-  "date": "4/14/2022 12:00:00 AM",
+  "date": "d2022-04-14T01:43",
   "headline": "Trump PAC gives $500,000 for attack ads against Georgia's Brian Kemp",
   "image": "https://images.mktw.net/im-268942?width=700&size=1.2536728697355535&pixel_ratio=3",
   "link": "https://www.marketwatch.com/story/trump-pac-gives-500-000-for-attack-ads-against-georgias-brian-kemp-01649900623",
+  "sentiment": "-0.902",
   "mediaOutlet": "Marketwatch",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     1147,
     1281,
-    1646,
     2095,
     2355,
     4325,

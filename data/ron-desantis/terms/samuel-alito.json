@@ -1,258 +1,398 @@
 [
   {
-    "id": 4107,
-    "mediaId": 21,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Grace Panetta",
-    "title": "Conservative media talking heads play defense on overturning Roe: 'The sky will not have fallen'"
-  },
-  {
-    "id": 4111,
-    "mediaId": 1067,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kate Santich",
-    "title": "Central Florida doctors, abortion advocates outraged, say Roe v. Wade overturn would be deadly"
-  },
-  {
-    "id": 4120,
-    "mediaId": 195,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kimberly Wehle",
-    "title": "SCOTUS leaked abortion opinion is rooted in a time women had no rights"
-  },
-  {
-    "id": 4121,
-    "mediaId": 169,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jon Skolnik",
-    "title": "Megyn Kelly pushes back after Bill Barr suggest SCOTUS leaker could be criminally prosecuted"
-  },
-  {
-    "id": 4143,
-    "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "Tension between businesses and politicians may intensify\nDisneys recent battles with <span class='selected-term'>Ron DeSantis</span>, Floridas Republican governor, over a law prohibiting discussion of gender identity in some public schools cost the company its special tax privileges and good will from key Republicans.",
-    "author": "",
-    "title": "Supreme Court Live Updates: Supreme Court Confirms Leaked Opinion But Says the Draft Is Not a Final Decision"
-  },
-  {
-    "id": 4152,
-    "mediaId": 163,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "FLORIDA: Republican Governor <span class='selected-term'>Ron DeSantis</span> in April signed a 15-week abortion ban, which allows exceptions for medical emergencies or if the fetus has a fatal abnormality.",
-    "author": "Gabriella Borter",
-    "title": "Factbox: Restrictions vs protections: How U.S. states are taking sides on abortion"
-  },
-  {
     "id": 4158,
     "mediaId": 25,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Melissa Quinn",
-    "title": "Leaked draft opinion suggests Supreme Court may overturn Roe v. Wade"
+    "title": "Leaked draft opinion suggests Supreme Court may overturn Roe v. Wade",
+    "sentiment": "0.0"
   },
   {
     "id": 4163,
     "mediaId": 25,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Melissa Quinn",
-    "title": "Leaked draft opinion suggests Supreme Court may overturn Roe v. Wade"
+    "title": "Leaked draft opinion suggests Supreme Court may overturn Roe v. Wade",
+    "sentiment": "0.0"
   },
   {
     "id": 4174,
     "mediaId": 43,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "Great speech by @micheleforfl #prochoice #WomensRights #DeSantisDestroysFlorida #floridademocrats @richiejfloyd @CharlieCrist pic.twitter.com/heHrdPclhS\n Lizzy (@Lizzy3483x) May 3, 2022\nx\nGroup at second protest chanting racist, sexist, anti-gay, <span class='selected-term'>Ron DeSantis</span> go away.? pic.twitter.com/bUtWHWx6TR\n Rochelle Alleyne (@RochelleAlleyne) May 3, 2022\nMy state is showing out, yall!",
     "author": "",
-    "title": "Reproductive rights protests erupt nationwide in wake of leaked SCOTUS opinion"
+    "title": "Reproductive rights protests erupt nationwide in wake of leaked SCOTUS opinion",
+    "sentiment": "0.0"
   },
   {
-    "id": 4030,
-    "mediaId": 1067,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "Joseph dijo que ya estaba frustrada porque las restricciones al aborto firmadas recientemente por el gobernador <span class='selected-term'>Ron DeSantis</span> no tienen excepciones para las vctimas de violacin o incesto, pero ahora le preocupa que otros derechos puedan verse en peligro.",
-    "author": "Orlando Sentinel Staff",
-    "title": "Anular Roe v. Wade sera mortal, dicen mdicos de Florida Central y defensores del aborto que estn indignados"
+    "id": 4152,
+    "mediaId": 163,
+    "date": "d2022-05-03T04:09",
+    "sentence": "FLORIDA: Republican Governor <span class='selected-term'>Ron DeSantis</span> in April signed a 15-week abortion ban, which allows exceptions for medical emergencies or if the fetus has a fatal abnormality.",
+    "author": "Gabriella Borter",
+    "title": "Factbox: Restrictions vs protections: How U.S. states are taking sides on abortion",
+    "sentiment": "0"
   },
   {
-    "id": 4060,
+    "id": 4152,
+    "mediaId": 163,
+    "date": "d2022-05-03T04:09",
+    "sentence": "FLORIDA: Republican Governor <span class='selected-term'>Ron DeSantis</span> in April signed a 15-week abortion ban, which allows exceptions for medical emergencies or if the fetus has a fatal abnormality.",
+    "author": "Gabriella Borter",
+    "title": "Factbox: Restrictions vs protections: How U.S. states are taking sides on abortion",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4143,
     "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
+    "date": "d2022-05-03T09:22:53",
+    "sentence": "Tension between businesses and politicians may intensify\nDisneys recent battles with <span class='selected-term'>Ron DeSantis</span>, Floridas Republican governor, over a law prohibiting discussion of gender identity in some public schools cost the company its special tax privileges and good will from key Republicans.",
     "author": "",
-    "title": "Live Updates: Supreme Court Weighs Future Role and Final Word on Abortion"
+    "title": "Supreme Court Live Updates: Supreme Court Confirms Leaked Opinion But Says the Draft Is Not a Final Decision",
+    "sentiment": "0.0"
   },
   {
-    "id": 4072,
-    "mediaId": 65,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 4121,
+    "mediaId": 169,
+    "date": "d2022-05-03T17:32",
     "sentence": "",
-    "author": "Brooke Singman",
-    "title": "2024 presidential contenders weigh in on how Supreme Court leak may impact midterm elections"
+    "author": "Jon Skolnik",
+    "title": "Megyn Kelly pushes back after Bill Barr suggest SCOTUS leaker could be criminally prosecuted",
+    "sentiment": "0.0"
   },
   {
-    "id": 4079,
-    "mediaId": 124,
-    "date": "5/4/2022 12:00:00 AM",
+    "id": 4120,
+    "mediaId": 195,
+    "date": "d2022-05-03T17:45",
     "sentence": "",
-    "author": "",
-    "title": "Yelp and Meta's Sandberg respond to draft opinion that would strike down Roe v. Wade"
+    "author": "Kimberly Wehle",
+    "title": "SCOTUS leaked abortion opinion is rooted in a time women had no rights",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4111,
+    "mediaId": 1067,
+    "date": "d2022-05-03T19:07",
+    "sentence": "",
+    "author": "Kate Santich",
+    "title": "Central Florida doctors, abortion advocates outraged, say Roe v. Wade overturn would be deadly",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4107,
+    "mediaId": 21,
+    "date": "d2022-05-03T20:00",
+    "sentence": "",
+    "author": "Grace Panetta",
+    "title": "Conservative media talking heads play defense on overturning Roe: 'The sky will not have fallen'",
+    "sentiment": "0.0"
   },
   {
     "id": 4088,
     "mediaId": 238,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Clinics, lawmakers and activists scramble to prep for a post-Roe world"
+    "title": "Clinics, lawmakers and activists scramble to prep for a post-Roe world",
+    "sentiment": "0.0"
   },
   {
-    "id": 3978,
-    "mediaId": 65,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "\"This is disgustingly insensitive,\" tweeted <span class='selected-term'>Ron DeSantis</span> spokesperson Christina Pushaw.",
+    "id": 4079,
+    "mediaId": 124,
+    "date": "d2022-05-04T00:39:44",
+    "sentence": "",
     "author": "",
-    "title": "Conservatives roast comedy writer for saying nobody mourns 'miscarriages': Delete your account"
+    "title": "Yelp and Meta's Sandberg respond to draft opinion that would strike down Roe v. Wade",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4072,
+    "mediaId": 65,
+    "date": "d2022-05-04T06:06",
+    "sentence": "",
+    "author": "Brooke Singman",
+    "title": "2024 presidential contenders weigh in on how Supreme Court leak may impact midterm elections",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4060,
+    "mediaId": 129,
+    "date": "d2022-05-04T11:49:12",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: Supreme Court Weighs Future Role and Final Word on Abortion",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4030,
+    "mediaId": 1067,
+    "date": "d2022-05-04T20:40",
+    "sentence": "Joseph dijo que ya estaba frustrada porque las restricciones al aborto firmadas recientemente por el gobernador <span class='selected-term'>Ron DeSantis</span> no tienen excepciones para las vctimas de violacin o incesto, pero ahora le preocupa que otros derechos puedan verse en peligro.",
+    "author": "Orlando Sentinel Staff",
+    "title": "Anular Roe v. Wade sera mortal, dicen mdicos de Florida Central y defensores del aborto que estn indignados",
+    "sentiment": "0.0"
   },
   {
     "id": 4010,
     "mediaId": 187,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "Recent polls have found majority opposition in Texas to a ban passed there, and in Florida to the law Governor <span class='selected-term'>Ron DeSantis</span> recently signed prohibiting abortions after 15 weeks gestation.",
     "author": "Ronald Brownstein",
-    "title": "Americas Blue-Red Divide Is About to Get Starker"
+    "title": "Americas Blue-Red Divide Is About to Get Starker",
+    "sentiment": "0.0"
   },
   {
     "id": 4018,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "A tale of courage, humanity, and compassion is coming to Disney+ May 27th...\nx\nx\nx\n-\nDont tell <span class='selected-term'>Ron DeSantis</span> or hell send in the National Guard to invade the Magic Kingdom.",
     "author": "Bill",
-    "title": "Cheers and Jeers: Thursday"
+    "title": "Cheers and Jeers: Thursday",
+    "sentiment": "0"
+  },
+  {
+    "id": 4018,
+    "mediaId": 43,
+    "date": "d2022-05-05T00:00",
+    "sentence": "A tale of courage, humanity, and compassion is coming to Disney+ May 27th...\nx\nx\nx\n-\nDont tell <span class='selected-term'>Ron DeSantis</span> or hell send in the National Guard to invade the Magic Kingdom.",
+    "author": "Bill",
+    "title": "Cheers and Jeers: Thursday",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3978,
+    "mediaId": 65,
+    "date": "d2022-05-05T18:51",
+    "sentence": "\"This is disgustingly insensitive,\" tweeted <span class='selected-term'>Ron DeSantis</span> spokesperson Christina Pushaw.",
+    "author": "",
+    "title": "Conservatives roast comedy writer for saying nobody mourns 'miscarriages': Delete your account",
+    "sentiment": "0"
+  },
+  {
+    "id": 3978,
+    "mediaId": 65,
+    "date": "d2022-05-05T18:51",
+    "sentence": "\"This is disgustingly insensitive,\" tweeted <span class='selected-term'>Ron DeSantis</span> spokesperson Christina Pushaw.",
+    "author": "",
+    "title": "Conservatives roast comedy writer for saying nobody mourns 'miscarriages': Delete your account",
+    "sentiment": "0.0"
   },
   {
     "id": 3938,
     "mediaId": 151,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T09:00",
     "sentence": "Whereas when it comes to to gay rights, I mean, right now in Florida, we have the Dont Say Gay? issue, the law that is being passed by <span class='selected-term'>Ron DeSantis</span> and the Republicans there.",
     "author": "",
-    "title": "Lifting the curtain on SCOTUS with a POLITICO reporter who broke the Roe story"
+    "title": "Lifting the curtain on SCOTUS with a POLITICO reporter who broke the Roe story",
+    "sentiment": "0"
+  },
+  {
+    "id": 3938,
+    "mediaId": 151,
+    "date": "d2022-05-06T09:00",
+    "sentence": "Whereas when it comes to to gay rights, I mean, right now in Florida, we have the Dont Say Gay? issue, the law that is being passed by <span class='selected-term'>Ron DeSantis</span> and the Republicans there.",
+    "author": "",
+    "title": "Lifting the curtain on SCOTUS with a POLITICO reporter who broke the Roe story",
+    "sentiment": "0.0"
   },
   {
     "id": 3873,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T15:06",
     "sentence": "Eisen said that Republican politicians like Florida governor <span class='selected-term'>Ron DeSantis</span>, Sen. Josh Hawley (R-Mo) or Rep Jim Jordan (R-OH) show the grip that Trump still has on the GOP for the midterms in November and in 2024.",
     "author": "Brendan Cole",
-    "title": "Roe v. Wade Turmoil Shows 'Cancer of Trump's Influence': Impeachment Lawyer"
+    "title": "Roe v. Wade Turmoil Shows 'Cancer of Trump's Influence': Impeachment Lawyer",
+    "sentiment": "0.0"
   },
   {
     "id": 3828,
     "mediaId": 195,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T10:33",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Abortion tops agenda as lawmakers return"
-  },
-  {
-    "id": 3754,
-    "mediaId": 65,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "Im not looking to kiss anybodys a--  he seems like a decent guy, Im glad he won, but you have to take some cues from <span class='selected-term'>Ron DeSantis</span>, who enforces the law down here in Florida,\" Bongino said.",
-    "author": "",
-    "title": "Bongino calls on Virginia officials to prosecute Alito protesters under 'right to tranquility' law"
-  },
-  {
-    "id": 3756,
-    "mediaId": 238,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Youngkin gets backlash over stance on protests outside Alitos home"
+    "title": "The Hills Morning Report  Abortion tops agenda as lawmakers return",
+    "sentiment": "0.0"
   },
   {
     "id": 3762,
     "mediaId": 136,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T16:09",
     "sentence": "Aguilar went on to say Youngkin is becoming a \"RINO\" (Republican in name only) and that he asks himself daily what Florida Governor <span class='selected-term'>Ron DeSantis</span> would do.",
     "author": "Adam Staten",
-    "title": "Ex-Trump Adviser Takes Aim at Glenn Youngkin for SCOTUS Protest Response"
+    "title": "Ex-Trump Adviser Takes Aim at Glenn Youngkin for SCOTUS Protest Response",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3756,
+    "mediaId": 238,
+    "date": "d2022-05-10T21:46",
+    "sentence": "",
+    "author": "",
+    "title": "Youngkin gets backlash over stance on protests outside Alitos home",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3754,
+    "mediaId": 65,
+    "date": "d2022-05-10T23:57",
+    "sentence": "Im not looking to kiss anybodys a--  he seems like a decent guy, Im glad he won, but you have to take some cues from <span class='selected-term'>Ron DeSantis</span>, who enforces the law down here in Florida,\" Bongino said.",
+    "author": "",
+    "title": "Bongino calls on Virginia officials to prosecute Alito protesters under 'right to tranquility' law",
+    "sentiment": "0.0"
   },
   {
     "id": 3702,
     "mediaId": 558,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T12:04",
     "sentence": "",
     "author": "",
-    "title": "How women could access abortions in a post-Roe world"
+    "title": "How women could access abortions in a post-Roe world",
+    "sentiment": "0"
+  },
+  {
+    "id": 3702,
+    "mediaId": 558,
+    "date": "d2022-05-11T12:04",
+    "sentence": "",
+    "author": "",
+    "title": "How women could access abortions in a post-Roe world",
+    "sentiment": "0.0"
   },
   {
     "id": 3586,
     "mediaId": 238,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "",
-    "title": "Key issues"
+    "title": "Key issues",
+    "sentiment": "0.0"
   },
   {
     "id": 3570,
     "mediaId": 25,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "The Battle Over Abortion\n More\n Florida governor signs bill banning protesting outside of homes\n Clarence Thomas says Supreme Court changed by leak of draft abortion opinion\n Thousands gather for pro-abortion rights protests across U.S.\n Sen. Thune says Democrats are using issue of abortion \"to distract\"\n Murder charge vs. women who have abortions yanked from Louisiana bill\n More\nIn:\nRoe v. Wade\nProtests\nAbortion\n<span class='selected-term'>Ron DeSantis</span>",
     "author": "Zoe Christen Jones",
-    "title": "Florida Governor Ron DeSantis signs bill banning \"picketing and protesting\" outside a private residence"
+    "title": "Florida Governor Ron DeSantis signs bill banning \"picketing and protesting\" outside a private residence",
+    "sentiment": "0"
   },
   {
-    "id": 3498,
-    "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Lindsey Bever",
-    "title": "Florida bans protests outside homes"
-  },
-  {
-    "id": 3502,
-    "mediaId": 223,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) signed a bill on Monday barring protesters from picketing at people's homes as pro-abortion demonstrators have shown up to the homes of Supreme Court justices.",
-    "author": "Julio Rosas",
-    "title": "Ron DeSantis Signs Bill Making It Illegal to Protest at People's Homes"
-  },
-  {
-    "id": 3518,
-    "mediaId": 136,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Jake Thomas",
-    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home"
-  },
-  {
-    "id": 3520,
-    "mediaId": 65,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Paul Best",
-    "title": "DeSantis signs bill making it illegal to protest in front of an individual's home"
+    "id": 3570,
+    "mediaId": 25,
+    "date": "d2022-05-16T00:00",
+    "sentence": "The Battle Over Abortion\n More\n Florida governor signs bill banning protesting outside of homes\n Clarence Thomas says Supreme Court changed by leak of draft abortion opinion\n Thousands gather for pro-abortion rights protests across U.S.\n Sen. Thune says Democrats are using issue of abortion \"to distract\"\n Murder charge vs. women who have abortions yanked from Louisiana bill\n More\nIn:\nRoe v. Wade\nProtests\nAbortion\n<span class='selected-term'>Ron DeSantis</span>",
+    "author": "Zoe Christen Jones",
+    "title": "Florida Governor Ron DeSantis signs bill banning \"picketing and protesting\" outside a private residence",
+    "sentiment": "0.0"
   },
   {
     "id": 3526,
     "mediaId": 19,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Hannah Bleau",
-    "title": "Ron DeSantis Signs Measure Outlawing Protests Outside of Floridians Homes: Sending Unruly Mobs Is Inappropriate"
+    "title": "Ron DeSantis Signs Measure Outlawing Protests Outside of Floridians Homes: Sending Unruly Mobs Is Inappropriate",
+    "sentiment": "0"
+  },
+  {
+    "id": 3526,
+    "mediaId": 19,
+    "date": "d2022-05-17T00:00",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Signs Measure Outlawing Protests Outside of Floridians Homes: Sending Unruly Mobs Is Inappropriate",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3520,
+    "mediaId": 65,
+    "date": "d2022-05-17T00:49",
+    "sentence": "",
+    "author": "Paul Best",
+    "title": "DeSantis signs bill making it illegal to protest in front of an individual's home",
+    "sentiment": "0"
+  },
+  {
+    "id": 3520,
+    "mediaId": 65,
+    "date": "d2022-05-17T00:49",
+    "sentence": "",
+    "author": "Paul Best",
+    "title": "DeSantis signs bill making it illegal to protest in front of an individual's home",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3518,
+    "mediaId": 136,
+    "date": "d2022-05-17T01:01",
+    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Jake Thomas",
+    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
+    "sentiment": "0"
+  },
+  {
+    "id": 3518,
+    "mediaId": 136,
+    "date": "d2022-05-17T01:01",
+    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Jake Thomas",
+    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3502,
+    "mediaId": 223,
+    "date": "d2022-05-17T13:40",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) signed a bill on Monday barring protesters from picketing at people's homes as pro-abortion demonstrators have shown up to the homes of Supreme Court justices.",
+    "author": "Julio Rosas",
+    "title": "Ron DeSantis Signs Bill Making It Illegal to Protest at People's Homes",
+    "sentiment": "0"
+  },
+  {
+    "id": 3502,
+    "mediaId": 223,
+    "date": "d2022-05-17T13:40",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) signed a bill on Monday barring protesters from picketing at people's homes as pro-abortion demonstrators have shown up to the homes of Supreme Court justices.",
+    "author": "Julio Rosas",
+    "title": "Ron DeSantis Signs Bill Making It Illegal to Protest at People's Homes",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3498,
+    "mediaId": 238,
+    "date": "d2022-05-17T21:55",
+    "sentence": "",
+    "author": "Lindsey Bever",
+    "title": "Florida bans protests outside homes",
+    "sentiment": "0"
+  },
+  {
+    "id": 3498,
+    "mediaId": 238,
+    "date": "d2022-05-17T21:55",
+    "sentence": "",
+    "author": "Lindsey Bever",
+    "title": "Florida bans protests outside homes",
+    "sentiment": "0.0"
   },
   {
     "id": 7146,
     "mediaId": 188,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "Paul Sacca",
-    "title": "Joy Reid says 'Christian nationalists' waging a pro-life 'jihad' will impose national forced birth law in the name of God"
+    "title": "Joy Reid says 'Christian nationalists' waging a pro-life 'jihad' will impose national forced birth law in the name of God",
+    "sentiment": "0"
+  },
+  {
+    "id": 7146,
+    "mediaId": 188,
+    "date": "d2022-05-20T00:00",
+    "sentence": "",
+    "author": "Paul Sacca",
+    "title": "Joy Reid says 'Christian nationalists' waging a pro-life 'jihad' will impose national forced birth law in the name of God",
+    "sentiment": "0.0"
   }
 ]

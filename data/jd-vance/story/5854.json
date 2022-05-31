@@ -1,10 +1,11 @@
 {
   "id": 5854,
   "mediaId": 129,
-  "date": "5/4/2022 12:00:00 AM",
+  "date": "d2022-05-04T00:00",
   "headline": "Tucker, Thiel and Trump: How J.D. Vance Won in Ohio",
   "image": "https://static01.nyt.com/images/2022/05/04/lens/04pol-ohio-tucker-vance/04pol-ohio-tucker-vance-superJumbo.jpg?quality=75&auto=webp",
   "link": "https://www.nytimes.com/2022/05/04/us/politics/jd-vance-trump-ohio-fox-news.html",
+  "sentiment": "0.685",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

@@ -2,25 +2,28 @@
   {
     "id": 5351,
     "mediaId": 19,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T00:00",
     "sentence": "",
     "author": "AWR Hawkins",
-    "title": "Gov. Brian Kemp: Georgians Carry Permit Is the 2nd Amendment"
+    "title": "Gov. Brian Kemp: Georgians Carry Permit Is the 2nd Amendment",
+    "sentiment": "0.468"
   },
   {
     "id": 4658,
     "mediaId": 409,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T15:21",
     "sentence": "In Georgia, the legislature passed a bill delegating authority to the GHSA to implement policies on transgender athletes, with Governor <span class='selected-term'>Brian Kemp</span> signing the bill last week.",
     "author": "Zachary Evans",
-    "title": "Georgia School Athletics Group Bars Male Students from Girls Sports"
+    "title": "Georgia School Athletics Group Bars Male Students from Girls Sports",
+    "sentiment": "0.0"
   },
   {
     "id": 7482,
     "mediaId": 195,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:29",
     "sentence": "",
     "author": "Niall Stanage",
-    "title": "The Memo: Trump no longer holds MAGA movement in his palm"
+    "title": "The Memo: Trump no longer holds MAGA movement in his palm",
+    "sentiment": "0"
   }
 ]

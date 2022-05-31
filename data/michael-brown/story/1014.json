@@ -1,10 +1,11 @@
 {
   "id": 1014,
   "mediaId": 43,
-  "date": "1/24/2022 12:00:00 AM",
+  "date": "d2022-01-24T00:00",
   "headline": "A botched arrest and wrongful incarceration reveals a racist rot in our criminal justice system",
   "image": "https://images.dailykos.com/images/780079/story_image/GettyImages-72551145.jpg?1584714881",
   "link": "https://www.dailykos.com/story/2022/1/24/2076450/-Police-arrest-jail-Black-man-for-nearly-a-week-based-on-a-warrant-for-a-white-male-26-years-older",
+  "sentiment": "0.0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,

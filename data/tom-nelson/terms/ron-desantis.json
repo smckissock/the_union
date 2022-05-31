@@ -2,17 +2,19 @@
   {
     "id": 2326,
     "mediaId": 367,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "In the Democratic primary, Outagamie County Executive <span class='selected-term'>Tom Nelson</span>'s campaign said it raised $220,000 in the first quarter and had $550,000 cash on hand at the end of March.",
     "author": "Bill Glauber",
-    "title": "Republican U.S. Sen. Ron Johnson raised $7.1 million in campaign cash during the first three months of 2022"
+    "title": "Republican U.S. Sen. Ron Johnson raised $7.1 million in campaign cash during the first three months of 2022",
+    "sentiment": "0"
   },
   {
     "id": 2300,
     "mediaId": 195,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T12:57",
     "sentence": "Mandela Barnes (D), state Treasurer Sarah Godlewski (D), Milwaukee Bucks vice president Alex Lasry (D), Outagamie County Executive <span class='selected-term'>Tom Nelson</span> (D) and nonprofit executive Steven Olikara (D), among others.",
     "author": "Reid Wilson",
-    "title": "Democrats reserve $33 million in fall advertising in fight for Senate"
+    "title": "Democrats reserve $33 million in fall advertising in fight for Senate",
+    "sentiment": "0.0"
   }
 ]

@@ -2,17 +2,19 @@
   {
     "id": 7451,
     "mediaId": 1576,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "Democratic U.S. Sen. Raphael Warnock will face Republican football legend <span class='selected-term'>Herschel Walker</span> for a coveted Senate seat in Georgia after both handily defeated primary challengers on Tuesday to set up a historic, high-stakes showdown.",
     "author": "",
-    "title": "Georgia US Senate race will pit Warnock against Walker"
+    "title": "Georgia US Senate race will pit Warnock against Walker",
+    "sentiment": "-0.221"
   },
   {
     "id": 8365,
     "mediaId": 302,
-    "date": "5/26/2022 12:00:00 AM",
+    "date": "d2022-05-26T00:00",
     "sentence": "His early support helped football great <span class='selected-term'>Herschel Walker</span> and Rep. Ted Budd sail to their respective Senate primary nominations in Georgia and North Carolina.",
     "author": "Associated Press",
-    "title": "Trump is in the past': Mounting losses show limits of power"
+    "title": "Trump is in the past': Mounting losses show limits of power",
+    "sentiment": "0.0"
   }
 ]

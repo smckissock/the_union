@@ -2,121 +2,253 @@
   {
     "id": 4450,
     "mediaId": 239,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:03:54",
     "sentence": "",
     "author": "",
-    "title": "Florida sheriff removed following sex scandal investigation"
+    "title": "Florida sheriff removed following sex scandal investigation",
+    "sentiment": "0"
+  },
+  {
+    "id": 4450,
+    "mediaId": 239,
+    "date": "d2022-04-29T00:03:54",
+    "sentence": "",
+    "author": "",
+    "title": "Florida sheriff removed following sex scandal investigation",
+    "sentiment": "0.0"
   },
   {
     "id": 4452,
     "mediaId": 239,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:03:54",
     "sentence": "",
     "author": "",
-    "title": "Florida sheriff arrested following sex scandal investigation"
-  },
-  {
-    "id": 4202,
-    "mediaId": 1067,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kevin Spear",
-    "title": "Florida responds to manatee death toll with $30 million"
-  },
-  {
-    "id": 4209,
-    "mediaId": 558,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Mike Springer",
-    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees"
-  },
-  {
-    "id": 4213,
-    "mediaId": 558,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jake Stofan",
-    "title": "Florida governor pours cold water on the idea of Twitter relocating to state"
+    "title": "Florida sheriff arrested following sex scandal investigation",
+    "sentiment": "0.0"
   },
   {
     "id": 4234,
     "mediaId": 151,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T11:08",
     "sentence": " Another 2024 poll shows <span class='selected-term'>Ron DeSantis</span> in pole position if Donald Trump doesnt run,? by Florida Politics A.G. Gancarski\n  Charlie Crist says Miramar Mayor Wayne Messam certainly would be on my shortlist for lieutenant governor,? by Sun-Sentinels Anthony Man\n Behind enemy lines: Nikki Fried makes anti-Ron DeSantis case on Fox News,? by Florida Politics A.G. Gancarski\n Florida Congresswoman Val Demings makes campaign stop in Pensacola,? by WEAR-TV\n  Bryan Avila to run for state Senate District 39, leaving Miami-Dade commission race,? by Florida Politics Kelly Hayes\nMAPMAKER, MAPMAKER\nAS REDISTRICTING TURNS  Voting rights groups who had previously filed a federal lawsuit over congressional redistricting contend a new map pushed into law by Gov.",
     "author": "",
-    "title": "Florida Democrats' steep climb in governor's race"
+    "title": "Florida Democrats' steep climb in governor's race",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4213,
+    "mediaId": 558,
+    "date": "d2022-05-02T15:24",
+    "sentence": "",
+    "author": "Jake Stofan",
+    "title": "Florida governor pours cold water on the idea of Twitter relocating to state",
+    "sentiment": "0"
+  },
+  {
+    "id": 4213,
+    "mediaId": 558,
+    "date": "d2022-05-02T15:24",
+    "sentence": "",
+    "author": "Jake Stofan",
+    "title": "Florida governor pours cold water on the idea of Twitter relocating to state",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4209,
+    "mediaId": 558,
+    "date": "d2022-05-02T16:21",
+    "sentence": "",
+    "author": "Mike Springer",
+    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4209,
+    "mediaId": 558,
+    "date": "d2022-05-02T16:21",
+    "sentence": "",
+    "author": "Mike Springer",
+    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees",
+    "sentiment": "0.612"
+  },
+  {
+    "id": 4202,
+    "mediaId": 1067,
+    "date": "d2022-05-02T17:14",
+    "sentence": "",
+    "author": "Kevin Spear",
+    "title": "Florida responds to manatee death toll with $30 million",
+    "sentiment": "0"
+  },
+  {
+    "id": 4202,
+    "mediaId": 1067,
+    "date": "d2022-05-02T17:14",
+    "sentence": "",
+    "author": "Kevin Spear",
+    "title": "Florida responds to manatee death toll with $30 million",
+    "sentiment": "0.0"
   },
   {
     "id": 4156,
     "mediaId": 239,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:03:18",
     "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead, first you ban the math textbooks, then nobody knows how to count the votes.?\nMr. Noah told the crowd Mr. DeSantis was here? at the dinner.",
     "author": "Susan Ferrechio",
-    "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner"
+    "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner",
+    "sentiment": "-0.616"
+  },
+  {
+    "id": 4156,
+    "mediaId": 239,
+    "date": "d2022-05-03T00:03:18",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead, first you ban the math textbooks, then nobody knows how to count the votes.?\nMr. Noah told the crowd Mr. DeSantis was here? at the dinner.",
+    "author": "Susan Ferrechio",
+    "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner",
+    "sentiment": "0.0"
   },
   {
     "id": 4004,
     "mediaId": 239,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:04:03",
     "sentence": "",
     "author": "Susan Ferrechio",
-    "title": "Florida residents sue to block state from dissolving Disneys special tax district"
+    "title": "Florida residents sue to block state from dissolving Disneys special tax district",
+    "sentiment": "0"
   },
   {
-    "id": 3686,
-    "mediaId": 233,
-    "date": "5/11/2022 12:00:00 AM",
+    "id": 4004,
+    "mediaId": 239,
+    "date": "d2022-05-05T00:04:03",
     "sentence": "",
-    "author": "John Kennedy",
-    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears"
-  },
-  {
-    "id": 3690,
-    "mediaId": 195,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Reid Wilson",
-    "title": "Florida judge strikes down part of DeSantis House map"
-  },
-  {
-    "id": 3707,
-    "mediaId": 558,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "Blow to <span class='selected-term'>Ron DeSantis</span> as judge says new congressional districts made it harder for Black voters to elect their preferred candidates\nA state judge struck down new congressional districts in north Florida on Wednesday, saying that Governor Ron DeSantis, who drew the lines, had made it harder for Black voters to elect the candidate of their choice.",
-    "author": "Sam Levine",
-    "title": "Judge strikes down Florida governors unconstitutional election map"
+    "author": "Susan Ferrechio",
+    "title": "Florida residents sue to block state from dissolving Disneys special tax district",
+    "sentiment": "0.0"
   },
   {
     "id": 3725,
     "mediaId": 34,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "Kenny Stancil",
-    "title": "Florida Judge Strikes Down Part of 'Unconstitutional' Map Rigged by GOP Gov. DeSantis"
+    "title": "Florida Judge Strikes Down Part of 'Unconstitutional' Map Rigged by GOP Gov. DeSantis",
+    "sentiment": "-0.516"
+  },
+  {
+    "id": 3725,
+    "mediaId": 34,
+    "date": "d2022-05-11T00:00",
+    "sentence": "",
+    "author": "Kenny Stancil",
+    "title": "Florida Judge Strikes Down Part of 'Unconstitutional' Map Rigged by GOP Gov. DeSantis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3707,
+    "mediaId": 558,
+    "date": "d2022-05-11T10:56",
+    "sentence": "Blow to <span class='selected-term'>Ron DeSantis</span> as judge says new congressional districts made it harder for Black voters to elect their preferred candidates\nA state judge struck down new congressional districts in north Florida on Wednesday, saying that Governor Ron DeSantis, who drew the lines, had made it harder for Black voters to elect the candidate of their choice.",
+    "author": "Sam Levine",
+    "title": "Judge strikes down Florida governors unconstitutional election map",
+    "sentiment": "0"
+  },
+  {
+    "id": 3707,
+    "mediaId": 558,
+    "date": "d2022-05-11T10:56",
+    "sentence": "Blow to <span class='selected-term'>Ron DeSantis</span> as judge says new congressional districts made it harder for Black voters to elect their preferred candidates\nA state judge struck down new congressional districts in north Florida on Wednesday, saying that Governor Ron DeSantis, who drew the lines, had made it harder for Black voters to elect the candidate of their choice.",
+    "author": "Sam Levine",
+    "title": "Judge strikes down Florida governors unconstitutional election map",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3690,
+    "mediaId": 195,
+    "date": "d2022-05-11T16:59",
+    "sentence": "",
+    "author": "Reid Wilson",
+    "title": "Florida judge strikes down part of DeSantis House map",
+    "sentiment": "0"
+  },
+  {
+    "id": 3690,
+    "mediaId": 195,
+    "date": "d2022-05-11T16:59",
+    "sentence": "",
+    "author": "Reid Wilson",
+    "title": "Florida judge strikes down part of DeSantis House map",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3686,
+    "mediaId": 233,
+    "date": "d2022-05-11T19:56",
+    "sentence": "",
+    "author": "John Kennedy",
+    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears",
+    "sentiment": "0"
+  },
+  {
+    "id": 3686,
+    "mediaId": 233,
+    "date": "d2022-05-11T19:56",
+    "sentence": "",
+    "author": "John Kennedy",
+    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears",
+    "sentiment": "0.0"
   },
   {
     "id": 3666,
     "mediaId": 25,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "A Florida state judge has thrown out the congressional map passed by the Republican legislature and pushed by Governor <span class='selected-term'>Ron DeSantis</span>, ruling that it violated state law by drawing Black voters out of a north Florida district.",
     "author": "Aaron Navarro",
-    "title": "Florida judge throws out GOP-friendly congressional map"
+    "title": "Florida judge throws out GOP-friendly congressional map",
+    "sentiment": "0"
+  },
+  {
+    "id": 3666,
+    "mediaId": 25,
+    "date": "d2022-05-12T00:00",
+    "sentence": "A Florida state judge has thrown out the congressional map passed by the Republican legislature and pushed by Governor <span class='selected-term'>Ron DeSantis</span>, ruling that it violated state law by drawing Black voters out of a north Florida district.",
+    "author": "Aaron Navarro",
+    "title": "Florida judge throws out GOP-friendly congressional map",
+    "sentiment": "0.0"
   },
   {
     "id": 3605,
     "mediaId": 151,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T21:27",
     "sentence": "",
     "author": "",
-    "title": "DeSantis appeals Florida judge's order blocking his redistricting map"
+    "title": "DeSantis appeals Florida judge's order blocking his redistricting map",
+    "sentiment": "-0.607"
+  },
+  {
+    "id": 3605,
+    "mediaId": 151,
+    "date": "d2022-05-13T21:27",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis appeals Florida judge's order blocking his redistricting map",
+    "sentiment": "0.0"
   },
   {
     "id": 7118,
     "mediaId": 195,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T17:34",
     "sentence": "",
     "author": "Caroline Vakil",
-    "title": "Florida appeals court reinstates DeSantiss congressional map"
+    "title": "Florida appeals court reinstates DeSantiss congressional map",
+    "sentiment": "0"
+  },
+  {
+    "id": 7118,
+    "mediaId": 195,
+    "date": "d2022-05-20T17:34",
+    "sentence": "",
+    "author": "Caroline Vakil",
+    "title": "Florida appeals court reinstates DeSantiss congressional map",
+    "sentiment": "0.0"
   }
 ]

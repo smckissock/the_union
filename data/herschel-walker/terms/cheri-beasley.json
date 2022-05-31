@@ -2,9 +2,28 @@
   {
     "id": 3450,
     "mediaId": 151,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T08:31",
     "sentence": "Republican target: Georgia\nPrimary date: May 24\nForecast: Toss-up\nDemocratic Sen. Raphael Warnock and Republican <span class='selected-term'>Herschel Walker</span> are on a November collision course in the most closely divided state of the 2020 presidential election.",
     "author": "",
-    "title": "These 7 states will decide control of the Senate"
+    "title": "These 7 states will decide control of the Senate",
+    "sentiment": "0"
+  },
+  {
+    "id": 8404,
+    "mediaId": 376,
+    "date": "d2022-05-26T14:30",
+    "sentence": "Shop talk: Stephen Lawson\nLawson, CEO of Battleground Strategies, served as deputy campaign manager for former GOP Sen. Kelly Loeffler of Georgia in 2020 and currently is spokesman for a SuperPAC supporting this years nominee, <span class='selected-term'>Herschel Walker</span>, who faces Democratic Sen. Raphael Warnock.",
+    "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
+    "title": "At the Races: Divisions on display",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8562,
+    "mediaId": 195,
+    "date": "d2022-05-29T15:30",
+    "sentence": "Georgia's Raphael Warnock, the pastor at Martin Luther King's church, has proven an effective Senator and fund-raiser; his opponent, former Georgia football great <span class='selected-term'>Herschel Walker</span> has been embroiled in personal controversies, shows little grasp of issues and has been caught in lies.",
+    "author": "Albert Hunt",
+    "title": "Better candidates may not be enough for Democrats to retain the Senate",
+    "sentiment": "0"
   }
 ]

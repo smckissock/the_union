@@ -2,17 +2,19 @@
   {
     "id": 7608,
     "mediaId": 12,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T11:00",
     "sentence": "If <span class='selected-term'>Herschel Walker</span> wins Georgias U.S. Senate seat, he would become the most prominent elected official in the nation who has struggled openly with a mental illness.",
     "author": "Shannon McCaffrey",
-    "title": "Herschel Walkers mental health battle raises questions about treatment"
+    "title": "Herschel Walkers mental health battle raises questions about treatment",
+    "sentiment": "-0.582"
   },
   {
     "id": 3382,
     "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T04:01",
     "sentence": "Kimberly: So <span class='selected-term'>Herschel Walker</span> is running on the Republican ticket for Senate in Georgia.",
     "author": "",
-    "title": "10 Republican Voters in Swing States on Trumps Hold on the Party"
+    "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
+    "sentiment": "0.0"
   }
 ]

@@ -2,33 +2,37 @@
   {
     "id": 7598,
     "mediaId": 21,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T19:00",
     "sentence": "\"Women of reproductive age right now don't know a world that doesn't give them choice,\" said Democratic Sen. Raphael Warnock of Georgia, who is facing a challenge from Trump-endorsed, first-time candidate <span class='selected-term'>Herschel Walker</span>.",
     "author": "Warren Rojas",
-    "title": "Biden and Democrats caught flat-footed and without a plan for the possible end of Roe v. Wade"
+    "title": "Biden and Democrats caught flat-footed and without a plan for the possible end of Roe v. Wade",
+    "sentiment": "0"
   },
   {
     "id": 7228,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "This fall, Mr. Warnock is expected to face <span class='selected-term'>Herschel Walker</span>, the Republican former football star with scant political experience.",
     "author": "",
-    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality"
+    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality",
+    "sentiment": "0.0"
   },
   {
     "id": 7289,
     "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T13:33:24",
     "sentence": "This fall, Mr. Warnock is expected to face <span class='selected-term'>Herschel Walker</span>, the Republican former football star with scant political experience.",
     "author": "",
-    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else."
+    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else.",
+    "sentiment": "0"
   },
   {
     "id": 7372,
     "mediaId": 151,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T01:29",
     "sentence": "Republicans in two deep-red states are also voting in major Senate contests, while Trump-endorsed <span class='selected-term'>Herschel Walker</span> is looking to sew up the nomination for the battleground race in Georgia.",
     "author": "",
-    "title": "Kemp notches huge primary win in Georgia"
+    "title": "Kemp notches huge primary win in Georgia",
+    "sentiment": "0.844"
   }
 ]

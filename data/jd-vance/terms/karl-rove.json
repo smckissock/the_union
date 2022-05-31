@@ -2,17 +2,19 @@
   {
     "id": 5738,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Jeff Poor",
-    "title": "JD Vance: Slime Ball Karl Rove One of My Biggest Enemies in This Primary"
+    "title": "JD Vance: Slime Ball Karl Rove One of My Biggest Enemies in This Primary",
+    "sentiment": "-0.32"
   },
   {
     "id": 5741,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "John Binder",
-    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement"
+    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement",
+    "sentiment": "0"
   }
 ]

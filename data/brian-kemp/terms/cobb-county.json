@@ -2,113 +2,127 @@
   {
     "id": 8342,
     "mediaId": 12,
-    "date": "1/3/2022 12:00:00 AM",
+    "date": "d2022-01-03T12:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: The Cobb homage to treason planned for Jan. 6"
+    "title": "The Jolt: The Cobb homage to treason planned for Jan. 6",
+    "sentiment": "0.0"
   },
   {
     "id": 8190,
     "mediaId": 12,
-    "date": "2/3/2022 12:00:00 AM",
+    "date": "d2022-02-03T19:00",
     "sentence": "Both political parties acknowledge these demographic trends generally favor Democrats in a closely divided state, where Democrat Joe Biden won the 2020 presidential race by less than 12,000 votes after Republican <span class='selected-term'>Brian Kemp</span> prevailed in the 2018 gubernatorial contest by 55,000 votes.",
     "author": "Mark Niesse",
-    "title": "Sharp growth in Georgia voters alters landscape for 2022 elections"
+    "title": "Sharp growth in Georgia voters alters landscape for 2022 elections",
+    "sentiment": "-0.261"
   },
   {
     "id": 7904,
     "mediaId": 12,
-    "date": "3/26/2022 12:00:00 AM",
+    "date": "d2022-03-26T12:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "Perdue welcomes Trump to Georgia by embracing stolen election lie"
+    "title": "Perdue welcomes Trump to Georgia by embracing stolen election lie",
+    "sentiment": "-0.698"
   },
   {
     "id": 5422,
     "mediaId": 12,
-    "date": "3/29/2022 12:00:00 AM",
+    "date": "d2022-03-29T20:46",
     "sentence": "",
     "author": "Ariel Hart",
-    "title": "Georgia fines Anthem/Blue Cross $5 million for consumer violations"
+    "title": "Georgia fines Anthem/Blue Cross $5 million for consumer violations",
+    "sentiment": "0.0"
   },
   {
     "id": 2194,
     "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T10:00",
     "sentence": "When I met with Gov <span class='selected-term'>Brian Kemp</span> at the beginning of this legislative session, he said he was proud of the work that he had done in his first three years as governor and he laid out his plans for the 40 days ahead.",
     "author": "Patricia Murphy",
-    "title": "OPINION: A legislative session for Brian Kemp to take to the bank"
+    "title": "OPINION: A legislative session for Brian Kemp to take to the bank",
+    "sentiment": "0"
   },
   {
     "id": 5365,
     "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T16:00",
     "sentence": "In recent days, hes been stumping for Republican gubernatorial candidate David Perdue in his challenge against incumbent <span class='selected-term'>Brian Kemp</span>.",
     "author": "Shannon McCaffrey",
-    "title": "Newt Gingrich returns to the 6th District looking for a GOP win"
+    "title": "Newt Gingrich returns to the 6th District looking for a GOP win",
+    "sentiment": "0.0"
   },
   {
     "id": 5352,
     "mediaId": 1576,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "Cobb County cityhood movements advance"
+    "title": "Cobb County cityhood movements advance",
+    "sentiment": "0"
   },
   {
     "id": 4724,
     "mediaId": 33,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "Daniel Dale",
-    "title": "Fact check: Jody Hice, running to oversee Georgia elections, makes yet more false 2020 claims"
+    "title": "Fact check: Jody Hice, running to oversee Georgia elections, makes yet more false 2020 claims",
+    "sentiment": "0"
   },
   {
     "id": 6570,
     "mediaId": 151,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T08:30",
     "sentence": "",
     "author": "",
-    "title": "Trump's bid to control election offices hits first battleground"
-  },
-  {
-    "id": 7314,
-    "mediaId": 65,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "\"<span class='selected-term'>Brian Kemp</span> beat Stacey Abrams four years ago and with your help, Brian Kemp will do it all again in November.\"",
-    "author": "Paul Steinhauser",
-    "title": "Trump and Pence hold dueling rallies for Perdue and Kemp on eve of Georgias bitter GOP gubernatorial primary"
-  },
-  {
-    "id": 7318,
-    "mediaId": 233,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Pence and 2024: Mike Pence says he could run for president in 2024 even if Trump also runs\nTuesday contests:Georgia, Alabama, Texas and more: the primary races to watch on Tuesday (and why)\n\"I'm here because <span class='selected-term'>Brian Kemp</span> is the only candidate in tomorrow's primary who has already defeated Stacey Abrams whether she knows it or not,\" said Pence.",
-    "author": "David Jackson",
-    "title": "In Georgia, the Brian Kemp-David Perdue primary has turned into a Donald Trump-Mike Pence feud"
+    "title": "Trump's bid to control election offices hits first battleground",
+    "sentiment": "0.0"
   },
   {
     "id": 7480,
     "mediaId": 157,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "In the contest to be the next governor, incumbent <span class='selected-term'>Brian Kemp</span>, frequently the target of Trump's wrath for refusing to help overturn the election, leads former senator David Perdue by more than 20 points.",
     "author": "Agence France-Presse",
-    "title": "Georgia set to test Trump's US voter fraud 'Big Lie'"
+    "title": "Georgia set to test Trump's US voter fraud 'Big Lie'",
+    "sentiment": "-0.569"
   },
   {
-    "id": 7357,
-    "mediaId": 151,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "If there is any cosmic political karma, <span class='selected-term'>Brian Kemp</span> deserves every bit of it, said John Watson, a former chair of the Georgia Republican Party, said, This is the payback of all paybacks.",
-    "author": "",
-    "title": "Trump flops in Georgia: 5 takeaways from a big primary night"
+    "id": 7318,
+    "mediaId": 233,
+    "date": "d2022-05-24T00:01",
+    "sentence": "Pence and 2024: Mike Pence says he could run for president in 2024 even if Trump also runs\nTuesday contests:Georgia, Alabama, Texas and more: the primary races to watch on Tuesday (and why)\n\"I'm here because <span class='selected-term'>Brian Kemp</span> is the only candidate in tomorrow's primary who has already defeated Stacey Abrams whether she knows it or not,\" said Pence.",
+    "author": "David Jackson",
+    "title": "In Georgia, the Brian Kemp-David Perdue primary has turned into a Donald Trump-Mike Pence feud",
+    "sentiment": "-0.691"
+  },
+  {
+    "id": 7314,
+    "mediaId": 65,
+    "date": "d2022-05-24T03:42",
+    "sentence": "\"<span class='selected-term'>Brian Kemp</span> beat Stacey Abrams four years ago and with your help, Brian Kemp will do it all again in November.\"",
+    "author": "Paul Steinhauser",
+    "title": "Trump and Pence hold dueling rallies for Perdue and Kemp on eve of Georgias bitter GOP gubernatorial primary",
+    "sentiment": "-0.326"
   },
   {
     "id": 7377,
     "mediaId": 65,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:35",
     "sentence": "\"I am fully supporting <span class='selected-term'>Brian Kemp</span>tomorrow morning you are going to hear me going to work...to make damn sure Stacey Abrams is not the next governor of Georgia.\"",
     "author": "Paul Steinhauser",
-    "title": "Kemp beats Perdue in Georgia governor primary, striking most significant blow to Trump's endorsement power yet"
+    "title": "Kemp beats Perdue in Georgia governor primary, striking most significant blow to Trump's endorsement power yet",
+    "sentiment": "0.448"
+  },
+  {
+    "id": 7357,
+    "mediaId": 151,
+    "date": "d2022-05-25T05:48",
+    "sentence": "If there is any cosmic political karma, <span class='selected-term'>Brian Kemp</span> deserves every bit of it, said John Watson, a former chair of the Georgia Republican Party, said, This is the payback of all paybacks.",
+    "author": "",
+    "title": "Trump flops in Georgia: 5 takeaways from a big primary night",
+    "sentiment": "-0.208"
   }
 ]

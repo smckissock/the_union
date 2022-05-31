@@ -2,25 +2,28 @@
   {
     "id": 8172,
     "mediaId": 157,
-    "date": "2/10/2022 12:00:00 AM",
+    "date": "d2022-02-10T00:00",
     "sentence": "A new report from the Associated Press sheds disturbing new light on the troubled past of Trump-endorsed Georgia Senate candidate <span class='selected-term'>Herschel Walker</span>.",
     "author": "Brad Reed",
-    "title": "Newly unearthed records show Trump-endorsed candidate talked 'about having a shootout with police'"
-  },
-  {
-    "id": 8151,
-    "mediaId": 12,
-    "date": "2/11/2022 12:00:00 AM",
-    "sentence": "It was updated on Feb. 11, 2022, to make clear that U.S. Senate candidate <span class='selected-term'>Herschel Walker</span>s therapist, Jerry Mungadze, holds a doctorate of philosophy in counselor education.",
-    "author": "BRIAN SLODYSKO",
-    "title": "Police records complicate Herschel Walker's recovery story"
+    "title": "Newly unearthed records show Trump-endorsed candidate talked 'about having a shootout with police'",
+    "sentiment": "-0.966"
   },
   {
     "id": 8159,
     "mediaId": 1576,
-    "date": "2/11/2022 12:00:00 AM",
+    "date": "d2022-02-11T00:00",
     "sentence": "We are very proud of the man <span class='selected-term'>Herschel Walker</span> has become, Diane McKnight, Deans mother, said in a statement provided by Walkers campaign.",
     "author": "",
-    "title": "Police records complicate Herschel Walker's recovery story"
+    "title": "Police records complicate Herschel Walker's recovery story",
+    "sentiment": "-0.867"
+  },
+  {
+    "id": 8151,
+    "mediaId": 12,
+    "date": "d2022-02-11T18:00",
+    "sentence": "It was updated on Feb. 11, 2022, to make clear that U.S. Senate candidate <span class='selected-term'>Herschel Walker</span>s therapist, Jerry Mungadze, holds a doctorate of philosophy in counselor education.",
+    "author": "BRIAN SLODYSKO",
+    "title": "Police records complicate Herschel Walker's recovery story",
+    "sentiment": "-0.869"
   }
 ]

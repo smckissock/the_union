@@ -2,33 +2,19 @@
   {
     "id": 7973,
     "mediaId": 124,
-    "date": "3/22/2022 12:00:00 AM",
+    "date": "d2022-03-22T13:17",
     "sentence": "Ex-wife accuses Missouri Senate candidate Eric Greitens of domestic abuse\nMarch 22, 202201:37\nConsider these all of these different problems:\nIn Georgia, GOP frontrunner <span class='selected-term'>Herschel Walker</span> (who is much more likely than Greitens is to win the Republican nomination and has largely consolidated the party around him) has admitted his own past violent behavior as part of his struggle with mental illness.",
     "author": "",
-    "title": "The GOP's bid to retake the Senate is encountering early struggles"
+    "title": "The GOP's bid to retake the Senate is encountering early struggles",
+    "sentiment": "-0.212"
   },
   {
     "id": 5929,
     "mediaId": 163,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T10:05",
     "sentence": "And some worry that Trump's picks, like former football star <span class='selected-term'>Herschel Walker</span> in Georgia, could prove too controversial to prevail against Democrats in November, imperiling their bid for Senate control.",
     "author": "Nathan Layne",
-    "title": "Ohio Senate primary a test of Trump's grip on Republican voters"
-  },
-  {
-    "id": 5946,
-    "mediaId": 593,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "Some Republicans worry that Trump's picks, like former football star <span class='selected-term'>Herschel Walker</span> in Georgia, could prove too controversial to prevail against Democrats in November, imperiling the party's bid for Senate control.",
-    "author": "Eric Cox and Nathan Layne",
-    "title": "Trump-backed Candidate Wins Republican Nomination For Ohio U.S. Senate Seat"
-  },
-  {
-    "id": 5947,
-    "mediaId": 593,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "And some worry that Trump's picks, like former football star <span class='selected-term'>Herschel Walker</span> in Georgia, could prove too controversial to prevail against Democrats in November, imperiling their bid for Senate control.",
-    "author": "Eric Cox and Nathan Layne",
-    "title": "Ohio U.S. Senate Primary Poses A Test Of Trump's Grip On Republican Voters"
+    "title": "Ohio Senate primary a test of Trump's grip on Republican voters",
+    "sentiment": "0.0"
   }
 ]

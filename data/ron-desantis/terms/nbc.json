@@ -2,9 +2,19 @@
   {
     "id": 3559,
     "mediaId": 19,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "",
     "author": "John Nolte",
-    "title": "Nolte: Pro-Grooming Disneys Favorability Rating Plummets 53 Points In One Year"
+    "title": "Nolte: Pro-Grooming Disneys Favorability Rating Plummets 53 Points In One Year",
+    "sentiment": "0"
+  },
+  {
+    "id": 3559,
+    "mediaId": 19,
+    "date": "d2022-05-16T00:00",
+    "sentence": "",
+    "author": "John Nolte",
+    "title": "Nolte: Pro-Grooming Disneys Favorability Rating Plummets 53 Points In One Year",
+    "sentiment": "0.0"
   }
 ]

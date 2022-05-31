@@ -2,17 +2,28 @@
   {
     "id": 3642,
     "mediaId": 302,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T13:00",
     "sentence": "",
     "author": "",
-    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map"
+    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
+    "sentiment": "0"
+  },
+  {
+    "id": 3642,
+    "mediaId": 302,
+    "date": "d2022-05-12T13:00",
+    "sentence": "",
+    "author": "",
+    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
+    "sentiment": "0.0"
   },
   {
     "id": 3543,
     "mediaId": 302,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T18:00",
     "sentence": "",
     "author": "Romy Ellenbogen",
-    "title": "Michele Rayner drops out of Pinellas congressional race, runs for state House"
+    "title": "Michele Rayner drops out of Pinellas congressional race, runs for state House",
+    "sentiment": "0.0"
   }
 ]

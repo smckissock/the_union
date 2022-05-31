@@ -1,90 +1,101 @@
 [
   {
-    "id": 5286,
-    "mediaId": 136,
-    "date": "4/6/2022 12:00:00 AM",
-    "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> tweeted Tuesday night that his administration was coordinating with several responding teams in the impacted areas and that his family's \"thoughts and prayers are with all who have been impacted.\"",
-    "author": "Zoe Strozewski",
-    "title": "Tornadoes Decimate Small Towns in Georgia, South Carolina, Leaving 1 Dead"
-  },
-  {
     "id": 5290,
     "mediaId": 136,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T01:56",
     "sentence": "\"We will continue to do everything we can to support all impacted by today's severe weather and the emergency personnel who are responding to the needs and damage on the ground,\" Georgia Governor <span class='selected-term'>Brian Kemp</span> tweeted in response to a tornado video from Andrew Gorton, a meteorologist for CBS affiliate WTOC.",
     "author": "Aila Slisco",
-    "title": "Watch: Twisters Slamming Georgia, South Carolina Captured on Video"
+    "title": "Watch: Twisters Slamming Georgia, South Carolina Captured on Video",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5286,
+    "mediaId": 136,
+    "date": "d2022-04-06T13:21",
+    "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> tweeted Tuesday night that his administration was coordinating with several responding teams in the impacted areas and that his family's \"thoughts and prayers are with all who have been impacted.\"",
+    "author": "Zoe Strozewski",
+    "title": "Tornadoes Decimate Small Towns in Georgia, South Carolina, Leaving 1 Dead",
+    "sentiment": "0.0"
   },
   {
     "id": 5040,
     "mediaId": 157,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "I was in San Antonio today to meet with the men & women of law enforcement.\\n\\nIn Texas, we ALWAYS back the blue.\\n\\nThat is why I signed laws that defund cities that defund police & made attacks on law enforcement officers a hate crime.\\n\\nThank you for keeping us safe.pic.twitter.com/fPs7lR8FzC\n Greg Abbott (@Greg Abbott) 1650578380\nNOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene\nStories Chosen For You",
     "author": "Bob Brigham",
-    "title": "Greg Abbott gave Crime Stoppers $6 million  and theyre attacking Democrats: report"
+    "title": "Greg Abbott gave Crime Stoppers $6 million  and theyre attacking Democrats: report",
+    "sentiment": "0.0"
   },
   {
     "id": 1984,
     "mediaId": 12,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T12:00",
     "sentence": "",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin"
+    "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
+    "sentiment": "0.522"
   },
   {
     "id": 4923,
     "mediaId": 558,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T15:17",
     "sentence": "",
     "author": "",
-    "title": "Gov. Kemp signs state income tax cuts into law. Heres what that means for you:"
+    "title": "Gov. Kemp signs state income tax cuts into law. Heres what that means for you:",
+    "sentiment": "0.379"
   },
   {
     "id": 4822,
     "mediaId": 675,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T15:07",
     "sentence": "",
     "author": "WND News Services",
-    "title": "Georgia governor signs set of laws banishing 'wokeness' in schools"
+    "title": "Georgia governor signs set of laws banishing 'wokeness' in schools",
+    "sentiment": "0"
   },
   {
     "id": 4823,
     "mediaId": 675,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T15:07",
     "sentence": "",
     "author": "WND News Services",
-    "title": "Georgia governor signs set of laws banishing 'wokeness' in schools"
+    "title": "Georgia governor signs set of laws banishing 'wokeness' in schools",
+    "sentiment": "0"
   },
   {
     "id": 4658,
     "mediaId": 409,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T15:21",
     "sentence": "In Georgia, the legislature passed a bill delegating authority to the GHSA to implement policies on transgender athletes, with Governor <span class='selected-term'>Brian Kemp</span> signing the bill last week.",
     "author": "Zachary Evans",
-    "title": "Georgia School Athletics Group Bars Male Students from Girls Sports"
+    "title": "Georgia School Athletics Group Bars Male Students from Girls Sports",
+    "sentiment": "0.0"
   },
   {
     "id": 3305,
     "mediaId": 195,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T16:34",
     "sentence": "",
     "author": "Cate Martel",
-    "title": "The Hill's 12:30 Report  Elon Musk's Twitter deal hits snag"
+    "title": "The Hill's 12:30 Report  Elon Musk's Twitter deal hits snag",
+    "sentiment": "0"
   },
   {
     "id": 6524,
     "mediaId": 136,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T16:57",
     "sentence": "Taylor, who is challenging incumbent GOP Governor <span class='selected-term'>Brian Kemp</span>, has made religion a cornerstone of her campaign.",
     "author": "Andrew Stanton",
-    "title": "Native Americans Made 'Sacrifice' for 'Our Right to Worship Jesus': Taylor"
+    "title": "Native Americans Made 'Sacrifice' for 'Our Right to Worship Jesus': Taylor",
+    "sentiment": "0"
   },
   {
     "id": 7240,
     "mediaId": 65,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T20:38",
     "sentence": "\"<span class='selected-term'>Brian Kemp</span> just doesn't care.\"",
     "author": "Jessica Chasmar",
-    "title": "Stacey Abrams says Georgia the worst state in the country to live, despite owning multiple houses there"
+    "title": "Stacey Abrams says Georgia the worst state in the country to live, despite owning multiple houses there",
+    "sentiment": "-0.601"
   }
 ]

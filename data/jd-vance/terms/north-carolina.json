@@ -2,185 +2,217 @@
   {
     "id": 8261,
     "mediaId": 43,
-    "date": "1/21/2022 12:00:00 AM",
+    "date": "d2022-01-21T00:00",
     "sentence": "",
     "author": "",
-    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar"
+    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
+    "sentiment": "0"
   },
   {
     "id": 8225,
     "mediaId": 237,
-    "date": "1/27/2022 12:00:00 AM",
+    "date": "d2022-01-27T16:22",
     "sentence": "",
     "author": "Paul Bedard",
-    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support"
+    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
+    "sentiment": "0.374"
   },
   {
     "id": 6359,
     "mediaId": 157,
-    "date": "4/16/2022 12:00:00 AM",
+    "date": "d2022-04-16T00:00",
     "sentence": "",
     "author": "Tom Boggioni",
-    "title": "Trump's advisors at war with each other as he continues to wade into 'messy' GOP primaries: report"
+    "title": "Trump's advisors at war with each other as he continues to wade into 'messy' GOP primaries: report",
+    "sentiment": "0"
   },
   {
     "id": 6319,
     "mediaId": 195,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T10:26",
     "sentence": "",
     "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Will Trumps Ohio gamble pay off?"
+    "title": "The Hills Morning Report  Will Trumps Ohio gamble pay off?",
+    "sentiment": "-0.383"
   },
   {
     "id": 5803,
     "mediaId": 233,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T09:02",
     "sentence": "",
     "author": "David Jackson",
-    "title": "Donald Trump won Ohio for J.D. Vance. Can he score victories in Pennsylvania, North Carolina and Georgia?"
+    "title": "Donald Trump won Ohio for J.D. Vance. Can he score victories in Pennsylvania, North Carolina and Georgia?",
+    "sentiment": "0.5"
   },
   {
     "id": 5672,
     "mediaId": 151,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T13:03",
     "sentence": "",
     "author": "",
-    "title": "An America we've never seen before"
+    "title": "An America we've never seen before",
+    "sentiment": "0"
   },
   {
     "id": 5546,
     "mediaId": 136,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T01:50",
     "sentence": "",
     "author": "Daniel Bush",
-    "title": "Biden Reaches Out to Trump Country Voters While Ramping Up MAGA Criticism"
+    "title": "Biden Reaches Out to Trump Country Voters While Ramping Up MAGA Criticism",
+    "sentiment": "0"
   },
   {
     "id": 5525,
     "mediaId": 129,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Little Red Boxes Making a Mockery of Campaign Finance Laws"
-  },
-  {
-    "id": 3409,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries"
-  },
-  {
-    "id": 3410,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries"
-  },
-  {
-    "id": 3412,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "What to Watch For in the Pennsylvania and North Carolina Primaries"
-  },
-  {
-    "id": 5484,
-    "mediaId": 1546,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Ken Bredemeier",
-    "title": "Trumps Republican Political Clout Faces Another Test on Tuesday"
+    "title": "The Little Red Boxes Making a Mockery of Campaign Finance Laws",
+    "sentiment": "0.633"
   },
   {
     "id": 5509,
     "mediaId": 19,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Matthew Boyle",
-    "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries"
+    "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 3412,
+    "mediaId": 129,
+    "date": "d2022-05-17T04:01",
+    "sentence": "",
+    "author": "",
+    "title": "What to Watch For in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 3409,
+    "mediaId": 129,
+    "date": "d2022-05-17T09:04:42",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 3410,
+    "mediaId": 129,
+    "date": "d2022-05-17T09:04:42",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0"
   },
   {
     "id": 6478,
     "mediaId": 136,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T15:13",
     "sentence": "",
     "author": "Ewan Palmer",
-    "title": "Trump Endorsements Face Toughest Test Yet in 27 Primary Election Battles"
+    "title": "Trump Endorsements Face Toughest Test Yet in 27 Primary Election Battles",
+    "sentiment": "0"
   },
   {
-    "id": 5475,
-    "mediaId": 233,
-    "date": "5/18/2022 12:00:00 AM",
+    "id": 5484,
+    "mediaId": 1546,
+    "date": "d2022-05-17T17:00",
     "sentence": "",
-    "author": "David Jackson",
-    "title": "Fetterman wins Pennsylvania Democratic Senate primary; NC polls close; live primary results"
+    "author": "Ken Bredemeier",
+    "title": "Trumps Republican Political Clout Faces Another Test on Tuesday",
+    "sentiment": "0"
   },
   {
     "id": 5476,
     "mediaId": 238,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "",
     "author": "Aaron Blake",
-    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more"
+    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
+    "sentiment": "0"
+  },
+  {
+    "id": 5475,
+    "mediaId": 233,
+    "date": "d2022-05-18T01:23",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "Fetterman wins Pennsylvania Democratic Senate primary; NC polls close; live primary results",
+    "sentiment": "0"
   },
   {
     "id": 6610,
     "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T23:17",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Primaries fuel questions about potency of Trump endorsements"
+    "title": "Primaries fuel questions about potency of Trump endorsements",
+    "sentiment": "0"
   },
   {
     "id": 6583,
     "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T21:30",
     "sentence": "",
     "author": "Brad Bannon",
-    "title": "Party primaries test power of Trumps backing and progressive platform"
-  },
-  {
-    "id": 6538,
-    "mediaId": 195,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: Trump faces critical popularity test in Georgia"
+    "title": "Party primaries test power of Trumps backing and progressive platform",
+    "sentiment": "0"
   },
   {
     "id": 7164,
     "mediaId": 129,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "",
-    "title": "A Renowned Gullah Geechee Cook Gets Her Own Book and More: The Week in Narrated Articles"
+    "title": "A Renowned Gullah Geechee Cook Gets Her Own Book and More: The Week in Narrated Articles",
+    "sentiment": "0.462"
   },
   {
-    "id": 7194,
-    "mediaId": 136,
-    "date": "5/22/2022 12:00:00 AM",
+    "id": 6538,
+    "mediaId": 195,
+    "date": "d2022-05-20T10:00",
     "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan"
-  },
-  {
-    "id": 7205,
-    "mediaId": 18,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Douglas Schoen",
-    "title": "Schoen: It's still Donald Trump's Republican party"
+    "author": "Niall Stanage",
+    "title": "The Memo: Trump faces critical popularity test in Georgia",
+    "sentiment": "0"
   },
   {
     "id": 7210,
     "mediaId": 19,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "Nick Gilbertson",
-    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia"
+    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia",
+    "sentiment": "0"
+  },
+  {
+    "id": 7205,
+    "mediaId": 18,
+    "date": "d2022-05-22T00:38",
+    "sentence": "",
+    "author": "Douglas Schoen",
+    "title": "Schoen: It's still Donald Trump's Republican party",
+    "sentiment": "0"
+  },
+  {
+    "id": 7194,
+    "mediaId": 136,
+    "date": "d2022-05-22T19:11",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan",
+    "sentiment": "0"
+  },
+  {
+    "id": 8562,
+    "mediaId": 195,
+    "date": "d2022-05-29T15:30",
+    "sentence": "",
+    "author": "Albert Hunt",
+    "title": "Better candidates may not be enough for Democrats to retain the Senate",
+    "sentiment": "0"
   }
 ]

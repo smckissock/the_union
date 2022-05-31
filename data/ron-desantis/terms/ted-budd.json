@@ -2,17 +2,28 @@
   {
     "id": 3855,
     "mediaId": 195,
-    "date": "5/8/2022 12:00:00 AM",
+    "date": "d2022-05-08T13:30",
     "sentence": "If this outcome comes to fruition, it would all but end the presidential ambitions of <span class='selected-term'>Ron DeSantis</span> (R-Fla.) or any other Republican planning on running in 2024 until Trump officially makes his intentions clear  that is, whether he plans to run for office again, or plans to put his full weight behind another candidate.",
     "author": "Douglas E. Schoen",
-    "title": "Does Donald Trump still control the GOP?: Three Senate races will give us an answer"
+    "title": "Does Donald Trump still control the GOP?: Three Senate races will give us an answer",
+    "sentiment": "0.0"
   },
   {
     "id": 3484,
     "mediaId": 238,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T03:10",
     "sentence": "",
     "author": "David Weigel",
-    "title": "Victories by Mastriano, Budd show potency of Trumps false stolen election claims in GOP"
+    "title": "Victories by Mastriano, Budd show potency of Trumps false stolen election claims in GOP",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8472,
+    "mediaId": 129,
+    "date": "d2022-05-26T00:00",
+    "sentence": "He makes <span class='selected-term'>Ron DeSantis</span> look like Charlie Baker.",
+    "author": "",
+    "title": "The G.O.P. Has Gone Even Farther to the Right Than I Expected': Three Writers Talk About the Midterms",
+    "sentiment": "0.0"
   }
 ]

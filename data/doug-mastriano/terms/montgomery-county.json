@@ -2,41 +2,46 @@
   {
     "id": 6949,
     "mediaId": 237,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T05:30",
     "sentence": "Other Republican candidates in the race include state Sen. <span class='selected-term'>Doug Mastriano</span>, a combat veteran who has sought to campaign as a supporter of Trump.",
     "author": "Kate Scanlon",
-    "title": "Pennsylvania GOP gubernatorial candidates vie to show strongest fealty to Trump"
+    "title": "Pennsylvania GOP gubernatorial candidates vie to show strongest fealty to Trump",
+    "sentiment": "0"
   },
   {
     "id": 6831,
     "mediaId": 195,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T13:34",
     "sentence": "There is no one in Pennsylvania who has done more, or fought harder, for Election Integrity than State Senator <span class='selected-term'>Doug Mastriano</span>,? Trump said in a statement issued through his Save America PAC, before echoing a baseless claim about the 2020 presidential election results.",
     "author": "Caroline Vakil",
-    "title": "Trump endorses Doug Mastriano for Pennsylvania governor"
-  },
-  {
-    "id": 6715,
-    "mediaId": 132,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "HARRISBURG, Pa.  <span class='selected-term'>Doug Mastriano</span> won the Republican nomination for Pennsylvania governor on Tuesday, beating eight other candidates and a party establishment that had tried to head off his nomination over fears that he is too extreme to win the general election in the presidential battleground.",
-    "author": "",
-    "title": "Trump-backed Mastriano wins GOP Pennsylvania governor nod"
+    "title": "Trump endorses Doug Mastriano for Pennsylvania governor",
+    "sentiment": "-0.328"
   },
   {
     "id": 6739,
     "mediaId": 195,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T14:08",
     "sentence": "On Saturday, former President Trump announced his endorsement of state Sen. <span class='selected-term'>Doug Mastriano</span>.",
     "author": "Maureen Breslin",
-    "title": "Pennsylvania gubernatorial candidate Josh Shapiro tests positive for COVID-19"
+    "title": "Pennsylvania gubernatorial candidate Josh Shapiro tests positive for COVID-19",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6715,
+    "mediaId": 132,
+    "date": "d2022-05-17T22:54",
+    "sentence": "HARRISBURG, Pa.  <span class='selected-term'>Doug Mastriano</span> won the Republican nomination for Pennsylvania governor on Tuesday, beating eight other candidates and a party establishment that had tried to head off his nomination over fears that he is too extreme to win the general election in the presidential battleground.",
+    "author": "",
+    "title": "Trump-backed Mastriano wins GOP Pennsylvania governor nod",
+    "sentiment": "0.506"
   },
   {
     "id": 6676,
     "mediaId": 147,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T02:06",
     "sentence": "HARRISBURG, Pa. (AP)  <span class='selected-term'>Doug Mastriano</span> won the Republican nomination for Pennsylvania governor on Tuesday, beating eight other candidates and a party establishment that had tried to head off his nomination over fears that he is too extreme to win the general election in the presidential battleground.",
     "author": "Associated Press",
-    "title": "Trump pick Doug Mastriano wins Pennsylvania GOP primary"
+    "title": "Trump pick Doug Mastriano wins Pennsylvania GOP primary",
+    "sentiment": "0.453"
   }
 ]

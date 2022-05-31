@@ -1,18 +1,20 @@
 [
   {
-    "id": 4709,
-    "mediaId": 239,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jeff Amy",
-    "title": "Georgia high school athletic association bans transgender athletes"
-  },
-  {
     "id": 4713,
     "mediaId": 1576,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Georgia high school athletic group bans transgender athletes"
+    "title": "Georgia high school athletic group bans transgender athletes",
+    "sentiment": "0"
+  },
+  {
+    "id": 4709,
+    "mediaId": 239,
+    "date": "d2022-05-04T00:03:41",
+    "sentence": "",
+    "author": "Jeff Amy",
+    "title": "Georgia high school athletic association bans transgender athletes",
+    "sentiment": "0"
   }
 ]

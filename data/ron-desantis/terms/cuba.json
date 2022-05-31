@@ -1,26 +1,47 @@
 [
   {
-    "id": 3817,
-    "mediaId": 65,
-    "date": "5/9/2022 12:00:00 AM",
+    "id": 3820,
+    "mediaId": 302,
+    "date": "d2022-05-09T19:00",
     "sentence": "",
-    "author": "Ronn Blitzer",
-    "title": "DeSantis signs bill designating statewide Victims of Communism Day"
+    "author": "",
+    "title": "DeSantis signs law requiring Florida school lessons on victims of communism",
+    "sentiment": "0"
   },
   {
     "id": 3820,
     "mediaId": 302,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T19:00",
     "sentence": "",
     "author": "",
-    "title": "DeSantis signs law requiring Florida school lessons on victims of communism"
+    "title": "DeSantis signs law requiring Florida school lessons on victims of communism",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3817,
+    "mediaId": 65,
+    "date": "d2022-05-09T20:26",
+    "sentence": "",
+    "author": "Ronn Blitzer",
+    "title": "DeSantis signs bill designating statewide Victims of Communism Day",
+    "sentiment": "0"
+  },
+  {
+    "id": 3817,
+    "mediaId": 65,
+    "date": "d2022-05-09T20:26",
+    "sentence": "",
+    "author": "Ronn Blitzer",
+    "title": "DeSantis signs bill designating statewide Victims of Communism Day",
+    "sentiment": "0.0"
   },
   {
     "id": 3468,
     "mediaId": 151,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T20:45",
     "sentence": "",
     "author": "",
-    "title": "Bidens Cuba and Venezuela policy shifts leave Florida Democrats dismayed"
+    "title": "Bidens Cuba and Venezuela policy shifts leave Florida Democrats dismayed",
+    "sentiment": "0.0"
   }
 ]

@@ -2,33 +2,55 @@
   {
     "id": 3639,
     "mediaId": 223,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T15:30",
     "sentence": "Pete Buttigieg says that prohibiting classroom instruction of sex and gender theory in kindergarten classes will KILL KIDS.?\nThen he blames <span class='selected-term'>Ron DeSantis</span> for inflation and gas prices.",
     "author": "Sarah Arnold",
-    "title": "Gender Transition Closets May Be Coming to a School Near You"
+    "title": "Gender Transition Closets May Be Coming to a School Near You",
+    "sentiment": "0.0"
   },
   {
     "id": 3615,
     "mediaId": 558,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T09:36",
     "sentence": "",
     "author": "Ben Werschkul",
-    "title": "Disney's fight with Florida's governor reflects a 'new paradigm,' Republican lawmaker says"
+    "title": "Disney's fight with Florida's governor reflects a 'new paradigm,' Republican lawmaker says",
+    "sentiment": "0"
+  },
+  {
+    "id": 3615,
+    "mediaId": 558,
+    "date": "d2022-05-13T09:36",
+    "sentence": "",
+    "author": "Ben Werschkul",
+    "title": "Disney's fight with Florida's governor reflects a 'new paradigm,' Republican lawmaker says",
+    "sentiment": "0.0"
   },
   {
     "id": 3501,
     "mediaId": 409,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T17:46",
     "sentence": "The release comes as Disney is embroiled in a fierce controversy over its opposition to House Bill 1557, known as the Parental Rights in Education Bill.? The law, signed by Governor <span class='selected-term'>Ron DeSantis</span> in March of this year, prohibits classroom discussions on gender identity, sexual orientation, and LGBTQ themes in elementary school until Grade 3, and allows parents to sue school districts for non-compliance.",
     "author": "Arjun Singh",
-    "title": "Disney Unveils New 2022 Pride Clothing Line for LGBTQ Children"
+    "title": "Disney Unveils New 2022 Pride Clothing Line for LGBTQ Children",
+    "sentiment": "0"
+  },
+  {
+    "id": 3501,
+    "mediaId": 409,
+    "date": "d2022-05-17T17:46",
+    "sentence": "The release comes as Disney is embroiled in a fierce controversy over its opposition to House Bill 1557, known as the Parental Rights in Education Bill.? The law, signed by Governor <span class='selected-term'>Ron DeSantis</span> in March of this year, prohibits classroom discussions on gender identity, sexual orientation, and LGBTQ themes in elementary school until Grade 3, and allows parents to sue school districts for non-compliance.",
+    "author": "Arjun Singh",
+    "title": "Disney Unveils New 2022 Pride Clothing Line for LGBTQ Children",
+    "sentiment": "0.0"
   },
   {
     "id": 3464,
     "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T09:21",
     "sentence": "",
     "author": "Amie Parnes",
-    "title": "Speculation over whether Biden will run again heats up"
+    "title": "Speculation over whether Biden will run again heats up",
+    "sentiment": "0.0"
   }
 ]

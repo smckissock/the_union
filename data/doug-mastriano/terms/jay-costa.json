@@ -2,17 +2,19 @@
   {
     "id": 7043,
     "mediaId": 25,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T00:00",
     "sentence": "Republican State Senator <span class='selected-term'>Doug Mastriano</span>, who voted for Act 77 in 2019, introduced a bill in November 2021 to repeal certain provisions of the law, including eliminating no-excuse mail voting.",
     "author": "Adam Brewster",
-    "title": "Pennsylvania court strikes down no-excuse mail voting law"
+    "title": "Pennsylvania court strikes down no-excuse mail voting law",
+    "sentiment": "0.0"
   },
   {
     "id": 6981,
     "mediaId": 157,
-    "date": "3/31/2022 12:00:00 AM",
+    "date": "d2022-03-31T00:00",
     "sentence": "",
     "author": "",
-    "title": "'This is a charade': Pennsylvania Democrats walk out of GOP-led election hearing"
+    "title": "'This is a charade': Pennsylvania Democrats walk out of GOP-led election hearing",
+    "sentiment": "0.0"
   }
 ]

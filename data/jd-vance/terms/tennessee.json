@@ -2,33 +2,37 @@
   {
     "id": 8225,
     "mediaId": 237,
-    "date": "1/27/2022 12:00:00 AM",
+    "date": "d2022-01-27T16:22",
     "sentence": "",
     "author": "Paul Bedard",
-    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support"
+    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
+    "sentiment": "0.374"
   },
   {
     "id": 6278,
     "mediaId": 124,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T02:35:01",
     "sentence": "",
     "author": "",
-    "title": "Trump-backed House candidate removed from ballot by Tenn. Republicans"
+    "title": "Trump-backed House candidate removed from ballot by Tenn. Republicans",
+    "sentiment": "0"
   },
   {
     "id": 5759,
     "mediaId": 124,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T20:34:38",
     "sentence": "",
     "author": "Allan Smith",
-    "title": "Inside the GOP effort to scrub a Trump-backed candidate from Tennessee's ballot"
+    "title": "Inside the GOP effort to scrub a Trump-backed candidate from Tennessee's ballot",
+    "sentiment": "0"
   },
   {
     "id": 5688,
     "mediaId": 19,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
-    "title": "Turning Point USA Establishes Super PAC to Aggressively Promote America First Movement"
+    "title": "Turning Point USA Establishes Super PAC to Aggressively Promote America First Movement",
+    "sentiment": "0"
   }
 ]

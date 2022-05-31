@@ -2,25 +2,37 @@
   {
     "id": 4316,
     "mediaId": 129,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "",
     "author": "",
-    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day"
+    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
+    "sentiment": "0"
+  },
+  {
+    "id": 4316,
+    "mediaId": 129,
+    "date": "d2022-05-01T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
+    "sentiment": "0.0"
   },
   {
     "id": 4133,
     "mediaId": 238,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T12:00",
     "sentence": "",
     "author": "",
-    "title": "Opinion Surprise, surprise: Florida leads the nation in Jan. 6 defendants"
+    "title": "Opinion Surprise, surprise: Florida leads the nation in Jan. 6 defendants",
+    "sentiment": "0.0"
   },
   {
     "id": 3505,
     "mediaId": 305,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T11:20",
     "sentence": "Through political figures like Congresswoman Elise Stefanik and Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "",
-    "title": "Fire Tucker Carlson, Ben Shapiro and All Other Racists Who Promote \"White Replacement Theory\""
+    "title": "Fire Tucker Carlson, Ben Shapiro and All Other Racists Who Promote \"White Replacement Theory\"",
+    "sentiment": "0.0"
   }
 ]

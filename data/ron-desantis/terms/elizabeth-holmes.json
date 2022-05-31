@@ -2,9 +2,19 @@
   {
     "id": 4252,
     "mediaId": 234,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "On Sundays episode of Last Week Tonight, Oliver lit into Florida governor <span class='selected-term'>Ron DeSantis</span>, whom he correctly described as having Green Book vibes,? and took the politician to task for his crusade against Disney.",
     "author": "Chris Murphy",
-    "title": "John Oliver Thinks Ron DeSantis Is a Right-Wing Dipshit Whos Scared of Gay People"
+    "title": "John Oliver Thinks Ron DeSantis Is a Right-Wing Dipshit Whos Scared of Gay People",
+    "sentiment": "0"
+  },
+  {
+    "id": 4252,
+    "mediaId": 234,
+    "date": "d2022-05-02T00:00",
+    "sentence": "On Sundays episode of Last Week Tonight, Oliver lit into Florida governor <span class='selected-term'>Ron DeSantis</span>, whom he correctly described as having Green Book vibes,? and took the politician to task for his crusade against Disney.",
+    "author": "Chris Murphy",
+    "title": "John Oliver Thinks Ron DeSantis Is a Right-Wing Dipshit Whos Scared of Gay People",
+    "sentiment": "0.0"
   }
 ]

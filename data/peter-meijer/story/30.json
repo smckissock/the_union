@@ -1,10 +1,11 @@
 {
   "id": 30,
   "mediaId": 261,
-  "date": "4/3/2022 12:00:00 AM",
+  "date": "d2022-04-03T03:25",
   "headline": "Trump hammers at false claims of voter fraud in return to Michigan",
   "image": "https://www.gannett-cdn.com/presto/2022/04/02/PDTF/cf036c7b-ca3f-4224-ad59-b8ba550f2b9f-04022022_trumprally-5.jpeg?crop=2399,1350,x0,y122&width=1320&height=744&format=pjpg&auto=webp",
   "link": "https://www.freep.com/story/news/politics/2022/04/03/donald-trump-holds-rally-macomb-county/7208593001/",
+  "sentiment": "0.0",
   "mediaOutlet": "Detroit Free Press",
   "biasRatingId": 1,
   "wordCount": 0,

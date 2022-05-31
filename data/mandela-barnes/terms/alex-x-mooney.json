@@ -2,25 +2,28 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 134,
     "mediaId": 136,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T09:00",
     "sentence": "Governor <span class='selected-term'>Mandela Barnes</span> leads a field of Democrats seeking the chance to run against Senator Ron Johnson, a Republican, in the fall.",
     "author": "Steve Friess",
-    "title": "These Are Key Races to Watch In Every State Primary This Election Season"
+    "title": "These Are Key Races to Watch In Every State Primary This Election Season",
+    "sentiment": "0.0"
   },
   {
     "id": 2304,
     "mediaId": 195,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T19:34",
     "sentence": "",
     "author": "Tal Axelrod",
-    "title": "Democratic Senate primary tightening in Wisconsin: poll"
+    "title": "Democratic Senate primary tightening in Wisconsin: poll",
+    "sentiment": "0.73"
   }
 ]

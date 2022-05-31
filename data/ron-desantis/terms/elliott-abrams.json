@@ -2,33 +2,73 @@
   {
     "id": 4013,
     "mediaId": 157,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Matthew Chapman",
-    "title": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report"
+    "title": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report",
+    "sentiment": "-0.658"
+  },
+  {
+    "id": 4013,
+    "mediaId": 157,
+    "date": "d2022-05-05T00:00",
+    "sentence": "",
+    "author": "Matthew Chapman",
+    "title": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report",
+    "sentiment": "0.0"
   },
   {
     "id": 3902,
     "mediaId": 237,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T18:56",
     "sentence": "",
     "author": "Jenny Goldsberry",
-    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report"
+    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
+    "sentiment": "0"
+  },
+  {
+    "id": 3902,
+    "mediaId": 237,
+    "date": "d2022-05-06T18:56",
+    "sentence": "",
+    "author": "Jenny Goldsberry",
+    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
+    "sentiment": "0.0"
   },
   {
     "id": 3766,
     "mediaId": 65,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T13:46",
     "sentence": "",
     "author": "Amy Nelson",
-    "title": "Karol Markowicz on NYC Jewish museum canceling DeSantis speaking event: 'Political games'"
+    "title": "Karol Markowicz on NYC Jewish museum canceling DeSantis speaking event: 'Political games'",
+    "sentiment": "-0.798"
+  },
+  {
+    "id": 3766,
+    "mediaId": 65,
+    "date": "d2022-05-10T13:46",
+    "sentence": "",
+    "author": "Amy Nelson",
+    "title": "Karol Markowicz on NYC Jewish museum canceling DeSantis speaking event: 'Political games'",
+    "sentiment": "0.0"
   },
   {
     "id": 3618,
     "mediaId": 129,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T00:00",
     "sentence": "",
     "author": "Liam Stack",
-    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak"
+    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
+    "sentiment": "0"
+  },
+  {
+    "id": 3618,
+    "mediaId": 129,
+    "date": "d2022-05-13T00:00",
+    "sentence": "",
+    "author": "Liam Stack",
+    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
+    "sentiment": "0.0"
   }
 ]

@@ -2,33 +2,64 @@
   {
     "id": 3864,
     "mediaId": 43,
-    "date": "5/8/2022 12:00:00 AM",
+    "date": "d2022-05-08T00:00",
     "sentence": "",
     "author": "",
-    "title": "Fanatical Republican Extremist of the Day: Randy"
+    "title": "Fanatical Republican Extremist of the Day: Randy",
+    "sentiment": "0.0"
   },
   {
     "id": 3530,
     "mediaId": 34,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Brett Wilkins",
-    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes"
+    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes",
+    "sentiment": "-0.493"
+  },
+  {
+    "id": 3530,
+    "mediaId": 34,
+    "date": "d2022-05-17T00:00",
+    "sentence": "",
+    "author": "Brett Wilkins",
+    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes",
+    "sentiment": "0.0"
   },
   {
     "id": 3462,
     "mediaId": 238,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T10:00",
     "sentence": "",
     "author": "Hannah Natanson",
-    "title": "This Florida teacher married a woman. Now shes not a teacher anymore."
+    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
+    "sentiment": "0"
+  },
+  {
+    "id": 3462,
+    "mediaId": 238,
+    "date": "d2022-05-19T10:00",
+    "sentence": "",
+    "author": "Hannah Natanson",
+    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
+    "sentiment": "0.0"
   },
   {
     "id": 7114,
     "mediaId": 151,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T19:59",
     "sentence": "",
     "author": "",
-    "title": "Florida wants to avoid critical race theory and social justice in social studies texts"
+    "title": "Florida wants to avoid critical race theory and social justice in social studies texts",
+    "sentiment": "0"
+  },
+  {
+    "id": 7114,
+    "mediaId": 151,
+    "date": "d2022-05-20T19:59",
+    "sentence": "",
+    "author": "",
+    "title": "Florida wants to avoid critical race theory and social justice in social studies texts",
+    "sentiment": "0.0"
   }
 ]

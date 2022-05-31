@@ -1,10 +1,11 @@
 {
   "id": 2109,
   "mediaId": 19,
-  "date": "4/13/2022 12:00:00 AM",
+  "date": "d2022-04-13T00:00",
   "headline": "Georgia Poll: Brian Kemp Has Wide Lead over David Perdue in Governor's Primary",
   "image": "https://media.breitbart.com/media/2022/02/GettyImages-1058497456-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/13/georgia-poll-brian-kemp-has-wide-lead-over-david-perdue-in-governors-primary/",
+  "sentiment": "0.376",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     1147,
     1248,
-    1646,
     1664,
     1951,
     2095,

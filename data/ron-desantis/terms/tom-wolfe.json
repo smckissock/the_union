@@ -2,9 +2,19 @@
   {
     "id": 4271,
     "mediaId": 187,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "The drama in Florida between Governor <span class='selected-term'>Ron DeSantis</span> and the Walt Disney Company has taken so many unusual turns in so little time that providing a truly straightforward account of whats transpired is not easy.",
     "author": "Derek Thompson",
-    "title": "Disney vs. DeSantis Is the Future of Politics"
+    "title": "Disney vs. DeSantis Is the Future of Politics",
+    "sentiment": "0"
+  },
+  {
+    "id": 4271,
+    "mediaId": 187,
+    "date": "d2022-05-02T00:00",
+    "sentence": "The drama in Florida between Governor <span class='selected-term'>Ron DeSantis</span> and the Walt Disney Company has taken so many unusual turns in so little time that providing a truly straightforward account of whats transpired is not easy.",
+    "author": "Derek Thompson",
+    "title": "Disney vs. DeSantis Is the Future of Politics",
+    "sentiment": "0.0"
   }
 ]

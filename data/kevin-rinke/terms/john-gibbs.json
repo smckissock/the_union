@@ -2,33 +2,37 @@
   {
     "id": 65,
     "mediaId": 43,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "Wealthy businessman <span class='selected-term'>Kevin Rinke</span>, by contrast, raised a mere $5,000 from donors but self-funded $2 million, and his $1.5 million war chest was the largest of anyone running in the August GOP primary.",
     "author": "",
-    "title": "Morning Digest: Democrat announces rematch against House Republican under fire for impeachment vote"
+    "title": "Morning Digest: Democrat announces rematch against House Republican under fire for impeachment vote",
+    "sentiment": "0.0"
   },
   {
     "id": 32,
     "mediaId": 261,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T10:00",
     "sentence": "Also, as of Friday, Oakland County businessman and former auto dealer <span class='selected-term'>Kevin Rinke</span> said he hadn't made a decision as to whether to attend, a spokeswoman said.",
     "author": "Todd Spangler",
-    "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know"
+    "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know",
+    "sentiment": "0.0"
   },
   {
     "id": 7,
     "mediaId": 43,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "The August primary also includes two wealthy businessmen, <span class='selected-term'>Kevin Rinke</span> and Perry Johnson.",
     "author": "",
-    "title": "Daily Kos Elections Live Digest: 4/22"
+    "title": "Daily Kos Elections Live Digest: 4/22",
+    "sentiment": "0.0"
   },
   {
     "id": 6,
     "mediaId": 43,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T00:00",
     "sentence": "The August primary also includes two wealthy businessmen, <span class='selected-term'>Kevin Rinke</span> and Perry Johnson.",
     "author": "",
-    "title": "Morning Digest: Michigan Republican sends horrid"
+    "title": "Morning Digest: Michigan Republican sends horrid",
+    "sentiment": "0.0"
   }
 ]

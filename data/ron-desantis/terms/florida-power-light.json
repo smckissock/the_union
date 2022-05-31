@@ -1,58 +1,110 @@
 [
   {
-    "id": 4391,
-    "mediaId": 1067,
-    "date": "4/29/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Scott Maxwell",
-    "title": "DeSantis veto of anti-solar bill a win for Florida, big loss for FPL and legislative lackeys | Commentary"
-  },
-  {
     "id": 4429,
     "mediaId": 1067,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T09:00",
     "sentence": "",
     "author": "Jeffrey Schweers",
-    "title": "FPL flexes its muscle in Florida Legislature, but loses one out of three"
+    "title": "FPL flexes its muscle in Florida Legislature, but loses one out of three",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4391,
+    "mediaId": 1067,
+    "date": "d2022-04-29T15:05",
+    "sentence": "",
+    "author": "Scott Maxwell",
+    "title": "DeSantis veto of anti-solar bill a win for Florida, big loss for FPL and legislative lackeys | Commentary",
+    "sentiment": "0"
+  },
+  {
+    "id": 4391,
+    "mediaId": 1067,
+    "date": "d2022-04-29T15:05",
+    "sentence": "",
+    "author": "Scott Maxwell",
+    "title": "DeSantis veto of anti-solar bill a win for Florida, big loss for FPL and legislative lackeys | Commentary",
+    "sentiment": "0.0"
   },
   {
     "id": 4209,
     "mediaId": 558,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T16:21",
     "sentence": "",
     "author": "Mike Springer",
-    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees"
+    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4209,
+    "mediaId": 558,
+    "date": "d2022-05-02T16:21",
+    "sentence": "",
+    "author": "Mike Springer",
+    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees",
+    "sentiment": "0.612"
   },
   {
     "id": 4048,
     "mediaId": 302,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T16:00",
     "sentence": "",
     "author": "",
-    "title": "Florida prepares to resume manatee rescue efforts this winter"
+    "title": "Florida prepares to resume manatee rescue efforts this winter",
+    "sentiment": "0.0"
   },
   {
     "id": 4002,
     "mediaId": 1067,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T04:41",
     "sentence": "",
     "author": "Rosemary O'Hara",
-    "title": "Gov. DeSantis refused to kill incentives for rooftop solar. Now what? | Commentary"
+    "title": "Gov. DeSantis refused to kill incentives for rooftop solar. Now what? | Commentary",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4002,
+    "mediaId": 1067,
+    "date": "d2022-05-05T04:41",
+    "sentence": "",
+    "author": "Rosemary O'Hara",
+    "title": "Gov. DeSantis refused to kill incentives for rooftop solar. Now what? | Commentary",
+    "sentiment": "0.592"
   },
   {
     "id": 3833,
     "mediaId": 302,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T10:00",
     "sentence": "",
     "author": "David Jenkins",
-    "title": "Why are we fighting sunshine and letting Floridas energy market fail? | Column"
+    "title": "Why are we fighting sunshine and letting Floridas energy market fail? | Column",
+    "sentiment": "0"
+  },
+  {
+    "id": 3833,
+    "mediaId": 302,
+    "date": "d2022-05-09T10:00",
+    "sentence": "",
+    "author": "David Jenkins",
+    "title": "Why are we fighting sunshine and letting Floridas energy market fail? | Column",
+    "sentiment": "0.0"
   },
   {
     "id": 3789,
     "mediaId": 302,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T08:00",
     "sentence": "",
     "author": "",
-    "title": "Panhandles anger over FPL may have helped spur DeSantis veto of anti-solar bill"
+    "title": "Panhandles anger over FPL may have helped spur DeSantis veto of anti-solar bill",
+    "sentiment": "-0.209"
+  },
+  {
+    "id": 3789,
+    "mediaId": 302,
+    "date": "d2022-05-10T08:00",
+    "sentence": "",
+    "author": "",
+    "title": "Panhandles anger over FPL may have helped spur DeSantis veto of anti-solar bill",
+    "sentiment": "0.0"
   }
 ]

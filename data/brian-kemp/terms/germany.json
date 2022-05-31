@@ -2,17 +2,19 @@
   {
     "id": 5451,
     "mediaId": 1390,
-    "date": "3/28/2022 12:00:00 AM",
+    "date": "d2022-03-28T00:00",
     "sentence": "",
     "author": "Talia Kaplan",
-    "title": "Ridiculously high gas prices crushing GA food truck business"
+    "title": "Ridiculously high gas prices crushing GA food truck business",
+    "sentiment": "0.0"
   },
   {
     "id": 4913,
     "mediaId": 12,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T00:00",
     "sentence": "",
     "author": "Michael E. Kanell",
-    "title": "Wisconsin meat snack firm to build 800-worker plant in Perry"
+    "title": "Wisconsin meat snack firm to build 800-worker plant in Perry",
+    "sentiment": "0"
   }
 ]

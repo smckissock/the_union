@@ -2,25 +2,28 @@
   {
     "id": 5808,
     "mediaId": 409,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T06:30",
     "sentence": "",
     "author": "Jay Nordlinger",
-    "title": "Refuge in pluralism, &c."
-  },
-  {
-    "id": 5675,
-    "mediaId": 558,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tom LoBianco",
-    "title": "Anti-abortion crusader Pence capitalizes on a playing field reshaped by pending Roe decision"
+    "title": "Refuge in pluralism, &c.",
+    "sentiment": "0"
   },
   {
     "id": 5693,
     "mediaId": 25,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Adam Brewster, Jacob Rosen",
-    "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024"
+    "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024",
+    "sentiment": "0"
+  },
+  {
+    "id": 5675,
+    "mediaId": 558,
+    "date": "d2022-05-06T10:38",
+    "sentence": "",
+    "author": "Tom LoBianco",
+    "title": "Anti-abortion crusader Pence capitalizes on a playing field reshaped by pending Roe decision",
+    "sentiment": "0"
   }
 ]

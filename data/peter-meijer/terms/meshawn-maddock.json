@@ -2,25 +2,28 @@
   {
     "id": 32,
     "mediaId": 261,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T10:00",
     "sentence": "Expect most of those locally who have been endorsed by Trump to be in attendance, though it's only certain that two others are speaking  U.S. Rep. Lisa McClain, R-Bruce Township, who represents the area where the rally is being held, and John Gibbs, a former Trump administration official who is running for the Republican nomination against U.S. Rep. <span class='selected-term'>Peter Meijer</span>, R-Grand Rapids, who also voted to impeach Trump.",
     "author": "Todd Spangler",
-    "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know"
+    "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know",
+    "sentiment": "0.0"
   },
   {
     "id": 19,
     "mediaId": 157,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:00",
     "sentence": "Attendees of the Kent County convention were also heard booing any time U.S. Rep. <span class='selected-term'>Peter Meijer</span> (R-Grand Rapids) was called on to vote, per the Detroit News.",
     "author": "Andrew Roth",
-    "title": "GOP county conventions across Michigan face disruptions, but party touts 'enthusiasm'"
+    "title": "GOP county conventions across Michigan face disruptions, but party touts 'enthusiasm'",
+    "sentiment": "0.0"
   },
   {
     "id": 5,
     "mediaId": 165,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T14:46",
     "sentence": "How are you going to run an election system if you believe it's all fake?? (Rep. <span class='selected-term'>Peter Meijer</span>, the hometown congressman and rare Republican who voted to impeach Trump, skulked around the periphery, unwilling to tell reporters which candidates he'd supported.)",
     "author": "Kara Voght",
-    "title": "Republicans Are Trying to Seize Veto Power Over the 2024 Election"
+    "title": "Republicans Are Trying to Seize Veto Power Over the 2024 Election",
+    "sentiment": "0.0"
   }
 ]

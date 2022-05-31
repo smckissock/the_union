@@ -1,10 +1,11 @@
 {
   "id": 1317,
   "mediaId": 12,
-  "date": "2/23/2022 12:00:00 AM",
+  "date": "d2022-02-23T12:00",
   "headline": "The Jolt: Herschel Walker: I don't support either' Brian Kemp or David Perdue",
   "image": "https://www.ajc.com/resizer/9d1Z-w3_88hty0FqCyXMGkMFI5Y=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/MX3ZZS7JTVHD5HSK5VS2662ZPI.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-herschel-walker-i-dont-support-either-brian-kemp-or-david-perdue/YDJAIQOYKZGANKB4Y4NPUKUHB4/",
+  "sentiment": "-0.243",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,7 +13,6 @@
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
     815,
-    1646,
     2030,
     2095,
     4325,

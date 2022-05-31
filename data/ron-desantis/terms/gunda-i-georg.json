@@ -2,9 +2,19 @@
   {
     "id": 3691,
     "mediaId": 136,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T16:15",
     "sentence": "In April, <span class='selected-term'>Ron DeSantis</span>, the GOP governor of Florida, signed a bill banning most abortions in the state after 15 weeks of pregnancydown from 24 weeks previously, according to NBC News.",
     "author": "Ed Browne",
-    "title": "Roe v. Wade Overturn Could Force Male Birth Control Pill Development"
+    "title": "Roe v. Wade Overturn Could Force Male Birth Control Pill Development",
+    "sentiment": "0"
+  },
+  {
+    "id": 3691,
+    "mediaId": 136,
+    "date": "d2022-05-11T16:15",
+    "sentence": "In April, <span class='selected-term'>Ron DeSantis</span>, the GOP governor of Florida, signed a bill banning most abortions in the state after 15 weeks of pregnancydown from 24 weeks previously, according to NBC News.",
+    "author": "Ed Browne",
+    "title": "Roe v. Wade Overturn Could Force Male Birth Control Pill Development",
+    "sentiment": "0.0"
   }
 ]

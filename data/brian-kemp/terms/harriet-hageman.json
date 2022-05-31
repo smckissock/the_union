@@ -2,17 +2,82 @@
   {
     "id": 7288,
     "mediaId": 136,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T13:35",
     "sentence": "The former president has also leveled some of his harshest personal attacks on the state's two Republican officials  Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger  who blocked his attempt to claim a victory over President Joe Biden in the state.",
     "author": "Daniel Bush",
-    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents"
+    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents",
+    "sentiment": "-0.735"
   },
   {
     "id": 7331,
     "mediaId": 238,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T03:03",
     "sentence": "",
     "author": "David Weigel",
-    "title": "Kemp, Raffensperger win in blow to Trump and his false election claims"
+    "title": "Kemp, Raffensperger win in blow to Trump and his false election claims",
+    "sentiment": "-0.458"
+  },
+  {
+    "id": 8403,
+    "mediaId": 136,
+    "date": "d2022-05-26T14:35",
+    "sentence": "On Tuesday, Georgia Governor <span class='selected-term'>Brian Kemp</span> comprehensively beat the Trump-backed David Perdue in the gubernatorial primary by more than 50 percentage points.",
+    "author": "Ewan Palmer",
+    "title": "Trump Still Likely to Get Revenge on Liz Cheney, Despite Brian Kemp Setback",
+    "sentiment": "-0.858"
+  },
+  {
+    "id": 8399,
+    "mediaId": 151,
+    "date": "d2022-05-27T08:31",
+    "sentence": "",
+    "author": "",
+    "title": "As Cheney files for reelection, poll from rival group shows her trailing badly",
+    "sentiment": "0"
+  },
+  {
+    "id": 8394,
+    "mediaId": 157,
+    "date": "d2022-05-28T00:00",
+    "sentence": "\\u201cYou think <span class='selected-term'>Brian Kemp</span> got 73%?",
+    "author": "Bob Brigham",
+    "title": "'Party of me': Chris Christie rips Trump's selfishness",
+    "sentiment": "-0.768"
+  },
+  {
+    "id": 8391,
+    "mediaId": 136,
+    "date": "d2022-05-28T10:00",
+    "sentence": "Georgia's GOP Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger, who drew the former president's wrath after they declined to help him overturn President Joe Biden's 2020 election win in their state, both won their primaries by double-digit margins on Tuesday.",
+    "author": "Jason Lemon",
+    "title": "Liz Cheney's Chances of Beating Trump-Backed Harriet Hageman in Wyoming",
+    "sentiment": "0"
+  },
+  {
+    "id": 8389,
+    "mediaId": 136,
+    "date": "d2022-05-28T14:07",
+    "sentence": "The southern state's GOP Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger, who drew the former president's ire after they refused to help him overturn President Joe Biden's election win in their state, both won their primaries by double-digit margins.",
+    "author": "Jason Lemon",
+    "title": "Trump Targets Cheney in Wyoming Rally as Endorsement, Court Failures Sting",
+    "sentiment": "0"
+  },
+  {
+    "id": 8388,
+    "mediaId": 21,
+    "date": "d2022-05-28T16:24:15",
+    "sentence": "",
+    "author": "Oma Seddiq",
+    "title": "Trump targets Liz Cheney at Wyoming rally days after his high-profile endorsements flopped",
+    "sentiment": "0"
+  },
+  {
+    "id": 8374,
+    "mediaId": 238,
+    "date": "d2022-05-29T22:00",
+    "sentence": "",
+    "author": "Josh Dawsey",
+    "title": "After losses in Ga., Trump sets sights on ousting Liz Cheney in Wyo.",
+    "sentiment": "0"
   }
 ]

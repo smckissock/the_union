@@ -2,161 +2,190 @@
   {
     "id": 8207,
     "mediaId": 43,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T00:00",
     "sentence": "Trump-backed Georgia Republican Senate candidate <span class='selected-term'>Herschel Walker</span> raised almost $5.4 million in the past three months and has about the same amount in the bank.",
     "author": "",
-    "title": "candidates are getting 'crushed' in early fundraising: report"
+    "title": "candidates are getting 'crushed' in early fundraising: report",
+    "sentiment": "0.468"
   },
   {
     "id": 8192,
     "mediaId": 43,
-    "date": "2/3/2022 12:00:00 AM",
+    "date": "d2022-02-03T00:00",
     "sentence": "x\nx\n1\nState\nName\nParty\n4Q\nRaised\nSelf-\nFund\nSpent\nCash\nRaised\nCTD\nSelf-Fund\nCTD\nx\nx\n2\nAK\nLisa Murkowski\n(R-inc)\n$1,365\n$0\n$345\n$4,263\n$5,879\n$0\n3\nAK\nKelly Tshibaka\n(R)\n$602\n$0\n$262\n$634\n$1,820\n$0\n4\nAL\nKatie Boyd Britt\n(R)\n$1,225\n$0\n$481\n$4,080\n$4,992\n$0\n5\nAL\nMo Brooks\n(R)\n$382\n$0\n$261\n$1,979\n$2,173\n$0\n6\nAL\nMike Durant\n(R)\n$165\n$4,150\n$1,798\n$2,514\n$165\n$4,150\n7\nAR\nJohn Boozman\n(R-inc)\n$1,153\n$0\n$394\n$3,516\n$4,412\n$0\n8\nAR\nJake Bequette\n(R)\n$274\n$0\n$211\n$412\n$772\n$35\n9\nAR\nJan Morgan\n(R)\n$123\n$0\n$124\n$60\n$335\n$1\n10\nAZ\nMark Kelly\n(D-inc)\n$8,798\n$0\n$3,174\n$18,610\n$27,836\n$0\n11\nAZ\nBlake Master\n(R)\n$1,390\n$0\n$604\n$1,814\n$2,389\n$6\n12\nAZ\nMark Brnovich\n(R)\n$805\n$0\n$552\n$768\n$1,796\n$6\n13\nAZ\nMichael McGuire\n(R)\n$246\n$25\n$360\n$225\n$666\n$280\n14\nAZ\nJustin Olson\n(R)\n$225\n$0\n$34\n$192\n$202\n$0\n15\nAZ\nJim Lamon\n(R)\n$201\n$3,000\n$866\n$5,940\n$557\n$8,000\n16\nCA\nAlex Padilla\n(D-inc)\n$1,485\n$0\n$509\n$6,302\n$8,043\n$0\n17\nCO\nMichael Bennet\n(D-inc)\n$2,105\n$0\n$870\n$4,738\n$8,602\n$0\n18\nCO\nGino Campana\n(R)\n$432\n$524\n$171\n$784\n$432\n$524\n19\nCO\nDeborah Flora\n(R)\n$201\n$103\n$33\n$271\n$201\n$103\n20\nCO\nEli Bremer\n(R)\n$153\n$0\n$185\n$178\n$407\n$0\n21\nCO\nRon Hanks\n(R)\n$16\n$12\n$15\n$13\n$16\n$12\n22\nCT\nRichard Blumenthal\n(D-inc)\n$753\n$0\n$129\n$7,556\n$6,123\n$2\n23\nFL\nVal Demings\n(D)\n$7,129\n$0\n$4,911\n$8,158\n$20,490\n$0\n24\nFL\nKen Russell\n(D)\n$229\n$0\n$255\n$337\n$986\n$0\n25\nFL\nAlan Grayson\n(D)\n$38\n$0\n$36\n$249\n$199\n$250\n26\nFL\nMarco Rubio\n(R-inc)\n$5,218\n$0\n$4,252\n$10,588\n$23,608\n$0\n27\nGA\nRaphael Warnock\n(D-inc)\n$9,703\n$0\n$3,973\n$22,946\n$30,724\n$0\n28\nGA\n<span class='selected-term'>Herschel Walker</span>\n(R)\n$5,294\n$0\n$2,329\n$5,445\n$9,060\n$0\n29\nGA\nLatham Saddler\n(R)\n$599\n$0\n$521\n$1,699\n$3,103\n$3\n30\nGA\nGary Black\n(R)\n$433\n$0\n$442\n$919\n$1,701\n$0\n31\nGA\nKelvin King\n(R)\n$231\n$0\n$353\n$332\n$949\n$300\n32\nGA\nJosh Clark\n(R)\n$195\n$35\n$2\n$228\n$195\n$35\n33\nHI\nBrian Schatz\n(D-inc)\n$303\n$0\n$81\n$3,939\n$3,398\n$0\n34\nIA\nAbby Finkenaur\n(D)\n$900\n$0\n$774\n$724\n$1,919\n$0\n35\nIA\nMichael Franken\n(D)\n$425\n$0\n$104\n$321\n$425\n$0\n36\nIA\nChuck Grassley\n(R-inc)\n$1,392\n$0\n$749\n$3,710\n$4,565\n$0\n37\nIA\nJim Carlin\n(R)\n$18\n$71\n$87\n$4\n$65\n$217\n38\nID\nMike Crapo\n(R-inc)\n$589\n$0\n$158\n$5,823\n$4,952\n$0\n39\nIL\nTammy Duckworth\n(D-inc)\n$1,528\n$0\n$862\n$6,449\n$14,026\n$0\n40\nIN\nThomas McDermott\n(D)\n$73\n$0\n$91\n$49\n$156\n$0\n41\nIN\nTodd Young\n(R-inc)\n$1,474\n$0\n$897\n$6,185\n$10,657\n$0\n42\nKS\nMark Holland\n(D)\n$142\n$1\n$55\n$89\n$142\n$1\n43\nKS\nJerry Moran\n(R-inc)\n$780\n$0\n$151\n$4,812\n$4,670\n$0\n44\nKY\nCharles Booker\n(D)\n$648\n$0\n$755\n$411\n$2,322\n$0\n45\nKY\nRand Paul\n(R-inc)\n$3,768\n$0\n$2,816\n$7,860\n$15,762\n$0\n46\nLA\nJohn Kennedy\n(R-inc)\n$3,202\n$0\n$1,877\n$11,124\n$17,551\n$0\n47\nMD\nChris Van Hollen\n(D-inc)\n$1,300\n$0\n$288\n$4,942\n$6,654\n$0\n48\nMO\nLucas Kunce\n(D)\n$705\n$0\n$562\n$809\n$2,450\n$0\n49\nMO\nScott Sifton\n(D)\n$156\n$7\n$165\n$156\n$870\n$20\n50\nMO\nEric Greitens\n(R)\n$462\n$0\n$373\n$290\n$1,420\n$18\n51\nMO\nEric Schmitt\n(R)\n$457\n$0\n$385\n$1,272\n$2,443\n$0\n52\nMO\nVicky Hartzler\n(R)\n$427\n$0\n$299\n$1,779\n$1,928\n$0\n53\nMO\nBilly Long\n(R)\n$220\n$250\n$433\n$577\n$1,121\n$250\n54\nMO\nDave Schatz\n(R)\n$168\n$1,000\n$6\n$1,162\n$168\n$1,000\n55\nMO\nMark McCloskey\n(R)\n$86\n$0\n$79\n$99\n$878\n$0\n56\nNC\nCheri Beasley\n(D)\n$2,140\n$0\n$992\n$2,821\n$4,910\n$0\n57\nNC\nTed Budd\n(R)\n$938\n$0\n$713\n$2,227\n$2,791\n$275\n58\nNC\nPat McCrory\n(R)\n$741\n$0\n$384\n$1,949\n$3,005\n$0\n59\nNC\nMarjorie Eastman\n(R)\n$417\n$6\n$137\n$287\n$417\n$6\n60\nNC\nBradley Mark Walker\n(R)\n$139\n$0\n$179\n$572\n$1,460\n$0\n61\nND\nJohn Hoeven\n(R-inc)\n$491\n$0\n$80\n$3,097\n$2,609\n$0\n62\nNH\nMaggie Hassan\n(D-inc)\n$3,120\n$0\n$4,265\n$5,313\n$17,346\n$0\n63\nNH\nDonald Bolduc\n(R)\n$149\n$0\n$150\n$58\n$200\n$0\n64\nNV\nCatherine Cortez Masto\n(D-inc)\n$3,279\n$0\n$1,149\n$10,464\n$17,333\n$0\n65\nNV\nAdam Laxalt\n(R)\n$1,314\n$0\n$881\n$1,691\n$2,723\n$0\n66\nNV\nSam Brown\n(R)\n$1,039\n$0\n$963\n$732\n$2,041\n$17\n67\nNY\nChuck Schumer\n(D-inc)\n$5,236\n$0\n$877\n$36,277\n$33,975\n$0\n68\nOH\nTim Ryan\n(D)\n$2,867\n$0\n$1,483\n$5,030\n$8,473\n$0\n69\nOH\nMorgan Harper\n(D)\n$334\n$4\n$315\n$437\n$868\n$4\n70\nOH\nJane Timken\n(R)\n$594\n$1,500\n$1,582\n$3,617\n$3,419\n$3,500\n71\nOH\nJ.D.",
     "author": "",
-    "title": "Daily Kos Elections 4Q 2021 Senate fundraising reports roundup"
+    "title": "Daily Kos Elections 4Q 2021 Senate fundraising reports roundup",
+    "sentiment": "0.0"
   },
   {
     "id": 7997,
     "mediaId": 124,
-    "date": "3/17/2022 12:00:00 AM",
+    "date": "d2022-03-17T13:05",
     "sentence": "A brutal Senate primary is heating up in Georgia, where Republican Gary Blacks campaign dropped opposition research about primary opponent <span class='selected-term'>Herschel Walker</span> (former President Donald Trumps pick), highlighting a lengthy list of allegations of domestic assault, threats and violence.",
     "author": "",
-    "title": "Day 22 into Russia's invasion of Ukraine: A glimmer of hope and a devastating reality"
+    "title": "Day 22 into Russia's invasion of Ukraine: A glimmer of hope and a devastating reality",
+    "sentiment": "-0.953"
   },
   {
     "id": 7977,
     "mediaId": 238,
-    "date": "3/22/2022 12:00:00 AM",
+    "date": "d2022-03-22T00:00",
     "sentence": "He also endorsed <span class='selected-term'>Herschel Walker</span> for Georgias Senate primary, despite serious questions about his business background and alleged history of violent behavior.",
     "author": "",
-    "title": "Opinion: Donald Trump has gone from cult leader to weather vane"
+    "title": "Opinion: Donald Trump has gone from cult leader to weather vane",
+    "sentiment": "-0.796"
   },
   {
     "id": 7853,
     "mediaId": 43,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T00:00",
     "sentence": "GOP Senate Hopeful Peddled False Claims About His Education for Years\nA CNN report found that <span class='selected-term'>Herschel Walker</span>a Republican candidate for the U.S. Senate in Georgiarepeatedly made false statements when he said he graduated in the top 1 percent of his class at the University of Georgia, including as recently as 2017.",
     "author": "",
-    "title": "Republicans in Disarray: Saturday's Good News"
+    "title": "Republicans in Disarray: Saturday's Good News",
+    "sentiment": "-0.475"
   },
   {
     "id": 7793,
     "mediaId": 124,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T08:41:20",
     "sentence": "White House removes Dr. Oz and <span class='selected-term'>Herschel Walker</span> from advisory panel after Senate runs\nMarch 24, 202200:17\nBut by the time McCormick showed up Wednesday, Trump was already close to endorsing Oz, said two other Trump advisers, who said Trump wasnt swayed by the arguments of those close to him who were backing McCormick.",
     "author": "",
-    "title": "Dr. Oz bets Trump endorsement can catapult him in Pa. Senate race"
+    "title": "Dr. Oz bets Trump endorsement can catapult him in Pa. Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 6143,
     "mediaId": 136,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T16:51",
     "sentence": "His endorsement of former football player <span class='selected-term'>Herschel Walker</span> also drew some concerns from Trump supporters, including Herschel's opponent Gary Black, who chastised him for disagreeing with the former president on some immigration policies in a 2015 USA Today interview.",
     "author": "Andrew Stanton",
-    "title": "Trump Sparking Fights in MAGA World With These Endorsements"
+    "title": "Trump Sparking Fights in MAGA World With These Endorsements",
+    "sentiment": "-0.375"
   },
   {
     "id": 7201,
     "mediaId": 136,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T13:34",
     "sentence": "Trump has also endorsed former NFL star <span class='selected-term'>Herschel Walker</span> who is seeking to unseat Raphael Warnock in the U.S Senate.",
     "author": "Khaleda Rahman",
-    "title": "Here's Who Donald Trump Has Endorsed in Next Week's Primary Elections"
-  },
-  {
-    "id": 7482,
-    "mediaId": 195,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "Another Trump favorite, former football star <span class='selected-term'>Herschel Walker</span>, is all but certain to win the GOP Senate primary in Georgia on Tuesday.",
-    "author": "Niall Stanage",
-    "title": "The Memo: Trump no longer holds MAGA movement in his palm"
+    "title": "Here's Who Donald Trump Has Endorsed in Next Week's Primary Elections",
+    "sentiment": "0.0"
   },
   {
     "id": 7488,
     "mediaId": 151,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T14:00",
     "sentence": "PAPER TRAIL  <span class='selected-term'>Herschel Walker</span>s ties to veterans program face scrutiny, by the Associated Press Brian Slodysko and Jeff Amy: Herschel Walker, the football legend and leading Republican Senate candidate in Georgia, often boasts of his work helping service members and veterans struggling with mental health.",
     "author": "",
-    "title": "7 big 2022 midterm questions to answer this week"
+    "title": "7 big 2022 midterm questions to answer this week",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7482,
+    "mediaId": 195,
+    "date": "d2022-05-23T22:29",
+    "sentence": "Another Trump favorite, former football star <span class='selected-term'>Herschel Walker</span>, is all but certain to win the GOP Senate primary in Georgia on Tuesday.",
+    "author": "Niall Stanage",
+    "title": "The Memo: Trump no longer holds MAGA movement in his palm",
+    "sentiment": "0.663"
   },
   {
     "id": 7338,
     "mediaId": 25,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "<div>https://www.cbsnews.com/live-updates/primary-results-2022-georgia-alabama-arkansas-texas-runoff-minnesota-special-election-2022-05-24/#post-update-f912f6e5</div>\n link copied\n5:40 PM\nGeorgia Senate Republican primary results\n<span class='selected-term'>Herschel Walker</span>, Gary Black, Kelvin King, Jonathan McColumn and Latham Saddler are running for the Republican nomination for U.S. Senate in Georgia.",
     "author": "",
-    "title": "Primary results 2022: Georgia, Alabama, Arkansas, Texas runoff and Minnesota special election primary results"
-  },
-  {
-    "id": 7412,
-    "mediaId": 233,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Rep. Marjorie Taylor Greenes primary race is also underway, along with the Senate contest between incumbent Rep. Raphael Warnock and football star <span class='selected-term'>Herschel Walker</span>.",
-    "author": "David Jackson",
-    "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates"
-  },
-  {
-    "id": 7416,
-    "mediaId": 195,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Tal Axelrod\n<span class='selected-term'>Herschel Walker</span> clinches GOP Senate nomination in Georgia\n7:58 p.m.\nFormer NFL star Herschel Walker is projected to easily clinch the Republican Senate nomination in Georgia, securing his spot on the ballot to face off against Sen. Raphael Warnock (D-Ga.) in November.",
-    "author": "",
-    "title": "Live coverage: Polls close in Alabama, Texas"
-  },
-  {
-    "id": 7430,
-    "mediaId": 136,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "In Georgia, former football star <span class='selected-term'>Herschel Walker</span> is the overwhelming favorite to win the GOP Senate primarywhile Trump's former press secretary, Sarah Huckabee Sanders, is widely expected to win the Republican primary for Arkansas governor, as earlier indicated by a Remington Research Group poll from last year.",
-    "author": "Ewan Palmer",
-    "title": "Donald Trump Set for Slew of Primary Losses as Midterms Strategy Unravels"
-  },
-  {
-    "id": 7435,
-    "mediaId": 65,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "The most high-profile is former college and pro-football legend <span class='selected-term'>Herschel Walker</span>, who appears poised to easily capture the GOP nomination on his way to battling Democratic Sen. Raphael Warnock in a blockbuster general election showdown that could decide whether Republicans win back the Senate majority.",
-    "author": "",
-    "title": "Trump looms large over Tuesday primaries in Georgia, Alabama, Arkansas, and runoff in Texas"
+    "title": "Primary results 2022: Georgia, Alabama, Arkansas, Texas runoff and Minnesota special election primary results",
+    "sentiment": "0.0"
   },
   {
     "id": 7472,
     "mediaId": 19,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "ET\nThe first votes are showing up in Georgias results, according to the New York Times, in the Senate GOP primary where <span class='selected-term'>Herschel Walker</span> has as expected taken a commanding lead out the gate.",
     "author": "Matthew Boyle",
-    "title": "*** Election Night Livewire *** Georgia, Alabama, Texas, Arkansas, Minnesota Vote in Key Primaries"
+    "title": "*** Election Night Livewire *** Georgia, Alabama, Texas, Arkansas, Minnesota Vote in Key Primaries",
+    "sentiment": "0.0"
   },
   {
-    "id": 7370,
-    "mediaId": 18,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "ATLANTA  Republican Senate nominee <span class='selected-term'>Herschel Walker</span> and U.S. Sen. Raphael Warnock have opened their contest for Senate in Georgia with sharp attacks.",
-    "author": "Associated Press",
-    "title": "Midterm updates | Nguyen in runoff in Democratic SoS primary"
+    "id": 7435,
+    "mediaId": 65,
+    "date": "d2022-05-24T12:38",
+    "sentence": "The most high-profile is former college and pro-football legend <span class='selected-term'>Herschel Walker</span>, who appears poised to easily capture the GOP nomination on his way to battling Democratic Sen. Raphael Warnock in a blockbuster general election showdown that could decide whether Republicans win back the Senate majority.",
+    "author": "",
+    "title": "Trump looms large over Tuesday primaries in Georgia, Alabama, Arkansas, and runoff in Texas",
+    "sentiment": "0.481"
   },
   {
-    "id": 7374,
-    "mediaId": 18,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "ATLANTA  Republican Senate nominee <span class='selected-term'>Herschel Walker</span> and U.S. Sen. Raphael Warnock have opened their contest for Senate in Georgia with sharp attacks.",
-    "author": "Associated Press",
-    "title": "Midterm updates | Raffensperger beats Trump-endorsed Hice"
+    "id": 7430,
+    "mediaId": 136,
+    "date": "d2022-05-24T15:13",
+    "sentence": "In Georgia, former football star <span class='selected-term'>Herschel Walker</span> is the overwhelming favorite to win the GOP Senate primarywhile Trump's former press secretary, Sarah Huckabee Sanders, is widely expected to win the Republican primary for Arkansas governor, as earlier indicated by a Remington Research Group poll from last year.",
+    "author": "Ewan Palmer",
+    "title": "Donald Trump Set for Slew of Primary Losses as Midterms Strategy Unravels",
+    "sentiment": "0.0"
   },
   {
-    "id": 7379,
-    "mediaId": 18,
-    "date": "5/25/2022 12:00:00 AM",
-    "sentence": "ATLANTA  Republican Senate nominee <span class='selected-term'>Herschel Walker</span> and U.S. Sen. Raphael Warnock have opened their contest for Senate in Georgia with sharp attacks.",
-    "author": "Associated Press",
-    "title": "Midterm updates | Jones, Collins in Georgia GOP House runoff"
+    "id": 7416,
+    "mediaId": 195,
+    "date": "d2022-05-24T23:00",
+    "sentence": "Tal Axelrod\n<span class='selected-term'>Herschel Walker</span> clinches GOP Senate nomination in Georgia\n7:58 p.m.\nFormer NFL star Herschel Walker is projected to easily clinch the Republican Senate nomination in Georgia, securing his spot on the ballot to face off against Sen. Raphael Warnock (D-Ga.) in November.",
+    "author": "",
+    "title": "Live coverage: Polls close in Alabama, Texas",
+    "sentiment": "0.891"
+  },
+  {
+    "id": 7412,
+    "mediaId": 233,
+    "date": "d2022-05-24T23:24",
+    "sentence": "Rep. Marjorie Taylor Greenes primary race is also underway, along with the Senate contest between incumbent Rep. Raphael Warnock and football star <span class='selected-term'>Herschel Walker</span>.",
+    "author": "David Jackson",
+    "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
+    "sentiment": "0.0"
   },
   {
     "id": 7380,
     "mediaId": 178,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "His preferred Senate candidate in Georgia, <span class='selected-term'>Herschel Walker</span>, easily won the GOP nomination despite warnings from Walker's Republican competitors about his history of domestic violence and mental health struggles.",
     "author": "STEVE PEOPLES and JEFF AMY Associated Press",
-    "title": "Trump rebuked with stinging losses in Georgia GOP contests"
+    "title": "Trump rebuked with stinging losses in Georgia GOP contests",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7379,
+    "mediaId": 18,
+    "date": "d2022-05-25T00:25",
+    "sentence": "ATLANTA  Republican Senate nominee <span class='selected-term'>Herschel Walker</span> and U.S. Sen. Raphael Warnock have opened their contest for Senate in Georgia with sharp attacks.",
+    "author": "Associated Press",
+    "title": "Midterm updates | Jones, Collins in Georgia GOP House runoff",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7374,
+    "mediaId": 18,
+    "date": "d2022-05-25T01:05",
+    "sentence": "ATLANTA  Republican Senate nominee <span class='selected-term'>Herschel Walker</span> and U.S. Sen. Raphael Warnock have opened their contest for Senate in Georgia with sharp attacks.",
+    "author": "Associated Press",
+    "title": "Midterm updates | Raffensperger beats Trump-endorsed Hice",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7370,
+    "mediaId": 18,
+    "date": "d2022-05-25T02:04",
+    "sentence": "ATLANTA  Republican Senate nominee <span class='selected-term'>Herschel Walker</span> and U.S. Sen. Raphael Warnock have opened their contest for Senate in Georgia with sharp attacks.",
+    "author": "Associated Press",
+    "title": "Midterm updates | Nguyen in runoff in Democratic SoS primary",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8478,
+    "mediaId": 195,
+    "date": "d2022-05-29T13:00",
+    "sentence": "Trumps pick for U.S. Senate in Georgia, <span class='selected-term'>Herschel Walker</span>, easily won his primary on Tuesday, as did other Trump allies including his former press secretary, Sarah Huckabee Sanders, in the Arkansas gubernatorial race.",
+    "author": "",
+    "title": "What 2022s primary results tell us about both parties",
+    "sentiment": "0.772"
   }
 ]

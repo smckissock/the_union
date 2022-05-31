@@ -2,121 +2,190 @@
   {
     "id": 4375,
     "mediaId": 238,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T17:55",
     "sentence": "The Florida law was effective at ginning up attention for that states governor, <span class='selected-term'>Ron DeSantis</span> (R), and the discussion has been accompanied by a backlash against visibility for same-sex couples.",
     "author": "",
-    "title": "American parents are generally fine with whats being taught in school"
+    "title": "American parents are generally fine with whats being taught in school",
+    "sentiment": "0"
+  },
+  {
+    "id": 4375,
+    "mediaId": 238,
+    "date": "d2022-04-29T17:55",
+    "sentence": "The Florida law was effective at ginning up attention for that states governor, <span class='selected-term'>Ron DeSantis</span> (R), and the discussion has been accompanied by a backlash against visibility for same-sex couples.",
+    "author": "",
+    "title": "American parents are generally fine with whats being taught in school",
+    "sentiment": "0.0"
   },
   {
     "id": 4336,
     "mediaId": 238,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T10:00",
     "sentence": "And when youre competing against <span class='selected-term'>Ron DeSantis</span> and Greg Abbott for national Republican attention, shooting hoops isnt going to cut the mustard.?",
     "author": "",
-    "title": "Youngkins move to force Loudoun school board elections called troubling"
+    "title": "Youngkins move to force Loudoun school board elections called troubling",
+    "sentiment": "0.0"
   },
   {
     "id": 4287,
     "mediaId": 129,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T17:55",
     "sentence": "",
     "author": "",
-    "title": "How a Debut Graphic Memoir Became the Most Banned Book in the Country"
+    "title": "How a Debut Graphic Memoir Became the Most Banned Book in the Country",
+    "sentiment": "0.0"
   },
   {
     "id": 4157,
     "mediaId": 239,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Valerie Richardson",
-    "title": "Paging Justice Thomas: Eric Swalwell says Republicans want to ban interracial marriage"
+    "title": "Paging Justice Thomas: Eric Swalwell says Republicans want to ban interracial marriage",
+    "sentiment": "0.0"
   },
   {
     "id": 3937,
     "mediaId": 129,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T09:30",
     "sentence": "",
     "author": "",
-    "title": "The Depp Case Brings Stan Culture Into the Courtroom and More: The Week in Narrated Articles"
+    "title": "The Depp Case Brings Stan Culture Into the Courtroom and More: The Week in Narrated Articles",
+    "sentiment": "0.0"
   },
   {
     "id": 3819,
     "mediaId": 195,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T19:34",
     "sentence": "",
     "author": "Olafimihan Oshin",
-    "title": "DeSantis signs bill establishing Victims of Communism Day"
+    "title": "DeSantis signs bill establishing Victims of Communism Day",
+    "sentiment": "0"
   },
   {
-    "id": 3754,
-    "mediaId": 65,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "Im not looking to kiss anybodys a--  he seems like a decent guy, Im glad he won, but you have to take some cues from <span class='selected-term'>Ron DeSantis</span>, who enforces the law down here in Florida,\" Bongino said.",
-    "author": "",
-    "title": "Bongino calls on Virginia officials to prosecute Alito protesters under 'right to tranquility' law"
-  },
-  {
-    "id": 3756,
-    "mediaId": 238,
-    "date": "5/10/2022 12:00:00 AM",
+    "id": 3819,
+    "mediaId": 195,
+    "date": "d2022-05-09T19:34",
     "sentence": "",
-    "author": "",
-    "title": "Youngkin gets backlash over stance on protests outside Alitos home"
-  },
-  {
-    "id": 3762,
-    "mediaId": 136,
-    "date": "5/10/2022 12:00:00 AM",
-    "sentence": "Aguilar went on to say Youngkin is becoming a \"RINO\" (Republican in name only) and that he asks himself daily what Florida Governor <span class='selected-term'>Ron DeSantis</span> would do.",
-    "author": "Adam Staten",
-    "title": "Ex-Trump Adviser Takes Aim at Glenn Youngkin for SCOTUS Protest Response"
+    "author": "Olafimihan Oshin",
+    "title": "DeSantis signs bill establishing Victims of Communism Day",
+    "sentiment": "0.0"
   },
   {
     "id": 3782,
     "mediaId": 238,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T10:00",
     "sentence": "",
     "author": "",
-    "title": "Va. school board delays vote on telling parents how students self-identify"
+    "title": "Va. school board delays vote on telling parents how students self-identify",
+    "sentiment": "0.0"
   },
   {
-    "id": 3533,
-    "mediaId": 195,
-    "date": "5/16/2022 12:00:00 AM",
+    "id": 3762,
+    "mediaId": 136,
+    "date": "d2022-05-10T16:09",
+    "sentence": "Aguilar went on to say Youngkin is becoming a \"RINO\" (Republican in name only) and that he asks himself daily what Florida Governor <span class='selected-term'>Ron DeSantis</span> would do.",
+    "author": "Adam Staten",
+    "title": "Ex-Trump Adviser Takes Aim at Glenn Youngkin for SCOTUS Protest Response",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3756,
+    "mediaId": 238,
+    "date": "d2022-05-10T21:46",
     "sentence": "",
     "author": "",
-    "title": "DeSantis signs ban on protests in front of homes"
+    "title": "Youngkin gets backlash over stance on protests outside Alitos home",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3754,
+    "mediaId": 65,
+    "date": "d2022-05-10T23:57",
+    "sentence": "Im not looking to kiss anybodys a--  he seems like a decent guy, Im glad he won, but you have to take some cues from <span class='selected-term'>Ron DeSantis</span>, who enforces the law down here in Florida,\" Bongino said.",
+    "author": "",
+    "title": "Bongino calls on Virginia officials to prosecute Alito protesters under 'right to tranquility' law",
+    "sentiment": "0.0"
   },
   {
     "id": 3547,
     "mediaId": 558,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T15:05",
     "sentence": "",
     "author": "",
-    "title": "Ban on protests in front of homes signed by Gov. DeSantis"
+    "title": "Ban on protests in front of homes signed by Gov. DeSantis",
+    "sentiment": "0"
+  },
+  {
+    "id": 3547,
+    "mediaId": 558,
+    "date": "d2022-05-16T15:05",
+    "sentence": "",
+    "author": "",
+    "title": "Ban on protests in front of homes signed by Gov. DeSantis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3533,
+    "mediaId": 195,
+    "date": "d2022-05-16T23:44",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis signs ban on protests in front of homes",
+    "sentiment": "0"
+  },
+  {
+    "id": 3533,
+    "mediaId": 195,
+    "date": "d2022-05-16T23:44",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis signs ban on protests in front of homes",
+    "sentiment": "0.0"
   },
   {
     "id": 3509,
     "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T10:00",
     "sentence": "",
     "author": "Nicole Asbury",
-    "title": "Some Md. parents argue a new health curriculum is unfit for young students"
+    "title": "Some Md. parents argue a new health curriculum is unfit for young students",
+    "sentiment": "0"
   },
   {
-    "id": 7275,
-    "mediaId": 21,
-    "date": "5/22/2022 12:00:00 AM",
+    "id": 3509,
+    "mediaId": 238,
+    "date": "d2022-05-17T10:00",
     "sentence": "",
-    "author": "Yelena Dzhanova",
-    "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice"
+    "author": "Nicole Asbury",
+    "title": "Some Md. parents argue a new health curriculum is unfit for young students",
+    "sentiment": "0.0"
   },
   {
     "id": 7278,
     "mediaId": 648,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T05:00",
     "sentence": "",
     "author": "Andrew Blok",
-    "title": "Should You Go Solar if You Live on the East Coast: What You Want to Know"
+    "title": "Should You Go Solar if You Live on the East Coast: What You Want to Know",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7275,
+    "mediaId": 21,
+    "date": "d2022-05-22T15:00",
+    "sentence": "",
+    "author": "Yelena Dzhanova",
+    "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
+    "sentiment": "0"
+  },
+  {
+    "id": 7275,
+    "mediaId": 21,
+    "date": "d2022-05-22T15:00",
+    "sentence": "",
+    "author": "Yelena Dzhanova",
+    "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
+    "sentiment": "0.0"
   }
 ]

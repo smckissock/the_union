@@ -2,9 +2,19 @@
   {
     "id": 3892,
     "mediaId": 129,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T00:00",
     "sentence": "",
     "author": "",
-    "title": "Teenagers Views of the News"
+    "title": "Teenagers Views of the News",
+    "sentiment": "0"
+  },
+  {
+    "id": 3892,
+    "mediaId": 129,
+    "date": "d2022-05-07T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "Teenagers Views of the News",
+    "sentiment": "0.0"
   }
 ]

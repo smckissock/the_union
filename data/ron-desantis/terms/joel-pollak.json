@@ -2,9 +2,19 @@
   {
     "id": 4261,
     "mediaId": 19,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "You see, what I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is the T-1000.",
     "author": "Joel B. Pollak",
-    "title": "Ron DeSantis: Trevor Noah Lying About My Presence at White House Correspondents Dinner"
+    "title": "Ron DeSantis: Trevor Noah Lying About My Presence at White House Correspondents Dinner",
+    "sentiment": "-0.443"
+  },
+  {
+    "id": 4261,
+    "mediaId": 19,
+    "date": "d2022-05-02T00:00",
+    "sentence": "You see, what I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is the T-1000.",
+    "author": "Joel B. Pollak",
+    "title": "Ron DeSantis: Trevor Noah Lying About My Presence at White House Correspondents Dinner",
+    "sentiment": "0.0"
   }
 ]

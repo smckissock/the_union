@@ -2,33 +2,37 @@
   {
     "id": 2401,
     "mediaId": 323,
-    "date": "1/23/2022 12:00:00 AM",
+    "date": "d2022-01-23T12:00",
     "sentence": "Wisconsin State Treasurer <span class='selected-term'>Sarah Godlewski</span> has said she supports an Elizabeth Warren-style wealth tax.'\n Photo: Amber Arnold/Associated Press\nThree of the four top fundraising Democratic candidates participated in interviews for this story; an aide to Mr. Barnes said he was unavailable over the course of more than a week.",
     "author": "John McCormick",
-    "title": "Wisconsin's Field of Democratic Senate Hopefuls Is Lining Up on Left of Biden"
+    "title": "Wisconsin's Field of Democratic Senate Hopefuls Is Lining Up on Left of Biden",
+    "sentiment": "0"
   },
   {
     "id": 59,
     "mediaId": 195,
-    "date": "2/6/2022 12:00:00 AM",
+    "date": "d2022-02-06T15:30",
     "sentence": "Two other contenders who can put their own money into the contest are state treasurer <span class='selected-term'>Sarah Godlewski</span>, supported by women's groups, and Alex Lasry, whose family owns the Milwaukee Bucks professional basketball team.",
     "author": "Albert Hunt",
-    "title": "Midterm primaries might be critical to balance of the Senate"
+    "title": "Midterm primaries might be critical to balance of the Senate",
+    "sentiment": "0.0"
   },
   {
     "id": 2390,
     "mediaId": 238,
-    "date": "2/7/2022 12:00:00 AM",
+    "date": "d2022-02-07T00:00",
     "sentence": "Democrats have plenty of options, including Milwaukee Bucks executive Alex Lasry and State Treasurer <span class='selected-term'>Sarah Godlewski</span>, who has made her appeal in rural areas a key argument for her campaign.",
     "author": "",
-    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race"
+    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2301,
     "mediaId": 367,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "Mandela Barnes was the choice of 19% while Milwaukee Bucks executive Alex Lasry was at 16%, with state Treasurer <span class='selected-term'>Sarah Godlewski</span> at 7% and Outagamie County Executive Tom Nelson at 5%.",
     "author": "Bill Glauber",
-    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution"
+    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution",
+    "sentiment": "0.0"
   }
 ]

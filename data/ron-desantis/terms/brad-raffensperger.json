@@ -2,9 +2,37 @@
   {
     "id": 7345,
     "mediaId": 1576,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "",
     "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win"
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8391,
+    "mediaId": 136,
+    "date": "d2022-05-28T10:00",
+    "sentence": "However, the Wyoming lawmakerwith just 7 percent supporttrailed Trump (47 percent) and Florida Governor <span class='selected-term'>Ron DeSantis</span> (20 percent) among likely Republican voters.",
+    "author": "Jason Lemon",
+    "title": "Liz Cheney's Chances of Beating Trump-Backed Harriet Hageman in Wyoming",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8491,
+    "mediaId": 238,
+    "date": "d2022-05-28T15:23",
+    "sentence": "",
+    "author": "Dan Balz",
+    "title": "Trump is trapped in the past, and its hurting him with GOP voters",
+    "sentiment": "0"
+  },
+  {
+    "id": 8491,
+    "mediaId": 238,
+    "date": "d2022-05-28T15:23",
+    "sentence": "",
+    "author": "Dan Balz",
+    "title": "Trump is trapped in the past, and its hurting him with GOP voters",
+    "sentiment": "0.0"
   }
 ]

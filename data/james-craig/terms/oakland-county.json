@@ -2,41 +2,55 @@
   {
     "id": 1006,
     "mediaId": 261,
-    "date": "1/27/2022 12:00:00 AM",
+    "date": "d2022-01-27T19:49",
     "sentence": "More:Gretchen Whitmer opens small lead over <span class='selected-term'>James Craig</span>, new poll of race for governor shows\nJohnson was not available for comment Thursday, Yob said.",
     "author": "Paul Egan",
-    "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor"
+    "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor",
+    "sentiment": "0.0"
   },
   {
     "id": 917,
     "mediaId": 157,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T00:00",
     "sentence": "There are 12 Republicans running for the GOP nomination in the August primary, including chiropractor Garrett Soldano, right-wing commentator Tudor Dixon, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businessman Perry Johnson and businessman Kevin Rinke.",
     "author": "Allison R. Donahue",
-    "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case"
+    "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case",
+    "sentiment": "0.0"
   },
   {
     "id": 881,
     "mediaId": 261,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T12:14",
     "sentence": "The challenges against former Detroit Police Chief <span class='selected-term'>James Craig</span>, conservative commentator Tudor Dixon and Oakland County businessman Perry Johnson could threaten their candidacies if successful.",
     "author": "Clara Hendrickson",
-    "title": "Michigan GOP candidates hoping to unseat Whitmer face challenges to nominating petitions"
+    "title": "Michigan GOP candidates hoping to unseat Whitmer face challenges to nominating petitions",
+    "sentiment": "0.0"
   },
   {
     "id": 3296,
     "mediaId": 261,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T18:19",
     "sentence": "More:<span class='selected-term'>James Craig</span> splits with handlers who shielded him from media in race for Michigan governor\nBrewer has alleged a group of signature collectors used a \"round-robin\" technique to fill out each other's petitions using forged names from a list of legitimate voters.",
     "author": "Paul Egan",
-    "title": "James Craig acknowledges possible fraud in signature gathering for his petition"
+    "title": "James Craig acknowledges possible fraud in signature gathering for his petition",
+    "sentiment": "0.0"
   },
   {
     "id": 3454,
     "mediaId": 261,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T23:30",
     "sentence": "Based on a poll the business group conducted of support for the 10 candidates who have submitted petition signatures to get on the primary ballot, the chamber invited former Detroit Police Chief <span class='selected-term'>James Craig</span>, Oakland County businessman Perry Johnson, Kelley, Oakland County businessman Kevin Rinke, and Kalamazoo chiropractor Garrett Soldano to participate in the June 2 debate.",
     "author": "Paul Egan",
-    "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements"
+    "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
+    "sentiment": "0"
+  },
+  {
+    "id": 8432,
+    "mediaId": 261,
+    "date": "d2022-05-29T02:39",
+    "sentence": "Front-running gubernatorial candidate and former Detroit Police Chief <span class='selected-term'>James Craig</span> filed a lawsuit Saturday challenging the action of the Michigan Board of State Canvassers that took him off of the August primary ballot.",
+    "author": "Paul Egan",
+    "title": "Former Detroit Police Chief James Craig files lawsuit over removal from August ballot",
+    "sentiment": "-0.94"
   }
 ]

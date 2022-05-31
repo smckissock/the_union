@@ -2,17 +2,19 @@
   {
     "id": 8210,
     "mediaId": 43,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T00:00",
     "sentence": "Warnock soaring to the lead in fundraising over GOP opponent, Trump lapdog <span class='selected-term'>Herschel Walker</span>",
     "author": "Rebekah Sager",
-    "title": "of She Will Rise says 'it's beyond time' we have the first Black woman on SCOTUS"
+    "title": "of She Will Rise says 'it's beyond time' we have the first Black woman on SCOTUS",
+    "sentiment": "0.0"
   },
   {
     "id": 7450,
     "mediaId": 157,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "NOW WATCH: <span class='selected-term'>Herschel Walker</span> argues with reporter Trump 'never said' election was stolen\nHerschel Walker argues with reporter Trump 'never said' election was stolen",
     "author": "Amanda Marcotte",
-    "title": "Amber Heard on trial: Johnny Depp's defamation case is radicalizing young men"
+    "title": "Amber Heard on trial: Johnny Depp's defamation case is radicalizing young men",
+    "sentiment": "0.0"
   }
 ]

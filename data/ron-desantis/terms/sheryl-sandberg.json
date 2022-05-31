@@ -2,33 +2,46 @@
   {
     "id": 4103,
     "mediaId": 32,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T21:28:35",
     "sentence": "",
     "author": "Melissa Repko,Lauren Feiner",
-    "title": "Major companies, including Disney and Walmart, keep largely silent as leaked Supreme Court abortion draft sparks outrage"
-  },
-  {
-    "id": 4079,
-    "mediaId": 124,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Yelp and Meta's Sandberg respond to draft opinion that would strike down Roe v. Wade"
+    "title": "Major companies, including Disney and Walmart, keep largely silent as leaked Supreme Court abortion draft sparks outrage",
+    "sentiment": "0.0"
   },
   {
     "id": 4087,
     "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Abortion Is a Business Issue"
+    "title": "Abortion Is a Business Issue",
+    "sentiment": "0"
+  },
+  {
+    "id": 4087,
+    "mediaId": 129,
+    "date": "d2022-05-04T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "Abortion Is a Business Issue",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4079,
+    "mediaId": 124,
+    "date": "d2022-05-04T00:39:44",
+    "sentence": "",
+    "author": "",
+    "title": "Yelp and Meta's Sandberg respond to draft opinion that would strike down Roe v. Wade",
+    "sentiment": "0.0"
   },
   {
     "id": 3951,
     "mediaId": 1576,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "",
-    "title": "Delta, other major companies stay mum on thorny abortion issue  for now"
+    "title": "Delta, other major companies stay mum on thorny abortion issue  for now",
+    "sentiment": "0.0"
   }
 ]

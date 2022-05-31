@@ -2,73 +2,127 @@
   {
     "id": 5582,
     "mediaId": 129,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "",
-    "title": "Hard-Liners Gain in Pennsylvania G.O.P. Races, Worrying Both Parties"
+    "title": "Hard-Liners Gain in Pennsylvania G.O.P. Races, Worrying Both Parties",
+    "sentiment": "0"
+  },
+  {
+    "id": 3326,
+    "mediaId": 157,
+    "date": "d2022-05-13T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "Another extreme wing of the Republican Party is emerging  and it's not all Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 5541,
+    "mediaId": 323,
+    "date": "d2022-05-14T13:00",
+    "sentence": "",
+    "author": "John McCormick",
+    "title": "Kathy Barnette Scrambles Pennsylvania GOP Senate Primary, Drawing Trump Ire",
+    "sentiment": "0"
   },
   {
     "id": 3422,
     "mediaId": 129,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T13:29:38",
     "sentence": "",
     "author": "",
-    "title": "A Republican megadonor scrambled to stop Doug Mastriano in the Pennsylvania governor's race."
-  },
-  {
-    "id": 3409,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries"
-  },
-  {
-    "id": 3410,
-    "mediaId": 129,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries"
+    "title": "A Republican megadonor scrambled to stop Doug Mastriano in the Pennsylvania governor's race.",
+    "sentiment": "0"
   },
   {
     "id": 5509,
     "mediaId": 19,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Matthew Boyle",
-    "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries"
+    "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries",
+    "sentiment": "0"
   },
   {
-    "id": 5468,
-    "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
+    "id": 3409,
+    "mediaId": 129,
+    "date": "d2022-05-17T09:04:42",
     "sentence": "",
-    "author": "Keith Naughton",
-    "title": "Kasich Effect propping up Trump, but for how long?"
+    "author": "",
+    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 3410,
+    "mediaId": 129,
+    "date": "d2022-05-17T09:04:42",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
+    "sentiment": "0"
   },
   {
     "id": 5476,
     "mediaId": 238,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "",
     "author": "Aaron Blake",
-    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more"
+    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
+    "sentiment": "0"
+  },
+  {
+    "id": 5468,
+    "mediaId": 195,
+    "date": "d2022-05-18T13:45",
+    "sentence": "",
+    "author": "Keith Naughton",
+    "title": "Kasich Effect propping up Trump, but for how long?",
+    "sentiment": "0"
   },
   {
     "id": 6610,
     "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T23:17",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Primaries fuel questions about potency of Trump endorsements"
+    "title": "Primaries fuel questions about potency of Trump endorsements",
+    "sentiment": "0"
   },
   {
     "id": 5458,
     "mediaId": 195,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T09:21",
     "sentence": "",
     "author": "",
-    "title": "GOP lawmakers say primaries show Trumps firm grip on party"
+    "title": "GOP lawmakers say primaries show Trumps firm grip on party",
+    "sentiment": "0"
+  },
+  {
+    "id": 7210,
+    "mediaId": 19,
+    "date": "d2022-05-22T00:00",
+    "sentence": "",
+    "author": "Nick Gilbertson",
+    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia",
+    "sentiment": "0"
+  },
+  {
+    "id": 7229,
+    "mediaId": 129,
+    "date": "d2022-05-22T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "My Lunch With President Biden",
+    "sentiment": "0"
+  },
+  {
+    "id": 7205,
+    "mediaId": 18,
+    "date": "d2022-05-22T00:38",
+    "sentence": "",
+    "author": "Douglas Schoen",
+    "title": "Schoen: It's still Donald Trump's Republican party",
+    "sentiment": "0"
   }
 ]

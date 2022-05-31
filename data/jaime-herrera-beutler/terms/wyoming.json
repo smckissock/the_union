@@ -2,41 +2,37 @@
   {
     "id": 690,
     "mediaId": 129,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "Joe Kent, a Trump-backed Army Special Forces veteran prolific on social media and conservative talk shows, appeared to come closer to matching the fund-raising totals of his opponent, Representative <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, but still trailed her in both quarterly hauls and cash on hand.",
     "author": "",
-    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals"
+    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
+    "sentiment": "0.0"
   },
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T21:13",
     "sentence": "Republican women's group Maggie's List has thrown its support behind Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) as part of its latest round of endorsements first obtained by The Hill on Wednesday.",
     "author": "Julia Manchester",
-    "title": "GOP women's group endorses Herrera Beutler in primary race"
-  },
-  {
-    "id": 2243,
-    "mediaId": 593,
-    "date": "2/14/2022 12:00:00 AM",
-    "sentence": "\"We need to have a full immigration moratorium,\" said Trump-endorsed Joe Kent, an Army veteran running in a Washington state primary against U.S. Representative <span class='selected-term'>Jaime Herrera Beutler</span>.",
-    "author": "Ted Hesson and Alexandra Ulmer",
-    "title": "U.S. Republicans Try To Out-Trump Each Other With Tough Border Rhetoric Ahead Of Election"
+    "title": "GOP women's group endorses Herrera Beutler in primary race",
+    "sentiment": "0.154"
   },
   {
     "id": 57,
     "mediaId": 238,
-    "date": "2/17/2022 12:00:00 AM",
+    "date": "d2022-02-17T00:00",
     "sentence": "Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) has also drawn a Trump-backed challenger, political neophyte Joe Kent.",
     "author": "",
-    "title": "Opinion: Republicans who voted to impeach Trump might be in less peril than people think"
+    "title": "Opinion: Republicans who voted to impeach Trump might be in less peril than people think",
+    "sentiment": "-0.232"
   },
   {
     "id": 9,
     "mediaId": 43,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "Next up is southern Washington's 3rd District, where incumbent <span class='selected-term'>Jaime Herrera Beutler</span> took in $602,000 and finished with just over $2 million.",
     "author": "",
-    "title": "House Republicans all lead their challengers in recent fundraising"
+    "title": "House Republicans all lead their challengers in recent fundraising",
+    "sentiment": "0.0"
   }
 ]

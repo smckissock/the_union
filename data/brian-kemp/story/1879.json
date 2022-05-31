@@ -1,10 +1,11 @@
 {
   "id": 1879,
   "mediaId": 237,
-  "date": "4/28/2022 12:00:00 AM",
+  "date": "d2022-04-28T16:06",
   "headline": "Brian Kemp's campaign fundraising suspended until after GOP primary, judge rules",
   "image": "https://mediadc.brightspotcdn.com/dims4/default/e559849/2147483647/strip/true/crop/1024x538+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fc3%2F56%2F347e2641494784c0f6d0b7631a61%2Fap22115063366638.jpg",
   "link": "https://www.washingtonexaminer.com/news/campaigns/brian-kemps-campaign-fundraising-suspended-until-after-gop-primary-judge-rules",
+  "sentiment": "-0.624",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -12,7 +13,6 @@
   "authorUrl": "https://www.washingtonexaminer.com/author/cami-mondeaux",
   "termIds": [
     861,
-    1646,
     1951,
     2095,
     4325,

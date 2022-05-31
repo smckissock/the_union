@@ -2,121 +2,145 @@
   {
     "id": 6422,
     "mediaId": 129,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T22:19",
     "sentence": "",
     "author": "Neil Vigdor",
-    "title": "Mark Zuckerberg Ends Election Grants"
+    "title": "Mark Zuckerberg Ends Election Grants",
+    "sentiment": "0"
   },
   {
     "id": 6247,
     "mediaId": 209,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "",
     "author": "Samuel Goldman",
-    "title": "The new right isn't conservative. They don't want to be."
+    "title": "The new right isn't conservative. They don't want to be.",
+    "sentiment": "0"
   },
   {
     "id": 6168,
     "mediaId": 147,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T21:40",
     "sentence": "",
     "author": "",
-    "title": "News Wrap: Thousands of acres still burning due to Western wildfires"
+    "title": "News Wrap: Thousands of acres still burning due to Western wildfires",
+    "sentiment": "0"
   },
   {
     "id": 6157,
     "mediaId": 151,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T13:01",
     "sentence": "",
     "author": "",
-    "title": "Hawley endorses Thiel-backed Arizona Senate candidate"
+    "title": "Hawley endorses Thiel-backed Arizona Senate candidate",
+    "sentiment": "0.859"
   },
   {
     "id": 6016,
     "mediaId": 151,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T08:30",
     "sentence": "",
     "author": "",
-    "title": "Arizona GOP Senate frontrunner loses lead amid air assault"
+    "title": "Arizona GOP Senate frontrunner loses lead amid air assault",
+    "sentiment": "0"
   },
   {
     "id": 5874,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "NATOs Barking at Russias Gate: Pope Francis Partially Blames West for War in Ukraine"
+    "title": "NATOs Barking at Russias Gate: Pope Francis Partially Blames West for War in Ukraine",
+    "sentiment": "0"
   },
   {
     "id": 5885,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Philadelphia Police Officer Charged with Murder for Fatally Shooting 12-Year-Old Boy"
+    "title": "Philadelphia Police Officer Charged with Murder for Fatally Shooting 12-Year-Old Boy",
+    "sentiment": "0"
   },
   {
     "id": 5892,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Military in Belarus Begins Large-Scale Military Drills to Test Combat Readiness"
+    "title": "Military in Belarus Begins Large-Scale Military Drills to Test Combat Readiness",
+    "sentiment": "0"
   },
   {
     "id": 4022,
     "mediaId": 157,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Travis Gettys",
-    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'"
-  },
-  {
-    "id": 5723,
-    "mediaId": 558,
-    "date": "5/5/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Andrew Romano",
-    "title": "Is hard-right Arizona Senate hopeful Blake Masters the next J.D. Vance?"
+    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
+    "sentiment": "0"
   },
   {
     "id": 5745,
     "mediaId": 129,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "In Arizona, a Swing State Swings to the Far Right"
+    "title": "In Arizona, a Swing State Swings to the Far Right",
+    "sentiment": "0.665"
+  },
+  {
+    "id": 5723,
+    "mediaId": 558,
+    "date": "d2022-05-05T11:26",
+    "sentence": "",
+    "author": "Andrew Romano",
+    "title": "Is hard-right Arizona Senate hopeful Blake Masters the next J.D. Vance?",
+    "sentiment": "0.949"
   },
   {
     "id": 5563,
     "mediaId": 19,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T00:00",
     "sentence": "",
     "author": "Ethan Letkeman",
-    "title": "NBC Correspondent Lies in Hit Piece Attempt on Arizona GOP Senate Candidate Blake Masters"
+    "title": "NBC Correspondent Lies in Hit Piece Attempt on Arizona GOP Senate Candidate Blake Masters",
+    "sentiment": "0"
   },
   {
     "id": 3307,
     "mediaId": 233,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T13:16",
     "sentence": "",
     "author": "Ella Lee",
-    "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp"
+    "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp",
+    "sentiment": "0"
   },
   {
     "id": 4489,
     "mediaId": 157,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Travis Gettys",
-    "title": "'McConnell's worst nightmare': Morning Joe says Trump's 'bonkers' base is pushing for unelectable candidates"
+    "title": "'McConnell's worst nightmare': Morning Joe says Trump's 'bonkers' base is pushing for unelectable candidates",
+    "sentiment": "0.567"
   },
   {
     "id": 6605,
     "mediaId": 33,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T00:00",
     "sentence": "",
     "author": "Gabby Orr",
-    "title": "Trump may hold off on more endorsements for coming primaries, advisers say"
+    "title": "Trump may hold off on more endorsements for coming primaries, advisers say",
+    "sentiment": "0"
+  },
+  {
+    "id": 8404,
+    "mediaId": 376,
+    "date": "d2022-05-26T14:30",
+    "sentence": "",
+    "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
+    "title": "At the Races: Divisions on display",
+    "sentiment": "0"
   }
 ]

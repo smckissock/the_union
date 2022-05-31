@@ -2,9 +2,28 @@
   {
     "id": 3463,
     "mediaId": 136,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T10:00",
     "sentence": "In response to HHS's document, <span class='selected-term'>Ron DeSantis</span>' Florida Department of Health issued guidance of its own clarifying the \"evidence\" HHS/OPA cited.",
     "author": "",
-    "title": "HHS Guidance on Trans Pharmacology Raises More Questions Than It Answers | Opinion"
+    "title": "HHS Guidance on Trans Pharmacology Raises More Questions Than It Answers | Opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 3463,
+    "mediaId": 136,
+    "date": "d2022-05-19T10:00",
+    "sentence": "In response to HHS's document, <span class='selected-term'>Ron DeSantis</span>' Florida Department of Health issued guidance of its own clarifying the \"evidence\" HHS/OPA cited.",
+    "author": "",
+    "title": "HHS Guidance on Trans Pharmacology Raises More Questions Than It Answers | Opinion",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8547,
+    "mediaId": 129,
+    "date": "d2022-05-27T10:09:42",
+    "sentence": "",
+    "author": "",
+    "title": "The White House pushes to get Paxlovid pills into more Covid patients' hands.",
+    "sentiment": "0.0"
   }
 ]

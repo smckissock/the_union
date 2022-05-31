@@ -2,33 +2,37 @@
   {
     "id": 984,
     "mediaId": 43,
-    "date": "2/11/2022 12:00:00 AM",
+    "date": "d2022-02-11T00:00",
     "sentence": "A few other Republicans are already running who could cost Culp some badly needed anti-Newhouse votes on the right, and one of them, businessman <span class='selected-term'>Jerrod Sessler</span>, actually had far more money at the end of 2021 than Culp.",
     "author": "",
-    "title": "who refuses to accept his own 2020 defeat"
+    "title": "who refuses to accept his own 2020 defeat",
+    "sentiment": "0.0"
   },
   {
     "id": 2272,
     "mediaId": 157,
-    "date": "4/9/2022 12:00:00 AM",
+    "date": "d2022-04-09T00:00",
     "sentence": "",
     "author": "Bob Brigham",
-    "title": "'Twisted Sister' represents 'traditional, conservative' values: GOP candidate"
+    "title": "'Twisted Sister' represents 'traditional, conservative' values: GOP candidate",
+    "sentiment": "0"
   },
   {
     "id": 2217,
     "mediaId": 376,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T15:02",
     "sentence": "Businessman/Navy veteran/former NASCAR driver <span class='selected-term'>Jerrod Sessler</span>, state Rep. Brad Klippert and other Republicans are running as well.",
     "author": "",
-    "title": "New lines, interesting races in Washington state"
+    "title": "New lines, interesting races in Washington state",
+    "sentiment": "0.0"
   },
   {
     "id": 9,
     "mediaId": 43,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "The GOP field also includes businessman <span class='selected-term'>Jerrod Sessler</span>, who raised only $9,000 but finished last month with $147,000 in the bank, and state Rep. Brad Klippert, who had all of $5,000 available.",
     "author": "",
-    "title": "House Republicans all lead their challengers in recent fundraising"
+    "title": "House Republicans all lead their challengers in recent fundraising",
+    "sentiment": "0.0"
   }
 ]

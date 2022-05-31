@@ -2,49 +2,73 @@
   {
     "id": 1000,
     "mediaId": 237,
-    "date": "2/1/2022 12:00:00 AM",
+    "date": "d2022-02-01T15:47",
     "sentence": "But <span class='selected-term'>James Craig</span>, the former chief of Detroit police, has raised the most money from supporters and is currently seen as the front-runner in the Republican race.",
     "author": "Kate Scanlon",
-    "title": "Republican candidate for Michigan governor sparks abortion controversy"
+    "title": "Republican candidate for Michigan governor sparks abortion controversy",
+    "sentiment": "0.0"
   },
   {
     "id": 877,
     "mediaId": 124,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T23:11:38",
     "sentence": "In a trio of complaints filed this week, attorneys working with the state Democratic Party said they found problems with the nominating petitions filed by former Detroit police chief <span class='selected-term'>James Craig</span>, businessman Perry Johnson and conservative commentator Tudor Dixon  enough to disqualify all three from the Aug. 2 primary, they argue.",
     "author": "",
-    "title": "Michigan Democrats accuse GOP candidates of using forged signatures to get on ballot"
+    "title": "Michigan Democrats accuse GOP candidates of using forged signatures to get on ballot",
+    "sentiment": "-0.919"
   },
   {
     "id": 3296,
     "mediaId": 261,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T18:19",
     "sentence": "More:<span class='selected-term'>James Craig</span> splits with handlers who shielded him from media in race for Michigan governor\nBrewer has alleged a group of signature collectors used a \"round-robin\" technique to fill out each other's petitions using forged names from a list of legitimate voters.",
     "author": "Paul Egan",
-    "title": "James Craig acknowledges possible fraud in signature gathering for his petition"
+    "title": "James Craig acknowledges possible fraud in signature gathering for his petition",
+    "sentiment": "0.0"
   },
   {
     "id": 7301,
     "mediaId": 98,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T22:03",
     "sentence": "The recommendations immediately transformed the race in the battleground state and dealt a major blow to former Detroit Police Chief <span class='selected-term'>James Craig</span>, who has led in polling despite campaign problems, and businessman Perry Johnson, who has spent millions of his own money to run.",
     "author": "DAVID EGGERT",
-    "title": "Primary problem: Michigan GOP governor candidates short signatures"
-  },
-  {
-    "id": 7300,
-    "mediaId": 261,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "LANSING  Former Detroit Police Chief <span class='selected-term'>James Craig</span>, once the consensus front-runner in the Republican race for governor, has not filed enough valid signatures to make the August primary ballot, according to a report released late Monday by the Bureau of Elections.",
-    "author": "Paul Egan",
-    "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot"
+    "title": "Primary problem: Michigan GOP governor candidates short signatures",
+    "sentiment": "-0.881"
   },
   {
     "id": 7473,
     "mediaId": 157,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "Brown, as well as financial adviser Michael Markey, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businesswoman Donna Brandenburg and self-described quality guru Perry Johnson, all had signatures that the bureau recommended to be deemed insufficient as many were fraudulent.",
     "author": "",
-    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race"
+    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
+    "sentiment": "-0.403"
+  },
+  {
+    "id": 7300,
+    "mediaId": 261,
+    "date": "d2022-05-24T02:09",
+    "sentence": "LANSING  Former Detroit Police Chief <span class='selected-term'>James Craig</span>, once the consensus front-runner in the Republican race for governor, has not filed enough valid signatures to make the August primary ballot, according to a report released late Monday by the Bureau of Elections.",
+    "author": "Paul Egan",
+    "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8435,
+    "mediaId": 157,
+    "date": "d2022-05-28T00:00",
+    "sentence": "The Michigan Bureau of Elections released a report on Monday recommending that leading Republican gubernatorial candidates <span class='selected-term'>James Craig</span> and Perry Johnson, as well as three others, be disqualified from the ballot after submitting too many fake petition signatures.",
+    "author": "Igor Derysh",
+    "title": "GOP election lawyer accuses Michigan Republicans of 'despicable abuse'",
+    "sentiment": "0"
+  },
+  {
+    "id": 8433,
+    "mediaId": 169,
+    "date": "d2022-05-28T07:00",
+    "sentence": "The Michigan Bureau of Elections released a report on Monday recommending that leading Republican gubernatorial candidates <span class='selected-term'>James Craig</span> and Perry Johnson, as well as three others, be disqualified from the ballot after submitting too many fake petition signatures.",
+    "author": "Igor Derysh",
+    "title": "Embarrassing: Even Republicans fume at Michigan GOP for defending candidates busted for fraud",
+    "sentiment": "0"
   }
 ]

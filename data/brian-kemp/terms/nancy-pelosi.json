@@ -2,57 +2,73 @@
   {
     "id": 5446,
     "mediaId": 223,
-    "date": "3/28/2022 12:00:00 AM",
+    "date": "d2022-03-28T00:01",
     "sentence": "American democracy is under attack right now  perhaps nowhere more so than in Georgia, where Governor <span class='selected-term'>Brian Kemp</span> is doing everything he can to make it harder for Georgians to vote  especially people of color.",
     "author": "Derek Hunter",
-    "title": "Stacey Abrams Is Displeased"
+    "title": "Stacey Abrams Is Displeased",
+    "sentiment": "0.0"
   },
   {
     "id": 5044,
     "mediaId": 157,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "NOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Matthew Chapman",
-    "title": "'Shoes dropping like hail': Here's how Jan 6 committee's 'bombshells' have gone off even before the final report"
+    "title": "'Shoes dropping like hail': Here's how Jan 6 committee's 'bombshells' have gone off even before the final report",
+    "sentiment": "-0.71"
   },
   {
     "id": 5047,
     "mediaId": 157,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene\nWatrous said that after sitting on the steps for approximately 15 minutes, he walked away and met a woman who had a YouTube channel whom he told he had gone inside and there wasnt much to see.? The woman wanted to go inside the Capitol and Watrous stated he reentered the Capitol with her.?\nPerhaps sealing Watrous fate was this interchange with the judge, as reported by Syracuse.com:\nWatrous, who was seeking probation rather than jail, told Howell that he was 100% on the side of Capitol Police,? according to MacFarlane.",
     "author": "Ray Hartmann",
-    "title": "Capitol rioter gets smacked down by judge after claiming he was not 'part of that mob'"
+    "title": "Capitol rioter gets smacked down by judge after claiming he was not 'part of that mob'",
+    "sentiment": "-0.796"
   },
   {
     "id": 3305,
     "mediaId": 195,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T16:34",
     "sentence": "",
     "author": "Cate Martel",
-    "title": "The Hill's 12:30 Report  Elon Musk's Twitter deal hits snag"
+    "title": "The Hill's 12:30 Report  Elon Musk's Twitter deal hits snag",
+    "sentiment": "0"
   },
   {
     "id": 3392,
     "mediaId": 238,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "",
     "author": "Olivier Knox",
-    "title": "Progressives (mostly) line up behind Bidens Ukraine policy"
+    "title": "Progressives (mostly) line up behind Bidens Ukraine policy",
+    "sentiment": "0.0"
   },
   {
     "id": 7438,
     "mediaId": 238,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T10:42",
     "sentence": "Today, Republican voters in Georgia will decide a marquee primary contest for governor between incumbent <span class='selected-term'>Brian Kemp</span> and former U.S. senator David Perdue, an election that could be a big setback for former president Donald Trump as he tries to play GOP kingmaker.",
     "author": "Mariana Alfaro",
-    "title": "Primary elections live updates Big races are on the ballot in Georgia, Alabama, Arkansas and Texas"
+    "title": "Primary elections live updates Big races are on the ballot in Georgia, Alabama, Arkansas and Texas",
+    "sentiment": "0.0"
   },
   {
     "id": 7369,
     "mediaId": 65,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T02:28",
     "sentence": "And on the eve of the Peach State's primary  with Trump backing Kemp challenger former Sen. David Perdue  the former president took aim at the governor one last time before voters headed to the polls\n\"<span class='selected-term'>Brian Kemp</span> is truly an embarrassment to the Republican Party because of what's taken place in your great state, Georgia,\" Trump charged during a tele-rally Monday evening on behalf of Perdue.",
     "author": "Tyler Olson",
-    "title": "Primary elections in Georgia, Alabama, runoff in Texas"
+    "title": "Primary elections in Georgia, Alabama, runoff in Texas",
+    "sentiment": "0.232"
+  },
+  {
+    "id": 8399,
+    "mediaId": 151,
+    "date": "d2022-05-27T08:31",
+    "sentence": "",
+    "author": "",
+    "title": "As Cheney files for reelection, poll from rival group shows her trailing badly",
+    "sentiment": "0"
   }
 ]

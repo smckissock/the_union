@@ -1,26 +1,20 @@
 [
   {
-    "id": 5261,
-    "mediaId": 593,
-    "date": "4/7/2022 12:00:00 AM",
-    "sentence": "The measure is headed to the desk of Governor <span class='selected-term'>Brian Kemp</span>, a Republican.",
-    "author": "Maria Caspani",
-    "title": "Factbox-The Onslaught Of U.S. Laws Targeting Transgender Youth"
-  },
-  {
     "id": 5204,
     "mediaId": 43,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "",
     "author": "Rebekah Sager",
-    "title": "Texas conservatives have gone rogue, paying Big Lie lackeys to investigate citizens for voter fraud"
+    "title": "Texas conservatives have gone rogue, paying Big Lie lackeys to investigate citizens for voter fraud",
+    "sentiment": "0.0"
   },
   {
     "id": 4658,
     "mediaId": 409,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T15:21",
     "sentence": "In Georgia, the legislature passed a bill delegating authority to the GHSA to implement policies on transgender athletes, with Governor <span class='selected-term'>Brian Kemp</span> signing the bill last week.",
     "author": "Zachary Evans",
-    "title": "Georgia School Athletics Group Bars Male Students from Girls Sports"
+    "title": "Georgia School Athletics Group Bars Male Students from Girls Sports",
+    "sentiment": "0.0"
   }
 ]

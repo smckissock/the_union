@@ -2,9 +2,19 @@
   {
     "id": 3846,
     "mediaId": 188,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T00:00",
     "sentence": "That is a mere glimpse into the heart and mind of nearly every GOP governor aside from Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Daniel Horowitz",
-    "title": "Horowitz: Tennessee governor opposes bill making murderers serve full sentences"
+    "title": "Horowitz: Tennessee governor opposes bill making murderers serve full sentences",
+    "sentiment": "0"
+  },
+  {
+    "id": 3846,
+    "mediaId": 188,
+    "date": "d2022-05-09T00:00",
+    "sentence": "That is a mere glimpse into the heart and mind of nearly every GOP governor aside from Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Daniel Horowitz",
+    "title": "Horowitz: Tennessee governor opposes bill making murderers serve full sentences",
+    "sentiment": "0.0"
   }
 ]

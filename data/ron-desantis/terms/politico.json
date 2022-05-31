@@ -2,73 +2,100 @@
   {
     "id": 6173,
     "mediaId": 151,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T15:24",
     "sentence": "",
     "author": "",
-    "title": "POLITICO Playbook: Remembering Orrin Hatch"
+    "title": "POLITICO Playbook: Remembering Orrin Hatch",
+    "sentiment": "0.0"
   },
   {
     "id": 4408,
     "mediaId": 151,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T13:03",
     "sentence": "",
     "author": "",
-    "title": "The fall of the White House correspondent"
+    "title": "The fall of the White House correspondent",
+    "sentiment": "0.0"
   },
   {
     "id": 4329,
     "mediaId": 223,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T17:50",
     "sentence": "",
     "author": "Rebecca Downs",
-    "title": "Buried in POLITICO Report is Mention of How Biography on Jill Biden Fared, and the Numbers Are Catastrophic"
+    "title": "Buried in POLITICO Report is Mention of How Biography on Jill Biden Fared, and the Numbers Are Catastrophic",
+    "sentiment": "0.0"
   },
   {
     "id": 4249,
     "mediaId": 19,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "Katherine Hamilton",
-    "title": "Report: Fearful Pro-Abortion Groups Dump $150M Into Competitive Midterm Races"
+    "title": "Report: Fearful Pro-Abortion Groups Dump $150M Into Competitive Midterm Races",
+    "sentiment": "0.0"
   },
   {
     "id": 4158,
     "mediaId": 25,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Melissa Quinn",
-    "title": "Leaked draft opinion suggests Supreme Court may overturn Roe v. Wade"
+    "title": "Leaked draft opinion suggests Supreme Court may overturn Roe v. Wade",
+    "sentiment": "0.0"
   },
   {
     "id": 4163,
     "mediaId": 25,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "Melissa Quinn",
-    "title": "Leaked draft opinion suggests Supreme Court may overturn Roe v. Wade"
+    "title": "Leaked draft opinion suggests Supreme Court may overturn Roe v. Wade",
+    "sentiment": "0.0"
   },
   {
     "id": 3938,
     "mediaId": 151,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T09:00",
     "sentence": "Whereas when it comes to to gay rights, I mean, right now in Florida, we have the Dont Say Gay? issue, the law that is being passed by <span class='selected-term'>Ron DeSantis</span> and the Republicans there.",
     "author": "",
-    "title": "Lifting the curtain on SCOTUS with a POLITICO reporter who broke the Roe story"
+    "title": "Lifting the curtain on SCOTUS with a POLITICO reporter who broke the Roe story",
+    "sentiment": "0"
+  },
+  {
+    "id": 3938,
+    "mediaId": 151,
+    "date": "d2022-05-06T09:00",
+    "sentence": "Whereas when it comes to to gay rights, I mean, right now in Florida, we have the Dont Say Gay? issue, the law that is being passed by <span class='selected-term'>Ron DeSantis</span> and the Republicans there.",
+    "author": "",
+    "title": "Lifting the curtain on SCOTUS with a POLITICO reporter who broke the Roe story",
+    "sentiment": "0.0"
   },
   {
     "id": 3873,
     "mediaId": 136,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T15:06",
     "sentence": "Eisen said that Republican politicians like Florida governor <span class='selected-term'>Ron DeSantis</span>, Sen. Josh Hawley (R-Mo) or Rep Jim Jordan (R-OH) show the grip that Trump still has on the GOP for the midterms in November and in 2024.",
     "author": "Brendan Cole",
-    "title": "Roe v. Wade Turmoil Shows 'Cancer of Trump's Influence': Impeachment Lawyer"
+    "title": "Roe v. Wade Turmoil Shows 'Cancer of Trump's Influence': Impeachment Lawyer",
+    "sentiment": "0.0"
   },
   {
     "id": 7275,
     "mediaId": 21,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T15:00",
     "sentence": "",
     "author": "Yelena Dzhanova",
-    "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice"
+    "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
+    "sentiment": "0"
+  },
+  {
+    "id": 7275,
+    "mediaId": 21,
+    "date": "d2022-05-22T15:00",
+    "sentence": "",
+    "author": "Yelena Dzhanova",
+    "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
+    "sentiment": "0.0"
   }
 ]

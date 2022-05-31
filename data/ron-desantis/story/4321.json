@@ -1,10 +1,11 @@
 {
   "id": 4321,
   "mediaId": 43,
-  "date": "5/1/2022 12:00:00 AM",
+  "date": "d2022-05-01T00:00",
   "headline": "'Growing Pains' actor considers public school teachings 'inaccurate and the immoral'",
   "image": "https://images.dailykos.com/images/1064662/story_image/Actor_Kirk_Cameron.jpeg?1651410800",
   "link": "https://www.dailykos.com/story/2022/5/1/2095085/-In-video-reeking-of-privilege-Kirk-Cameron-says-public-school-system-is-public-enemy-number-one",
+  "sentiment": "0.0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,

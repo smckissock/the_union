@@ -2,41 +2,64 @@
   {
     "id": 4141,
     "mediaId": 302,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T10:00",
     "sentence": "",
     "author": "William MarchTimes correspondent",
-    "title": "Jay Collins to jump to red-leaning 15th Congressional District"
+    "title": "Jay Collins to jump to red-leaning 15th Congressional District",
+    "sentiment": "0"
+  },
+  {
+    "id": 4141,
+    "mediaId": 302,
+    "date": "d2022-05-03T10:00",
+    "sentence": "",
+    "author": "William MarchTimes correspondent",
+    "title": "Jay Collins to jump to red-leaning 15th Congressional District",
+    "sentiment": "0.0"
   },
   {
     "id": 3642,
     "mediaId": 302,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T13:00",
     "sentence": "",
     "author": "",
-    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map"
+    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
+    "sentiment": "0"
   },
   {
-    "id": 3540,
+    "id": 3642,
     "mediaId": 302,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-12T13:00",
     "sentence": "",
     "author": "",
-    "title": "Florida veteran pledges to spend millions in Tampa Bay-area congressional race"
+    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
+    "sentiment": "0.0"
   },
   {
     "id": 3542,
     "mediaId": 302,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T18:00",
     "sentence": "",
     "author": "Romy Ellenbogen",
-    "title": "Kelli Stargel announces run for Floridas open 15th Congressional District"
+    "title": "Kelli Stargel announces run for Floridas open 15th Congressional District",
+    "sentiment": "0.0"
   },
   {
     "id": 3543,
     "mediaId": 302,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T18:00",
     "sentence": "",
     "author": "Romy Ellenbogen",
-    "title": "Michele Rayner drops out of Pinellas congressional race, runs for state House"
+    "title": "Michele Rayner drops out of Pinellas congressional race, runs for state House",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3540,
+    "mediaId": 302,
+    "date": "d2022-05-16T19:00",
+    "sentence": "",
+    "author": "",
+    "title": "Florida veteran pledges to spend millions in Tampa Bay-area congressional race",
+    "sentiment": "0.0"
   }
 ]

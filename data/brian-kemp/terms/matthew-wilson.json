@@ -2,17 +2,19 @@
   {
     "id": 8218,
     "mediaId": 12,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T12:00",
     "sentence": "",
     "author": "Greg Bluestein",
-    "title": "Bidens sagging approval could haunt Georgia Democrats"
+    "title": "Bidens sagging approval could haunt Georgia Democrats",
+    "sentiment": "0.0"
   },
   {
     "id": 4775,
     "mediaId": 12,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T15:00",
     "sentence": "",
     "author": "Shannon McCaffrey",
-    "title": "Race for Georgia insurance commissioner seeks to move past scandal"
+    "title": "Race for Georgia insurance commissioner seeks to move past scandal",
+    "sentiment": "0.0"
   }
 ]

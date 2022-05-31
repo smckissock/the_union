@@ -2,33 +2,37 @@
   {
     "id": 3392,
     "mediaId": 238,
-    "date": "5/16/2022 12:00:00 AM",
+    "date": "d2022-05-16T00:00",
     "sentence": "",
     "author": "Olivier Knox",
-    "title": "Progressives (mostly) line up behind Bidens Ukraine policy"
+    "title": "Progressives (mostly) line up behind Bidens Ukraine policy",
+    "sentiment": "0.0"
   },
   {
     "id": 7228,
     "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "",
     "author": "",
-    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality"
+    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality",
+    "sentiment": "0.0"
   },
   {
     "id": 7289,
     "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T13:33:24",
     "sentence": "Under the once-in-a-decade redistricting process, Georgia's Republican governor, <span class='selected-term'>Brian Kemp</span>, signed into law a new map that transformed Ms. McBath's district to favor Republicans overwhelmingly.",
     "author": "",
-    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else."
+    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else.",
+    "sentiment": "0.0"
   },
   {
     "id": 7372,
     "mediaId": 151,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T01:29",
     "sentence": "",
     "author": "",
-    "title": "Kemp notches huge primary win in Georgia"
+    "title": "Kemp notches huge primary win in Georgia",
+    "sentiment": "0"
   }
 ]

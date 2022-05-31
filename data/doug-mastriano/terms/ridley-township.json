@@ -1,18 +1,20 @@
 [
   {
-    "id": 6819,
-    "mediaId": 195,
-    "date": "5/14/2022 12:00:00 AM",
-    "sentence": "Operatives in the state are sounding the alarm that state Sen. <span class='selected-term'>Doug Mastriano</span>, the front-runner gubernatorial candidate whose bid is centered around unfounded allegations of voter fraud in 2020, is making the top office in Harrisburg out of reach.",
-    "author": "Tal Axelrod",
-    "title": "GOP sounds alarm in Pennsylvania as hard-line candidates rise"
-  },
-  {
     "id": 6831,
     "mediaId": 195,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T13:34",
     "sentence": "There is no one in Pennsylvania who has done more, or fought harder, for Election Integrity than State Senator <span class='selected-term'>Doug Mastriano</span>,? Trump said in a statement issued through his Save America PAC, before echoing a baseless claim about the 2020 presidential election results.",
     "author": "Caroline Vakil",
-    "title": "Trump endorses Doug Mastriano for Pennsylvania governor"
+    "title": "Trump endorses Doug Mastriano for Pennsylvania governor",
+    "sentiment": "-0.328"
+  },
+  {
+    "id": 6819,
+    "mediaId": 195,
+    "date": "d2022-05-14T21:00",
+    "sentence": "Operatives in the state are sounding the alarm that state Sen. <span class='selected-term'>Doug Mastriano</span>, the front-runner gubernatorial candidate whose bid is centered around unfounded allegations of voter fraud in 2020, is making the top office in Harrisburg out of reach.",
+    "author": "Tal Axelrod",
+    "title": "GOP sounds alarm in Pennsylvania as hard-line candidates rise",
+    "sentiment": "0.0"
   }
 ]

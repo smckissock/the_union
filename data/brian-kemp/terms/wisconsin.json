@@ -2,73 +2,100 @@
   {
     "id": 5209,
     "mediaId": 33,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "",
     "author": "Andy Rose and Theresa Waldrop",
-    "title": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit"
+    "title": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit",
+    "sentiment": "0"
   },
   {
     "id": 5105,
     "mediaId": 209,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T00:00",
     "sentence": "",
     "author": "The Week Staff",
-    "title": "Putting more guns on the street"
+    "title": "Putting more guns on the street",
+    "sentiment": "0"
   },
   {
     "id": 5048,
     "mediaId": 157,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "NOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "",
-    "title": "Gableman deleting records as he conducts partisan 2020 election review in Wisconsin"
+    "title": "Gableman deleting records as he conducts partisan 2020 election review in Wisconsin",
+    "sentiment": "0.0"
   },
   {
     "id": 4938,
     "mediaId": 238,
-    "date": "4/26/2022 12:00:00 AM",
+    "date": "d2022-04-26T00:00",
     "sentence": "",
     "author": "",
-    "title": "In Wisconsin, a complex debate on crime foreshadows a midterm fight"
+    "title": "In Wisconsin, a complex debate on crime foreshadows a midterm fight",
+    "sentiment": "0.0"
   },
   {
     "id": 4913,
     "mediaId": 12,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T00:00",
     "sentence": "",
     "author": "Michael E. Kanell",
-    "title": "Wisconsin meat snack firm to build 800-worker plant in Perry"
+    "title": "Wisconsin meat snack firm to build 800-worker plant in Perry",
+    "sentiment": "0"
   },
   {
     "id": 4796,
     "mediaId": 43,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "Rebekah Sager",
-    "title": "Biden suspends Gov. Kemps attempt to block ACA site from hundreds of thousands of Georgia residents"
+    "title": "Biden suspends Gov. Kemps attempt to block ACA site from hundreds of thousands of Georgia residents",
+    "sentiment": "-0.482"
   },
   {
     "id": 4482,
     "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T20:27",
     "sentence": "They have this exact data and, in fact, many of them inside of the GBI and inside of <span class='selected-term'>Brian Kemp</span>s office and inside of Raffenspergers office are very eager to try to fight back and push back against True the Vote.",
     "author": "Philip Bump",
-    "title": "Discussing the gaps in 2000 Mules with Dinesh DSouza"
+    "title": "Discussing the gaps in 2000 Mules with Dinesh DSouza",
+    "sentiment": "0.0"
   },
   {
     "id": 4469,
     "mediaId": 129,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T22:38",
     "sentence": "",
     "author": "",
-    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots"
+    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
+    "sentiment": "-0.749"
   },
   {
     "id": 4458,
     "mediaId": 129,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T13:29:47",
     "sentence": "",
     "author": "",
-    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots"
+    "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
+    "sentiment": "-0.879"
+  },
+  {
+    "id": 8463,
+    "mediaId": 195,
+    "date": "d2022-05-27T15:00",
+    "sentence": "",
+    "author": "Dennis Aftergut",
+    "title": "Rays of a much-needed, principled GOP shine through",
+    "sentiment": "0"
+  },
+  {
+    "id": 8491,
+    "mediaId": 238,
+    "date": "d2022-05-28T15:23",
+    "sentence": "",
+    "author": "Dan Balz",
+    "title": "Trump is trapped in the past, and its hurting him with GOP voters",
+    "sentiment": "-0.715"
   }
 ]

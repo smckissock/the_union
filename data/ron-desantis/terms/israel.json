@@ -1,34 +1,74 @@
 [
   {
-    "id": 3984,
-    "mediaId": 323,
-    "date": "5/5/2022 12:00:00 AM",
+    "id": 4013,
+    "mediaId": 157,
+    "date": "d2022-05-05T00:00",
     "sentence": "",
-    "author": "Elliott Abrams and Eric Cohen",
-    "title": "Ron DeSantis Is Persona Non Grata at a Holocaust Memorial"
+    "author": "Matthew Chapman",
+    "title": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report",
+    "sentiment": "-0.658"
   },
   {
     "id": 4013,
     "mediaId": 157,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Matthew Chapman",
-    "title": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report"
+    "title": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3984,
+    "mediaId": 323,
+    "date": "d2022-05-05T16:59",
+    "sentence": "",
+    "author": "Elliott Abrams and Eric Cohen",
+    "title": "Ron DeSantis Is Persona Non Grata at a Holocaust Memorial",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3984,
+    "mediaId": 323,
+    "date": "d2022-05-05T16:59",
+    "sentence": "",
+    "author": "Elliott Abrams and Eric Cohen",
+    "title": "Ron DeSantis Is Persona Non Grata at a Holocaust Memorial",
+    "sentiment": "0.623"
   },
   {
     "id": 3838,
     "mediaId": 65,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T04:55",
     "sentence": "",
     "author": "Lawrence Richard",
-    "title": "NYC politician pulls funding from Jewish museum over alleged DeSantis snub"
+    "title": "NYC politician pulls funding from Jewish museum over alleged DeSantis snub",
+    "sentiment": "-0.895"
+  },
+  {
+    "id": 3838,
+    "mediaId": 65,
+    "date": "d2022-05-09T04:55",
+    "sentence": "",
+    "author": "Lawrence Richard",
+    "title": "NYC politician pulls funding from Jewish museum over alleged DeSantis snub",
+    "sentiment": "0.0"
   },
   {
     "id": 3709,
     "mediaId": 558,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T10:39",
     "sentence": "",
     "author": "",
-    "title": "Gov. DeSantis still hasn't made decision over sheriff's lies"
+    "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
+    "sentiment": "-0.958"
+  },
+  {
+    "id": 3709,
+    "mediaId": 558,
+    "date": "d2022-05-11T10:39",
+    "sentence": "",
+    "author": "",
+    "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
+    "sentiment": "0.0"
   }
 ]

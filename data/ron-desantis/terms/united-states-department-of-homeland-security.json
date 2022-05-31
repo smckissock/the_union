@@ -2,81 +2,118 @@
   {
     "id": 7032,
     "mediaId": 675,
-    "date": "2/13/2022 12:00:00 AM",
+    "date": "d2022-02-13T10:42",
     "sentence": "",
     "author": "WND News Services",
-    "title": "The mystery of the migrant kids"
+    "title": "The mystery of the migrant kids",
+    "sentiment": "0.0"
   },
   {
     "id": 7033,
     "mediaId": 675,
-    "date": "2/13/2022 12:00:00 AM",
+    "date": "d2022-02-13T10:42",
     "sentence": "",
     "author": "WND News Services",
-    "title": "The mystery of the migrant kids"
+    "title": "The mystery of the migrant kids",
+    "sentiment": "0.0"
   },
   {
     "id": 4356,
     "mediaId": 223,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T21:20",
     "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
     "author": "Rebecca Downs",
-    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation"
+    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation",
+    "sentiment": "0"
   },
   {
-    "id": 4327,
-    "mediaId": 18,
-    "date": "4/30/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Joe Battenfeld",
-    "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears"
-  },
-  {
-    "id": 4334,
-    "mediaId": 65,
-    "date": "4/30/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kelly Laco",
-    "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in"
+    "id": 4356,
+    "mediaId": 223,
+    "date": "d2022-04-29T21:20",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
+    "author": "Rebecca Downs",
+    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation",
+    "sentiment": "0.0"
   },
   {
     "id": 4343,
     "mediaId": 21,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T06:00",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> is one of many conservatives upset about the Department of Homeland Security's new Disinformation Governance Board, calling it a \"bureau of disinformation\" and a \"belated April Fool's joke.\"",
     "author": "Hannah Getahun",
-    "title": "DeSantis calls DHS Disinformation Governance Board a 'belated April Fool's joke'"
+    "title": "DeSantis calls DHS Disinformation Governance Board a 'belated April Fool's joke'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4343,
+    "mediaId": 21,
+    "date": "d2022-04-30T06:00",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> is one of many conservatives upset about the Department of Homeland Security's new Disinformation Governance Board, calling it a \"bureau of disinformation\" and a \"belated April Fool's joke.\"",
+    "author": "Hannah Getahun",
+    "title": "DeSantis calls DHS Disinformation Governance Board a 'belated April Fool's joke'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4334,
+    "mediaId": 65,
+    "date": "d2022-04-30T10:03",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4327,
+    "mediaId": 18,
+    "date": "d2022-04-30T19:37:23",
+    "sentence": "",
+    "author": "Joe Battenfeld",
+    "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears",
+    "sentiment": "0.0"
   },
   {
     "id": 4293,
     "mediaId": 195,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T12:00",
     "sentence": "",
     "author": "Joe Concha",
-    "title": "Joe Bidens Ministry of Truth"
+    "title": "Joe Bidens Ministry of Truth",
+    "sentiment": "0.0"
   },
   {
     "id": 3972,
     "mediaId": 120,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T23:07",
     "sentence": "Still, its a bit embarrassing that we had to wait for Tom Cotton and <span class='selected-term'>Ron DeSantis</span> to get up in arms for DHS to get its act together on communicating to the public.",
     "author": "Jessica Levinson",
-    "title": "Mayorkas' botched DHS disinfo rollout pinpoints a weakness of American government"
+    "title": "Mayorkas' botched DHS disinfo rollout pinpoints a weakness of American government",
+    "sentiment": "0.0"
   },
   {
     "id": 3796,
     "mediaId": 19,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T00:00",
     "sentence": "",
     "author": "Hannah Bleau",
-    "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board"
+    "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board",
+    "sentiment": "0"
+  },
+  {
+    "id": 3796,
+    "mediaId": 19,
+    "date": "d2022-05-10T00:00",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board",
+    "sentiment": "0.0"
   },
   {
     "id": 3601,
     "mediaId": 188,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T00:00",
     "sentence": "",
     "author": "Paul Sacca",
-    "title": "Bill Maher blasts Biden's 'Ministry of Truth,' warns Democrats that the Disinformation Governance Board would have had a field day with Obama's big lie"
+    "title": "Bill Maher blasts Biden's 'Ministry of Truth,' warns Democrats that the Disinformation Governance Board would have had a field day with Obama's big lie",
+    "sentiment": "0.0"
   }
 ]

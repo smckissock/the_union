@@ -2,33 +2,37 @@
   {
     "id": 4324,
     "mediaId": 43,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T00:00",
     "sentence": "Excerpts From Trevor Noah's Speech:\n\"[<span class='selected-term'>Ron DeSantis</span> has] been so busy trying to outmaneuver Trump for 2024.",
     "author": "",
-    "title": "The Condensed White House Correspondent's Dinner Remarks About Fox News and Crybaby Trump"
-  },
-  {
-    "id": 4107,
-    "mediaId": 21,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Grace Panetta",
-    "title": "Conservative media talking heads play defense on overturning Roe: 'The sky will not have fallen'"
+    "title": "The Condensed White House Correspondent's Dinner Remarks About Fox News and Crybaby Trump",
+    "sentiment": "0.0"
   },
   {
     "id": 4133,
     "mediaId": 238,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T12:00",
     "sentence": "",
     "author": "",
-    "title": "Opinion Surprise, surprise: Florida leads the nation in Jan. 6 defendants"
+    "title": "Opinion Surprise, surprise: Florida leads the nation in Jan. 6 defendants",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4107,
+    "mediaId": 21,
+    "date": "d2022-05-03T20:00",
+    "sentence": "",
+    "author": "Grace Panetta",
+    "title": "Conservative media talking heads play defense on overturning Roe: 'The sky will not have fallen'",
+    "sentiment": "0.0"
   },
   {
     "id": 3505,
     "mediaId": 305,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T11:20",
     "sentence": "Through political figures like Congresswoman Elise Stefanik and Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "",
-    "title": "Fire Tucker Carlson, Ben Shapiro and All Other Racists Who Promote \"White Replacement Theory\""
+    "title": "Fire Tucker Carlson, Ben Shapiro and All Other Racists Who Promote \"White Replacement Theory\"",
+    "sentiment": "0.0"
   }
 ]

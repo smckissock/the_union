@@ -1,42 +1,83 @@
 [
   {
-    "id": 4204,
-    "mediaId": 302,
-    "date": "5/2/2022 12:00:00 AM",
+    "id": 4213,
+    "mediaId": 558,
+    "date": "d2022-05-02T15:24",
     "sentence": "",
-    "author": "",
-    "title": "Florida Capitol Police Director Glass tapped by DeSantis as acting FDLE commissioner"
+    "author": "Jake Stofan",
+    "title": "Florida governor pours cold water on the idea of Twitter relocating to state",
+    "sentiment": "0"
   },
   {
     "id": 4213,
     "mediaId": 558,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T15:24",
     "sentence": "",
     "author": "Jake Stofan",
-    "title": "Florida governor pours cold water on the idea of Twitter relocating to state"
+    "title": "Florida governor pours cold water on the idea of Twitter relocating to state",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4204,
+    "mediaId": 302,
+    "date": "d2022-05-02T17:00",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Capitol Police Director Glass tapped by DeSantis as acting FDLE commissioner",
+    "sentiment": "0"
+  },
+  {
+    "id": 4204,
+    "mediaId": 302,
+    "date": "d2022-05-02T17:00",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Capitol Police Director Glass tapped by DeSantis as acting FDLE commissioner",
+    "sentiment": "0.0"
   },
   {
     "id": 4078,
     "mediaId": 21,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T01:00",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> discouraged Twitter from bringing its headquarters to the state following Elon Musk's privatization of the platform, Jacksonville outlet News4JAX reported.",
     "author": "Taiyler Simone Mitchell",
-    "title": "DeSantis takes a dig at Twitter as lawmakers encourage Elon Musk to move HQ to Florida: 'Importing some tech company from San Francisco has not been high on our list'"
+    "title": "DeSantis takes a dig at Twitter as lawmakers encourage Elon Musk to move HQ to Florida: 'Importing some tech company from San Francisco has not been high on our list'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4078,
+    "mediaId": 21,
+    "date": "d2022-05-04T01:00",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> discouraged Twitter from bringing its headquarters to the state following Elon Musk's privatization of the platform, Jacksonville outlet News4JAX reported.",
+    "author": "Taiyler Simone Mitchell",
+    "title": "DeSantis takes a dig at Twitter as lawmakers encourage Elon Musk to move HQ to Florida: 'Importing some tech company from San Francisco has not been high on our list'",
+    "sentiment": "0.0"
   },
   {
     "id": 3776,
     "mediaId": 151,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T11:07",
     "sentence": " There are so many people in our community who have suffered and our own family members have suffered and to us its so gratifying to honor them, said Armando Ibarra, president of Miami Young Republicans and founder of the Florida Commission of Victims of Communism.?\n Panhandles anger over FPL may have helped spur DeSantis veto of anti-solar bill,? by Miami Heralds Mary Ellen Klas\n <span class='selected-term'>Ron DeSantis</span> worried Wilton Simpsons prized bill will protect puppy mills.",
     "author": "",
-    "title": "Florida's next special session remains a mystery"
+    "title": "Florida's next special session remains a mystery",
+    "sentiment": "0.0"
   },
   {
     "id": 3503,
     "mediaId": 302,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T13:00",
     "sentence": "",
     "author": "",
-    "title": "When Floridas property insurers fail, few ask why"
+    "title": "When Floridas property insurers fail, few ask why",
+    "sentiment": "0"
+  },
+  {
+    "id": 3503,
+    "mediaId": 302,
+    "date": "d2022-05-17T13:00",
+    "sentence": "",
+    "author": "",
+    "title": "When Floridas property insurers fail, few ask why",
+    "sentiment": "0.0"
   }
 ]

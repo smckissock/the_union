@@ -2,17 +2,19 @@
   {
     "id": 5351,
     "mediaId": 19,
-    "date": "4/2/2022 12:00:00 AM",
+    "date": "d2022-04-02T00:00",
     "sentence": "",
     "author": "AWR Hawkins",
-    "title": "Gov. Brian Kemp: Georgians Carry Permit Is the 2nd Amendment"
+    "title": "Gov. Brian Kemp: Georgians Carry Permit Is the 2nd Amendment",
+    "sentiment": "0.468"
   },
   {
     "id": 4683,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Simon Kent",
-    "title": "Georgia High School Association Begins Transgender Sports Ban"
+    "title": "Georgia High School Association Begins Transgender Sports Ban",
+    "sentiment": "0"
   }
 ]

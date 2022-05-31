@@ -2,9 +2,19 @@
   {
     "id": 4341,
     "mediaId": 223,
-    "date": "4/30/2022 12:00:00 AM",
+    "date": "d2022-04-30T08:00",
     "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
     "author": "Spencer Brown",
-    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job"
+    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
+    "sentiment": "0"
+  },
+  {
+    "id": 4341,
+    "mediaId": 223,
+    "date": "d2022-04-30T08:00",
+    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
+    "author": "Spencer Brown",
+    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
+    "sentiment": "0.0"
   }
 ]

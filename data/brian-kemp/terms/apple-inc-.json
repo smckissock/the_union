@@ -2,17 +2,19 @@
   {
     "id": 8119,
     "mediaId": 12,
-    "date": "2/23/2022 12:00:00 AM",
+    "date": "d2022-02-23T11:00",
     "sentence": "Plus, our team explains why Walker is saying hes mad at both GOP candidates for governor -- and why incumbent <span class='selected-term'>Brian Kemp</span> is invoking Donald Trump in his latest campaign ad.",
     "author": "Patricia Murphy",
-    "title": "Politically Georgia: Why Warnock is trying to be no ordinary Democratic candidate"
+    "title": "Politically Georgia: Why Warnock is trying to be no ordinary Democratic candidate",
+    "sentiment": "0"
   },
   {
     "id": 5369,
     "mediaId": 12,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T10:00",
     "sentence": "",
     "author": "Patricia Murphy",
-    "title": "Politically Georgia: The final dash at the Legislature is underway"
+    "title": "Politically Georgia: The final dash at the Legislature is underway",
+    "sentiment": "0.0"
   }
 ]

@@ -1,10 +1,11 @@
 {
   "id": 1777,
   "mediaId": 129,
-  "date": "5/4/2022 12:00:00 AM",
+  "date": "d2022-05-04T00:00",
   "headline": "The Maryland governor, a rare Republican who speaks out publicly against Donald Trump, is trying to defend G.O.P. lawmakers targeted by the former president.",
   "image": "https://static01.nyt.com/images/2022/05/04/multimedia/04onpolitics-murkowski/04onpolitics-murkowski-superJumbo.jpg?quality=75&auto=webp",
   "link": "https://www.nytimes.com/2022/05/04/us/politics/larry-hogan-trump-gop.html",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

@@ -2,9 +2,19 @@
   {
     "id": 3840,
     "mediaId": 43,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T00:00",
     "sentence": "Desantis surprises all by vetoing Solar metering bill\nFlorida Governor <span class='selected-term'>Ron DeSantis</span> (R) vetoed an unpopular solar net-metering bill on Wednesday.",
     "author": "",
-    "title": "From the GNR Newsroom: Its the Monday Good News Roundup OVERSTUFFED EDITION"
+    "title": "From the GNR Newsroom: Its the Monday Good News Roundup OVERSTUFFED EDITION",
+    "sentiment": "0"
+  },
+  {
+    "id": 3840,
+    "mediaId": 43,
+    "date": "d2022-05-09T00:00",
+    "sentence": "Desantis surprises all by vetoing Solar metering bill\nFlorida Governor <span class='selected-term'>Ron DeSantis</span> (R) vetoed an unpopular solar net-metering bill on Wednesday.",
+    "author": "",
+    "title": "From the GNR Newsroom: Its the Monday Good News Roundup OVERSTUFFED EDITION",
+    "sentiment": "0.0"
   }
 ]

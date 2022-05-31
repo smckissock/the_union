@@ -1,18 +1,20 @@
 [
   {
-    "id": 869,
-    "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Ready for the Midterm Primary Elections? Here's What to Know."
-  },
-  {
     "id": 868,
     "mediaId": 129,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "Ready for the Midterm Primary Elections? Here's What to Know."
+    "title": "Ready for the Midterm Primary Elections? Here's What to Know.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 869,
+    "mediaId": 129,
+    "date": "d2022-05-03T00:00",
+    "sentence": "",
+    "author": "",
+    "title": "Ready for the Midterm Primary Elections? Here's What to Know.",
+    "sentiment": "0.0"
   }
 ]

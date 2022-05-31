@@ -1,42 +1,83 @@
 [
   {
-    "id": 4194,
-    "mediaId": 65,
-    "date": "5/2/2022 12:00:00 AM",
+    "id": 4265,
+    "mediaId": 19,
+    "date": "d2022-05-02T00:00",
     "sentence": "",
-    "author": "Kelly Laco",
-    "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities"
+    "author": "Hannah Bleau",
+    "title": "Potential DeSantis Challenger Charlie Crist Is Open to Forcing Masks in Florida",
+    "sentiment": "0"
   },
   {
     "id": 4265,
     "mediaId": 19,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "Hannah Bleau",
-    "title": "Potential DeSantis Challenger Charlie Crist Is Open to Forcing Masks in Florida"
+    "title": "Potential DeSantis Challenger Charlie Crist Is Open to Forcing Masks in Florida",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4194,
+    "mediaId": 65,
+    "date": "d2022-05-02T19:30",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
+    "sentiment": "-0.436"
+  },
+  {
+    "id": 4194,
+    "mediaId": 65,
+    "date": "d2022-05-02T19:30",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
+    "sentiment": "0.0"
   },
   {
     "id": 4100,
     "mediaId": 136,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T23:13",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> believes that the United States is out-of-step on abortion when compared to other industrialized nations, including those in Europe, and said the U.S. is \"more in line\" with China and North Korea regarding abortion policy.",
     "author": "Adam Staten",
-    "title": "Ron DeSantis Likens U.S. Abortion Laws to North Korea, China"
+    "title": "Ron DeSantis Likens U.S. Abortion Laws to North Korea, China",
+    "sentiment": "0"
+  },
+  {
+    "id": 4100,
+    "mediaId": 136,
+    "date": "d2022-05-03T23:13",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> believes that the United States is out-of-step on abortion when compared to other industrialized nations, including those in Europe, and said the U.S. is \"more in line\" with China and North Korea regarding abortion policy.",
+    "author": "Adam Staten",
+    "title": "Ron DeSantis Likens U.S. Abortion Laws to North Korea, China",
+    "sentiment": "0.0"
   },
   {
     "id": 3826,
     "mediaId": 302,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T14:00",
     "sentence": "",
     "author": "",
-    "title": "Climate catastrophists need to chill | Column"
+    "title": "Climate catastrophists need to chill | Column",
+    "sentiment": "0.0"
   },
   {
     "id": 3684,
     "mediaId": 223,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T20:45",
     "sentence": "This comes after Governor <span class='selected-term'>Ron Desantis</span> months-long battle with Disney for speaking out against Floridas Parental Rights in Education? bill, also known as the Dont Say Gay? bill by the woke mob.",
     "author": "Sarah Arnold",
-    "title": "Sen. Hawley Calls to Revoke Disneys Copyrights"
+    "title": "Sen. Hawley Calls to Revoke Disneys Copyrights",
+    "sentiment": "0"
+  },
+  {
+    "id": 3684,
+    "mediaId": 223,
+    "date": "d2022-05-11T20:45",
+    "sentence": "This comes after Governor <span class='selected-term'>Ron Desantis</span> months-long battle with Disney for speaking out against Floridas Parental Rights in Education? bill, also known as the Dont Say Gay? bill by the woke mob.",
+    "author": "Sarah Arnold",
+    "title": "Sen. Hawley Calls to Revoke Disneys Copyrights",
+    "sentiment": "0.0"
   }
 ]

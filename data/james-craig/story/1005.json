@@ -1,10 +1,11 @@
 {
   "id": 1005,
   "mediaId": 43,
-  "date": "1/28/2022 12:00:00 AM",
+  "date": "d2022-01-28T00:00",
   "headline": "GOP primary for Wisconsin governor",
   "image": "https://images.dailykos.com/images/428892/story_image/KN.png?1501091726",
   "link": "https://www.dailykos.com/story/2022/1/28/2077197/-Morning-Digest-Former-College-Democrats-head-joins-already-nasty-GOP-primary-for-Wisconsin-governor",
+  "sentiment": "0.0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +16,6 @@
     1844,
     2002,
     2039,
-    2095,
     2298,
     3075
   ],

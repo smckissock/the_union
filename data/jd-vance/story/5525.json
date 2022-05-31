@@ -1,10 +1,11 @@
 {
   "id": 5525,
   "mediaId": 129,
-  "date": "5/16/2022 12:00:00 AM",
+  "date": "d2022-05-16T00:00",
   "headline": "The Little Red Boxes Making a Mockery of Campaign Finance Laws",
   "image": "https://static01.nyt.com/images/2022/05/11/lens/00pol-redbox-schrader-negative/00pol-redbox-schrader-negative-superJumbo.jpg?quality=75&auto=webp",
   "link": "https://www.nytimes.com/2022/05/16/us/politics/red-boxes-campaign-finance-democrats.html",
+  "sentiment": "0.633",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,

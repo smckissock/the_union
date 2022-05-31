@@ -4,532 +4,160 @@
   "featuredStoryId": 7300,
   "terms": [
     {
-      "id": 1464,
-      "name": "Lindsey Graham",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1801,
-      "name": "J. D. Vance",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 307,
-      "name": "Michigan Democratic Party",
+      "id": 120,
+      "name": "Connecticut Supreme Court",
       "type": "Organization",
-      "stories": 24
+      "stories": 1
     },
     {
-      "id": 504,
-      "name": "The Cincinnati Enquirer",
+      "id": 122,
+      "name": "Conservative Party",
       "type": "Organization",
-      "stories": 8
+      "stories": 1
     },
     {
-      "id": 4325,
-      "name": "David Perdue",
-      "type": "Person",
-      "stories": 6
-    },
-    {
-      "id": 837,
-      "name": "Stephen Singiser",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2579,
-      "name": "British Indian Ocean Territory",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 3095,
-      "name": "Ralph Rebandt",
-      "type": "Person",
-      "stories": 10
-    },
-    {
-      "id": 2219,
-      "name": "Anthony Sabatini",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1414,
-      "name": "Richard Mourdock",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2022,
-      "name": "Kevin Smith",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 599,
-      "name": "Uphill Battle",
+      "id": 146,
+      "name": "Democratic Party",
       "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 906,
-      "name": "Kellyanne Conway",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2731,
-      "name": "Kalamazoo County",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 3068,
-      "name": "Mackinac Island",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 428,
-      "name": "Republican Party",
-      "type": "Organization",
-      "stories": 183
-    },
-    {
-      "id": 818,
-      "name": "Joey Gilbert",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1426,
-      "name": "Hillary Scholten",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 3088,
-      "name": "Bob Scott",
-      "type": "Person",
-      "stories": 3
-    },
-    {
-      "id": 773,
-      "name": "Gretchen Whitmer",
-      "type": "Person",
-      "stories": 89
-    },
-    {
-      "id": 1815,
-      "name": "Ryan Kelly",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 3066,
-      "name": "Howell",
-      "type": "Place",
-      "stories": 7
-    },
-    {
-      "id": 2069,
-      "name": "Tim Walz",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 699,
-      "name": "Tom Barrett",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 1758,
-      "name": "Glenn Youngkin",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2081,
-      "name": "Matthew DePerno",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 908,
-      "name": "Erika Geiss",
-      "type": "Person",
-      "stories": 24
-    },
-    {
-      "id": 1459,
-      "name": "Henry Cuellar",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2164,
-      "name": "Harry Reid",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1682,
-      "name": "Ryan Kelley",
-      "type": "Person",
-      "stories": 24
-    },
-    {
-      "id": 1454,
-      "name": "Arjun Jaikumar",
-      "type": "Person",
-      "stories": 32
-    },
-    {
-      "id": 2005,
-      "name": "Anthony Gonzalez",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2845,
-      "name": "Ohio",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 2342,
-      "name": "Todd Akin",
-      "type": "Person",
-      "stories": 48
-    },
-    {
-      "id": 2980,
-      "name": "Business Leaders for Michigan",
-      "type": "Organization",
-      "stories": 7
-    },
-    {
-      "id": 3090,
-      "name": "Evan Space",
-      "type": "Person",
-      "stories": 2
-    },
-    {
-      "id": 5129,
-      "name": "Southfield",
-      "type": "Place",
-      "stories": 6
-    },
-    {
-      "id": 5545,
-      "name": "John Sellek",
-      "type": "Person",
-      "stories": 3
-    },
-    {
-      "id": 1606,
-      "name": "Sharron Angle",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 984,
-      "name": "George P. Bush",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2494,
-      "name": "Daniel Donner",
-      "type": "Person",
-      "stories": 8
+      "stories": 13
     },
     {
       "id": 152,
       "name": "Detroit Police Department",
       "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 2678,
-      "name": "Grand Rapids",
-      "type": "Place",
-      "stories": 11
-    },
-    {
-      "id": 2095,
-      "name": "Brian Kemp",
-      "type": "Person",
-      "stories": 12
-    },
-    {
-      "id": 2761,
-      "name": "Livingston County",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 1670,
-      "name": "Steve Singiser",
-      "type": "Person",
-      "stories": 8
+      "stories": 1
     },
     {
       "id": 304,
       "name": "Meijer",
       "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 1017,
-      "name": "Claire McCaskill",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2799,
-      "name": "Missouri",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 2842,
-      "name": "Oakland County",
-      "type": "Place",
-      "stories": 22
-    },
-    {
-      "id": 482,
-      "name": "Supreme Court of the United States",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 2185,
-      "name": "Lauren Boebert",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1480,
-      "name": "David Beard",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 661,
-      "name": "Ron DeSantis",
-      "type": "Person",
-      "stories": 14
-    },
-    {
-      "id": 2171,
-      "name": "Michael Brown",
-      "type": "Person",
-      "stories": 10
-    },
-    {
-      "id": 311,
-      "name": "Michigan Supreme Court",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 1698,
-      "name": "John Jay Lee",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 3224,
-      "name": "Detroit Regional Chamber",
-      "type": "Organization",
-      "stories": 6
-    },
-    {
-      "id": 651,
-      "name": "Perry Johnson",
-      "type": "Person",
-      "stories": 38
-    },
-    {
-      "id": 2961,
-      "name": "Washtenaw County",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 1088,
-      "name": "Dana Nessel",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 5556,
-      "name": "Norton Shores",
-      "type": "Place",
-      "stories": 3
-    },
-    {
-      "id": 1228,
-      "name": "Digit Lead",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2645,
-      "name": "Detroit",
-      "type": "Place",
-      "stories": 78
-    },
-    {
-      "id": 2002,
-      "name": "Tudor Dixon",
-      "type": "Person",
-      "stories": 51
-    },
-    {
-      "id": 3087,
-      "name": "John Gibbs",
-      "type": "Person",
-      "stories": 4
-    },
-    {
-      "id": 2968,
-      "name": "Wayne County",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 5542,
-      "name": "Bill Schuette",
-      "type": "Person",
-      "stories": 3
-    },
-    {
-      "id": 815,
-      "name": "Herschel Walker",
-      "type": "Person",
       "stories": 1
     },
     {
-      "id": 1646,
-      "name": "David Purdue",
-      "type": "Person",
-      "stories": 2
-    },
-    {
-      "id": 5615,
-      "name": "Michigan State University",
+      "id": 307,
+      "name": "Michigan Democratic Party",
       "type": "Organization",
-      "stories": 2
-    },
-    {
-      "id": 3099,
-      "name": "Donna Brandenburg",
-      "type": "Person",
-      "stories": 9
-    },
-    {
-      "id": 670,
-      "name": "Andrew Filipowski",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1147,
-      "name": "Donald Trump",
-      "type": "Person",
-      "stories": 10
-    },
-    {
-      "id": 2206,
-      "name": "John Engler",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 3051,
-      "name": "Shawn Kelley",
-      "type": "Person",
-      "stories": 7
-    },
-    {
-      "id": 2618,
-      "name": "Cocos (Keeling) Islands",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 358,
-      "name": "New York Supreme Court, Appellate Division",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 1978,
-      "name": "Duncan L. Hunter",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1864,
-      "name": "Laura Kelly",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1299,
-      "name": "Carolyn Fiddler",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 1465,
-      "name": "Paul Laxalt",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2524,
-      "name": "Peter Thiel",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2979,
-      "name": "Breitbart News",
-      "type": "Organization",
-      "stories": 6
-    },
-    {
-      "id": 3075,
-      "name": "Kevin Rinke",
-      "type": "Person",
-      "stories": 22
-    },
-    {
-      "id": 2865,
-      "name": "Philadelphia",
-      "type": "Place",
-      "stories": 8
+      "stories": 5
     },
     {
       "id": 308,
       "name": "Michigan Republican Party",
       "type": "Organization",
-      "stories": 34
+      "stories": 5
+    },
+    {
+      "id": 311,
+      "name": "Michigan Supreme Court",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 358,
+      "name": "New York Supreme Court, Appellate Division",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 428,
+      "name": "Republican Party",
+      "type": "Organization",
+      "stories": 25
+    },
+    {
+      "id": 482,
+      "name": "Supreme Court of the United States",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 504,
+      "name": "The Cincinnati Enquirer",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 507,
+      "name": "The Cook Political Report",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 517,
+      "name": "The New York Times",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 545,
+      "name": "United States Congress",
+      "type": "Organization",
+      "stories": 1
     },
     {
       "id": 562,
       "name": "United States House of Representatives",
       "type": "Organization",
-      "stories": 16
+      "stories": 2
+    },
+    {
+      "id": 571,
+      "name": "United States Senate",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 599,
+      "name": "Uphill Battle",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 2979,
+      "name": "Breitbart News",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 2980,
+      "name": "Business Leaders for Michigan",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 3224,
+      "name": "Detroit Regional Chamber",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 5615,
+      "name": "Michigan State University",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 651,
+      "name": "Perry Johnson",
+      "type": "Person",
+      "stories": 18
+    },
+    {
+      "id": 661,
+      "name": "Ron DeSantis",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 670,
+      "name": "Andrew Filipowski",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 699,
+      "name": "Tom Barrett",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 741,
@@ -538,172 +166,28 @@
       "stories": 1
     },
     {
-      "id": 2934,
-      "name": "Texas",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 4155,
-      "name": "Ileana Garcia",
+      "id": 773,
+      "name": "Gretchen Whitmer",
       "type": "Person",
-      "stories": 6
-    },
-    {
-      "id": 2277,
-      "name": "Jeff Singer",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 517,
-      "name": "The New York Times",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 1966,
-      "name": "Derek Schmidt",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1007,
-      "name": "Stephen Wolf",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 2789,
-      "name": "Miami Beach",
-      "type": "Place",
-      "stories": 6
-    },
-    {
-      "id": 2661,
-      "name": "Florida",
-      "type": "Place",
-      "stories": 14
-    },
-    {
-      "id": 2958,
-      "name": "Washington Township",
-      "type": "Place",
-      "stories": 16
-    },
-    {
-      "id": 1002,
-      "name": "Mike Murray",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 1536,
-      "name": "Meshawn Maddock",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2087,
-      "name": "Joe Biden",
-      "type": "Person",
-      "stories": 26
-    },
-    {
-      "id": 2030,
-      "name": "Vladimir Putin",
-      "type": "Person",
-      "stories": 8
+      "stories": 12
     },
     {
       "id": 800,
       "name": "Ken Paxton",
       "type": "Person",
-      "stories": 8
+      "stories": 1
     },
     {
-      "id": 2737,
-      "name": "Kent County",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 2863,
-      "name": "People's Republic of China",
-      "type": "Place",
-      "stories": 15
-    },
-    {
-      "id": 2303,
-      "name": "Madison Cawthorn",
+      "id": 815,
+      "name": "Herschel Walker",
       "type": "Person",
       "stories": 1
     },
     {
-      "id": 2298,
-      "name": "Garrett Soldano",
+      "id": 818,
+      "name": "Joey Gilbert",
       "type": "Person",
-      "stories": 80
-    },
-    {
-      "id": 507,
-      "name": "The Cook Political Report",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 1645,
-      "name": "Mike Brown",
-      "type": "Person",
-      "stories": 16
-    },
-    {
-      "id": 2039,
-      "name": "Mandela Barnes",
-      "type": "Person",
-      "stories": 2
-    },
-    {
-      "id": 1614,
-      "name": "Fred Upton",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 2748,
-      "name": "Lansing",
-      "type": "Place",
-      "stories": 67
-    },
-    {
-      "id": 2945,
-      "name": "United States of America",
-      "type": "Place",
-      "stories": 8
-    },
-    {
-      "id": 2305,
-      "name": "Rick Scott",
-      "type": "Person",
-      "stories": 8
-    },
-    {
-      "id": 545,
-      "name": "United States Congress",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 120,
-      "name": "Connecticut Supreme Court",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 571,
-      "name": "United States Senate",
-      "type": "Organization",
-      "stories": 8
+      "stories": 1
     },
     {
       "id": 821,
@@ -712,16 +196,208 @@
       "stories": 1
     },
     {
-      "id": 146,
-      "name": "Democratic Party",
-      "type": "Organization",
-      "stories": 95
+      "id": 837,
+      "name": "Stephen Singiser",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 885,
+      "name": "Jean Schmidt",
+      "type": "Person",
+      "stories": 2
     },
     {
       "id": 890,
       "name": "Chuck Yob",
       "type": "Person",
-      "stories": 8
+      "stories": 1
+    },
+    {
+      "id": 906,
+      "name": "Kellyanne Conway",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 908,
+      "name": "Erika Geiss",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 984,
+      "name": "George P. Bush",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1002,
+      "name": "Mike Murray",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1007,
+      "name": "Stephen Wolf",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1017,
+      "name": "Claire McCaskill",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1088,
+      "name": "Dana Nessel",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1228,
+      "name": "Digit Lead",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1299,
+      "name": "Carolyn Fiddler",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1414,
+      "name": "Richard Mourdock",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1426,
+      "name": "Hillary Scholten",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1454,
+      "name": "Arjun Jaikumar",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1459,
+      "name": "Henry Cuellar",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1464,
+      "name": "Lindsey Graham",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1465,
+      "name": "Paul Laxalt",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1480,
+      "name": "David Beard",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1536,
+      "name": "Meshawn Maddock",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1583,
+      "name": "Rick Snyder",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1606,
+      "name": "Sharron Angle",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1614,
+      "name": "Fred Upton",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1645,
+      "name": "Mike Brown",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 1670,
+      "name": "Steve Singiser",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1682,
+      "name": "Ryan Kelley",
+      "type": "Person",
+      "stories": 11
+    },
+    {
+      "id": 1698,
+      "name": "John Jay Lee",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1758,
+      "name": "Glenn Youngkin",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1801,
+      "name": "J. D. Vance",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1815,
+      "name": "Ryan Kelly",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1844,
+      "name": "James Craig",
+      "type": "Person",
+      "stories": 25
+    },
+    {
+      "id": 1849,
+      "name": "Jacob Hagg",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1864,
+      "name": "Laura Kelly",
+      "type": "Person",
+      "stories": 1
     },
     {
       "id": 1901,
@@ -730,58 +406,376 @@
       "stories": 4
     },
     {
-      "id": 1844,
-      "name": "James Craig",
+      "id": 1951,
+      "name": "Stacey Abrams",
       "type": "Person",
-      "stories": 101
+      "stories": 1
     },
     {
-      "id": 885,
-      "name": "Jean Schmidt",
+      "id": 1966,
+      "name": "Derek Schmidt",
       "type": "Person",
-      "stories": 14
+      "stories": 1
     },
     {
-      "id": 3064,
-      "name": "Farmington Hills",
-      "type": "Place",
-      "stories": 7
+      "id": 1978,
+      "name": "Duncan L. Hunter",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2002,
+      "name": "Tudor Dixon",
+      "type": "Person",
+      "stories": 22
+    },
+    {
+      "id": 2005,
+      "name": "Anthony Gonzalez",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2022,
+      "name": "Kevin Smith",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2030,
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2039,
+      "name": "Mandela Barnes",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2069,
+      "name": "Tim Walz",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2081,
+      "name": "Matthew DePerno",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 2095,
+      "name": "Brian Kemp",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2164,
+      "name": "Harry Reid",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2171,
+      "name": "Michael Brown",
+      "type": "Person",
+      "stories": 5
+    },
+    {
+      "id": 2185,
+      "name": "Lauren Boebert",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2206,
+      "name": "John Engler",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2219,
+      "name": "Anthony Sabatini",
+      "type": "Person",
+      "stories": 1
     },
     {
       "id": 2250,
       "name": "Greg Abbott",
       "type": "Person",
-      "stories": 8
+      "stories": 1
     },
     {
-      "id": 122,
-      "name": "Conservative Party",
-      "type": "Organization",
-      "stories": 8
-    },
-    {
-      "id": 1951,
-      "name": "Stacey Abrams",
+      "id": 2277,
+      "name": "Jeff Singer",
       "type": "Person",
-      "stories": 8
+      "stories": 2
+    },
+    {
+      "id": 2298,
+      "name": "Garrett Soldano",
+      "type": "Person",
+      "stories": 33
+    },
+    {
+      "id": 2303,
+      "name": "Madison Cawthorn",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2305,
+      "name": "Rick Scott",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2342,
+      "name": "Todd Akin",
+      "type": "Person",
+      "stories": 6
+    },
+    {
+      "id": 2494,
+      "name": "Daniel Donner",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2524,
+      "name": "Peter Thiel",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3051,
+      "name": "Shawn Kelley",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 3075,
+      "name": "Kevin Rinke",
+      "type": "Person",
+      "stories": 22
+    },
+    {
+      "id": 3087,
+      "name": "John Gibbs",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 3088,
+      "name": "Bob Scott",
+      "type": "Person",
+      "stories": 3
+    },
+    {
+      "id": 3090,
+      "name": "Evan Space",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 3095,
+      "name": "Ralph Rebandt",
+      "type": "Person",
+      "stories": 10
+    },
+    {
+      "id": 3099,
+      "name": "Donna Brandenburg",
+      "type": "Person",
+      "stories": 9
+    },
+    {
+      "id": 4155,
+      "name": "Ileana Garcia",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 4325,
+      "name": "David Perdue",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 5542,
+      "name": "Bill Schuette",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 5545,
+      "name": "John Sellek",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2579,
+      "name": "British Indian Ocean Territory",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2618,
+      "name": "Cocos (Keeling) Islands",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2645,
+      "name": "Detroit",
+      "type": "Place",
+      "stories": 11
+    },
+    {
+      "id": 2661,
+      "name": "Florida",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2678,
+      "name": "Grand Rapids",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2731,
+      "name": "Kalamazoo County",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2737,
+      "name": "Kent County",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2748,
+      "name": "Lansing",
+      "type": "Place",
+      "stories": 9
+    },
+    {
+      "id": 2761,
+      "name": "Livingston County",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2789,
+      "name": "Miami Beach",
+      "type": "Place",
+      "stories": 1
     },
     {
       "id": 2791,
       "name": "Michigan",
       "type": "Place",
-      "stories": 170
+      "stories": 24
     },
     {
-      "id": 1583,
-      "name": "Rick Snyder",
-      "type": "Person",
-      "stories": 8
+      "id": 2799,
+      "name": "Missouri",
+      "type": "Place",
+      "stories": 1
     },
     {
-      "id": 1849,
-      "name": "Jacob Hagg",
-      "type": "Person",
-      "stories": 8
+      "id": 2842,
+      "name": "Oakland County",
+      "type": "Place",
+      "stories": 3
+    },
+    {
+      "id": 2845,
+      "name": "Ohio",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2863,
+      "name": "People's Republic of China",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2865,
+      "name": "Philadelphia",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2934,
+      "name": "Texas",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2945,
+      "name": "United States of America",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2958,
+      "name": "Washington Township",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2961,
+      "name": "Washtenaw County",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2968,
+      "name": "Wayne County",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 3064,
+      "name": "Farmington Hills",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 3066,
+      "name": "Howell",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 3068,
+      "name": "Mackinac Island",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 5129,
+      "name": "Southfield",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 5556,
+      "name": "Norton Shores",
+      "type": "Place",
+      "stories": 1
     }
   ],
   "media": [

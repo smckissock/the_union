@@ -1,42 +1,47 @@
 [
   {
-    "id": 5806,
-    "mediaId": 65,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Jack Durschlag",
-    "title": "Vance wins Ohio Senate primary; Key Republicans sound off on SCOTUS leak's midterms impact"
-  },
-  {
     "id": 5839,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "State Department Declares WNBA Star Brittney Griner to Be Wrongfully Detained in Russia"
+    "title": "State Department Declares WNBA Star Brittney Griner to Be Wrongfully Detained in Russia",
+    "sentiment": "0"
   },
   {
     "id": 5858,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Without Filibuster Reform, Democratic Efforts to Codify Abortion Rights Will Fail"
+    "title": "Without Filibuster Reform, Democratic Efforts to Codify Abortion Rights Will Fail",
+    "sentiment": "0"
   },
   {
     "id": 5859,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Parts of Lviv Without Power or Water After Russian Missile Strikes"
+    "title": "Parts of Lviv Without Power or Water After Russian Missile Strikes",
+    "sentiment": "0"
   },
   {
     "id": 5883,
     "mediaId": 395,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "Biden Visits Lockheed Martin Plant to Push for Passage of $33B for Ukraine"
+    "title": "Biden Visits Lockheed Martin Plant to Push for Passage of $33B for Ukraine",
+    "sentiment": "0"
+  },
+  {
+    "id": 5806,
+    "mediaId": 65,
+    "date": "d2022-05-04T08:32",
+    "sentence": "",
+    "author": "Jack Durschlag",
+    "title": "Vance wins Ohio Senate primary; Key Republicans sound off on SCOTUS leak's midterms impact",
+    "sentiment": "0.469"
   }
 ]

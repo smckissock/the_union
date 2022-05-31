@@ -2,65 +2,82 @@
   {
     "id": 7057,
     "mediaId": 33,
-    "date": "1/6/2022 12:00:00 AM",
+    "date": "d2022-01-06T00:00",
     "sentence": "El condado tambin est cerca de los distritos de dos republicanos electos que fueron fundamentales para ayudar a Trump a intentar subvertir las elecciones: el representante estadounidense Scott Perry y el senador estatal <span class='selected-term'>Doug Mastriano</span>, que provienen de distritos al oeste de Lancaster y participaron en los esfuerzos de Trump para presionar al Departamento de Justicia para que apoyara sus falsas afirmaciones sobre el fraude electoral.",
     "author": "Por Jeremy Herb",
-    "title": "Cmo el asalto al Capitolio del 6 de enero cambi lo que significa ser republicano en un condado de Pensilvania"
+    "title": "Cmo el asalto al Capitolio del 6 de enero cambi lo que significa ser republicano en un condado de Pensilvania",
+    "sentiment": "0.0"
   },
   {
     "id": 7029,
     "mediaId": 32,
-    "date": "2/15/2022 12:00:00 AM",
+    "date": "d2022-02-15T21:52:53",
     "sentence": "Brandon Bell | Getty Images\nThe House select committee investigating the Jan. 6 Capitol riot issued subpoenas Tuesday to Arizona Republican Party Chairwoman Kelli Ward, GOP State Sen. <span class='selected-term'>Doug Mastriano</span> of Pennsylvania and four others over their alleged efforts to interfere with the certification of the 2020 election results.",
     "author": "Kevin Breuninger",
-    "title": "House probe of Jan. 6 Capitol riot subpoenas Arizona GOP leader Kelli Ward, 5 others over alternate electors"
+    "title": "House probe of Jan. 6 Capitol riot subpoenas Arizona GOP leader Kelli Ward, 5 others over alternate electors",
+    "sentiment": "0.0"
   },
   {
     "id": 3352,
     "mediaId": 195,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T10:25",
     "sentence": "Oz with a slim lead, but he's by no means out of the woods,? one Keystone State-based GOP operative told the Morning Report on Monday, adding that the worst-case scenario involves Barnette and state Sen. <span class='selected-term'>Doug Mastriano</span> (R), the Trump-endorsed candidate for governor, emerging victorious and handing Democrats a lifeline in November.",
     "author": "Alexis Simendinger",
-    "title": "The Hill's Morning Report  Primary night: All eyes on Pennsylvania"
-  },
-  {
-    "id": 6634,
-    "mediaId": 65,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "Trump's grip on the GOP was further illustrated Tuesday night when Pennsylvania gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, a strong supporter of Trumps repeated attempts the past year and a half to re-litigate his 2020 election loss, won his primary.",
-    "author": "Tyler Olson",
-    "title": "Stefanik, Mullin introduce House resolution to expunge second Trump impeachment"
+    "title": "The Hill's Morning Report  Primary night: All eyes on Pennsylvania",
+    "sentiment": "0.0"
   },
   {
     "id": 6688,
     "mediaId": 157,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "On Tuesday, May 17, the Big Lie and the Stop the Steal? movement enjoyed a major victory when Pennsylvania State Sen. <span class='selected-term'>Doug Mastriano</span>  a far-right Christian nationalist and QAnon ally  won the 2022 GOP gubernatorial nomination in the Keystone State.",
     "author": "Alex Henderson",
-    "title": "A Las Vegas paper just published a stunning editorial: 'We are struggling to identify' Republicans 'who are not an active threat' to democracy"
+    "title": "A Las Vegas paper just published a stunning editorial: 'We are struggling to identify' Republicans 'who are not an active threat' to democracy",
+    "sentiment": "0"
+  },
+  {
+    "id": 6634,
+    "mediaId": 65,
+    "date": "d2022-05-18T14:37",
+    "sentence": "Trump's grip on the GOP was further illustrated Tuesday night when Pennsylvania gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, a strong supporter of Trumps repeated attempts the past year and a half to re-litigate his 2020 election loss, won his primary.",
+    "author": "Tyler Olson",
+    "title": "Stefanik, Mullin introduce House resolution to expunge second Trump impeachment",
+    "sentiment": "-0.259"
   },
   {
     "id": 6521,
     "mediaId": 98,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T06:58",
     "sentence": "The latest from the campaign trail\nIn the runup to Tuesday's Republican primary for governor, an advertisement filled the state's airwaves declaring that Sen. <span class='selected-term'>Doug Mastriano</span> staunchly opposed abortion and mail-in balloting and embraced Trump's lies about the 2020 election.",
     "author": "David LauterSenior Editor",
-    "title": "As right-wing violence spreads, Republicans duck responsibility"
-  },
-  {
-    "id": 7288,
-    "mediaId": 136,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "The races are being closely watched to see if more far-right candidates across the country can follow in the footsteps of <span class='selected-term'>Doug Mastriano</span>, who won Pennsylvania's Republican primary race for governor last week by running a campaign focused on pushing Trump's election falsehoods.",
-    "author": "Daniel Bush",
-    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents"
+    "title": "As right-wing violence spreads, Republicans duck responsibility",
+    "sentiment": "0.0"
   },
   {
     "id": 7289,
     "mediaId": 129,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T13:33:24",
     "sentence": "During the Republican primary in Pennsylvania, Mr. Shapiro, the state's attorney general, ran an ad that called State Senator <span class='selected-term'>Doug Mastriano</span> one of Donald Trump's strongest supporters.",
     "author": "",
-    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else."
+    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7288,
+    "mediaId": 136,
+    "date": "d2022-05-23T13:35",
+    "sentence": "The races are being closely watched to see if more far-right candidates across the country can follow in the footsteps of <span class='selected-term'>Doug Mastriano</span>, who won Pennsylvania's Republican primary race for governor last week by running a campaign focused on pushing Trump's election falsehoods.",
+    "author": "Daniel Bush",
+    "title": "Georgia Primaries Will Test Trump's Revenge Campaign Against GOP Incumbents",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8376,
+    "mediaId": 151,
+    "date": "d2022-05-29T15:39",
+    "sentence": "Most recently, this trend was on display in <span class='selected-term'>DOUG MASTRIANO</span>s victory in the Pennsylvania GOP gubernatorial primary (though he rejects the label).",
+    "author": "",
+    "title": "POLITICO Playbook: Trumps new obsession",
+    "sentiment": "0.0"
   }
 ]

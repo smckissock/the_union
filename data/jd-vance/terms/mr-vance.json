@@ -1,34 +1,38 @@
 [
   {
-    "id": 5817,
-    "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee"
-  },
-  {
     "id": 5868,
     "mediaId": 129,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T00:00",
     "sentence": "",
     "author": "",
-    "title": "5 Takeaways From Ohios Primary Elections"
+    "title": "5 Takeaways From Ohios Primary Elections",
+    "sentiment": "0"
+  },
+  {
+    "id": 5817,
+    "mediaId": 129,
+    "date": "d2022-05-04T02:50",
+    "sentence": "",
+    "author": "",
+    "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee",
+    "sentiment": "0"
   },
   {
     "id": 5741,
     "mediaId": 19,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "John Binder",
-    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement"
+    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement",
+    "sentiment": "0"
   },
   {
     "id": 5535,
     "mediaId": 129,
-    "date": "5/15/2022 12:00:00 AM",
+    "date": "d2022-05-15T00:00",
     "sentence": "",
     "author": "Marc Tracy",
-    "title": "How Hollywood and the Media Fueled the Political Rise of J.D. Vance"
+    "title": "How Hollywood and the Media Fueled the Political Rise of J.D. Vance",
+    "sentiment": "0"
   }
 ]

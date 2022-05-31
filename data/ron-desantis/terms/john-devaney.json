@@ -1,18 +1,38 @@
 [
   {
-    "id": 3682,
-    "mediaId": 151,
-    "date": "5/11/2022 12:00:00 AM",
+    "id": 3686,
+    "mediaId": 233,
+    "date": "d2022-05-11T19:56",
     "sentence": "",
-    "author": "",
-    "title": "Florida judge blocks DeSantis congressional redistricting effort"
+    "author": "John Kennedy",
+    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears",
+    "sentiment": "0"
   },
   {
     "id": 3686,
     "mediaId": 233,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T19:56",
     "sentence": "",
     "author": "John Kennedy",
-    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears"
+    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3682,
+    "mediaId": 151,
+    "date": "d2022-05-11T21:34",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge blocks DeSantis congressional redistricting effort",
+    "sentiment": "0"
+  },
+  {
+    "id": 3682,
+    "mediaId": 151,
+    "date": "d2022-05-11T21:34",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge blocks DeSantis congressional redistricting effort",
+    "sentiment": "0.0"
   }
 ]

@@ -2,17 +2,19 @@
   {
     "id": 5441,
     "mediaId": 124,
-    "date": "3/28/2022 12:00:00 AM",
+    "date": "d2022-03-28T12:47:54",
     "sentence": "",
     "author": "",
-    "title": "Midterm environment looks more like 2010 than 2018 in NBC News poll"
+    "title": "Midterm environment looks more like 2010 than 2018 in NBC News poll",
+    "sentiment": "0.0"
   },
   {
     "id": 7076,
     "mediaId": 195,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T21:15",
     "sentence": "I am with David all the way because <span class='selected-term'>Brian Kemp</span> was the WORST Governor in the Country on Election Integrity,? he added.",
     "author": "Caroline Vakil",
-    "title": "Trump calls NBC story on him giving up on Perdue a phony narrative"
+    "title": "Trump calls NBC story on him giving up on Perdue a phony narrative",
+    "sentiment": "-0.755"
   }
 ]

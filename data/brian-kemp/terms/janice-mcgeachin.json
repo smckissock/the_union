@@ -2,57 +2,64 @@
   {
     "id": 4984,
     "mediaId": 136,
-    "date": "4/24/2022 12:00:00 AM",
+    "date": "d2022-04-24T19:15",
     "sentence": "The former president has officially endorsed former Senator David Perdue over Governor <span class='selected-term'>Brian Kemp</span> in Georgia and Lieutenant Governor Janice McGeachin over Governor Brad Little in Idaho.",
     "author": "Andrew Stanton",
-    "title": "Donald Trump's 'Emotional' Endorsements Will 'Backfire': Chris Christie"
-  },
-  {
-    "id": 4472,
-    "mediaId": 302,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Associated Press",
-    "title": "Primary takeaways: Election denier wins, bad behavior dooms Cawthorn"
-  },
-  {
-    "id": 4476,
-    "mediaId": 943,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Election denier wins GOP nomination for Pennsylvania governor: Takeaways from Tuesdays primaries"
-  },
-  {
-    "id": 4477,
-    "mediaId": 195,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Little fends of Trump-backed primary challenge in Idaho governor primary"
+    "title": "Donald Trump's 'Emotional' Endorsements Will 'Backfire': Chris Christie",
+    "sentiment": "0"
   },
   {
     "id": 4479,
     "mediaId": 1576,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "",
     "author": "",
-    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn"
+    "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4477,
+    "mediaId": 195,
+    "date": "d2022-05-18T04:23",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Little fends of Trump-backed primary challenge in Idaho governor primary",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4476,
+    "mediaId": 943,
+    "date": "d2022-05-18T06:02",
+    "sentence": "",
+    "author": "",
+    "title": "Election denier wins GOP nomination for Pennsylvania governor: Takeaways from Tuesdays primaries",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4472,
+    "mediaId": 302,
+    "date": "d2022-05-18T12:00",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Primary takeaways: Election denier wins, bad behavior dooms Cawthorn",
+    "sentiment": "0.0"
   },
   {
     "id": 7430,
     "mediaId": 136,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T15:13",
     "sentence": "Where Trump has taken the biggest risk in the GOP gubernatorial race in Georgia, where he has supported former Senator David Perdue over the popular Republican Governor <span class='selected-term'>Brian Kemp</span>.",
     "author": "Ewan Palmer",
-    "title": "Donald Trump Set for Slew of Primary Losses as Midterms Strategy Unravels"
+    "title": "Donald Trump Set for Slew of Primary Losses as Midterms Strategy Unravels",
+    "sentiment": "-0.774"
   },
   {
     "id": 7343,
     "mediaId": 136,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T01:02",
     "sentence": "On Tuesday, Governor <span class='selected-term'>Brian Kemp</span> won a Republican nomination for reelection despite Trump's attacks against him and the former president's endorsement of his primary opponent, former Senator David Perdue.",
     "author": "Katherine Fung",
-    "title": "Trump Sacrificed His Endorsement Record for Georgia Revenge Fantasy"
+    "title": "Trump Sacrificed His Endorsement Record for Georgia Revenge Fantasy",
+    "sentiment": "-0.574"
   }
 ]

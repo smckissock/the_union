@@ -2,25 +2,28 @@
   {
     "id": 690,
     "mediaId": 129,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T00:00",
     "sentence": "",
     "author": "",
-    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals"
+    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
+    "sentiment": "0.0"
   },
   {
     "id": 2217,
     "mediaId": 376,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T15:02",
     "sentence": "In southwestern Washington, Trump has endorsed former Army Green Beret <span class='selected-term'>Joe Kent</span> against Herrera Beutler.",
     "author": "",
-    "title": "New lines, interesting races in Washington state"
+    "title": "New lines, interesting races in Washington state",
+    "sentiment": "0.0"
   },
   {
     "id": 11,
     "mediaId": 376,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T05:00",
     "sentence": "In Washington state, Rep. Jaime Herrera Beutler raised $605,000, while Trump-backed former Green Beret <span class='selected-term'>Joe Kent</span> raised $457,000.",
     "author": "Herb Jackson",
-    "title": "Trump targets outraise challengers, unlike some other incumbents"
+    "title": "Trump targets outraise challengers, unlike some other incumbents",
+    "sentiment": "0.0"
   }
 ]

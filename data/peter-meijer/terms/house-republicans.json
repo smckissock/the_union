@@ -2,41 +2,46 @@
   {
     "id": 84,
     "mediaId": 43,
-    "date": "1/5/2022 12:00:00 AM",
+    "date": "d2022-01-05T00:00",
     "sentence": "So far, Trump has endorsed primary opponents for at least five of them, including Gonzalez (who's retiring), Reps. Liz Cheney of Wyoming, Jaime Herrera Beutler of Washington, and <span class='selected-term'>Peter Meijer</span> and Fred Upton of Michigan, who serve neighboring districts on the west side of the state.",
     "author": "",
-    "title": "Ten House Republicans voted to impeach Trump. Some then fell silent while others spoke up"
+    "title": "Ten House Republicans voted to impeach Trump. Some then fell silent while others spoke up",
+    "sentiment": "-0.463"
   },
   {
     "id": 76,
     "mediaId": 120,
-    "date": "1/17/2022 12:00:00 AM",
+    "date": "d2022-01-17T13:40",
     "sentence": "As for the rest of the contingent  Washington's Jaime Herrera Beutler, Wyoming's Liz Cheney, Michigan's <span class='selected-term'>Peter Meijer</span>, Washington's Dan Newhouse, South Carolina's Tom Rice, and California's David Valadao  each appear to be running for re-election this year.",
     "author": "Steve Benen",
-    "title": "Another GOP member of the Impeachment 10 heads for the exits"
+    "title": "Another GOP member of the Impeachment 10 heads for the exits",
+    "sentiment": "0.0"
   },
   {
     "id": 75,
     "mediaId": 237,
-    "date": "1/18/2022 12:00:00 AM",
+    "date": "d2022-01-18T05:30",
     "sentence": "Rep. <span class='selected-term'>Peter Meijer</span>\nMeijer, Upton's Michigan colleague, cast his impeachment vote just days after being sworn in for his first term in Congress.",
     "author": "Kate Scanlon",
-    "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically"
+    "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically",
+    "sentiment": "0.0"
   },
   {
     "id": 63,
     "mediaId": 151,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T19:16",
     "sentence": "Fellow Michigan Republican Rep. <span class='selected-term'>Peter Meijer</span> raised $529,000.",
     "author": "",
-    "title": "House Republicans close money gap in hunt for the majority"
+    "title": "House Republicans close money gap in hunt for the majority",
+    "sentiment": "0.0"
   },
   {
     "id": 9,
     "mediaId": 43,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "We turn next to Michigan's 3rd in the Grand Rapids area, where Trump's forces have consolidated behind conservative commentator John Gibbs' bid to deny renomination to freshman Rep. <span class='selected-term'>Peter Meijer</span> in August.",
     "author": "",
-    "title": "House Republicans all lead their challengers in recent fundraising"
+    "title": "House Republicans all lead their challengers in recent fundraising",
+    "sentiment": "0.0"
   }
 ]

@@ -2,33 +2,37 @@
   {
     "id": 5167,
     "mediaId": 21,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T18:00",
     "sentence": "",
     "author": "Brent D. Griffiths",
-    "title": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs"
+    "title": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs",
+    "sentiment": "0"
   },
   {
     "id": 5168,
     "mediaId": 21,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T18:00",
     "sentence": "",
     "author": "Bryan Metzger",
-    "title": "McConnell told Republican senators they've 'got to stay focused on Georgia' immediately after Trump told them that he could overturn the 2020 presidential election: book"
+    "title": "McConnell told Republican senators they've 'got to stay focused on Georgia' immediately after Trump told them that he could overturn the 2020 presidential election: book",
+    "sentiment": "0.0"
   },
   {
     "id": 5051,
     "mediaId": 157,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T00:00",
     "sentence": "Kevin McCarthy saved Trump from political 'extinction' -- and some Republicans secretly resent him\nNOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Brad Reed",
-    "title": "Kevin McCarthy saved Trump from 'political extinction' -- and many Republicans secretly resent him: NYT reporter"
+    "title": "Kevin McCarthy saved Trump from 'political extinction' -- and many Republicans secretly resent him: NYT reporter",
+    "sentiment": "0.0"
   },
   {
     "id": 4875,
     "mediaId": 195,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T17:22",
     "sentence": "",
     "author": "Reid Wilson",
-    "title": "Ask me nicely: Trump demanded loyalty from governors for help, says book"
+    "title": "Ask me nicely: Trump demanded loyalty from governors for help, says book",
+    "sentiment": "0"
   }
 ]

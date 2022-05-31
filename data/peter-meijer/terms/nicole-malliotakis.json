@@ -2,17 +2,19 @@
   {
     "id": 63,
     "mediaId": 151,
-    "date": "2/2/2022 12:00:00 AM",
+    "date": "d2022-02-02T19:16",
     "sentence": "Fellow Michigan Republican Rep. <span class='selected-term'>Peter Meijer</span> raised $529,000.",
     "author": "",
-    "title": "House Republicans close money gap in hunt for the majority"
+    "title": "House Republicans close money gap in hunt for the majority",
+    "sentiment": "0.0"
   },
   {
     "id": 22,
     "mediaId": 151,
-    "date": "4/6/2022 12:00:00 AM",
+    "date": "d2022-04-06T08:31",
     "sentence": "And in Michigan, Democrat Hillary Scholten, an immigration attorney, is seeking a rematch against GOP Rep. <span class='selected-term'>Peter Meijer</span> in a much bluer seat.",
     "author": "",
-    "title": "Dem moderates get choosy in midterm recruits as GOP headwinds grow"
+    "title": "Dem moderates get choosy in midterm recruits as GOP headwinds grow",
+    "sentiment": "0.0"
   }
 ]

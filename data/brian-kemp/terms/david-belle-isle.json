@@ -2,33 +2,37 @@
   {
     "id": 8047,
     "mediaId": 1576,
-    "date": "3/11/2022 12:00:00 AM",
+    "date": "d2022-03-11T00:00",
     "sentence": "Republicans: <span class='selected-term'>Brian Kemp</span> (incumbent), Catherine Davis, David Perdue, Kandiss Taylor, Tom Williams.",
     "author": "",
-    "title": "Candidates confirmed for 2022 election in Georgia as qualifying ends"
+    "title": "Candidates confirmed for 2022 election in Georgia as qualifying ends",
+    "sentiment": "0"
   },
   {
     "id": 7104,
     "mediaId": 157,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "Travis Gettys",
-    "title": "Trump wants a loyalist to oversee Georgia elections  but his preferred candidate is running odd campaign"
+    "title": "Trump wants a loyalist to oversee Georgia elections  but his preferred candidate is running odd campaign",
+    "sentiment": "0.0"
   },
   {
     "id": 7436,
     "mediaId": 441,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T11:00",
     "sentence": "While Republican Governor <span class='selected-term'>Brian Kemp</span> remains popular in Georgia and looks likely to survive a primary challenge, Secretary of State Brad Raffenspergers race is closer.",
     "author": "Margaret Newkirk",
-    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries"
+    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries",
+    "sentiment": "0.633"
   },
   {
     "id": 7381,
     "mediaId": 1576,
-    "date": "5/25/2022 12:00:00 AM",
+    "date": "d2022-05-25T00:00",
     "sentence": "",
     "author": "",
-    "title": "Georgia Secretary of State Raffensperger faces Trump ally"
+    "title": "Georgia Secretary of State Raffensperger faces Trump ally",
+    "sentiment": "0"
   }
 ]

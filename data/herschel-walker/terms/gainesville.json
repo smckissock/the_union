@@ -2,17 +2,19 @@
   {
     "id": 7815,
     "mediaId": 12,
-    "date": "4/10/2022 12:00:00 AM",
+    "date": "d2022-04-10T12:00",
     "sentence": "Former football great <span class='selected-term'>Herschel Walker</span> skipped the first major Republican U.S. Senate debate, but his absence at the event in Gainesville on Saturday helped shape the back-and-forth among the five candidates who showed up.",
     "author": "Greg Bluestein",
-    "title": "Herschel Walkers no-show looms large over Senate GOP debate"
+    "title": "Herschel Walkers no-show looms large over Senate GOP debate",
+    "sentiment": "-0.678"
   },
   {
     "id": 7597,
     "mediaId": 558,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T21:15",
     "sentence": "Running for the U.S. Senate in Georgia, <span class='selected-term'>Herschel Walker</span> has taken a different tack, saying he doesnt want to look backward at the 2020 election.",
     "author": "DAVID KLEPPER and JEFF AMY",
-    "title": "GOP works to get out the vote after calling elections rigged"
+    "title": "GOP works to get out the vote after calling elections rigged",
+    "sentiment": "0.0"
   }
 ]

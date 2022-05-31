@@ -1,18 +1,20 @@
 [
   {
-    "id": 5488,
-    "mediaId": 195,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tom Mockaitis",
-    "title": "Conspiracy theories and racist rhetoric fuel domestic terrorism"
-  },
-  {
     "id": 5505,
     "mediaId": 157,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T00:00",
     "sentence": "",
     "author": "Alex Henderson",
-    "title": "Economist Paul Krugman explains why MAGAs paranoid mindset has overtaken the GOP"
+    "title": "Economist Paul Krugman explains why MAGAs paranoid mindset has overtaken the GOP",
+    "sentiment": "0"
+  },
+  {
+    "id": 5488,
+    "mediaId": 195,
+    "date": "d2022-05-17T11:30",
+    "sentence": "",
+    "author": "Tom Mockaitis",
+    "title": "Conspiracy theories and racist rhetoric fuel domestic terrorism",
+    "sentiment": "0"
   }
 ]

@@ -2,33 +2,37 @@
   {
     "id": 5740,
     "mediaId": 43,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "",
-    "title": "Super PAC Backing J.D. Vance (R) Opposition Book On Their Own Candidate Has Been Made Public"
+    "title": "Super PAC Backing J.D. Vance (R) Opposition Book On Their Own Candidate Has Been Made Public",
+    "sentiment": "0.399"
   },
   {
     "id": 5743,
     "mediaId": 157,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T00:00",
     "sentence": "",
     "author": "Brad Reed",
-    "title": "JD Vance-backing super PAC wrote a brutal oppo book on their own candidate -- and it's public for all to see"
-  },
-  {
-    "id": 5669,
-    "mediaId": 65,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "JD Vance campaign fires back at Politico Playbook: They're acting like Tim Ryan's 'PR team'"
+    "title": "JD Vance-backing super PAC wrote a brutal oppo book on their own candidate -- and it's public for all to see",
+    "sentiment": "-0.174"
   },
   {
     "id": 5677,
     "mediaId": 63,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T10:30",
     "sentence": "",
     "author": "Zach Everson",
-    "title": "Thiel Was Good For $10 Million, But J.D. Vances Other Billionaire Backers Were Good For Nothing"
+    "title": "Thiel Was Good For $10 Million, But J.D. Vances Other Billionaire Backers Were Good For Nothing",
+    "sentiment": "0"
+  },
+  {
+    "id": 5669,
+    "mediaId": 65,
+    "date": "d2022-05-06T14:25",
+    "sentence": "",
+    "author": "",
+    "title": "JD Vance campaign fires back at Politico Playbook: They're acting like Tim Ryan's 'PR team'",
+    "sentiment": "-0.574"
   }
 ]

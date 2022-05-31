@@ -2,9 +2,19 @@
   {
     "id": 4190,
     "mediaId": 65,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T20:39",
     "sentence": "Comedian Trevor Noah made several jokes at DeSantiss expense during his performance at the White House Correspondents Dinner Saturday night, saying at one point that \"<span class='selected-term'>Ron DeSantis</span> is here,\" and looking into the audience as if he was directing his attention at the governor himself.",
     "author": "Nikolas Lanum",
-    "title": "MSNBC, The View, late-night hosts repeatedly hurl personal attacks at DeSantis"
+    "title": "MSNBC, The View, late-night hosts repeatedly hurl personal attacks at DeSantis",
+    "sentiment": "-0.867"
+  },
+  {
+    "id": 4190,
+    "mediaId": 65,
+    "date": "d2022-05-02T20:39",
+    "sentence": "Comedian Trevor Noah made several jokes at DeSantiss expense during his performance at the White House Correspondents Dinner Saturday night, saying at one point that \"<span class='selected-term'>Ron DeSantis</span> is here,\" and looking into the audience as if he was directing his attention at the governor himself.",
+    "author": "Nikolas Lanum",
+    "title": "MSNBC, The View, late-night hosts repeatedly hurl personal attacks at DeSantis",
+    "sentiment": "0.0"
   }
 ]

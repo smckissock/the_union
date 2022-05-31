@@ -2,417 +2,469 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 2448,
     "mediaId": 65,
-    "date": "1/3/2022 12:00:00 AM",
+    "date": "d2022-01-03T17:00",
     "sentence": "",
     "author": "Paul Steinhauser",
-    "title": "Two GOP senators have yet to say if they're running for reelection in November"
+    "title": "Two GOP senators have yet to say if they're running for reelection in November",
+    "sentiment": "0.0"
   },
   {
     "id": 2445,
     "mediaId": 178,
-    "date": "1/5/2022 12:00:00 AM",
+    "date": "d2022-01-05T00:00",
     "sentence": "",
     "author": "SCOTT BAUER",
-    "title": "Democratic Senate candidate Lasry releases democracy plan"
+    "title": "Democratic Senate candidate Lasry releases democracy plan",
+    "sentiment": "0"
   },
   {
     "id": 2440,
     "mediaId": 367,
-    "date": "1/7/2022 12:00:00 AM",
+    "date": "d2022-01-07T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources"
+    "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources",
+    "sentiment": "0"
   },
   {
     "id": 2436,
     "mediaId": 21,
-    "date": "1/8/2022 12:00:00 AM",
+    "date": "d2022-01-08T15:00",
     "sentence": "",
     "author": "John L. Dorman",
-    "title": "GOP Sen. Ron Johnson of Wisconsin, a top foil for Democrats who pledged to only serve for two terms, poised to run for reelection to a third: sources"
-  },
-  {
-    "id": 2422,
-    "mediaId": 147,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Scott Bauer",
-    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection"
-  },
-  {
-    "id": 2424,
-    "mediaId": 312,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "SCOTT BAUER / AP",
-    "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection"
-  },
-  {
-    "id": 2426,
-    "mediaId": 195,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "Ron Johnson announces run for third Senate term in Wisconsin"
-  },
-  {
-    "id": 2427,
-    "mediaId": 323,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "John McCormick",
-    "title": "Ron Johnson, Republican Senator, to Seek Third Term in Wisconsin"
-  },
-  {
-    "id": 2432,
-    "mediaId": 124,
-    "date": "1/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "GOP Sen. Ron Johnson announces bid for third term in Wisconsin"
+    "title": "GOP Sen. Ron Johnson of Wisconsin, a top foil for Democrats who pledged to only serve for two terms, poised to run for reelection to a third: sources",
+    "sentiment": "0"
   },
   {
     "id": 2435,
     "mediaId": 178,
-    "date": "1/9/2022 12:00:00 AM",
+    "date": "d2022-01-09T00:00",
     "sentence": "",
     "author": "SCOTT BAUER",
-    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection"
+    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
+    "sentiment": "0"
+  },
+  {
+    "id": 2432,
+    "mediaId": 124,
+    "date": "d2022-01-09T14:33:35",
+    "sentence": "",
+    "author": "",
+    "title": "GOP Sen. Ron Johnson announces bid for third term in Wisconsin",
+    "sentiment": "0"
+  },
+  {
+    "id": 2427,
+    "mediaId": 323,
+    "date": "d2022-01-09T15:26",
+    "sentence": "",
+    "author": "John McCormick",
+    "title": "Ron Johnson, Republican Senator, to Seek Third Term in Wisconsin",
+    "sentiment": "0"
+  },
+  {
+    "id": 2426,
+    "mediaId": 195,
+    "date": "d2022-01-09T15:42",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Ron Johnson announces run for third Senate term in Wisconsin",
+    "sentiment": "0"
+  },
+  {
+    "id": 2424,
+    "mediaId": 312,
+    "date": "d2022-01-09T16:17",
+    "sentence": "",
+    "author": "SCOTT BAUER / AP",
+    "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection",
+    "sentiment": "0"
+  },
+  {
+    "id": 2422,
+    "mediaId": 147,
+    "date": "d2022-01-09T18:33",
+    "sentence": "",
+    "author": "Scott Bauer",
+    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
+    "sentiment": "0"
   },
   {
     "id": 2420,
     "mediaId": 112,
-    "date": "1/10/2022 12:00:00 AM",
+    "date": "d2022-01-10T03:13",
     "sentence": "",
     "author": "Associated Press",
-    "title": "Wisconsin Republican Ron Johnson to run for re-election to Senate, reversing self-imposed term-limit vow"
-  },
-  {
-    "id": 2416,
-    "mediaId": 195,
-    "date": "1/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Mychael Schnell",
-    "title": "Booker endorses Mandela Barnes in Wisconsin Senate race"
+    "title": "Wisconsin Republican Ron Johnson to run for re-election to Senate, reversing self-imposed term-limit vow",
+    "sentiment": "0"
   },
   {
     "id": 2418,
     "mediaId": 129,
-    "date": "1/11/2022 12:00:00 AM",
+    "date": "d2022-01-11T00:00",
     "sentence": "",
     "author": "",
-    "title": "Nobody's Getting Special Treatment in 2022"
+    "title": "Nobody's Getting Special Treatment in 2022",
+    "sentiment": "0.0"
   },
   {
-    "id": 2413,
+    "id": 2416,
     "mediaId": 195,
-    "date": "1/12/2022 12:00:00 AM",
+    "date": "d2022-01-11T13:18",
     "sentence": "",
     "author": "Mychael Schnell",
-    "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race"
+    "title": "Booker endorses Mandela Barnes in Wisconsin Senate race",
+    "sentiment": "0.78"
   },
   {
     "id": 2414,
     "mediaId": 424,
-    "date": "1/12/2022 12:00:00 AM",
+    "date": "d2022-01-12T05:00",
     "sentence": "Another of the Democrats seeking to challenge the senator in 2022, Wisconsin Lieutenant Governor <span class='selected-term'>Mandela Barnes</span>, summed things up succinctly when he observed, Ron Johnson used his office to enrich some of his wealthiest campaign donors while raising taxes on the middle class and widening the income inequality gap.?\nThe senator's machinations had nothing to do with Wisconsin.",
     "author": "John Nichols",
-    "title": "Ron Johnson Breaks His Term-Limit Pledge in Order to Keep Serving the Billionaire Class"
+    "title": "Ron Johnson Breaks His Term-Limit Pledge in Order to Keep Serving the Billionaire Class",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2413,
+    "mediaId": 195,
+    "date": "d2022-01-12T19:37",
+    "sentence": "",
+    "author": "Mychael Schnell",
+    "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race",
+    "sentiment": "0.871"
   },
   {
     "id": 2412,
     "mediaId": 195,
-    "date": "1/14/2022 12:00:00 AM",
+    "date": "d2022-01-14T12:31",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Senate Democrats' super PAC releases $1 million ad buy against Ron Johnson"
+    "title": "Senate Democrats' super PAC releases $1 million ad buy against Ron Johnson",
+    "sentiment": "0"
   },
   {
     "id": 2408,
     "mediaId": 195,
-    "date": "1/19/2022 12:00:00 AM",
+    "date": "d2022-01-19T10:45",
     "sentence": "Less than 6 months into his campaign, there's no question that <span class='selected-term'>Mandela Barnes</span> has built the largest grassroots coalition and is poised to defeat Ron Johnson once and for all,? said Barnes' campaign manager Kory Kozloski.",
     "author": "Julia Manchester",
-    "title": "Barnes raises over $1 million in final quarter of 2021"
+    "title": "Barnes raises over $1 million in final quarter of 2021",
+    "sentiment": "0.296"
   },
   {
     "id": 2406,
     "mediaId": 124,
-    "date": "1/20/2022 12:00:00 AM",
+    "date": "d2022-01-20T09:33",
     "sentence": "",
     "author": "",
-    "title": "Republicans 'all in' for Ron Johnson's Senate re-election fight in Wisconsin"
+    "title": "Republicans 'all in' for Ron Johnson's Senate re-election fight in Wisconsin",
+    "sentiment": "0.0"
   },
   {
     "id": 2402,
     "mediaId": 367,
-    "date": "1/23/2022 12:00:00 AM",
+    "date": "d2022-01-23T00:00",
     "sentence": "But it didn't because Governor Evers and Lieutenant Governor <span class='selected-term'>Mandela Barnes</span> actually incited the rioters and refused to provide the type of manpower to quell the riots.\"",
     "author": "Bill Glauber",
-    "title": "U.S. Sen. Ron Johnson accuses Gov. Tony Evers, Lt. Gov. Mandela Barnes of inciting Kenosha rioters"
+    "title": "U.S. Sen. Ron Johnson accuses Gov. Tony Evers, Lt. Gov. Mandela Barnes of inciting Kenosha rioters",
+    "sentiment": "-0.894"
   },
   {
     "id": 2400,
     "mediaId": 1390,
-    "date": "1/24/2022 12:00:00 AM",
+    "date": "d2022-01-24T19:00",
     "sentence": "Lieutenant Governor <span class='selected-term'>Mandela Barnes</span>, one of the top Democrat contenders, has boasted his \"progressive credibility\" in the Democratic primary, being a vocal supporter of the Green New Deal and Medicare-for-all.",
     "author": "Houston Keene",
-    "title": "Dem Senate candidates campaign on higher federal spending, despite inflation fears"
+    "title": "Dem Senate candidates campaign on higher federal spending, despite inflation fears",
+    "sentiment": "0"
   },
   {
     "id": 2396,
     "mediaId": 238,
-    "date": "1/26/2022 12:00:00 AM",
+    "date": "d2022-01-26T00:00",
     "sentence": "",
     "author": "",
-    "title": "Opinion: Sarah Godlewski could be the best chance to rid the Senate of Ron Johnson"
+    "title": "Opinion: Sarah Godlewski could be the best chance to rid the Senate of Ron Johnson",
+    "sentiment": "0"
   },
   {
     "id": 2394,
     "mediaId": 367,
-    "date": "1/31/2022 12:00:00 AM",
+    "date": "d2022-01-31T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate candidate Alex Lasry pours in $1.55 million more into race, while Sarah Godlewski adds $750,000"
+    "title": "Democratic U.S. Senate candidate Alex Lasry pours in $1.55 million more into race, while Sarah Godlewski adds $750,000",
+    "sentiment": "0"
   },
   {
     "id": 59,
     "mediaId": 195,
-    "date": "2/6/2022 12:00:00 AM",
+    "date": "d2022-02-06T15:30",
     "sentence": "",
     "author": "Albert Hunt",
-    "title": "Midterm primaries might be critical to balance of the Senate"
+    "title": "Midterm primaries might be critical to balance of the Senate",
+    "sentiment": "0.0"
   },
   {
     "id": 2390,
     "mediaId": 238,
-    "date": "2/7/2022 12:00:00 AM",
+    "date": "d2022-02-07T00:00",
     "sentence": "",
     "author": "",
-    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race"
+    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
+    "sentiment": "-0.626"
   },
   {
     "id": 2385,
     "mediaId": 367,
-    "date": "2/24/2022 12:00:00 AM",
+    "date": "d2022-02-24T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race"
+    "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
+    "sentiment": "-0.684"
   },
   {
     "id": 2371,
     "mediaId": 195,
-    "date": "3/9/2022 12:00:00 AM",
+    "date": "d2022-03-09T15:43",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Johnson touts work with Milwaukee faith initiative in new ads"
+    "title": "Johnson touts work with Milwaukee faith initiative in new ads",
+    "sentiment": "0.0"
   },
   {
     "id": 2368,
     "mediaId": 367,
-    "date": "3/14/2022 12:00:00 AM",
+    "date": "d2022-03-14T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson"
+    "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson",
+    "sentiment": "0.0"
   },
   {
     "id": 2361,
     "mediaId": 195,
-    "date": "3/15/2022 12:00:00 AM",
+    "date": "d2022-03-15T11:00",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill"
+    "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill",
+    "sentiment": "0.0"
   },
   {
     "id": 2357,
     "mediaId": 367,
-    "date": "3/17/2022 12:00:00 AM",
+    "date": "d2022-03-17T00:00",
     "sentence": "\"<span class='selected-term'>Mandela Barnes</span> knows that as the leader of the party, Governor Evers cannot get involved in the primary,\" said a statement from Maddy McDaniel, a Barnes' campaign spokeswoman.",
     "author": "Patrick Marley",
-    "title": "Gov. Tony Evers isn't endorsing any candidates in the Democratic primary for U.S. Senate"
+    "title": "Gov. Tony Evers isn't endorsing any candidates in the Democratic primary for U.S. Senate",
+    "sentiment": "0.341"
   },
   {
     "id": 2355,
     "mediaId": 195,
-    "date": "3/21/2022 12:00:00 AM",
+    "date": "d2022-03-21T12:00",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Marianne Williamson endorses Tom Nelson in Wisconsin Senate race"
+    "title": "Marianne Williamson endorses Tom Nelson in Wisconsin Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2349,
     "mediaId": 367,
-    "date": "3/24/2022 12:00:00 AM",
+    "date": "d2022-03-24T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate contenders in Wisconsin focus on manufacturing"
+    "title": "Democratic U.S. Senate contenders in Wisconsin focus on manufacturing",
+    "sentiment": "0"
   },
   {
     "id": 2347,
     "mediaId": 43,
-    "date": "3/28/2022 12:00:00 AM",
+    "date": "d2022-03-28T00:00",
     "sentence": "Or click below to donate and get involved with the Senate Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\n<span class='selected-term'>Mandela Barnes</span> for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
-    "title": "Rep. Adam Schiff (D. CA) Helps Wisconsin Democrats Take Down Putin's Favorite Senator"
+    "title": "Rep. Adam Schiff (D. CA) Helps Wisconsin Democrats Take Down Putin's Favorite Senator",
+    "sentiment": "0.0"
   },
   {
     "id": 2340,
     "mediaId": 195,
-    "date": "4/4/2022 12:00:00 AM",
+    "date": "d2022-04-04T10:00",
     "sentence": "",
     "author": "Julia Manchester",
-    "title": "Midwest Democrats go all in on tough-on-China approach"
-  },
-  {
-    "id": 2336,
-    "mediaId": 195,
-    "date": "4/12/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Barnes posts $1.7M first quarter number in Wisconsin Senate race"
+    "title": "Midwest Democrats go all in on tough-on-China approach",
+    "sentiment": "0"
   },
   {
     "id": 2337,
     "mediaId": 367,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "Democratic U.S. Senate candidate <span class='selected-term'>Mandela Barnes</span> is breaking with the Biden administration on a key piece of immigration policy.",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate candidate Mandela Barnes opposes Biden administration's plan to lift Title 42 rule at the border"
+    "title": "Democratic U.S. Senate candidate Mandela Barnes opposes Biden administration's plan to lift Title 42 rule at the border",
+    "sentiment": "0"
   },
   {
-    "id": 2332,
-    "mediaId": 238,
-    "date": "4/13/2022 12:00:00 AM",
+    "id": 2336,
+    "mediaId": 195,
+    "date": "d2022-04-12T13:11",
     "sentence": "",
-    "author": "",
-    "title": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race"
+    "author": "Julia Manchester",
+    "title": "Barnes posts $1.7M first quarter number in Wisconsin Senate race",
+    "sentiment": "0.662"
   },
   {
     "id": 2333,
     "mediaId": 239,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:04:52",
     "sentence": "",
     "author": "Mica Soellner",
-    "title": "Democrats battle to knock out Sen. Ron Johnson in tough election year"
+    "title": "Democrats battle to knock out Sen. Ron Johnson in tough election year",
+    "sentiment": "0.0"
   },
   {
-    "id": 2328,
-    "mediaId": 151,
-    "date": "4/14/2022 12:00:00 AM",
+    "id": 2332,
+    "mediaId": 238,
+    "date": "d2022-04-13T11:45",
     "sentence": "",
     "author": "",
-    "title": "Another Capitol riot participant is cooperating with the Jan. 6 committee. She's reasoning that her cooperation should earn her a reduced sentence."
+    "title": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race",
+    "sentiment": "-0.508"
   },
   {
     "id": 2330,
     "mediaId": 367,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Bucks executive Alex Lasry, Wisconsin Treasurer Sarah Godlewski spend big in Democratic U.S. Senate race"
+    "title": "Bucks executive Alex Lasry, Wisconsin Treasurer Sarah Godlewski spend big in Democratic U.S. Senate race",
+    "sentiment": "0.0"
   },
   {
-    "id": 2321,
-    "mediaId": 195,
-    "date": "4/15/2022 12:00:00 AM",
+    "id": 2328,
+    "mediaId": 151,
+    "date": "d2022-04-14T14:00",
     "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Johnson raises $7.1 million in first quarter"
-  },
-  {
-    "id": 2323,
-    "mediaId": 65,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Paul Steinhauser",
-    "title": "Wisconsin GOP Sen. Johnson hauls in $7.1 million over the past three months for his reelection bid"
+    "author": "",
+    "title": "Another Capitol riot participant is cooperating with the Jan. 6 committee. She's reasoning that her cooperation should earn her a reduced sentence.",
+    "sentiment": "0"
   },
   {
     "id": 2326,
     "mediaId": 367,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Republican U.S. Sen. Ron Johnson raised $7.1 million in campaign cash during the first three months of 2022"
+    "title": "Republican U.S. Sen. Ron Johnson raised $7.1 million in campaign cash during the first three months of 2022",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2323,
+    "mediaId": 65,
+    "date": "d2022-04-15T01:04",
+    "sentence": "",
+    "author": "Paul Steinhauser",
+    "title": "Wisconsin GOP Sen. Johnson hauls in $7.1 million over the past three months for his reelection bid",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2321,
+    "mediaId": 195,
+    "date": "d2022-04-15T14:20",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Johnson raises $7.1 million in first quarter",
+    "sentiment": "0"
   },
   {
     "id": 2314,
     "mediaId": 147,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T18:40",
     "sentence": "CAMBRIDGE, Wis. (AP)  Among the red barns, bins and tractors of a southern Wisconsin dairy farm, Democratic U.S. Senate candidate <span class='selected-term'>Mandela Barnes</span> sat at a white picnic table painted with black spots to resemble a dairy cow.",
     "author": "Scott Bauer",
-    "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson"
+    "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson",
+    "sentiment": "-0.419"
   },
   {
     "id": 2304,
     "mediaId": 195,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T19:34",
     "sentence": "",
     "author": "Tal Axelrod",
-    "title": "Democratic Senate primary tightening in Wisconsin: poll"
+    "title": "Democratic Senate primary tightening in Wisconsin: poll",
+    "sentiment": "0.73"
   },
   {
     "id": 2302,
     "mediaId": 238,
-    "date": "4/28/2022 12:00:00 AM",
+    "date": "d2022-04-28T14:00",
     "sentence": "As I have written, the leading Democratic Senate contender, <span class='selected-term'>Mandela Barnes</span>, initially went far to the left (e.g., favoring Medicare-for-all, abolishing ICE), although he recently has tried to tack back to the center.",
     "author": "",
-    "title": "Opinion The Wisconsin GOP is stuck with Ron Johnson. Democrats could pick a winner."
+    "title": "Opinion The Wisconsin GOP is stuck with Ron Johnson. Democrats could pick a winner.",
+    "sentiment": "-0.227"
   },
   {
     "id": 2301,
     "mediaId": 367,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution"
-  },
-  {
-    "id": 2292,
-    "mediaId": 238,
-    "date": "5/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion A Ron Johnson challenger asks: What if Wisconsin actually had two senators?"
+    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution",
+    "sentiment": "0.0"
   },
   {
     "id": 2294,
     "mediaId": 43,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T00:00",
     "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\n<span class='selected-term'>Mandela Barnes</span> for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
-    "title": "Now Says That COVID Vaccines Could Cause AIDS"
+    "title": "Now Says That COVID Vaccines Could Cause AIDS",
+    "sentiment": "0"
+  },
+  {
+    "id": 2292,
+    "mediaId": 238,
+    "date": "d2022-05-03T14:00",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion A Ron Johnson challenger asks: What if Wisconsin actually had two senators?",
+    "sentiment": "-0.64"
   },
   {
     "id": 2288,
     "mediaId": 43,
-    "date": "5/7/2022 12:00:00 AM",
+    "date": "d2022-05-07T00:00",
     "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\n<span class='selected-term'>Mandela Barnes</span> for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
-    "title": "Admits He's Waging \"Guerilla War\" Against The Medical Establishment"
+    "title": "Admits He's Waging \"Guerilla War\" Against The Medical Establishment",
+    "sentiment": "0.0"
   },
   {
     "id": 6547,
     "mediaId": 367,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T00:00",
     "sentence": "",
     "author": "Patrick Marley",
-    "title": "Ron Johnson unifies Republicans at state convention as they remain split over issues and other candidates"
+    "title": "Ron Johnson unifies Republicans at state convention as they remain split over issues and other candidates",
+    "sentiment": "0.0"
   },
   {
     "id": 6548,
     "mediaId": 367,
-    "date": "5/21/2022 12:00:00 AM",
+    "date": "d2022-05-21T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance"
+    "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance",
+    "sentiment": "-0.376"
   }
 ]

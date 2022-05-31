@@ -1,34 +1,29 @@
 [
   {
-    "id": 7078,
-    "mediaId": 406,
-    "date": "5/20/2022 12:00:00 AM",
-    "sentence": "\"The future of transportation is in the Peach State as we announce the largest project in our state's history  delivering high-quality jobs on the leading edge of mobility to hardworking Georgians,\" said Governor <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Hyundai Motor Group",
-    "title": "Hyundai Motor Group to Establish First Dedicated EV Plant and Battery Manufacturing Facility in the U.S."
-  },
-  {
-    "id": 7083,
-    "mediaId": 558,
-    "date": "5/20/2022 12:00:00 AM",
+    "id": 7094,
+    "mediaId": 1576,
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "",
-    "title": "Hyundai to build $5.5 bn electric vehicle plant in US"
+    "title": "Announcement expected to confirm $7B auto plant in Georgia",
+    "sentiment": "0"
   },
   {
     "id": 7084,
     "mediaId": 558,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T14:30",
     "sentence": "They estimate the investment to be worth $5.54 billion, with Governor <span class='selected-term'>Brian Kemp</span> claiming it will be the \"largest project\" in state history.",
     "author": "Jon Fingas",
-    "title": "Hyundai's first all-EV factory in the US will be in Georgia"
+    "title": "Hyundai's first all-EV factory in the US will be in Georgia",
+    "sentiment": "0"
   },
   {
-    "id": 7094,
-    "mediaId": 1576,
-    "date": "5/20/2022 12:00:00 AM",
+    "id": 7083,
+    "mediaId": 558,
+    "date": "d2022-05-20T14:38",
     "sentence": "",
     "author": "",
-    "title": "Announcement expected to confirm $7B auto plant in Georgia"
+    "title": "Hyundai to build $5.5 bn electric vehicle plant in US",
+    "sentiment": "0"
   }
 ]

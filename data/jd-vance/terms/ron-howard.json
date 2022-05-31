@@ -2,25 +2,28 @@
   {
     "id": 6450,
     "mediaId": 98,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T00:00",
     "sentence": "",
     "author": "Fidel Martinez",
-    "title": "Latinx Files: J.D. Vance asks if you hate Mexicans"
+    "title": "Latinx Files: J.D. Vance asks if you hate Mexicans",
+    "sentiment": "0"
   },
   {
     "id": 6322,
     "mediaId": 239,
-    "date": "4/18/2022 12:00:00 AM",
+    "date": "d2022-04-18T00:03:30",
     "sentence": "",
     "author": "DAN SEWELL",
-    "title": "Hillbilly to Capitol Hill? Author eyes Senate bid in Ohio"
+    "title": "Hillbilly to Capitol Hill? Author eyes Senate bid in Ohio",
+    "sentiment": "0.433"
   },
   {
     "id": 5775,
     "mediaId": 136,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T16:16",
     "sentence": "",
     "author": "Rob Minto",
-    "title": "J.D. Vance's Book Sales Got Bigger Boost from Trump Than Netflix"
+    "title": "J.D. Vance's Book Sales Got Bigger Boost from Trump Than Netflix",
+    "sentiment": "0.934"
   }
 ]

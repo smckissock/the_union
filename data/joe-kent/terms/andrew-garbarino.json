@@ -2,17 +2,19 @@
   {
     "id": 37,
     "mediaId": 157,
-    "date": "3/24/2022 12:00:00 AM",
+    "date": "d2022-03-24T00:00",
     "sentence": "When Trump endorsed challenger <span class='selected-term'>Joe Kent</span>, he described him as \"running against RINO and incompetent Congresswoman Jaime Herrera Beutler.\"",
     "author": "Bob Brigham",
-    "title": "Kevin McCarthy is directly at odds' with Trump's revenge tour' against Republicans: report"
+    "title": "Kevin McCarthy is directly at odds' with Trump's revenge tour' against Republicans: report",
+    "sentiment": "0.0"
   },
   {
     "id": 2223,
     "mediaId": 151,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T17:10",
     "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
     "author": "",
-    "title": "POLITICO Playbook PM: What the March jobs report means for Biden"
+    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
+    "sentiment": "0.0"
   }
 ]

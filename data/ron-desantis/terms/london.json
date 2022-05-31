@@ -2,9 +2,37 @@
   {
     "id": 3991,
     "mediaId": 132,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T12:00",
     "sentence": "",
     "author": "Fabiola Santiago",
-    "title": "Behind the Supreme Court's bid to overturn Roe v. Wade? A hidden GOP agenda against women"
+    "title": "Behind the Supreme Court's bid to overturn Roe v. Wade? A hidden GOP agenda against women",
+    "sentiment": "0"
+  },
+  {
+    "id": 3991,
+    "mediaId": 132,
+    "date": "d2022-05-05T12:00",
+    "sentence": "",
+    "author": "Fabiola Santiago",
+    "title": "Behind the Supreme Court's bid to overturn Roe v. Wade? A hidden GOP agenda against women",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8546,
+    "mediaId": 99,
+    "date": "d2022-05-27T10:16",
+    "sentence": "But the new face is Florida Governor <span class='selected-term'>Ron DeSantis</span>, Shaddick said.",
+    "author": "",
+    "title": "Trump widens lead over Biden in 2024 election odds",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8546,
+    "mediaId": 99,
+    "date": "d2022-05-27T10:16",
+    "sentence": "But the new face is Florida Governor <span class='selected-term'>Ron DeSantis</span>, Shaddick said.",
+    "author": "",
+    "title": "Trump widens lead over Biden in 2024 election odds",
+    "sentiment": "0.378"
   }
 ]

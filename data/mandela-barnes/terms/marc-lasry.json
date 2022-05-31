@@ -2,73 +2,91 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 2394,
     "mediaId": 367,
-    "date": "1/31/2022 12:00:00 AM",
+    "date": "d2022-01-31T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate candidate Alex Lasry pours in $1.55 million more into race, while Sarah Godlewski adds $750,000"
+    "title": "Democratic U.S. Senate candidate Alex Lasry pours in $1.55 million more into race, while Sarah Godlewski adds $750,000",
+    "sentiment": "0"
   },
   {
     "id": 2346,
     "mediaId": 21,
-    "date": "3/29/2022 12:00:00 AM",
+    "date": "d2022-03-29T13:00",
     "sentence": "AP Photo/Morry Gash\n<span class='selected-term'>Mandela Barnes</span> has a 21-point lead in the Wisconsin Senate Democratic primary, per an internal poll.",
     "author": "John L. Dorman",
-    "title": "Wisconsin Lt. Gov. Mandela Barnes has early lead in Democratic Senate primary: poll"
+    "title": "Wisconsin Lt. Gov. Mandela Barnes has early lead in Democratic Senate primary: poll",
+    "sentiment": "0.837"
   },
   {
     "id": 2337,
     "mediaId": 367,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "Democratic U.S. Senate candidate <span class='selected-term'>Mandela Barnes</span> is breaking with the Biden administration on a key piece of immigration policy.",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate candidate Mandela Barnes opposes Biden administration's plan to lift Title 42 rule at the border"
+    "title": "Democratic U.S. Senate candidate Mandela Barnes opposes Biden administration's plan to lift Title 42 rule at the border",
+    "sentiment": "0"
   },
   {
     "id": 2335,
     "mediaId": 367,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T00:00",
     "sentence": "More:Democratic U.S. Senate candidate <span class='selected-term'>Mandela Barnes</span> opposes Biden administration's plan to lift Title 42 rule at the border\nMore:Democratic U.S. Senate candidate Sarah Godlewski issues 'Cut Costs Plan,' calls for suspension of federal gas tax",
     "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate contender Alex Lasry vows to 'bring more jobs and investment back to rural Wisconsin'"
+    "title": "Democratic U.S. Senate contender Alex Lasry vows to 'bring more jobs and investment back to rural Wisconsin'",
+    "sentiment": "0"
   },
   {
     "id": 2330,
     "mediaId": 367,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Bucks executive Alex Lasry, Wisconsin Treasurer Sarah Godlewski spend big in Democratic U.S. Senate race"
-  },
-  {
-    "id": 2304,
-    "mediaId": 195,
-    "date": "4/27/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "Democratic Senate primary tightening in Wisconsin: poll"
+    "title": "Bucks executive Alex Lasry, Wisconsin Treasurer Sarah Godlewski spend big in Democratic U.S. Senate race",
+    "sentiment": "0.0"
   },
   {
     "id": 2306,
     "mediaId": 367,
-    "date": "4/27/2022 12:00:00 AM",
+    "date": "d2022-04-27T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "Marquette Poll shows Mandela Barnes, Alex Lasry in tight Democratic U.S. Senate race in Wisconsin"
+    "title": "Marquette Poll shows Mandela Barnes, Alex Lasry in tight Democratic U.S. Senate race in Wisconsin",
+    "sentiment": "0.459"
+  },
+  {
+    "id": 2304,
+    "mediaId": 195,
+    "date": "d2022-04-27T19:34",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Democratic Senate primary tightening in Wisconsin: poll",
+    "sentiment": "0.73"
   },
   {
     "id": 6553,
     "mediaId": 367,
-    "date": "5/18/2022 12:00:00 AM",
+    "date": "d2022-05-18T00:00",
     "sentence": "",
     "author": "Bill Glauber",
-    "title": "In his first TV ads, U.S. Senate candidate Mandela Barnes focuses on milk, beef and millionaires"
+    "title": "In his first TV ads, U.S. Senate candidate Mandela Barnes focuses on milk, beef and millionaires",
+    "sentiment": "0.417"
+  },
+  {
+    "id": 8429,
+    "mediaId": 151,
+    "date": "d2022-05-27T08:30",
+    "sentence": "",
+    "author": "",
+    "title": "Wisconsin Senate race tightens as rivals close in on Barnes",
+    "sentiment": "0.379"
   }
 ]

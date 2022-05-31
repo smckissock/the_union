@@ -2,49 +2,55 @@
   {
     "id": 2238,
     "mediaId": 43,
-    "date": "2/25/2022 12:00:00 AM",
+    "date": "d2022-02-25T00:00",
     "sentence": "These chyrons appeared during Carlson's show, accompanying Carlson's statements prior to and during his colloquy with his guest, <span class='selected-term'>Joe Kent</span>a Donald Trump-endorsed zealot currently attempting to unseat Washington Rep. Jaime Herrera Butler.",
     "author": "",
-    "title": "America now has its own 'Fifth Column,' and its name is Fox News"
+    "title": "America now has its own 'Fifth Column,' and its name is Fox News",
+    "sentiment": "-0.373"
   },
   {
     "id": 2234,
     "mediaId": 21,
-    "date": "3/3/2022 12:00:00 AM",
+    "date": "d2022-03-03T22:00",
     "sentence": "Rep. Jaime Herrera Beutler, a Republican from Washington, faces a strong GOP primary challenge from <span class='selected-term'>Joe Kent</span>.",
     "author": "Adam Wren",
-    "title": "Trump-endorsed Joe Kent, who's challenging Rep. Jaime Herrera Beutler in a Republican primary, violated federal law by improperly disclosing his personal finances"
+    "title": "Trump-endorsed Joe Kent, who's challenging Rep. Jaime Herrera Beutler in a Republican primary, violated federal law by improperly disclosing his personal finances",
+    "sentiment": "0.0"
   },
   {
     "id": 2231,
     "mediaId": 157,
-    "date": "3/10/2022 12:00:00 AM",
+    "date": "d2022-03-10T00:00",
     "sentence": "\"<span class='selected-term'>Joe Kent</span> is a grown-a** man who let a racist brat browbeat him into admitting on video that he does, in fact, share their white nationalist ideology, but that he doesn't think it's a good campaign strategy to say it out loud,\" Miller wrote.",
     "author": "Travis Gettys",
-    "title": "Trump-endorsed candidate humiliates himself during excruciating' podcast with teenage white nationalists': conservative"
+    "title": "Trump-endorsed candidate humiliates himself during excruciating' podcast with teenage white nationalists': conservative",
+    "sentiment": "0.0"
   },
   {
     "id": 2223,
     "mediaId": 151,
-    "date": "4/1/2022 12:00:00 AM",
+    "date": "d2022-04-01T17:10",
     "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
     "author": "",
-    "title": "POLITICO Playbook PM: What the March jobs report means for Biden"
+    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
+    "sentiment": "0.0"
   },
   {
     "id": 225,
     "mediaId": 129,
-    "date": "4/7/2022 12:00:00 AM",
+    "date": "d2022-04-07T10:32",
     "sentence": "",
     "author": "",
-    "title": "The G.O.P.'s Putin Wing'"
+    "title": "The G.O.P.'s Putin Wing'",
+    "sentiment": "0.0"
   },
   {
     "id": 2217,
     "mediaId": 376,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T15:02",
     "sentence": "In southwestern Washington, Trump has endorsed former Army Green Beret <span class='selected-term'>Joe Kent</span> against Herrera Beutler.",
     "author": "",
-    "title": "New lines, interesting races in Washington state"
+    "title": "New lines, interesting races in Washington state",
+    "sentiment": "0.0"
   }
 ]

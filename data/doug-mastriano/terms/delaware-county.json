@@ -2,17 +2,19 @@
   {
     "id": 6843,
     "mediaId": 157,
-    "date": "5/14/2022 12:00:00 AM",
+    "date": "d2022-05-14T00:00",
     "sentence": "Former President Donald Trump has endorsed state Sen. <span class='selected-term'>Doug Mastriano</span>, R-Frankin, in Pennsylvanias high-stakes primary for governor, dealing a potentially fatal blow to establishment Republicans who had hoped to head off a victory by the far-right politician who has trafficked in false claims of election fraud.",
     "author": "John L. Micek",
-    "title": "Trump endorses Jan. 6 participant in Pa.s GOP governor primary days before election"
+    "title": "Trump endorses Jan. 6 participant in Pa.s GOP governor primary days before election",
+    "sentiment": "0.258"
   },
   {
     "id": 6527,
     "mediaId": 21,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T17:52:55",
     "sentence": "Those efforts culminated in 2020 election denier and January 6 rally attendee state Sen. <span class='selected-term'>Doug Mastriano</span> with Trump's backing, easily securing the Republican nomination for governor.",
     "author": "Grace Panetta",
-    "title": "Pennsylvania's Republican Senate primary is likely headed for a recount with Trump adding to the chaos"
+    "title": "Pennsylvania's Republican Senate primary is likely headed for a recount with Trump adding to the chaos",
+    "sentiment": "0.0"
   }
 ]

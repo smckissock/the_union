@@ -2,17 +2,19 @@
   {
     "id": 5328,
     "mediaId": 25,
-    "date": "4/5/2022 12:00:00 AM",
+    "date": "d2022-04-05T00:00",
     "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
     "author": "",
-    "title": "Stacey Abrams' net worth over $3 million as she launches second bid for Georgia governor"
+    "title": "Stacey Abrams' net worth over $3 million as she launches second bid for Georgia governor",
+    "sentiment": "-0.334"
   },
   {
     "id": 2119,
     "mediaId": 25,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T00:00",
     "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> on Tuesday signed a law allowing residents to carry handguns in public without a license or background check.",
     "author": "Adam Brewster",
-    "title": "Georgia Governor Brian Kemp signs bill allowing guns to be carried without license"
+    "title": "Georgia Governor Brian Kemp signs bill allowing guns to be carried without license",
+    "sentiment": "0.225"
   }
 ]

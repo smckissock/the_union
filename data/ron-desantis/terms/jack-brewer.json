@@ -2,33 +2,55 @@
   {
     "id": 4401,
     "mediaId": 65,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T14:28",
     "sentence": "",
     "author": "",
-    "title": "Jack Brewer files police report on Joy Reid for putting kids in danger, demands apology"
+    "title": "Jack Brewer files police report on Joy Reid for putting kids in danger, demands apology",
+    "sentiment": "0.0"
   },
   {
     "id": 4296,
     "mediaId": 65,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T12:00",
     "sentence": "",
     "author": "",
-    "title": "We must remember my uncle Dr. Martin Luther King's wisdom about race amid all the noisy debates"
+    "title": "We must remember my uncle Dr. Martin Luther King's wisdom about race amid all the noisy debates",
+    "sentiment": "0"
   },
   {
-    "id": 4215,
+    "id": 4296,
     "mediaId": 65,
-    "date": "5/2/2022 12:00:00 AM",
-    "sentence": "In fact, in early April, we were first invited by Florida Governor <span class='selected-term'>Ron DeSantis</span> to come down for the signing of a bill designed to help address the fatherhood crisis plaguing our nation.",
+    "date": "d2022-05-01T12:00",
+    "sentence": "",
     "author": "",
-    "title": "MSNBC's Joy Reid and all Critical Race Theory advocates owe our children an apology"
+    "title": "We must remember my uncle Dr. Martin Luther King's wisdom about race amid all the noisy debates",
+    "sentiment": "0.0"
   },
   {
     "id": 4226,
     "mediaId": 65,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T13:22",
     "sentence": "",
     "author": "Amy Nelson",
-    "title": "Jack Brewer: Joy Reid must apologize for 'reckless' tweet or defamation lawsuit will be filed"
+    "title": "Jack Brewer: Joy Reid must apologize for 'reckless' tweet or defamation lawsuit will be filed",
+    "sentiment": "0"
+  },
+  {
+    "id": 4226,
+    "mediaId": 65,
+    "date": "d2022-05-02T13:22",
+    "sentence": "",
+    "author": "Amy Nelson",
+    "title": "Jack Brewer: Joy Reid must apologize for 'reckless' tweet or defamation lawsuit will be filed",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4215,
+    "mediaId": 65,
+    "date": "d2022-05-02T15:00",
+    "sentence": "In fact, in early April, we were first invited by Florida Governor <span class='selected-term'>Ron DeSantis</span> to come down for the signing of a bill designed to help address the fatherhood crisis plaguing our nation.",
+    "author": "",
+    "title": "MSNBC's Joy Reid and all Critical Race Theory advocates owe our children an apology",
+    "sentiment": "0.0"
   }
 ]

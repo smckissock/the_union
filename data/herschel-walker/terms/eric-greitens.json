@@ -1,66 +1,74 @@
 [
   {
-    "id": 7978,
-    "mediaId": 151,
-    "date": "3/21/2022 12:00:00 AM",
-    "sentence": "Hawley previously endorsed Parnell and, like most Senate Republicans, is backing <span class='selected-term'>Herschel Walker</span> in Georgias Senate race, where Walker is also facing allegations of past domestic abuse.",
-    "author": "",
-    "title": "Greitens allegations spark GOP fears of losing Missouri Senate seat"
-  },
-  {
     "id": 7980,
     "mediaId": 129,
-    "date": "3/21/2022 12:00:00 AM",
+    "date": "d2022-03-21T00:00",
     "sentence": "In December, another Trump-backed Senate candidate, the former professional football player <span class='selected-term'>Herschel Walker</span>, who is running in Georgia, told Axios he was accountable for past violent behavior toward his former wife, Cindy Grossman.",
     "author": "",
-    "title": "Ex-Wife of Eric Greitens, Senate Candidate in Missouri, Accuses Him of Abuse"
+    "title": "Ex-Wife of Eric Greitens, Senate Candidate in Missouri, Accuses Him of Abuse",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7978,
+    "mediaId": 151,
+    "date": "d2022-03-21T23:54",
+    "sentence": "Hawley previously endorsed Parnell and, like most Senate Republicans, is backing <span class='selected-term'>Herschel Walker</span> in Georgias Senate race, where Walker is also facing allegations of past domestic abuse.",
+    "author": "",
+    "title": "Greitens allegations spark GOP fears of losing Missouri Senate seat",
+    "sentiment": "0.0"
   },
   {
     "id": 7973,
     "mediaId": 124,
-    "date": "3/22/2022 12:00:00 AM",
+    "date": "d2022-03-22T13:17",
     "sentence": "Ex-wife accuses Missouri Senate candidate Eric Greitens of domestic abuse\nMarch 22, 202201:37\nConsider these all of these different problems:\nIn Georgia, GOP frontrunner <span class='selected-term'>Herschel Walker</span> (who is much more likely than Greitens is to win the Republican nomination and has largely consolidated the party around him) has admitted his own past violent behavior as part of his struggle with mental illness.",
     "author": "",
-    "title": "The GOP's bid to retake the Senate is encountering early struggles"
+    "title": "The GOP's bid to retake the Senate is encountering early struggles",
+    "sentiment": "-0.212"
   },
   {
     "id": 7920,
     "mediaId": 120,
-    "date": "3/25/2022 12:00:00 AM",
+    "date": "d2022-03-25T20:03",
     "sentence": "In Georgia, the presumptive GOP Senate nominee, <span class='selected-term'>Herschel Walker</span>, has acknowledged that hes \"accountable\" for allegations of past violent behavior toward his ex-wife.",
     "author": "Charlie Sykes",
-    "title": "Missouri's Eric Greitens is testing the limits of Trump's post-morals MAGAverse"
+    "title": "Missouri's Eric Greitens is testing the limits of Trump's post-morals MAGAverse",
+    "sentiment": "-0.398"
   },
   {
     "id": 7775,
     "mediaId": 238,
-    "date": "4/13/2022 12:00:00 AM",
+    "date": "d2022-04-13T18:11",
     "sentence": "Or perhaps McConnell might have been referring to <span class='selected-term'>Herschel Walker</span>, the Republican running for Georgias Senate seat whom McConnell himself has endorsed.",
     "author": "",
-    "title": "Opinion: After appealing to con men, the GOP now complains about the hucksters"
+    "title": "Opinion: After appealing to con men, the GOP now complains about the hucksters",
+    "sentiment": "-0.967"
   },
   {
     "id": 7753,
     "mediaId": 129,
-    "date": "4/15/2022 12:00:00 AM",
+    "date": "d2022-04-15T00:00",
     "sentence": "Its a horrible problem; hell never be elected, and thats the educational process were going through right now, Gary Black, Georgias agriculture commissioner, said of domestic violence and assault allegations leveled at <span class='selected-term'>Herschel Walker</span>, his Trump-backed Republican rival to take on Democratic Senator Raphael Warnock in November.",
     "author": "",
-    "title": "As G.O.P. Candidates Face Accusations, Rivals Tread Carefully"
+    "title": "As G.O.P. Candidates Face Accusations, Rivals Tread Carefully",
+    "sentiment": "-0.761"
   },
   {
     "id": 7696,
     "mediaId": 238,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T17:58",
     "sentence": "The same could be said about <span class='selected-term'>Herschel Walker</span> in Georgia.",
     "author": "",
-    "title": "Opinion: What the parade of GOP sexual misconduct allegations really tells us"
+    "title": "Opinion: What the parade of GOP sexual misconduct allegations really tells us",
+    "sentiment": "0.0"
   },
   {
     "id": 6245,
     "mediaId": 43,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "Fuck yes, I hope your lil kakistocrat kingmaker costs you loads of winnable races this fall, although maybe you kids could find a moment to reflect upon just how you wound up with an electorate thats so horny to back serial abusers like Eric Greitens, <span class='selected-term'>Herschel Walker</span>, and Charles Gropey? Herbster, because that shit didnt happen overnight.",
     "author": "",
-    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t"
+    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
+    "sentiment": "0"
   }
 ]

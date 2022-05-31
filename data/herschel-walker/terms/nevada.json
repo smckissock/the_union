@@ -2,57 +2,73 @@
   {
     "id": 8174,
     "mediaId": 237,
-    "date": "2/9/2022 12:00:00 AM",
+    "date": "d2022-02-09T16:00",
     "sentence": "McConnell also likes what he sees at the outset in Georgia and Nevada, where he is backing <span class='selected-term'>Herschel Walker</span> and Adam Laxalt, respectively.",
     "author": "David M. Drucker",
-    "title": "'The worst of Joe Biden will be over': McConnell pitches voters on GOP Senate"
+    "title": "'The worst of Joe Biden will be over': McConnell pitches voters on GOP Senate",
+    "sentiment": "0.0"
   },
   {
     "id": 8075,
     "mediaId": 178,
-    "date": "3/7/2022 12:00:00 AM",
+    "date": "d2022-03-07T00:00",
     "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
     "author": "STEVE PEOPLES and BRIAN SLODYSKO Associated Press",
-    "title": "Republican 'unforced errors' threaten path to Senate control"
+    "title": "Republican 'unforced errors' threaten path to Senate control",
+    "sentiment": "0.0"
   },
   {
     "id": 8076,
     "mediaId": 1576,
-    "date": "3/7/2022 12:00:00 AM",
+    "date": "d2022-03-07T00:00",
     "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
     "author": "",
-    "title": "GOP stumbles, weak fundraising in Ga. and other states threaten path to Senate control"
+    "title": "GOP stumbles, weak fundraising in Ga. and other states threaten path to Senate control",
+    "sentiment": "0.0"
   },
   {
     "id": 6155,
     "mediaId": 237,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T13:18",
     "sentence": "Polling averages have Georgia Democratic Sen. Raphael Warnock trailing Trump-endorsed <span class='selected-term'>Herschel Walker</span> in Georgia, with Hassan, Sen. Mark Kelly of Arizona, and Sen. Catherine Cortez Masto of Nevada all in competitive races.",
     "author": "Christian Datoc",
-    "title": "Biden thinks Democrats can gain Senate seats this year  with Trump's help"
+    "title": "Biden thinks Democrats can gain Senate seats this year  with Trump's help",
+    "sentiment": "0.0"
   },
   {
     "id": 7601,
     "mediaId": 124,
-    "date": "5/5/2022 12:00:00 AM",
+    "date": "d2022-05-05T08:46:30",
     "sentence": "Whats [Georgia Republican senatorial candidate] <span class='selected-term'>Herschel Walker</span> going to say?",
     "author": "Natasha Korecki",
-    "title": "In midterm battlegrounds, both parties try to weaponize abortion"
+    "title": "In midterm battlegrounds, both parties try to weaponize abortion",
+    "sentiment": "0.0"
   },
   {
     "id": 7593,
     "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T09:00",
     "sentence": "In Georgia, leading Republican Senate candidate and former football star <span class='selected-term'>Herschel Walker</span> has spoken out repeatedly about rising gas prices and inflation.",
     "author": "Daniel Bush",
-    "title": "Democrats Campaigning in Swing States Are Reckoning With Biden's Economy"
+    "title": "Democrats Campaigning in Swing States Are Reckoning With Biden's Economy",
+    "sentiment": "0.296"
   },
   {
     "id": 3450,
     "mediaId": 151,
-    "date": "5/17/2022 12:00:00 AM",
+    "date": "d2022-05-17T08:31",
     "sentence": "Republican target: Georgia\nPrimary date: May 24\nForecast: Toss-up\nDemocratic Sen. Raphael Warnock and Republican <span class='selected-term'>Herschel Walker</span> are on a November collision course in the most closely divided state of the 2020 presidential election.",
     "author": "",
-    "title": "These 7 states will decide control of the Senate"
+    "title": "These 7 states will decide control of the Senate",
+    "sentiment": "0"
+  },
+  {
+    "id": 8590,
+    "mediaId": 151,
+    "date": "d2022-05-27T08:30",
+    "sentence": "While <span class='selected-term'>Herschel Walker</span> easily won the Republican nomination in Georgia on Tuesday, GOP candidates in Arizona, Nevada and New Hampshire are still battling through contested primaries.",
+    "author": "",
+    "title": "The gun debate roadblock you might not expect: Swing states",
+    "sentiment": "0"
   }
 ]

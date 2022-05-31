@@ -1,66 +1,146 @@
 [
   {
-    "id": 3679,
-    "mediaId": 136,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "A \"race-neutral\" congressional map drawn by Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> that would have eliminated a Black district in a northern part of the state has been struck down by a DeSantis-appointed circuit court judge who found the redistricting plan unconstitutional.",
-    "author": "Patricia McKnight",
-    "title": "DeSantis-Appointed Judge Blocks His 'Unconstitutional' Redistricting Map"
-  },
-  {
-    "id": 3686,
-    "mediaId": 233,
-    "date": "5/11/2022 12:00:00 AM",
+    "id": 3732,
+    "mediaId": 157,
+    "date": "d2022-05-11T00:00",
     "sentence": "",
-    "author": "John Kennedy",
-    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears"
-  },
-  {
-    "id": 3688,
-    "mediaId": 302,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it"
-  },
-  {
-    "id": 3713,
-    "mediaId": 558,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Judge says he'll block Gov. Ron DeSantis' redistricting plan"
-  },
-  {
-    "id": 3714,
-    "mediaId": 558,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Judge says he'll block Gov. Ron DeSantis' redistricting plan"
+    "author": "David Edwards",
+    "title": "DeSantis-appointed judge declares Florida redistricting map unconstitutional over Black voter suppression",
+    "sentiment": "-0.646"
   },
   {
     "id": 3732,
     "mediaId": 157,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "David Edwards",
-    "title": "DeSantis-appointed judge declares Florida redistricting map unconstitutional over Black voter suppression"
+    "title": "DeSantis-appointed judge declares Florida redistricting map unconstitutional over Black voter suppression",
+    "sentiment": "0.0"
   },
   {
     "id": 3749,
     "mediaId": 98,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "",
     "author": "Associated Press",
-    "title": "Judge announces hell block DeSantis Florida redistricting plan because its unconstitutional"
+    "title": "Judge announces hell block DeSantis Florida redistricting plan because its unconstitutional",
+    "sentiment": "-0.236"
+  },
+  {
+    "id": 3749,
+    "mediaId": 98,
+    "date": "d2022-05-11T00:00",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Judge announces hell block DeSantis Florida redistricting plan because its unconstitutional",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3713,
+    "mediaId": 558,
+    "date": "d2022-05-11T10:08",
+    "sentence": "",
+    "author": "",
+    "title": "Judge says he'll block Gov. Ron DeSantis' redistricting plan",
+    "sentiment": "0"
+  },
+  {
+    "id": 3713,
+    "mediaId": 558,
+    "date": "d2022-05-11T10:08",
+    "sentence": "",
+    "author": "",
+    "title": "Judge says he'll block Gov. Ron DeSantis' redistricting plan",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3714,
+    "mediaId": 558,
+    "date": "d2022-05-11T10:08",
+    "sentence": "",
+    "author": "",
+    "title": "Judge says he'll block Gov. Ron DeSantis' redistricting plan",
+    "sentiment": "-0.355"
+  },
+  {
+    "id": 3714,
+    "mediaId": 558,
+    "date": "d2022-05-11T10:08",
+    "sentence": "",
+    "author": "",
+    "title": "Judge says he'll block Gov. Ron DeSantis' redistricting plan",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3688,
+    "mediaId": 302,
+    "date": "d2022-05-11T18:00",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
+    "sentiment": "0"
+  },
+  {
+    "id": 3688,
+    "mediaId": 302,
+    "date": "d2022-05-11T18:00",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3686,
+    "mediaId": 233,
+    "date": "d2022-05-11T19:56",
+    "sentence": "",
+    "author": "John Kennedy",
+    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears",
+    "sentiment": "0"
+  },
+  {
+    "id": 3686,
+    "mediaId": 233,
+    "date": "d2022-05-11T19:56",
+    "sentence": "",
+    "author": "John Kennedy",
+    "title": "Judge spikes DeSantis's Florida redistricting map that axed minority district as candidate deadline nears",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3679,
+    "mediaId": 136,
+    "date": "d2022-05-11T23:57",
+    "sentence": "A \"race-neutral\" congressional map drawn by Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> that would have eliminated a Black district in a northern part of the state has been struck down by a DeSantis-appointed circuit court judge who found the redistricting plan unconstitutional.",
+    "author": "Patricia McKnight",
+    "title": "DeSantis-Appointed Judge Blocks His 'Unconstitutional' Redistricting Map",
+    "sentiment": "-0.743"
+  },
+  {
+    "id": 3679,
+    "mediaId": 136,
+    "date": "d2022-05-11T23:57",
+    "sentence": "A \"race-neutral\" congressional map drawn by Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> that would have eliminated a Black district in a northern part of the state has been struck down by a DeSantis-appointed circuit court judge who found the redistricting plan unconstitutional.",
+    "author": "Patricia McKnight",
+    "title": "DeSantis-Appointed Judge Blocks His 'Unconstitutional' Redistricting Map",
+    "sentiment": "0.0"
   },
   {
     "id": 7148,
     "mediaId": 1164,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:00",
     "sentence": "",
     "author": "Doug Cunningham",
-    "title": "Appeals court reinstates Florida political redistricting map"
+    "title": "Appeals court reinstates Florida political redistricting map",
+    "sentiment": "0"
+  },
+  {
+    "id": 7148,
+    "mediaId": 1164,
+    "date": "d2022-05-20T00:00",
+    "sentence": "",
+    "author": "Doug Cunningham",
+    "title": "Appeals court reinstates Florida political redistricting map",
+    "sentiment": "0.0"
   }
 ]

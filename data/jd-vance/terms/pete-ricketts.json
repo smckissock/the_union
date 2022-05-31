@@ -2,121 +2,136 @@
   {
     "id": 6288,
     "mediaId": 136,
-    "date": "4/19/2022 12:00:00 AM",
+    "date": "d2022-04-19T18:54",
     "sentence": "",
     "author": "Natalie Colarossi",
-    "title": "Trump to Rally for Nebraska Candidate Accused of Sexual Assault"
+    "title": "Trump to Rally for Nebraska Candidate Accused of Sexual Assault",
+    "sentiment": "0"
   },
   {
     "id": 6043,
     "mediaId": 238,
-    "date": "5/1/2022 12:00:00 AM",
+    "date": "d2022-05-01T23:00",
     "sentence": "",
     "author": "",
-    "title": "Trump makes closing pitch for Nebraska candidate accused of groping"
+    "title": "Trump makes closing pitch for Nebraska candidate accused of groping",
+    "sentiment": "0"
   },
   {
     "id": 5686,
     "mediaId": 195,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T01:05",
     "sentence": "",
     "author": "Caroline Vakil",
-    "title": "Trump holds second rally in a week for embattled Nebraska gubernatorial candidate"
-  },
-  {
-    "id": 5609,
-    "mediaId": 129,
-    "date": "5/9/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "What Were Watching For in the Nebraska and West Virginia Primaries"
+    "title": "Trump holds second rally in a week for embattled Nebraska gubernatorial candidate",
+    "sentiment": "0"
   },
   {
     "id": 5617,
     "mediaId": 25,
-    "date": "5/9/2022 12:00:00 AM",
+    "date": "d2022-05-09T00:00",
     "sentence": "",
     "author": "Adam Brewster, Sarah Ewall-Wice",
-    "title": "Nebraska's governor's primary race pits Trump-backed candidate accused of sexual misconduct against two other Republicans"
+    "title": "Nebraska's governor's primary race pits Trump-backed candidate accused of sexual misconduct against two other Republicans",
+    "sentiment": "0"
   },
   {
-    "id": 5597,
-    "mediaId": 238,
-    "date": "5/10/2022 12:00:00 AM",
+    "id": 5609,
+    "mediaId": 129,
+    "date": "d2022-05-09T23:00",
     "sentence": "",
     "author": "",
-    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today"
+    "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
+    "sentiment": "0"
   },
   {
     "id": 5598,
     "mediaId": 195,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T09:27",
     "sentence": "",
     "author": "Tal Axelrod",
-    "title": "5 things to watch in the West Virginia, Nebraska primaries"
+    "title": "5 things to watch in the West Virginia, Nebraska primaries",
+    "sentiment": "0"
   },
   {
-    "id": 3689,
+    "id": 5597,
     "mediaId": 238,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Henry Olsen",
-    "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable."
-  },
-  {
-    "id": 5572,
-    "mediaId": 129,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-10T10:00",
     "sentence": "",
     "author": "",
-    "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia."
-  },
-  {
-    "id": 5577,
-    "mediaId": 151,
-    "date": "5/11/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Trump gets knocked down in Nebraska"
+    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today",
+    "sentiment": "0"
   },
   {
     "id": 5579,
     "mediaId": 136,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T03:29",
     "sentence": "",
     "author": "Ewan Palmer",
-    "title": "Donald Trump's 55-0 Primary Winning Streak Finally Ends"
+    "title": "Donald Trump's 55-0 Primary Winning Streak Finally Ends",
+    "sentiment": "0"
   },
   {
-    "id": 3301,
-    "mediaId": 238,
-    "date": "5/13/2022 12:00:00 AM",
+    "id": 5577,
+    "mediaId": 151,
+    "date": "d2022-05-11T05:16",
     "sentence": "",
-    "author": "Josh Dawsey",
-    "title": "More Republicans are working to undermine Trump endorsements"
+    "author": "",
+    "title": "Trump gets knocked down in Nebraska",
+    "sentiment": "0"
+  },
+  {
+    "id": 5572,
+    "mediaId": 129,
+    "date": "d2022-05-11T13:27:59",
+    "sentence": "",
+    "author": "",
+    "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
+    "sentiment": "0"
+  },
+  {
+    "id": 3689,
+    "mediaId": 238,
+    "date": "d2022-05-11T17:47",
+    "sentence": "",
+    "author": "Henry Olsen",
+    "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable.",
+    "sentiment": "0.448"
   },
   {
     "id": 3307,
     "mediaId": 233,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T13:16",
     "sentence": "",
     "author": "Ella Lee",
-    "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp"
+    "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp",
+    "sentiment": "0"
+  },
+  {
+    "id": 3301,
+    "mediaId": 238,
+    "date": "d2022-05-13T17:34",
+    "sentence": "",
+    "author": "Josh Dawsey",
+    "title": "More Republicans are working to undermine Trump endorsements",
+    "sentiment": "0"
   },
   {
     "id": 6543,
     "mediaId": 223,
-    "date": "5/20/2022 12:00:00 AM",
+    "date": "d2022-05-20T00:01",
     "sentence": "",
     "author": "Michael Barone",
-    "title": "It's Not Exactly Trump's Republican Party"
+    "title": "It's Not Exactly Trump's Republican Party",
+    "sentiment": "0.656"
   },
   {
     "id": 7329,
     "mediaId": 33,
-    "date": "5/23/2022 12:00:00 AM",
+    "date": "d2022-05-23T00:00",
     "sentence": "",
     "author": "Eric Bradner",
-    "title": "Republicans look to Georgia for a path beyond Trump's 2020 grievances"
+    "title": "Republicans look to Georgia for a path beyond Trump's 2020 grievances",
+    "sentiment": "0"
   }
 ]

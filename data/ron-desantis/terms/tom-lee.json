@@ -1,26 +1,56 @@
 [
   {
-    "id": 3636,
-    "mediaId": 302,
-    "date": "5/12/2022 12:00:00 AM",
+    "id": 3644,
+    "mediaId": 558,
+    "date": "d2022-05-12T12:11",
     "sentence": "",
-    "author": "Lawrence Mower",
-    "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run"
+    "author": "",
+    "title": "Floridas top election official resigns, with possible run for Congress in her future",
+    "sentiment": "0"
   },
   {
     "id": 3644,
     "mediaId": 558,
-    "date": "5/12/2022 12:00:00 AM",
+    "date": "d2022-05-12T12:11",
     "sentence": "",
     "author": "",
-    "title": "Floridas top election official resigns, with possible run for Congress in her future"
+    "title": "Floridas top election official resigns, with possible run for Congress in her future",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3636,
+    "mediaId": 302,
+    "date": "d2022-05-12T17:00",
+    "sentence": "",
+    "author": "Lawrence Mower",
+    "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run",
+    "sentiment": "0"
+  },
+  {
+    "id": 3636,
+    "mediaId": 302,
+    "date": "d2022-05-12T17:00",
+    "sentence": "",
+    "author": "Lawrence Mower",
+    "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run",
+    "sentiment": "0.0"
   },
   {
     "id": 3609,
     "mediaId": 195,
-    "date": "5/13/2022 12:00:00 AM",
+    "date": "d2022-05-13T14:44",
     "sentence": "",
     "author": "",
-    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms"
+    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms",
+    "sentiment": "0"
+  },
+  {
+    "id": 3609,
+    "mediaId": 195,
+    "date": "d2022-05-13T14:44",
+    "sentence": "",
+    "author": "",
+    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms",
+    "sentiment": "0.0"
   }
 ]

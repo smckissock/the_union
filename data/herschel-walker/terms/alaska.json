@@ -2,25 +2,28 @@
   {
     "id": 7708,
     "mediaId": 129,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T00:00",
     "sentence": "",
     "author": "",
-    "title": "Will Alaskans Welcome Sarah Palins Political Comeback?"
+    "title": "Will Alaskans Welcome Sarah Palins Political Comeback?",
+    "sentiment": "0.0"
   },
   {
     "id": 7651,
     "mediaId": 238,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T17:11",
     "sentence": "",
     "author": "",
-    "title": "Opinion The 2022 midterms could make the GOP the most diverse it has ever been"
+    "title": "Opinion The 2022 midterms could make the GOP the most diverse it has ever been",
+    "sentiment": "0.589"
   },
   {
     "id": 7549,
     "mediaId": 558,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T17:28",
     "sentence": "A notable exception: former football star <span class='selected-term'>Herschel Walker</span>, whos set for a big Senate primary win Tuesday and who was recruited by Trump.",
     "author": "",
-    "title": "Trump washes hands of Perdue in Georgia as his campaign limps into final stretch"
+    "title": "Trump washes hands of Perdue in Georgia as his campaign limps into final stretch",
+    "sentiment": "0"
   }
 ]

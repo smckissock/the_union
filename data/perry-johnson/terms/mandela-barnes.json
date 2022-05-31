@@ -2,9 +2,10 @@
   {
     "id": 1005,
     "mediaId": 43,
-    "date": "1/28/2022 12:00:00 AM",
+    "date": "d2022-01-28T00:00",
     "sentence": "? MI-Gov: Wealthy businessman <span class='selected-term'>Perry Johnson</span>, who reportedly may be able to self-fund, has joined the crowded GOP primary to take on Democratic Gov.",
     "author": "",
-    "title": "GOP primary for Wisconsin governor"
+    "title": "GOP primary for Wisconsin governor",
+    "sentiment": "0.0"
   }
 ]

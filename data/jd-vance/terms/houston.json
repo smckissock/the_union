@@ -2,9 +2,19 @@
   {
     "id": 6342,
     "mediaId": 239,
-    "date": "4/17/2022 12:00:00 AM",
+    "date": "d2022-04-17T00:00",
     "sentence": "",
     "author": "Jennifer Harper",
-    "title": "NRA plans its major national meeting in Houston in May"
+    "title": "NRA plans its major national meeting in Houston in May",
+    "sentiment": "-0.59"
+  },
+  {
+    "id": 8509,
+    "mediaId": 238,
+    "date": "d2022-05-27T11:10",
+    "sentence": "",
+    "author": "Felicia Sonmez",
+    "title": "Post Politics Now Biden to address Naval Academy graduates; Trump to speak at NRA convention",
+    "sentiment": "0"
   }
 ]

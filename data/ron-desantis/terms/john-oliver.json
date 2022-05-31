@@ -2,25 +2,55 @@
   {
     "id": 4390,
     "mediaId": 124,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T15:33",
     "sentence": "Dear Disney, content alone isnt enough to support the LGBTQ community\n<span class='selected-term'>Ron DeSantis</span> woke math scandal shows how hes become more dangerous than Trump\nSubscribe to the THINK newsletter\nReTHINK the news cycle with timely op-eds, in-depth analyses and personal essays delivered weekly to your inbox.",
     "author": "Cory Bernaert",
-    "title": "Im a gay kindergarten teacher in Florida. These are the questions Im asking myself."
+    "title": "Im a gay kindergarten teacher in Florida. These are the questions Im asking myself.",
+    "sentiment": "0"
+  },
+  {
+    "id": 4390,
+    "mediaId": 124,
+    "date": "d2022-04-29T15:33",
+    "sentence": "Dear Disney, content alone isnt enough to support the LGBTQ community\n<span class='selected-term'>Ron DeSantis</span> woke math scandal shows how hes become more dangerous than Trump\nSubscribe to the THINK newsletter\nReTHINK the news cycle with timely op-eds, in-depth analyses and personal essays delivered weekly to your inbox.",
+    "author": "Cory Bernaert",
+    "title": "Im a gay kindergarten teacher in Florida. These are the questions Im asking myself.",
+    "sentiment": "0.0"
   },
   {
     "id": 4252,
     "mediaId": 234,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "On Sundays episode of Last Week Tonight, Oliver lit into Florida governor <span class='selected-term'>Ron DeSantis</span>, whom he correctly described as having Green Book vibes,? and took the politician to task for his crusade against Disney.",
     "author": "Chris Murphy",
-    "title": "John Oliver Thinks Ron DeSantis Is a Right-Wing Dipshit Whos Scared of Gay People"
+    "title": "John Oliver Thinks Ron DeSantis Is a Right-Wing Dipshit Whos Scared of Gay People",
+    "sentiment": "0"
+  },
+  {
+    "id": 4252,
+    "mediaId": 234,
+    "date": "d2022-05-02T00:00",
+    "sentence": "On Sundays episode of Last Week Tonight, Oliver lit into Florida governor <span class='selected-term'>Ron DeSantis</span>, whom he correctly described as having Green Book vibes,? and took the politician to task for his crusade against Disney.",
+    "author": "Chris Murphy",
+    "title": "John Oliver Thinks Ron DeSantis Is a Right-Wing Dipshit Whos Scared of Gay People",
+    "sentiment": "0.0"
   },
   {
     "id": 4270,
     "mediaId": 19,
-    "date": "5/2/2022 12:00:00 AM",
+    "date": "d2022-05-02T00:00",
     "sentence": "",
     "author": "David Ng",
-    "title": "HBOs John Oliver: Disney Should Pay More Taxes but Not Because of Dipsh*t DeSantis"
+    "title": "HBOs John Oliver: Disney Should Pay More Taxes but Not Because of Dipsh*t DeSantis",
+    "sentiment": "0"
+  },
+  {
+    "id": 4270,
+    "mediaId": 19,
+    "date": "d2022-05-02T00:00",
+    "sentence": "",
+    "author": "David Ng",
+    "title": "HBOs John Oliver: Disney Should Pay More Taxes but Not Because of Dipsh*t DeSantis",
+    "sentiment": "0.0"
   }
 ]

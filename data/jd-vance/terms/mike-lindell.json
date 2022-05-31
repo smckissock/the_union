@@ -2,33 +2,37 @@
   {
     "id": 6163,
     "mediaId": 157,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T00:00",
     "sentence": "",
     "author": "Nick Evans",
-    "title": "'We love Trump, but he's not God': Trump fans unmoved by his endorsement of J.D. Vance"
-  },
-  {
-    "id": 5678,
-    "mediaId": 136,
-    "date": "5/6/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "How To Watch Donald Trump's Pennsylvania Rally For Dr. Mehmet Oz"
+    "title": "'We love Trump, but he's not God': Trump fans unmoved by his endorsement of J.D. Vance",
+    "sentiment": "-0.284"
   },
   {
     "id": 5690,
     "mediaId": 157,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T00:00",
     "sentence": "",
     "author": "Bob Brigham",
-    "title": "MAGA boos Dr. Oz as rain turns Trump rally into muddy mess"
+    "title": "MAGA boos Dr. Oz as rain turns Trump rally into muddy mess",
+    "sentiment": "0"
+  },
+  {
+    "id": 5678,
+    "mediaId": 136,
+    "date": "d2022-05-06T09:54",
+    "sentence": "",
+    "author": "Ewan Palmer",
+    "title": "How To Watch Donald Trump's Pennsylvania Rally For Dr. Mehmet Oz",
+    "sentiment": "0"
   },
   {
     "id": 5625,
     "mediaId": 19,
-    "date": "5/8/2022 12:00:00 AM",
+    "date": "d2022-05-08T00:00",
     "sentence": "",
     "author": "Paul Bois",
-    "title": "Pennsylvania Senate Poll: Dr. Oz Narrowly Leads Three-Way Race"
+    "title": "Pennsylvania Senate Poll: Dr. Oz Narrowly Leads Three-Way Race",
+    "sentiment": "0"
   }
 ]

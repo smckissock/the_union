@@ -2,17 +2,19 @@
   {
     "id": 7707,
     "mediaId": 129,
-    "date": "4/20/2022 12:00:00 AM",
+    "date": "d2022-04-20T00:00",
     "sentence": "It was a campaign stop for a Senate candidate, but for many Georgians who came to see <span class='selected-term'>Herschel Walker</span>, politics was hardly the only draw.",
     "author": "",
-    "title": "Herschel Walkers Senate Bid in Georgia Is Powered by Fandom"
+    "title": "Herschel Walkers Senate Bid in Georgia Is Powered by Fandom",
+    "sentiment": "0"
   },
   {
     "id": 7520,
     "mediaId": 157,
-    "date": "5/22/2022 12:00:00 AM",
+    "date": "d2022-05-22T00:00",
     "sentence": "During an appearance on MSNBC's \"The Sunday Show,\" former Republican party campaign consultant Tara Setmayer trashed conservatives -- and Senate Minority Leader Mitch McConnell (R-KY) still backing former football player <span class='selected-term'>Herschel Walker</span>'s run for Georgia's open U.S. Senate seat by in light of new revelations that he is being scrutinized over his ties to a group accused of preying military vets.",
     "author": "Tom Boggioni",
-    "title": "Mitch McConnell slammed for still backing 'absolute degenerate' Herschel Walker after new report"
+    "title": "Mitch McConnell slammed for still backing 'absolute degenerate' Herschel Walker after new report",
+    "sentiment": "-0.548"
   }
 ]

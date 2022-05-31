@@ -2,33 +2,37 @@
   {
     "id": 8270,
     "mediaId": 1390,
-    "date": "1/18/2022 12:00:00 AM",
+    "date": "d2022-01-18T12:00",
     "sentence": "FIRST ON FOX: A super PAC supporting Georgia GOP Senate candidate <span class='selected-term'>Herschel Walker</span> is spending more than $50,000 on a billboard campaign attacking Sen. Raphael Warnock over inflation and gas prices as the midterms loom later this year.",
     "author": "Tyler Olson",
-    "title": "Pro-Herschel Walker PAC hits Warnock over gas prices, inflation in billboard ads"
+    "title": "Pro-Herschel Walker PAC hits Warnock over gas prices, inflation in billboard ads",
+    "sentiment": "-0.857"
   },
   {
     "id": 8268,
     "mediaId": 33,
-    "date": "1/19/2022 12:00:00 AM",
+    "date": "d2022-01-19T00:00",
     "sentence": "Warnock, chosen by voters in a special election, is on the ballot again this year in a high-profile race that could pit him against Trump's choice for the Republican nomination, the former football star <span class='selected-term'>Herschel Walker</span>.",
     "author": "Fredreka Schouten",
-    "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state"
+    "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
+    "sentiment": "0.0"
   },
   {
     "id": 7790,
     "mediaId": 12,
-    "date": "4/12/2022 12:00:00 AM",
+    "date": "d2022-04-12T20:00",
     "sentence": "With less than a month until early voting begins in the Georgia primaries, the increasingly frustrated Republicans running against <span class='selected-term'>Herschel Walker</span> are accusing the famous former footballer of conducting what they call the basement strategy, of President Joe Biden, who kept a restricted schedule during the pandemic campaign of 2020.",
     "author": "Patricia Murphy",
-    "title": "OPINION: Herschel Walkers Velvet Rope Campaign"
+    "title": "OPINION: Herschel Walkers Velvet Rope Campaign",
+    "sentiment": "-0.557"
   },
   {
     "id": 7471,
     "mediaId": 19,
-    "date": "5/24/2022 12:00:00 AM",
+    "date": "d2022-05-24T00:00",
     "sentence": "Trump-backed Georgia Republican <span class='selected-term'>Herschel Walker</span>, a former NFL running back and Heisman Trophy winner, won his party primary for the U.S. Senate according to the Associated Press, which called the race at 7:56 p.m. E.T.",
     "author": "Jacob Bliss",
-    "title": "Herschel Walker Clinches Georgias U.S. Senate Republican Primary"
+    "title": "Herschel Walker Clinches Georgias U.S. Senate Republican Primary",
+    "sentiment": "0.548"
   }
 ]

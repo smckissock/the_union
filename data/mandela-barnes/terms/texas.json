@@ -2,49 +2,55 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "1/1/2022 12:00:00 AM",
+    "date": "d2022-01-01T00:00",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles"
-  },
-  {
-    "id": 2374,
-    "mediaId": 124,
-    "date": "3/3/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "Twelve months that moved the Democratic Party left of Biden"
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
   },
   {
     "id": 2376,
     "mediaId": 43,
-    "date": "3/3/2022 12:00:00 AM",
+    "date": "d2022-03-03T00:00",
     "sentence": "",
     "author": "",
-    "title": "Morning Digest: A day after being forced into surprise runoff, Texas congressman quits amid scandal"
+    "title": "Morning Digest: A day after being forced into surprise runoff, Texas congressman quits amid scandal",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2374,
+    "mediaId": 124,
+    "date": "d2022-03-03T14:09",
+    "sentence": "",
+    "author": "",
+    "title": "Twelve months that moved the Democratic Party left of Biden",
+    "sentiment": "0.0"
   },
   {
     "id": 2329,
     "mediaId": 65,
-    "date": "4/14/2022 12:00:00 AM",
+    "date": "d2022-04-14T11:05",
     "sentence": "",
     "author": "Paul Steinhauser",
-    "title": "High profile Democrats on this year's ballot break with Biden on lifting immigration restrictions"
+    "title": "High profile Democrats on this year's ballot break with Biden on lifting immigration restrictions",
+    "sentiment": "0"
   },
   {
     "id": 2309,
     "mediaId": 238,
-    "date": "4/21/2022 12:00:00 AM",
+    "date": "d2022-04-21T10:00",
     "sentence": "",
     "author": "",
-    "title": "The most interesting Democratic primaries of 2022"
+    "title": "The most interesting Democratic primaries of 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 6525,
     "mediaId": 238,
-    "date": "5/19/2022 12:00:00 AM",
+    "date": "d2022-05-19T22:46",
     "sentence": "",
     "author": "David Weigel",
-    "title": "The Trailer: Four trends from Tuesday's primaries in Pennsylvania, North Carolina and elsewhere"
+    "title": "The Trailer: Four trends from Tuesday's primaries in Pennsylvania, North Carolina and elsewhere",
+    "sentiment": "0.0"
   }
 ]

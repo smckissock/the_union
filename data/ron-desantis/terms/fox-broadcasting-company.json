@@ -2,25 +2,46 @@
   {
     "id": 4375,
     "mediaId": 238,
-    "date": "4/29/2022 12:00:00 AM",
+    "date": "d2022-04-29T17:55",
     "sentence": "The Florida law was effective at ginning up attention for that states governor, <span class='selected-term'>Ron DeSantis</span> (R), and the discussion has been accompanied by a backlash against visibility for same-sex couples.",
     "author": "",
-    "title": "American parents are generally fine with whats being taught in school"
+    "title": "American parents are generally fine with whats being taught in school",
+    "sentiment": "0"
+  },
+  {
+    "id": 4375,
+    "mediaId": 238,
+    "date": "d2022-04-29T17:55",
+    "sentence": "The Florida law was effective at ginning up attention for that states governor, <span class='selected-term'>Ron DeSantis</span> (R), and the discussion has been accompanied by a backlash against visibility for same-sex couples.",
+    "author": "",
+    "title": "American parents are generally fine with whats being taught in school",
+    "sentiment": "0.0"
   },
   {
     "id": 4140,
     "mediaId": 65,
-    "date": "5/3/2022 12:00:00 AM",
+    "date": "d2022-05-03T10:08",
     "sentence": "",
     "author": "Jack Durschlag",
-    "title": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say"
+    "title": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say",
+    "sentiment": "0.0"
   },
   {
     "id": 3854,
     "mediaId": 151,
-    "date": "5/8/2022 12:00:00 AM",
+    "date": "d2022-05-08T15:31",
     "sentence": "",
     "author": "",
-    "title": "Dem senator spars with Fox News host over Florida law"
+    "title": "Dem senator spars with Fox News host over Florida law",
+    "sentiment": "0"
+  },
+  {
+    "id": 3854,
+    "mediaId": 151,
+    "date": "d2022-05-08T15:31",
+    "sentence": "",
+    "author": "",
+    "title": "Dem senator spars with Fox News host over Florida law",
+    "sentiment": "0.0"
   }
 ]

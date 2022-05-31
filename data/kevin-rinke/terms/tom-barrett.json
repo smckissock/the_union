@@ -2,17 +2,19 @@
   {
     "id": 7,
     "mediaId": 43,
-    "date": "4/22/2022 12:00:00 AM",
+    "date": "d2022-04-22T00:00",
     "sentence": "The August primary also includes two wealthy businessmen, <span class='selected-term'>Kevin Rinke</span> and Perry Johnson.",
     "author": "",
-    "title": "Daily Kos Elections Live Digest: 4/22"
+    "title": "Daily Kos Elections Live Digest: 4/22",
+    "sentiment": "0.0"
   },
   {
     "id": 6,
     "mediaId": 43,
-    "date": "4/25/2022 12:00:00 AM",
+    "date": "d2022-04-25T00:00",
     "sentence": "The August primary also includes two wealthy businessmen, <span class='selected-term'>Kevin Rinke</span> and Perry Johnson.",
     "author": "",
-    "title": "Morning Digest: Michigan Republican sends horrid"
+    "title": "Morning Digest: Michigan Republican sends horrid",
+    "sentiment": "0.0"
   }
 ]

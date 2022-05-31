@@ -2,33 +2,64 @@
   {
     "id": 6971,
     "mediaId": 151,
-    "date": "4/11/2022 12:00:00 AM",
+    "date": "d2022-04-11T14:00",
     "sentence": "",
     "author": "",
-    "title": "Crypto's campaign year"
+    "title": "Crypto's campaign year",
+    "sentiment": "0.0"
   },
   {
     "id": 4040,
     "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
+    "date": "d2022-05-04T18:25",
     "sentence": "",
     "author": "Reid Wilson",
-    "title": "Abortion fight puts spotlight on governors"
+    "title": "Abortion fight puts spotlight on governors",
+    "sentiment": "0.0"
   },
   {
     "id": 3793,
     "mediaId": 376,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T05:00",
     "sentence": "",
     "author": "Kate Ackley\nStephanie Akin\nNiels Lesniewski\nMary Ellen McIntire",
-    "title": "These 10 senators are most vulnerable six months from Election Day"
+    "title": "These 10 senators are most vulnerable six months from Election Day",
+    "sentiment": "0.0"
   },
   {
     "id": 3753,
     "mediaId": 234,
-    "date": "5/11/2022 12:00:00 AM",
+    "date": "d2022-05-11T00:00",
     "sentence": "Per The Guardian:\nDiscussions of gender identity and sexual preference are banned in many Florida classrooms because of governor <span class='selected-term'>Ron DeSantis</span>s dont say gay? law, alongside dozens of math textbooks blocked for prohibited topics.? Now the Republican who has loudly condemned what he sees as the indoctrination? of young people has made another subject compulsory: students must receive at least 45 minutes instruction every November about the victims of communism.?\nIn a ceremony Monday at Miamis iconic Freedom Tower, where tens of thousands of Cuban immigrants fleeing Fidel Castros revolution were admitted into the US between 1962 and 1974, DeSantis signed into law House Bill 395, designating 7 November as Victims of Communism Day.",
     "author": "Bess Levin",
-    "title": "Senator Ron Johnson Tells Pregnant People to Suck It Up and Go Out of State for an Abortion If They Want One"
+    "title": "Senator Ron Johnson Tells Pregnant People to Suck It Up and Go Out of State for an Abortion If They Want One",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8530,
+    "mediaId": 136,
+    "date": "d2022-05-28T14:39",
+    "sentence": "Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> has targeted Disney with legislation in recent months after the company opposed what critics dubbed as the \"Don't Say Gay\" bill.",
+    "author": "Xander Landen",
+    "title": "Ron Johnson Takes Heat for Linking School Shootings to 'Wokeness'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8491,
+    "mediaId": 238,
+    "date": "d2022-05-28T15:23",
+    "sentence": "",
+    "author": "Dan Balz",
+    "title": "Trump is trapped in the past, and its hurting him with GOP voters",
+    "sentiment": "0"
+  },
+  {
+    "id": 8491,
+    "mediaId": 238,
+    "date": "d2022-05-28T15:23",
+    "sentence": "",
+    "author": "Dan Balz",
+    "title": "Trump is trapped in the past, and its hurting him with GOP voters",
+    "sentiment": "0.0"
   }
 ]

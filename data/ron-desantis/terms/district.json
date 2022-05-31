@@ -1,18 +1,38 @@
 [
   {
-    "id": 3787,
+    "id": 3791,
     "mediaId": 558,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T06:28",
     "sentence": "",
     "author": "",
-    "title": "Florida school yearbook on hold over student protest photos"
+    "title": "Florida school yearbook on hold over student protest photos",
+    "sentiment": "0"
   },
   {
     "id": 3791,
     "mediaId": 558,
-    "date": "5/10/2022 12:00:00 AM",
+    "date": "d2022-05-10T06:28",
     "sentence": "",
     "author": "",
-    "title": "Florida school yearbook on hold over student protest photos"
+    "title": "Florida school yearbook on hold over student protest photos",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3787,
+    "mediaId": 558,
+    "date": "d2022-05-10T08:28",
+    "sentence": "",
+    "author": "",
+    "title": "Florida school yearbook on hold over student protest photos",
+    "sentiment": "0"
+  },
+  {
+    "id": 3787,
+    "mediaId": 558,
+    "date": "d2022-05-10T08:28",
+    "sentence": "",
+    "author": "",
+    "title": "Florida school yearbook on hold over student protest photos",
+    "sentiment": "0.0"
   }
 ]

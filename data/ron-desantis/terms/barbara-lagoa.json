@@ -1,18 +1,38 @@
 [
   {
-    "id": 3898,
-    "mediaId": 238,
-    "date": "5/6/2022 12:00:00 AM",
+    "id": 3900,
+    "mediaId": 302,
+    "date": "d2022-05-06T19:01",
     "sentence": "",
-    "author": "",
-    "title": "Appellate court confirms DeSantis-backed voting law in Florida"
+    "author": "Lawrence Mower",
+    "title": "Appeals court reinstates Floridas disputed voting law",
+    "sentiment": "0"
   },
   {
     "id": 3900,
     "mediaId": 302,
-    "date": "5/6/2022 12:00:00 AM",
+    "date": "d2022-05-06T19:01",
     "sentence": "",
     "author": "Lawrence Mower",
-    "title": "Appeals court reinstates Floridas disputed voting law"
+    "title": "Appeals court reinstates Floridas disputed voting law",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3898,
+    "mediaId": 238,
+    "date": "d2022-05-06T20:28",
+    "sentence": "",
+    "author": "",
+    "title": "Appellate court confirms DeSantis-backed voting law in Florida",
+    "sentiment": "0"
+  },
+  {
+    "id": 3898,
+    "mediaId": 238,
+    "date": "d2022-05-06T20:28",
+    "sentence": "",
+    "author": "",
+    "title": "Appellate court confirms DeSantis-backed voting law in Florida",
+    "sentiment": "0.0"
   }
 ]

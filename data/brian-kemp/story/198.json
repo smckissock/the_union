@@ -1,10 +1,11 @@
 {
   "id": 198,
   "mediaId": 19,
-  "date": "4/13/2022 12:00:00 AM",
+  "date": "d2022-04-13T00:00",
   "headline": "Trump's First Major Midterm Donation Aims to Unseat Brian Kemp in Georgia",
   "image": "https://media.breitbart.com/media/2022/03/GettyImages-1230429180-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/13/trump-first-major-midterm-donation-aims-unseat-brian-kemp-georgia/",
+  "sentiment": "-0.744",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +14,6 @@
   "termIds": [
     1147,
     1248,
-    1646,
     1951,
     2095,
     2355,
