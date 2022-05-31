@@ -1,17 +1,8 @@
 [
   {
-    "id": 5415,
-    "mediaId": 12,
-    "date": "d2022-03-30T00:00",
-    "sentence": "",
-    "author": "Maureen Downey",
-    "title": "Opinion: Part-time faculty at Georgia colleges deserve better pay",
-    "sentiment": "0"
-  },
-  {
     "id": 5357,
     "mediaId": 12,
-    "date": "d2022-04-01T19:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Brian Eason",
     "title": "MUST Hope House: Expanded Marietta homeless shelter to open this spring",
@@ -20,7 +11,7 @@
   {
     "id": 2119,
     "mediaId": 25,
-    "date": "d2022-04-12T00:00",
+    "date": "2022-00-12",
     "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> on Tuesday signed a law allowing residents to carry handguns in public without a license or background check.",
     "author": "Adam Brewster",
     "title": "Georgia Governor Brian Kemp signs bill allowing guns to be carried without license",
@@ -29,10 +20,19 @@
   {
     "id": 5002,
     "mediaId": 12,
-    "date": "d2022-04-22T16:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Zachary Hansen",
     "title": "Metro Atlanta governments grapple with Juneteenths new holiday status",
+    "sentiment": "0"
+  },
+  {
+    "id": 5415,
+    "mediaId": 12,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Maureen Downey",
+    "title": "Opinion: Part-time faculty at Georgia colleges deserve better pay",
     "sentiment": "0"
   }
 ]

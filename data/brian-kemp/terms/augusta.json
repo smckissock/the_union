@@ -1,20 +1,20 @@
 [
   {
-    "id": 8268,
-    "mediaId": 33,
-    "date": "d2022-01-19T00:00",
-    "sentence": "",
-    "author": "Fredreka Schouten",
-    "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5250,
     "mediaId": 12,
-    "date": "d2022-04-08T12:00",
+    "date": "2022-00-08",
     "sentence": "The case has been building for 3 1/2 years since it was filed by Fair Fight Action, a group Democrat Stacey Abrams founded following her loss to Republican <span class='selected-term'>Brian Kemp</span> in the 2018 election for governor.",
     "author": "Mark Niesse",
     "title": "Georgia voting rights trial to begin after years of heated elections",
     "sentiment": "-0.688"
+  },
+  {
+    "id": 8268,
+    "mediaId": 33,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "Fredreka Schouten",
+    "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
+    "sentiment": "0.0"
   }
 ]

@@ -1,38 +1,38 @@
 [
   {
-    "id": 6436,
-    "mediaId": 19,
-    "date": "d2022-04-09T00:00",
-    "sentence": "",
-    "author": "James P. Pinkerton",
-    "title": "Pinkerton: David vs. Goliath  Five Takeaways from the Amazon Workers Victory Over Union-Busting Billionaire Bezos",
-    "sentiment": "0"
-  },
-  {
-    "id": 5023,
-    "mediaId": 43,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
-    "sentiment": "0"
-  },
-  {
     "id": 5886,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Norman Mineta, 90, Dies; Helped Win Reparations for Interned Japanese Americans",
     "sentiment": "0"
   },
   {
+    "id": 6436,
+    "mediaId": 19,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "James P. Pinkerton",
+    "title": "Pinkerton: David vs. Goliath  Five Takeaways from the Amazon Workers Victory Over Union-Busting Billionaire Bezos",
+    "sentiment": "0"
+  },
+  {
     "id": 5526,
     "mediaId": 129,
-    "date": "d2022-05-16T00:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "",
     "title": "From Voodoo to MAGA to Buffalo",
+    "sentiment": "0"
+  },
+  {
+    "id": 5023,
+    "mediaId": 43,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
     "sentiment": "0"
   }
 ]

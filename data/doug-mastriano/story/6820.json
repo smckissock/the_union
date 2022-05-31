@@ -1,26 +1,18 @@
 {
   "id": 6820,
   "mediaId": 195,
-  "date": "d2022-05-14T20:11",
+  "date": "5/14/2022 12:00:00 AM",
   "headline": "Trump makes series of Saturday endorsements",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/04/trumprally7_06202020_gettyimages.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/campaign/3488564-trump-makes-series-of-saturday-endorsements/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caroline Vakil",
   "authorUrl": "https://thehill.com/author/caroline-vakil/",
   "termIds": [
-    1023,
-    1147,
-    2052,
-    3102,
-    5362,
-    2590,
-    2834,
-    2850,
-    2862
+    3102
   ],
   "sentences": [
     "We understand you participated in these activities based on assertions of voter fraud and other asserted irregularities and based on a stated belief that under the U.S. Constitution the state legislature has the sole authority to direct the manner of selecting delegates to the Electoral College. We have an interest in understanding these activities and the theories that motivated them,? Thompson said.",

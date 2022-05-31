@@ -1,47 +1,47 @@
 [
   {
-    "id": 5023,
-    "mediaId": 43,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
-    "sentiment": "0"
-  },
-  {
     "id": 5895,
     "mediaId": 136,
-    "date": "d2022-05-03T23:46",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Katherine Fung",
     "title": "What J.D. Vance Has Said on Voter Fraud as Ohio Sets Mail-In Ballot Record",
     "sentiment": "0"
   },
   {
-    "id": 5848,
-    "mediaId": 25,
-    "date": "d2022-05-04T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio primary results: Trump-backed J.D. Vance wins Republican Senate race",
-    "sentiment": "0.741"
-  },
-  {
     "id": 5780,
     "mediaId": 238,
-    "date": "d2022-05-04T15:23",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "4 takeaways from the Ohio primaries",
     "sentiment": "0"
   },
   {
+    "id": 5848,
+    "mediaId": 25,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Ohio primary results: Trump-backed J.D. Vance wins Republican Senate race",
+    "sentiment": "0.741"
+  },
+  {
     "id": 5636,
     "mediaId": 238,
-    "date": "d2022-05-07T11:30",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "How 6 GOP candidates shifted their tones on stolen election claims",
+    "sentiment": "0"
+  },
+  {
+    "id": 5023,
+    "mediaId": 43,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
     "sentiment": "0"
   }
 ]

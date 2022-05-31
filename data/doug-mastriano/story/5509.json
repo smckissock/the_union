@@ -1,11 +1,11 @@
 {
   "id": 5509,
   "mediaId": 19,
-  "date": "d2022-05-17T00:00",
+  "date": "5/17/2022 12:00:00 AM",
   "headline": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries",
   "image": "https://media.breitbart.com/media/2022/05/mccormick-mehmet-oz-dr-oz-kathy-barnette-ap-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/17/election-night-livewire-pennsylvania-north-carolina-kentucky-idaho-oregon-vote-in-contentious-primaries/",
-  "sentiment": "-0.234",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,19 +13,10 @@
   "authorUrl": "https://www.breitbart.com/author/matthew-boyle/",
   "termIds": [
     821,
-    1282,
-    1713,
     2303,
-    2491,
     3102,
     3103,
-    3104,
-    428,
-    2706,
-    2738,
-    2834,
-    2850,
-    2862
+    3104
   ],
   "sentences": [
     "ET:\nThose 26 Trump endorsements on the line on Tuesday night are as follows, according to Trumps team:\nIdaho-Governor: Janice McGeachin\nIdaho-Senate: Mike Crapo\nIdaho-01: Russ Fulcher\nKentucky-Senate: Rand Paul\nKentucky-01: James Comer\nKentucky-02: Brett Guthrie\nKentucky-04: Thomas Massie\nKentucky-05: Hal Rogers\nKentucky-06: Andy Barr\nNorth Carolina-Senate: Ted Budd\nNorth Carolina-03: Greg Murphy\nNorth Carolina-05: Virginia Foxx\nNorth Carolina-07: David Rouzer\nNorth Carolina-08: Dan Bishop\nNorth Carolina-09: Richard Hudson\nNorth Carolina-10: Patrick McHenry\nNorth Carolina-11: Madison Cawthorn\nNorth Carolina-13: Bo Hines\nPennsylvania-Governor: Doug Mastriano\nPennsylvania-Senate: Mehmet Oz\nPennsylvania-08: Jim Bognet\nPennsylvania-10: Scott Perry\nPennsylvania-11: Lloyd Smucker\nPennsylvania-13: John Joyce\nPennsylvania-14: Guy Reschenthaler\nPennsylvania-16: Mike Kelly\nUPDATE 7:21 p.m.",

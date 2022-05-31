@@ -1,27 +1,19 @@
 {
   "id": 7342,
   "mediaId": 136,
-  "date": "d2022-05-25T01:15",
+  "date": "5/25/2022 12:00:00 AM",
   "headline": "Marjorie Taylor Greene Wins GOP Primary and Is More Popular Than Ever",
   "image": "https://d.newsweek.com/en/full/2042455/marjorie-taylor-greene-support.webp?w=790&f=c63747bfde859c43df467d49dc8c08a0",
   "link": "https://www.newsweek.com/marjorie-taylor-greene-wins-gop-primary-more-popular-ever-1708781",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Fung",
   "authorUrl": "https://www.newsweek.com/authors/katherine-fung",
   "termIds": [
-    883,
-    2087,
     2095,
-    2303,
-    146,
-    428,
-    545,
-    562,
-    2672,
-    2834
+    2303
   ],
   "sentences": [
     "While Greene's critics had hoped to see her defeated in Tuesday's primary, as North Carolina GOP Representative Madison Cawthorn recently was, the overwhelming support for the congresswoman means her Democratic opponentwho had not yet been called when Greene's win was announcedwill be in a particularly challenging contest come November.",

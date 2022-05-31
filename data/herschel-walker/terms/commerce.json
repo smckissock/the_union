@@ -2,52 +2,16 @@
   {
     "id": 1217,
     "mediaId": 65,
-    "date": "d2022-03-11T19:58",
+    "date": "2022-00-11",
     "sentence": "Also scheduled to appear at the March 26 rally with Trump is former professional and college football star running back <span class='selected-term'>Herschel Walker</span>, the clear front-runner in this year's GOP Senate primary in Georgia.",
     "author": "Paul Steinhauser",
     "title": "Trump returning to Georgia to campaign with David Perdue, Herschel Walker",
     "sentiment": "0.832"
   },
   {
-    "id": 7911,
-    "mediaId": 19,
-    "date": "d2022-03-26T00:00",
-    "sentence": "Multiple Trump-endorsed candidates are scheduled to speak at Saturdays rally, including former football star and current Republican primary Senate candidate <span class='selected-term'>Herschel Walker</span> and former Senator and current gubernatorial candidate David Perdue.",
-    "author": "Ethan Letkeman",
-    "title": "Watch Live: Donald Trump Holds Save America Rally in Commerce, Georgia",
-    "sentiment": "0"
-  },
-  {
-    "id": 7906,
-    "mediaId": 558,
-    "date": "d2022-03-26T11:09",
-    "sentence": "Saturdays rally in Commerce, 70 miles north-east of Atlanta and one of the most conservative parts of the state, is expected to feature <span class='selected-term'>Herschel Walker</span>, a former football player running for the US Senate; Perdue; and the congressional candidate Vernon Jones, a former Democratic state representative who began calling himself the Black Donald Trump after switching parties.",
-    "author": "Edward Helmore",
-    "title": "Trump heads to Georgia in high-stakes bid to shape Republican primaries",
-    "sentiment": "0.277"
-  },
-  {
-    "id": 7900,
-    "mediaId": 237,
-    "date": "d2022-03-26T22:51",
-    "sentence": "",
-    "author": "Heather Hamilton",
-    "title": "Single most dangerous time: Trump blasts climate change, CRT, and KBJ",
-    "sentiment": "0"
-  },
-  {
-    "id": 7894,
-    "mediaId": 12,
-    "date": "d2022-03-27T03:00",
-    "sentence": "If Kemp runs, I think <span class='selected-term'>Herschel Walker</span> will be seriously and negatively impacted, Trump thundered from the stage at an old racetrack in Commerce.",
-    "author": "Greg Bluestein",
-    "title": "Trump brings his anti-Kemp campaign to Georgia",
-    "sentiment": "-0.388"
-  },
-  {
     "id": 2064,
     "mediaId": 65,
-    "date": "d2022-04-15T10:03",
+    "date": "2022-00-15",
     "sentence": "EXCLUSIVE: Republican Senate candidate <span class='selected-term'>Herschel Walker</span> racked up another impressive fundraising haul for his Senate campaign as he tries to unseat Democratic Sen. Raphael Warnock of Georgia in November's midterm elections.",
     "author": "Paul Steinhauser",
     "title": "Trump-backed Herschel Walker raises $5.5M the past three months in his GOP Senate bid in Georgia",
@@ -56,7 +20,7 @@
   {
     "id": 7535,
     "mediaId": 558,
-    "date": "d2022-05-20T21:22",
+    "date": "2022-00-20",
     "sentence": "(Hyosub Shin/Atlanta Journal-Constitution via AP, File)\nWASHINGTON (AP)  <span class='selected-term'>Herschel Walker</span>, the football legend and leading Republican Senate candidate in Georgia, often boasts of his work helping service members and veterans struggling with mental health.",
     "author": "BRIAN SLODYSKO",
     "title": "Herschel Walker's ties to veterans program face scrutiny",
@@ -65,10 +29,46 @@
   {
     "id": 7315,
     "mediaId": 21,
-    "date": "d2022-05-24T02:00",
+    "date": "2022-00-24",
     "sentence": "Trump talked up Perdue and former football star <span class='selected-term'>Herschel Walker</span>, his pick to knock off Warnock in the general election, during a rally in Commerce, Georgia on March 26.",
     "author": "Warren Rojas",
     "title": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally",
     "sentiment": "0.0"
+  },
+  {
+    "id": 7900,
+    "mediaId": 237,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "Heather Hamilton",
+    "title": "Single most dangerous time: Trump blasts climate change, CRT, and KBJ",
+    "sentiment": "0"
+  },
+  {
+    "id": 7906,
+    "mediaId": 558,
+    "date": "2022-00-26",
+    "sentence": "Saturdays rally in Commerce, 70 miles north-east of Atlanta and one of the most conservative parts of the state, is expected to feature <span class='selected-term'>Herschel Walker</span>, a former football player running for the US Senate; Perdue; and the congressional candidate Vernon Jones, a former Democratic state representative who began calling himself the Black Donald Trump after switching parties.",
+    "author": "Edward Helmore",
+    "title": "Trump heads to Georgia in high-stakes bid to shape Republican primaries",
+    "sentiment": "0.277"
+  },
+  {
+    "id": 7911,
+    "mediaId": 19,
+    "date": "2022-00-26",
+    "sentence": "Multiple Trump-endorsed candidates are scheduled to speak at Saturdays rally, including former football star and current Republican primary Senate candidate <span class='selected-term'>Herschel Walker</span> and former Senator and current gubernatorial candidate David Perdue.",
+    "author": "Ethan Letkeman",
+    "title": "Watch Live: Donald Trump Holds Save America Rally in Commerce, Georgia",
+    "sentiment": "0"
+  },
+  {
+    "id": 7894,
+    "mediaId": 12,
+    "date": "2022-00-27",
+    "sentence": "If Kemp runs, I think <span class='selected-term'>Herschel Walker</span> will be seriously and negatively impacted, Trump thundered from the stage at an old racetrack in Commerce.",
+    "author": "Greg Bluestein",
+    "title": "Trump brings his anti-Kemp campaign to Georgia",
+    "sentiment": "-0.388"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "id": 2435,
-    "mediaId": 178,
-    "date": "d2022-01-09T00:00",
-    "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive Alex Lasry; state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Outagamie County Executive Tom Nelson.",
-    "author": "SCOTT BAUER",
-    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2424,
     "mediaId": 312,
-    "date": "d2022-01-09T16:17",
+    "date": "2022-00-09",
     "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive Alex Lasry; state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Outagamie County Executive Tom Nelson.",
     "author": "SCOTT BAUER / AP",
     "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2435,
+    "mediaId": 178,
+    "date": "2022-00-09",
+    "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive Alex Lasry; state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Outagamie County Executive Tom Nelson.",
+    "author": "SCOTT BAUER",
+    "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
     "sentiment": "0.0"
   }
 ]

@@ -1,17 +1,8 @@
 [
   {
-    "id": 2300,
-    "mediaId": 195,
-    "date": "d2022-04-29T12:57",
-    "sentence": "Mandela Barnes (D), state Treasurer <span class='selected-term'>Sarah Godlewski</span> (D), Milwaukee Bucks vice president Alex Lasry (D), Outagamie County Executive Tom Nelson (D) and nonprofit executive Steven Olikara (D), among others.",
-    "author": "Reid Wilson",
-    "title": "Democrats reserve $33 million in fall advertising in fight for Senate",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2291,
     "mediaId": 376,
-    "date": "d2022-05-03T19:28",
+    "date": "2022-00-03",
     "sentence": "There must be exceptions in the case of rape, incest and danger to the life of the mother.?\nWisconsin state Treasurer <span class='selected-term'>Sarah Godlewski</span>, a Democrat running in the competitive primary to challenge GOP Ron Johnson, said she joined the crowd outside the Supreme Court on Monday night, collecting personal stories from abortion rights advocates.",
     "author": "Mary Ellen McIntire\nStephanie Akin",
     "title": "Democrats see midterm election boost from abortion ruling leak",
@@ -20,10 +11,19 @@
   {
     "id": 3287,
     "mediaId": 376,
-    "date": "d2022-05-11T16:59",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Jessie Hellmann\nSandhya Raman",
     "title": "Democrats see leaked Supreme Court ruling as potential game changer",
     "sentiment": "0"
+  },
+  {
+    "id": 2300,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "Mandela Barnes (D), state Treasurer <span class='selected-term'>Sarah Godlewski</span> (D), Milwaukee Bucks vice president Alex Lasry (D), Outagamie County Executive Tom Nelson (D) and nonprofit executive Steven Olikara (D), among others.",
+    "author": "Reid Wilson",
+    "title": "Democrats reserve $33 million in fall advertising in fight for Senate",
+    "sentiment": "0.0"
   }
 ]

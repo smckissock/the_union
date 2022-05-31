@@ -1,11 +1,11 @@
 {
   "id": 7300,
   "mediaId": 261,
-  "date": "d2022-05-24T02:09",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
   "image": "https://www.gannett-cdn.com/presto/2021/08/19/PDTF/6a932570-36a8-40b2-926e-98754ddd1b3d-IMG_James_Craig_1_1_16R8U50.JPG?crop=4481,2521,x0,y224&width=3200&height=1801&format=pjpg&auto=webp",
   "link": "https://www.freep.com/story/news/politics/elections/2022/05/23/james-craig-perry-johnson-filed-few-signatures-governor/9890480002/",
-  "sentiment": "-0.882",
+  "sentiment": "0.0",
   "mediaOutlet": "Detroit Free Press",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -20,15 +20,7 @@
     2298,
     3075,
     3095,
-    3099,
-    5542,
-    5545,
-    307,
-    2645,
-    2678,
-    2748,
-    2791,
-    5556
+    3099
   ],
   "sentences": [
     "The complaint against Johnson filed by Liedel on behalf of another Michigan resident alleges that his campaign filed petitions with \"extensive irregularities, including signatures from dead people, apparent forgeries, extensive signature errors, a high number of duplicate signatures, numerous address and jurisdictional issues, and the use of many of the same petition circulators in apparent illicit petition activities.\"",

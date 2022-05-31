@@ -1,17 +1,8 @@
 [
   {
-    "id": 6172,
-    "mediaId": 195,
-    "date": "d2022-04-24T15:30",
-    "sentence": "",
-    "author": "Albert Hunt",
-    "title": "McConnells dilemma: What if Trumps candidates win?",
-    "sentiment": "0"
-  },
-  {
     "id": 6036,
     "mediaId": 43,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 5/2",
@@ -20,7 +11,7 @@
   {
     "id": 5476,
     "mediaId": 238,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Aaron Blake",
     "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
@@ -29,10 +20,19 @@
   {
     "id": 6543,
     "mediaId": 223,
-    "date": "d2022-05-20T00:01",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Michael Barone",
     "title": "It's Not Exactly Trump's Republican Party",
     "sentiment": "0.656"
+  },
+  {
+    "id": 6172,
+    "mediaId": 195,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Albert Hunt",
+    "title": "McConnells dilemma: What if Trumps candidates win?",
+    "sentiment": "0"
   }
 ]

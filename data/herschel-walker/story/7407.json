@@ -1,27 +1,18 @@
 {
   "id": 7407,
   "mediaId": 136,
-  "date": "d2022-05-25T00:04",
+  "date": "5/25/2022 12:00:00 AM",
   "headline": "Trump-Backed Herschel Walker, Who Questioned Evolution, Wins in Georgia",
   "image": "https://d.newsweek.com/en/full/2043511/herschel-walker-trump-georgia.webp?w=790&f=bb4cbbacf91c6d703706a54f3624307c",
   "link": "https://www.newsweek.com/trump-backed-herschel-walker-anti-evolution-candidate-wins-georgia-1709276",
-  "sentiment": "-0.728",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Fung",
   "authorUrl": "https://www.newsweek.com/authors/katherine-fung",
   "termIds": [
-    644,
-    815,
-    1136,
-    1147,
-    1765,
-    428,
-    501,
-    571,
-    584,
-    2672
+    815
   ],
   "sentences": [
     "\"After playing with the New Jersey Generals, I returned to Athens to complete my degree, but life and football got in the way,\" the GOP nominee said in a statement acknowledging the false claim to The Atlanta Journal-Constitution.",

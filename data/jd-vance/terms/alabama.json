@@ -1,53 +1,26 @@
 [
   {
-    "id": 6451,
-    "mediaId": 157,
-    "date": "d2022-04-07T00:00",
-    "sentence": "",
-    "author": "Amanda Marcotte",
-    "title": "Trump's MAGA movement is a cult  and here's the proof",
-    "sentiment": "0"
-  },
-  {
     "id": 6447,
     "mediaId": 169,
-    "date": "d2022-04-07T13:10",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Amanda Marcotte",
     "title": "Boycotting Disney and Oreos: The red flags that MAGA is a cult",
     "sentiment": "0"
   },
   {
-    "id": 6319,
-    "mediaId": 195,
-    "date": "d2022-04-18T10:26",
+    "id": 6451,
+    "mediaId": 157,
+    "date": "2022-00-07",
     "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Will Trumps Ohio gamble pay off?",
-    "sentiment": "-0.383"
-  },
-  {
-    "id": 6313,
-    "mediaId": 151,
-    "date": "d2022-04-18T14:00",
-    "sentence": "",
-    "author": "",
-    "title": "5 numbers to know from the new FEC reports",
-    "sentiment": "0"
-  },
-  {
-    "id": 6143,
-    "mediaId": 136,
-    "date": "d2022-04-26T16:51",
-    "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "Trump Sparking Fights in MAGA World With These Endorsements",
+    "author": "Amanda Marcotte",
+    "title": "Trump's MAGA movement is a cult  and here's the proof",
     "sentiment": "0"
   },
   {
     "id": 5546,
     "mediaId": 136,
-    "date": "d2022-05-13T01:50",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Daniel Bush",
     "title": "Biden Reaches Out to Trump Country Voters While Ramping Up MAGA Criticism",
@@ -56,16 +29,34 @@
   {
     "id": 5534,
     "mediaId": 19,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
     "title": "Exclusive  Katie Britt: Congress Should Finish Building the Wall Before Sending Ukraine $40 Billion",
     "sentiment": "0"
   },
   {
+    "id": 6313,
+    "mediaId": 151,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "5 numbers to know from the new FEC reports",
+    "sentiment": "0"
+  },
+  {
+    "id": 6319,
+    "mediaId": 195,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Will Trumps Ohio gamble pay off?",
+    "sentiment": "-0.383"
+  },
+  {
     "id": 7161,
     "mediaId": 147,
-    "date": "d2022-05-20T01:01",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Kim Chandler",
     "title": "Gov. Kay Ivey, challengers race to the right in Alabama GOP primary",
@@ -74,25 +65,16 @@
   {
     "id": 7482,
     "mediaId": 195,
-    "date": "d2022-05-23T22:29",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Niall Stanage",
     "title": "The Memo: Trump no longer holds MAGA movement in his palm",
     "sentiment": "0"
   },
   {
-    "id": 7350,
-    "mediaId": 129,
-    "date": "d2022-05-24T08:59:18",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
-    "sentiment": "0"
-  },
-  {
     "id": 7309,
     "mediaId": 323,
-    "date": "d2022-05-24T09:30",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Cameron McWhirter",
     "title": "Georgia GOP Primary Elections for Governor and Secretary of State Are Top Contests Today",
@@ -101,10 +83,28 @@
   {
     "id": 7349,
     "mediaId": 32,
-    "date": "d2022-05-24T13:54:55",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Kevin Breuninger",
     "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch",
+    "sentiment": "0"
+  },
+  {
+    "id": 7350,
+    "mediaId": 129,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "0"
+  },
+  {
+    "id": 6143,
+    "mediaId": 136,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "Trump Sparking Fights in MAGA World With These Endorsements",
     "sentiment": "0"
   }
 ]

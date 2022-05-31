@@ -1,26 +1,8 @@
 [
   {
-    "id": 5209,
-    "mediaId": 33,
-    "date": "d2022-04-12T00:00",
-    "sentence": "",
-    "author": "Andy Rose and Theresa Waldrop",
-    "title": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit",
-    "sentiment": "0"
-  },
-  {
-    "id": 5105,
-    "mediaId": 209,
-    "date": "d2022-04-17T00:00",
-    "sentence": "",
-    "author": "The Week Staff",
-    "title": "Putting more guns on the street",
-    "sentiment": "0"
-  },
-  {
     "id": 5844,
     "mediaId": 239,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Susan Ferrechio",
     "title": "Trumps endorsement winning streak headed for tougher tests in Pennsylvania, Georgia",
@@ -29,19 +11,37 @@
   {
     "id": 4658,
     "mediaId": 409,
-    "date": "d2022-05-05T15:21",
+    "date": "2022-00-05",
     "sentence": "In Georgia, the legislature passed a bill delegating authority to the GHSA to implement policies on transgender athletes, with Governor <span class='selected-term'>Brian Kemp</span> signing the bill last week.",
     "author": "Zachary Evans",
     "title": "Georgia School Athletics Group Bars Male Students from Girls Sports",
     "sentiment": "0.0"
   },
   {
+    "id": 5209,
+    "mediaId": 33,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "Andy Rose and Theresa Waldrop",
+    "title": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit",
+    "sentiment": "0"
+  },
+  {
     "id": 3316,
     "mediaId": 1576,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "I am proud to offer my full support for four more years of <span class='selected-term'>Brian Kemp</span> as governor of the great state of Georgia!?\nThe news comes as Pence has taken steps to distance himself from Trump as the former congressman and Indiana governor considers a 2024 presidential run that could put him into direct competition with his former boss.",
     "author": "",
     "title": "Pence to rally with Kemp in Georgia in break with Trump",
     "sentiment": "0.806"
+  },
+  {
+    "id": 5105,
+    "mediaId": 209,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "The Week Staff",
+    "title": "Putting more guns on the street",
+    "sentiment": "0"
   }
 ]

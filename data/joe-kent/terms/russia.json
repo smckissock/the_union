@@ -1,26 +1,26 @@
 [
   {
-    "id": 2234,
-    "mediaId": 21,
-    "date": "d2022-03-03T22:00",
-    "sentence": "Rep. Jaime Herrera Beutler, a Republican from Washington, faces a strong GOP primary challenge from <span class='selected-term'>Joe Kent</span>.",
-    "author": "Adam Wren",
-    "title": "Trump-endorsed Joe Kent, who's challenging Rep. Jaime Herrera Beutler in a Republican primary, violated federal law by improperly disclosing his personal finances",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2223,
     "mediaId": 151,
-    "date": "d2022-04-01T17:10",
+    "date": "2022-00-01",
     "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
     "author": "",
     "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
     "sentiment": "0.0"
   },
   {
+    "id": 2234,
+    "mediaId": 21,
+    "date": "2022-00-03",
+    "sentence": "Rep. Jaime Herrera Beutler, a Republican from Washington, faces a strong GOP primary challenge from <span class='selected-term'>Joe Kent</span>.",
+    "author": "Adam Wren",
+    "title": "Trump-endorsed Joe Kent, who's challenging Rep. Jaime Herrera Beutler in a Republican primary, violated federal law by improperly disclosing his personal finances",
+    "sentiment": "0.0"
+  },
+  {
     "id": 225,
     "mediaId": 129,
-    "date": "d2022-04-07T10:32",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "The G.O.P.'s Putin Wing'",
@@ -29,7 +29,7 @@
   {
     "id": 2217,
     "mediaId": 376,
-    "date": "d2022-04-12T15:02",
+    "date": "2022-00-12",
     "sentence": "In southwestern Washington, Trump has endorsed former Army Green Beret <span class='selected-term'>Joe Kent</span> against Herrera Beutler.",
     "author": "",
     "title": "New lines, interesting races in Washington state",

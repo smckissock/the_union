@@ -1,98 +1,62 @@
 [
   {
-    "id": 6349,
-    "mediaId": 151,
-    "date": "d2022-04-16T13:53",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Palin returns with a thud in Alaska",
-    "sentiment": "0"
-  },
-  {
-    "id": 6181,
-    "mediaId": 165,
-    "date": "d2022-04-24T01:55",
-    "sentence": "",
-    "author": "Ryan Bort",
-    "title": "Trump Rambles About Toilets Not Flushing During Ohio Rally  Oh, and Also: Hijacking Americas Election Systems",
-    "sentiment": "-0.356"
-  },
-  {
-    "id": 6175,
-    "mediaId": 409,
-    "date": "d2022-04-24T11:35",
-    "sentence": "",
-    "author": "Caroline Downey",
-    "title": "Trump Blasts Failures of Biden Admin, Campaigns for Vance at Ohio Rally",
-    "sentiment": "-0.432"
-  },
-  {
-    "id": 6071,
-    "mediaId": 65,
-    "date": "d2022-04-30T05:20",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "JD Vance: Will there be America-first Republicans or 'same old' Republicans in Congress after midterms?",
-    "sentiment": "0"
-  },
-  {
     "id": 6055,
     "mediaId": 25,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
     "sentiment": "0"
   },
   {
-    "id": 5927,
-    "mediaId": 163,
-    "date": "d2022-05-03T10:16",
-    "sentence": "",
-    "author": "Reuters",
-    "title": "Factbox: Four races to watch in Ohio's primaries for U.S. Congress, governor",
-    "sentiment": "0"
-  },
-  {
     "id": 5899,
     "mediaId": 237,
-    "date": "d2022-05-03T22:51",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Cami Mondeaux",
     "title": "Trump-endorsed Greg Pence wins GOP nomination in bid to keep House seat",
     "sentiment": "0"
   },
   {
-    "id": 5692,
-    "mediaId": 19,
-    "date": "d2022-05-06T00:00",
+    "id": 5927,
+    "mediaId": 163,
+    "date": "2022-00-03",
     "sentence": "",
-    "author": "Jacob Bliss",
-    "title": "Tim Ryan Devolves: Pro-Life Champion to Radically Pro-Abortion",
-    "sentiment": "0"
-  },
-  {
-    "id": 5679,
-    "mediaId": 233,
-    "date": "d2022-05-06T09:01",
-    "sentence": "",
-    "author": "Orlando Mayorquin",
-    "title": "What is a primary election? What to know about open and closed congressional primaries",
+    "author": "Reuters",
+    "title": "Factbox: Four races to watch in Ohio's primaries for U.S. Congress, governor",
     "sentiment": "0"
   },
   {
     "id": 5667,
     "mediaId": 238,
-    "date": "d2022-05-06T15:13",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Opinion One of the ugliest right-wing lies about Jan. 6 is imploding",
     "sentiment": "0"
   },
   {
+    "id": 5679,
+    "mediaId": 233,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Orlando Mayorquin",
+    "title": "What is a primary election? What to know about open and closed congressional primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5692,
+    "mediaId": 19,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Jacob Bliss",
+    "title": "Tim Ryan Devolves: Pro-Life Champion to Radically Pro-Abortion",
+    "sentiment": "0"
+  },
+  {
     "id": 5606,
     "mediaId": 25,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Aaron Navarro",
     "title": "Republican Tom Reed resigns from Congress",
@@ -101,10 +65,46 @@
   {
     "id": 5534,
     "mediaId": 19,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
     "title": "Exclusive  Katie Britt: Congress Should Finish Building the Wall Before Sending Ukraine $40 Billion",
+    "sentiment": "0"
+  },
+  {
+    "id": 6349,
+    "mediaId": 151,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Palin returns with a thud in Alaska",
+    "sentiment": "0"
+  },
+  {
+    "id": 6175,
+    "mediaId": 409,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Caroline Downey",
+    "title": "Trump Blasts Failures of Biden Admin, Campaigns for Vance at Ohio Rally",
+    "sentiment": "-0.432"
+  },
+  {
+    "id": 6181,
+    "mediaId": 165,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Ryan Bort",
+    "title": "Trump Rambles About Toilets Not Flushing During Ohio Rally  Oh, and Also: Hijacking Americas Election Systems",
+    "sentiment": "-0.356"
+  },
+  {
+    "id": 6071,
+    "mediaId": 65,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "JD Vance: Will there be America-first Republicans or 'same old' Republicans in Congress after midterms?",
     "sentiment": "0"
   }
 ]

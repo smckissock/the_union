@@ -1,27 +1,18 @@
 {
   "id": 5931,
   "mediaId": 65,
-  "date": "d2022-05-03T09:51",
+  "date": "5/3/2022 12:00:00 AM",
   "headline": "Ohio GOP Senate race: Voters weigh Trump support for Vance against 2016 comments critical of former president",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20e69c5b-6b0d-43f6-aac6-514222c0993c/0208d0eb-3b8e-4b1a-8dfc-e82d6aa6ccfb/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/vance-trump-endorsement-ohio-gop-voters",
-  "sentiment": "0.382",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tyler Olson",
   "authorUrl": "https://www.foxnews.com/person/o/tyler-olson",
   "termIds": [
-    946,
-    1053,
-    1147,
-    1801,
-    3103,
-    379,
-    428,
-    571,
-    2609,
-    2845
+    3103
   ],
   "sentences": [
     "OHIO GOP SENATE PRIMARY WIDE OPEN AS VOTERS WAIT UNTIL LAST MOMENT TO DECIDE AFTER BRUISING RACE\nBut Ohio GOP voters, who have a menu of five major Republican candidates for their Senate primary  four of whom fought hard for Trump's support  are split on whether they believe Vance's change of heart.",

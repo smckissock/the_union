@@ -1,11 +1,11 @@
 {
   "id": 2302,
   "mediaId": 238,
-  "date": "d2022-04-28T14:00",
+  "date": "4/28/2022 12:00:00 AM",
   "headline": "Opinion The Wisconsin GOP is stuck with Ron Johnson. Democrats could pick a winner.",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/04/28/wisconsin-ron-johnson-democrats-senate-poll-midterm/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,15 +15,7 @@
     741,
     802,
     1568,
-    1628,
-    1925,
-    2039,
-    2087,
-    146,
-    428,
-    571,
-    2888,
-    2972
+    2039
   ],
   "sentences": [
     "The most recent Marquette Law School poll finds: Johnson is seen favorably by 36% and unfavorably by 46%, while 14% say they haven't heard enough and 4% say they don't know.? The poll also found: Thirty-nine percent [of voters] say cares about people like me' describes Republican Sen. Ron Johnson, 50% say it does not describe him, and 11% say they don't know.? (Prior to the 2016 election, 43 percent said he cares about people like them and 39 percent said he did not.)",

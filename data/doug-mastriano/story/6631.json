@@ -1,25 +1,18 @@
 {
   "id": 6631,
   "mediaId": 238,
-  "date": "d2022-05-18T15:22",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "Opinion Say it clearly: Republicans just nominated a pro-Trump insurrectionist",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/18/doug-mastriano-insurrectionist/",
-  "sentiment": "0.236",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Sargent",
   "authorUrl": "",
   "termIds": [
-    1147,
-    2087,
-    2191,
-    3102,
-    5426,
-    428,
-    2862,
-    2945
+    3102
   ],
   "sentences": [
     "Sarah Posner, a scholar of the religious right, has extensively demonstrated that Mastrianos efforts for Trump were infused with Christian nationalist fervor, which holds that Trump was installed in the White House by God as restorer of Americas white Christian heritage.?\nMastriano hinted at this in his victory speech Tuesday night.",

@@ -1,26 +1,18 @@
 {
   "id": 6979,
   "mediaId": 19,
-  "date": "d2022-04-02T00:00",
+  "date": "4/2/2022 12:00:00 AM",
   "headline": "Report: Pennsylvania State Sen. Doug Mastriano Wanted Government to Publicly Report Identities of Everyone Who Got Coronavirus",
   "image": "https://media.breitbart.com/media/2021/12/Doug-Mastriano-ap-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/02/report-pennsylvania-state-sen-doug-mastriano-wanted-government-to-publicly-report-identities-of-everyone-who-got-coronavirus/",
-  "sentiment": "-0.271",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Hamilton",
   "authorUrl": "https://www.breitbart.com/author/khamilton/",
   "termIds": [
-    1227,
-    1282,
-    1625,
-    3102,
-    428,
-    571,
-    5179,
-    5222,
-    2862
+    3102
   ],
   "sentences": [
     "Mastriano, who has since built his brand around personal freedom,? introduced a measure calling up the federal government to temporarily suspend HIPAA and allow for full disclosure of details that are currently considered private, and are not disclosed to the public.? He said:\nIt is deeply concerning that the federal government did not proactively roll back this dangerous policy, which endangers our people.",

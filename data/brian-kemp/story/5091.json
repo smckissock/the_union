@@ -1,27 +1,19 @@
 {
   "id": 5091,
   "mediaId": 169,
-  "date": "d2022-04-18T10:33",
+  "date": "4/18/2022 12:00:00 AM",
   "headline": "Does Trump still have the juice? His spotty endorsement record suggests decline",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/05/gettyimages-858366572.jpg",
   "link": "https://www.salon.com/2022/04/18/does-still-have-the-juice-his-spotty-endorsement-record-suggests-decline/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Heather Digby Parton",
   "authorUrl": "https://www.salon.com/writer/heather_digby_parton",
   "termIds": [
-    1133,
-    1147,
-    1349,
-    1462,
     2095,
-    3103,
-    4162,
-    296,
-    571,
-    2672
+    3103
   ],
   "sentences": [
     "Many eyes are on Georgia as a microcosm of the \"Mar-a-Lago Machine\" in action, where Trump has waged a particularly ugly crusade against GOP Governor Brian Kemp and Secretary of State Brad Raffensberger, along with anyone associated with them, endorsing their challengers and insisting that all GOP candidates running for any office sign off on the Big Lie.",

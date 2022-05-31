@@ -1,27 +1,18 @@
 {
   "id": 7451,
   "mediaId": 1576,
-  "date": "d2022-05-24T00:00",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Georgia US Senate race will pit Warnock against Walker",
   "image": "https://www.wabe.org/app/uploads/2022/05/AP22142181122736-336x189.jpg",
   "link": "https://www.wabe.org/georgia-us-senate-race-will-pit-warnock-against-walker/",
-  "sentiment": "-0.221",
+  "sentiment": "0.0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815,
-    1131,
-    1136,
-    2087,
-    6026,
-    571,
-    584,
-    2555,
-    2672,
-    6074
+    815
   ],
   "sentences": [
     "As a senator, Warnock has derided Republicans push for tighter voting rules, calling them Jim Crow in new clothes; stressed his work in bringing home funding for health care, national security research and other projects; and highlighted his efforts to try to cap the cost of insulin and temporarily suspend the federal gasoline tax.",

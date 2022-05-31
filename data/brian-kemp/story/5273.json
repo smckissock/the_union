@@ -1,22 +1,18 @@
 {
   "id": 5273,
   "mediaId": 12,
-  "date": "d2022-04-06T20:00",
+  "date": "4/6/2022 12:00:00 AM",
   "headline": "TSA catches record number of guns at Hartsfield-Jackson in first quarter",
   "image": "https://www.ajc.com/resizer/TtdgAoKbYpEO1KJ1Si_uM39pPqM=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/YQSREBDV42JUZUTO6P2QYFE2KI.JPG",
   "link": "https://www.ajc.com/news/atlanta-airport-blog/tsa-catches-record-number-of-guns-at-hartsfield-jackson-in-first-quarter/M74WAEPQVFAI7OMT6JKWLLDDVU/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kelly Yamanouchi",
   "authorUrl": "https://www.ajc.com/staff/kelly-yamanouchi/",
   "termIds": [
-    2095,
-    244,
-    533,
-    2555,
-    2722
+    2095
   ],
   "sentences": [
     "Howell said nearly every gun discovery at security checkpoints results in a fine, which varies depending on whether the firearm was loaded, if ammunition is accessible, if there was an attempt to hide it or multiple offenses.",

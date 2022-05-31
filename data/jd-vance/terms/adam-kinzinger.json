@@ -1,17 +1,8 @@
 [
   {
-    "id": 6196,
-    "mediaId": 195,
-    "date": "d2022-04-23T16:03",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
-    "sentiment": "0"
-  },
-  {
     "id": 6055,
     "mediaId": 25,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
@@ -20,10 +11,19 @@
   {
     "id": 5524,
     "mediaId": 234,
-    "date": "d2022-05-16T00:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Bess Levin",
     "title": "Republicans Are Furious People Remember Theyve Been Pushing the Racist Great Replacement Rhetoric for Years",
+    "sentiment": "0"
+  },
+  {
+    "id": 6196,
+    "mediaId": 195,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Niall Stanage",
+    "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
     "sentiment": "0"
   }
 ]

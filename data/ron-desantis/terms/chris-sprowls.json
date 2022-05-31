@@ -1,26 +1,8 @@
 [
   {
-    "id": 5078,
-    "mediaId": 151,
-    "date": "d2022-04-19T11:00",
-    "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "",
-    "title": "Florida's redistricting session: Quick, partisan, and bitter",
-    "sentiment": "0"
-  },
-  {
-    "id": 5078,
-    "mediaId": 151,
-    "date": "d2022-04-19T11:00",
-    "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "",
-    "title": "Florida's redistricting session: Quick, partisan, and bitter",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4191,
     "mediaId": 302,
-    "date": "d2022-05-02T20:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Florida to dedicate $30 million to saving manatees amid die-off",
@@ -29,7 +11,7 @@
   {
     "id": 4191,
     "mediaId": 302,
-    "date": "d2022-05-02T20:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Florida to dedicate $30 million to saving manatees amid die-off",
@@ -38,7 +20,7 @@
   {
     "id": 4112,
     "mediaId": 302,
-    "date": "d2022-05-03T19:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Kirby Wilson",
     "title": "Will Florida Republicans ban abortion? Heres what we know.",
@@ -47,7 +29,7 @@
   {
     "id": 4112,
     "mediaId": 302,
-    "date": "d2022-05-03T19:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Kirby Wilson",
     "title": "Will Florida Republicans ban abortion? Heres what we know.",
@@ -56,7 +38,7 @@
   {
     "id": 4063,
     "mediaId": 151,
-    "date": "d2022-05-04T11:05",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "SCOTUS reveal fuels Florida's anti-abortion push",
@@ -65,7 +47,7 @@
   {
     "id": 4063,
     "mediaId": 151,
-    "date": "d2022-05-04T11:05",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "SCOTUS reveal fuels Florida's anti-abortion push",
@@ -74,10 +56,28 @@
   {
     "id": 3459,
     "mediaId": 238,
-    "date": "d2022-05-19T15:06",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Lizette Alvarez",
     "title": "Opinion Florida lawmakers, too busy with culture wars, missed an actual crisis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5078,
+    "mediaId": 151,
+    "date": "2022-00-19",
+    "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Florida's redistricting session: Quick, partisan, and bitter",
+    "sentiment": "0"
+  },
+  {
+    "id": 5078,
+    "mediaId": 151,
+    "date": "2022-00-19",
+    "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Florida's redistricting session: Quick, partisan, and bitter",
     "sentiment": "0.0"
   }
 ]

@@ -1,25 +1,18 @@
 {
   "id": 6722,
   "mediaId": 223,
-  "date": "d2022-05-17T21:20",
+  "date": "5/17/2022 12:00:00 AM",
   "headline": "Trump's Endorsement Comes Through as State Sen. Doug Mastriano Wins PA Gubernatorial Primary",
   "image": "https://media.townhall.com/townhall/reu/ha/images/2022/137/0b17fdb2-9f61-4c5b-b55a-c2fcd0a063b1.png",
   "link": "https://townhall.com/tipsheet/rebeccadowns/2022/05/17/pa-gubernatorial-race-n2607415",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Rebecca Downs",
   "authorUrl": "https://townhall.com/tipsheet/rebeccadowns/",
   "termIds": [
-    1147,
-    1282,
-    1997,
-    3102,
-    428,
-    571,
-    3217,
-    2862
+    3102
   ],
   "sentences": [
     "57% in): PA Governor GOP\nDoug Mastriano* 293,046 (43%)\nLou Barletta 151,709 (22%)\nBill McSwain 103,520 (15%)\n*Race called for Mastriano\nMore results here: https://t.co/4prVQOLzzB\n Decision Desk HQ (@DecisionDeskHQ) May 18, 2022\nThe GOP tweeted congratulations with regards to Mastriano and noted the party is \"unified\" behind him \"to win in November.\"",

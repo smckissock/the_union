@@ -1,35 +1,8 @@
 [
   {
-    "id": 4408,
-    "mediaId": 151,
-    "date": "d2022-04-29T13:03",
-    "sentence": "",
-    "author": "",
-    "title": "The fall of the White House correspondent",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4333,
-    "mediaId": 124,
-    "date": "d2022-04-30T11:44",
-    "sentence": "",
-    "author": "",
-    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
-    "sentiment": "0"
-  },
-  {
-    "id": 4333,
-    "mediaId": 124,
-    "date": "d2022-04-30T11:44",
-    "sentence": "",
-    "author": "",
-    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4028,
     "mediaId": 120,
-    "date": "d2022-05-04T23:14",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Ja'han Jones",
     "title": "Trump's idea to shoot protesters evokes memories of Kent State",
@@ -38,7 +11,7 @@
   {
     "id": 4028,
     "mediaId": 120,
-    "date": "d2022-05-04T23:14",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Ja'han Jones",
     "title": "Trump's idea to shoot protesters evokes memories of Kent State",
@@ -47,7 +20,7 @@
   {
     "id": 3831,
     "mediaId": 195,
-    "date": "d2022-05-09T10:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Juan Williams",
     "title": "Juan Williams: Biden is right to call out GOP as extreme on abortion",
@@ -56,7 +29,7 @@
   {
     "id": 3780,
     "mediaId": 238,
-    "date": "d2022-05-10T10:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Emboldened by wins, GOP goes all in on the culture wars",
@@ -65,7 +38,7 @@
   {
     "id": 3716,
     "mediaId": 302,
-    "date": "d2022-05-11T09:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Older Floridians have trouble making the rent on their fixed incomes | Column",
@@ -74,7 +47,7 @@
   {
     "id": 3716,
     "mediaId": 302,
-    "date": "d2022-05-11T09:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Older Floridians have trouble making the rent on their fixed incomes | Column",
@@ -83,7 +56,7 @@
   {
     "id": 3525,
     "mediaId": 157,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "READ MORE: Supreme Court set to give the most extremist movement in the US a big win  and it's not abortion\n<span class='selected-term'>Ron DeSantis</span> and Greg Abbott stood right beside him, pushing through laws to prevent the next generation of potential white terrorists he hoped to influence with his manifesto? from learning the true racial history of America in public schools.",
     "author": "Thom Hartmann",
     "title": "The Buffalo terrorist didn't shoot alone",
@@ -92,10 +65,37 @@
   {
     "id": 3525,
     "mediaId": 157,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "READ MORE: Supreme Court set to give the most extremist movement in the US a big win  and it's not abortion\n<span class='selected-term'>Ron DeSantis</span> and Greg Abbott stood right beside him, pushing through laws to prevent the next generation of potential white terrorists he hoped to influence with his manifesto? from learning the true racial history of America in public schools.",
     "author": "Thom Hartmann",
     "title": "The Buffalo terrorist didn't shoot alone",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4408,
+    "mediaId": 151,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "The fall of the White House correspondent",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4333,
+    "mediaId": 124,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "",
+    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
+    "sentiment": "0"
+  },
+  {
+    "id": 4333,
+    "mediaId": 124,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "",
+    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
     "sentiment": "0.0"
   }
 ]

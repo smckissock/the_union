@@ -1,24 +1,18 @@
 {
   "id": 7932,
   "mediaId": 112,
-  "date": "d2022-03-24T18:05",
+  "date": "3/24/2022 12:00:00 AM",
   "headline": "Why President Biden fired Herschel Walker and Dr. Mehmet Oz from a federal fitness council",
   "image": "https://images.mktw.net/im-511404/horizontal?width=700&size=1.778975741239892&pixel_ratio=3",
   "link": "https://www.marketwatch.com/story/why-president-biden-fired-herschel-walker-and-dr-mehmet-oz-from-a-federal-fitness-council-11648145113",
-  "sentiment": "-0.81",
+  "sentiment": "0.0",
   "mediaOutlet": "Marketwatch",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Charles Passy",
   "authorUrl": "https://www.marketwatch.com/topics/journalists/charles-passy",
   "termIds": [
-    815,
-    1147,
-    1304,
-    1653,
-    2011,
-    2087,
-    2429
+    815
   ],
   "sentences": [
     "The laws purposes are to ensure that federal programs are administered in a nonpartisan fashion, to protect federal employees from political coercion in the workplace, and to ensure that federal employees are advanced based on merit and not based on political affiliation, the Office of Special Counsel says.",

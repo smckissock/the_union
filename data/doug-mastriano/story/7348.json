@@ -1,26 +1,19 @@
 {
   "id": 7348,
   "mediaId": 238,
-  "date": "d2022-05-24T22:40",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Opinion As Trump loses kingmaker status, he becomes more dangerous",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/24/trump-picks-primaries-perdue-lose-dangerous/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Dana Milbank",
   "authorUrl": "https://www.washingtonpost.com/people/dana-milbank/",
   "termIds": [
-    1147,
-    1244,
-    1364,
-    1951,
     2303,
-    3102,
-    4325,
-    4641,
-    376
+    3102
   ],
   "sentences": [
     "That was true before Trump began amplifying talk about war against an enemy within; before Fox News's Tucker Carlson, House Republican Conference Chair Elise Stefanik (N.Y.) and others promoted the great replacement conspiracy theory allegedly used to justify last week's racist massacre in Buffalo; and before Perdue, on his way to defeat, told his White audience that Abrams was demeaning her race.",

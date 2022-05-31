@@ -1,26 +1,8 @@
 [
   {
-    "id": 6116,
-    "mediaId": 238,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Post Politics Now Trump to rally with GOP gubernatorial hopeful in Nebraska accused of sexual assault",
-    "sentiment": "0"
-  },
-  {
-    "id": 6099,
-    "mediaId": 151,
-    "date": "d2022-04-28T17:14",
-    "sentence": "",
-    "author": "",
-    "title": "Trumps risky primary play: Rallying for a longtime ally accused of sexual misconduct",
-    "sentiment": "0"
-  },
-  {
     "id": 6043,
     "mediaId": 238,
-    "date": "d2022-05-01T23:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Trump makes closing pitch for Nebraska candidate accused of groping",
@@ -29,7 +11,7 @@
   {
     "id": 5744,
     "mediaId": 157,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Aaron Sanderford",
     "title": "Trump to hold follow-up call with voters after Nebraska rally for Charles Herbster",
@@ -38,37 +20,55 @@
   {
     "id": 5617,
     "mediaId": 25,
-    "date": "d2022-05-09T00:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Adam Brewster, Sarah Ewall-Wice",
     "title": "Nebraska's governor's primary race pits Trump-backed candidate accused of sexual misconduct against two other Republicans",
     "sentiment": "0"
   },
   {
-    "id": 5605,
-    "mediaId": 19,
-    "date": "d2022-05-10T00:00",
-    "sentence": "",
-    "author": "Nick Gilbertson",
-    "title": "Trump-Backed Candidates 58-1 in Primaries Following Races in Nebraska, West Virginia",
-    "sentiment": "0"
-  },
-  {
     "id": 5598,
     "mediaId": 195,
-    "date": "d2022-05-10T09:27",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Tal Axelrod",
     "title": "5 things to watch in the West Virginia, Nebraska primaries",
     "sentiment": "0"
   },
   {
+    "id": 5605,
+    "mediaId": 19,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Nick Gilbertson",
+    "title": "Trump-Backed Candidates 58-1 in Primaries Following Races in Nebraska, West Virginia",
+    "sentiment": "0"
+  },
+  {
     "id": 5572,
     "mediaId": 129,
-    "date": "d2022-05-11T13:27:59",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6099,
+    "mediaId": 151,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "Trumps risky primary play: Rallying for a longtime ally accused of sexual misconduct",
+    "sentiment": "0"
+  },
+  {
+    "id": 6116,
+    "mediaId": 238,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "Post Politics Now Trump to rally with GOP gubernatorial hopeful in Nebraska accused of sexual assault",
     "sentiment": "0"
   }
 ]

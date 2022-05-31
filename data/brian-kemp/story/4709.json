@@ -1,24 +1,18 @@
 {
   "id": 4709,
   "mediaId": 239,
-  "date": "d2022-05-04T00:03:41",
+  "date": "5/4/2022 12:00:00 AM",
   "headline": "Georgia high school athletic association bans transgender athletes",
   "image": "https://twt-thumbs.washtimes.com/media/image/2021/01/15/transgender_athletes_high_school_74903_c0-0-5760-3358_s885x516.jpg?05946f80f9f551ddf4465f44cd8d9a3175cbfe43",
   "link": "https://www.washingtontimes.com/news/2022/may/4/georgia-high-school-athletic-association-bans-tran/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jeff Amy",
   "authorUrl": "",
   "termIds": [
-    1178,
-    2095,
-    4764,
-    4848,
-    2555,
-    2672,
-    5143
+    2095
   ],
   "sentences": [
     "Their actions, to move so hastily and without consideration of the harms that this will do, without actually researching the complexities and nuances of this issue, will ultimately hurt kids throughout Georgia,? said Jeff Graham, the executive director of Georgia Equality, a group that advocates for the gay, lesbian, bisexual and transgender community.",

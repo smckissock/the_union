@@ -1,11 +1,11 @@
 {
   "id": 8453,
   "mediaId": 25,
-  "date": "d2022-05-27T00:00",
+  "date": "5/27/2022 12:00:00 AM",
   "headline": "5 Republican candidates for Michigan governor barred from ballot over invalid signatures",
   "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/27/8a4b063f-e12b-4e68-8de0-a1c1907092d6/thumbnail/140x90/fa1baae58890c7e9ef771b0749d6481b/gettyimages-1240729094.jpg",
   "link": "https://www.cbsnews.com/news/republicans-kept-off-michigan-ballot-turn-to-the-courts/",
-  "sentiment": "-0.869",
+  "sentiment": "0.0",
   "mediaOutlet": "cbs news",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,12 +13,7 @@
   "authorUrl": "",
   "termIds": [
     651,
-    1844,
-    146,
-    428,
-    6098,
-    2645,
-    2791
+    1844
   ],
   "sentences": [
     "2022 Midterm Elections\n More\n 5 Republican candidates for Michigan governor barred from ballot over invalid signatures\n Pennsylvania Senate GOP primary recount begins\n Georgia, Alabama, Arkansas, Texas and Minnesota primary results\n Pennsylvania, North Carolina, Kentucky, Idaho and Oregon primary results\n Pennsylvania GOP Senate primary headed to a recount\n More\nIn:\nLawsuit\nDetroit\nGretchen Whitmer\nElections\nmichigan",

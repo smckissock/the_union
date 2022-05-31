@@ -1,23 +1,18 @@
 {
   "id": 5250,
   "mediaId": 12,
-  "date": "d2022-04-08T12:00",
+  "date": "4/8/2022 12:00:00 AM",
   "headline": "Georgia voting rights trial to begin after years of heated elections",
   "image": "https://www.ajc.com/resizer/5trwrqMemZrO4zxphcXuBqNlWtI=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/KYXOM6ZTDCTWBYXVEOIXS4G7SQ.jpg",
   "link": "https://www.ajc.com/politics/georgia-voting-rights-trial-to-begin-after-years-of-heated-elections/WEUJQFRKFFAUVKFOTJQPYUKJPQ/",
-  "sentiment": "-0.688",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mark Niesse",
   "authorUrl": "https://www.ajc.com/staff/mark-niesse/",
   "termIds": [
-    964,
-    1951,
-    2095,
-    2203,
-    2556,
-    2672
+    2095
   ],
   "sentences": [
     "We will continue to amplify the voices of voters at trial, when Georgians from across the state will testify about the obstacles they faced trying to exercise their fundamental right to vote.?\nThe case will be decided by U.S. District Judge Steve Jones in a bench trial, meaning there will be no jury.",

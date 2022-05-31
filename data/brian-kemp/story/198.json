@@ -1,28 +1,19 @@
 {
   "id": 198,
   "mediaId": 19,
-  "date": "d2022-04-13T00:00",
+  "date": "4/13/2022 12:00:00 AM",
   "headline": "Trump's First Major Midterm Donation Aims to Unseat Brian Kemp in Georgia",
   "image": "https://media.breitbart.com/media/2022/03/GettyImages-1230429180-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/13/trump-first-major-midterm-donation-aims-unseat-brian-kemp-georgia/",
-  "sentiment": "-0.744",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ashley Oliver",
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
-    1147,
-    1248,
-    1951,
     2095,
-    2355,
-    3094,
-    4325,
-    428,
-    571,
-    2661,
-    2672
+    3094
   ],
   "sentences": [
     "As for Get Georgia Right's plans to spend its newfound cash to defeat Kemp, Politico reported the group has been running television ads since receiving the donation that warn Kemp is unable to beat Democrat gubernatorial candidate Stacey Abrams in a general election, charging that Kemp dismissed? concerns about voter fraud in 2020 and that if he is unable to beat voter fraud? then he is unable to beat Abrams.",

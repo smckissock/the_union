@@ -1,17 +1,8 @@
 [
   {
-    "id": 7708,
-    "mediaId": 129,
-    "date": "d2022-04-20T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Will Alaskans Welcome Sarah Palins Political Comeback?",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4008,
     "mediaId": 19,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "AWR Hawkins",
     "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights",
@@ -20,10 +11,19 @@
   {
     "id": 4008,
     "mediaId": 19,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "AWR Hawkins",
     "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights",
     "sentiment": "0.355"
+  },
+  {
+    "id": 7708,
+    "mediaId": 129,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "",
+    "title": "Will Alaskans Welcome Sarah Palins Political Comeback?",
+    "sentiment": "0.0"
   }
 ]

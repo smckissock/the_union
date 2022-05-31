@@ -1,11 +1,11 @@
 {
   "id": 2294,
   "mediaId": 43,
-  "date": "d2022-05-03T00:00",
+  "date": "5/3/2022 12:00:00 AM",
   "headline": "Now Says That COVID Vaccines Could Cause AIDS",
   "image": "https://images.dailykos.com/images/1065659/story_image/ScreenShot2022-05-03at5.18.17PM.png?1651623519",
   "link": "https://www.dailykos.com/story/2022/5/3/2095670/-WI-Sen-RoJo-The-Anti-Vaxxer-Now-Says-That-COVID-Vaccines-Could-Cause-AIDS",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,23 +13,9 @@
   "authorUrl": "",
   "termIds": [
     741,
-    783,
     802,
-    854,
-    1078,
     1568,
-    1925,
-    2039,
-    2087,
-    2145,
-    2428,
-    2500,
-    2507,
-    146,
-    247,
-    428,
-    562,
-    2945
+    2039
   ],
   "sentences": [
     "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\nMandela Barnes for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",

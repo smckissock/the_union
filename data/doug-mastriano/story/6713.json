@@ -1,11 +1,11 @@
 {
   "id": 6713,
   "mediaId": 157,
-  "date": "d2022-05-18T00:00",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "GOP drops the flash but keeps the fascism",
   "image": "https://www.rawstory.com/media-library/madison-cawthorn.jpg?id=29780239&width=1200&coordinates=0%2C34%2C0%2C34&height=600",
   "link": "https://www.rawstory.com/gop-drops-the-flash-but-keeps-the-fascism/",
-  "sentiment": "-0.67",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,8 @@
   "authorUrl": "https://www.rawstory.com/u/amanda_marcotte_salon",
   "termIds": [
     821,
-    1147,
-    2087,
-    2185,
     2303,
-    3102,
-    428,
-    2834,
-    2862
+    3102
   ],
   "sentences": [
     "And they understand that the task will be much easier if they run candidates who can pass as \"normal\" in the eyes of moderate voters, even though those candidates are just as radical underneath their bland exteriors as some of the more gleefully trollish options available to GOP voters.",

@@ -1,11 +1,11 @@
 {
   "id": 7205,
   "mediaId": 18,
-  "date": "d2022-05-22T00:38",
+  "date": "5/22/2022 12:00:00 AM",
   "headline": "Schoen: It's still Donald Trump's Republican party",
   "image": "https://www.bostonherald.com/wp-content/uploads/2022/05/schoen1.jpg?w=1569",
   "link": "https://www.bostonherald.com/2022/05/22/bhr-z-schoen-oped-0522/",
-  "sentiment": "0.398",
+  "sentiment": "0.0",
   "mediaOutlet": "Boston Herald",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,17 +13,9 @@
   "authorUrl": "https://www.bostonherald.com/author/douglas-schoen/",
   "termIds": [
     821,
-    1078,
-    1147,
-    1404,
     2303,
-    2491,
     3102,
-    3103,
-    4019,
-    428,
-    571,
-    2834
+    3103
   ],
   "sentences": [
     "Indeed, Mastriano played an instrumental role in pushing forward Trump's conspiracy theories about the 2020 election  he began his campaign by leading an effort to overturn Pennsylvania's 2020 election results and attended the Stop the Steal rally on Jan. 6, 2021, where he breached a police barricade outside the Capitol building during the insurrection.",

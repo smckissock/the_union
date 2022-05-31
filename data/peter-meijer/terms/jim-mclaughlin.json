@@ -1,20 +1,20 @@
 [
   {
-    "id": 40,
-    "mediaId": 157,
-    "date": "d2022-03-20T00:00",
-    "sentence": "Doug Ducey and 'RINO Congressman <span class='selected-term'>Peter Meijer</span>.'",
-    "author": "Tom Boggioni",
-    "title": "Trump sicced his followers on the GOP's 'RINOs' -- and it's tearing the party apart: report",
-    "sentiment": "0.0"
-  },
-  {
     "id": 39,
     "mediaId": 151,
-    "date": "d2022-03-20T11:01",
+    "date": "2022-00-20",
     "sentence": "Doug Ducey and RINO Congressman <span class='selected-term'>Peter Meijer</span>.? Loser Liz Cheney? is a Republican-In-Name-Only.",
     "author": "",
     "title": "How the GOP's dirtiest slur got a new life",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 40,
+    "mediaId": 157,
+    "date": "2022-00-20",
+    "sentence": "Doug Ducey and 'RINO Congressman <span class='selected-term'>Peter Meijer</span>.'",
+    "author": "Tom Boggioni",
+    "title": "Trump sicced his followers on the GOP's 'RINOs' -- and it's tearing the party apart: report",
     "sentiment": "0.0"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "id": 3600,
   "mediaId": 21,
-  "date": "d2022-05-14T06:00",
+  "date": "5/14/2022 12:00:00 AM",
   "headline": "A law allowing citizens to sue companies like Facebook, Twitter, and YouTube for censorship was reinstated in Texas",
   "image": "https://i.insider.com/627f40f39147a30018b47847?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/texans-can-sue-facebook-twitter-and-youtube-censorship-hb20-abbott-2022-5",
@@ -12,12 +12,7 @@
   "author": "Hannah Getahun",
   "authorUrl": "https://www.businessinsider.com/author/hannah-getahun",
   "termIds": [
-    661,
-    2250,
-    177,
-    539,
-    2661,
-    2934
+    661
   ],
   "sentences": [
     "Industry groups NetChoice and CCIA, which include members like Twitter, Google, and Meta, sued the state, citing the law infringed on their \"first amendment rights to engage in their own speech and to exercise editorial discretion over the speech published.\"",

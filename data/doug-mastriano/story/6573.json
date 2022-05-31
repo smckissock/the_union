@@ -1,11 +1,11 @@
 {
   "id": 6573,
   "mediaId": 558,
-  "date": "d2022-05-20T02:00",
+  "date": "5/20/2022 12:00:00 AM",
   "headline": "Trump loyalists primary win prompts election fears in Pennsylvania",
   "image": "https://s.yimg.com/ny/api/res/1.2/s9f479kl2ddP9aJN1rX7Cw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/X7XpxFmoMXqexORV6iF5vg--~B/aD0wO3c9MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/theguardian_763/9ffbc55cf16483b80a3614f3cb912498",
   "link": "https://sg.news.yahoo.com/trump-loyalist-primary-win-prompts-090046122.html",
-  "sentiment": "0.611",
+  "sentiment": "0.0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,13 +13,7 @@
   "authorUrl": "",
   "termIds": [
     661,
-    1147,
-    2087,
-    3102,
-    428,
-    5212,
-    2796,
-    2862
+    3102
   ],
   "sentences": [
     "We really need voters to be paying attention to how dangerous it is to have someone in a position like the governor who does not believe in the elections or in our system, who has cast so much doubt on the 2020 elections and would be in a great position of power,? said Lizzie Ulmer, senior vice-president for communications at States United Action, which is tracking election deniers running for office across the US.",

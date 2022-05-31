@@ -1,17 +1,8 @@
 [
   {
-    "id": 4417,
-    "mediaId": 195,
-    "date": "d2022-04-29T10:42",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Biden economic troubles mount",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4314,
     "mediaId": 157,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "Ron DeSantis' war on Disney has bondholders panicked over who's responsible for $1 billion in debt: report",
@@ -20,25 +11,16 @@
   {
     "id": 4314,
     "mediaId": 157,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "Ron DeSantis' war on Disney has bondholders panicked over who's responsible for $1 billion in debt: report",
     "sentiment": "0.0"
   },
   {
-    "id": 3775,
-    "mediaId": 409,
-    "date": "d2022-05-10T11:33",
-    "sentence": "Disney has been an outspoken critic of the measure, going so far as to say its goal as a company? is having the bill repealed by the legislature or struck down in the courts.?\nIn return, Florida stripped Disney of its independent special district? status, with Governor <span class='selected-term'>Ron DeSantis</span> warning that if the company chose to use its economic might to attack the parents of my state,? he would treat it as a provocation? and fight back.?\nSenator Josh Hawley (R., Mo.)",
-    "author": "Brittany Bernstein",
-    "title": "Woke Inc. Author Launches Financial Firm to Compete with Ideological Cartel of BlackRock, Vanguard",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3766,
     "mediaId": 65,
-    "date": "d2022-05-10T13:46",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Amy Nelson",
     "title": "Karol Markowicz on NYC Jewish museum canceling DeSantis speaking event: 'Political games'",
@@ -47,16 +29,25 @@
   {
     "id": 3766,
     "mediaId": 65,
-    "date": "d2022-05-10T13:46",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Amy Nelson",
     "title": "Karol Markowicz on NYC Jewish museum canceling DeSantis speaking event: 'Political games'",
     "sentiment": "0.0"
   },
   {
+    "id": 3775,
+    "mediaId": 409,
+    "date": "2022-00-10",
+    "sentence": "Disney has been an outspoken critic of the measure, going so far as to say its goal as a company? is having the bill repealed by the legislature or struck down in the courts.?\nIn return, Florida stripped Disney of its independent special district? status, with Governor <span class='selected-term'>Ron DeSantis</span> warning that if the company chose to use its economic might to attack the parents of my state,? he would treat it as a provocation? and fight back.?\nSenator Josh Hawley (R., Mo.)",
+    "author": "Brittany Bernstein",
+    "title": "Woke Inc. Author Launches Financial Firm to Compete with Ideological Cartel of BlackRock, Vanguard",
+    "sentiment": "0.0"
+  },
+  {
     "id": 6607,
     "mediaId": 129,
-    "date": "d2022-05-19T00:00",
+    "date": "2022-00-19",
     "sentence": "Thats clear not only from the results of the primary contests thus far but also from the talking points and battle cries beyond them  from, for example, the governors mansion in Florida, where <span class='selected-term'>Ron DeSantis</span> plots and executes his plan for emerging as the new leader of the Republican Party.",
     "author": "",
     "title": "David Graham pondered",
@@ -65,10 +56,19 @@
   {
     "id": 6607,
     "mediaId": 129,
-    "date": "d2022-05-19T00:00",
+    "date": "2022-00-19",
     "sentence": "Thats clear not only from the results of the primary contests thus far but also from the talking points and battle cries beyond them  from, for example, the governors mansion in Florida, where <span class='selected-term'>Ron DeSantis</span> plots and executes his plan for emerging as the new leader of the Republican Party.",
     "author": "",
     "title": "David Graham pondered",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4417,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Biden economic troubles mount",
     "sentiment": "0.0"
   }
 ]

@@ -1,44 +1,8 @@
 [
   {
-    "id": 5133,
-    "mediaId": 129,
-    "date": "d2022-04-15T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio",
-    "sentiment": "0.556"
-  },
-  {
-    "id": 6296,
-    "mediaId": 376,
-    "date": "d2022-04-19T06:00",
-    "sentence": "",
-    "author": "John T. Bennett",
-    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
-    "sentiment": "0"
-  },
-  {
-    "id": 6147,
-    "mediaId": 129,
-    "date": "d2022-04-26T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
-    "sentiment": "0"
-  },
-  {
-    "id": 6078,
-    "mediaId": 237,
-    "date": "d2022-04-29T18:43",
-    "sentence": "",
-    "author": "Cami Mondeaux",
-    "title": "Mike drop: Trump endorses Pences brother without mentioning veep",
-    "sentiment": "0"
-  },
-  {
     "id": 6055,
     "mediaId": 25,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
@@ -47,34 +11,34 @@
   {
     "id": 5899,
     "mediaId": 237,
-    "date": "d2022-05-03T22:51",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Cami Mondeaux",
     "title": "Trump-endorsed Greg Pence wins GOP nomination in bid to keep House seat",
     "sentiment": "0"
   },
   {
-    "id": 5810,
-    "mediaId": 151,
-    "date": "d2022-05-04T05:19",
-    "sentence": "",
-    "author": "",
-    "title": "Here are the Trump-backed candidates who won Tuesday's primaries",
-    "sentiment": "0"
-  },
-  {
     "id": 5768,
     "mediaId": 195,
-    "date": "d2022-05-04T18:10",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Caroline Vakil",
     "title": "The Trump-endorsed candidates who have won their primaries",
     "sentiment": "0"
   },
   {
+    "id": 5810,
+    "mediaId": 151,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Here are the Trump-backed candidates who won Tuesday's primaries",
+    "sentiment": "0"
+  },
+  {
     "id": 3966,
     "mediaId": 129,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It.",
@@ -83,34 +47,52 @@
   {
     "id": 5675,
     "mediaId": 558,
-    "date": "d2022-05-06T10:38",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Tom LoBianco",
     "title": "Anti-abortion crusader Pence capitalizes on a playing field reshaped by pending Roe decision",
     "sentiment": "0"
   },
   {
-    "id": 3307,
-    "mediaId": 233,
-    "date": "d2022-05-13T13:16",
-    "sentence": "",
-    "author": "Ella Lee",
-    "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp",
-    "sentiment": "0"
-  },
-  {
     "id": 3301,
     "mediaId": 238,
-    "date": "d2022-05-13T17:34",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Josh Dawsey",
     "title": "More Republicans are working to undermine Trump endorsements",
     "sentiment": "0"
   },
   {
+    "id": 3307,
+    "mediaId": 233,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "Ella Lee",
+    "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp",
+    "sentiment": "0"
+  },
+  {
+    "id": 5133,
+    "mediaId": 129,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "",
+    "title": "Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio",
+    "sentiment": "0.556"
+  },
+  {
+    "id": 6296,
+    "mediaId": 376,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "John T. Bennett",
+    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
+    "sentiment": "0"
+  },
+  {
     "id": 6608,
     "mediaId": 234,
-    "date": "d2022-05-19T00:00",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Eric Lutz",
     "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
@@ -119,34 +101,43 @@
   {
     "id": 7198,
     "mediaId": 323,
-    "date": "d2022-05-22T14:33",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Cameron McWhirter",
     "title": "Georgia Governor Race Is a Test for Trump. It Isn't Going Well.",
     "sentiment": "0"
   },
   {
-    "id": 7329,
-    "mediaId": 33,
-    "date": "d2022-05-23T00:00",
-    "sentence": "",
-    "author": "Eric Bradner",
-    "title": "Republicans look to Georgia for a path beyond Trump's 2020 grievances",
-    "sentiment": "0"
-  },
-  {
     "id": 7326,
     "mediaId": 1546,
-    "date": "d2022-05-23T17:21",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Ken Bredemeier",
     "title": "Trump's Election Fraud Claims Face a Test in Georgia",
     "sentiment": "0"
   },
   {
+    "id": 7329,
+    "mediaId": 33,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Eric Bradner",
+    "title": "Republicans look to Georgia for a path beyond Trump's 2020 grievances",
+    "sentiment": "0"
+  },
+  {
+    "id": 6147,
+    "mediaId": 129,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "",
+    "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
+    "sentiment": "0"
+  },
+  {
     "id": 8473,
     "mediaId": 157,
-    "date": "d2022-05-26T00:00",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Republicans talk trash about Trump as endorsements flop",
@@ -155,7 +146,7 @@
   {
     "id": 8571,
     "mediaId": 151,
-    "date": "d2022-05-26T08:30",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "",
     "title": "'Trump picked this fight': Why heavyweight Republicans no longer fear Trump",
@@ -164,10 +155,19 @@
   {
     "id": 8461,
     "mediaId": 129,
-    "date": "d2022-05-28T00:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Trump's Primary Losses Puncture His Invincibility",
+    "sentiment": "0"
+  },
+  {
+    "id": 6078,
+    "mediaId": 237,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Cami Mondeaux",
+    "title": "Mike drop: Trump endorses Pences brother without mentioning veep",
     "sentiment": "0"
   }
 ]

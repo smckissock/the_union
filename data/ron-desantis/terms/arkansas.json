@@ -1,107 +1,8 @@
 [
   {
-    "id": 4319,
-    "mediaId": 33,
-    "date": "d2022-05-01T00:00",
-    "sentence": "",
-    "author": "Devan Cole",
-    "title": "Arkansas GOP governor says he's considering 2024 bid and would run even if Trump does",
-    "sentiment": "0"
-  },
-  {
-    "id": 4319,
-    "mediaId": 33,
-    "date": "d2022-05-01T00:00",
-    "sentence": "",
-    "author": "Devan Cole",
-    "title": "Arkansas GOP governor says he's considering 2024 bid and would run even if Trump does",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4302,
-    "mediaId": 558,
-    "date": "d2022-05-01T09:41",
-    "sentence": "The revenge? political attack on Disney by Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, for opposing his dont say gay? law violates the partys mantra of restrained government, his counterpart in Arkansas said.",
-    "author": "Richard Luscombe",
-    "title": "Ron DeSantis Disney attack violates Republican principles, GOP rival says",
-    "sentiment": "-0.86"
-  },
-  {
-    "id": 4302,
-    "mediaId": 558,
-    "date": "d2022-05-01T09:41",
-    "sentence": "The revenge? political attack on Disney by Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, for opposing his dont say gay? law violates the partys mantra of restrained government, his counterpart in Arkansas said.",
-    "author": "Richard Luscombe",
-    "title": "Ron DeSantis Disney attack violates Republican principles, GOP rival says",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4301,
-    "mediaId": 558,
-    "date": "d2022-05-01T09:51",
-    "sentence": "",
-    "author": "Danielle Wallace",
-    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
-    "sentiment": "-0.818"
-  },
-  {
-    "id": 4301,
-    "mediaId": 558,
-    "date": "d2022-05-01T09:51",
-    "sentence": "",
-    "author": "Danielle Wallace",
-    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4292,
-    "mediaId": 163,
-    "date": "d2022-05-01T15:05",
-    "sentence": "Other potential Republican contenders in 2024 include Florida Governor <span class='selected-term'>Ron DeSantis</span>, former Vice President Mike Pence and former Secretary of State Mike Pompeo.",
-    "author": "Doina Chiacu",
-    "title": "Republican Hutchinson, at odds with Trump, eyes 2024 U.S. presidential run",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4291,
-    "mediaId": 136,
-    "date": "d2022-05-01T15:39",
-    "sentence": "Republican Arkansas Governor Asa Hutchinson on Sunday criticized Florida Governor <span class='selected-term'>Ron DeSantis</span> for fighting with Disney over the state's \"Don't Say Gay\" bill.",
-    "author": "Natalie Colarossi",
-    "title": "GOP Governor Hutchinson Blasts DeSantis Over Disney Fight in Florida",
-    "sentiment": "-0.883"
-  },
-  {
-    "id": 4291,
-    "mediaId": 136,
-    "date": "d2022-05-01T15:39",
-    "sentence": "Republican Arkansas Governor Asa Hutchinson on Sunday criticized Florida Governor <span class='selected-term'>Ron DeSantis</span> for fighting with Disney over the state's \"Don't Say Gay\" bill.",
-    "author": "Natalie Colarossi",
-    "title": "GOP Governor Hutchinson Blasts DeSantis Over Disney Fight in Florida",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4288,
-    "mediaId": 65,
-    "date": "d2022-05-01T16:51",
-    "sentence": "",
-    "author": "Danielle Wallace",
-    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
-    "sentiment": "-0.802"
-  },
-  {
-    "id": 4288,
-    "mediaId": 65,
-    "date": "d2022-05-01T16:51",
-    "sentence": "",
-    "author": "Danielle Wallace",
-    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4283,
     "mediaId": 136,
-    "date": "d2022-05-01T20:17",
+    "date": "2022-00-01",
     "sentence": "GOP Florida Governor <span class='selected-term'>Ron DeSantis</span> is also a potential nominee for the 2024 race as his popularity continues to grow among his own party despite his recent law restricting LGBTQ rights and his ongoing feud with Disney.",
     "author": "Fatma Khaled",
     "title": "Trump 'Should Not Define Our Future': GOP's Asa Hutchinson Weighs 2024 Bid",
@@ -110,16 +11,115 @@
   {
     "id": 4283,
     "mediaId": 136,
-    "date": "d2022-05-01T20:17",
+    "date": "2022-00-01",
     "sentence": "GOP Florida Governor <span class='selected-term'>Ron DeSantis</span> is also a potential nominee for the 2024 race as his popularity continues to grow among his own party despite his recent law restricting LGBTQ rights and his ongoing feud with Disney.",
     "author": "Fatma Khaled",
     "title": "Trump 'Should Not Define Our Future': GOP's Asa Hutchinson Weighs 2024 Bid",
     "sentiment": "0.0"
   },
   {
+    "id": 4288,
+    "mediaId": 65,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Danielle Wallace",
+    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
+    "sentiment": "-0.802"
+  },
+  {
+    "id": 4288,
+    "mediaId": 65,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Danielle Wallace",
+    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4291,
+    "mediaId": 136,
+    "date": "2022-00-01",
+    "sentence": "Republican Arkansas Governor Asa Hutchinson on Sunday criticized Florida Governor <span class='selected-term'>Ron DeSantis</span> for fighting with Disney over the state's \"Don't Say Gay\" bill.",
+    "author": "Natalie Colarossi",
+    "title": "GOP Governor Hutchinson Blasts DeSantis Over Disney Fight in Florida",
+    "sentiment": "-0.883"
+  },
+  {
+    "id": 4291,
+    "mediaId": 136,
+    "date": "2022-00-01",
+    "sentence": "Republican Arkansas Governor Asa Hutchinson on Sunday criticized Florida Governor <span class='selected-term'>Ron DeSantis</span> for fighting with Disney over the state's \"Don't Say Gay\" bill.",
+    "author": "Natalie Colarossi",
+    "title": "GOP Governor Hutchinson Blasts DeSantis Over Disney Fight in Florida",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4292,
+    "mediaId": 163,
+    "date": "2022-00-01",
+    "sentence": "Other potential Republican contenders in 2024 include Florida Governor <span class='selected-term'>Ron DeSantis</span>, former Vice President Mike Pence and former Secretary of State Mike Pompeo.",
+    "author": "Doina Chiacu",
+    "title": "Republican Hutchinson, at odds with Trump, eyes 2024 U.S. presidential run",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4301,
+    "mediaId": 558,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Danielle Wallace",
+    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
+    "sentiment": "-0.818"
+  },
+  {
+    "id": 4301,
+    "mediaId": 558,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Danielle Wallace",
+    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4302,
+    "mediaId": 558,
+    "date": "2022-00-01",
+    "sentence": "The revenge? political attack on Disney by Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, for opposing his dont say gay? law violates the partys mantra of restrained government, his counterpart in Arkansas said.",
+    "author": "Richard Luscombe",
+    "title": "Ron DeSantis Disney attack violates Republican principles, GOP rival says",
+    "sentiment": "-0.86"
+  },
+  {
+    "id": 4302,
+    "mediaId": 558,
+    "date": "2022-00-01",
+    "sentence": "The revenge? political attack on Disney by Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, for opposing his dont say gay? law violates the partys mantra of restrained government, his counterpart in Arkansas said.",
+    "author": "Richard Luscombe",
+    "title": "Ron DeSantis Disney attack violates Republican principles, GOP rival says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4319,
+    "mediaId": 33,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Devan Cole",
+    "title": "Arkansas GOP governor says he's considering 2024 bid and would run even if Trump does",
+    "sentiment": "0"
+  },
+  {
+    "id": 4319,
+    "mediaId": 33,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Devan Cole",
+    "title": "Arkansas GOP governor says he's considering 2024 bid and would run even if Trump does",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3949,
     "mediaId": 157,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Timothy Evans",
     "title": "Ron DeSantis' crusade against Disney is drawing fire from some Republicans",
@@ -128,7 +128,7 @@
   {
     "id": 3949,
     "mediaId": 157,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Timothy Evans",
     "title": "Ron DeSantis' crusade against Disney is drawing fire from some Republicans",
@@ -137,7 +137,7 @@
   {
     "id": 3828,
     "mediaId": 195,
-    "date": "d2022-05-09T10:33",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Abortion tops agenda as lawmakers return",
@@ -146,7 +146,7 @@
   {
     "id": 3591,
     "mediaId": 238,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "",
     "title": "A Glimpse of a Potential Post-Roe Future Through Texas Womens Stories",
@@ -155,7 +155,7 @@
   {
     "id": 3486,
     "mediaId": 188,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Alex Nitzberg",
     "title": "Florida Gov. DeSantis says President 'Biden should be given an honorary membership in the Mexican drug cartels'",
@@ -164,7 +164,7 @@
   {
     "id": 3486,
     "mediaId": 188,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Alex Nitzberg",
     "title": "Florida Gov. DeSantis says President 'Biden should be given an honorary membership in the Mexican drug cartels'",

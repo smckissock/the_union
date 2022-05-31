@@ -1,11 +1,11 @@
 {
   "id": 8195,
   "mediaId": 12,
-  "date": "d2022-02-02T12:00",
+  "date": "2/2/2022 12:00:00 AM",
   "headline": "Stacey Abrams raises $9.2M after entering gov race in December",
   "image": "https://www.ajc.com/resizer/zGYwxVgwmDL9ix6iSc8Ji408wOM=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/3D72VGOBLPBX4FGMOYHK75OAHE.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/stacey-abrams-raised-92m-since-entering-gov-race-in-december/PZW5F4E6MJEORGJCSIKSOBP3EU/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,13 +13,7 @@
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
     815,
-    1147,
-    1951,
-    2095,
-    4325,
-    146,
-    428,
-    2672
+    2095
   ],
   "sentences": [
     "The Democrat will report about $7.2 million in cash on hand at the end of the financial quarter after collecting contributions from more than 100,000 donors in just two months, a campaign aide said Wednesday.",

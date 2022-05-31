@@ -1,17 +1,8 @@
 [
   {
-    "id": 8267,
-    "mediaId": 223,
-    "date": "d2022-01-19T13:30",
-    "sentence": "pic.twitter.com/EPtu50bMlf\n Townhall.com (@townhallcom) January 18, 2022\nLow Octane Gas Lighting  ASSOCIATED PRESS\nIn Florida, Governor <span class='selected-term'>Ron DeSantis</span> is forwarding a bill that will halt the concept of assigning culpability to people based on race.",
-    "author": "Brad Slager",
-    "title": "CNN 'Conspiracy Buster' Raves When the Network Hires a Conspiracy Source",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4309,
     "mediaId": 151,
-    "date": "d2022-05-01T04:25",
+    "date": "2022-00-01",
     "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
     "author": "",
     "title": "Trevor Noah's best jokes at the WHCD",
@@ -20,10 +11,19 @@
   {
     "id": 4309,
     "mediaId": 151,
-    "date": "d2022-05-01T04:25",
+    "date": "2022-00-01",
     "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
     "author": "",
     "title": "Trevor Noah's best jokes at the WHCD",
     "sentiment": "0.642"
+  },
+  {
+    "id": 8267,
+    "mediaId": 223,
+    "date": "2022-00-19",
+    "sentence": "pic.twitter.com/EPtu50bMlf\n Townhall.com (@townhallcom) January 18, 2022\nLow Octane Gas Lighting  ASSOCIATED PRESS\nIn Florida, Governor <span class='selected-term'>Ron DeSantis</span> is forwarding a bill that will halt the concept of assigning culpability to people based on race.",
+    "author": "Brad Slager",
+    "title": "CNN 'Conspiracy Buster' Raves When the Network Hires a Conspiracy Source",
+    "sentiment": "0.0"
   }
 ]

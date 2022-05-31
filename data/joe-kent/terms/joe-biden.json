@@ -1,116 +1,80 @@
 [
   {
-    "id": 843,
-    "mediaId": 169,
-    "date": "d2022-01-03T06:00",
-    "sentence": "",
-    "author": "Igor Derysh",
-    "title": "Meet the scariest Republican candidates of 2022: It wasn't easy to pick 'em",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2256,
-    "mediaId": 237,
-    "date": "d2022-01-17T10:50",
-    "sentence": "It's going to come from the right, too.?\nHe was one of two Republican candidates, along with <span class='selected-term'>Joe Kent</span> of Washington, to attend a September Justice for J6? rally in support of alleged participants of the Jan. 6 Capitol riot still in Washington, D.C., jails.",
-    "author": "Emily Brooks",
-    "title": "A top GOP House candidate in Georgia says election doubts still driving voters",
-    "sentiment": "0.0"
-  },
-  {
     "id": 68,
     "mediaId": 163,
-    "date": "d2022-02-01T21:37",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Alexandra Ulmer",
     "title": "Republican U.S. lawmakers funnel money to colleagues who crossed Trump",
     "sentiment": "0.0"
   },
   {
-    "id": 2247,
-    "mediaId": 195,
-    "date": "d2022-02-02T21:13",
-    "sentence": "Trump has endorsed <span class='selected-term'>Joe Kent</span>, one of Herrera Beutler's Republican primary challengers in Washington's 3rd Congressional District.",
-    "author": "Julia Manchester",
-    "title": "GOP women's group endorses Herrera Beutler in primary race",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2242,
-    "mediaId": 163,
-    "date": "d2022-02-14T10:00",
-    "sentence": "\"We need to have a full immigration moratorium,\" said Trump-endorsed <span class='selected-term'>Joe Kent</span>, an Army veteran running in a Washington state primary against U.S. Representative Jaime Herrera Beutler.",
-    "author": "Alexandra Ulmer",
-    "title": "U.S. Republicans try to out-Trump each other with tough border rhetoric ahead of election",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2238,
-    "mediaId": 43,
-    "date": "d2022-02-25T00:00",
-    "sentence": "These chyrons appeared during Carlson's show, accompanying Carlson's statements prior to and during his colloquy with his guest, <span class='selected-term'>Joe Kent</span>a Donald Trump-endorsed zealot currently attempting to unseat Washington Rep. Jaime Herrera Butler.",
-    "author": "",
-    "title": "America now has its own 'Fifth Column,' and its name is Fox News",
-    "sentiment": "-0.373"
-  },
-  {
-    "id": 2234,
-    "mediaId": 21,
-    "date": "d2022-03-03T22:00",
-    "sentence": "Rep. Jaime Herrera Beutler, a Republican from Washington, faces a strong GOP primary challenge from <span class='selected-term'>Joe Kent</span>.",
-    "author": "Adam Wren",
-    "title": "Trump-endorsed Joe Kent, who's challenging Rep. Jaime Herrera Beutler in a Republican primary, violated federal law by improperly disclosing his personal finances",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2223,
     "mediaId": 151,
-    "date": "d2022-04-01T17:10",
+    "date": "2022-00-01",
     "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
     "author": "",
     "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
     "sentiment": "0.0"
   },
   {
-    "id": 23,
+    "id": 2247,
     "mediaId": 195,
-    "date": "d2022-04-05T21:49",
-    "sentence": "Army veteran <span class='selected-term'>Joe Kent</span> got the Trump nod in a primary against Rep. Jaime Herrera Beutler (R-Wash.).",
-    "author": "Cristina Marcos",
-    "title": "Veteran lawmaker's exit has House GOP trending toward Trump",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 225,
-    "mediaId": 129,
-    "date": "d2022-04-07T10:32",
-    "sentence": "",
-    "author": "",
-    "title": "The G.O.P.'s Putin Wing'",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2217,
-    "mediaId": 376,
-    "date": "d2022-04-12T15:02",
-    "sentence": "In southwestern Washington, Trump has endorsed former Army Green Beret <span class='selected-term'>Joe Kent</span> against Herrera Beutler.",
-    "author": "",
-    "title": "New lines, interesting races in Washington state",
+    "date": "2022-00-02",
+    "sentence": "Trump has endorsed <span class='selected-term'>Joe Kent</span>, one of Herrera Beutler's Republican primary challengers in Washington's 3rd Congressional District.",
+    "author": "Julia Manchester",
+    "title": "GOP women's group endorses Herrera Beutler in primary race",
     "sentiment": "0.0"
   },
   {
     "id": 106,
     "mediaId": 98,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "Tracking Trump's endorsements in the 2022 midterm election",
     "sentiment": "0.0"
   },
   {
+    "id": 843,
+    "mediaId": 169,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Igor Derysh",
+    "title": "Meet the scariest Republican candidates of 2022: It wasn't easy to pick 'em",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2234,
+    "mediaId": 21,
+    "date": "2022-00-03",
+    "sentence": "Rep. Jaime Herrera Beutler, a Republican from Washington, faces a strong GOP primary challenge from <span class='selected-term'>Joe Kent</span>.",
+    "author": "Adam Wren",
+    "title": "Trump-endorsed Joe Kent, who's challenging Rep. Jaime Herrera Beutler in a Republican primary, violated federal law by improperly disclosing his personal finances",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 23,
+    "mediaId": 195,
+    "date": "2022-00-05",
+    "sentence": "Army veteran <span class='selected-term'>Joe Kent</span> got the Trump nod in a primary against Rep. Jaime Herrera Beutler (R-Wash.).",
+    "author": "Cristina Marcos",
+    "title": "Veteran lawmaker's exit has House GOP trending toward Trump",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7597,
     "mediaId": 558,
-    "date": "d2022-05-05T21:15",
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "DAVID KLEPPER and JEFF AMY",
+    "title": "GOP works to get out the vote after calling elections rigged",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 1715,
+    "mediaId": 98,
+    "date": "2022-00-06",
     "sentence": "",
     "author": "DAVID KLEPPER and JEFF AMY",
     "title": "GOP works to get out the vote after calling elections rigged",
@@ -119,28 +83,64 @@
   {
     "id": 1725,
     "mediaId": 1576,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "GOP works to get out the vote after calling elections rigged",
     "sentiment": "0.0"
   },
   {
-    "id": 1715,
-    "mediaId": 98,
-    "date": "d2022-05-06T14:08",
+    "id": 225,
+    "mediaId": 129,
+    "date": "2022-00-07",
     "sentence": "",
-    "author": "DAVID KLEPPER and JEFF AMY",
-    "title": "GOP works to get out the vote after calling elections rigged",
+    "author": "",
+    "title": "The G.O.P.'s Putin Wing'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2217,
+    "mediaId": 376,
+    "date": "2022-00-12",
+    "sentence": "In southwestern Washington, Trump has endorsed former Army Green Beret <span class='selected-term'>Joe Kent</span> against Herrera Beutler.",
+    "author": "",
+    "title": "New lines, interesting races in Washington state",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2242,
+    "mediaId": 163,
+    "date": "2022-00-14",
+    "sentence": "\"We need to have a full immigration moratorium,\" said Trump-endorsed <span class='selected-term'>Joe Kent</span>, an Army veteran running in a Washington state primary against U.S. Representative Jaime Herrera Beutler.",
+    "author": "Alexandra Ulmer",
+    "title": "U.S. Republicans try to out-Trump each other with tough border rhetoric ahead of election",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2256,
+    "mediaId": 237,
+    "date": "2022-00-17",
+    "sentence": "It's going to come from the right, too.?\nHe was one of two Republican candidates, along with <span class='selected-term'>Joe Kent</span> of Washington, to attend a September Justice for J6? rally in support of alleged participants of the Jan. 6 Capitol riot still in Washington, D.C., jails.",
+    "author": "Emily Brooks",
+    "title": "A top GOP House candidate in Georgia says election doubts still driving voters",
     "sentiment": "0.0"
   },
   {
     "id": 6528,
     "mediaId": 238,
-    "date": "d2022-05-19T12:00",
+    "date": "2022-00-19",
     "sentence": "Republican congressional candidate <span class='selected-term'>Joe Kent</span> recently claimed rampant voter fraud in the 2020 election in an ad on Facebook  a misinformation problem Facebook has tried to correct.",
     "author": "Naomi Nix",
     "title": "The midterms are here. Critics say Facebook is already behind.",
     "sentiment": "0.0"
+  },
+  {
+    "id": 2238,
+    "mediaId": 43,
+    "date": "2022-00-25",
+    "sentence": "These chyrons appeared during Carlson's show, accompanying Carlson's statements prior to and during his colloquy with his guest, <span class='selected-term'>Joe Kent</span>a Donald Trump-endorsed zealot currently attempting to unseat Washington Rep. Jaime Herrera Butler.",
+    "author": "",
+    "title": "America now has its own 'Fifth Column,' and its name is Fox News",
+    "sentiment": "-0.373"
   }
 ]

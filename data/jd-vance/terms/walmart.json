@@ -1,20 +1,20 @@
 [
   {
-    "id": 5505,
-    "mediaId": 157,
-    "date": "d2022-05-17T00:00",
-    "sentence": "",
-    "author": "Alex Henderson",
-    "title": "Economist Paul Krugman explains why MAGAs paranoid mindset has overtaken the GOP",
-    "sentiment": "0"
-  },
-  {
     "id": 5488,
     "mediaId": 195,
-    "date": "d2022-05-17T11:30",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Tom Mockaitis",
     "title": "Conspiracy theories and racist rhetoric fuel domestic terrorism",
+    "sentiment": "0"
+  },
+  {
+    "id": 5505,
+    "mediaId": 157,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Alex Henderson",
+    "title": "Economist Paul Krugman explains why MAGAs paranoid mindset has overtaken the GOP",
     "sentiment": "0"
   }
 ]

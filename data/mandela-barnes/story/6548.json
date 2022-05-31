@@ -1,28 +1,21 @@
 {
   "id": 6548,
   "mediaId": 367,
-  "date": "d2022-05-21T00:00",
+  "date": "5/21/2022 12:00:00 AM",
   "headline": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance",
   "image": "https://www.gannett-cdn.com/presto/2022/05/21/PMJS/a68161cc-d8ec-4520-bf43-efe9ac4e575d-IMG_6638.jpg?width=640&height=480&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/05/21/elizabeth-warren-lauds-mandela-barnes-calls-out-ron-johnson/9871823002/",
-  "sentiment": "-0.376",
+  "sentiment": "0.0",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bill Glauber",
   "authorUrl": "https://www.jsonline.com/staff/2646086001/bill-glauber/",
   "termIds": [
-    704,
     741,
     802,
     1568,
-    1925,
-    2039,
-    317,
-    571,
-    2771,
-    2793,
-    2945
+    2039
   ],
   "sentences": [
     "Republican National Committee spokesperson Rachel Reisner criticized Barnes for his stances on policing, immigration and abortion and said the Democrat \"continues to flaunt the support of far-left radicals like Elizabeth Warren.\"",

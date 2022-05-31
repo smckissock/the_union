@@ -1,17 +1,8 @@
 [
   {
-    "id": 6145,
-    "mediaId": 124,
-    "date": "d2022-04-26T13:05",
-    "sentence": "",
-    "author": "",
-    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3855,
     "mediaId": 195,
-    "date": "d2022-05-08T13:30",
+    "date": "2022-00-08",
     "sentence": "If this outcome comes to fruition, it would all but end the presidential ambitions of <span class='selected-term'>Ron DeSantis</span> (R-Fla.) or any other Republican planning on running in 2024 until Trump officially makes his intentions clear  that is, whether he plans to run for office again, or plans to put his full weight behind another candidate.",
     "author": "Douglas E. Schoen",
     "title": "Does Donald Trump still control the GOP?: Three Senate races will give us an answer",
@@ -20,7 +11,7 @@
   {
     "id": 3445,
     "mediaId": 238,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Mariana Alfaro",
     "title": "Midterm primaries live updates Voters to pick key nominees in Pa., N.C., three other states",
@@ -29,7 +20,7 @@
   {
     "id": 3431,
     "mediaId": 129,
-    "date": "d2022-05-16T00:00",
+    "date": "2022-00-16",
     "sentence": "He said that he had been told before that he was the <span class='selected-term'>Ron DeSantis</span> before Ron DeSantis.",
     "author": "",
     "title": "Republican Chaos' in Pennsylvania Threatens to Upend the Midterms",
@@ -38,7 +29,7 @@
   {
     "id": 3557,
     "mediaId": 223,
-    "date": "d2022-05-16T00:01",
+    "date": "2022-00-16",
     "sentence": "We need to get as high on that hierarchy as we can while still winning:\nRadical MAGA King (Think Trump, <span class='selected-term'>Ron DeSantis</span>, Mike Lee, Ted Cruz)\nNormal Republican (Think Murder Turtle and those interchangeable suits who always vote right)\nAnnoying RINO (Think Mitt Romney or Lindsey Graham or Oz)\nJeb!",
     "author": "Kurt Schlichter",
     "title": "Conservatives, Stop Falling in Love with Politicians",
@@ -47,7 +38,7 @@
   {
     "id": 3557,
     "mediaId": 223,
-    "date": "d2022-05-16T00:01",
+    "date": "2022-00-16",
     "sentence": "We need to get as high on that hierarchy as we can while still winning:\nRadical MAGA King (Think Trump, <span class='selected-term'>Ron DeSantis</span>, Mike Lee, Ted Cruz)\nNormal Republican (Think Murder Turtle and those interchangeable suits who always vote right)\nAnnoying RINO (Think Mitt Romney or Lindsey Graham or Oz)\nJeb!",
     "author": "Kurt Schlichter",
     "title": "Conservatives, Stop Falling in Love with Politicians",
@@ -56,7 +47,7 @@
   {
     "id": 3358,
     "mediaId": 98,
-    "date": "d2022-05-17T03:10",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Column: Trump's goal is to solidify control over the GOP, not help it win elections",
@@ -65,7 +56,7 @@
   {
     "id": 3409,
     "mediaId": 129,
-    "date": "d2022-05-17T09:04:42",
+    "date": "2022-00-17",
     "sentence": "He said that he had been told before that he was the <span class='selected-term'>Ron DeSantis</span> before Ron DeSantis.",
     "author": "",
     "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
@@ -74,7 +65,7 @@
   {
     "id": 3410,
     "mediaId": 129,
-    "date": "d2022-05-17T09:04:42",
+    "date": "2022-00-17",
     "sentence": "He said that he had been told before that he was the <span class='selected-term'>Ron DeSantis</span> before Ron DeSantis.",
     "author": "",
     "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
@@ -83,7 +74,7 @@
   {
     "id": 3471,
     "mediaId": 136,
-    "date": "d2022-05-18T17:32",
+    "date": "2022-00-18",
     "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
     "author": "Katherine Fung",
     "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
@@ -92,16 +83,25 @@
   {
     "id": 3471,
     "mediaId": 136,
-    "date": "d2022-05-18T17:32",
+    "date": "2022-00-18",
     "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
     "author": "Katherine Fung",
     "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
     "sentiment": "0.281"
   },
   {
+    "id": 6145,
+    "mediaId": 124,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "",
+    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8404,
     "mediaId": 376,
-    "date": "d2022-05-26T14:30",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
     "title": "At the Races: Divisions on display",

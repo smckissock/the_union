@@ -1,17 +1,8 @@
 [
   {
-    "id": 4385,
-    "mediaId": 558,
-    "date": "d2022-04-29T16:00",
-    "sentence": "Heilemann and Sorkin discuss the two enormous business stories dominating headlines: the stunning $44 billion acquisition of Twitter by SpaceX and Tesla CEO Elon Musk, whose roughly $275 billion net worth makes him the worlds richest person, and the Walt Disney Companys increasing embroilment in the culture wars, particularly as a whipping boy for <span class='selected-term'>Ron DeSantis</span>, the Republican governor of Florida.",
-    "author": "",
-    "title": "Billions Co-creator Andrew Ross Sorkin on the Shows New Direction",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4270,
     "mediaId": 19,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "David Ng",
     "title": "HBOs John Oliver: Disney Should Pay More Taxes but Not Because of Dipsh*t DeSantis",
@@ -20,10 +11,19 @@
   {
     "id": 4270,
     "mediaId": 19,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "David Ng",
     "title": "HBOs John Oliver: Disney Should Pay More Taxes but Not Because of Dipsh*t DeSantis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4385,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "Heilemann and Sorkin discuss the two enormous business stories dominating headlines: the stunning $44 billion acquisition of Twitter by SpaceX and Tesla CEO Elon Musk, whose roughly $275 billion net worth makes him the worlds richest person, and the Walt Disney Companys increasing embroilment in the culture wars, particularly as a whipping boy for <span class='selected-term'>Ron DeSantis</span>, the Republican governor of Florida.",
+    "author": "",
+    "title": "Billions Co-creator Andrew Ross Sorkin on the Shows New Direction",
     "sentiment": "0.0"
   }
 ]

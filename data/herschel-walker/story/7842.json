@@ -1,27 +1,18 @@
 {
   "id": 7842,
   "mediaId": 19,
-  "date": "d2022-04-05T00:00",
+  "date": "4/5/2022 12:00:00 AM",
   "headline": "More Vulnerable Democrats Blast Bidens Ending Title 42 at Border",
   "image": "https://media.breitbart.com/media/2022/04/GettyImages-1068193542-1-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/05/more-vulnerable-democrats-blast-bidens-ending-title-42-at-border/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John Binder",
   "authorUrl": "https://www.breitbart.com/author/john-binder/",
   "termIds": [
-    815,
-    1136,
-    1503,
-    2066,
-    2087,
-    2429,
-    5674,
-    5936,
-    146,
-    571
+    815
   ],
   "sentences": [
     "Sen. Raphael Warnock (D-GA), facing a challenge from Republican Senate candidate Herschel Walker, said in a statement on Tuesday that it is not the right time to end Title 42 ,as Biden set a new record for illegal immigration with more than 209,000 apprehensions in March, alone.",

@@ -1,107 +1,8 @@
 [
   {
-    "id": 736,
-    "mediaId": 21,
-    "date": "d2022-01-25T13:52",
-    "sentence": "",
-    "author": "Jake Lahut",
-    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
-    "sentiment": "0.655"
-  },
-  {
-    "id": 735,
-    "mediaId": 21,
-    "date": "d2022-01-25T21:00",
-    "sentence": "",
-    "author": "Jake Lahut",
-    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
-    "sentiment": "0.402"
-  },
-  {
-    "id": 6429,
-    "mediaId": 43,
-    "date": "d2022-04-12T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Like where are the dads?: Tucker Carlson calls for violence against teachers who talk identity",
-    "sentiment": "0"
-  },
-  {
-    "id": 6299,
-    "mediaId": 209,
-    "date": "d2022-04-19T00:00",
-    "sentence": "",
-    "author": "Jason Fields",
-    "title": "Censorship is as old as the pharaohs  and as new as today",
-    "sentiment": "0"
-  },
-  {
-    "id": 6296,
-    "mediaId": 376,
-    "date": "d2022-04-19T06:00",
-    "sentence": "",
-    "author": "John T. Bennett",
-    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
-    "sentiment": "0"
-  },
-  {
-    "id": 6265,
-    "mediaId": 19,
-    "date": "d2022-04-21T00:00",
-    "sentence": "",
-    "author": "Paul Bois",
-    "title": "Watch  Ohios J.D. Vance Diagnoses How Americas Leaders Drained Working Class Jobs Overseas at Newsmax Town Hall",
-    "sentiment": "-0.337"
-  },
-  {
-    "id": 6251,
-    "mediaId": 238,
-    "date": "d2022-04-21T15:31",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
-    "sentiment": "0"
-  },
-  {
-    "id": 6245,
-    "mediaId": 43,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
-    "sentiment": "0"
-  },
-  {
-    "id": 6220,
-    "mediaId": 238,
-    "date": "d2022-04-22T18:04",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
-    "sentiment": "0"
-  },
-  {
-    "id": 6180,
-    "mediaId": 21,
-    "date": "d2022-04-24T02:00",
-    "sentence": "",
-    "author": "Hannah Getahun",
-    "title": "Trump said he took a cognitive test because he didn't 'like being called stupid'",
-    "sentiment": "0"
-  },
-  {
-    "id": 4349,
-    "mediaId": 188,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "Paul Sacca",
-    "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
-    "sentiment": "0"
-  },
-  {
     "id": 6044,
     "mediaId": 136,
-    "date": "d2022-05-01T17:07",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Fatma Khaled",
     "title": "Greene 'Tired' of Candidates Like Mandel Who 'Learned to Speak MAGA'",
@@ -110,28 +11,127 @@
   {
     "id": 5923,
     "mediaId": 237,
-    "date": "d2022-05-03T11:04",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Paul Bedard",
     "title": "Trump endorsement helps far more than Bidens",
     "sentiment": "0"
   },
   {
+    "id": 5753,
+    "mediaId": 233,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Rex Huppke",
+    "title": "Trickle-down creeponomics: Gaetz calls women protesting Roe draft opinion over-educated",
+    "sentiment": "0.415"
+  },
+  {
     "id": 5872,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Sky Palma",
     "title": "Matt Gaetz lashes out at the media after JD Vance leaves him out of victory speech",
     "sentiment": "-0.634"
   },
   {
-    "id": 5753,
-    "mediaId": 233,
-    "date": "d2022-05-04T22:18",
+    "id": 6429,
+    "mediaId": 43,
+    "date": "2022-00-12",
     "sentence": "",
-    "author": "Rex Huppke",
-    "title": "Trickle-down creeponomics: Gaetz calls women protesting Roe draft opinion over-educated",
-    "sentiment": "0.415"
+    "author": "",
+    "title": "Like where are the dads?: Tucker Carlson calls for violence against teachers who talk identity",
+    "sentiment": "0"
+  },
+  {
+    "id": 6296,
+    "mediaId": 376,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "John T. Bennett",
+    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
+    "sentiment": "0"
+  },
+  {
+    "id": 6299,
+    "mediaId": 209,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "Jason Fields",
+    "title": "Censorship is as old as the pharaohs  and as new as today",
+    "sentiment": "0"
+  },
+  {
+    "id": 6251,
+    "mediaId": 238,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
+    "sentiment": "0"
+  },
+  {
+    "id": 6265,
+    "mediaId": 19,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Paul Bois",
+    "title": "Watch  Ohios J.D. Vance Diagnoses How Americas Leaders Drained Working Class Jobs Overseas at Newsmax Town Hall",
+    "sentiment": "-0.337"
+  },
+  {
+    "id": 6220,
+    "mediaId": 238,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6245,
+    "mediaId": 43,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
+    "sentiment": "0"
+  },
+  {
+    "id": 6180,
+    "mediaId": 21,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Hannah Getahun",
+    "title": "Trump said he took a cognitive test because he didn't 'like being called stupid'",
+    "sentiment": "0"
+  },
+  {
+    "id": 735,
+    "mediaId": 21,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Jake Lahut",
+    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
+    "sentiment": "0.402"
+  },
+  {
+    "id": 736,
+    "mediaId": 21,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Jake Lahut",
+    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
+    "sentiment": "0.655"
+  },
+  {
+    "id": 4349,
+    "mediaId": 188,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Paul Sacca",
+    "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
+    "sentiment": "0"
   }
 ]

@@ -1,44 +1,44 @@
 [
   {
-    "id": 6976,
-    "mediaId": 43,
-    "date": "d2022-04-07T00:00",
-    "sentence": "The four Republican frontrunners whove registered at more than 10% in recent polling  former U.S. attorney Bill McSwain, State Sen. <span class='selected-term'>Doug Mastriano</span>, former U.S. Rep. Lou Barletta and businessman Dave White  brought in a combined $4.62 million from Jan. 1 to March 28, according to new campaign finance filings.",
-    "author": "",
-    "title": "While The GOP Primary Is A MAGA Sh*t Show, Josh Shapiro (D) Brings In $4.5 Million Q1 Haul",
-    "sentiment": "0.259"
-  },
-  {
     "id": 6903,
     "mediaId": 237,
-    "date": "d2022-05-06T12:15",
+    "date": "2022-00-06",
     "sentence": "Democratic gubernatorial candidate Pennsylvania Attorney General Josh Shapiro recently launched a campaign advertisement designed to boost state Sen. <span class='selected-term'>Doug Mastriano</span>, a Republican candidate some in the party worry may not fare well in the general election.",
     "author": "Kate Scanlon",
     "title": "Shapiro ad seeks to boost Doug Mastriano in Pennsylvania gubernatorial contest",
-    "sentiment": "0.62"
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6976,
+    "mediaId": 43,
+    "date": "2022-00-07",
+    "sentence": "The four Republican frontrunners whove registered at more than 10% in recent polling  former U.S. attorney Bill McSwain, State Sen. <span class='selected-term'>Doug Mastriano</span>, former U.S. Rep. Lou Barletta and businessman Dave White  brought in a combined $4.62 million from Jan. 1 to March 28, according to new campaign finance filings.",
+    "author": "",
+    "title": "While The GOP Primary Is A MAGA Sh*t Show, Josh Shapiro (D) Brings In $4.5 Million Q1 Haul",
+    "sentiment": "0.0"
   },
   {
     "id": 6846,
     "mediaId": 19,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "As National Committeeman, I have spoken regularly with almost all of the gubernatorial campaigns over the past [three] months,? Andy Reilly told Politico:\nLast week when the presumptive [Democratic] nominee, Josh Shapiro, and the State Democratic Party used campaign resources to assist the candidacy of <span class='selected-term'>Doug Mastriano</span> in the Republican primary, it raised concerns among the campaigns.",
     "author": "John Binder",
     "title": "7 Issues Facing Doug Mastriano in Pennsylvania Governor Race",
-    "sentiment": "-0.177"
+    "sentiment": "0.0"
   },
   {
     "id": 6849,
     "mediaId": 19,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "Pennsylvania Attorney General Josh Shapiro (D), who will face a Republican opponent in the gubernatorial election in November, is currently running an ad to boost GOP primary candidate <span class='selected-term'>Doug Mastriano</span> based on the perception that he would be the easiest to defeat, the New York Times reports.",
     "author": "John Binder",
     "title": "NY Times: Democrat Runs Ad Intended to Help Doug Mastriano Win Pennsylvania GOP Gubernatorial Primary",
-    "sentiment": "0"
+    "sentiment": "0.0"
   },
   {
     "id": 6714,
     "mediaId": 65,
-    "date": "d2022-05-17T22:56",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Paul Best",
     "title": "Pennsylvania county says some mail-in ballots won't scan due to printing error",
@@ -47,46 +47,46 @@
   {
     "id": 3494,
     "mediaId": 234,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Eric Lutz",
     "title": "Doug Mastrianos GOP Primary Victory Puts Democracy on the Ballot in Pennsylvania",
-    "sentiment": "0.215"
+    "sentiment": "0.0"
   },
   {
     "id": 6682,
     "mediaId": 195,
-    "date": "d2022-05-18T00:24",
+    "date": "2022-00-18",
     "sentence": "Shapiro has also benefited from a messy GOP primary, with Republican campaigns and officials waging last-minute talks to coalesce around an alternative to front-runner <span class='selected-term'>Doug Mastriano</span>, a state senator whose campaign is mostly centered around unfounded claims of widespread voter fraud in 2020.",
     "author": "Tal Axelrod",
     "title": "Shapiro skates to Democratic governors nod in Pennsylvania",
     "sentiment": "0.0"
   },
   {
-    "id": 7217,
-    "mediaId": 195,
-    "date": "d2022-05-22T14:51",
-    "sentence": "Pennsylvania Attorney General Josh Shapiro (D) on Sunday said Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> (R), whom he will face in the commonwealths gubernatorial race, is dangerous? and divisive.?\nDuring an interview with co-anchor Dana Bash on CNNs State of the Union,? Shapiro called out Mastriano for a number of policy stances, including abortion, and noted the state lawmakers presence in Washington on Jan. 6, 2021.\nHe is extreme and he is dangerous.",
-    "author": "Mychael Schnell",
-    "title": "Shapiro calls Mastriano dangerous and divisive",
-    "sentiment": "-0.782"
+    "id": 7215,
+    "mediaId": 21,
+    "date": "2022-00-22",
+    "sentence": "Pennsylvania Attorney General Josh Shapiro, the state's Democratic gubernatorial nominee, blasted his Republican general election opponent, conservative state Sen. <span class='selected-term'>Doug Mastriano</span>, as \"dangerous\" and \"divisive.\"",
+    "author": "John L. Dorman",
+    "title": "Pennsylvania Democratic gubernatorial nominee Josh Shapiro blasts GOP opponent Doug Mastriano as 'dangerous' and 'extreme'",
+    "sentiment": "0.0"
   },
   {
     "id": 7216,
     "mediaId": 195,
-    "date": "d2022-05-22T15:18",
+    "date": "2022-00-22",
     "sentence": "He will now face state Sen. <span class='selected-term'>Doug Mastriano</span> (R), who has the backing of former President Trump, in the general election.",
     "author": "Mychael Schnell",
     "title": "Shapiro says he would welcome Biden to Pennsylvania amid gubernatorial race",
     "sentiment": "0.0"
   },
   {
-    "id": 7215,
-    "mediaId": 21,
-    "date": "d2022-05-22T19:00",
-    "sentence": "Pennsylvania Attorney General Josh Shapiro, the state's Democratic gubernatorial nominee, blasted his Republican general election opponent, conservative state Sen. <span class='selected-term'>Doug Mastriano</span>, as \"dangerous\" and \"divisive.\"",
-    "author": "John L. Dorman",
-    "title": "Pennsylvania Democratic gubernatorial nominee Josh Shapiro blasts GOP opponent Doug Mastriano as 'dangerous' and 'extreme'",
-    "sentiment": "-0.462"
+    "id": 7217,
+    "mediaId": 195,
+    "date": "2022-00-22",
+    "sentence": "Pennsylvania Attorney General Josh Shapiro (D) on Sunday said Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> (R), whom he will face in the commonwealths gubernatorial race, is dangerous? and divisive.?\nDuring an interview with co-anchor Dana Bash on CNNs State of the Union,? Shapiro called out Mastriano for a number of policy stances, including abortion, and noted the state lawmakers presence in Washington on Jan. 6, 2021.\nHe is extreme and he is dangerous.",
+    "author": "Mychael Schnell",
+    "title": "Shapiro calls Mastriano dangerous and divisive",
+    "sentiment": "0.0"
   }
 ]

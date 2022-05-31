@@ -1,17 +1,8 @@
 [
   {
-    "id": 6253,
-    "mediaId": 136,
-    "date": "d2022-04-21T14:51",
-    "sentence": "",
-    "author": "Robert Reich",
-    "title": "We're Running Out of Time to Hold Trump Accountable | Opinion",
-    "sentiment": "0.151"
-  },
-  {
     "id": 6042,
     "mediaId": 19,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Matthew Boyle",
     "title": "Swamp Establishment, Donor Class Rush into Ohio to Try to Stop Trump-Backed J.D. Vance",
@@ -20,10 +11,19 @@
   {
     "id": 5864,
     "mediaId": 19,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Katherine Hamilton",
     "title": "Despite SCOTUS Roe Leak, Republicans Double Democrat Turnout in Ohio Primaries",
     "sentiment": "0"
+  },
+  {
+    "id": 6253,
+    "mediaId": 136,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Robert Reich",
+    "title": "We're Running Out of Time to Hold Trump Accountable | Opinion",
+    "sentiment": "0.151"
   }
 ]

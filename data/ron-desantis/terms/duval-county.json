@@ -1,47 +1,47 @@
 [
   {
-    "id": 4420,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "State Board of Education expected to approve new commissioner today",
-    "sentiment": "0"
-  },
-  {
-    "id": 4420,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "State Board of Education expected to approve new commissioner today",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3512,
-    "mediaId": 151,
-    "date": "d2022-05-17T08:31",
-    "sentence": "",
-    "author": "",
-    "title": "Florida's fight over Don't Say Gay is getting more heated. And it hasn't even gone into effect yet.",
-    "sentiment": "0"
-  },
-  {
-    "id": 3512,
-    "mediaId": 151,
-    "date": "d2022-05-17T08:31",
-    "sentence": "",
-    "author": "",
-    "title": "Florida's fight over Don't Say Gay is getting more heated. And it hasn't even gone into effect yet.",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3507,
     "mediaId": 302,
-    "date": "d2022-05-17T11:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Pinellas schools to get new superintendent today",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3512,
+    "mediaId": 151,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "Florida's fight over Don't Say Gay is getting more heated. And it hasn't even gone into effect yet.",
+    "sentiment": "0"
+  },
+  {
+    "id": 3512,
+    "mediaId": 151,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "Florida's fight over Don't Say Gay is getting more heated. And it hasn't even gone into effect yet.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4420,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "State Board of Education expected to approve new commissioner today",
+    "sentiment": "0"
+  },
+  {
+    "id": 4420,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "State Board of Education expected to approve new commissioner today",
     "sentiment": "0.0"
   }
 ]

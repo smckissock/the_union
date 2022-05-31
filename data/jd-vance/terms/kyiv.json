@@ -1,8 +1,44 @@
 [
   {
+    "id": 6015,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?",
+    "sentiment": "0"
+  },
+  {
+    "id": 5527,
+    "mediaId": 136,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill",
+    "sentiment": "0"
+  },
+  {
+    "id": 5530,
+    "mediaId": 151,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "",
+    "title": "McConnell takes on MAGA with Ukraine visit",
+    "sentiment": "0"
+  },
+  {
+    "id": 5499,
+    "mediaId": 129,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid",
+    "sentiment": "0"
+  },
+  {
     "id": 6334,
     "mediaId": 409,
-    "date": "d2022-04-17T19:47",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Jay Nordlinger",
     "title": "Thank You for Not Killing Us",
@@ -11,64 +47,28 @@
   {
     "id": 6310,
     "mediaId": 238,
-    "date": "d2022-04-18T15:46",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Ukraine is taking up less and less of the campaign conversation",
     "sentiment": "0"
   },
   {
-    "id": 6173,
-    "mediaId": 151,
-    "date": "d2022-04-24T15:24",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Remembering Orrin Hatch",
-    "sentiment": "0"
-  },
-  {
-    "id": 6015,
-    "mediaId": 195,
-    "date": "d2022-05-02T10:26",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?",
-    "sentiment": "0"
-  },
-  {
-    "id": 5530,
-    "mediaId": 151,
-    "date": "d2022-05-15T16:15",
-    "sentence": "",
-    "author": "",
-    "title": "McConnell takes on MAGA with Ukraine visit",
-    "sentiment": "0"
-  },
-  {
-    "id": 5527,
-    "mediaId": 136,
-    "date": "d2022-05-15T21:33",
-    "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "MAGA Candidates Attack McConnell Over 'Abhorrent' $40B Ukraine Aid Bill",
-    "sentiment": "0"
-  },
-  {
-    "id": 5499,
-    "mediaId": 129,
-    "date": "d2022-05-17T00:31",
-    "sentence": "",
-    "author": "",
-    "title": "McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid",
-    "sentiment": "0"
-  },
-  {
     "id": 7156,
     "mediaId": 151,
-    "date": "d2022-05-20T18:08",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "Inside McConnell's bid to quash GOP isolationists'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6173,
+    "mediaId": 151,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Remembering Orrin Hatch",
     "sentiment": "0"
   }
 ]

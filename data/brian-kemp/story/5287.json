@@ -1,25 +1,18 @@
 {
   "id": 5287,
   "mediaId": 98,
-  "date": "d2022-04-06T11:19",
+  "date": "4/6/2022 12:00:00 AM",
   "headline": "Residents of Southern states clear storm debris as more severe weather looms",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/4c3d670/2147483647/strip/true/crop/4032x3024+0+0/resize/840x630!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7c%2Fe1%2F9fd57455edfe6b232089a9d4dd68%2Fb48a583be96447c7bc17f80a1096bc8e",
   "link": "https://www.latimes.com/world-nation/story/2022-04-06/southern-residents-clear-storm-debris-as-more-severe-weather-looms",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095,
-    2537,
-    2798,
-    2900,
-    2934,
-    4935,
-    4956,
-    5093
+    2095
   ],
   "sentences": [
     "The atmosphere will be primed again for more severe storms as we go through Wednesday,? said Jared Guyer, a forecaster at the Storm Prediction Center in Norman, Okla.\nParts of Georgia, Alabama and Tennessee will be at greatest risk of severe weather.",

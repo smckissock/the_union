@@ -1,29 +1,20 @@
 {
   "id": 8399,
   "mediaId": 151,
-  "date": "d2022-05-27T08:31",
+  "date": "5/27/2022 12:00:00 AM",
   "headline": "As Cheney files for reelection, poll from rival group shows her trailing badly",
   "image": "https://www.politico.com/dims4/default/5a8671a/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F31%2Fd0%2F23b38d324bc39342be28bc33b7e3%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1227725986",
   "link": "https://www.politico.com/news/2022/05/27/cheney-reelection-poll-00035597",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1248,
-    1335,
-    1609,
     2095,
-    2203,
     3085,
-    3094,
-    105,
-    428,
-    2598,
-    2976
+    3094
   ],
   "sentences": [
     "More than 100 House Republicans signed on to host a fundraiser for the challenger in March, including Minority Leader Kevin McCarthy and Rep. Elise Stefanik, who became chair of the House GOP conference last May after Cheney was pushed out.",

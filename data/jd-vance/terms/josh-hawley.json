@@ -1,44 +1,8 @@
 [
   {
-    "id": 6225,
-    "mediaId": 195,
-    "date": "d2022-04-22T16:00",
-    "sentence": "",
-    "author": "Will Marshall",
-    "title": "Trump party blames America first",
-    "sentiment": "0"
-  },
-  {
-    "id": 6167,
-    "mediaId": 19,
-    "date": "d2022-04-25T00:00",
-    "sentence": "",
-    "author": "Wendell HusebÃ¸",
-    "title": "Josh Hawley Endorses Arizona Senate Candidate Blake Masters",
-    "sentiment": "0.842"
-  },
-  {
-    "id": 6157,
-    "mediaId": 151,
-    "date": "d2022-04-25T13:01",
-    "sentence": "",
-    "author": "",
-    "title": "Hawley endorses Thiel-backed Arizona Senate candidate",
-    "sentiment": "0.859"
-  },
-  {
-    "id": 6096,
-    "mediaId": 195,
-    "date": "d2022-04-28T20:04",
-    "sentence": "",
-    "author": "Caroline Vakil",
-    "title": "Josh Hawley, Charlie Kirk to stump for Vance in Ohio",
-    "sentiment": "0"
-  },
-  {
     "id": 4316,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
@@ -47,52 +11,52 @@
   {
     "id": 5986,
     "mediaId": 195,
-    "date": "d2022-05-02T23:47",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Alexander Bolton",
     "title": "Senate GOP privately roots against Trump in Ohio primary",
     "sentiment": "0"
   },
   {
-    "id": 5916,
-    "mediaId": 195,
-    "date": "d2022-05-03T16:50",
-    "sentence": "",
-    "author": "Caroline Vakil",
-    "title": "Trump says JD Vance best suited to win the election, warns of Tim Ryans campaign bank account",
-    "sentiment": "0.788"
-  },
-  {
     "id": 5897,
     "mediaId": 195,
-    "date": "d2022-05-03T23:30",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Polls close on key primaries in Ohio",
     "sentiment": "0.158"
   },
   {
-    "id": 5887,
-    "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "id": 5916,
+    "mediaId": 195,
+    "date": "2022-00-03",
     "sentence": "",
-    "author": "Caleb Ecarma",
-    "title": "J.D. Vances Victory in Ohio Is a Huge Win for Peter Thiels Political Movement",
-    "sentiment": "0.67"
+    "author": "Caroline Vakil",
+    "title": "Trump says JD Vance best suited to win the election, warns of Tim Ryans campaign bank account",
+    "sentiment": "0.788"
   },
   {
     "id": 5787,
     "mediaId": 237,
-    "date": "d2022-05-04T13:32",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Virginia Aabram",
     "title": "Ohio Democrats mock JD Vance as elitist as uphill November Senate fight opens",
     "sentiment": "-0.596"
   },
   {
+    "id": 5887,
+    "mediaId": 234,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Caleb Ecarma",
+    "title": "J.D. Vances Victory in Ohio Is a Huge Win for Peter Thiels Political Movement",
+    "sentiment": "0.67"
+  },
+  {
     "id": 5719,
     "mediaId": 136,
-    "date": "d2022-05-05T13:28",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Jason Lemon",
     "title": "Mitt Romney Admits Trump Has Control Over 2024 Nomination",
@@ -101,7 +65,7 @@
   {
     "id": 5507,
     "mediaId": 19,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "John Binder",
     "title": "Report: Joe Bidens Globalists Quietly Fight to Slash U.S. Tariffs on China",
@@ -110,7 +74,7 @@
   {
     "id": 5462,
     "mediaId": 238,
-    "date": "d2022-05-18T21:29",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Paul Kane",
     "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell",
@@ -119,10 +83,46 @@
   {
     "id": 7156,
     "mediaId": 151,
-    "date": "d2022-05-20T18:08",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "Inside McConnell's bid to quash GOP isolationists'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6225,
+    "mediaId": 195,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Will Marshall",
+    "title": "Trump party blames America first",
+    "sentiment": "0"
+  },
+  {
+    "id": 6157,
+    "mediaId": 151,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "",
+    "title": "Hawley endorses Thiel-backed Arizona Senate candidate",
+    "sentiment": "0.859"
+  },
+  {
+    "id": 6167,
+    "mediaId": 19,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Wendell HusebÃ¸",
+    "title": "Josh Hawley Endorses Arizona Senate Candidate Blake Masters",
+    "sentiment": "0.842"
+  },
+  {
+    "id": 6096,
+    "mediaId": 195,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Caroline Vakil",
+    "title": "Josh Hawley, Charlie Kirk to stump for Vance in Ohio",
     "sentiment": "0"
   }
 ]

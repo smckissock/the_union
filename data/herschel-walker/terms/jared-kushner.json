@@ -1,20 +1,20 @@
 [
   {
-    "id": 7862,
-    "mediaId": 234,
-    "date": "d2022-04-01T00:00",
-    "sentence": "Per CNNs KFILE:\nFor years, <span class='selected-term'>Herschel Walker</span> has told the same inspiring story: that he graduated in the top 1% of his class at the University of Georgia.",
-    "author": "Bess Levin",
-    "title": "Jared Kushner and Donald Trump Probably Wont Be Splitting a Milkshake With Two Straws Any Time Soon",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7857,
     "mediaId": 124,
-    "date": "d2022-04-01T12:44:43",
+    "date": "2022-00-01",
     "sentence": "Georgia Senate: Two super PACs backing GOP Senate candidates Gary Black and Latham Saddler are planning seven-figure ad buys attacking Republican frontrunner <span class='selected-term'>Herschel Walker</span> ahead of the May 24 primary, in an attempt to force Walker into a primary runoff, Politico reports.",
     "author": "",
     "title": "For all of Bidens troubles, hes still more popular than Trump in the NBC News poll",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7862,
+    "mediaId": 234,
+    "date": "2022-00-01",
+    "sentence": "Per CNNs KFILE:\nFor years, <span class='selected-term'>Herschel Walker</span> has told the same inspiring story: that he graduated in the top 1% of his class at the University of Georgia.",
+    "author": "Bess Levin",
+    "title": "Jared Kushner and Donald Trump Probably Wont Be Splitting a Milkshake With Two Straws Any Time Soon",
     "sentiment": "0.0"
   }
 ]

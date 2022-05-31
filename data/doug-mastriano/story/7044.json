@@ -1,25 +1,18 @@
 {
   "id": 7044,
   "mediaId": 157,
-  "date": "d2022-01-27T00:00",
+  "date": "1/27/2022 12:00:00 AM",
   "headline": "Republican Doug Mastriano threatened a Pennsylvania county if they didn't do an election 'audit'",
   "image": "https://www.rawstory.com/media-library/meet-the-far-right-pennsylvania-republican-who-believes-that-god-was-behind-trumps-attempted-coup.jpg?id=26314583&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/doug-mastriano-audit-subpoena-threats/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah K. Burris",
   "authorUrl": "https://www.rawstory.com/u/sarah_k_burris",
   "termIds": [
-    1147,
-    3102,
-    5356,
-    146,
-    428,
-    5174,
-    2670,
-    2862
+    3102
   ],
   "sentences": [
     "Other records uncovered by American Oversight's Freedom of Information Act (FOIA) request revealed, \"on Nov. 12, 2020, Commissioner Randy Bunch, a vocal Trump supporter, emailed state Sen. Judy Ward, who had reportedly been working with Mastriano in Dec.",

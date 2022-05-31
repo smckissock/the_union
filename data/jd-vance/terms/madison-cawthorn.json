@@ -2,16 +2,16 @@
   {
     "id": 8030,
     "mediaId": 43,
-    "date": "d2022-03-15T00:00",
+    "date": "3/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "In Putins Russia, War Crimes Commit YOU!",
-    "sentiment": "-0.74"
+    "sentiment": "0"
   },
   {
     "id": 6440,
     "mediaId": 238,
-    "date": "d2022-04-08T12:00",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits...",
@@ -20,16 +20,16 @@
   {
     "id": 6432,
     "mediaId": 195,
-    "date": "d2022-04-10T12:00",
+    "date": "4/10/2022 12:00:00 AM",
     "sentence": "",
     "author": "Julia Manchester",
     "title": "Democrats seek to win over Ukrainian Americans by portraying GOP as soft on Russia",
-    "sentiment": "-0.313"
+    "sentiment": "0"
   },
   {
     "id": 6293,
     "mediaId": 151,
-    "date": "d2022-04-19T10:35",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: White House wonders: To mask, or not to mask?",
@@ -38,7 +38,7 @@
   {
     "id": 6213,
     "mediaId": 209,
-    "date": "d2022-04-23T00:00",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Steve Larkin",
     "title": "Morality just isn't Republicans' thing anymore",
@@ -47,16 +47,25 @@
   {
     "id": 6165,
     "mediaId": 238,
-    "date": "d2022-04-25T00:00",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "On trip to border, McCarthy deflects questions about Trump and Jan. 6",
     "sentiment": "0"
   },
   {
+    "id": 1767,
+    "mediaId": 136,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Jackson",
+    "title": "J.D. Vance Wins Ohio Primary in Crucial Test of Trump's Power",
+    "sentiment": "0"
+  },
+  {
     "id": 5857,
     "mediaId": 43,
-    "date": "d2022-05-04T00:00",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "2022 Midterm Primary Season Kicks of With Voting System Failures in OH: 'BradCast' 5/4/2022",
@@ -65,25 +74,16 @@
   {
     "id": 5862,
     "mediaId": 209,
-    "date": "d2022-05-04T00:00",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "Grayson Quay",
     "title": "What pro-life activists are saying in the wake of the Roe v. Wade bombshell",
-    "sentiment": "0.232"
-  },
-  {
-    "id": 1767,
-    "mediaId": 136,
-    "date": "d2022-05-04T02:15",
-    "sentence": "",
-    "author": "Jon Jackson",
-    "title": "J.D. Vance Wins Ohio Primary in Crucial Test of Trump's Power",
-    "sentiment": "0.84"
+    "sentiment": "0"
   },
   {
     "id": 4022,
     "mediaId": 157,
-    "date": "d2022-05-05T00:00",
+    "date": "5/5/2022 12:00:00 AM",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
@@ -92,7 +92,7 @@
   {
     "id": 3326,
     "mediaId": 157,
-    "date": "d2022-05-13T00:00",
+    "date": "5/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Another extreme wing of the Republican Party is emerging  and it's not all Trump",
@@ -101,34 +101,16 @@
   {
     "id": 3422,
     "mediaId": 129,
-    "date": "d2022-05-16T13:29:38",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "A Republican megadonor scrambled to stop Doug Mastriano in the Pennsylvania governor's race.",
     "sentiment": "0"
   },
   {
-    "id": 5509,
-    "mediaId": 19,
-    "date": "d2022-05-17T00:00",
-    "sentence": "",
-    "author": "Matthew Boyle",
-    "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 3412,
-    "mediaId": 129,
-    "date": "d2022-05-17T04:01",
-    "sentence": "",
-    "author": "",
-    "title": "What to Watch For in the Pennsylvania and North Carolina Primaries",
-    "sentiment": "0"
-  },
-  {
     "id": 3409,
     "mediaId": 129,
-    "date": "d2022-05-17T09:04:42",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
@@ -137,79 +119,52 @@
   {
     "id": 3410,
     "mediaId": 129,
-    "date": "d2022-05-17T09:04:42",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
     "sentiment": "0"
   },
   {
-    "id": 6478,
-    "mediaId": 136,
-    "date": "d2022-05-17T15:13",
+    "id": 3412,
+    "mediaId": 129,
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "Trump Endorsements Face Toughest Test Yet in 27 Primary Election Battles",
+    "author": "",
+    "title": "What to Watch For in the Pennsylvania and North Carolina Primaries",
     "sentiment": "0"
   },
   {
     "id": 5484,
     "mediaId": 1546,
-    "date": "d2022-05-17T17:00",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ken Bredemeier",
     "title": "Trumps Republican Political Clout Faces Another Test on Tuesday",
     "sentiment": "0"
   },
   {
-    "id": 5476,
-    "mediaId": 238,
-    "date": "d2022-05-18T00:00",
+    "id": 5509,
+    "mediaId": 19,
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Aaron Blake",
-    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
+    "author": "Matthew Boyle",
+    "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries",
     "sentiment": "0"
   },
   {
-    "id": 5475,
-    "mediaId": 233,
-    "date": "d2022-05-18T01:23",
+    "id": 6478,
+    "mediaId": 136,
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
-    "author": "David Jackson",
-    "title": "Fetterman wins Pennsylvania Democratic Senate primary; NC polls close; live primary results",
-    "sentiment": "0"
-  },
-  {
-    "id": 5470,
-    "mediaId": 132,
-    "date": "d2022-05-18T12:44",
-    "sentence": "",
-    "author": "Jonathan Bernstein",
-    "title": "GOP voters aren't Trump zombies",
-    "sentiment": "0.431"
-  },
-  {
-    "id": 5469,
-    "mediaId": 129,
-    "date": "d2022-05-18T13:44",
-    "sentence": "",
-    "author": "",
-    "title": "Heres where Trumps endorsement record stands so far.",
-    "sentiment": "0"
-  },
-  {
-    "id": 5468,
-    "mediaId": 195,
-    "date": "d2022-05-18T13:45",
-    "sentence": "",
-    "author": "Keith Naughton",
-    "title": "Kasich Effect propping up Trump, but for how long?",
+    "author": "Ewan Palmer",
+    "title": "Trump Endorsements Face Toughest Test Yet in 27 Primary Election Battles",
     "sentiment": "0"
   },
   {
     "id": 3471,
     "mediaId": 136,
-    "date": "d2022-05-18T17:32",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Katherine Fung",
     "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
@@ -218,43 +173,70 @@
   {
     "id": 5464,
     "mediaId": 21,
-    "date": "d2022-05-18T20:00",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jake Lahut",
     "title": "Why Donald Trump's 'golden ticket' doesn't guarantee success in 2022 Republican primaries  especially for his most controversial favorites",
     "sentiment": "0"
   },
   {
+    "id": 5468,
+    "mediaId": 195,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Keith Naughton",
+    "title": "Kasich Effect propping up Trump, but for how long?",
+    "sentiment": "0"
+  },
+  {
+    "id": 5469,
+    "mediaId": 129,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Heres where Trumps endorsement record stands so far.",
+    "sentiment": "0"
+  },
+  {
+    "id": 5470,
+    "mediaId": 132,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jonathan Bernstein",
+    "title": "GOP voters aren't Trump zombies",
+    "sentiment": "0"
+  },
+  {
+    "id": 5475,
+    "mediaId": 233,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "Fetterman wins Pennsylvania Democratic Senate primary; NC polls close; live primary results",
+    "sentiment": "0"
+  },
+  {
+    "id": 5476,
+    "mediaId": 238,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Aaron Blake",
+    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
+    "sentiment": "0"
+  },
+  {
     "id": 6610,
     "mediaId": 195,
-    "date": "d2022-05-18T23:17",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Julia Manchester",
     "title": "Primaries fuel questions about potency of Trump endorsements",
     "sentiment": "0"
   },
   {
-    "id": 6605,
-    "mediaId": 33,
-    "date": "d2022-05-19T00:00",
-    "sentence": "",
-    "author": "Gabby Orr",
-    "title": "Trump may hold off on more endorsements for coming primaries, advisers say",
-    "sentiment": "0"
-  },
-  {
-    "id": 6608,
-    "mediaId": 234,
-    "date": "d2022-05-19T00:00",
-    "sentence": "",
-    "author": "Eric Lutz",
-    "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
-    "sentiment": "0"
-  },
-  {
     "id": 5458,
     "mediaId": 195,
-    "date": "d2022-05-19T09:21",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "GOP lawmakers say primaries show Trumps firm grip on party",
@@ -263,7 +245,7 @@
   {
     "id": 6522,
     "mediaId": 376,
-    "date": "d2022-05-19T14:30",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Stephanie Akin\nKate Ackley\nMary Ellen McIntire",
     "title": "At the Races: NY state of turmoil",
@@ -272,115 +254,133 @@
   {
     "id": 6583,
     "mediaId": 195,
-    "date": "d2022-05-19T21:30",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Brad Bannon",
     "title": "Party primaries test power of Trumps backing and progressive platform",
     "sentiment": "0"
   },
   {
-    "id": 6543,
-    "mediaId": 223,
-    "date": "d2022-05-20T00:01",
+    "id": 6605,
+    "mediaId": 33,
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Michael Barone",
-    "title": "It's Not Exactly Trump's Republican Party",
-    "sentiment": "0.656"
+    "author": "Gabby Orr",
+    "title": "Trump may hold off on more endorsements for coming primaries, advisers say",
+    "sentiment": "0"
+  },
+  {
+    "id": 6608,
+    "mediaId": 234,
+    "date": "5/19/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Eric Lutz",
+    "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
+    "sentiment": "0"
   },
   {
     "id": 6538,
     "mediaId": 195,
-    "date": "d2022-05-20T10:00",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "Niall Stanage",
     "title": "The Memo: Trump faces critical popularity test in Georgia",
     "sentiment": "0"
   },
   {
-    "id": 7210,
-    "mediaId": 19,
-    "date": "d2022-05-22T00:00",
+    "id": 6543,
+    "mediaId": 223,
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Nick Gilbertson",
-    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia",
-    "sentiment": "0"
-  },
-  {
-    "id": 7205,
-    "mediaId": 18,
-    "date": "d2022-05-22T00:38",
-    "sentence": "",
-    "author": "Douglas Schoen",
-    "title": "Schoen: It's still Donald Trump's Republican party",
-    "sentiment": "0"
-  },
-  {
-    "id": 7198,
-    "mediaId": 323,
-    "date": "d2022-05-22T14:33",
-    "sentence": "",
-    "author": "Cameron McWhirter",
-    "title": "Georgia Governor Race Is a Test for Trump. It Isn't Going Well.",
+    "author": "Michael Barone",
+    "title": "It's Not Exactly Trump's Republican Party",
     "sentiment": "0"
   },
   {
     "id": 7194,
     "mediaId": 136,
-    "date": "d2022-05-22T19:11",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Andrew Stanton",
     "title": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan",
     "sentiment": "0"
   },
   {
-    "id": 7329,
-    "mediaId": 33,
-    "date": "d2022-05-23T00:00",
+    "id": 7198,
+    "mediaId": 323,
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Eric Bradner",
-    "title": "Republicans look to Georgia for a path beyond Trump's 2020 grievances",
+    "author": "Cameron McWhirter",
+    "title": "Georgia Governor Race Is a Test for Trump. It Isn't Going Well.",
+    "sentiment": "0"
+  },
+  {
+    "id": 7205,
+    "mediaId": 18,
+    "date": "5/22/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Douglas Schoen",
+    "title": "Schoen: It's still Donald Trump's Republican party",
+    "sentiment": "0"
+  },
+  {
+    "id": 7210,
+    "mediaId": 19,
+    "date": "5/22/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Nick Gilbertson",
+    "title": "Trump-Endorsed Candidates 81-3 in Primaries Ahead of Races in Alabama, Arkansas, Georgia",
     "sentiment": "0"
   },
   {
     "id": 7326,
     "mediaId": 1546,
-    "date": "d2022-05-23T17:21",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ken Bredemeier",
     "title": "Trump's Election Fraud Claims Face a Test in Georgia",
     "sentiment": "0"
   },
   {
+    "id": 7329,
+    "mediaId": 33,
+    "date": "5/23/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Eric Bradner",
+    "title": "Republicans look to Georgia for a path beyond Trump's 2020 grievances",
+    "sentiment": "0"
+  },
+  {
     "id": 7482,
     "mediaId": 195,
-    "date": "d2022-05-23T22:29",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Niall Stanage",
     "title": "The Memo: Trump no longer holds MAGA movement in his palm",
     "sentiment": "0"
   },
   {
-    "id": 7350,
-    "mediaId": 129,
-    "date": "d2022-05-24T08:59:18",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
-    "sentiment": "0"
-  },
-  {
     "id": 7349,
     "mediaId": 32,
-    "date": "d2022-05-24T13:54:55",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kevin Breuninger",
     "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch",
     "sentiment": "0"
   },
   {
+    "id": 7350,
+    "mediaId": 129,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "0"
+  },
+  {
     "id": 8357,
     "mediaId": 129,
-    "date": "d2022-05-25T09:15:29",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",

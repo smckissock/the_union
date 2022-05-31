@@ -1,17 +1,8 @@
 [
   {
-    "id": 5394,
-    "mediaId": 43,
-    "date": "d2022-03-31T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4316,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
@@ -20,7 +11,7 @@
   {
     "id": 4316,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
@@ -29,7 +20,7 @@
   {
     "id": 4321,
     "mediaId": 43,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "'Growing Pains' actor considers public school teachings 'inaccurate and the immoral'",
@@ -38,7 +29,7 @@
   {
     "id": 3799,
     "mediaId": 19,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
     "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
@@ -47,10 +38,19 @@
   {
     "id": 3593,
     "mediaId": 157,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Missouri newspaper attacks Josh Hawley for lacking principles and wasting time on law that will never pass",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5394,
+    "mediaId": 43,
+    "date": "2022-00-31",
+    "sentence": "",
+    "author": "",
+    "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP",
     "sentiment": "0.0"
   }
 ]

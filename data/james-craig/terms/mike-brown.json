@@ -1,26 +1,26 @@
 [
   {
-    "id": 949,
-    "mediaId": 19,
-    "date": "d2022-02-25T00:00",
-    "sentence": "Former Detroit Police Chief and Michigan gubernatorial candidate <span class='selected-term'>James Craig</span> holds a wide lead over all other Republican primary challengers, according to a poll.",
-    "author": "Jacob Bliss",
-    "title": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals",
-    "sentiment": "0.361"
-  },
-  {
     "id": 901,
     "mediaId": 157,
-    "date": "d2022-04-19T00:00",
+    "date": "2022-00-19",
     "sentence": "Former Detroit Police Chief <span class='selected-term'>James Craig</span> is widely seen as leading the field, but former President Donald Trump has yet to weigh in on the race.",
     "author": "Bob Brigham",
     "title": "Meatgrinder' GOP Gov. primary in Michigan will leave nominee broke, bloodied, and disliked': expert",
     "sentiment": "0"
   },
   {
+    "id": 949,
+    "mediaId": 19,
+    "date": "2022-00-25",
+    "sentence": "Former Detroit Police Chief and Michigan gubernatorial candidate <span class='selected-term'>James Craig</span> holds a wide lead over all other Republican primary challengers, according to a poll.",
+    "author": "Jacob Bliss",
+    "title": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals",
+    "sentiment": "0.361"
+  },
+  {
     "id": 8432,
     "mediaId": 261,
-    "date": "d2022-05-29T02:39",
+    "date": "2022-00-29",
     "sentence": "Front-running gubernatorial candidate and former Detroit Police Chief <span class='selected-term'>James Craig</span> filed a lawsuit Saturday challenging the action of the Michigan Board of State Canvassers that took him off of the August primary ballot.",
     "author": "Paul Egan",
     "title": "Former Detroit Police Chief James Craig files lawsuit over removal from August ballot",

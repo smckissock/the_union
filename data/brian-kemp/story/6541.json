@@ -1,11 +1,11 @@
 {
   "id": 6541,
   "mediaId": 21,
-  "date": "d2022-05-20T08:00",
+  "date": "5/20/2022 12:00:00 AM",
   "headline": "Trump is ditching David Perdue, the Georgia GOP candidate he backed who is now struggling in his gubernatorial race",
   "image": "https://i.insider.com/6287483c8641770019bd6620?width=700&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-ditches-david-perdue-amid-high-profile-endorsement-flops-2022-5",
-  "sentiment": "-0.778",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,8 @@
   "authorUrl": "https://www.businessinsider.com/author/cheryl-teh",
   "termIds": [
     821,
-    1147,
     2095,
-    2303,
-    4325,
-    227,
-    428,
-    2672,
-    2816
+    2303
   ],
   "sentences": [
     "According to a survey done for Fox News published on Wednesday, Perdue is trailing far behind Fox  60% of the respondents who voted early or cast absentee ballots surveyed between May 12 and 16 said they voted for Kemp, while 28% said they picked Perdue.",

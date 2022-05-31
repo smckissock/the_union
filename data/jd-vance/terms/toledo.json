@@ -1,35 +1,26 @@
 [
   {
-    "id": 6265,
-    "mediaId": 19,
-    "date": "d2022-04-21T00:00",
-    "sentence": "",
-    "author": "Paul Bois",
-    "title": "Watch  Ohios J.D. Vance Diagnoses How Americas Leaders Drained Working Class Jobs Overseas at Newsmax Town Hall",
-    "sentiment": "-0.337"
-  },
-  {
-    "id": 6117,
-    "mediaId": 157,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
-    "sentiment": "0"
-  },
-  {
     "id": 6040,
     "mediaId": 129,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "How Ohios Map Will Test J.D. Vances Political Allure",
     "sentiment": "0"
   },
   {
+    "id": 5823,
+    "mediaId": 136,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "J.D. Vance Campaign First Test of Donald Trump Jr.'s Political Influence",
+    "sentiment": "0"
+  },
+  {
     "id": 5857,
     "mediaId": 43,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "2022 Midterm Primary Season Kicks of With Voting System Failures in OH: 'BradCast' 5/4/2022",
@@ -38,19 +29,28 @@
   {
     "id": 5866,
     "mediaId": 43,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "QAnon rando defeats established pols in Ohio House district GOP hopes to flip",
     "sentiment": "0"
   },
   {
-    "id": 5823,
-    "mediaId": 136,
-    "date": "d2022-05-04T02:39",
+    "id": 6265,
+    "mediaId": 19,
+    "date": "2022-00-21",
     "sentence": "",
-    "author": "Katherine Fung",
-    "title": "J.D. Vance Campaign First Test of Donald Trump Jr.'s Political Influence",
+    "author": "Paul Bois",
+    "title": "Watch  Ohios J.D. Vance Diagnoses How Americas Leaders Drained Working Class Jobs Overseas at Newsmax Town Hall",
+    "sentiment": "-0.337"
+  },
+  {
+    "id": 6117,
+    "mediaId": 157,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
     "sentiment": "0"
   }
 ]

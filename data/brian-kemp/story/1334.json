@@ -1,23 +1,18 @@
 {
   "id": 1334,
   "mediaId": 19,
-  "date": "d2022-02-19T00:00",
+  "date": "2/19/2022 12:00:00 AM",
   "headline": "Exclusive  Gov. Brian Kemp Urges Buckhead City Debate: Atlanta Mayor Needs to Feel Pressure' on Crime",
   "image": "https://media.breitbart.com/media/2021/08/GettyImages-1232223914-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/02/19/exclusive-gov-brian-kemp-urges-buckhead-city-debate-atlanta-mayor-needs-to-feel-pressure-on-crime/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ashley Oliver",
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
-    2095,
-    2322,
-    2499,
-    215,
-    2555,
-    2586
+    2095
   ],
   "sentences": [
     "And so, you know, while everybody else is talking in debate and saying they'll do this that and the other, what you have in myself, as the governor  and the people of Buckhead know this  is actually doing something about crime.?\nKemp, who is facing former Sen. David Perdue (R-GA) in the May 24 primary race for governor, is polling about ten points ahead of Perdue, according to a recent Trafalgar Group poll.",

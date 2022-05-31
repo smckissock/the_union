@@ -1,23 +1,18 @@
 {
   "id": 8296,
   "mediaId": 65,
-  "date": "d2022-01-11T05:00",
+  "date": "1/11/2022 12:00:00 AM",
   "headline": "Herschel Walker leads Georgia celebration as Bulldogs beat Alabama for national title",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fe6886b-7b96-41d5-b9f9-e93c3aa2303f/eabbed75-e766-4690-846c-c5690d88e492/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/sports/herschel-walker-georgia-bulldogs-national-title",
-  "sentiment": "0.951",
+  "sentiment": "0.0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ryan Gaydos",
   "authorUrl": "https://www.foxnews.com/person/g/ryan-gaydos",
   "termIds": [
-    815,
-    2235,
-    5871,
-    5589,
-    2537,
-    2672
+    815
   ],
   "sentences": [
     "Herschel Walker was the star freshman running back on Georgia when he led the Bulldogs to their last national championship in 1980 and was among the first to congratulate Kirby Smart and the team for beating Alabama for the title on Monday night.",

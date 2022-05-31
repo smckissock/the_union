@@ -1,38 +1,38 @@
 [
   {
-    "id": 6153,
-    "mediaId": 187,
-    "date": "d2022-04-25T14:18",
-    "sentence": "The likely GOP nominee in Georgia, <span class='selected-term'>Herschel Walker</span>, is a former NFL star with his own stormy past.",
-    "author": "Russell Berman",
-    "title": "Mitch McConnells Nightmare Scenario",
-    "sentiment": "0"
-  },
-  {
     "id": 5555,
     "mediaId": 157,
-    "date": "d2022-05-12T00:00",
+    "date": "2022-00-12",
     "sentence": "\"If <span class='selected-term'>Herschel Walker</span> wins in Georgia, you look at J.D.Vance in Ohio, and you really want to look at crazy?",
     "author": "Travis Gettys",
     "title": "Trump-endorsed 'freaks and liars' are making Republicans worried about midterm chances: Morning Joe",
     "sentiment": "0"
   },
   {
+    "id": 3324,
+    "mediaId": 169,
+    "date": "2022-00-13",
+    "sentence": "He's backed <span class='selected-term'>Herschel Walker</span> in Georgia, who lied about graduating college and is accused of threatening to kill his ex-wife.",
+    "author": "Amanda Marcotte",
+    "title": "Trump has only himself to blame for Kathy Barnette, Pennsylvania's terrifying new MAGA darling",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7570,
     "mediaId": 157,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "He's backed <span class='selected-term'>Herschel Walker</span> in Georgia, who lied about graduating college and is accused of threatening to kill his ex-wife.",
     "author": "Amanda Marcotte",
     "title": "You can credit MAGA misogyny with the surge of Pennsylvania's terrifying new right-wing darling",
     "sentiment": "0.0"
   },
   {
-    "id": 3324,
-    "mediaId": 169,
-    "date": "d2022-05-13T13:00",
-    "sentence": "He's backed <span class='selected-term'>Herschel Walker</span> in Georgia, who lied about graduating college and is accused of threatening to kill his ex-wife.",
-    "author": "Amanda Marcotte",
-    "title": "Trump has only himself to blame for Kathy Barnette, Pennsylvania's terrifying new MAGA darling",
-    "sentiment": "0.0"
+    "id": 6153,
+    "mediaId": 187,
+    "date": "2022-00-25",
+    "sentence": "The likely GOP nominee in Georgia, <span class='selected-term'>Herschel Walker</span>, is a former NFL star with his own stormy past.",
+    "author": "Russell Berman",
+    "title": "Mitch McConnells Nightmare Scenario",
+    "sentiment": "0"
   }
 ]

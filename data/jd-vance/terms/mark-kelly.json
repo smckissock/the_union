@@ -1,26 +1,8 @@
 [
   {
-    "id": 6313,
-    "mediaId": 151,
-    "date": "d2022-04-18T14:00",
-    "sentence": "",
-    "author": "",
-    "title": "5 numbers to know from the new FEC reports",
-    "sentiment": "0"
-  },
-  {
-    "id": 6160,
-    "mediaId": 195,
-    "date": "d2022-04-25T10:00",
-    "sentence": "",
-    "author": "Juan Williams",
-    "title": "Juan Williams: Trump rains on McConnells parade",
-    "sentiment": "0.701"
-  },
-  {
     "id": 6016,
     "mediaId": 151,
-    "date": "d2022-05-02T08:30",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Arizona GOP Senate frontrunner loses lead amid air assault",
@@ -29,10 +11,28 @@
   {
     "id": 5749,
     "mediaId": 323,
-    "date": "d2022-05-04T23:17",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "The Editorial Board",
     "title": "Powell Puts Volcker on Hold",
     "sentiment": "0.657"
+  },
+  {
+    "id": 6313,
+    "mediaId": 151,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "5 numbers to know from the new FEC reports",
+    "sentiment": "0"
+  },
+  {
+    "id": 6160,
+    "mediaId": 195,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Juan Williams",
+    "title": "Juan Williams: Trump rains on McConnells parade",
+    "sentiment": "0.701"
   }
 ]

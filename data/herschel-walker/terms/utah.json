@@ -1,20 +1,20 @@
 [
   {
-    "id": 7509,
-    "mediaId": 1576,
-    "date": "d2022-05-23T00:00",
-    "sentence": "There are still kids who will wear <span class='selected-term'>Herschel Walker</span>s football jerseys some 40 years after he played for the University of Georgia.",
-    "author": "",
-    "title": "Herschel Walker's ties to veterans program face scrutiny",
-    "sentiment": "-0.339"
-  },
-  {
     "id": 7482,
     "mediaId": 195,
-    "date": "d2022-05-23T22:29",
+    "date": "2022-00-23",
     "sentence": "Another Trump favorite, former football star <span class='selected-term'>Herschel Walker</span>, is all but certain to win the GOP Senate primary in Georgia on Tuesday.",
     "author": "Niall Stanage",
     "title": "The Memo: Trump no longer holds MAGA movement in his palm",
     "sentiment": "0.663"
+  },
+  {
+    "id": 7509,
+    "mediaId": 1576,
+    "date": "2022-00-23",
+    "sentence": "There are still kids who will wear <span class='selected-term'>Herschel Walker</span>s football jerseys some 40 years after he played for the University of Georgia.",
+    "author": "",
+    "title": "Herschel Walker's ties to veterans program face scrutiny",
+    "sentiment": "-0.339"
   }
 ]

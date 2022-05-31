@@ -1,179 +1,8 @@
 [
   {
-    "id": 6267,
-    "mediaId": 43,
-    "date": "d2022-04-21T00:00",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
-    "author": "",
-    "title": "Yes, Republicans really are moving us towards",
-    "sentiment": "0"
-  },
-  {
-    "id": 6267,
-    "mediaId": 43,
-    "date": "d2022-04-21T00:00",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
-    "author": "",
-    "title": "Yes, Republicans really are moving us towards",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4398,
-    "mediaId": 558,
-    "date": "d2022-04-29T14:35",
-    "sentence": "When Florida Governor <span class='selected-term'>Ron DeSantis</span> signed the Parental Rights in Education bill into law on March 28, Disney issued a statement saying it \"should never have passed\" and said that it should be repealed.",
-    "author": "",
-    "title": "UPDATE 2-Disney's corporate affairs head, Morrell, to leave company",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4367,
-    "mediaId": 409,
-    "date": "d2022-04-29T19:32",
-    "sentence": "Then <span class='selected-term'>Ron DeSantis</span> and the Florida Republicans brought the hammer down on Disneys special self-government status in central Florida.",
-    "author": "Kyle Smith",
-    "title": "Disney Just Fired Its Corporate-Affairs Chief",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4362,
-    "mediaId": 1067,
-    "date": "d2022-04-29T19:54",
-    "sentence": "",
-    "author": "Ryan Faughnder",
-    "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
-    "sentiment": "0"
-  },
-  {
-    "id": 4362,
-    "mediaId": 1067,
-    "date": "d2022-04-29T19:54",
-    "sentence": "",
-    "author": "Ryan Faughnder",
-    "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4360,
-    "mediaId": 441,
-    "date": "d2022-04-29T20:44",
-    "sentence": "Disneys opposition to Florida legislation banning discussion of sexual orientation and gender identity in classrooms with kids third grade and younger prompted Governor <span class='selected-term'>Ron DeSantis</span> and other Republicans to terminate a special municipal district the company has operated in Florida since the 1960s.",
-    "author": "Christopher Palmeri",
-    "title": "Disney Replaces Public Relations Chief Amid Florida Furor",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4353,
-    "mediaId": 163,
-    "date": "d2022-04-29T22:00",
-    "sentence": "When Florida Governor <span class='selected-term'>Ron DeSantis</span> signed the Parental Rights in Education bill into law on March 28, Disney issued a statement saying it \"should never have passed\" and said that it should be repealed.",
-    "author": "Lisa Richwine",
-    "title": "Disney's corporate affairs head, Morrell, to leave company",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4352,
-    "mediaId": 323,
-    "date": "d2022-04-29T22:39",
-    "sentence": "",
-    "author": "Robbie Whelan",
-    "title": "Disneys Head of Corporate Affairs Leaves Company Amid Dust-Up With Florida",
-    "sentiment": "0"
-  },
-  {
-    "id": 4352,
-    "mediaId": 323,
-    "date": "d2022-04-29T22:39",
-    "sentence": "",
-    "author": "Robbie Whelan",
-    "title": "Disneys Head of Corporate Affairs Leaves Company Amid Dust-Up With Florida",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4346,
-    "mediaId": 188,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "Paul Sacca",
-    "title": "Disney exec who helped craft company's response to Florida's parental rights law quits after just 3 months, replaced by former political aide of Obama, Clinton, and Biden",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4341,
-    "mediaId": 223,
-    "date": "d2022-04-30T08:00",
-    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
-    "author": "Spencer Brown",
-    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
-    "sentiment": "0"
-  },
-  {
-    "id": 4341,
-    "mediaId": 223,
-    "date": "d2022-04-30T08:00",
-    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
-    "author": "Spencer Brown",
-    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4271,
-    "mediaId": 187,
-    "date": "d2022-05-02T00:00",
-    "sentence": "The drama in Florida between Governor <span class='selected-term'>Ron DeSantis</span> and the Walt Disney Company has taken so many unusual turns in so little time that providing a truly straightforward account of whats transpired is not easy.",
-    "author": "Derek Thompson",
-    "title": "Disney vs. DeSantis Is the Future of Politics",
-    "sentiment": "0"
-  },
-  {
-    "id": 4271,
-    "mediaId": 187,
-    "date": "d2022-05-02T00:00",
-    "sentence": "The drama in Florida between Governor <span class='selected-term'>Ron DeSantis</span> and the Walt Disney Company has taken so many unusual turns in so little time that providing a truly straightforward account of whats transpired is not easy.",
-    "author": "Derek Thompson",
-    "title": "Disney vs. DeSantis Is the Future of Politics",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4273,
-    "mediaId": 19,
-    "date": "d2022-05-02T00:00",
-    "sentence": "",
-    "author": "David Ng",
-    "title": "CEOs Now Fear Caving to Woke Employees After Florida Pushes Back Against Disney",
-    "sentiment": "0"
-  },
-  {
-    "id": 4273,
-    "mediaId": 19,
-    "date": "d2022-05-02T00:00",
-    "sentence": "",
-    "author": "David Ng",
-    "title": "CEOs Now Fear Caving to Woke Employees After Florida Pushes Back Against Disney",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4243,
-    "mediaId": 18,
-    "date": "d2022-05-02T04:48:01",
-    "sentence": "",
-    "author": "Editorial",
-    "title": "Editorial: Disney, DeSantis must compromise",
-    "sentiment": "0"
-  },
-  {
-    "id": 4243,
-    "mediaId": 18,
-    "date": "d2022-05-02T04:48:01",
-    "sentence": "",
-    "author": "Editorial",
-    "title": "Editorial: Disney, DeSantis must compromise",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4221,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
+    "date": "2022-00-02",
     "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
     "author": "",
     "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
@@ -182,7 +11,7 @@
   {
     "id": 4221,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
+    "date": "2022-00-02",
     "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
     "author": "",
     "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
@@ -191,7 +20,7 @@
   {
     "id": 4222,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
+    "date": "2022-00-02",
     "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
     "author": "",
     "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
@@ -200,16 +29,70 @@
   {
     "id": 4222,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
+    "date": "2022-00-02",
     "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
     "author": "",
     "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
     "sentiment": "0.0"
   },
   {
+    "id": 4243,
+    "mediaId": 18,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Editorial",
+    "title": "Editorial: Disney, DeSantis must compromise",
+    "sentiment": "0"
+  },
+  {
+    "id": 4243,
+    "mediaId": 18,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Editorial",
+    "title": "Editorial: Disney, DeSantis must compromise",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4271,
+    "mediaId": 187,
+    "date": "2022-00-02",
+    "sentence": "The drama in Florida between Governor <span class='selected-term'>Ron DeSantis</span> and the Walt Disney Company has taken so many unusual turns in so little time that providing a truly straightforward account of whats transpired is not easy.",
+    "author": "Derek Thompson",
+    "title": "Disney vs. DeSantis Is the Future of Politics",
+    "sentiment": "0"
+  },
+  {
+    "id": 4271,
+    "mediaId": 187,
+    "date": "2022-00-02",
+    "sentence": "The drama in Florida between Governor <span class='selected-term'>Ron DeSantis</span> and the Walt Disney Company has taken so many unusual turns in so little time that providing a truly straightforward account of whats transpired is not easy.",
+    "author": "Derek Thompson",
+    "title": "Disney vs. DeSantis Is the Future of Politics",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4273,
+    "mediaId": 19,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "David Ng",
+    "title": "CEOs Now Fear Caving to Woke Employees After Florida Pushes Back Against Disney",
+    "sentiment": "0"
+  },
+  {
+    "id": 4273,
+    "mediaId": 19,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "David Ng",
+    "title": "CEOs Now Fear Caving to Woke Employees After Florida Pushes Back Against Disney",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4159,
     "mediaId": 19,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "David Ng",
     "title": "Disney Lost $63 Billion in Market Capitalization Since Going Full Woke in Florida",
@@ -218,16 +101,34 @@
   {
     "id": 4159,
     "mediaId": 19,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "David Ng",
     "title": "Disney Lost $63 Billion in Market Capitalization Since Going Full Woke in Florida",
     "sentiment": "0.0"
   },
   {
+    "id": 4052,
+    "mediaId": 98,
+    "date": "2022-00-04",
+    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
+    "author": "Ryan Faughnder",
+    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
+    "sentiment": "0"
+  },
+  {
+    "id": 4052,
+    "mediaId": 98,
+    "date": "2022-00-04",
+    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
+    "author": "Ryan Faughnder",
+    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4058,
     "mediaId": 132,
-    "date": "d2022-05-04T12:00",
+    "date": "2022-00-04",
     "sentence": "In March, Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, signed the Parental Rights in Education Bill,? which reinforces parents rights to make decisions regarding the upbringing of their children.? The bill prohibits classroom instruction on sexual orientation or gender identity in kindergarten through third grade and prohibits instruction that is not age appropriate for students and requires school districts to adopt procedures for notifying parents if there is a change in services from the school regarding a childs mental, emotional or physical health or well-being.",
     "author": "Lynn Schmidt",
     "title": "Give peace a chance in America's culture wars",
@@ -236,34 +137,34 @@
   {
     "id": 4058,
     "mediaId": 132,
-    "date": "d2022-05-04T12:00",
+    "date": "2022-00-04",
     "sentence": "In March, Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, signed the Parental Rights in Education Bill,? which reinforces parents rights to make decisions regarding the upbringing of their children.? The bill prohibits classroom instruction on sexual orientation or gender identity in kindergarten through third grade and prohibits instruction that is not age appropriate for students and requires school districts to adopt procedures for notifying parents if there is a change in services from the school regarding a childs mental, emotional or physical health or well-being.",
     "author": "Lynn Schmidt",
     "title": "Give peace a chance in America's culture wars",
     "sentiment": "0.0"
   },
   {
-    "id": 4052,
-    "mediaId": 98,
-    "date": "d2022-05-04T14:40",
-    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
-    "author": "Ryan Faughnder",
-    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
+    "id": 3884,
+    "mediaId": 18,
+    "date": "2022-00-07",
+    "sentence": "In March, Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, signed the Parental Rights in Education Bill,? which reinforces parents rights to make decisions regarding the upbringing of their children.? The bill prohibits classroom instruction on sexual orientation or gender identity in kindergarten through third grade and prohibits instruction that is not age appropriate for students and requires school districts to adopt procedures for notifying parents if there is a change in services from the school regarding a childs mental, emotional or physical health or well-being.",
+    "author": "Lynn Schmidt",
+    "title": "Schmidt: American people collateral damage as culture wars rage",
     "sentiment": "0"
   },
   {
-    "id": 4052,
-    "mediaId": 98,
-    "date": "d2022-05-04T14:40",
-    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
-    "author": "Ryan Faughnder",
-    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
+    "id": 3884,
+    "mediaId": 18,
+    "date": "2022-00-07",
+    "sentence": "In March, Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, signed the Parental Rights in Education Bill,? which reinforces parents rights to make decisions regarding the upbringing of their children.? The bill prohibits classroom instruction on sexual orientation or gender identity in kindergarten through third grade and prohibits instruction that is not age appropriate for students and requires school districts to adopt procedures for notifying parents if there is a change in services from the school regarding a childs mental, emotional or physical health or well-being.",
+    "author": "Lynn Schmidt",
+    "title": "Schmidt: American people collateral damage as culture wars rage",
     "sentiment": "0.0"
   },
   {
     "id": 3887,
     "mediaId": 129,
-    "date": "d2022-05-07T00:00",
+    "date": "2022-00-07",
     "sentence": "Then, last month, <span class='selected-term'>Ron DeSantis</span>, the Republican governor in Florida, took action that threatened to derail that movement: Angry that Bob Chapek, the chief executive of the Walt Disney Company, had spoken out against a Florida law called the Parental Rights in Education act or, by its critics, the Dont Say Gay? law, the governor retaliated.",
     "author": "",
     "title": "Companies Are Stuck Between Their Workers and Politicians",
@@ -272,34 +173,16 @@
   {
     "id": 3887,
     "mediaId": 129,
-    "date": "d2022-05-07T00:00",
+    "date": "2022-00-07",
     "sentence": "Then, last month, <span class='selected-term'>Ron DeSantis</span>, the Republican governor in Florida, took action that threatened to derail that movement: Angry that Bob Chapek, the chief executive of the Walt Disney Company, had spoken out against a Florida law called the Parental Rights in Education act or, by its critics, the Dont Say Gay? law, the governor retaliated.",
     "author": "",
     "title": "Companies Are Stuck Between Their Workers and Politicians",
     "sentiment": "0.0"
   },
   {
-    "id": 3884,
-    "mediaId": 18,
-    "date": "d2022-05-07T00:47",
-    "sentence": "In March, Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, signed the Parental Rights in Education Bill,? which reinforces parents rights to make decisions regarding the upbringing of their children.? The bill prohibits classroom instruction on sexual orientation or gender identity in kindergarten through third grade and prohibits instruction that is not age appropriate for students and requires school districts to adopt procedures for notifying parents if there is a change in services from the school regarding a childs mental, emotional or physical health or well-being.",
-    "author": "Lynn Schmidt",
-    "title": "Schmidt: American people collateral damage as culture wars rage",
-    "sentiment": "0"
-  },
-  {
-    "id": 3884,
-    "mediaId": 18,
-    "date": "d2022-05-07T00:47",
-    "sentence": "In March, Floridas Republican governor, <span class='selected-term'>Ron DeSantis</span>, signed the Parental Rights in Education Bill,? which reinforces parents rights to make decisions regarding the upbringing of their children.? The bill prohibits classroom instruction on sexual orientation or gender identity in kindergarten through third grade and prohibits instruction that is not age appropriate for students and requires school districts to adopt procedures for notifying parents if there is a change in services from the school regarding a childs mental, emotional or physical health or well-being.",
-    "author": "Lynn Schmidt",
-    "title": "Schmidt: American people collateral damage as culture wars rage",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3868,
     "mediaId": 1390,
-    "date": "d2022-05-08T00:00",
+    "date": "2022-00-08",
     "sentence": "",
     "author": "Peter Aitken",
     "title": "Disney silent on SCOTUS opinion leak, but weighed in on Florida parents bill",
@@ -308,7 +191,7 @@
   {
     "id": 3868,
     "mediaId": 1390,
-    "date": "d2022-05-08T00:00",
+    "date": "2022-00-08",
     "sentence": "",
     "author": "Peter Aitken",
     "title": "Disney silent on SCOTUS opinion leak, but weighed in on Florida parents bill",
@@ -317,88 +200,79 @@
   {
     "id": 3850,
     "mediaId": 19,
-    "date": "d2022-05-09T00:00",
+    "date": "2022-00-09",
     "sentence": "Moreover, a few weeks ago, Florida Governor <span class='selected-term'>Ron DeSantis</span> (R) signed a law that eliminates a statute that has for decades allowed the entertainment giant to act as a local government in Orlando, making it so that taxpayers are no longer burdened with funding Disneys public services.",
     "author": "Alana Mastrangelo",
     "title": "Dont Say Gay? Disney CEO Bob Chapek Avoids FL Anti-Grooming Law Controversy in Commencement Speech",
     "sentiment": "0.0"
   },
   {
+    "id": 3777,
+    "mediaId": 65,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Hawley introduces bill to strip 'woke' Disney of special copyright protections",
+    "sentiment": "0"
+  },
+  {
+    "id": 3777,
+    "mediaId": 65,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Hawley introduces bill to strip 'woke' Disney of special copyright protections",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3805,
     "mediaId": 19,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "David Ng",
     "title": "Sen. Josh Hawley Introduces Bill to Strip Disney of Copyright Privileges: No More Special Favors for Woke Corporations",
     "sentiment": "0.0"
   },
   {
-    "id": 3777,
-    "mediaId": 65,
-    "date": "d2022-05-10T11:06",
+    "id": 3692,
+    "mediaId": 558,
+    "date": "2022-00-11",
     "sentence": "",
-    "author": "Kelly Laco",
-    "title": "Hawley introduces bill to strip 'woke' Disney of special copyright protections",
+    "author": "Giulia Bottaro",
+    "title": "Disney lures wave of streaming subscribers as Netflix falters",
     "sentiment": "0"
   },
   {
-    "id": 3777,
-    "mediaId": 65,
-    "date": "d2022-05-10T11:06",
+    "id": 3692,
+    "mediaId": 558,
+    "date": "2022-00-11",
     "sentence": "",
-    "author": "Kelly Laco",
-    "title": "Hawley introduces bill to strip 'woke' Disney of special copyright protections",
+    "author": "Giulia Bottaro",
+    "title": "Disney lures wave of streaming subscribers as Netflix falters",
     "sentiment": "0.0"
   },
   {
-    "id": 3718,
-    "mediaId": 558,
-    "date": "d2022-05-11T06:12",
-    "sentence": "On the earnings call, Disney CEO Bob Chapek was surprisingly not asked about the company's public battle with Florida Governor <span class='selected-term'>Ron DeSantis</span>, who after Disney vowed to fight the , or what critics have dubbed the \"Don't Say Gay\" bill.",
-    "author": "",
-    "title": "Disney erases after-hours gains despite subscriber beat, Q2 earnings miss estimates",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3719,
-    "mediaId": 558,
-    "date": "d2022-05-11T06:12",
-    "sentence": "Disney CEO Bob Chapek might also be forced to address the company's public battle with Florida Governor <span class='selected-term'>Ron DeSantis</span>, who after Disney vowed to fight the , or what critics have dubbed the \"Don't Say Gay\" bill.",
-    "author": "",
-    "title": "THE MOST EXPENSIVE TV SHOWS TO MAKE",
+    "id": 3695,
+    "mediaId": 98,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Ryan FaughnderStaff Writer",
+    "title": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
     "sentiment": "0"
   },
   {
-    "id": 3719,
-    "mediaId": 558,
-    "date": "d2022-05-11T06:12",
-    "sentence": "Disney CEO Bob Chapek might also be forced to address the company's public battle with Florida Governor <span class='selected-term'>Ron DeSantis</span>, who after Disney vowed to fight the , or what critics have dubbed the \"Don't Say Gay\" bill.",
-    "author": "",
-    "title": "THE MOST EXPENSIVE TV SHOWS TO MAKE",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3711,
+    "id": 3695,
     "mediaId": 98,
-    "date": "d2022-05-11T10:31",
-    "sentence": "A federal judge on Tuesday dismissed a taxpayer lawsuit from Florida residents who sued the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over a decision to dissolve Walt Disney Co.'s special self-governing district near Orlando.",
-    "author": "Ryan Faughnder",
-    "title": "Federal judge dismisses Florida taxpayer lawsuit over Disney World district",
-    "sentiment": "0"
-  },
-  {
-    "id": 3711,
-    "mediaId": 98,
-    "date": "d2022-05-11T10:31",
-    "sentence": "A federal judge on Tuesday dismissed a taxpayer lawsuit from Florida residents who sued the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over a decision to dissolve Walt Disney Co.'s special self-governing district near Orlando.",
-    "author": "Ryan Faughnder",
-    "title": "Federal judge dismisses Florida taxpayer lawsuit over Disney World district",
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Ryan FaughnderStaff Writer",
+    "title": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
     "sentiment": "0.0"
   },
   {
     "id": 3696,
     "mediaId": 21,
-    "date": "d2022-05-11T14:00",
+    "date": "2022-00-11",
     "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
     "author": "Claire Atkinson",
     "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
@@ -407,52 +281,61 @@
   {
     "id": 3696,
     "mediaId": 21,
-    "date": "d2022-05-11T14:00",
+    "date": "2022-00-11",
     "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
     "author": "Claire Atkinson",
     "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
     "sentiment": "0.0"
   },
   {
-    "id": 3695,
+    "id": 3711,
     "mediaId": 98,
-    "date": "d2022-05-11T14:01",
-    "sentence": "",
-    "author": "Ryan FaughnderStaff Writer",
-    "title": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
+    "date": "2022-00-11",
+    "sentence": "A federal judge on Tuesday dismissed a taxpayer lawsuit from Florida residents who sued the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over a decision to dissolve Walt Disney Co.'s special self-governing district near Orlando.",
+    "author": "Ryan Faughnder",
+    "title": "Federal judge dismisses Florida taxpayer lawsuit over Disney World district",
     "sentiment": "0"
   },
   {
-    "id": 3695,
+    "id": 3711,
     "mediaId": 98,
-    "date": "d2022-05-11T14:01",
-    "sentence": "",
-    "author": "Ryan FaughnderStaff Writer",
-    "title": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
+    "date": "2022-00-11",
+    "sentence": "A federal judge on Tuesday dismissed a taxpayer lawsuit from Florida residents who sued the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over a decision to dissolve Walt Disney Co.'s special self-governing district near Orlando.",
+    "author": "Ryan Faughnder",
+    "title": "Federal judge dismisses Florida taxpayer lawsuit over Disney World district",
     "sentiment": "0.0"
   },
   {
-    "id": 3692,
+    "id": 3718,
     "mediaId": 558,
-    "date": "d2022-05-11T15:08",
-    "sentence": "",
-    "author": "Giulia Bottaro",
-    "title": "Disney lures wave of streaming subscribers as Netflix falters",
+    "date": "2022-00-11",
+    "sentence": "On the earnings call, Disney CEO Bob Chapek was surprisingly not asked about the company's public battle with Florida Governor <span class='selected-term'>Ron DeSantis</span>, who after Disney vowed to fight the , or what critics have dubbed the \"Don't Say Gay\" bill.",
+    "author": "",
+    "title": "Disney erases after-hours gains despite subscriber beat, Q2 earnings miss estimates",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3719,
+    "mediaId": 558,
+    "date": "2022-00-11",
+    "sentence": "Disney CEO Bob Chapek might also be forced to address the company's public battle with Florida Governor <span class='selected-term'>Ron DeSantis</span>, who after Disney vowed to fight the , or what critics have dubbed the \"Don't Say Gay\" bill.",
+    "author": "",
+    "title": "THE MOST EXPENSIVE TV SHOWS TO MAKE",
     "sentiment": "0"
   },
   {
-    "id": 3692,
+    "id": 3719,
     "mediaId": 558,
-    "date": "d2022-05-11T15:08",
-    "sentence": "",
-    "author": "Giulia Bottaro",
-    "title": "Disney lures wave of streaming subscribers as Netflix falters",
+    "date": "2022-00-11",
+    "sentence": "Disney CEO Bob Chapek might also be forced to address the company's public battle with Florida Governor <span class='selected-term'>Ron DeSantis</span>, who after Disney vowed to fight the , or what critics have dubbed the \"Don't Say Gay\" bill.",
+    "author": "",
+    "title": "THE MOST EXPENSIVE TV SHOWS TO MAKE",
     "sentiment": "0.0"
   },
   {
     "id": 3610,
     "mediaId": 558,
-    "date": "d2022-05-13T12:22",
+    "date": "2022-00-13",
     "sentence": "Following Disney's (DIS) public battle with Florida Governor <span class='selected-term'>Ron DeSantis</span>, who revoked the company's special tax district after it vowed to help repeal the Parental Rights in Education Act (or what critics have dubbed the \"Don't Say Gay\" bill), the entertainment giant is now fighting another Republican lawmaker.",
     "author": "",
     "title": "Republican-led bill targeting Disney's Mickey Mouse 'can't possibly pass': Lawyer",
@@ -461,7 +344,7 @@
   {
     "id": 3610,
     "mediaId": 558,
-    "date": "d2022-05-13T12:22",
+    "date": "2022-00-13",
     "sentence": "Following Disney's (DIS) public battle with Florida Governor <span class='selected-term'>Ron DeSantis</span>, who revoked the company's special tax district after it vowed to help repeal the Parental Rights in Education Act (or what critics have dubbed the \"Don't Say Gay\" bill), the entertainment giant is now fighting another Republican lawmaker.",
     "author": "",
     "title": "Republican-led bill targeting Disney's Mickey Mouse 'can't possibly pass': Lawyer",
@@ -470,7 +353,7 @@
   {
     "id": 3534,
     "mediaId": 238,
-    "date": "d2022-05-16T22:15",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Lori Rozsa",
     "title": "DeSantis says Florida may take over Disneys special district",
@@ -479,52 +362,52 @@
   {
     "id": 3534,
     "mediaId": 238,
-    "date": "d2022-05-16T22:15",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Lori Rozsa",
     "title": "DeSantis says Florida may take over Disneys special district",
     "sentiment": "0.0"
   },
   {
-    "id": 3527,
-    "mediaId": 98,
-    "date": "d2022-05-17T00:00",
-    "sentence": "",
-    "author": "Ryan Faughnder",
-    "title": "Netflixs message to employees and woke Hollywoods retreat",
+    "id": 3501,
+    "mediaId": 409,
+    "date": "2022-00-17",
+    "sentence": "The release comes as Disney is embroiled in a fierce controversy over its opposition to House Bill 1557, known as the Parental Rights in Education Bill.? The law, signed by Governor <span class='selected-term'>Ron DeSantis</span> in March of this year, prohibits classroom discussions on gender identity, sexual orientation, and LGBTQ themes in elementary school until Grade 3, and allows parents to sue school districts for non-compliance.",
+    "author": "Arjun Singh",
+    "title": "Disney Unveils New 2022 Pride Clothing Line for LGBTQ Children",
     "sentiment": "0"
   },
   {
-    "id": 3527,
-    "mediaId": 98,
-    "date": "d2022-05-17T00:00",
-    "sentence": "",
-    "author": "Ryan Faughnder",
-    "title": "Netflixs message to employees and woke Hollywoods retreat",
+    "id": 3501,
+    "mediaId": 409,
+    "date": "2022-00-17",
+    "sentence": "The release comes as Disney is embroiled in a fierce controversy over its opposition to House Bill 1557, known as the Parental Rights in Education Bill.? The law, signed by Governor <span class='selected-term'>Ron DeSantis</span> in March of this year, prohibits classroom discussions on gender identity, sexual orientation, and LGBTQ themes in elementary school until Grade 3, and allows parents to sue school districts for non-compliance.",
+    "author": "Arjun Singh",
+    "title": "Disney Unveils New 2022 Pride Clothing Line for LGBTQ Children",
     "sentiment": "0.0"
   },
   {
-    "id": 3501,
-    "mediaId": 409,
-    "date": "d2022-05-17T17:46",
-    "sentence": "The release comes as Disney is embroiled in a fierce controversy over its opposition to House Bill 1557, known as the Parental Rights in Education Bill.? The law, signed by Governor <span class='selected-term'>Ron DeSantis</span> in March of this year, prohibits classroom discussions on gender identity, sexual orientation, and LGBTQ themes in elementary school until Grade 3, and allows parents to sue school districts for non-compliance.",
-    "author": "Arjun Singh",
-    "title": "Disney Unveils New 2022 Pride Clothing Line for LGBTQ Children",
+    "id": 3527,
+    "mediaId": 98,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Netflixs message to employees and woke Hollywoods retreat",
     "sentiment": "0"
   },
   {
-    "id": 3501,
-    "mediaId": 409,
-    "date": "d2022-05-17T17:46",
-    "sentence": "The release comes as Disney is embroiled in a fierce controversy over its opposition to House Bill 1557, known as the Parental Rights in Education Bill.? The law, signed by Governor <span class='selected-term'>Ron DeSantis</span> in March of this year, prohibits classroom discussions on gender identity, sexual orientation, and LGBTQ themes in elementary school until Grade 3, and allows parents to sue school districts for non-compliance.",
-    "author": "Arjun Singh",
-    "title": "Disney Unveils New 2022 Pride Clothing Line for LGBTQ Children",
+    "id": 3527,
+    "mediaId": 98,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Netflixs message to employees and woke Hollywoods retreat",
     "sentiment": "0.0"
   },
   {
     "id": 3465,
     "mediaId": 195,
-    "date": "d2022-05-19T00:00",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "",
     "title": "Disney renames annual Rainbow Disney clothing line to Disney Pride collection",
@@ -533,10 +416,127 @@
   {
     "id": 7154,
     "mediaId": 19,
-    "date": "d2022-05-20T00:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "David Ng",
     "title": "Disney Giving Pride Collection Profits to Groups Fighting Floridas Anti-Grooming Law",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6267,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
+    "author": "",
+    "title": "Yes, Republicans really are moving us towards",
+    "sentiment": "0"
+  },
+  {
+    "id": 6267,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
+    "author": "",
+    "title": "Yes, Republicans really are moving us towards",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4352,
+    "mediaId": 323,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Robbie Whelan",
+    "title": "Disneys Head of Corporate Affairs Leaves Company Amid Dust-Up With Florida",
+    "sentiment": "0"
+  },
+  {
+    "id": 4352,
+    "mediaId": 323,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Robbie Whelan",
+    "title": "Disneys Head of Corporate Affairs Leaves Company Amid Dust-Up With Florida",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4353,
+    "mediaId": 163,
+    "date": "2022-00-29",
+    "sentence": "When Florida Governor <span class='selected-term'>Ron DeSantis</span> signed the Parental Rights in Education bill into law on March 28, Disney issued a statement saying it \"should never have passed\" and said that it should be repealed.",
+    "author": "Lisa Richwine",
+    "title": "Disney's corporate affairs head, Morrell, to leave company",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4360,
+    "mediaId": 441,
+    "date": "2022-00-29",
+    "sentence": "Disneys opposition to Florida legislation banning discussion of sexual orientation and gender identity in classrooms with kids third grade and younger prompted Governor <span class='selected-term'>Ron DeSantis</span> and other Republicans to terminate a special municipal district the company has operated in Florida since the 1960s.",
+    "author": "Christopher Palmeri",
+    "title": "Disney Replaces Public Relations Chief Amid Florida Furor",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4362,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
+    "sentiment": "0"
+  },
+  {
+    "id": 4362,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4367,
+    "mediaId": 409,
+    "date": "2022-00-29",
+    "sentence": "Then <span class='selected-term'>Ron DeSantis</span> and the Florida Republicans brought the hammer down on Disneys special self-government status in central Florida.",
+    "author": "Kyle Smith",
+    "title": "Disney Just Fired Its Corporate-Affairs Chief",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4398,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "When Florida Governor <span class='selected-term'>Ron DeSantis</span> signed the Parental Rights in Education bill into law on March 28, Disney issued a statement saying it \"should never have passed\" and said that it should be repealed.",
+    "author": "",
+    "title": "UPDATE 2-Disney's corporate affairs head, Morrell, to leave company",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4341,
+    "mediaId": 223,
+    "date": "2022-00-30",
+    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
+    "author": "Spencer Brown",
+    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
+    "sentiment": "0"
+  },
+  {
+    "id": 4341,
+    "mediaId": 223,
+    "date": "2022-00-30",
+    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
+    "author": "Spencer Brown",
+    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4346,
+    "mediaId": 188,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Paul Sacca",
+    "title": "Disney exec who helped craft company's response to Florida's parental rights law quits after just 3 months, replaced by former political aide of Obama, Clinton, and Biden",
     "sentiment": "0.0"
   }
 ]

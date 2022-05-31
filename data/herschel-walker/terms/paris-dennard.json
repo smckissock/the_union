@@ -1,20 +1,20 @@
 [
   {
-    "id": 7976,
-    "mediaId": 675,
-    "date": "d2022-03-22T10:11",
-    "sentence": "In the Senate, black Republicans like <span class='selected-term'>Herschel Walker</span> and Richard Irvin are competing in GOP primaries to challenge incumbent Democrats.",
-    "author": "WND News Services",
-    "title": "GOP steps up recruitment efforts for black candidates and voters",
-    "sentiment": "0"
-  },
-  {
     "id": 7728,
     "mediaId": 239,
-    "date": "d2022-04-18T00:03:30",
+    "date": "2022-00-18",
     "sentence": "This intellectually lazy, vile and hate-filled hit piece on <span class='selected-term'>Herschel Walker</span> demeans Black excellence and contributes to the Democrat Partys divisive ideology that all Black people are monolithic.",
     "author": "Wesley Hunt",
     "title": "The rise of Black conservatives is breaking the left",
+    "sentiment": "0"
+  },
+  {
+    "id": 7976,
+    "mediaId": 675,
+    "date": "2022-00-22",
+    "sentence": "In the Senate, black Republicans like <span class='selected-term'>Herschel Walker</span> and Richard Irvin are competing in GOP primaries to challenge incumbent Democrats.",
+    "author": "WND News Services",
+    "title": "GOP steps up recruitment efforts for black candidates and voters",
     "sentiment": "0"
   }
 ]

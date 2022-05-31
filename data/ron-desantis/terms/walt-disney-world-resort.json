@@ -1,197 +1,8 @@
 [
   {
-    "id": 6267,
-    "mediaId": 43,
-    "date": "d2022-04-21T00:00",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
-    "author": "",
-    "title": "Yes, Republicans really are moving us towards",
-    "sentiment": "0"
-  },
-  {
-    "id": 6267,
-    "mediaId": 43,
-    "date": "d2022-04-21T00:00",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
-    "author": "",
-    "title": "Yes, Republicans really are moving us towards",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6220,
-    "mediaId": 238,
-    "date": "d2022-04-22T18:04",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
-    "sentiment": "-0.705"
-  },
-  {
-    "id": 6220,
-    "mediaId": 238,
-    "date": "d2022-04-22T18:04",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4433,
-    "mediaId": 136,
-    "date": "d2022-04-29T08:36",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
-    "author": "Ewan Palmer",
-    "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
-    "sentiment": "-0.542"
-  },
-  {
-    "id": 4433,
-    "mediaId": 136,
-    "date": "d2022-04-29T08:36",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
-    "author": "Ewan Palmer",
-    "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4414,
-    "mediaId": 1067,
-    "date": "d2022-04-29T11:20",
-    "sentence": "",
-    "author": "Skyler Swisher",
-    "title": "Axing Disney Worlds Reedy Creek could hurt Florida government finances, analysts say",
-    "sentiment": "0"
-  },
-  {
-    "id": 4414,
-    "mediaId": 1067,
-    "date": "d2022-04-29T11:20",
-    "sentence": "",
-    "author": "Skyler Swisher",
-    "title": "Axing Disney Worlds Reedy Creek could hurt Florida government finances, analysts say",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4389,
-    "mediaId": 195,
-    "date": "d2022-04-29T15:39",
-    "sentence": "",
-    "author": "Kelsey Carolan",
-    "title": "Disney says Florida cant dissolve special district without paying $1B debt",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4362,
-    "mediaId": 1067,
-    "date": "d2022-04-29T19:54",
-    "sentence": "",
-    "author": "Ryan Faughnder",
-    "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
-    "sentiment": "0"
-  },
-  {
-    "id": 4362,
-    "mediaId": 1067,
-    "date": "d2022-04-29T19:54",
-    "sentence": "",
-    "author": "Ryan Faughnder",
-    "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4355,
-    "mediaId": 32,
-    "date": "d2022-04-29T21:43:51",
-    "sentence": "",
-    "author": "Alex Sherman",
-    "title": "Disney executive Geoff Morrell, who helped craft response to Dont Say Gay law, leaves company after three months",
-    "sentiment": "0"
-  },
-  {
-    "id": 4355,
-    "mediaId": 32,
-    "date": "d2022-04-29T21:43:51",
-    "sentence": "",
-    "author": "Alex Sherman",
-    "title": "Disney executive Geoff Morrell, who helped craft response to Dont Say Gay law, leaves company after three months",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4341,
-    "mediaId": 223,
-    "date": "d2022-04-30T08:00",
-    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
-    "author": "Spencer Brown",
-    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
-    "sentiment": "0"
-  },
-  {
-    "id": 4341,
-    "mediaId": 223,
-    "date": "d2022-04-30T08:00",
-    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
-    "author": "Spencer Brown",
-    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4314,
-    "mediaId": 157,
-    "date": "d2022-05-01T00:00",
-    "sentence": "",
-    "author": "Tom Boggioni",
-    "title": "Ron DeSantis' war on Disney has bondholders panicked over who's responsible for $1 billion in debt: report",
-    "sentiment": "0"
-  },
-  {
-    "id": 4314,
-    "mediaId": 157,
-    "date": "d2022-05-01T00:00",
-    "sentence": "",
-    "author": "Tom Boggioni",
-    "title": "Ron DeSantis' war on Disney has bondholders panicked over who's responsible for $1 billion in debt: report",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4301,
-    "mediaId": 558,
-    "date": "d2022-05-01T09:51",
-    "sentence": "",
-    "author": "Danielle Wallace",
-    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
-    "sentiment": "-0.818"
-  },
-  {
-    "id": 4301,
-    "mediaId": 558,
-    "date": "d2022-05-01T09:51",
-    "sentence": "",
-    "author": "Danielle Wallace",
-    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4294,
-    "mediaId": 323,
-    "date": "d2022-05-01T12:00",
-    "sentence": "",
-    "author": "Heather Gillers",
-    "title": "Floridas $1 Billion Disney Question",
-    "sentiment": "0"
-  },
-  {
-    "id": 4294,
-    "mediaId": 323,
-    "date": "d2022-05-01T12:00",
-    "sentence": "",
-    "author": "Heather Gillers",
-    "title": "Floridas $1 Billion Disney Question",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4288,
     "mediaId": 65,
-    "date": "d2022-05-01T16:51",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Danielle Wallace",
     "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
@@ -200,142 +11,88 @@
   {
     "id": 4288,
     "mediaId": 65,
-    "date": "d2022-05-01T16:51",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Danielle Wallace",
     "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
     "sentiment": "0.0"
   },
   {
-    "id": 4246,
-    "mediaId": 558,
-    "date": "d2022-05-02T00:34",
+    "id": 4294,
+    "mediaId": 323,
+    "date": "2022-00-01",
     "sentence": "",
-    "author": "Mary Ellen Klas",
-    "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
-    "sentiment": "-0.411"
-  },
-  {
-    "id": 4246,
-    "mediaId": 558,
-    "date": "d2022-05-02T00:34",
-    "sentence": "",
-    "author": "Mary Ellen Klas",
-    "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4243,
-    "mediaId": 18,
-    "date": "d2022-05-02T04:48:01",
-    "sentence": "",
-    "author": "Editorial",
-    "title": "Editorial: Disney, DeSantis must compromise",
+    "author": "Heather Gillers",
+    "title": "Floridas $1 Billion Disney Question",
     "sentiment": "0"
   },
   {
-    "id": 4243,
-    "mediaId": 18,
-    "date": "d2022-05-02T04:48:01",
+    "id": 4294,
+    "mediaId": 323,
+    "date": "2022-00-01",
     "sentence": "",
-    "author": "Editorial",
-    "title": "Editorial: Disney, DeSantis must compromise",
+    "author": "Heather Gillers",
+    "title": "Floridas $1 Billion Disney Question",
     "sentiment": "0.0"
   },
   {
-    "id": 4238,
-    "mediaId": 136,
-    "date": "d2022-05-02T10:00",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has released a payload of consequences onto the Walt Disney Company for its decision to fight policies designed to protect children from sexual content in their earliest years of education.",
-    "author": "Mark Davis",
-    "title": "Pushback Against DeSantis Proves the Value of His Battle With Disney | Opinion",
-    "sentiment": "-0.185"
-  },
-  {
-    "id": 4238,
-    "mediaId": 136,
-    "date": "d2022-05-02T10:00",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has released a payload of consequences onto the Walt Disney Company for its decision to fight policies designed to protect children from sexual content in their earliest years of education.",
-    "author": "Mark Davis",
-    "title": "Pushback Against DeSantis Proves the Value of His Battle With Disney | Opinion",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4229,
-    "mediaId": 195,
-    "date": "d2022-05-02T12:30",
-    "sentence": "",
-    "author": "Stuart Shapiro",
-    "title": "DeSantiss attack on Disney will likely fail  and thats probably OK with him",
-    "sentiment": "-0.328"
-  },
-  {
-    "id": 4229,
-    "mediaId": 195,
-    "date": "d2022-05-02T12:30",
-    "sentence": "",
-    "author": "Stuart Shapiro",
-    "title": "DeSantiss attack on Disney will likely fail  and thats probably OK with him",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4221,
+    "id": 4301,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
-    "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
-    "author": "",
-    "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Danielle Wallace",
+    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
+    "sentiment": "-0.818"
+  },
+  {
+    "id": 4301,
+    "mediaId": 558,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Danielle Wallace",
+    "title": "GOP governor rips DeSantis' 'punitive approach' toward Disney after parental rights dust-up",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4314,
+    "mediaId": 157,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Tom Boggioni",
+    "title": "Ron DeSantis' war on Disney has bondholders panicked over who's responsible for $1 billion in debt: report",
     "sentiment": "0"
   },
   {
-    "id": 4221,
-    "mediaId": 558,
-    "date": "d2022-05-02T14:01",
-    "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
-    "author": "",
-    "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
+    "id": 4314,
+    "mediaId": 157,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Tom Boggioni",
+    "title": "Ron DeSantis' war on Disney has bondholders panicked over who's responsible for $1 billion in debt: report",
     "sentiment": "0.0"
   },
   {
-    "id": 4222,
-    "mediaId": 558,
-    "date": "d2022-05-02T14:01",
-    "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
-    "author": "",
-    "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
+    "id": 4185,
+    "mediaId": 63,
+    "date": "2022-00-02",
+    "sentence": "I know Elon is just deeply committed to the idea of freedom of expression.?\nFree speech doesnt necessarily mean good ideas, to be clear,? he added, but to have a robust debate around ideas is how we actually come to reasonable conclusions.?\nDeSantis vs. Disney\nThe top GOP donor this election cycle, with some $40 million in political contributions, Griffin has also been a big backer of Florida governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Chase Peterson-Withorn",
+    "title": "Billionaire GOP Megadonor Ken Griffin: I Dont Appreciate Governor DeSantis Going After Disneys Tax Status.",
     "sentiment": "0"
   },
   {
-    "id": 4222,
-    "mediaId": 558,
-    "date": "d2022-05-02T14:01",
-    "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
-    "author": "",
-    "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4203,
-    "mediaId": 1067,
-    "date": "d2022-05-02T17:09",
-    "sentence": "",
-    "author": "Skyler Swisher",
-    "title": "Lawmakers suspect DeSantis wants to take control of Disney Worlds government",
-    "sentiment": "0"
-  },
-  {
-    "id": 4203,
-    "mediaId": 1067,
-    "date": "d2022-05-02T17:09",
-    "sentence": "",
-    "author": "Skyler Swisher",
-    "title": "Lawmakers suspect DeSantis wants to take control of Disney Worlds government",
+    "id": 4185,
+    "mediaId": 63,
+    "date": "2022-00-02",
+    "sentence": "I know Elon is just deeply committed to the idea of freedom of expression.?\nFree speech doesnt necessarily mean good ideas, to be clear,? he added, but to have a robust debate around ideas is how we actually come to reasonable conclusions.?\nDeSantis vs. Disney\nThe top GOP donor this election cycle, with some $40 million in political contributions, Griffin has also been a big backer of Florida governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Chase Peterson-Withorn",
+    "title": "Billionaire GOP Megadonor Ken Griffin: I Dont Appreciate Governor DeSantis Going After Disneys Tax Status.",
     "sentiment": "0.0"
   },
   {
     "id": 4194,
     "mediaId": 65,
-    "date": "d2022-05-02T19:30",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Kelly Laco",
     "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
@@ -344,34 +101,151 @@
   {
     "id": 4194,
     "mediaId": 65,
-    "date": "d2022-05-02T19:30",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Kelly Laco",
     "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
     "sentiment": "0.0"
   },
   {
-    "id": 4185,
-    "mediaId": 63,
-    "date": "d2022-05-02T21:37",
-    "sentence": "I know Elon is just deeply committed to the idea of freedom of expression.?\nFree speech doesnt necessarily mean good ideas, to be clear,? he added, but to have a robust debate around ideas is how we actually come to reasonable conclusions.?\nDeSantis vs. Disney\nThe top GOP donor this election cycle, with some $40 million in political contributions, Griffin has also been a big backer of Florida governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Chase Peterson-Withorn",
-    "title": "Billionaire GOP Megadonor Ken Griffin: I Dont Appreciate Governor DeSantis Going After Disneys Tax Status.",
+    "id": 4203,
+    "mediaId": 1067,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Skyler Swisher",
+    "title": "Lawmakers suspect DeSantis wants to take control of Disney Worlds government",
     "sentiment": "0"
   },
   {
-    "id": 4185,
-    "mediaId": 63,
-    "date": "d2022-05-02T21:37",
-    "sentence": "I know Elon is just deeply committed to the idea of freedom of expression.?\nFree speech doesnt necessarily mean good ideas, to be clear,? he added, but to have a robust debate around ideas is how we actually come to reasonable conclusions.?\nDeSantis vs. Disney\nThe top GOP donor this election cycle, with some $40 million in political contributions, Griffin has also been a big backer of Florida governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Chase Peterson-Withorn",
-    "title": "Billionaire GOP Megadonor Ken Griffin: I Dont Appreciate Governor DeSantis Going After Disneys Tax Status.",
+    "id": 4203,
+    "mediaId": 1067,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Skyler Swisher",
+    "title": "Lawmakers suspect DeSantis wants to take control of Disney Worlds government",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4221,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
+    "author": "",
+    "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
+    "sentiment": "0"
+  },
+  {
+    "id": 4221,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
+    "author": "",
+    "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4222,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
+    "author": "",
+    "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
+    "sentiment": "0"
+  },
+  {
+    "id": 4222,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
+    "author": "",
+    "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4229,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Stuart Shapiro",
+    "title": "DeSantiss attack on Disney will likely fail  and thats probably OK with him",
+    "sentiment": "-0.328"
+  },
+  {
+    "id": 4229,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Stuart Shapiro",
+    "title": "DeSantiss attack on Disney will likely fail  and thats probably OK with him",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4238,
+    "mediaId": 136,
+    "date": "2022-00-02",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has released a payload of consequences onto the Walt Disney Company for its decision to fight policies designed to protect children from sexual content in their earliest years of education.",
+    "author": "Mark Davis",
+    "title": "Pushback Against DeSantis Proves the Value of His Battle With Disney | Opinion",
+    "sentiment": "-0.185"
+  },
+  {
+    "id": 4238,
+    "mediaId": 136,
+    "date": "2022-00-02",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has released a payload of consequences onto the Walt Disney Company for its decision to fight policies designed to protect children from sexual content in their earliest years of education.",
+    "author": "Mark Davis",
+    "title": "Pushback Against DeSantis Proves the Value of His Battle With Disney | Opinion",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4243,
+    "mediaId": 18,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Editorial",
+    "title": "Editorial: Disney, DeSantis must compromise",
+    "sentiment": "0"
+  },
+  {
+    "id": 4243,
+    "mediaId": 18,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Editorial",
+    "title": "Editorial: Disney, DeSantis must compromise",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4246,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Mary Ellen Klas",
+    "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
+    "sentiment": "-0.411"
+  },
+  {
+    "id": 4246,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Mary Ellen Klas",
+    "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4110,
+    "mediaId": 558,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Jeremy Bowman",
+    "title": "Why Disney Stock Fell 19% in April",
     "sentiment": "0.0"
   },
   {
     "id": 4119,
     "mediaId": 1067,
-    "date": "d2022-05-03T17:47",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Skyler Swisher",
     "title": "Top DeSantis megadonor doesnt appreciate him targeting Disney",
@@ -380,43 +254,16 @@
   {
     "id": 4119,
     "mediaId": 1067,
-    "date": "d2022-05-03T17:47",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Skyler Swisher",
     "title": "Top DeSantis megadonor doesnt appreciate him targeting Disney",
     "sentiment": "0.0"
   },
   {
-    "id": 4110,
-    "mediaId": 558,
-    "date": "d2022-05-03T19:31",
-    "sentence": "",
-    "author": "Jeremy Bowman",
-    "title": "Why Disney Stock Fell 19% in April",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4052,
-    "mediaId": 98,
-    "date": "d2022-05-04T14:40",
-    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
-    "author": "Ryan Faughnder",
-    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
-    "sentiment": "0"
-  },
-  {
-    "id": 4052,
-    "mediaId": 98,
-    "date": "d2022-05-04T14:40",
-    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
-    "author": "Ryan Faughnder",
-    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4037,
     "mediaId": 1067,
-    "date": "d2022-05-04T19:04",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Skyler Swisher",
     "title": "U.S. Senate candidate leads first lawsuit challenging dissolution of Disney Worlds Reedy Creek",
@@ -425,16 +272,34 @@
   {
     "id": 4037,
     "mediaId": 1067,
-    "date": "d2022-05-04T19:04",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Skyler Swisher",
     "title": "U.S. Senate candidate leads first lawsuit challenging dissolution of Disney Worlds Reedy Creek",
     "sentiment": "0.0"
   },
   {
+    "id": 4052,
+    "mediaId": 98,
+    "date": "2022-00-04",
+    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
+    "author": "Ryan Faughnder",
+    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
+    "sentiment": "0"
+  },
+  {
+    "id": 4052,
+    "mediaId": 98,
+    "date": "2022-00-04",
+    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
+    "author": "Ryan Faughnder",
+    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3995,
     "mediaId": 558,
-    "date": "d2022-05-05T09:26",
+    "date": "2022-00-05",
     "sentence": "The investment underscores how important Florida is for Disney -- and will continue to be even as the company tussles publicly with Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Christopher Palmeri",
     "title": "Disneys $500 Million Roller Coaster Underscores Deep Ties to Florida",
@@ -443,52 +308,52 @@
   {
     "id": 3995,
     "mediaId": 558,
-    "date": "d2022-05-05T09:26",
+    "date": "2022-00-05",
     "sentence": "The investment underscores how important Florida is for Disney -- and will continue to be even as the company tussles publicly with Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Christopher Palmeri",
     "title": "Disneys $500 Million Roller Coaster Underscores Deep Ties to Florida",
     "sentiment": "0.0"
   },
   {
-    "id": 3850,
-    "mediaId": 19,
-    "date": "d2022-05-09T00:00",
-    "sentence": "Moreover, a few weeks ago, Florida Governor <span class='selected-term'>Ron DeSantis</span> (R) signed a law that eliminates a statute that has for decades allowed the entertainment giant to act as a local government in Orlando, making it so that taxpayers are no longer burdened with funding Disneys public services.",
-    "author": "Alana Mastrangelo",
-    "title": "Dont Say Gay? Disney CEO Bob Chapek Avoids FL Anti-Grooming Law Controversy in Commencement Speech",
+    "id": 3822,
+    "mediaId": 881,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "",
+    "title": "Swastikas Fly at Disney as Neo-Nazis Appear to Join Anti-Grooming Protests",
+    "sentiment": "0"
+  },
+  {
+    "id": 3822,
+    "mediaId": 881,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "",
+    "title": "Swastikas Fly at Disney as Neo-Nazis Appear to Join Anti-Grooming Protests",
     "sentiment": "0.0"
   },
   {
     "id": 3825,
     "mediaId": 136,
-    "date": "d2022-05-09T14:19",
+    "date": "2022-00-09",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has been embroiled in an ongoing feud with the Walt Disney Company in the last several months over the state's Parental Rights in Education Act, better known colloquially as the \"Don't Say Gay\" bill.",
     "author": "Thomas Kika",
     "title": "Nazi Flags Waved Outside Disney World Entrance On Busy Holiday Weekend",
     "sentiment": "0.0"
   },
   {
-    "id": 3822,
-    "mediaId": 881,
-    "date": "d2022-05-09T17:16",
-    "sentence": "",
-    "author": "",
-    "title": "Swastikas Fly at Disney as Neo-Nazis Appear to Join Anti-Grooming Protests",
-    "sentiment": "0"
-  },
-  {
-    "id": 3822,
-    "mediaId": 881,
-    "date": "d2022-05-09T17:16",
-    "sentence": "",
-    "author": "",
-    "title": "Swastikas Fly at Disney as Neo-Nazis Appear to Join Anti-Grooming Protests",
+    "id": 3850,
+    "mediaId": 19,
+    "date": "2022-00-09",
+    "sentence": "Moreover, a few weeks ago, Florida Governor <span class='selected-term'>Ron DeSantis</span> (R) signed a law that eliminates a statute that has for decades allowed the entertainment giant to act as a local government in Orlando, making it so that taxpayers are no longer burdened with funding Disneys public services.",
+    "author": "Alana Mastrangelo",
+    "title": "Dont Say Gay? Disney CEO Bob Chapek Avoids FL Anti-Grooming Law Controversy in Commencement Speech",
     "sentiment": "0.0"
   },
   {
     "id": 3785,
     "mediaId": 409,
-    "date": "d2022-05-10T09:53",
+    "date": "2022-00-10",
     "sentence": "At a signing ceremony for the measure, Governor <span class='selected-term'>Ron DeSantis</span> said that if Disney was going to use its economic might to attack the parents of my state,? he would treat it as a provocation? and fight back.?\nHe also said that even if Disney had not commented on the Parental Rights Bill, taking away its special status would have been the right thing to do.?\nRepresentative Jim Banks (R., IN.",
     "author": "Isaac Schorr",
     "title": "Hawley Proposes Bill to Strip Disney of Copyright Protections",
@@ -497,52 +362,52 @@
   {
     "id": 3785,
     "mediaId": 409,
-    "date": "d2022-05-10T09:53",
+    "date": "2022-00-10",
     "sentence": "At a signing ceremony for the measure, Governor <span class='selected-term'>Ron DeSantis</span> said that if Disney was going to use its economic might to attack the parents of my state,? he would treat it as a provocation? and fight back.?\nHe also said that even if Disney had not commented on the Parental Rights Bill, taking away its special status would have been the right thing to do.?\nRepresentative Jim Banks (R., IN.",
     "author": "Isaac Schorr",
     "title": "Hawley Proposes Bill to Strip Disney of Copyright Protections",
     "sentiment": "0.0"
   },
   {
-    "id": 3737,
-    "mediaId": 1390,
-    "date": "d2022-05-11T00:00",
-    "sentence": "",
-    "author": "Tyler O'Neil",
-    "title": "DeSantis notches legal win in battle over law revoking Disney's special tax district",
+    "id": 3694,
+    "mediaId": 441,
+    "date": "2022-00-11",
+    "sentence": "A federal judge threw out a lawsuit by three Florida residents who claim Governor <span class='selected-term'>Ron DeSantis</span> trampled on Walt Disney Co.s freedom of speech, finding numerous holes in their filing and ruling the company can fight its own battle.",
+    "author": "Katia Porzecanski",
+    "title": "DeSantis Culture War With Disney Sees Lawsuit by Florida Trio Thrown Out",
     "sentiment": "0"
   },
   {
-    "id": 3737,
-    "mediaId": 1390,
-    "date": "d2022-05-11T00:00",
-    "sentence": "",
-    "author": "Tyler O'Neil",
-    "title": "DeSantis notches legal win in battle over law revoking Disney's special tax district",
+    "id": 3694,
+    "mediaId": 441,
+    "date": "2022-00-11",
+    "sentence": "A federal judge threw out a lawsuit by three Florida residents who claim Governor <span class='selected-term'>Ron DeSantis</span> trampled on Walt Disney Co.s freedom of speech, finding numerous holes in their filing and ruling the company can fight its own battle.",
+    "author": "Katia Porzecanski",
+    "title": "DeSantis Culture War With Disney Sees Lawsuit by Florida Trio Thrown Out",
     "sentiment": "0.0"
   },
   {
-    "id": 3711,
+    "id": 3695,
     "mediaId": 98,
-    "date": "d2022-05-11T10:31",
-    "sentence": "A federal judge on Tuesday dismissed a taxpayer lawsuit from Florida residents who sued the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over a decision to dissolve Walt Disney Co.'s special self-governing district near Orlando.",
-    "author": "Ryan Faughnder",
-    "title": "Federal judge dismisses Florida taxpayer lawsuit over Disney World district",
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Ryan FaughnderStaff Writer",
+    "title": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
     "sentiment": "0"
   },
   {
-    "id": 3711,
+    "id": 3695,
     "mediaId": 98,
-    "date": "d2022-05-11T10:31",
-    "sentence": "A federal judge on Tuesday dismissed a taxpayer lawsuit from Florida residents who sued the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over a decision to dissolve Walt Disney Co.'s special self-governing district near Orlando.",
-    "author": "Ryan Faughnder",
-    "title": "Federal judge dismisses Florida taxpayer lawsuit over Disney World district",
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Ryan FaughnderStaff Writer",
+    "title": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
     "sentiment": "0.0"
   },
   {
     "id": 3696,
     "mediaId": 21,
-    "date": "d2022-05-11T14:00",
+    "date": "2022-00-11",
     "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
     "author": "Claire Atkinson",
     "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
@@ -551,88 +416,52 @@
   {
     "id": 3696,
     "mediaId": 21,
-    "date": "d2022-05-11T14:00",
+    "date": "2022-00-11",
     "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
     "author": "Claire Atkinson",
     "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
     "sentiment": "0.0"
   },
   {
-    "id": 3695,
+    "id": 3711,
     "mediaId": 98,
-    "date": "d2022-05-11T14:01",
-    "sentence": "",
-    "author": "Ryan FaughnderStaff Writer",
-    "title": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
+    "date": "2022-00-11",
+    "sentence": "A federal judge on Tuesday dismissed a taxpayer lawsuit from Florida residents who sued the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over a decision to dissolve Walt Disney Co.'s special self-governing district near Orlando.",
+    "author": "Ryan Faughnder",
+    "title": "Federal judge dismisses Florida taxpayer lawsuit over Disney World district",
     "sentiment": "0"
   },
   {
-    "id": 3695,
+    "id": 3711,
     "mediaId": 98,
-    "date": "d2022-05-11T14:01",
-    "sentence": "",
-    "author": "Ryan FaughnderStaff Writer",
-    "title": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
+    "date": "2022-00-11",
+    "sentence": "A federal judge on Tuesday dismissed a taxpayer lawsuit from Florida residents who sued the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over a decision to dissolve Walt Disney Co.'s special self-governing district near Orlando.",
+    "author": "Ryan Faughnder",
+    "title": "Federal judge dismisses Florida taxpayer lawsuit over Disney World district",
     "sentiment": "0.0"
   },
   {
-    "id": 3694,
-    "mediaId": 441,
-    "date": "d2022-05-11T14:03",
-    "sentence": "A federal judge threw out a lawsuit by three Florida residents who claim Governor <span class='selected-term'>Ron DeSantis</span> trampled on Walt Disney Co.s freedom of speech, finding numerous holes in their filing and ruling the company can fight its own battle.",
-    "author": "Katia Porzecanski",
-    "title": "DeSantis Culture War With Disney Sees Lawsuit by Florida Trio Thrown Out",
+    "id": 3737,
+    "mediaId": 1390,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Tyler O'Neil",
+    "title": "DeSantis notches legal win in battle over law revoking Disney's special tax district",
     "sentiment": "0"
   },
   {
-    "id": 3694,
-    "mediaId": 441,
-    "date": "d2022-05-11T14:03",
-    "sentence": "A federal judge threw out a lawsuit by three Florida residents who claim Governor <span class='selected-term'>Ron DeSantis</span> trampled on Walt Disney Co.s freedom of speech, finding numerous holes in their filing and ruling the company can fight its own battle.",
-    "author": "Katia Porzecanski",
-    "title": "DeSantis Culture War With Disney Sees Lawsuit by Florida Trio Thrown Out",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3559,
-    "mediaId": 19,
-    "date": "d2022-05-16T00:00",
+    "id": 3737,
+    "mediaId": 1390,
+    "date": "2022-00-11",
     "sentence": "",
-    "author": "John Nolte",
-    "title": "Nolte: Pro-Grooming Disneys Favorability Rating Plummets 53 Points In One Year",
-    "sentiment": "0"
-  },
-  {
-    "id": 3559,
-    "mediaId": 19,
-    "date": "d2022-05-16T00:00",
-    "sentence": "",
-    "author": "John Nolte",
-    "title": "Nolte: Pro-Grooming Disneys Favorability Rating Plummets 53 Points In One Year",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3573,
-    "mediaId": 1164,
-    "date": "d2022-05-16T00:00",
-    "sentence": "",
-    "author": "Don Jacobson",
-    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
-    "sentiment": "0"
-  },
-  {
-    "id": 3573,
-    "mediaId": 1164,
-    "date": "d2022-05-16T00:00",
-    "sentence": "",
-    "author": "Don Jacobson",
-    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
+    "author": "Tyler O'Neil",
+    "title": "DeSantis notches legal win in battle over law revoking Disney's special tax district",
     "sentiment": "0.0"
   },
   {
     "id": 3534,
     "mediaId": 238,
-    "date": "d2022-05-16T22:15",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Lori Rozsa",
     "title": "DeSantis says Florida may take over Disneys special district",
@@ -641,10 +470,181 @@
   {
     "id": 3534,
     "mediaId": 238,
-    "date": "d2022-05-16T22:15",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Lori Rozsa",
     "title": "DeSantis says Florida may take over Disneys special district",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3559,
+    "mediaId": 19,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "John Nolte",
+    "title": "Nolte: Pro-Grooming Disneys Favorability Rating Plummets 53 Points In One Year",
+    "sentiment": "0"
+  },
+  {
+    "id": 3559,
+    "mediaId": 19,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "John Nolte",
+    "title": "Nolte: Pro-Grooming Disneys Favorability Rating Plummets 53 Points In One Year",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3573,
+    "mediaId": 1164,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Don Jacobson",
+    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
+    "sentiment": "0"
+  },
+  {
+    "id": 3573,
+    "mediaId": 1164,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Don Jacobson",
+    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6267,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
+    "author": "",
+    "title": "Yes, Republicans really are moving us towards",
+    "sentiment": "0"
+  },
+  {
+    "id": 6267,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
+    "author": "",
+    "title": "Yes, Republicans really are moving us towards",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6220,
+    "mediaId": 238,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
+    "sentiment": "-0.705"
+  },
+  {
+    "id": 6220,
+    "mediaId": 238,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4355,
+    "mediaId": 32,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Alex Sherman",
+    "title": "Disney executive Geoff Morrell, who helped craft response to Dont Say Gay law, leaves company after three months",
+    "sentiment": "0"
+  },
+  {
+    "id": 4355,
+    "mediaId": 32,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Alex Sherman",
+    "title": "Disney executive Geoff Morrell, who helped craft response to Dont Say Gay law, leaves company after three months",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4362,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
+    "sentiment": "0"
+  },
+  {
+    "id": 4362,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4389,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Kelsey Carolan",
+    "title": "Disney says Florida cant dissolve special district without paying $1B debt",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4414,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Skyler Swisher",
+    "title": "Axing Disney Worlds Reedy Creek could hurt Florida government finances, analysts say",
+    "sentiment": "0"
+  },
+  {
+    "id": 4414,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Skyler Swisher",
+    "title": "Axing Disney Worlds Reedy Creek could hurt Florida government finances, analysts say",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4433,
+    "mediaId": 136,
+    "date": "2022-00-29",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
+    "author": "Ewan Palmer",
+    "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
+    "sentiment": "-0.542"
+  },
+  {
+    "id": 4433,
+    "mediaId": 136,
+    "date": "2022-00-29",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
+    "author": "Ewan Palmer",
+    "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4341,
+    "mediaId": 223,
+    "date": "2022-00-30",
+    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
+    "author": "Spencer Brown",
+    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
+    "sentiment": "0"
+  },
+  {
+    "id": 4341,
+    "mediaId": 223,
+    "date": "2022-00-30",
+    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
+    "author": "Spencer Brown",
+    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
     "sentiment": "0.0"
   }
 ]

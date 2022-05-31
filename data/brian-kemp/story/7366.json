@@ -1,24 +1,18 @@
 {
   "id": 7366,
   "mediaId": 136,
-  "date": "d2022-05-25T03:22",
+  "date": "5/25/2022 12:00:00 AM",
   "headline": "Mike Pence Is Urging Republicans to Move Past Donald Trump",
   "image": "https://d.newsweek.com/en/full/2044856/mike-pence-donald-trump.webp?w=790&f=72c3e23883819fd1b786d5c940e3f5cf",
   "link": "https://www.newsweek.com/mike-pence-urging-republicans-move-past-donald-trump-1709835",
-  "sentiment": "-0.679",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Fung",
   "authorUrl": "https://www.newsweek.com/authors/katherine-fung",
   "termIds": [
-    1147,
-    1434,
-    2087,
-    2095,
-    4325,
-    428,
-    2672
+    2095
   ],
   "sentences": [
     "In one of the most watched primaries of the midterm season, Georgia Governor Brian Kemp successfully beat out Trump-backed David Perdue on Tuesday in what many have seen as the willingness of Republican voters to move past Trump's election-fraud claims.",

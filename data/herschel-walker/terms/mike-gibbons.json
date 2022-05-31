@@ -1,20 +1,20 @@
 [
   {
-    "id": 7973,
-    "mediaId": 124,
-    "date": "d2022-03-22T13:17",
-    "sentence": "Ex-wife accuses Missouri Senate candidate Eric Greitens of domestic abuse\nMarch 22, 202201:37\nConsider these all of these different problems:\nIn Georgia, GOP frontrunner <span class='selected-term'>Herschel Walker</span> (who is much more likely than Greitens is to win the Republican nomination and has largely consolidated the party around him) has admitted his own past violent behavior as part of his struggle with mental illness.",
-    "author": "",
-    "title": "The GOP's bid to retake the Senate is encountering early struggles",
-    "sentiment": "-0.212"
-  },
-  {
     "id": 5139,
     "mediaId": 63,
-    "date": "d2022-04-14T19:24",
+    "date": "2022-00-14",
     "sentence": "Polling shows Trump-endorsed Georgia Senate candidate <span class='selected-term'>Herschel Walker</span> (R) leading incumbent Sen. Raphael Warnock (D-Ga.) despite Walkers campaign being plagued by a series of gaffes, like Walkers assertion that the existence of apes is evidence that evolution is not real.",
     "author": "Nicholas Reimann",
     "title": "Trump Reportedly Backing J.D. Vance In Ohio Senate RaceLatest Test Of Dubious Endorsement Power",
     "sentiment": "-0.892"
+  },
+  {
+    "id": 7973,
+    "mediaId": 124,
+    "date": "2022-00-22",
+    "sentence": "Ex-wife accuses Missouri Senate candidate Eric Greitens of domestic abuse\nMarch 22, 202201:37\nConsider these all of these different problems:\nIn Georgia, GOP frontrunner <span class='selected-term'>Herschel Walker</span> (who is much more likely than Greitens is to win the Republican nomination and has largely consolidated the party around him) has admitted his own past violent behavior as part of his struggle with mental illness.",
+    "author": "",
+    "title": "The GOP's bid to retake the Senate is encountering early struggles",
+    "sentiment": "-0.212"
   }
 ]

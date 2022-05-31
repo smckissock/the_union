@@ -1,27 +1,19 @@
 {
   "id": 7483,
   "mediaId": 147,
-  "date": "d2022-05-23T19:51",
+  "date": "5/23/2022 12:00:00 AM",
   "headline": "2022 Georgia Primary Election Results",
   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/05/2022-05-16T100246Z_1025225215_RC2S5U90X4YT_RTRMADP_3_USA-ELECTION-VOTERS-1200x800.jpg",
   "link": "https://www.pbs.org/newshour/politics/2022-georgia-primary-election-results",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "PBS NewsHour",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jeff Amy",
   "authorUrl": "https://www.pbs.org/newshour/author/jeff-amy-associated-press",
   "termIds": [
-    727,
     815,
-    1147,
-    1951,
-    2095,
-    2203,
-    2376,
-    4325,
-    2555,
-    2672
+    2095
   ],
   "sentences": [
     "Trumps candidate for U.S. Senate, football legend Herschel Walker, appears to be cruising to the Republican nomination despite some GOP leaders warning that Walker will be unelectable in November against Democratic incumbent Raphael Warnock.",

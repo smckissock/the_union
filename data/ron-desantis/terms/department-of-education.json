@@ -1,80 +1,8 @@
 [
   {
-    "id": 4425,
-    "mediaId": 237,
-    "date": "d2022-04-29T09:39",
-    "sentence": "",
-    "author": "Christopher Hutton",
-    "title": "Florida reinstates nine math textbooks after removal of 'woke content'",
-    "sentiment": "0"
-  },
-  {
-    "id": 4425,
-    "mediaId": 237,
-    "date": "d2022-04-29T09:39",
-    "sentence": "",
-    "author": "Christopher Hutton",
-    "title": "Florida reinstates nine math textbooks after removal of 'woke content'",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4421,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0"
-  },
-  {
-    "id": 4421,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4418,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00:02",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0"
-  },
-  {
-    "id": 4418,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00:02",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4392,
-    "mediaId": 1067,
-    "date": "d2022-04-29T15:01",
-    "sentence": "",
-    "author": "Ryan Dailey",
-    "title": "Sen. Diaz named Florida education commissioner to replace Corcoran",
-    "sentiment": "0"
-  },
-  {
-    "id": 4392,
-    "mediaId": 1067,
-    "date": "d2022-04-29T15:01",
-    "sentence": "",
-    "author": "Ryan Dailey",
-    "title": "Sen. Diaz named Florida education commissioner to replace Corcoran",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7275,
     "mediaId": 21,
-    "date": "d2022-05-22T15:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Yelena Dzhanova",
     "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
@@ -83,7 +11,7 @@
   {
     "id": 7275,
     "mediaId": 21,
-    "date": "d2022-05-22T15:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Yelena Dzhanova",
     "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
@@ -92,7 +20,7 @@
   {
     "id": 8538,
     "mediaId": 302,
-    "date": "d2022-05-27T23:00",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "",
     "title": "DeSantis appoints Corcoran to Florida's Board of Governors",
@@ -101,10 +29,82 @@
   {
     "id": 8538,
     "mediaId": 302,
-    "date": "d2022-05-27T23:00",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "",
     "title": "DeSantis appoints Corcoran to Florida's Board of Governors",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4392,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Ryan Dailey",
+    "title": "Sen. Diaz named Florida education commissioner to replace Corcoran",
+    "sentiment": "0"
+  },
+  {
+    "id": 4392,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Ryan Dailey",
+    "title": "Sen. Diaz named Florida education commissioner to replace Corcoran",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4418,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0"
+  },
+  {
+    "id": 4418,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4421,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0"
+  },
+  {
+    "id": 4421,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4425,
+    "mediaId": 237,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Christopher Hutton",
+    "title": "Florida reinstates nine math textbooks after removal of 'woke content'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4425,
+    "mediaId": 237,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Christopher Hutton",
+    "title": "Florida reinstates nine math textbooks after removal of 'woke content'",
     "sentiment": "0.0"
   }
 ]

@@ -1,27 +1,18 @@
 {
   "id": 7072,
   "mediaId": 129,
-  "date": "d2022-05-21T00:00",
+  "date": "5/21/2022 12:00:00 AM",
   "headline": "Perdue Had Trump. In Georgia, Kemp Had Everything Else.",
   "image": "https://static01.nyt.com/images/2022/05/21/multimedia/21pol-georgia-perdue-bikers-photo/21pol-georgia-perdue-bikers-photo-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/21/us/politics/perdue-kemp-georgia-trump.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1101,
-    1147,
-    1641,
-    1951,
-    2095,
-    4325,
-    571,
-    598,
-    2671,
-    2672
+    2095
   ],
   "sentences": [
     "I expressed the fact that I didnt agree with it, that I thought that the governor had done a great job and deserved re-election.?\nShunned by the states political establishment, Mr. Perdue tried framing himself as a political outsider  Ive been an outsider since I got into politics,? he said on Thursday  but that is a difficult case to make for a former senator boasting of his support from a former president.",

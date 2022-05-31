@@ -1,38 +1,38 @@
 [
   {
-    "id": 6208,
-    "mediaId": 19,
-    "date": "d2022-04-23T00:00",
-    "sentence": "",
-    "author": "Matthew Boyle",
-    "title": "Trump Reveals Trailer of Explosive 2000 Mules Ballot Harvesting Documentary at Ohio Rally",
-    "sentiment": "0"
-  },
-  {
-    "id": 5965,
-    "mediaId": 157,
-    "date": "d2022-05-03T00:00",
-    "sentence": "",
-    "author": "David Edwards",
-    "title": "Watch: Reporter clashes with J.D. Vance for 'propagating and promoting white resentment'",
-    "sentiment": "0"
-  },
-  {
     "id": 5916,
     "mediaId": 195,
-    "date": "d2022-05-03T16:50",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Caroline Vakil",
     "title": "Trump says JD Vance best suited to win the election, warns of Tim Ryans campaign bank account",
     "sentiment": "0.788"
   },
   {
+    "id": 5965,
+    "mediaId": 157,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "David Edwards",
+    "title": "Watch: Reporter clashes with J.D. Vance for 'propagating and promoting white resentment'",
+    "sentiment": "0"
+  },
+  {
     "id": 5851,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Bob Brigham",
     "title": "Far-right takes a victory lap as JD Vance begins grueling general election battle against Tim Ryan",
     "sentiment": "-0.476"
+  },
+  {
+    "id": 6208,
+    "mediaId": 19,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Matthew Boyle",
+    "title": "Trump Reveals Trailer of Explosive 2000 Mules Ballot Harvesting Documentary at Ohio Rally",
+    "sentiment": "0"
   }
 ]

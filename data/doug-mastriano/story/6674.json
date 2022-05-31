@@ -1,11 +1,11 @@
 {
   "id": 6674,
   "mediaId": 129,
-  "date": "d2022-05-18T02:35",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "The G.O.P. Senate primary in Pennsylvania remains a tossup as an election denier wins the Republican primary for governor.",
   "image": "https://static01.nyt.com/images/2022/05/17/multimedia/17primary-live-leadeall-mastriano-sub/17primary-live-leadeall-mastriano-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/17/us/politics/gop-senate-primary-pa.html",
-  "sentiment": "0.489",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,8 @@
   "authorUrl": "",
   "termIds": [
     821,
-    1147,
-    1770,
     2303,
-    2491,
-    3102,
-    428,
-    571,
-    2862
+    3102
   ],
   "sentences": [
     "God is good, all the time,? Mr. Mastriano said in his victory speech, outlining day one? goals that included mandates are gone,? any jab for job requirements are gone,? critical race theory is over,? only biological females can play on biological female teams? and you can only use the bathroom that your biological anatomy says.?\nThe Republican Governors Association issued a tepid response after the race was called, not promising financial support.",

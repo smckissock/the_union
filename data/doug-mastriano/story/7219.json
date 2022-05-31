@@ -1,25 +1,18 @@
 {
   "id": 7219,
   "mediaId": 129,
-  "date": "d2022-05-22T07:00:01",
+  "date": "5/22/2022 12:00:00 AM",
   "headline": "How Trumps 2020 Election Lies Have Gripped State Legislatures",
   "image": "",
   "link": "https://www.nytimes.com/2022/05/22/us/politics/state-legislators-election-denialhtml.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1434,
-    2087,
-    3102,
-    428,
-    2550,
-    2748,
-    2972
+    3102
   ],
   "sentences": [
     "Russell Bowers, the speaker of the Arizona House and a Republican, said that the State Legislature could only appoint its own electors if there was proven demonstrable fraud sufficient to cover whatever balance or a gap in voters that existed.? He added, We did not even come close to that,? and he dismissed the Senate review as a seat-of-the-pants circus.?\nRepublican leaders in other battleground states are facing similar upheavals surrounding so-called audit efforts.",

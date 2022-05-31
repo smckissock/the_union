@@ -1,25 +1,18 @@
 {
   "id": 7312,
   "mediaId": 65,
-  "date": "d2022-05-24T06:00",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Georgia voters condemn Stacey Abrams worst state comments, share top priorities ahead of primary election",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/199243e3-c18e-4ed4-b95c-b08d1d55cea8/6c4a0202-b51d-453b-b0a0-d855a9fcbd96/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/georgia-voters-condemn-stacey-abrams-worst-state-share-top-primary-election-priorities",
-  "sentiment": "-0.166",
+  "sentiment": "0.0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matt Leach",
   "authorUrl": "https://www.foxnews.com/person/l/matt-leach",
   "termIds": [
-    1951,
-    2095,
-    2213,
-    5539,
-    2555,
-    2672,
-    2752,
-    5551
+    2095
   ],
   "sentences": [
     "KEMP JUMPS ON STACEY ABRAMS' COMMENTS THAT GEORGIA IS WORST STATE IN THE COUNTRY\nAbrams acknowledged such a statement would be \"politicized\" and further explained that mental health and incarceration rates in her state could be improved significantly.",

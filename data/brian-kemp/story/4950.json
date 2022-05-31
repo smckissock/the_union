@@ -1,26 +1,18 @@
 {
   "id": 4950,
   "mediaId": 323,
-  "date": "d2022-04-25T22:30",
+  "date": "4/25/2022 12:00:00 AM",
   "headline": "The Biden White Houses Cyberwarfare Power Grab",
   "image": "https://images.wsj.net/im-530716?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/the-white-house-cyberwar-power-grab-centralized-approval-opperations-cyber-command-military-pentagon-war-ukraine-cyberattack-biden-gen-paul-nakasone-11650918438",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jacquelyn G. Schneider",
   "authorUrl": "",
   "termIds": [
-    1147,
-    2087,
-    2095,
-    4211,
-    4325,
-    3605,
-    2672,
-    2888,
-    2945
+    2095
   ],
   "sentences": [
     "As Gen. Paul Nakasone, commander of U.S. Cyber Command, recently testified before Congress, the U.S. military is deploying military members to the region to sit side by side with our partners.? Cyber Command has also crafted options for national decision makers? and is conducting operations as directed.? Yet at a pivotal time in Ukrainian cyber defense, the Biden administration is reportedly considering a proposal to take away Defense Department authorities to conduct offensive cyber operations and reinstate a centralized approval process from the White House.",

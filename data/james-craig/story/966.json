@@ -1,25 +1,18 @@
 {
   "id": 966,
   "mediaId": 163,
-  "date": "d2022-02-18T11:40",
+  "date": "2/18/2022 12:00:00 AM",
   "headline": "Governors' races in 'blue wall' states carry high stakes for voting rights",
   "image": "https://www.reuters.com/resizer/FQzvBz8RJWveKd_BepXQTtBFZ8A=/728x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UTTD6XOWRBOWBJQJX6TALX5UDE.jpg",
   "link": "https://www.reuters.com/world/us/governors-races-blue-wall-states-carry-high-stakes-voting-rights-2022-02-18/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Reuters",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "James Oliphant",
   "authorUrl": "https://www.reuters.com/authors/james-oliphant/",
   "termIds": [
-    1147,
-    1625,
-    1844,
-    2145,
-    428,
-    2791,
-    2862,
-    2972
+    1844
   ],
   "sentences": [
     "It is highly unlikely these problems altered the outcome of the 2020 election, but improved election procedures would greatly increase public confidence in the results.?\nThe nominal favorite in the Republican primary for governor, former lieutenant governor Kleefisch, recently asked the state Supreme Court to invalidate the use of ballot drop boxes.",

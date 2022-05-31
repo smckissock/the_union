@@ -1,11 +1,11 @@
 {
   "id": 6582,
   "mediaId": 323,
-  "date": "d2022-05-19T22:37",
+  "date": "5/19/2022 12:00:00 AM",
   "headline": "The Limits of Stop the Steal",
   "image": "https://images.wsj.net/im-548224?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/stop-the-steal-trump-endorsement-midterm-gop-republican-primaries-primary-oz-walker-mastriano-kemp-perdue-11652997799",
-  "sentiment": "0.612",
+  "sentiment": "0.0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,17 +13,9 @@
   "authorUrl": "https://www.wsj.com/news/author/kimberley-a-strassel",
   "termIds": [
     815,
-    1147,
-    1758,
-    1770,
     2095,
     2303,
-    3102,
-    4325,
-    2672,
-    2834,
-    2862,
-    2953
+    3102
   ],
   "sentences": [
     "The former president has been savvy with some of his endorsements, allying himself with candidates who already have high profiles (including Mehmet Oz and Herschel Walker for Senate in Pennsylvania and Georgia, respectively) or bestowing his approval at crucial times (as he did at the last minute for Mr. Mastriano, who was already leading).",

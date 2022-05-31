@@ -1,8 +1,26 @@
 [
   {
+    "id": 2298,
+    "mediaId": 237,
+    "date": "2022-00-02",
+    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; <span class='selected-term'>Alex Lasry</span>, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and Tom Nelson, current Outagamie County executive.",
+    "author": "Salena Zito",
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2390,
+    "mediaId": 238,
+    "date": "2022-00-07",
+    "sentence": "Democrats have plenty of options, including Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and State Treasurer Sarah Godlewski, who has made her appeal in rural areas a key argument for her campaign.",
+    "author": "",
+    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2440,
     "mediaId": 367,
-    "date": "d2022-01-07T00:00",
+    "date": "2022-00-07",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Outagamie County Executive Tom Nelson and <span class='selected-term'>Alex Lasry</span>, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
     "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources",
@@ -11,28 +29,10 @@
   {
     "id": 2413,
     "mediaId": 195,
-    "date": "d2022-01-12T19:37",
+    "date": "2022-00-12",
     "sentence": "An internal poll released by the campaign on Friday found that he has a 29-point lead over Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and is 30 points ahead of Wisconsin Treasurer Sarah Godlewski.",
     "author": "Mychael Schnell",
     "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2390,
-    "mediaId": 238,
-    "date": "d2022-02-07T00:00",
-    "sentence": "Democrats have plenty of options, including Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> and State Treasurer Sarah Godlewski, who has made her appeal in rural areas a key argument for her campaign.",
-    "author": "",
-    "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2298,
-    "mediaId": 237,
-    "date": "d2022-05-02T16:49",
-    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; <span class='selected-term'>Alex Lasry</span>, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and Tom Nelson, current Outagamie County executive.",
-    "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans",
     "sentiment": "0.0"
   }
 ]

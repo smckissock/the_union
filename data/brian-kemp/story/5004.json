@@ -1,23 +1,18 @@
 {
   "id": 5004,
   "mediaId": 136,
-  "date": "d2022-04-22T14:59",
+  "date": "4/22/2022 12:00:00 AM",
   "headline": "Donald Trump 2024 Run Threatened if Marjorie Taylor Greene Axed From Ballot",
   "image": "https://d.newsweek.com/en/full/2024626/trump-run-threatened-if-greene-loses-case.webp?w=790&f=c24ca1ac4b47b654f747e8b54a27e9ba",
   "link": "https://www.newsweek.com/donald-trump-2024-run-threatened-if-marjorie-taylor-greene-axed-ballot-1700102",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Xander Landen",
   "authorUrl": "https://www.newsweek.com/authors/xander-landen",
   "termIds": [
-    1147,
-    2095,
-    2203,
-    2358,
-    545,
-    2672
+    2095
   ],
   "sentences": [
     "Speaking on MSNBC on Thursday, Fein, the legal director of Free Speech For People, a nonpartisan, nonprofit legal advocacy organization that is representing the Georgia voters in the case against Greene said that if the judge overseeing the case \"fairly and impartially applies the facts and the law, then he'll agree with us that Marjorie Taylor Greene is disqualified for public office because of her aiding and facilitating the January 6 insurrection.\"",

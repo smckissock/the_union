@@ -1,26 +1,18 @@
 {
   "id": 7852,
   "mediaId": 21,
-  "date": "d2022-04-02T04:00",
+  "date": "4/2/2022 12:00:00 AM",
   "headline": "For years, Georgia GOP Senate candidate Herschel Walker claimed he'd graduated in the top 1% of his class at University of Georgia  but he never graduated at all",
   "image": "https://i.insider.com/6247bb77e22adb0018d1b99b?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/gop-senate-candidate-herschel-walker-lied-about-graduating-college-georgia-2022-4",
-  "sentiment": "-0.894",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Tangalakis-Lippert",
   "authorUrl": "https://www.businessinsider.com/author/katherine-tangalakis-lippert",
   "termIds": [
-    815,
-    1147,
-    146,
-    227,
-    428,
-    517,
-    571,
-    584,
-    2672
+    815
   ],
   "sentences": [
     "For years in radio show appearances, motivational speeches, and campaign events, Georgia GOP Senate candidate Herschel Walker said he'd graduated as valedictorian of his class at the University of Georgia.",

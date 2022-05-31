@@ -1,26 +1,18 @@
 {
   "id": 5360,
   "mediaId": 12,
-  "date": "d2022-04-01T19:00",
+  "date": "4/1/2022 12:00:00 AM",
   "headline": "Georgia Senate approves bill to limit classroom race discussions",
   "image": "https://www.ajc.com/resizer/1tJ_x5VvKj1FmQl3v0UiZv_L_oU=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/LRLOHZ2OC6CI7TYNTZFBCBNTVI.jpg",
   "link": "https://www.ajc.com/education/georgia-senate-approves-bill-to-limit-classroom-race-discussions/63H2O6BUPRH5LOAY27HCDHY4AY/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ty Tagami",
   "authorUrl": "https://www.ajc.com/staff/ty-tagami/",
   "termIds": [
-    2040,
-    2095,
-    4408,
-    232,
-    562,
-    571,
-    2671,
-    2672,
-    2945
+    2095
   ],
   "sentences": [
     "We dont want to continue to push the conversation back and make the next generation have to deal with it.?\nKemp said during his State of the State address in January that he would work with lawmakers to stop the divisive ideology? of critical race theory in schools.",

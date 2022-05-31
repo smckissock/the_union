@@ -1,25 +1,18 @@
 {
   "id": 7082,
   "mediaId": 195,
-  "date": "d2022-05-20T16:12",
+  "date": "5/20/2022 12:00:00 AM",
   "headline": "Palin to stump for Perdue in Georgia",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/03/kempbrian_perduedavid_split_getty-ap_georgia-campaign.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3495793-palin-to-stump-for-perdue-in-georgia/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lexi Lonas",
   "authorUrl": "https://thehill.com/author/lexi-lonas/",
   "termIds": [
-    1147,
-    1549,
-    1951,
-    2095,
-    4325,
-    2538,
-    2672,
-    2900
+    2095
   ],
   "sentences": [
     "David is an America First fighter with a proven record of results, and he will be an outstanding Governor of Georgia.?\nPalins endorsement comes as she is running her own campaign to replace the late Rep. Don Young (R-Alaska).",

@@ -2,7 +2,7 @@
   {
     "id": 7484,
     "mediaId": 195,
-    "date": "d2022-05-23T18:58",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Rachel Scully",
     "title": "What time do polls close in Georgia, Texas?",
@@ -11,43 +11,43 @@
   {
     "id": 7412,
     "mediaId": 233,
-    "date": "d2022-05-24T23:24",
+    "date": "2022-00-24",
     "sentence": "Trump declined to discuss the probability that David Perdue will lose the Georgia gubernatorial primary to incumbent Republican <span class='selected-term'>Brian Kemp</span>, preferring to discuss his more successful candidates during an interview Tuesday with Fox Business Network.",
     "author": "David Jackson",
     "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
     "sentiment": "-0.802"
   },
   {
-    "id": 7370,
-    "mediaId": 18,
-    "date": "d2022-05-25T02:04",
-    "sentence": "I had an inelegant delivery of a statement that I will keep making  that is <span class='selected-term'>Brian Kemp</span> is a failed governor who doesn't care about the people of Georgia, Abrams said.",
-    "author": "Associated Press",
-    "title": "Midterm updates | Nguyen in runoff in Democratic SoS primary",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7369,
-    "mediaId": 65,
-    "date": "d2022-05-25T02:28",
-    "sentence": "And on the eve of the Peach State's primary  with Trump backing Kemp challenger former Sen. David Perdue  the former president took aim at the governor one last time before voters headed to the polls\n\"<span class='selected-term'>Brian Kemp</span> is truly an embarrassment to the Republican Party because of what's taken place in your great state, Georgia,\" Trump charged during a tele-rally Monday evening on behalf of Perdue.",
-    "author": "Tyler Olson",
-    "title": "Primary elections in Georgia, Alabama, runoff in Texas",
-    "sentiment": "0.232"
-  },
-  {
     "id": 7357,
     "mediaId": 151,
-    "date": "d2022-05-25T05:48",
+    "date": "2022-00-25",
     "sentence": "If there is any cosmic political karma, <span class='selected-term'>Brian Kemp</span> deserves every bit of it, said John Watson, a former chair of the Georgia Republican Party, said, This is the payback of all paybacks.",
     "author": "",
     "title": "Trump flops in Georgia: 5 takeaways from a big primary night",
     "sentiment": "-0.208"
   },
   {
+    "id": 7369,
+    "mediaId": 65,
+    "date": "2022-00-25",
+    "sentence": "And on the eve of the Peach State's primary  with Trump backing Kemp challenger former Sen. David Perdue  the former president took aim at the governor one last time before voters headed to the polls\n\"<span class='selected-term'>Brian Kemp</span> is truly an embarrassment to the Republican Party because of what's taken place in your great state, Georgia,\" Trump charged during a tele-rally Monday evening on behalf of Perdue.",
+    "author": "Tyler Olson",
+    "title": "Primary elections in Georgia, Alabama, runoff in Texas",
+    "sentiment": "0.232"
+  },
+  {
+    "id": 7370,
+    "mediaId": 18,
+    "date": "2022-00-25",
+    "sentence": "I had an inelegant delivery of a statement that I will keep making  that is <span class='selected-term'>Brian Kemp</span> is a failed governor who doesn't care about the people of Georgia, Abrams said.",
+    "author": "Associated Press",
+    "title": "Midterm updates | Nguyen in runoff in Democratic SoS primary",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8357,
     "mediaId": 129,
-    "date": "d2022-05-25T09:15:29",
+    "date": "2022-00-25",
     "sentence": "",
     "author": "",
     "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",

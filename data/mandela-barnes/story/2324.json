@@ -1,26 +1,18 @@
 {
   "id": 2324,
   "mediaId": 239,
-  "date": "d2022-04-15T00:03:36",
+  "date": "4/15/2022 12:00:00 AM",
   "headline": "Former state Rep. Barnes running for lieutenant governor",
   "image": "https://twt-thumbs.washtimes.com/media/image/2018/01/10/lieutenant_governor_barnes_68410_c0-105-2000-1271_s885x516.jpg?ec1de0fcdaa20263ebcd88a8ee8780d6e7deac15",
   "link": "https://www.washingtontimes.com/news/2018/jan/10/former-state-rep-barnes-running-for-lieutenant-gov/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "SCOTT BAUER",
   "authorUrl": "",
   "termIds": [
-    1167,
-    1462,
-    2039,
-    428,
-    431,
-    571,
-    2793,
-    2945,
-    2972
+    2039
   ],
   "sentences": [
     "MADISON, Wis. (AP) - Former Democratic state Rep. Mandela Barnes said Wednesday in launching his campaign for lieutenant governor that he wasn't asking for voter support just because I'm young and black.?\nBut Barnes, a 31-year-old African-American from Milwaukee, said Democrats need to do a better job connecting with people of color and young voters.",

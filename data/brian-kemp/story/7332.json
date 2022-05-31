@@ -1,27 +1,19 @@
 {
   "id": 7332,
   "mediaId": 558,
-  "date": "d2022-05-24T23:30",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Trump-backed nominees lost in Georgia, but can Republicans escape the specter of Maga?",
   "image": "https://s.yimg.com/ny/api/res/1.2/IoUVwLR9j5rpUVQuXlXNig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/EC3D1HQKseGNEZSiLFwQbQ--~B/aD0wO3c9MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/theguardian_763/1959de074dcce7b828570d457aa98f41",
   "link": "https://sg.news.yahoo.com/trump-backed-nominees-lost-georgia-063028485.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "David Smith",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1758,
     2095,
-    2203,
-    2279,
-    3094,
-    4325,
-    5525,
-    428,
-    2672
+    3094
   ],
   "sentences": [
     "The former president had been waging a personal vendetta against Georgia's governor Brian Kemp and secretary of state Brad Raffensperger for failing to overturn the 2020 presidential election in his favor.",

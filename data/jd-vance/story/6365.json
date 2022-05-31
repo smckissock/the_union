@@ -1,28 +1,18 @@
 {
   "id": 6365,
   "mediaId": 120,
-  "date": "d2022-04-15T22:08",
+  "date": "4/15/2022 12:00:00 AM",
   "headline": "J.D. Vance wins Trumps endorsement after months of groveling",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-04/220415-ROB-Trump-Ohio-Knife-Fight-jg-6808ea.jpg",
   "link": "https://www.msnbc.com/the-reidout/reidout-blog/trump-endorses-jd-vance-rcna24563",
-  "sentiment": "0.765",
+  "sentiment": "0",
   "mediaOutlet": "MSNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ja'han Jones",
   "authorUrl": "https://www.msnbc.com/author/ja-jones-ncpn371241",
   "termIds": [
-    644,
-    946,
-    1147,
-    1801,
-    3103,
-    348,
-    403,
-    428,
-    539,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "Politico also said two Mandel donors pressed Trump for an endorsement at a recent campaign event for another Ohio lawmaker, but Trump reportedly said the sight of Mandel almost fighting a nearly-70-year-old man was embarrassing.?\nBefore last years attack on the U.S. Capitol, Trump encouraged his followers to fight like hell? for him.",

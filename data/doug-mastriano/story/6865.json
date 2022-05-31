@@ -1,27 +1,18 @@
 {
   "id": 6865,
   "mediaId": 323,
-  "date": "d2022-05-11T22:33",
+  "date": "5/11/2022 12:00:00 AM",
   "headline": "The Mastriano Pileup in the Pennsylvania Elections",
   "image": "https://images.wsj.net/im-542448/?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/the-doug-mastriano-pileup-in-pennsylvania-governor-election-republicans-democrats-donald-trump-11652301140",
-  "sentiment": "-0.682",
+  "sentiment": "0.0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "The Editorial Board",
   "authorUrl": "https://www.wsj.com/news/author/editorial-board",
   "termIds": [
-    1147,
-    1282,
-    1713,
-    1997,
-    3019,
-    3102,
-    146,
-    428,
-    571,
-    2862
+    3102
   ],
   "sentences": [
     "His commercial calls Mr. Mastriano one of Donald Trumps strongest supporters,? saying that he led the fight to audit the 2020 election? and wrote the heartbeat bill in Pennsylvania? to help outlaw abortion.? Mr. Mastriano doesnt have the campaign cash to bombard television viewers, so Mr. Shapiro is trying to help him get the nomination.",

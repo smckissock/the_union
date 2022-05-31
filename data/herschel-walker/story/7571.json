@@ -1,27 +1,18 @@
 {
   "id": 7571,
   "mediaId": 195,
-  "date": "d2022-05-12T13:51",
+  "date": "5/12/2022 12:00:00 AM",
   "headline": "Republicans reserve $53M in TV ads in bid to win Senate",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2021/12/warnockraphael_120721gn2_lead.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3485844-republicans-reserve-53m-in-tv-ads-in-bid-to-win-senate/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Reid Wilson",
   "authorUrl": "https://thehill.com/author/reid-wilson/",
   "termIds": [
-    678,
-    815,
-    886,
-    1136,
-    338,
-    428,
-    511,
-    571,
-    2550,
-    2834
+    815
   ],
   "sentences": [
     "The advertising dollars bring to more than $300 million the amount of money the top Republican and Democratic campaign committees and super PACs have announced they will spend this year, as parties and outside groups race to lock down less expensive advertising rates before costs soar after Labor Day.",

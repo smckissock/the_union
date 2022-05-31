@@ -1,27 +1,18 @@
 {
   "id": 5873,
   "mediaId": 19,
-  "date": "d2022-05-04T00:00",
+  "date": "5/4/2022 12:00:00 AM",
   "headline": "J.D. Vance Takes Up the Populist Torch Despised by Republican Establishment",
   "image": "https://media.breitbart.com/media/2022/05/GettyImages-1240431343-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/04/j-d-vance-takes-up-the-populist-torch-despised-by-republican-establishment/",
-  "sentiment": "-0.506",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John Binder",
   "authorUrl": "https://www.breitbart.com/author/john-binder/",
   "termIds": [
-    959,
-    1074,
-    1147,
-    1495,
-    1801,
-    2150,
-    3103,
-    3847,
-    428,
-    2945
+    3103
   ],
   "sentences": [
     "In his 1996 run, one Texas Republican declared that Buchanans opposition to free trade was a dagger aimed at the heart of everything we stand for in the world.?\nBuchanan, at the time, went after Bob Dole for having put the interests of the big banks ahead of the interests of American workers.?\nLike Perot and Buchanans campaigns, Trump drew from the recent history of working and middle class American families like the one described in Vances memoir  those left behind by the globalization of the American economy and a Left-Right immigration agenda hellbent on transforming the workforce and electorate.",

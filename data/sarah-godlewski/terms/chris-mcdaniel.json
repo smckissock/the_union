@@ -1,20 +1,20 @@
 [
   {
-    "id": 2387,
-    "mediaId": 367,
-    "date": "d2022-02-21T00:00",
-    "sentence": "State Treasurer <span class='selected-term'>Sarah Godlewski</span> said cash bail should remain in place for violent crimes or dangerous, repeat offenders.",
-    "author": "Daniel Bice",
-    "title": "Bice: U.S. Senate candidate Mandela Barnes favors eliminating cash bail nationally, aide says",
-    "sentiment": "0"
-  },
-  {
     "id": 2336,
     "mediaId": 195,
-    "date": "d2022-04-12T13:11",
+    "date": "2022-00-12",
     "sentence": "Nelson trailed at 5 percent, and Wisconsin state Treasurer <span class='selected-term'>Sarah Godlewski</span> came in at 3 percent support.",
     "author": "Julia Manchester",
     "title": "Barnes posts $1.7M first quarter number in Wisconsin Senate race",
     "sentiment": "0.0"
+  },
+  {
+    "id": 2387,
+    "mediaId": 367,
+    "date": "2022-00-21",
+    "sentence": "State Treasurer <span class='selected-term'>Sarah Godlewski</span> said cash bail should remain in place for violent crimes or dangerous, repeat offenders.",
+    "author": "Daniel Bice",
+    "title": "Bice: U.S. Senate candidate Mandela Barnes favors eliminating cash bail nationally, aide says",
+    "sentiment": "0"
   }
 ]

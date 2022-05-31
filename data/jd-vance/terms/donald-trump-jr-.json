@@ -1,242 +1,8 @@
 [
   {
-    "id": 6385,
-    "mediaId": 223,
-    "date": "d2022-04-15T12:00",
-    "sentence": "",
-    "author": "Rebecca Downs",
-    "title": "Is the Media Jumping the Gun When it Comes to Warnings on Trump's Planned Endorsement in Ohio?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6355,
-    "mediaId": 188,
-    "date": "d2022-04-16T00:00",
-    "sentence": "",
-    "author": "Samuel Mangold-Lenett",
-    "title": "JD Vance secures Donald Trump's endorsement in Ohio's crowded Republican Senate primary",
-    "sentiment": "0.883"
-  },
-  {
-    "id": 2050,
-    "mediaId": 234,
-    "date": "d2022-04-17T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers",
-    "sentiment": "-0.457"
-  },
-  {
-    "id": 6341,
-    "mediaId": 157,
-    "date": "d2022-04-17T00:00",
-    "sentence": "",
-    "author": "Tom Boggioni",
-    "title": "Trump refused to endorse Ohio's Josh Mandel because he's 'embarrassing': report",
-    "sentiment": "0"
-  },
-  {
-    "id": 6307,
-    "mediaId": 124,
-    "date": "d2022-04-18T17:58:30",
-    "sentence": "",
-    "author": "",
-    "title": "Trump Jr. to campaign with J.D. Vance in Ohio following father's endorsement",
-    "sentiment": "0"
-  },
-  {
-    "id": 6306,
-    "mediaId": 195,
-    "date": "d2022-04-18T19:12",
-    "sentence": "",
-    "author": "Mychael Schnell",
-    "title": "Trump Jr. to stump for Vance in Ohio ahead of fathers rally",
-    "sentiment": "0.852"
-  },
-  {
-    "id": 6259,
-    "mediaId": 19,
-    "date": "d2022-04-21T00:00",
-    "sentence": "",
-    "author": "Jordan Dixon-Hamilton",
-    "title": "Trump Team Slams Club for Growth for Not Following Trumps Endorsement of J.D. Vance",
-    "sentiment": "-0.546"
-  },
-  {
-    "id": 6261,
-    "mediaId": 19,
-    "date": "d2022-04-21T00:00",
-    "sentence": "",
-    "author": "Wendell HusebÃ¸",
-    "title": "Poll: J.D. Vance Takes Huge Lead in Ohios Senate Race",
-    "sentiment": "0.222"
-  },
-  {
-    "id": 6263,
-    "mediaId": 157,
-    "date": "d2022-04-21T00:00",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Club for Growth rejects Trump Jrs ultimatum as GOP civil war intensifies",
-    "sentiment": "-0.77"
-  },
-  {
-    "id": 6256,
-    "mediaId": 136,
-    "date": "d2022-04-21T03:47",
-    "sentence": "",
-    "author": "Jake Thomas",
-    "title": "Trump Jr. Praises Ex-Longtime Trump Critic J.D. Vance for Consistency",
-    "sentiment": "-0.377"
-  },
-  {
-    "id": 6240,
-    "mediaId": 136,
-    "date": "d2022-04-22T00:03",
-    "sentence": "",
-    "author": "Jake Thomas",
-    "title": "The Day After Supporting J.D. Vance in Ohio, Trump Jr. Lashes out at Mandel",
-    "sentiment": "0"
-  },
-  {
-    "id": 6234,
-    "mediaId": 558,
-    "date": "d2022-04-22T10:55",
-    "sentence": "",
-    "author": "James Oliphant",
-    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
-    "sentiment": "-0.68"
-  },
-  {
-    "id": 6232,
-    "mediaId": 238,
-    "date": "d2022-04-22T12:00",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Will Trumps base ever turn on him? Look to Ohio.",
-    "sentiment": "0"
-  },
-  {
-    "id": 6230,
-    "mediaId": 136,
-    "date": "d2022-04-22T14:41",
-    "sentence": "",
-    "author": "Zoe Strozewski",
-    "title": "Ohio Republicans Urge Trump Rally Boycott Over 'Terrible' Vance Endorsement",
-    "sentiment": "-0.497"
-  },
-  {
-    "id": 6224,
-    "mediaId": 151,
-    "date": "d2022-04-22T16:03",
-    "sentence": "",
-    "author": "",
-    "title": "Vance surge remakes Ohio Senate race",
-    "sentiment": "-0.713"
-  },
-  {
-    "id": 6221,
-    "mediaId": 163,
-    "date": "d2022-04-22T18:00",
-    "sentence": "",
-    "author": "James Oliphant",
-    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6203,
-    "mediaId": 124,
-    "date": "d2022-04-23T08:30:24",
-    "sentence": "",
-    "author": "",
-    "title": "Trump's J.D. Vance endorsement breeds more chaos in Ohio's GOP Senate primary",
-    "sentiment": "0"
-  },
-  {
-    "id": 6194,
-    "mediaId": 136,
-    "date": "d2022-04-23T16:37",
-    "sentence": "",
-    "author": "Jason Lemon",
-    "title": "Trump Ohio Rally to Inflame MAGA-World Civil War Over J.D. Vance Senate Bid",
-    "sentiment": "0"
-  },
-  {
-    "id": 6147,
-    "mediaId": 129,
-    "date": "d2022-04-26T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
-    "sentiment": "0"
-  },
-  {
-    "id": 6149,
-    "mediaId": 129,
-    "date": "d2022-04-26T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
-    "sentiment": "0"
-  },
-  {
-    "id": 6138,
-    "mediaId": 157,
-    "date": "d2022-04-27T00:00",
-    "sentence": "",
-    "author": "Timothy Evans",
-    "title": "Republican candidates left reeling after Club for Growth chief gets cast out of Trump World: report",
-    "sentiment": "-0.463"
-  },
-  {
-    "id": 6133,
-    "mediaId": 195,
-    "date": "d2022-04-27T00:24",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "Vance leads Senate GOP primary field in Ohio: poll",
-    "sentiment": "0.861"
-  },
-  {
-    "id": 6132,
-    "mediaId": 136,
-    "date": "d2022-04-27T00:35",
-    "sentence": "",
-    "author": "Jake Thomas",
-    "title": "Allies Ted Cruz, Donald Trump Endorse Different Candidates for Ohio Senate",
-    "sentiment": "0"
-  },
-  {
-    "id": 6117,
-    "mediaId": 157,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
-    "sentiment": "0"
-  },
-  {
-    "id": 6110,
-    "mediaId": 237,
-    "date": "d2022-04-28T06:00",
-    "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Midterm Memo: Power of Trump endorsement on display in Ohio",
-    "sentiment": "0"
-  },
-  {
-    "id": 6097,
-    "mediaId": 238,
-    "date": "d2022-04-28T17:32",
-    "sentence": "",
-    "author": "",
-    "title": "In once mainstream Ohio, moderates struggle against pro-Trump rivals",
-    "sentiment": "-0.225"
-  },
-  {
     "id": 6051,
     "mediaId": 43,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "J.D. Vance (R) Is Now Claiming That Pres. Biden Is \"Trying To Kill A Bunch Of MAGA Voters\"",
@@ -245,7 +11,7 @@
   {
     "id": 6053,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Don Jr. Road Show in Ohio Was No Joke",
@@ -254,7 +20,7 @@
   {
     "id": 6054,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Don Jr. Road Show in Ohio Was No Joke",
@@ -263,16 +29,25 @@
   {
     "id": 6058,
     "mediaId": 157,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "'Weak' JD Vance demoted to Don Trump Jr's 'sidekick' as primary vote looms: columnist",
     "sentiment": "-0.72"
   },
   {
+    "id": 6011,
+    "mediaId": 169,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Jon Skolnik",
+    "title": "\"JP, right? JD Mandel?\": Trump can't seem to remember who he endorsed in Ohio's GOP Senate primary",
+    "sentiment": "0.463"
+  },
+  {
     "id": 6032,
     "mediaId": 178,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Michelle Cottle",
     "title": "Donald Trump Jr. road show in Ohio was no joke",
@@ -281,61 +56,97 @@
   {
     "id": 6042,
     "mediaId": 19,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Matthew Boyle",
     "title": "Swamp Establishment, Donor Class Rush into Ohio to Try to Stop Trump-Backed J.D. Vance",
     "sentiment": "0"
   },
   {
-    "id": 6011,
-    "mediaId": 169,
-    "date": "d2022-05-02T12:07",
-    "sentence": "",
-    "author": "Jon Skolnik",
-    "title": "\"JP, right? JD Mandel?\": Trump can't seem to remember who he endorsed in Ohio's GOP Senate primary",
-    "sentiment": "0.463"
-  },
-  {
     "id": 1797,
     "mediaId": 239,
-    "date": "d2022-05-03T00:03:18",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Susan Ferrechio",
     "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement",
     "sentiment": "0.16"
   },
   {
-    "id": 5942,
-    "mediaId": 65,
-    "date": "d2022-05-03T07:38",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio GOP Senate primary wide open as voters wait until last moment to decide after bruising race",
-    "sentiment": "0"
-  },
-  {
-    "id": 5931,
-    "mediaId": 65,
-    "date": "d2022-05-03T09:51",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Ohio GOP Senate race: Voters weigh Trump support for Vance against 2016 comments critical of former president",
-    "sentiment": "0.382"
-  },
-  {
     "id": 5920,
     "mediaId": 323,
-    "date": "d2022-05-03T11:30",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "John McCormick",
     "title": "Ohio Senate Primary Tests Trump Influence With Republican Voters",
     "sentiment": "0"
   },
   {
+    "id": 5931,
+    "mediaId": 65,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Ohio GOP Senate race: Voters weigh Trump support for Vance against 2016 comments critical of former president",
+    "sentiment": "0.382"
+  },
+  {
+    "id": 5942,
+    "mediaId": 65,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "",
+    "title": "Ohio GOP Senate primary wide open as voters wait until last moment to decide after bruising race",
+    "sentiment": "0"
+  },
+  {
+    "id": 5771,
+    "mediaId": 136,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "Democrats Target Anti-Trump GOP Voters as MAGA Declares Victory in Ohio",
+    "sentiment": "0.171"
+  },
+  {
+    "id": 5772,
+    "mediaId": 238,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion The bottom line in Ohio? Trump wins.",
+    "sentiment": "-0.485"
+  },
+  {
+    "id": 5817,
+    "mediaId": 129,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee",
+    "sentiment": "0"
+  },
+  {
+    "id": 5823,
+    "mediaId": 136,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "J.D. Vance Campaign First Test of Donald Trump Jr.'s Political Influence",
+    "sentiment": "0"
+  },
+  {
+    "id": 5828,
+    "mediaId": 195,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Vance wins Ohio Senate primary, handing Trump key victory",
+    "sentiment": "0"
+  },
+  {
     "id": 5846,
     "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Eric Lutz",
     "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
@@ -344,7 +155,7 @@
   {
     "id": 5852,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Trump thought GOP candidate Josh Mandel was 'weird' -- and 'no amount of sucking up' would win his endorsement: report",
@@ -353,7 +164,7 @@
   {
     "id": 5868,
     "mediaId": 129,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "5 Takeaways From Ohios Primary Elections",
@@ -362,61 +173,16 @@
   {
     "id": 5887,
     "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Caleb Ecarma",
     "title": "J.D. Vances Victory in Ohio Is a Huge Win for Peter Thiels Political Movement",
     "sentiment": "0.67"
   },
   {
-    "id": 5828,
-    "mediaId": 195,
-    "date": "d2022-05-04T01:36",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "Vance wins Ohio Senate primary, handing Trump key victory",
-    "sentiment": "0"
-  },
-  {
-    "id": 5823,
-    "mediaId": 136,
-    "date": "d2022-05-04T02:39",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "J.D. Vance Campaign First Test of Donald Trump Jr.'s Political Influence",
-    "sentiment": "0"
-  },
-  {
-    "id": 5817,
-    "mediaId": 129,
-    "date": "d2022-05-04T02:50",
-    "sentence": "",
-    "author": "",
-    "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee",
-    "sentiment": "0"
-  },
-  {
-    "id": 5772,
-    "mediaId": 238,
-    "date": "d2022-05-04T17:21",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion The bottom line in Ohio? Trump wins.",
-    "sentiment": "-0.485"
-  },
-  {
-    "id": 5771,
-    "mediaId": 136,
-    "date": "d2022-05-04T17:31",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "Democrats Target Anti-Trump GOP Voters as MAGA Declares Victory in Ohio",
-    "sentiment": "0.171"
-  },
-  {
     "id": 5624,
     "mediaId": 43,
-    "date": "d2022-05-08T00:00",
+    "date": "2022-00-08",
     "sentence": "",
     "author": "",
     "title": "Along With Abortion, Peter Thiel's Other Endorsed Candidate Wants To Ban Birth Control",
@@ -425,7 +191,7 @@
   {
     "id": 5581,
     "mediaId": 157,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Conservatives are waging war against Trump -- by spending millions to beat his candidates",
@@ -434,19 +200,253 @@
   {
     "id": 5533,
     "mediaId": 238,
-    "date": "d2022-05-15T12:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Seung Min Kim",
     "title": "Biden plunges into the risky politics of student loans",
     "sentiment": "0"
   },
   {
+    "id": 6385,
+    "mediaId": 223,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Rebecca Downs",
+    "title": "Is the Media Jumping the Gun When it Comes to Warnings on Trump's Planned Endorsement in Ohio?",
+    "sentiment": "0"
+  },
+  {
     "id": 5520,
     "mediaId": 21,
-    "date": "d2022-05-16T14:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Ayelet Sheffey",
     "title": "Donald Trump Jr. says Biden's student-loan forgiveness plans will force workers who didn't go 'to college to get drunk for four years' to pay for 'worthless gender study degrees'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6355,
+    "mediaId": 188,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Samuel Mangold-Lenett",
+    "title": "JD Vance secures Donald Trump's endorsement in Ohio's crowded Republican Senate primary",
+    "sentiment": "0.883"
+  },
+  {
+    "id": 2050,
+    "mediaId": 234,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers",
+    "sentiment": "-0.457"
+  },
+  {
+    "id": 6341,
+    "mediaId": 157,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Tom Boggioni",
+    "title": "Trump refused to endorse Ohio's Josh Mandel because he's 'embarrassing': report",
+    "sentiment": "0"
+  },
+  {
+    "id": 6306,
+    "mediaId": 195,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Mychael Schnell",
+    "title": "Trump Jr. to stump for Vance in Ohio ahead of fathers rally",
+    "sentiment": "0.852"
+  },
+  {
+    "id": 6307,
+    "mediaId": 124,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "Trump Jr. to campaign with J.D. Vance in Ohio following father's endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 6256,
+    "mediaId": 136,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Jake Thomas",
+    "title": "Trump Jr. Praises Ex-Longtime Trump Critic J.D. Vance for Consistency",
+    "sentiment": "-0.377"
+  },
+  {
+    "id": 6259,
+    "mediaId": 19,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Jordan Dixon-Hamilton",
+    "title": "Trump Team Slams Club for Growth for Not Following Trumps Endorsement of J.D. Vance",
+    "sentiment": "-0.546"
+  },
+  {
+    "id": 6261,
+    "mediaId": 19,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Wendell HusebÃ¸",
+    "title": "Poll: J.D. Vance Takes Huge Lead in Ohios Senate Race",
+    "sentiment": "0.222"
+  },
+  {
+    "id": 6263,
+    "mediaId": 157,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Club for Growth rejects Trump Jrs ultimatum as GOP civil war intensifies",
+    "sentiment": "-0.77"
+  },
+  {
+    "id": 6221,
+    "mediaId": 163,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "James Oliphant",
+    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
+    "sentiment": "0"
+  },
+  {
+    "id": 6224,
+    "mediaId": 151,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Vance surge remakes Ohio Senate race",
+    "sentiment": "-0.713"
+  },
+  {
+    "id": 6230,
+    "mediaId": 136,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Zoe Strozewski",
+    "title": "Ohio Republicans Urge Trump Rally Boycott Over 'Terrible' Vance Endorsement",
+    "sentiment": "-0.497"
+  },
+  {
+    "id": 6232,
+    "mediaId": 238,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Will Trumps base ever turn on him? Look to Ohio.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6234,
+    "mediaId": 558,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "James Oliphant",
+    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
+    "sentiment": "-0.68"
+  },
+  {
+    "id": 6240,
+    "mediaId": 136,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Jake Thomas",
+    "title": "The Day After Supporting J.D. Vance in Ohio, Trump Jr. Lashes out at Mandel",
+    "sentiment": "0"
+  },
+  {
+    "id": 6194,
+    "mediaId": 136,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Jason Lemon",
+    "title": "Trump Ohio Rally to Inflame MAGA-World Civil War Over J.D. Vance Senate Bid",
+    "sentiment": "0"
+  },
+  {
+    "id": 6203,
+    "mediaId": 124,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "",
+    "title": "Trump's J.D. Vance endorsement breeds more chaos in Ohio's GOP Senate primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 6147,
+    "mediaId": 129,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "",
+    "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
+    "sentiment": "0"
+  },
+  {
+    "id": 6149,
+    "mediaId": 129,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "",
+    "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
+    "sentiment": "0"
+  },
+  {
+    "id": 6132,
+    "mediaId": 136,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Jake Thomas",
+    "title": "Allies Ted Cruz, Donald Trump Endorse Different Candidates for Ohio Senate",
+    "sentiment": "0"
+  },
+  {
+    "id": 6133,
+    "mediaId": 195,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Vance leads Senate GOP primary field in Ohio: poll",
+    "sentiment": "0.861"
+  },
+  {
+    "id": 6138,
+    "mediaId": 157,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Timothy Evans",
+    "title": "Republican candidates left reeling after Club for Growth chief gets cast out of Trump World: report",
+    "sentiment": "-0.463"
+  },
+  {
+    "id": 6097,
+    "mediaId": 238,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "In once mainstream Ohio, moderates struggle against pro-Trump rivals",
+    "sentiment": "-0.225"
+  },
+  {
+    "id": 6110,
+    "mediaId": 237,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Midterm Memo: Power of Trump endorsement on display in Ohio",
+    "sentiment": "0"
+  },
+  {
+    "id": 6117,
+    "mediaId": 157,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
     "sentiment": "0"
   }
 ]

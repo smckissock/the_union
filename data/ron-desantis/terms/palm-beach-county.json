@@ -1,26 +1,8 @@
 [
   {
-    "id": 4420,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "State Board of Education expected to approve new commissioner today",
-    "sentiment": "0"
-  },
-  {
-    "id": 4420,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "State Board of Education expected to approve new commissioner today",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4234,
     "mediaId": 151,
-    "date": "d2022-05-02T11:08",
+    "date": "2022-00-02",
     "sentence": " Another 2024 poll shows <span class='selected-term'>Ron DeSantis</span> in pole position if Donald Trump doesnt run,? by Florida Politics A.G. Gancarski\n  Charlie Crist says Miramar Mayor Wayne Messam certainly would be on my shortlist for lieutenant governor,? by Sun-Sentinels Anthony Man\n Behind enemy lines: Nikki Fried makes anti-Ron DeSantis case on Fox News,? by Florida Politics A.G. Gancarski\n Florida Congresswoman Val Demings makes campaign stop in Pensacola,? by WEAR-TV\n  Bryan Avila to run for state Senate District 39, leaving Miami-Dade commission race,? by Florida Politics Kelly Hayes\nMAPMAKER, MAPMAKER\nAS REDISTRICTING TURNS  Voting rights groups who had previously filed a federal lawsuit over congressional redistricting contend a new map pushed into law by Gov.",
     "author": "",
     "title": "Florida Democrats' steep climb in governor's race",
@@ -29,10 +11,28 @@
   {
     "id": 8531,
     "mediaId": 302,
-    "date": "d2022-05-28T13:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "17 hopefuls vie for Florida Supreme Court opening",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4420,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "State Board of Education expected to approve new commissioner today",
+    "sentiment": "0"
+  },
+  {
+    "id": 4420,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "State Board of Education expected to approve new commissioner today",
     "sentiment": "0.0"
   }
 ]

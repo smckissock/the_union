@@ -1,8 +1,17 @@
 [
   {
+    "id": 4144,
+    "mediaId": 129,
+    "date": "2022-00-03",
+    "sentence": "Tension between businesses and politicians may intensify\nDisneys recent battles with <span class='selected-term'>Ron DeSantis</span>, Floridas Republican governor, over a law prohibiting discussion of gender identity in some public schools cost the company its special tax privileges and good will from key Republicans.",
+    "author": "",
+    "title": "U.S. job openings hit a high point, 11.5 million, in March.",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4362,
     "mediaId": 1067,
-    "date": "d2022-04-29T19:54",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "Ryan Faughnder",
     "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
@@ -11,19 +20,10 @@
   {
     "id": 4362,
     "mediaId": 1067,
-    "date": "d2022-04-29T19:54",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "Ryan Faughnder",
     "title": "Disney PR chief out after 3 months amid DeSantis-Reedy Creek controversy",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4144,
-    "mediaId": 129,
-    "date": "d2022-05-03T09:16:31",
-    "sentence": "Tension between businesses and politicians may intensify\nDisneys recent battles with <span class='selected-term'>Ron DeSantis</span>, Floridas Republican governor, over a law prohibiting discussion of gender identity in some public schools cost the company its special tax privileges and good will from key Republicans.",
-    "author": "",
-    "title": "U.S. job openings hit a high point, 11.5 million, in March.",
     "sentiment": "0.0"
   }
 ]

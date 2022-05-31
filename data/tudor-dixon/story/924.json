@@ -1,11 +1,11 @@
 {
   "id": 924,
   "mediaId": 19,
-  "date": "d2022-04-01T00:00",
+  "date": "4/1/2022 12:00:00 AM",
   "headline": "Poll: Former Detroit Police Chief James Craig Holds Double-Digit Lead in Michigan Governor's Primary",
   "image": "https://media.breitbart.com/media/2021/08/AP_20107742010993-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/01/poll-former-detroit-police-chief-james-craig-holds-double-digit-lead-in-michigan-governors-primary/",
-  "sentiment": "0.472",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,10 @@
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
     651,
-    1228,
     1844,
     2002,
     2298,
-    3075,
-    152,
-    2748,
-    2791,
-    2958
+    3075
   ],
   "sentences": [
     "Cook noted at the time that Craig looks like an early favorite.?\nWhile former President Donald Trump has not weighed in on the Republican primary race at this stage, the polling results come one day ahead of a rally Trump is planning to hold Saturday night in Washington Township, Michigan, which will feature several candidates from the state that he has already endorsed.",

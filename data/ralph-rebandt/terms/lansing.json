@@ -1,17 +1,8 @@
 [
   {
-    "id": 1006,
-    "mediaId": 261,
-    "date": "d2022-01-27T19:49",
-    "sentence": "Mike Brown; Kent County businesswoman Donna Brandenburg; Oakland County pastor <span class='selected-term'>Ralph Rebandt</span>; Ottawa County real estate agent Ryan Kelley; Livingston County evangelist and substitute teacher Bob Scott; Lansing businessman Evan Space; and Grand Rapids entrepreneur and U.S. Army veteran Austin Chenge.",
-    "author": "Paul Egan",
-    "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor",
-    "sentiment": "0.0"
-  },
-  {
     "id": 899,
     "mediaId": 261,
-    "date": "d2022-04-19T18:39",
+    "date": "2022-00-19",
     "sentence": "Mike Brown, of Stevensville, who submitted 21,837 signatures last Tuesday;\nNorton Shores businesswoman Tudor Dixon, who submitted 29,735 signatures Tuesday;\nOakland County \"quality guru\" and businessman Perry Johnson, who submitted close to 23,000 signatures Tuesday;\nOttawa County real estate agent Ryan Kelley, who filed 20,100 signatures last Wednesday;\nGrand Haven financial adviser Michael Markey, who submitted 21,862 signatures March 18;\nFarmington Hills pastor <span class='selected-term'>Ralph Rebandt</span>, who turned in 16,342 signatures last Tuesday;\nBloomfield Hills businessman Kevin Rinke, who filed 21,000 signatures on Monday, and\nKalamazoo chiropractor Garrett Soldano, who was the first to turn in his petition, when he submitted 20,200 signatures Jan. 19.",
     "author": "Paul Egan",
     "title": "Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says",
@@ -20,10 +11,19 @@
   {
     "id": 7300,
     "mediaId": 261,
-    "date": "d2022-05-24T02:09",
+    "date": "2022-00-24",
     "sentence": "Also on the ballot, and suddenly in much stronger positions, are:Ottawa County real estate agent Ryan Kelley; Farmington Hills pastor <span class='selected-term'>Ralph Rebandt</span>; Bloomfield Hills businessman Kevin Rinke, and Kalamazoo chiropractor Garrett Soldano.",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 1006,
+    "mediaId": 261,
+    "date": "2022-00-27",
+    "sentence": "Mike Brown; Kent County businesswoman Donna Brandenburg; Oakland County pastor <span class='selected-term'>Ralph Rebandt</span>; Ottawa County real estate agent Ryan Kelley; Livingston County evangelist and substitute teacher Bob Scott; Lansing businessman Evan Space; and Grand Rapids entrepreneur and U.S. Army veteran Austin Chenge.",
+    "author": "Paul Egan",
+    "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor",
     "sentiment": "0.0"
   }
 ]

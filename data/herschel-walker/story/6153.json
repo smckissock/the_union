@@ -1,27 +1,18 @@
 {
   "id": 6153,
   "mediaId": 187,
-  "date": "d2022-04-25T14:18",
+  "date": "4/25/2022 12:00:00 AM",
   "headline": "Mitch McConnells Nightmare Scenario",
   "image": "https://cdn.theatlantic.com/thumbor/p-Hm25Nog_vXg8ldvYuzbXmQUZM=/0x0:2500x1406/1952x1098/media/img/mt/2022/04/GettyImages_1238570666/original.jpg",
   "link": "https://www.theatlantic.com/politics/archive/2022/04/republicans-senate-midterm-elections/629657/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "The Atlantic",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Russell Berman",
   "authorUrl": "https://www.theatlantic.com/author/russell-berman/",
   "termIds": [
-    815,
-    1147,
-    1414,
-    1606,
-    1765,
-    2087,
-    2342,
-    428,
-    2550,
-    2972
+    815
   ],
   "sentences": [
     "The possibility of a sizable Republican majority has even larger implications for a close 2024 election, when Trump could again be on the ballot and might try to pressure his allies in Congress to overturn a narrow defeat, as he did unsuccessfully in 2020. It would be a disaster,? Martha McKenna, a Democratic strategist who spent several years at the DSCC, told me.",

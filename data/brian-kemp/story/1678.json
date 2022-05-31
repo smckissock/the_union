@@ -1,26 +1,18 @@
 {
   "id": 1678,
   "mediaId": 1164,
-  "date": "d2022-01-05T00:00",
+  "date": "1/5/2022 12:00:00 AM",
   "headline": "In divisive primary fight, Georgia Gov. Brian Kemp wants to expand gun rights",
   "image": "https://cdnph.upi.com/svc/sv/upi/5801641394224/2022/1/29f481b5288a2c9ba81b92ab8e363ed6/In-divisive-primary-fight-Georgia-Gov-Brian-Kemp-wants-to-expand-gun-rights.jpg",
   "link": "https://www.upi.com/Top_News/US/2022/01/05/Brian-Kemp-gun-rights-Georgia-David-Perdue-Stacy-Abrams/5801641394224/",
-  "sentiment": "-0.426",
+  "sentiment": "0.0",
   "mediaOutlet": "UPI",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Clyde Hughes",
   "authorUrl": "https://www.upi.com/author/Clyde-Hughes/",
   "termIds": [
-    1951,
-    2095,
-    2203,
-    4325,
-    146,
-    428,
-    501,
-    2672,
-    2907
+    2095
   ],
   "sentences": [
     "Trump infamously lashed out at Kemp and Georgia's GOP Secretary of State Brad Raffensperger a year ago when they refused to acquiesce to his demands to overturn the state's election results for then-Democratic nominee Joe Biden.",

@@ -1,26 +1,44 @@
 [
   {
-    "id": 2443,
-    "mediaId": 65,
-    "date": "d2022-01-05T16:00",
-    "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, and Outagamie County Executive <span class='selected-term'>Tom Nelson</span> also have highlighted their push to scrap the filibuster.",
-    "author": "Paul Steinhauser",
-    "title": "Democratic Senate candidates put changing the filibuster front and center",
+    "id": 2298,
+    "mediaId": 237,
+    "date": "2022-00-02",
+    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; Alex Lasry, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and <span class='selected-term'>Tom Nelson</span>, current Outagamie County executive.",
+    "author": "Salena Zito",
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2340,
+    "mediaId": 195,
+    "date": "2022-00-04",
+    "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> has said China is eating our lunch,? when it comes to trade, while Milwaukee Bucks basketball team executive Alex Lasry vowed to stand up to China? in a TV ad.",
+    "author": "Julia Manchester",
+    "title": "Midwest Democrats go all in on tough-on-China approach",
     "sentiment": "0.0"
   },
   {
     "id": 2392,
     "mediaId": 21,
-    "date": "d2022-02-04T18:00",
+    "date": "2022-00-04",
     "sentence": "Out in Outagamie County, Wisconsin, two flights and a lengthy Lyft ride from Capitol Hill, US Senate candidate <span class='selected-term'>Tom Nelson</span> follows events in Washington with disbelief as leaders of his own Democratic Party resist banning members of Congress from buying and selling stock.",
     "author": "Dave Levinthal",
     "title": "Democratic candidates blast Biden and Pelosi for not pushing Congress to pass a stock trade ban for lawmakers: 'Get in the ring!'",
     "sentiment": "-0.827"
   },
   {
+    "id": 2443,
+    "mediaId": 65,
+    "date": "2022-00-05",
+    "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, and Outagamie County Executive <span class='selected-term'>Tom Nelson</span> also have highlighted their push to scrap the filibuster.",
+    "author": "Paul Steinhauser",
+    "title": "Democratic Senate candidates put changing the filibuster front and center",
+    "sentiment": "0.0"
+  },
+  {
     "id": 1122,
     "mediaId": 43,
-    "date": "d2022-03-24T00:00",
+    "date": "2022-00-24",
     "sentence": "Mandela Barnes' new internal from Impact Research (formerly known as Anzalone Liszt Grove or ALG) gives him a 38-17 lead over Milwaukee Bucks executive Alex Lasry in the August Democratic primary, with state Treasurer Sarah Godlewski and Outagamie County Executive <span class='selected-term'>Tom Nelson</span> at 9% and 8%, respectively.",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 3/29",
@@ -29,28 +47,10 @@
   {
     "id": 2349,
     "mediaId": 367,
-    "date": "d2022-03-24T00:00",
+    "date": "2022-00-24",
     "sentence": "In many ways, Barnes, Milwaukee Bucks executive Alex Lasry, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> and state Treasurer Sarah Godlewski are following the political path Baldwin blazed.",
     "author": "Bill Glauber",
     "title": "Democratic U.S. Senate contenders in Wisconsin focus on manufacturing",
     "sentiment": "0.465"
-  },
-  {
-    "id": 2340,
-    "mediaId": 195,
-    "date": "d2022-04-04T10:00",
-    "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> has said China is eating our lunch,? when it comes to trade, while Milwaukee Bucks basketball team executive Alex Lasry vowed to stand up to China? in a TV ad.",
-    "author": "Julia Manchester",
-    "title": "Midwest Democrats go all in on tough-on-China approach",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2298,
-    "mediaId": 237,
-    "date": "d2022-05-02T16:49",
-    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; Alex Lasry, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and <span class='selected-term'>Tom Nelson</span>, current Outagamie County executive.",
-    "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans",
-    "sentiment": "0.0"
   }
 ]

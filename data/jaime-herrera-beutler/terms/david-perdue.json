@@ -1,20 +1,20 @@
 [
   {
-    "id": 1725,
-    "mediaId": 1576,
-    "date": "d2022-05-06T00:00",
-    "sentence": "We need to move on to solving problems for citizens,? said Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, the Republican from southwest Washington state facing a primary challenge this year from Kent.",
-    "author": "",
-    "title": "GOP works to get out the vote after calling elections rigged",
-    "sentiment": "-0.317"
-  },
-  {
     "id": 1715,
     "mediaId": 98,
-    "date": "d2022-05-06T14:08",
+    "date": "2022-00-06",
     "sentence": "We need to move on to solving problems for citizens,? said Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, the Republican facing a primary challenge from Kent.",
     "author": "DAVID KLEPPER and JEFF AMY",
     "title": "GOP works to get out the vote after calling elections rigged",
     "sentiment": "0"
+  },
+  {
+    "id": 1725,
+    "mediaId": 1576,
+    "date": "2022-00-06",
+    "sentence": "We need to move on to solving problems for citizens,? said Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, the Republican from southwest Washington state facing a primary challenge this year from Kent.",
+    "author": "",
+    "title": "GOP works to get out the vote after calling elections rigged",
+    "sentiment": "-0.317"
   }
 ]

@@ -1,26 +1,8 @@
 [
   {
-    "id": 4273,
-    "mediaId": 19,
-    "date": "d2022-05-02T00:00",
-    "sentence": "",
-    "author": "David Ng",
-    "title": "CEOs Now Fear Caving to Woke Employees After Florida Pushes Back Against Disney",
-    "sentiment": "0"
-  },
-  {
-    "id": 4273,
-    "mediaId": 19,
-    "date": "d2022-05-02T00:00",
-    "sentence": "",
-    "author": "David Ng",
-    "title": "CEOs Now Fear Caving to Woke Employees After Florida Pushes Back Against Disney",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4221,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
+    "date": "2022-00-02",
     "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
     "author": "",
     "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
@@ -29,7 +11,7 @@
   {
     "id": 4221,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
+    "date": "2022-00-02",
     "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
     "author": "",
     "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
@@ -38,7 +20,7 @@
   {
     "id": 4222,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
+    "date": "2022-00-02",
     "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
     "author": "",
     "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
@@ -47,10 +29,28 @@
   {
     "id": 4222,
     "mediaId": 558,
-    "date": "d2022-05-02T14:01",
+    "date": "2022-00-02",
     "sentence": "Harvard Business School Senior Fellow Bill George examines the financial outcomes of Florida Governor <span class='selected-term'>Ron DeSantis</span> revoking Disney's special tax status and Disney's values.",
     "author": "",
     "title": "Disney vs. DeSantis: Florida needs Disney World, Harvard professor says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4273,
+    "mediaId": 19,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "David Ng",
+    "title": "CEOs Now Fear Caving to Woke Employees After Florida Pushes Back Against Disney",
+    "sentiment": "0"
+  },
+  {
+    "id": 4273,
+    "mediaId": 19,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "David Ng",
+    "title": "CEOs Now Fear Caving to Woke Employees After Florida Pushes Back Against Disney",
     "sentiment": "0.0"
   }
 ]

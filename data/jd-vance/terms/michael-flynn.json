@@ -1,62 +1,89 @@
 [
   {
+    "id": 6056,
+    "mediaId": 157,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Sarah K. Burris",
+    "title": "Trump accidentally endorses JD Vance opponent Josh Mandel after bragging about his dementia test scores",
+    "sentiment": "-0.226"
+  },
+  {
+    "id": 5994,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Olafimihan Oshin",
+    "title": "Mandel confident of win in Ohio GOP Senate primary without Trump endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 6000,
+    "mediaId": 65,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Amy Nelson",
+    "title": "Josh Mandel 'confident' he'll win Ohio GOP Senate primary without Trump's support",
+    "sentiment": "0"
+  },
+  {
     "id": 6266,
     "mediaId": 157,
-    "date": "d2022-04-21T00:00",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "Matthew Chapman",
     "title": "Starbucks' Howard Schultz suffers 'hugely embarrassing blow' after his iconic Seattle roastery unionizes",
     "sentiment": "0"
   },
   {
-    "id": 6242,
-    "mediaId": 157,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "Sky Palma",
-    "title": "Michael Flynn says Trump made a 'huge mistake' endorsing J.D. Vance: 'People around him are advising him poorly'",
-    "sentiment": "-0.872"
-  },
-  {
-    "id": 6234,
-    "mediaId": 558,
-    "date": "d2022-04-22T10:55",
+    "id": 6221,
+    "mediaId": 163,
+    "date": "2022-00-22",
     "sentence": "",
     "author": "James Oliphant",
     "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
-    "sentiment": "-0.68"
-  },
-  {
-    "id": 6224,
-    "mediaId": 151,
-    "date": "d2022-04-22T16:03",
-    "sentence": "",
-    "author": "",
-    "title": "Vance surge remakes Ohio Senate race",
-    "sentiment": "-0.713"
+    "sentiment": "0"
   },
   {
     "id": 6223,
     "mediaId": 165,
-    "date": "d2022-04-22T16:20",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Jack Crosbie",
     "title": "After Losing Trumps Endorsement, Ohio Republican Calls in Mike Flynn to Dial Up the MAGA Insanity",
     "sentiment": "0"
   },
   {
-    "id": 6221,
-    "mediaId": 163,
-    "date": "d2022-04-22T18:00",
+    "id": 6224,
+    "mediaId": 151,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Vance surge remakes Ohio Senate race",
+    "sentiment": "-0.713"
+  },
+  {
+    "id": 6234,
+    "mediaId": 558,
+    "date": "2022-00-22",
     "sentence": "",
     "author": "James Oliphant",
     "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
-    "sentiment": "0"
+    "sentiment": "-0.68"
+  },
+  {
+    "id": 6242,
+    "mediaId": 157,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Sky Palma",
+    "title": "Michael Flynn says Trump made a 'huge mistake' endorsing J.D. Vance: 'People around him are advising him poorly'",
+    "sentiment": "-0.872"
   },
   {
     "id": 6194,
     "mediaId": 136,
-    "date": "d2022-04-23T16:37",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Jason Lemon",
     "title": "Trump Ohio Rally to Inflame MAGA-World Civil War Over J.D. Vance Senate Bid",
@@ -65,7 +92,7 @@
   {
     "id": 6148,
     "mediaId": 43,
-    "date": "d2022-04-26T00:00",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "David Neiwert\nDaily Kos Staff",
     "title": "Trumpists coalesce at megachurch rallies to create their own brand of",
@@ -74,37 +101,10 @@
   {
     "id": 6085,
     "mediaId": 151,
-    "date": "d2022-04-29T08:31",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Republican who refuses to bend the knee to Trump surges in Ohio Senate race",
-    "sentiment": "0"
-  },
-  {
-    "id": 6056,
-    "mediaId": 157,
-    "date": "d2022-05-01T00:00",
-    "sentence": "",
-    "author": "Sarah K. Burris",
-    "title": "Trump accidentally endorses JD Vance opponent Josh Mandel after bragging about his dementia test scores",
-    "sentiment": "-0.226"
-  },
-  {
-    "id": 6000,
-    "mediaId": 65,
-    "date": "d2022-05-02T16:44",
-    "sentence": "",
-    "author": "Amy Nelson",
-    "title": "Josh Mandel 'confident' he'll win Ohio GOP Senate primary without Trump's support",
-    "sentiment": "0"
-  },
-  {
-    "id": 5994,
-    "mediaId": 195,
-    "date": "d2022-05-02T18:58",
-    "sentence": "",
-    "author": "Olafimihan Oshin",
-    "title": "Mandel confident of win in Ohio GOP Senate primary without Trump endorsement",
     "sentiment": "0"
   }
 ]

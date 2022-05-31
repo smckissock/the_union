@@ -1,20 +1,20 @@
 [
   {
-    "id": 6713,
-    "mediaId": 157,
-    "date": "d2022-05-18T00:00",
-    "sentence": "It is true that Republican strategists are sweating the winner of the GOP gubernatorial primary, <span class='selected-term'>Doug Mastriano</span>, who tends to be more loudmouthed about his insurrectionist views than other Republican candidates.",
-    "author": "Amanda Marcotte",
-    "title": "GOP drops the flash but keeps the fascism",
-    "sentiment": "-0.67"
-  },
-  {
     "id": 6637,
     "mediaId": 169,
-    "date": "d2022-05-18T13:45",
+    "date": "2022-00-18",
     "sentence": "It is true that Republican strategists are sweating the winner of the GOP gubernatorial primary, <span class='selected-term'>Doug Mastriano</span>, who tends to be more loudmouthed about his insurrectionist views than other Republican candidates.",
     "author": "Amanda Marcotte",
     "title": "Less Madison Cawthorn, more dumpy fascists in bad suits: Republicans embrace covert Big Liars",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6713,
+    "mediaId": 157,
+    "date": "2022-00-18",
+    "sentence": "It is true that Republican strategists are sweating the winner of the GOP gubernatorial primary, <span class='selected-term'>Doug Mastriano</span>, who tends to be more loudmouthed about his insurrectionist views than other Republican candidates.",
+    "author": "Amanda Marcotte",
+    "title": "GOP drops the flash but keeps the fascism",
     "sentiment": "0.0"
   }
 ]

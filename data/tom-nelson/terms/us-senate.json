@@ -1,35 +1,8 @@
 [
   {
-    "id": 2387,
-    "mediaId": 367,
-    "date": "d2022-02-21T00:00",
-    "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> staked out a similar position.",
-    "author": "Daniel Bice",
-    "title": "Bice: U.S. Senate candidate Mandela Barnes favors eliminating cash bail nationally, aide says",
-    "sentiment": "0"
-  },
-  {
-    "id": 2386,
-    "mediaId": 367,
-    "date": "d2022-02-23T00:00",
-    "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> and Alex Lasry, on leave from his executive job with the Milwaukee Bucks.",
-    "author": "Bill Glauber",
-    "title": "Gillian Battino expected to leave Democratic U.S. Senate race and announce run for state treasurer",
-    "sentiment": "0"
-  },
-  {
-    "id": 2385,
-    "mediaId": 367,
-    "date": "d2022-02-24T00:00",
-    "sentence": "But this week, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> turned his sights on the perceived Democratic front runner, Lt. Gov.",
-    "author": "Bill Glauber",
-    "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
-    "sentiment": "-0.889"
-  },
-  {
     "id": 2371,
     "mediaId": 195,
-    "date": "d2022-03-09T15:43",
+    "date": "2022-00-09",
     "sentence": "Mandela Barnes (D) leading that primary field with 23 percent support, while Milwaukee Bucks executive Alex Lasry trailed at 13 percent support and Outagamie County Executive <span class='selected-term'>Tom Nelson</span> garnered five percent support.",
     "author": "Julia Manchester",
     "title": "Johnson touts work with Milwaukee faith initiative in new ads",
@@ -38,10 +11,37 @@
   {
     "id": 2368,
     "mediaId": 367,
-    "date": "d2022-03-14T00:00",
+    "date": "2022-00-14",
     "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> registered 5% support in the poll, with Godlewski at 3%.",
     "author": "Bill Glauber",
     "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson",
     "sentiment": "0.0"
+  },
+  {
+    "id": 2387,
+    "mediaId": 367,
+    "date": "2022-00-21",
+    "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> staked out a similar position.",
+    "author": "Daniel Bice",
+    "title": "Bice: U.S. Senate candidate Mandela Barnes favors eliminating cash bail nationally, aide says",
+    "sentiment": "0"
+  },
+  {
+    "id": 2386,
+    "mediaId": 367,
+    "date": "2022-00-23",
+    "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> and Alex Lasry, on leave from his executive job with the Milwaukee Bucks.",
+    "author": "Bill Glauber",
+    "title": "Gillian Battino expected to leave Democratic U.S. Senate race and announce run for state treasurer",
+    "sentiment": "0"
+  },
+  {
+    "id": 2385,
+    "mediaId": 367,
+    "date": "2022-00-24",
+    "sentence": "But this week, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> turned his sights on the perceived Democratic front runner, Lt. Gov.",
+    "author": "Bill Glauber",
+    "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
+    "sentiment": "-0.889"
   }
 ]

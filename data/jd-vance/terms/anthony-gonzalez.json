@@ -1,53 +1,53 @@
 [
   {
-    "id": 6389,
-    "mediaId": 239,
-    "date": "d2022-04-15T00:03:36",
-    "sentence": "",
-    "author": "Joseph Clark",
-    "title": "Trump endorses J.D. Vance in Ohio Senate race",
-    "sentiment": "0.437"
-  },
-  {
-    "id": 6366,
-    "mediaId": 151,
-    "date": "d2022-04-15T22:06",
-    "sentence": "",
-    "author": "",
-    "title": "Trump gives Vance coveted endorsement in Ohio Senate race",
-    "sentiment": "0.769"
-  },
-  {
-    "id": 5981,
-    "mediaId": 19,
-    "date": "d2022-05-03T00:00",
-    "sentence": "",
-    "author": "Nick Gilbertson",
-    "title": "Clean Sweep: All 22 Trump-Backed Candidates Win Primaries in Ohio, Indiana",
-    "sentiment": "0.966"
-  },
-  {
     "id": 1797,
     "mediaId": 239,
-    "date": "d2022-05-03T00:03:18",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Susan Ferrechio",
     "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement",
     "sentiment": "0.16"
   },
   {
+    "id": 5981,
+    "mediaId": 19,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Nick Gilbertson",
+    "title": "Clean Sweep: All 22 Trump-Backed Candidates Win Primaries in Ohio, Indiana",
+    "sentiment": "0.966"
+  },
+  {
     "id": 5780,
     "mediaId": 238,
-    "date": "d2022-05-04T15:23",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "4 takeaways from the Ohio primaries",
     "sentiment": "0"
   },
   {
+    "id": 6366,
+    "mediaId": 151,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "",
+    "title": "Trump gives Vance coveted endorsement in Ohio Senate race",
+    "sentiment": "0.769"
+  },
+  {
+    "id": 6389,
+    "mediaId": 239,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Joseph Clark",
+    "title": "Trump endorses J.D. Vance in Ohio Senate race",
+    "sentiment": "0.437"
+  },
+  {
     "id": 5469,
     "mediaId": 129,
-    "date": "d2022-05-18T13:44",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Heres where Trumps endorsement record stands so far.",

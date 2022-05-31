@@ -1,25 +1,19 @@
 {
   "id": 8417,
   "mediaId": 178,
-  "date": "d2022-05-29T00:00",
+  "date": "5/29/2022 12:00:00 AM",
   "headline": "Christian nationalism on the rise in some GOP campaigns",
   "image": "https://chorus.stimg.co/23596151/merlin_67569375.jpg?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=1",
   "link": "https://www.startribune.com/christian-nationalism-on-the-rise-in-some-gop-campaigns/600177492/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Peter Smith and Deepa Bharath Associated Press",
   "authorUrl": "",
   "termIds": [
-    1106,
-    2087,
     2303,
-    3102,
-    428,
-    577,
-    2862,
-    2868
+    3102
   ],
   "sentences": [
     "Mastriano \"is a unique case where he really does in his speeches highlight this apocalyptic idea\" where his supporters and causes are on God's side, said Andrew Whitehead, sociology professor at Indiana University-Purdue University Indianapolis and co-author of \"Taking America Back for God: Christian Nationalism in the United States.\"",

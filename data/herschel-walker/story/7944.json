@@ -1,26 +1,18 @@
 {
   "id": 7944,
   "mediaId": 21,
-  "date": "d2022-03-24T06:25:14",
+  "date": "3/24/2022 12:00:00 AM",
   "headline": "Biden asked Dr. Oz and Herschel Walker to resign from a presidential council or be terminated",
   "image": "https://i.insider.com/61d6127d95f1b90018376d86?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/biden-asked-dr-oz-herschel-walker-resign-from-presidential-council-2022-3",
-  "sentiment": "-0.306",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lauren Frias",
   "authorUrl": "https://www.businessinsider.com/author/lauren-frias",
   "termIds": [
-    815,
-    1147,
-    1653,
-    2087,
-    2243,
-    5908,
-    428,
-    2672,
-    2826
+    815
   ],
   "sentences": [
     "President Joe Biden's administration sent letters to television personality Dr. Mehmet Oz and former NFL player Herschel Walker Wednesday, asking them to resign from the President's Council on Sports, Fitness & Nutrition or be terminated by the end of the day.",

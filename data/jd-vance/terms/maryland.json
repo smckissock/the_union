@@ -1,35 +1,8 @@
 [
   {
-    "id": 8175,
-    "mediaId": 169,
-    "date": "d2022-02-09T14:54",
-    "sentence": "",
-    "author": "Igor Derysh",
-    "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
-    "sentiment": "0"
-  },
-  {
-    "id": 6262,
-    "mediaId": 43,
-    "date": "d2022-04-21T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Daily Kos Elections Live Digest: 4/21",
-    "sentiment": "0"
-  },
-  {
-    "id": 6101,
-    "mediaId": 237,
-    "date": "d2022-04-28T16:06",
-    "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
-    "sentiment": "0"
-  },
-  {
     "id": 5693,
     "mediaId": 25,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Adam Brewster, Jacob Rosen",
     "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024",
@@ -38,37 +11,64 @@
   {
     "id": 5631,
     "mediaId": 151,
-    "date": "d2022-05-07T14:51",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Ohio was a test case for 2024. The GOP establishment looks screwed.",
     "sentiment": "0"
   },
   {
-    "id": 5580,
-    "mediaId": 195,
-    "date": "d2022-05-11T01:14",
+    "id": 8175,
+    "mediaId": 169,
+    "date": "2022-00-09",
     "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "Mooney wins West Virginia primary, handing Trump another win",
+    "author": "Igor Derysh",
+    "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
     "sentiment": "0"
   },
   {
     "id": 5572,
     "mediaId": 129,
-    "date": "d2022-05-11T13:27:59",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
     "sentiment": "0"
   },
   {
+    "id": 5580,
+    "mediaId": 195,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Mooney wins West Virginia primary, handing Trump another win",
+    "sentiment": "0"
+  },
+  {
+    "id": 6262,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "",
+    "title": "Daily Kos Elections Live Digest: 4/21",
+    "sentiment": "0"
+  },
+  {
     "id": 8509,
     "mediaId": 238,
-    "date": "d2022-05-27T11:10",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Felicia Sonmez",
     "title": "Post Politics Now Biden to address Naval Academy graduates; Trump to speak at NRA convention",
+    "sentiment": "0"
+  },
+  {
+    "id": 6101,
+    "mediaId": 237,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
     "sentiment": "0"
   }
 ]

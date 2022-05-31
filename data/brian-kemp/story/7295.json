@@ -1,27 +1,19 @@
 {
   "id": 7295,
   "mediaId": 195,
-  "date": "d2022-05-24T10:40",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "The Hills Morning Report  Will GOP primaries offer clues about 2024?",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/MR_georgiaelectionsticker_071616_ap.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/morning-report/3499151-the-hills-morning-report-will-gop-primaries-offer-clues-about-2024/",
-  "sentiment": "-0.264",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Alexis Simendinger",
   "authorUrl": "https://thehill.com/author/alexis-simendinger/",
   "termIds": [
-    1147,
-    1879,
-    1951,
     2095,
-    2303,
-    2475,
-    428,
-    2537,
-    2555,
-    2672
+    2303
   ],
   "sentences": [
     "Im here because Brian Kemp is the only candidate in tomorrows primary who has already defeated Stacey Abrams, whether she knows it or not, Pence told rally attendees, referring to Abramss refusal to accept the election results of their gubernatorial election four years ago (The Atlanta Journal-Constitution).",

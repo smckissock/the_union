@@ -1,20 +1,18 @@
 {
   "id": 5241,
   "mediaId": 1576,
-  "date": "d2022-04-09T00:00",
+  "date": "4/9/2022 12:00:00 AM",
   "headline": "Georgians now feeling some relief at the pump after gas tax suspension",
   "image": "https://www.wabe.org/app/uploads/news/npr-stories/gettyimages-1239236580-e6ffb8ed450f4fad5405fcfc28d4e5e70791704f-336x189.jpg",
   "link": "https://www.wabe.org/georgians-now-feeling-some-relief-at-the-pump-after-gas-tax-suspension/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095,
-    21,
-    2672
+    2095
   ],
   "sentences": [
     "On Fridays edition of Closer Look,? Frank Macchiarola, American Petroleum Institutes senior vice president of Policy, Economics, and Regulatory Affairs, discusses the current state of gas prices.",

@@ -1,20 +1,20 @@
 [
   {
-    "id": 6994,
-    "mediaId": 19,
-    "date": "d2022-03-12T00:00",
-    "sentence": "Recent polls show the Republican primary race as very much a two-man battle between himself and State Sen. <span class='selected-term'>Doug Mastriano</span>.",
-    "author": "Hannah Bleau",
-    "title": "Exclusive  Gubernatorial Candidate Lou Barletta: Illegal Immigration Ends When Im Governor of Pennsylvania",
-    "sentiment": "0"
-  },
-  {
     "id": 6863,
     "mediaId": 19,
-    "date": "d2022-05-12T00:00",
+    "date": "2022-00-12",
     "sentence": "Instead, Shapiro has signaled he prefers to go up against <span class='selected-term'>Doug Mastriano</span>, the Pennsylvania state senator.",
     "author": "John Binder",
     "title": "Republican Heavy Hitters Line Up to Back Lou Barletta in Pennsylvania",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6994,
+    "mediaId": 19,
+    "date": "2022-00-12",
+    "sentence": "Recent polls show the Republican primary race as very much a two-man battle between himself and State Sen. <span class='selected-term'>Doug Mastriano</span>.",
+    "author": "Hannah Bleau",
+    "title": "Exclusive  Gubernatorial Candidate Lou Barletta: Illegal Immigration Ends When Im Governor of Pennsylvania",
     "sentiment": "0.0"
   }
 ]

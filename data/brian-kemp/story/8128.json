@@ -1,11 +1,11 @@
 {
   "id": 8128,
   "mediaId": 12,
-  "date": "d2022-02-18T11:00",
+  "date": "2/18/2022 12:00:00 AM",
   "headline": "Politically Georgia: David Perdue calls in a favor from Donald Trump",
   "image": "https://www.ajc.com/resizer/wFdWHm2eRFdgmB7JKxJtOqxE3zw=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/B2LMWAIEH5HAFM2FXTWT3LZFY4.jpeg",
   "link": "https://www.ajc.com/politics/politically-georgia-david-perdue-calls-in-a-favor-from-donald-trump/CCQJ4KACNNEZNNQJMHOAKP52QY/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,12 +13,7 @@
   "authorUrl": "https://www.ajc.com/staff/patricia-murphy/",
   "termIds": [
     815,
-    1011,
-    1147,
-    2095,
-    4325,
-    428,
-    2672
+    2095
   ],
   "sentences": [
     "Brian Kemp is leveraging his office to strengthen his conservative credentials, Herschel Walker is ignoring his Republican rivals in the U.S. Senate race and tempers are flaring under the Gold Dome.",

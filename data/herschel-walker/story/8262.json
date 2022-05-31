@@ -1,27 +1,18 @@
 {
   "id": 8262,
   "mediaId": 12,
-  "date": "d2022-01-20T19:00",
+  "date": "1/20/2022 12:00:00 AM",
   "headline": "Walker has limited public campaign stops, but hes profited from private events",
   "image": "https://www.ajc.com/resizer/GYr7trCn0Gc3BdMhowJcuQMOE48=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/CNDBG6KKPWRDFMPDIRAOXPFRI4.jpg",
   "link": "https://www.ajc.com/politics/walker-has-limited-public-campaign-stops-but-hes-profited-from-private-events/RQTJ5Y462FGGJOY527JZMNQPZI/",
-  "sentiment": "0.21",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Bluestein",
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
-    815,
-    1147,
-    1158,
-    1312,
-    2419,
-    5811,
-    146,
-    147,
-    428,
-    501
+    815
   ],
   "sentences": [
     "Walker is doing what he has to do to maintain his big primary lead  limit the opportunities to have unfriendly media interview him, said Martha Zoller, a veteran Republican operative and former congressional candidate, citing polls showing Walker with a significant edge over his GOP opponents.",

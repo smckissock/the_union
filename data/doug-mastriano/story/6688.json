@@ -1,26 +1,19 @@
 {
   "id": 6688,
   "mediaId": 157,
-  "date": "d2022-05-18T00:00",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "A Las Vegas paper just published a stunning editorial: 'We are struggling to identify' Republicans 'who are not an active threat' to democracy",
   "image": "https://www.rawstory.com/media-library/donald-trump.jpg?id=29816857&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/a-las-vegas-paper-just-published-a-stunning-editorial-we-are-struggling-to-identify-republicans-who-are-not-an-active-threat-to-democracy/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Alex Henderson",
   "authorUrl": "https://www.rawstory.com/u/alex_henderson_alternet",
   "termIds": [
-    818,
-    1248,
-    2214,
     3094,
-    3102,
-    428,
-    2661,
-    2751,
-    2818
+    3102
   ],
   "sentences": [
     "As we wrote last October, Clark County Sheriff Joe Lombardo disgraced himself by not condemning the violent right-wing groups that have been welcomed into the Nevada GOP, leaving Southern Nevadans to wonder whether their sheriff will protect and serve everyone in our community regardless of political persuasion.?\nNevadas Republican and Democratic primaries will be held on June 14.\nOf the five leading Republican candidates for the governorship of Nevada, every one of them has gone on record as both supporting and contributing to the Big Lie,? the Suns editorial board laments.",

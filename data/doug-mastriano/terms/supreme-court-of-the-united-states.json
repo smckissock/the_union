@@ -1,17 +1,8 @@
 [
   {
-    "id": 7042,
-    "mediaId": 129,
-    "date": "d2022-01-28T00:00",
-    "sentence": "I welcome the end of no-excuse mail-in voting in Pennsylvania,? said <span class='selected-term'>Doug Mastriano</span>, a Republican state senator who is also running for governor, in a statement.",
-    "author": "",
-    "title": "Pennsylvania Court Says States Mail Voting Law Is Unconstitutional",
-    "sentiment": "0"
-  },
-  {
     "id": 6915,
     "mediaId": 943,
-    "date": "d2022-05-04T15:51",
+    "date": "2022-00-04",
     "sentence": "One Republican candidate, state Sen. <span class='selected-term'>Doug Mastriano</span>, supports a ban at six weeks of pregnancy without exceptions for rape, incest or saving the life of the mother.",
     "author": "LINDSAY WHITEHURST",
     "title": "Abortion battles in states fire up after Supreme Court leak",
@@ -20,7 +11,7 @@
   {
     "id": 6906,
     "mediaId": 98,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "David Lauter",
     "title": "Essential Politics: If you care about abortion, these are the states to watch",
@@ -29,7 +20,7 @@
   {
     "id": 3447,
     "mediaId": 195,
-    "date": "d2022-05-14T19:45",
+    "date": "2022-00-14",
     "sentence": "Meanwhile, in the GOP primary for the state's gubernatorial race, Sen. <span class='selected-term'>Doug Mastriano</span> (R), who Trump endorsed Saturday, is up against former Rep. Lou Barletta (R-Pa.), Montgomery County commissioner Joseph Gale, former U.S. Attorney William McSwain and Ridley Township Commissioner Dave White, among other candidates.",
     "author": "Lexi Lonas",
     "title": "Sunday shows preview: Democrats' abortion rights bill blocked; Pennsylvania, N.C. primaries near",
@@ -38,7 +29,7 @@
   {
     "id": 6757,
     "mediaId": 98,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "One of those bills, a six-week ban that would effectively block the majority of abortions, was introduced in the state Senate by <span class='selected-term'>Doug Mastriano</span>, a candidate endorsed by former President Trump who is leading the field heading into Tuesdays Republican gubernatorial primary.",
     "author": "Arit John",
     "title": "Pennsylvania governors race could have outsize impact on abortion access",
@@ -47,10 +38,19 @@
   {
     "id": 6614,
     "mediaId": 147,
-    "date": "d2022-05-18T22:45",
+    "date": "2022-00-18",
     "sentence": "]Lisa Desjardins:\nYesterday, Republicans chose one of their most conservative candidates, state Senator <span class='selected-term'>Doug Mastriano</span>, bolstered by a last-minute endorsement from former President Donald Trump.",
     "author": "Lisa Desjardins",
     "title": "Abortion access becomes central issue in Pennsylvanias race for governor",
-    "sentiment": "0"
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7042,
+    "mediaId": 129,
+    "date": "2022-00-28",
+    "sentence": "I welcome the end of no-excuse mail-in voting in Pennsylvania,? said <span class='selected-term'>Doug Mastriano</span>, a Republican state senator who is also running for governor, in a statement.",
+    "author": "",
+    "title": "Pennsylvania Court Says States Mail Voting Law Is Unconstitutional",
+    "sentiment": "0.0"
   }
 ]

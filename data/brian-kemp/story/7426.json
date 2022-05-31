@@ -1,11 +1,11 @@
 {
   "id": 7426,
   "mediaId": 195,
-  "date": "d2022-05-24T17:34",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Walker declines to say if he backed Perdue or Kemp in Ga. gubernatorial primary",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2020/08/walkerherschel_08242020hilltv.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3499666-walker-declines-to-say-if-he-backed-perdue-or-kemp-in-ga-gubernatorial-primary/",
-  "sentiment": "-0.195",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,7 @@
   "authorUrl": "https://thehill.com/author/caroline-vakil/",
   "termIds": [
     815,
-    1035,
-    2095,
-    4325,
-    232,
-    428,
-    501,
-    571,
-    2672
+    2095
   ],
   "sentences": [
     "Walker also struck a message of unity when he was asked if he wanted to stump with former President Trump should he win the Republican primary in the Georgia Senate race.",

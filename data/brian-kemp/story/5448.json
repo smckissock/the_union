@@ -1,19 +1,18 @@
 {
   "id": 5448,
   "mediaId": 1576,
-  "date": "d2022-03-28T00:00",
+  "date": "3/28/2022 12:00:00 AM",
   "headline": "Georgia legislature passes bill to boost gang prosecutions",
   "image": "https://www.wabe.org/app/uploads/2021/05/AP21131432878599-scaled.jpg",
   "link": "https://www.wabe.org/?p=265226",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095,
-    2672
+    2095
   ],
   "sentences": [
     "Attorney General Chris Carr, a Republican running for reelection this year, has praised the legislation as a force multiplier? that will allow his office to work with law enforcement and district attorneys.",

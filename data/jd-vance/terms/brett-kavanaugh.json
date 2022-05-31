@@ -1,17 +1,8 @@
 [
   {
-    "id": 6099,
-    "mediaId": 151,
-    "date": "d2022-04-28T17:14",
-    "sentence": "",
-    "author": "",
-    "title": "Trumps risky primary play: Rallying for a longtime ally accused of sexual misconduct",
-    "sentiment": "0"
-  },
-  {
     "id": 5964,
     "mediaId": 129,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee",
@@ -20,7 +11,7 @@
   {
     "id": 5638,
     "mediaId": 558,
-    "date": "d2022-05-07T07:17",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Christopher Wilson",
     "title": "Trump avoids talking abortion ruling, pitches Oz endorsement at Pennsylvania rally",
@@ -29,10 +20,19 @@
   {
     "id": 5590,
     "mediaId": 238,
-    "date": "d2022-05-10T17:22",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Opinion How the GOP strategy to paint Democrats as extreme really works",
+    "sentiment": "0"
+  },
+  {
+    "id": 6099,
+    "mediaId": 151,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "Trumps risky primary play: Rallying for a longtime ally accused of sexual misconduct",
     "sentiment": "0"
   }
 ]

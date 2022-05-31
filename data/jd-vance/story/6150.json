@@ -1,27 +1,18 @@
 {
   "id": 6150,
   "mediaId": 19,
-  "date": "d2022-04-26T00:00",
+  "date": "4/26/2022 12:00:00 AM",
   "headline": "Poll: J.D. Vance Takes the Lead in Ohio Republican U.S. Senate Primary",
   "image": "https://media.breitbart.com/media/2022/04/AP21183828334156-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/26/poll-j-d-vance-takes-the-lead-in-ohio-republican-u-s-senate-primary/",
-  "sentiment": "0.798",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jordan Dixon-Hamilton",
   "authorUrl": "https://www.breitbart.com/author/jdixonhamilton/",
   "termIds": [
-    668,
-    946,
-    1801,
-    2027,
-    2466,
-    3103,
-    200,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "With support spread out among five candidates who are pretty similar in policy terms, the bump that comes with Trumps blessing is enough to jump Vance to the head of the pack.?\nThe poll, which surveyed 906 Ohio GOP primary voters, was conducted between April 20 and April 24.",

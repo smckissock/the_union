@@ -1,35 +1,71 @@
 [
   {
-    "id": 8030,
-    "mediaId": 43,
-    "date": "d2022-03-15T00:00",
+    "id": 5751,
+    "mediaId": 129,
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
-    "title": "In Putins Russia, War Crimes Commit YOU!",
-    "sentiment": "-0.74"
+    "title": "Your Wednesday Evening Briefing",
+    "sentiment": "0"
+  },
+  {
+    "id": 5846,
+    "mediaId": 234,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Eric Lutz",
+    "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
+    "sentiment": "0"
+  },
+  {
+    "id": 5616,
+    "mediaId": 129,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "",
+    "title": "Appease or Confront",
+    "sentiment": "0"
   },
   {
     "id": 6386,
     "mediaId": 195,
-    "date": "d2022-04-15T10:26",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Russia plots next move amid setbacks",
     "sentiment": "0"
   },
   {
+    "id": 8030,
+    "mediaId": 43,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "",
+    "title": "In Putins Russia, War Crimes Commit YOU!",
+    "sentiment": "-0.74"
+  },
+  {
     "id": 6344,
     "mediaId": 136,
-    "date": "d2022-04-16T17:34",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Jason Lemon",
     "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces",
     "sentiment": "-0.744"
   },
   {
+    "id": 5493,
+    "mediaId": 129,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: Ukraine Gives Up Fighting at Mariupol Steel Plant",
+    "sentiment": "0"
+  },
+  {
     "id": 6334,
     "mediaId": 409,
-    "date": "d2022-04-17T19:47",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Jay Nordlinger",
     "title": "Thank You for Not Killing Us",
@@ -38,7 +74,7 @@
   {
     "id": 6303,
     "mediaId": 18,
-    "date": "d2022-04-18T23:29:48",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Jeff Robbins",
     "title": "Robbins: Here and abroad, democracy hanging in the balance",
@@ -47,16 +83,25 @@
   {
     "id": 6300,
     "mediaId": 43,
-    "date": "d2022-04-19T00:00",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "",
     "title": "for Bluesday, April 19th",
     "sentiment": "0"
   },
   {
+    "id": 7156,
+    "mediaId": 151,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "",
+    "title": "Inside McConnell's bid to quash GOP isolationists'",
+    "sentiment": "0"
+  },
+  {
     "id": 6267,
     "mediaId": 43,
-    "date": "d2022-04-21T00:00",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "",
     "title": "Yes, Republicans really are moving us towards",
@@ -65,16 +110,25 @@
   {
     "id": 6225,
     "mediaId": 195,
-    "date": "d2022-04-22T16:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Will Marshall",
     "title": "Trump party blames America first",
     "sentiment": "0"
   },
   {
+    "id": 7229,
+    "mediaId": 129,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "My Lunch With President Biden",
+    "sentiment": "0"
+  },
+  {
     "id": 6185,
     "mediaId": 209,
-    "date": "d2022-04-24T00:00",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Grayson Quay",
     "title": "10 things you need to know today: April 24, 2022",
@@ -83,82 +137,28 @@
   {
     "id": 6087,
     "mediaId": 129,
-    "date": "d2022-04-29T00:00",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "For J.D. Vance, Hillbilly Elegy Was the Question, and Trump Was the Answer",
     "sentiment": "0"
   },
   {
-    "id": 5846,
-    "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "id": 8562,
+    "mediaId": 195,
+    "date": "2022-00-29",
     "sentence": "",
-    "author": "Eric Lutz",
-    "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
-    "sentiment": "0"
-  },
-  {
-    "id": 5751,
-    "mediaId": 129,
-    "date": "d2022-05-04T22:46",
-    "sentence": "",
-    "author": "",
-    "title": "Your Wednesday Evening Briefing",
-    "sentiment": "0"
-  },
-  {
-    "id": 5616,
-    "mediaId": 129,
-    "date": "d2022-05-09T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Appease or Confront",
-    "sentiment": "0"
-  },
-  {
-    "id": 5493,
-    "mediaId": 129,
-    "date": "d2022-05-17T05:57:03",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: Ukraine Gives Up Fighting at Mariupol Steel Plant",
-    "sentiment": "0"
-  },
-  {
-    "id": 7156,
-    "mediaId": 151,
-    "date": "d2022-05-20T18:08",
-    "sentence": "",
-    "author": "",
-    "title": "Inside McConnell's bid to quash GOP isolationists'",
-    "sentiment": "0"
-  },
-  {
-    "id": 7229,
-    "mediaId": 129,
-    "date": "d2022-05-22T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "My Lunch With President Biden",
+    "author": "Albert Hunt",
+    "title": "Better candidates may not be enough for Democrats to retain the Senate",
     "sentiment": "0"
   },
   {
     "id": 8563,
     "mediaId": 136,
-    "date": "d2022-05-29T10:00",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "Jonathan Tobin",
     "title": "McConnell's Win on Ukraine Aid Isn't the End of GOP Foreign Policy Debate | Opinion",
-    "sentiment": "0"
-  },
-  {
-    "id": 8562,
-    "mediaId": 195,
-    "date": "d2022-05-29T15:30",
-    "sentence": "",
-    "author": "Albert Hunt",
-    "title": "Better candidates may not be enough for Democrats to retain the Senate",
     "sentiment": "0"
   }
 ]

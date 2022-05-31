@@ -1,11 +1,11 @@
 {
   "id": 7266,
   "mediaId": 157,
-  "date": "d2022-05-22T00:00",
+  "date": "5/22/2022 12:00:00 AM",
   "headline": "How the Republican Party's deal with Trump is leading to chaos in Georgia GOP elections",
   "image": "https://www.rawstory.com/media-library/david-perdue-and-donald-trump.jpg?id=28328612&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/republican-party-deal-trump-leading-chaos/",
-  "sentiment": "-0.617",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,7 @@
   "authorUrl": "https://www.rawstory.com/u/sarah_k_burris",
   "termIds": [
     815,
-    1147,
-    2095,
-    2305,
-    4325,
-    5516,
-    227,
-    428,
-    2672
+    2095
   ],
   "sentences": [
     "Trump backed down on his threat, agreeing to stay in the GOP, but what has happened in wake of the fight is that he has managed to destroy the GOP from the inside out, particularly in Georgia where his 2020 election war made the GOP governor unpopular and his hand-picked candidates have failed to garner support.",

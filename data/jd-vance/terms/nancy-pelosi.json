@@ -1,17 +1,8 @@
 [
   {
-    "id": 6228,
-    "mediaId": 98,
-    "date": "d2022-04-22T15:43",
-    "sentence": "",
-    "author": "Nolan D. McCaskill",
-    "title": "What the GOPs muted response on the McCarthy tapes means for the Republican Party",
-    "sentiment": "0"
-  },
-  {
     "id": 6015,
     "mediaId": 195,
-    "date": "d2022-05-02T10:26",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?",
@@ -20,7 +11,7 @@
   {
     "id": 5798,
     "mediaId": 195,
-    "date": "d2022-05-04T10:26",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Roe, Ohio primary dominate",
@@ -29,7 +20,7 @@
   {
     "id": 5742,
     "mediaId": 188,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Chris Pandolfo",
     "title": "Ohio Senate candidate Tim Ryan on late-term abortion: 'Leave it up to the woman'",
@@ -38,7 +29,7 @@
   {
     "id": 5692,
     "mediaId": 19,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Jacob Bliss",
     "title": "Tim Ryan Devolves: Pro-Life Champion to Radically Pro-Abortion",
@@ -47,7 +38,7 @@
   {
     "id": 5600,
     "mediaId": 195,
-    "date": "d2022-05-10T09:23",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Emily Brooks",
     "title": "State laws muddle national GOPs abortion messaging",
@@ -56,10 +47,19 @@
   {
     "id": 5580,
     "mediaId": 195,
-    "date": "d2022-05-11T01:14",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Tal Axelrod",
     "title": "Mooney wins West Virginia primary, handing Trump another win",
+    "sentiment": "0"
+  },
+  {
+    "id": 6228,
+    "mediaId": 98,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Nolan D. McCaskill",
+    "title": "What the GOPs muted response on the McCarthy tapes means for the Republican Party",
     "sentiment": "0"
   }
 ]

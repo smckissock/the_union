@@ -1,24 +1,18 @@
 {
   "id": 5200,
   "mediaId": 157,
-  "date": "d2022-04-12T00:00",
+  "date": "4/12/2022 12:00:00 AM",
   "headline": "GOP's Brian Kemp loses patience with Trump-loving hecklers over 2020 election: 'I'm the governor -- not a dictator!'",
   "image": "https://www.rawstory.com/media-library/georgia-gov-brian-kemp.png?id=27361036&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/brian-kemp-georgia/",
-  "sentiment": "-0.936",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Travis Gettys",
   "authorUrl": "https://www.rawstory.com/u/travis_gettys",
   "termIds": [
-    1147,
-    1951,
-    2095,
-    2203,
-    428,
-    501,
-    2672
+    2095
   ],
   "sentences": [
     "Kemp and GOP secretary of state Brad Raffensperger resisted Trump's pressure campaign to overturn the loss, and the governor compared right-wing conspiracists to Stacey Abrams and her allies questioning him for overseeing his own election when they faced off in Georgia's 2018 gubernatorial race.",

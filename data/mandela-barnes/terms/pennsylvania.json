@@ -1,8 +1,17 @@
 [
   {
+    "id": 2380,
+    "mediaId": 124,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "",
+    "title": "Biden's State of the Union checklist expands from economy to Covid and war in Europe",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2449,
     "mediaId": 43,
-    "date": "d2022-01-01T00:00",
+    "date": "2022-00-01",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
     "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
@@ -11,55 +20,46 @@
   {
     "id": 2443,
     "mediaId": 65,
-    "date": "d2022-01-05T16:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Paul Steinhauser",
     "title": "Democratic Senate candidates put changing the filibuster front and center",
     "sentiment": "0.0"
   },
   {
-    "id": 2380,
-    "mediaId": 124,
-    "date": "d2022-03-01T14:05",
-    "sentence": "",
-    "author": "",
-    "title": "Biden's State of the Union checklist expands from economy to Covid and war in Europe",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2344,
-    "mediaId": 43,
-    "date": "d2022-03-30T00:00",
-    "sentence": "Johnson is most likely to face progressive Lieutenant Governor <span class='selected-term'>Mandela Barnes</span> or Milwaukee Bucks Vice President Alex Lasry.",
-    "author": "",
-    "title": "Seats in Pennsylvania and Wisconsin",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2312,
-    "mediaId": 151,
-    "date": "d2022-04-18T21:09",
-    "sentence": "",
-    "author": "",
-    "title": "More Dem Senate hopefuls split with Biden on border",
-    "sentiment": "0"
-  },
-  {
     "id": 2288,
     "mediaId": 43,
-    "date": "d2022-05-07T00:00",
+    "date": "2022-00-07",
     "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\n<span class='selected-term'>Mandela Barnes</span> for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
     "title": "Admits He's Waging \"Guerilla War\" Against The Medical Establishment",
     "sentiment": "0.0"
   },
   {
+    "id": 2312,
+    "mediaId": 151,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "More Dem Senate hopefuls split with Biden on border",
+    "sentiment": "0"
+  },
+  {
     "id": 6525,
     "mediaId": 238,
-    "date": "d2022-05-19T22:46",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "David Weigel",
     "title": "The Trailer: Four trends from Tuesday's primaries in Pennsylvania, North Carolina and elsewhere",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2344,
+    "mediaId": 43,
+    "date": "2022-00-30",
+    "sentence": "Johnson is most likely to face progressive Lieutenant Governor <span class='selected-term'>Mandela Barnes</span> or Milwaukee Bucks Vice President Alex Lasry.",
+    "author": "",
+    "title": "Seats in Pennsylvania and Wisconsin",
     "sentiment": "0.0"
   }
 ]

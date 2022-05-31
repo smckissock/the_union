@@ -1,11 +1,11 @@
 {
   "id": 8461,
   "mediaId": 129,
-  "date": "d2022-05-28T00:00",
+  "date": "5/28/2022 12:00:00 AM",
   "headline": "Trump's Primary Losses Puncture His Invincibility",
   "image": "https://static01.nyt.com/images/2022/05/27/multimedia/27pol-gop-DeSantis/27pol-gop-DeSantis-superJumbo.jpg?quality=75&auto=webp",
   "link": "https://www.nytimes.com/2022/05/28/us/politics/trump-endorsed-candidates-primary-elections.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,17 +13,9 @@
   "authorUrl": "",
   "termIds": [
     661,
-    896,
-    1147,
-    1434,
     2095,
     3102,
-    3103,
-    428,
-    2672,
-    2706,
-    2816,
-    2845
+    3103
   ],
   "sentences": [
     "Numerous Republican strategists have argued that Mr. Trump's continued obsession with the 2020 election is an unwanted distraction in 2022, when Democrats hold the levers of power in Washington and polls show most of the country feels like the nation is moving in the wrong direction.",

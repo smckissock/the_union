@@ -1,27 +1,18 @@
 {
   "id": 7800,
   "mediaId": 195,
-  "date": "d2022-04-11T18:25",
+  "date": "4/11/2022 12:00:00 AM",
   "headline": "Trump approval ratings still strong in key battleground states: poll",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/03/trumpdonald_022622upi2_lead.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/campaign/3264249-trump-approval-ratings-still-strong-in-key-battleground-states-poll/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Elizabeth Crisp",
   "authorUrl": "https://thehill.com/author/elizabeth-crisp/",
   "termIds": [
-    815,
-    1133,
-    1147,
-    1404,
-    1434,
-    428,
-    2672,
-    2834,
-    2845,
-    2862
+    815
   ],
   "sentences": [
     "The Morning Consult surveys found that in each of the states, Trump overwhelmingly ranked more favorable than other prominent Republicans, such as former Vice President Mike Pence, Senate Minority Leader Mitch McConnell (Ky.) and House GOP Leader Kevin McCarthy (Calif.).",

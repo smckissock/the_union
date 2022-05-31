@@ -1,27 +1,19 @@
 {
   "id": 8464,
   "mediaId": 238,
-  "date": "d2022-05-27T13:17",
+  "date": "5/27/2022 12:00:00 AM",
   "headline": "Trump's GOP election purge marches on, despite setbacks in Georgia",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/27/trumps-gop-election-purge-marches-despite-setbacks-georgia/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Aaron Blake",
   "authorUrl": "https://www.washingtonpost.com/people/aaron-blake/",
   "termIds": [
-    1147,
-    1608,
     2095,
-    3102,
-    6150,
-    6209,
-    428,
-    2672,
-    2791,
-    2968
+    3102
   ],
   "sentences": [
     "And in doing so, he effectively said that the false stolen election narrative had so consumed his party that he could no longer represent it on the commission:\nAs a member of the Wisconsin State Assembly, Dean Knudson led the legislative push to create the six-member panel, which issues guidance to local county clerks and helps administer the state's local and federal elections.",

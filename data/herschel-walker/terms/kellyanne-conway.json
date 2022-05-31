@@ -1,17 +1,8 @@
 [
   {
-    "id": 7948,
-    "mediaId": 237,
-    "date": "d2022-03-24T00:18",
-    "sentence": "President Joe Biden informed Republican Senate candidates Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span> that they needed to resign from the Presidents Council on Sports, Fitness and Nutrition or they would be removed.",
-    "author": "Misty Severi",
-    "title": "Biden forces out Dr. Oz and Herschel Walker from fitness council",
-    "sentiment": "-0.532"
-  },
-  {
     "id": 5466,
     "mediaId": 129,
-    "date": "d2022-05-18T15:50",
+    "date": "2022-00-18",
     "sentence": "In Georgias Senate race, Mr. Trumps support for <span class='selected-term'>Herschel Walker</span> kept serious rivals away.",
     "author": "",
     "title": "Primaries Show Limits, and Depths, of Trumps Power Over G.O.P. Base",
@@ -20,10 +11,19 @@
   {
     "id": 7469,
     "mediaId": 157,
-    "date": "d2022-05-24T00:00",
+    "date": "2022-00-24",
     "sentence": "You can watch the blow-up below:\nNOW WATCH: <span class='selected-term'>Herschel Walker</span> argues with reporter Trump 'never said' election was stolen",
     "author": "Tom Boggioni",
     "title": "The View gets heated as Kellyanne Conway refuses to answer questions about her allegiance to Trump",
     "sentiment": "0.0"
+  },
+  {
+    "id": 7948,
+    "mediaId": 237,
+    "date": "2022-00-24",
+    "sentence": "President Joe Biden informed Republican Senate candidates Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span> that they needed to resign from the Presidents Council on Sports, Fitness and Nutrition or they would be removed.",
+    "author": "Misty Severi",
+    "title": "Biden forces out Dr. Oz and Herschel Walker from fitness council",
+    "sentiment": "-0.532"
   }
 ]

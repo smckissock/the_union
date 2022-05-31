@@ -1,27 +1,19 @@
 {
   "id": 2384,
   "mediaId": 124,
-  "date": "d2022-02-25T21:13:10",
+  "date": "2/25/2022 12:00:00 AM",
   "headline": "Biden's Supreme Court pick thrills progressives looking for a win",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-02/220225-Ketanji-Brown-Jackson-joe-biden-se-221p-72fa03.jpg",
   "link": "https://www.nbcnews.com/politics/elections/bidens-supreme-court-pick-thrills-progressives-looking-win-rcna17429",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    648,
-    698,
-    816,
-    1464,
     1568,
-    1916,
-    2039,
-    2087,
-    2347,
-    482
+    2039
   ],
   "sentences": [
     "Mandela Barnes, who is running for Senate there, said he was thrilled to see President Biden making good on his promise to create a court system that looks and lives more like America.? One of his primary rivals, Outagamie County Executive Tom Nelson, noted that Jackson would be the first justice since the famed Thurgood Marshall to have significant experience as a public defender,? bringing a perspective to the bench that has been absent for decades.?\nAs progressives celebrated, top Republicans cast Jackson as too ideological for a lifetime appointment to the high court.",

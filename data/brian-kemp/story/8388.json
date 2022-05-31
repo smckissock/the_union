@@ -1,29 +1,20 @@
 {
   "id": 8388,
   "mediaId": 21,
-  "date": "d2022-05-28T16:24:15",
+  "date": "5/28/2022 12:00:00 AM",
   "headline": "Trump targets Liz Cheney at Wyoming rally days after his high-profile endorsements flopped",
   "image": "https://i.insider.com/626f9d9e0983640018c0a219?width=1200&format=jpeg",
   "link": "https://www.businessinsider.com/trump-targets-liz-cheney-at-wyoming-rally-days-after-high-profile-endorsements-flopped-2022-5",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Oma Seddiq",
   "authorUrl": "https://www.businessinsider.com/author/oma-seddiq",
   "termIds": [
-    1147,
-    1248,
     2095,
-    2203,
     3085,
-    3094,
-    6156,
-    422,
-    428,
-    545,
-    2598,
-    2976
+    3094
   ],
   "sentences": [
     "CASPER, Wyoming  Droves of supporters of former President Donald Trump are eagerly waiting for him to take the stage on Saturday afternoon at a rally where he's expected to bash Republican Rep. Liz Cheney, Wyoming's lone member of Congress who has profusely attacked Trump.",

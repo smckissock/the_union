@@ -1,28 +1,19 @@
 {
   "id": 164,
   "mediaId": 136,
-  "date": "d2022-04-21T16:11",
+  "date": "4/21/2022 12:00:00 AM",
   "headline": "Donald Trump's Jan. 6 Actions Qualify as 'Treason': Glenn Kirschner",
   "image": "https://d.newsweek.com/en/full/2024064/donald-trump-january-6-2021.webp?w=790&f=20cbd832018192c1d74afa4b2eb09448",
   "link": "https://www.newsweek.com/donald-trumps-jan-6-actions-qualify-treason-glenn-kirschner-1699800",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jason Lemon",
   "authorUrl": "https://www.newsweek.com/authors/jason-lemon",
   "termIds": [
-    662,
-    753,
-    1147,
-    1434,
-    1609,
-    2087,
     2125,
-    2525,
-    3094,
-    562,
-    2782
+    3094
   ],
   "sentences": [
     "8 U.S. Code  2381 states: \"Whoever, owing allegiance to the United States, levies war against them or adheres to their enemies, giving them aid and comfort within the United States or elsewhere, is guilty of treason and shall suffer death, or shall be imprisoned not less than five years and fined under this title but not less than $10,000; and shall be incapable of holding any office under the United States.\"",

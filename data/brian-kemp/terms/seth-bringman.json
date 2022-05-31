@@ -1,20 +1,20 @@
 [
   {
-    "id": 5326,
-    "mediaId": 1576,
-    "date": "d2022-04-05T00:00",
-    "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
-    "author": "",
-    "title": "Stacey Abrams reaches millionaire status before 2nd campaign",
-    "sentiment": "-0.206"
-  },
-  {
     "id": 5309,
     "mediaId": 12,
-    "date": "d2022-04-05T11:23",
+    "date": "2022-00-05",
     "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
     "author": "JEFF AMY",
     "title": "Stacey Abrams reaches millionaire status before 2nd campaign",
     "sentiment": "-0.306"
+  },
+  {
+    "id": 5326,
+    "mediaId": 1576,
+    "date": "2022-00-05",
+    "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
+    "author": "",
+    "title": "Stacey Abrams reaches millionaire status before 2nd campaign",
+    "sentiment": "-0.206"
   }
 ]

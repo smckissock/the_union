@@ -2,28 +2,28 @@
   {
     "id": 5048,
     "mediaId": 157,
-    "date": "d2022-04-21T00:00",
+    "date": "2022-00-21",
     "sentence": "NOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "",
     "title": "Gableman deleting records as he conducts partisan 2020 election review in Wisconsin",
     "sentiment": "0.0"
   },
   {
-    "id": 5009,
-    "mediaId": 136,
-    "date": "d2022-04-22T11:43",
-    "sentence": "2 hr ago 08:14 AM EDT\nTrump Blames Georgia Republicans for Taylor Greene 'Going Through Hell'\nFormer president Donald Trump has come to the rescue of Greene on Thursday, blaming Georgia's Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger to allow \"a horrible thing to happen to a very popular Republican.\"",
-    "author": "Giulia Carbonaro",
-    "title": "Marjorie Taylor Greene Testimony Live: Opening Statements Underway",
-    "sentiment": "0.0"
-  },
-  {
     "id": 1984,
     "mediaId": 12,
-    "date": "d2022-04-22T12:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
     "sentiment": "0.522"
+  },
+  {
+    "id": 5009,
+    "mediaId": 136,
+    "date": "2022-00-22",
+    "sentence": "2 hr ago 08:14 AM EDT\nTrump Blames Georgia Republicans for Taylor Greene 'Going Through Hell'\nFormer president Donald Trump has come to the rescue of Greene on Thursday, blaming Georgia's Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger to allow \"a horrible thing to happen to a very popular Republican.\"",
+    "author": "Giulia Carbonaro",
+    "title": "Marjorie Taylor Greene Testimony Live: Opening Statements Underway",
+    "sentiment": "0.0"
   }
 ]

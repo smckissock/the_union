@@ -1,24 +1,18 @@
 {
   "id": 4999,
   "mediaId": 32,
-  "date": "d2022-04-22T17:02",
+  "date": "4/22/2022 12:00:00 AM",
   "headline": "Nearly 1 in 4 students in the U.S. has access to personal finance education this year",
   "image": "https://image.cnbcfm.com/api/v1/image/107044993-1649698966352-Writearoundphoto4.jpg?v=1651280241&w=740&h=416&ffmt=webp",
   "link": "https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMDQvMjIvbmVhcmx5LTI1cGVyY2VudC1vZi11cy1zdHVkZW50cy1oYXZlLWFjY2Vzcy10by1wZXJzb25hbC1maW5hbmNlLWVkdWNhdGlvbi5odG1s0gEA?oc=5/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "CNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Carmen Reinicke",
   "authorUrl": "https://www.cnbc.com/carmen-reinicke/",
   "termIds": [
-    2095,
-    3814,
-    4379,
-    4692,
-    3453,
-    2661,
-    2945
+    2095
   ],
   "sentences": [
     "In schools where 75% of students are nonwhite or receive free and reduced lunch, that share drops to 1 in 20.\nA lot of schools that dont feel like they have the resources to implement this course end up not doing it,? said Yanely Espinal, director of educational outreach at Next Gen Personal Finance.",

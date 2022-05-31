@@ -2,7 +2,7 @@
   {
     "id": 5394,
     "mediaId": 43,
-    "date": "d2022-03-31T00:00",
+    "date": "3/31/2022 12:00:00 AM",
     "sentence": "Governors\n? GA-Gov: Incumbent <span class='selected-term'>Brian Kemp</span> is once again running a TV ad against his Trump-endorsed Republican primary foe, former Sen. David Perdue, by using footage of Trump attacking Americans who send jobs to China.",
     "author": "",
     "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP",
@@ -11,16 +11,16 @@
   {
     "id": 5344,
     "mediaId": 188,
-    "date": "d2022-04-04T00:00",
+    "date": "4/4/2022 12:00:00 AM",
     "sentence": "In Georgia, lawmakers advanced legislation that, if signed into law by Republican Governor <span class='selected-term'>Brian Kemp</span>, will give parents more direct input over what their children are being taught in the states public schools.",
     "author": "Samuel Mangold-Lenett",
     "title": "Georgia advances legislation that outlines a 'Parents Bill of Rights' in education",
-    "sentiment": "0"
+    "sentiment": "0.0"
   },
   {
     "id": 5260,
     "mediaId": 129,
-    "date": "d2022-04-07T23:09",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics",
@@ -29,52 +29,16 @@
   {
     "id": 5248,
     "mediaId": 648,
-    "date": "d2022-04-08T12:14",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "Dan Avery",
     "title": "These States Have Launched Gas Tax 'Holidays' to Combat High Fuel Prices",
-    "sentiment": "0"
-  },
-  {
-    "id": 5240,
-    "mediaId": 188,
-    "date": "d2022-04-09T00:00",
-    "sentence": "Stacey Abrams infamously ran for governor in Georgia in 2018 and lost to the states incumbent Republican governor <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Samuel Mangold-Lenett",
-    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022",
-    "sentiment": "-0.788"
-  },
-  {
-    "id": 5243,
-    "mediaId": 209,
-    "date": "d2022-04-09T00:00",
-    "sentence": "",
-    "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 9, 2022",
     "sentiment": "0.0"
-  },
-  {
-    "id": 5238,
-    "mediaId": 558,
-    "date": "d2022-04-09T05:13",
-    "sentence": "A former state representative and a successful author, she ran for governor in 2018 and lost narrowly to <span class='selected-term'>Brian Kemp</span>, refusing to concede while protesting his role as secretary of state in controlling his own election.",
-    "author": "Martin Pengelly",
-    "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5236,
-    "mediaId": 21,
-    "date": "d2022-04-09T06:00",
-    "sentence": "",
-    "author": "Hannah Getahun",
-    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
-    "sentiment": "0"
   },
   {
     "id": 5234,
     "mediaId": 65,
-    "date": "d2022-04-09T09:52",
+    "date": "4/9/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'",
@@ -83,16 +47,52 @@
   {
     "id": 5235,
     "mediaId": 65,
-    "date": "d2022-04-09T09:52",
+    "date": "4/9/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'",
-    "sentiment": "-0.692"
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5236,
+    "mediaId": 21,
+    "date": "4/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Hannah Getahun",
+    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5238,
+    "mediaId": 558,
+    "date": "4/9/2022 12:00:00 AM",
+    "sentence": "A former state representative and a successful author, she ran for governor in 2018 and lost narrowly to <span class='selected-term'>Brian Kemp</span>, refusing to concede while protesting his role as secretary of state in controlling his own election.",
+    "author": "Martin Pengelly",
+    "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5240,
+    "mediaId": 188,
+    "date": "4/9/2022 12:00:00 AM",
+    "sentence": "Stacey Abrams infamously ran for governor in Georgia in 2018 and lost to the states incumbent Republican governor <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Samuel Mangold-Lenett",
+    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5243,
+    "mediaId": 209,
+    "date": "4/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Grayson Quay",
+    "title": "10 things you need to know today: April 9, 2022",
+    "sentiment": "0.0"
   },
   {
     "id": 5204,
     "mediaId": 43,
-    "date": "d2022-04-12T00:00",
+    "date": "4/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "Rebekah Sager",
     "title": "Texas conservatives have gone rogue, paying Big Lie lackeys to investigate citizens for voter fraud",
@@ -101,34 +101,34 @@
   {
     "id": 5078,
     "mediaId": 151,
-    "date": "d2022-04-19T11:00",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Florida's redistricting session: Quick, partisan, and bitter",
     "sentiment": "0.0"
   },
   {
-    "id": 5066,
-    "mediaId": 19,
-    "date": "d2022-04-20T00:00",
-    "sentence": "The pact is signed by the following governors:\nGovernors Doug Ducey (AZ), Greg Abbott (TX), Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), Ron DeSantis (FL), <span class='selected-term'>Brian Kemp</span> (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
-    "author": "Bob Price",
-    "title": "26 Governors Mobilize Against Migration Chaos at Border",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5061,
     "mediaId": 223,
-    "date": "d2022-04-20T10:30",
+    "date": "4/20/2022 12:00:00 AM",
     "sentence": "The Strike Force includes Governors Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), Ron DeSantis (FL), <span class='selected-term'>Brian Kemp</span> (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
     "author": "Spencer Brown",
     "title": "GOP Governors Launch 'Strike Force' to Combat Biden Border Crisis",
     "sentiment": "0.0"
   },
   {
+    "id": 5066,
+    "mediaId": 19,
+    "date": "4/20/2022 12:00:00 AM",
+    "sentence": "The pact is signed by the following governors:\nGovernors Doug Ducey (AZ), Greg Abbott (TX), Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), Ron DeSantis (FL), <span class='selected-term'>Brian Kemp</span> (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
+    "author": "Bob Price",
+    "title": "26 Governors Mobilize Against Migration Chaos at Border",
+    "sentiment": "0.0"
+  },
+  {
     "id": 5023,
     "mediaId": 43,
-    "date": "d2022-04-22T00:00",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
@@ -137,7 +137,7 @@
   {
     "id": 4948,
     "mediaId": 63,
-    "date": "d2022-04-25T23:44",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "Mason Bissada",
     "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
@@ -146,7 +146,7 @@
   {
     "id": 4914,
     "mediaId": 43,
-    "date": "d2022-04-27T00:00",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "Lets hear from Beau on Georgia\nThe debate between <span class='selected-term'>Brian Kemp</span> and David Perdue was quite a spectacle.",
     "author": "",
     "title": "\"Try to Think What We Are Going to Do Ourselves\"",
@@ -155,25 +155,25 @@
   {
     "id": 4873,
     "mediaId": 238,
-    "date": "d2022-04-28T17:47",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion The new Republican statism",
-    "sentiment": "0"
+    "sentiment": "0.0"
   },
   {
     "id": 4425,
     "mediaId": 237,
-    "date": "d2022-04-29T09:39",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Christopher Hutton",
     "title": "Florida reinstates nine math textbooks after removal of 'woke content'",
-    "sentiment": "0"
+    "sentiment": "0.0"
   },
   {
     "id": 4140,
     "mediaId": 65,
-    "date": "d2022-05-03T10:08",
+    "date": "5/3/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jack Durschlag",
     "title": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say",
@@ -182,61 +182,61 @@
   {
     "id": 3894,
     "mediaId": 129,
-    "date": "d2022-05-06T22:45",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "But if you disagree with me, my doors always open.?\nGovernors like <span class='selected-term'>Brian Kemp</span> of Georgia and Ron DeSantis of Florida have said relatively little on the issue since the draft opinion came out.",
     "author": "",
     "title": "G.O.P. Lawmakers Recast Abortion Stance, Wary of Voter Backlash",
     "sentiment": "0.0"
   },
   {
+    "id": 3712,
+    "mediaId": 223,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "And when \"bad\" governors like <span class='selected-term'>Brian Kemp</span> in Georgia, Greg Abbott in Texas, and especially Ron DeSantis in Florida moved toward reopenings, it was seen as a partisan duty to sprint in the opposite direction.",
+    "author": "Guy Benson",
+    "title": "Harvard Study: Student Development Harmed Much Less in States with Open Schools During COVID",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3723,
     "mediaId": 65,
-    "date": "d2022-05-11T02:38",
+    "date": "5/11/2022 12:00:00 AM",
     "sentence": "And we're quoting: \"Reminder,\" she wrote, \"<span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.\"",
     "author": "",
     "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege",
     "sentiment": "0.0"
   },
   {
-    "id": 3712,
-    "mediaId": 223,
-    "date": "d2022-05-11T10:25",
-    "sentence": "And when \"bad\" governors like <span class='selected-term'>Brian Kemp</span> in Georgia, Greg Abbott in Texas, and especially Ron DeSantis in Florida moved toward reopenings, it was seen as a partisan duty to sprint in the opposite direction.",
-    "author": "Guy Benson",
-    "title": "Harvard Study: Student Development Harmed Much Less in States with Open Schools During COVID",
-    "sentiment": "-0.568"
-  },
-  {
     "id": 3402,
     "mediaId": 409,
-    "date": "d2022-05-14T10:51",
+    "date": "5/14/2022 12:00:00 AM",
     "sentence": "It creates opportunities for rivals: Mike Pence is campaigning next week for <span class='selected-term'>Brian Kemp</span> in Georgia, opposing the Trump-backed candidacy of David Perdue.",
     "author": "Dan McLaughlin",
     "title": "The Ron DeSantis Dog That Hasnt Barked Yet",
-    "sentiment": "0"
+    "sentiment": "0.0"
   },
   {
     "id": 3396,
     "mediaId": 65,
-    "date": "d2022-05-15T14:00",
+    "date": "5/15/2022 12:00:00 AM",
     "sentence": "I am proud to offer my full support for four more years of <span class='selected-term'>Brian Kemp</span> as governor of the great state of Georgia!,\" the former vice president emphasized in a statement this weekend, as the Kemp campaign announced that Pence will campaign with Georgias conservative governor on the eve of the states May 24 primary.",
     "author": "",
     "title": "Is Trump faceoff with Pence in Georgia GOP gubernatorial showdown an early 2024 skirmish?",
-    "sentiment": "0.248"
+    "sentiment": "0.0"
   },
   {
     "id": 3382,
     "mediaId": 129,
-    "date": "d2022-05-17T04:01",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "The Ohio and Pennsylvania Republicans were mostly taking their cues from Mr. Trump in their Senate primaries; by contrast, the Georgia Republicans were more inclined to buck Mr. Trump and stick with their incumbent Republican governor, <span class='selected-term'>Brian Kemp</span>, whom the former president is trying to oust in next weeks primary.",
     "author": "",
     "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
-    "sentiment": "0"
+    "sentiment": "0.0"
   },
   {
     "id": 3506,
     "mediaId": 238,
-    "date": "d2022-05-17T11:00",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "Hugh Hewitt",
     "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
@@ -245,7 +245,7 @@
   {
     "id": 3493,
     "mediaId": 129,
-    "date": "d2022-05-18T00:00",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "Next week the same approach seems likely to help <span class='selected-term'>Brian Kemp</span> defeat David Perdue for the governors nomination in Georgia.",
     "author": "",
     "title": "Americas Doug Mastriano Problem",
@@ -254,52 +254,52 @@
   {
     "id": 6520,
     "mediaId": 238,
-    "date": "d2022-05-21T10:30",
+    "date": "5/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Aaron Blake",
     "title": "The top 10 GOP presidential candidates for 2024, ranked",
-    "sentiment": "0.235"
+    "sentiment": "0.0"
   },
   {
     "id": 7190,
     "mediaId": 21,
-    "date": "d2022-05-22T21:00",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "It took everyone getting behind <span class='selected-term'>Brian Kemp</span>  even people that did not support him in the runoff,\" she said of the concentrated effort it took to shore up the 50,000 votes that kept the state from flipping blue.",
     "author": "Warren Rojas",
     "title": "David Perdue's closing argument to Georgians ahead of Tuesday's GOP primary: A vote for Brian Kemp is a vote for Stacey Abrams",
-    "sentiment": "-0.805"
+    "sentiment": "0.0"
   },
   {
     "id": 7294,
     "mediaId": 129,
-    "date": "d2022-05-23T00:00",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now",
-    "sentiment": "0"
-  },
-  {
-    "id": 7345,
-    "mediaId": 1576,
-    "date": "d2022-05-25T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
-    "sentiment": "0.642"
+    "sentiment": "0.0"
   },
   {
     "id": 7343,
     "mediaId": 136,
-    "date": "d2022-05-25T01:02",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "On Tuesday, Governor <span class='selected-term'>Brian Kemp</span> won a Republican nomination for reelection despite Trump's attacks against him and the former president's endorsement of his primary opponent, former Senator David Perdue.",
     "author": "Katherine Fung",
     "title": "Trump Sacrificed His Endorsement Record for Georgia Revenge Fantasy",
-    "sentiment": "-0.574"
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7345,
+    "mediaId": 1576,
+    "date": "5/25/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.0"
   },
   {
     "id": 8472,
     "mediaId": 129,
-    "date": "d2022-05-26T00:00",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "Yet Oz has refrained, as have other Trump picks like the former senator David Perdue, who lost in a landslide in Georgia to the incumbent governor, <span class='selected-term'>Brian Kemp</span>.",
     "author": "",
     "title": "The G.O.P. Has Gone Even Farther to the Right Than I Expected': Three Writers Talk About the Midterms",
@@ -308,46 +308,46 @@
   {
     "id": 8514,
     "mediaId": 223,
-    "date": "d2022-05-27T00:01",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Michael Barone",
     "title": "Primary Results: Trump Repudiated, Republicans Enthused, Democrats Focused On Theoretical Issues",
-    "sentiment": "-0.726"
-  },
-  {
-    "id": 8461,
-    "mediaId": 129,
-    "date": "d2022-05-28T00:00",
-    "sentence": "Governor's Race: <span class='selected-term'>Brian Kemp</span> scored a landslide victory over David Perdue, delivering Mr. Trump his biggest setback of the 2022 primaries.",
-    "author": "",
-    "title": "Trump's Primary Losses Puncture His Invincibility",
-    "sentiment": "0"
+    "sentiment": "0.0"
   },
   {
     "id": 8391,
     "mediaId": 136,
-    "date": "d2022-05-28T10:00",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "Georgia's GOP Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger, who drew the former president's wrath after they declined to help him overturn President Joe Biden's 2020 election win in their state, both won their primaries by double-digit margins on Tuesday.",
     "author": "Jason Lemon",
     "title": "Liz Cheney's Chances of Beating Trump-Backed Harriet Hageman in Wyoming",
-    "sentiment": "0"
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8461,
+    "mediaId": 129,
+    "date": "5/28/2022 12:00:00 AM",
+    "sentence": "Governor's Race: <span class='selected-term'>Brian Kemp</span> scored a landslide victory over David Perdue, delivering Mr. Trump his biggest setback of the 2022 primaries.",
+    "author": "",
+    "title": "Trump's Primary Losses Puncture His Invincibility",
+    "sentiment": "0.0"
   },
   {
     "id": 8491,
     "mediaId": 238,
-    "date": "d2022-05-28T15:23",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "Dan Balz",
     "title": "Trump is trapped in the past, and its hurting him with GOP voters",
-    "sentiment": "-0.715"
+    "sentiment": "0.0"
   },
   {
     "id": 8527,
     "mediaId": 157,
-    "date": "d2022-05-29T00:00",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Georgia Republicans rejected Trump  not just his lies: columnist",
-    "sentiment": "-0.73"
+    "sentiment": "0.0"
   }
 ]

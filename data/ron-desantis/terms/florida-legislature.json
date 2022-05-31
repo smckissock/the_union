@@ -1,17 +1,8 @@
 [
   {
-    "id": 4429,
-    "mediaId": 1067,
-    "date": "d2022-04-29T09:00",
-    "sentence": "",
-    "author": "Jeffrey Schweers",
-    "title": "FPL flexes its muscle in Florida Legislature, but loses one out of three",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4122,
     "mediaId": 1067,
-    "date": "d2022-05-03T17:19",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Jeffrey Schweers",
     "title": "Florida Republicans could ban abortion soon, worried Democrats warn",
@@ -20,79 +11,61 @@
   {
     "id": 4034,
     "mediaId": 1067,
-    "date": "d2022-05-04T20:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Jeffrey Schweers",
     "title": "Florida Republicans could soon ban abortion entirely, worried Democrats warn",
     "sentiment": "0.0"
   },
   {
-    "id": 3945,
-    "mediaId": 1164,
-    "date": "d2022-05-06T00:00",
+    "id": 3906,
+    "mediaId": 65,
+    "date": "2022-00-06",
     "sentence": "",
-    "author": "Adam Schrader",
-    "title": "Appeals court temporarily reinstates Florida voting law",
+    "author": "Ron DeSantis",
+    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
     "sentiment": "0"
   },
   {
-    "id": 3945,
-    "mediaId": 1164,
-    "date": "d2022-05-06T00:00",
+    "id": 3906,
+    "mediaId": 65,
+    "date": "2022-00-06",
     "sentence": "",
-    "author": "Adam Schrader",
-    "title": "Appeals court temporarily reinstates Florida voting law",
+    "author": "Ron DeSantis",
+    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
     "sentiment": "0.0"
   },
   {
     "id": 3913,
     "mediaId": 237,
-    "date": "d2022-05-06T16:35",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Ryan King",
     "title": "Appeals court reinstates Florida GOP-backed voting law  for now",
     "sentiment": "0.0"
   },
   {
-    "id": 3906,
-    "mediaId": 65,
-    "date": "d2022-05-06T17:57",
+    "id": 3945,
+    "mediaId": 1164,
+    "date": "2022-00-06",
     "sentence": "",
-    "author": "Ron DeSantis",
-    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
+    "author": "Adam Schrader",
+    "title": "Appeals court temporarily reinstates Florida voting law",
     "sentiment": "0"
   },
   {
-    "id": 3906,
-    "mediaId": 65,
-    "date": "d2022-05-06T17:57",
+    "id": 3945,
+    "mediaId": 1164,
+    "date": "2022-00-06",
     "sentence": "",
-    "author": "Ron DeSantis",
-    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3837,
-    "mediaId": 1067,
-    "date": "d2022-05-09T05:30",
-    "sentence": "",
-    "author": "Peter Barile",
-    "title": "DeSantis should veto budget water turkeys | Commentary",
-    "sentiment": "0"
-  },
-  {
-    "id": 3837,
-    "mediaId": 1067,
-    "date": "d2022-05-09T05:30",
-    "sentence": "",
-    "author": "Peter Barile",
-    "title": "DeSantis should veto budget water turkeys | Commentary",
+    "author": "Adam Schrader",
+    "title": "Appeals court temporarily reinstates Florida voting law",
     "sentiment": "0.0"
   },
   {
     "id": 3823,
     "mediaId": 302,
-    "date": "d2022-05-09T17:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "Florida campus surveys under scrutiny in lawsuit. A political tool.",
@@ -101,16 +74,52 @@
   {
     "id": 3823,
     "mediaId": 302,
-    "date": "d2022-05-09T17:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "Florida campus surveys under scrutiny in lawsuit. A political tool.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3837,
+    "mediaId": 1067,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "Peter Barile",
+    "title": "DeSantis should veto budget water turkeys | Commentary",
+    "sentiment": "0"
+  },
+  {
+    "id": 3837,
+    "mediaId": 1067,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "Peter Barile",
+    "title": "DeSantis should veto budget water turkeys | Commentary",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3688,
+    "mediaId": 302,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
+    "sentiment": "0"
+  },
+  {
+    "id": 3688,
+    "mediaId": 302,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
     "sentiment": "0.0"
   },
   {
     "id": 3725,
     "mediaId": 34,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Kenny Stancil",
     "title": "Florida Judge Strikes Down Part of 'Unconstitutional' Map Rigged by GOP Gov. DeSantis",
@@ -119,34 +128,16 @@
   {
     "id": 3725,
     "mediaId": 34,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Kenny Stancil",
     "title": "Florida Judge Strikes Down Part of 'Unconstitutional' Map Rigged by GOP Gov. DeSantis",
     "sentiment": "0.0"
   },
   {
-    "id": 3688,
-    "mediaId": 302,
-    "date": "d2022-05-11T18:00",
-    "sentence": "",
-    "author": "",
-    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
-    "sentiment": "0"
-  },
-  {
-    "id": 3688,
-    "mediaId": 302,
-    "date": "d2022-05-11T18:00",
-    "sentence": "",
-    "author": "",
-    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3641,
     "mediaId": 302,
-    "date": "d2022-05-12T13:00",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "",
     "title": "A St. Petersburg lumber yard will soon have affordable housing",
@@ -155,7 +146,7 @@
   {
     "id": 3641,
     "mediaId": 302,
-    "date": "d2022-05-12T13:00",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "",
     "title": "A St. Petersburg lumber yard will soon have affordable housing",
@@ -164,7 +155,7 @@
   {
     "id": 3606,
     "mediaId": 302,
-    "date": "d2022-05-13T21:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Lawrence Mower",
     "title": "DeSantis names conservative lawmaker Cord Byrd as Florida elections chief",
@@ -173,34 +164,16 @@
   {
     "id": 3606,
     "mediaId": 302,
-    "date": "d2022-05-13T21:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Lawrence Mower",
     "title": "DeSantis names conservative lawmaker Cord Byrd as Florida elections chief",
     "sentiment": "0.0"
   },
   {
-    "id": 3519,
-    "mediaId": 21,
-    "date": "d2022-05-17T01:00",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
-    "author": "Hannah Getahun",
-    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
-    "sentiment": "0"
-  },
-  {
-    "id": 3519,
-    "mediaId": 21,
-    "date": "d2022-05-17T01:00",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
-    "author": "Hannah Getahun",
-    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3496,
     "mediaId": 302,
-    "date": "d2022-05-17T23:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "DeSantis: Florida cancer hospitals get $100 million for research",
@@ -209,16 +182,34 @@
   {
     "id": 3496,
     "mediaId": 302,
-    "date": "d2022-05-17T23:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "DeSantis: Florida cancer hospitals get $100 million for research",
     "sentiment": "0.0"
   },
   {
+    "id": 3519,
+    "mediaId": 21,
+    "date": "2022-00-17",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
+    "author": "Hannah Getahun",
+    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
+    "sentiment": "0"
+  },
+  {
+    "id": 3519,
+    "mediaId": 21,
+    "date": "2022-00-17",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
+    "author": "Hannah Getahun",
+    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8535,
     "mediaId": 302,
-    "date": "d2022-05-28T09:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Guns, elections and Florida condos make this week's list of highs and lows | Editorial",
@@ -227,10 +218,19 @@
   {
     "id": 8535,
     "mediaId": 302,
-    "date": "d2022-05-28T09:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Guns, elections and Florida condos make this week's list of highs and lows | Editorial",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4429,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jeffrey Schweers",
+    "title": "FPL flexes its muscle in Florida Legislature, but loses one out of three",
     "sentiment": "0.0"
   }
 ]

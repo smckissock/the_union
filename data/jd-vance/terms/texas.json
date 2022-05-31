@@ -2,34 +2,16 @@
   {
     "id": 6444,
     "mediaId": 238,
-    "date": "d2022-04-08T00:00",
+    "date": "2022-00-08",
     "sentence": "",
     "author": "",
     "title": "Rep. Gonzales on how the GOP can win more Hispanic voters",
     "sentiment": "0"
   },
   {
-    "id": 6313,
-    "mediaId": 151,
-    "date": "d2022-04-18T14:00",
-    "sentence": "",
-    "author": "",
-    "title": "5 numbers to know from the new FEC reports",
-    "sentiment": "0"
-  },
-  {
-    "id": 6065,
-    "mediaId": 136,
-    "date": "d2022-04-30T16:28",
-    "sentence": "",
-    "author": "Fatma Khaled",
-    "title": "MAGA Voter Deaths by Fentanyl via Border 'Does Look Intentional': JD Vance",
-    "sentiment": "-0.755"
-  },
-  {
     "id": 5556,
     "mediaId": 19,
-    "date": "d2022-05-12T00:00",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "Paul Bois",
     "title": "Report: George P. Bush Floundering Due to Family Name",
@@ -38,7 +20,7 @@
   {
     "id": 5488,
     "mediaId": 195,
-    "date": "d2022-05-17T11:30",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Tom Mockaitis",
     "title": "Conspiracy theories and racist rhetoric fuel domestic terrorism",
@@ -47,16 +29,25 @@
   {
     "id": 5464,
     "mediaId": 21,
-    "date": "d2022-05-18T20:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Jake Lahut",
     "title": "Why Donald Trump's 'golden ticket' doesn't guarantee success in 2022 Republican primaries  especially for his most controversial favorites",
     "sentiment": "0"
   },
   {
+    "id": 6313,
+    "mediaId": 151,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "5 numbers to know from the new FEC reports",
+    "sentiment": "0"
+  },
+  {
     "id": 7412,
     "mediaId": 233,
-    "date": "d2022-05-24T23:24",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "David Jackson",
     "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
@@ -65,7 +56,7 @@
   {
     "id": 8404,
     "mediaId": 376,
-    "date": "d2022-05-26T14:30",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
     "title": "At the Races: Divisions on display",
@@ -74,10 +65,19 @@
   {
     "id": 8503,
     "mediaId": 147,
-    "date": "d2022-05-27T22:35",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "",
     "title": "Brooks and Capehart on the tragedy in Uvalde and Georgias primary elections",
     "sentiment": "0"
+  },
+  {
+    "id": 6065,
+    "mediaId": 136,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Fatma Khaled",
+    "title": "MAGA Voter Deaths by Fentanyl via Border 'Does Look Intentional': JD Vance",
+    "sentiment": "-0.755"
   }
 ]

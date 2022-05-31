@@ -1,44 +1,44 @@
 [
   {
-    "id": 87,
-    "mediaId": 43,
-    "date": "d2022-01-04T00:00",
-    "sentence": "? MI-03: Republican Rep. <span class='selected-term'>Peter Meijer</span> announced last week that he would defend the newly drawn 3rd District, which Michigan's new map transforms from a 51-47 Trump seat to a constituency Joe Biden would have carried 53-45.",
-    "author": "",
-    "title": "Morning Digest: Redistricting scrambled California's House map. Here's our guide to unscrambling it",
-    "sentiment": "0.0"
-  },
-  {
     "id": 65,
     "mediaId": 43,
-    "date": "d2022-02-02T00:00",
+    "date": "2022-00-02",
     "sentence": "Leading Off\n? MI-03: Attorney Hillary Scholten announced Tuesday that she would seek a rematch against Republican Rep. <span class='selected-term'>Peter Meijer</span> in Michigan's 3rd Congressional District, a Grand Rapids-based constituency that the state's new map transformed from a 51-47 Trump seat to one Joe Biden would have carried 53-45.",
     "author": "",
     "title": "Morning Digest: Democrat announces rematch against House Republican under fire for impeachment vote",
     "sentiment": "0.0"
   },
   {
-    "id": 54,
+    "id": 87,
     "mediaId": 43,
-    "date": "d2022-02-22T00:00",
-    "sentence": "? MI-03: The Democratic group EMILY's List has released a mid-January survey from Impact Research arguing that Rep. <span class='selected-term'>Peter Meijer</span> is in real danger of losing his August Republican primary to conservative commentator John Gibbs.",
+    "date": "2022-00-04",
+    "sentence": "? MI-03: Republican Rep. <span class='selected-term'>Peter Meijer</span> announced last week that he would defend the newly drawn 3rd District, which Michigan's new map transforms from a 51-47 Trump seat to a constituency Joe Biden would have carried 53-45.",
     "author": "",
-    "title": "Morning Digest: An old scandal resurfaces for Texas attorney general one week ahead of GOP primary",
+    "title": "Morning Digest: Redistricting scrambled California's House map. Here's our guide to unscrambling it",
     "sentiment": "0.0"
   },
   {
     "id": 9,
     "mediaId": 43,
-    "date": "d2022-04-21T00:00",
+    "date": "2022-00-21",
     "sentence": "We turn next to Michigan's 3rd in the Grand Rapids area, where Trump's forces have consolidated behind conservative commentator John Gibbs' bid to deny renomination to freshman Rep. <span class='selected-term'>Peter Meijer</span> in August.",
     "author": "",
     "title": "House Republicans all lead their challengers in recent fundraising",
     "sentiment": "0.0"
   },
   {
+    "id": 54,
+    "mediaId": 43,
+    "date": "2022-00-22",
+    "sentence": "? MI-03: The Democratic group EMILY's List has released a mid-January survey from Impact Research arguing that Rep. <span class='selected-term'>Peter Meijer</span> is in real danger of losing his August Republican primary to conservative commentator John Gibbs.",
+    "author": "",
+    "title": "Morning Digest: An old scandal resurfaces for Texas attorney general one week ahead of GOP primary",
+    "sentiment": "0.0"
+  },
+  {
     "id": 6,
     "mediaId": 43,
-    "date": "d2022-04-25T00:00",
+    "date": "2022-00-25",
     "sentence": "? MI-03: Rep. <span class='selected-term'>Peter Meijer</span>, who was one of the 10 House Republicans to vote to impeach Trump, faces primary opposition from conservative commentator John Gibbs, who is Trump's endorsed candidate.",
     "author": "",
     "title": "Morning Digest: Michigan Republican sends horrid",

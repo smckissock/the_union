@@ -1,62 +1,8 @@
 [
   {
-    "id": 4420,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "State Board of Education expected to approve new commissioner today",
-    "sentiment": "0"
-  },
-  {
-    "id": 4420,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "State Board of Education expected to approve new commissioner today",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4406,
-    "mediaId": 558,
-    "date": "d2022-04-29T13:25",
-    "sentence": "",
-    "author": "Jake Stofan",
-    "title": "Were gonna implement the law: New education Commissioner supports Stop WOKE Act he sponsored",
-    "sentiment": "0"
-  },
-  {
-    "id": 4406,
-    "mediaId": 558,
-    "date": "d2022-04-29T13:25",
-    "sentence": "",
-    "author": "Jake Stofan",
-    "title": "Were gonna implement the law: New education Commissioner supports Stop WOKE Act he sponsored",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4392,
-    "mediaId": 1067,
-    "date": "d2022-04-29T15:01",
-    "sentence": "",
-    "author": "Ryan Dailey",
-    "title": "Sen. Diaz named Florida education commissioner to replace Corcoran",
-    "sentiment": "0"
-  },
-  {
-    "id": 4392,
-    "mediaId": 1067,
-    "date": "d2022-04-29T15:01",
-    "sentence": "",
-    "author": "Ryan Dailey",
-    "title": "Sen. Diaz named Florida education commissioner to replace Corcoran",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4237,
     "mediaId": 302,
-    "date": "d2022-05-02T10:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Pay remains sticking point for many Florida teachers, support staff",
@@ -65,7 +11,7 @@
   {
     "id": 3880,
     "mediaId": 302,
-    "date": "d2022-05-07T10:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Most Florida math textbook reviewers didnt see evidence of woke concepts",
@@ -74,7 +20,7 @@
   {
     "id": 3880,
     "mediaId": 302,
-    "date": "d2022-05-07T10:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Most Florida math textbook reviewers didnt see evidence of woke concepts",
@@ -83,7 +29,7 @@
   {
     "id": 3820,
     "mediaId": 302,
-    "date": "d2022-05-09T19:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "DeSantis signs law requiring Florida school lessons on victims of communism",
@@ -92,10 +38,64 @@
   {
     "id": 3820,
     "mediaId": 302,
-    "date": "d2022-05-09T19:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "DeSantis signs law requiring Florida school lessons on victims of communism",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4392,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Ryan Dailey",
+    "title": "Sen. Diaz named Florida education commissioner to replace Corcoran",
+    "sentiment": "0"
+  },
+  {
+    "id": 4392,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Ryan Dailey",
+    "title": "Sen. Diaz named Florida education commissioner to replace Corcoran",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4406,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jake Stofan",
+    "title": "Were gonna implement the law: New education Commissioner supports Stop WOKE Act he sponsored",
+    "sentiment": "0"
+  },
+  {
+    "id": 4406,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jake Stofan",
+    "title": "Were gonna implement the law: New education Commissioner supports Stop WOKE Act he sponsored",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4420,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "State Board of Education expected to approve new commissioner today",
+    "sentiment": "0"
+  },
+  {
+    "id": 4420,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "State Board of Education expected to approve new commissioner today",
     "sentiment": "0.0"
   }
 ]

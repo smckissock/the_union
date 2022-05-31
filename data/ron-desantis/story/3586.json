@@ -1,7 +1,7 @@
 {
   "id": 3586,
   "mediaId": 238,
-  "date": "d2022-05-15T00:00",
+  "date": "5/15/2022 12:00:00 AM",
   "headline": "Key issues",
   "image": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5HKQ5IMGGNH4VBWHM46OPXNWTQ.png&w=1800",
   "link": "https://www.washingtonpost.com/politics/interactive/2022/key-issues-voting-2022-midterms/",
@@ -12,16 +12,7 @@
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661,
-    1174,
-    2058,
-    2087,
-    2305,
-    146,
-    149,
-    482,
-    571,
-    2934
+    661
   ],
   "sentences": [
     "Abortion\nAbortion was catapulted to the forefront in May after Politico published an authentic draft of an opinion written by Justice Samuel A. Alito Jr., showing that the Supreme Court was positioned to strike down Roe v. Wade in the case involving Mississippis restrictive abortion law.",

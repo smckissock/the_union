@@ -2,7 +2,7 @@
   {
     "id": 7018,
     "mediaId": 124,
-    "date": "d2022-02-16T14:00",
+    "date": "2/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
@@ -11,52 +11,61 @@
   {
     "id": 6440,
     "mediaId": 238,
-    "date": "d2022-04-08T12:00",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits...",
     "sentiment": "0"
   },
   {
+    "id": 6375,
+    "mediaId": 21,
+    "date": "4/15/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Brent D. Griffiths",
+    "title": "Trump endorses 'Never Trump guy' JD Vance, ignoring many Ohio Republicans who wanted him to pick a different candidate in a key Senate race",
+    "sentiment": "0"
+  },
+  {
     "id": 6386,
     "mediaId": 195,
-    "date": "d2022-04-15T10:26",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Russia plots next move amid setbacks",
     "sentiment": "0"
   },
   {
-    "id": 6375,
-    "mediaId": 21,
-    "date": "d2022-04-15T21:00",
-    "sentence": "",
-    "author": "Brent D. Griffiths",
-    "title": "Trump endorses 'Never Trump guy' JD Vance, ignoring many Ohio Republicans who wanted him to pick a different candidate in a key Senate race",
-    "sentiment": "-0.358"
-  },
-  {
-    "id": 6300,
-    "mediaId": 43,
-    "date": "d2022-04-19T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "for Bluesday, April 19th",
-    "sentiment": "0"
-  },
-  {
     "id": 6296,
     "mediaId": 376,
-    "date": "d2022-04-19T06:00",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "John T. Bennett",
     "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
     "sentiment": "0"
   },
   {
+    "id": 6300,
+    "mediaId": 43,
+    "date": "4/19/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "for Bluesday, April 19th",
+    "sentiment": "0"
+  },
+  {
+    "id": 6251,
+    "mediaId": 238,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
+    "sentiment": "0"
+  },
+  {
     "id": 6262,
     "mediaId": 43,
-    "date": "d2022-04-21T00:00",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 4/21",
@@ -65,25 +74,16 @@
   {
     "id": 6267,
     "mediaId": 43,
-    "date": "d2022-04-21T00:00",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Yes, Republicans really are moving us towards",
     "sentiment": "0"
   },
   {
-    "id": 6251,
-    "mediaId": 238,
-    "date": "d2022-04-21T15:31",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
-    "sentiment": "0"
-  },
-  {
     "id": 5023,
     "mediaId": 43,
-    "date": "d2022-04-22T00:00",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
@@ -92,7 +92,7 @@
   {
     "id": 6220,
     "mediaId": 238,
-    "date": "d2022-04-22T18:04",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
@@ -101,7 +101,7 @@
   {
     "id": 6199,
     "mediaId": 302,
-    "date": "d2022-04-23T13:00",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jim Verhulst",
     "title": "Heres what to read from the left and the right | Column",
@@ -110,7 +110,7 @@
   {
     "id": 6173,
     "mediaId": 151,
-    "date": "d2022-04-24T15:24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: Remembering Orrin Hatch",
@@ -119,43 +119,43 @@
   {
     "id": 6163,
     "mediaId": 157,
-    "date": "d2022-04-25T00:00",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "Nick Evans",
     "title": "'We love Trump, but he's not God': Trump fans unmoved by his endorsement of J.D. Vance",
-    "sentiment": "-0.284"
+    "sentiment": "0"
   },
   {
     "id": 6145,
     "mediaId": 124,
-    "date": "d2022-04-26T13:05",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
     "sentiment": "0"
   },
   {
-    "id": 6094,
-    "mediaId": 43,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
-    "sentiment": "0"
-  },
-  {
     "id": 4363,
     "mediaId": 112,
-    "date": "d2022-04-29T19:53",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Robert Schroeder",
     "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
     "sentiment": "0"
   },
   {
+    "id": 6094,
+    "mediaId": 43,
+    "date": "4/29/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
+    "sentiment": "0"
+  },
+  {
     "id": 4349,
     "mediaId": 188,
-    "date": "d2022-04-30T00:00",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Sacca",
     "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
@@ -164,7 +164,7 @@
   {
     "id": 4316,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "5/1/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
@@ -173,7 +173,7 @@
   {
     "id": 4218,
     "mediaId": 238,
-    "date": "d2022-05-02T14:48",
+    "date": "5/2/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion A conservative Christian quietly battles against right-wing hysteria",
@@ -182,16 +182,25 @@
   {
     "id": 4096,
     "mediaId": 129,
-    "date": "d2022-05-04T00:00",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Four Opinion Writers Ask After Vance Win and Roe Leak: Is This Trumps World Now?",
     "sentiment": "0"
   },
   {
+    "id": 4000,
+    "mediaId": 237,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Nihal Krishan",
+    "title": "Conservatives eager to see return of political ads on Twitter under Musk",
+    "sentiment": "0"
+  },
+  {
     "id": 4018,
     "mediaId": 43,
-    "date": "d2022-05-05T00:00",
+    "date": "5/5/2022 12:00:00 AM",
     "sentence": "",
     "author": "Bill",
     "title": "Cheers and Jeers: Thursday",
@@ -200,43 +209,34 @@
   {
     "id": 4022,
     "mediaId": 157,
-    "date": "d2022-05-05T00:00",
+    "date": "5/5/2022 12:00:00 AM",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
     "sentiment": "0"
   },
   {
-    "id": 4000,
-    "mediaId": 237,
-    "date": "d2022-05-05T06:00",
-    "sentence": "",
-    "author": "Nihal Krishan",
-    "title": "Conservatives eager to see return of political ads on Twitter under Musk",
-    "sentiment": "0"
-  },
-  {
-    "id": 3966,
-    "mediaId": 129,
-    "date": "d2022-05-06T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It.",
-    "sentiment": "0"
-  },
-  {
     "id": 3929,
     "mediaId": 558,
-    "date": "d2022-05-06T12:06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Conservative urges American Christians to reject the new right's authoritarian impulses",
     "sentiment": "0"
   },
   {
+    "id": 3966,
+    "mediaId": 129,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It.",
+    "sentiment": "0"
+  },
+  {
     "id": 3873,
     "mediaId": 136,
-    "date": "d2022-05-07T15:06",
+    "date": "5/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "Brendan Cole",
     "title": "Roe v. Wade Turmoil Shows 'Cancer of Trump's Influence': Impeachment Lawyer",
@@ -245,7 +245,7 @@
   {
     "id": 3855,
     "mediaId": 195,
-    "date": "d2022-05-08T13:30",
+    "date": "5/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "Douglas E. Schoen",
     "title": "Does Donald Trump still control the GOP?: Three Senate races will give us an answer",
@@ -254,7 +254,7 @@
   {
     "id": 3780,
     "mediaId": 238,
-    "date": "d2022-05-10T10:00",
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Emboldened by wins, GOP goes all in on the culture wars",
@@ -263,25 +263,16 @@
   {
     "id": 3689,
     "mediaId": 238,
-    "date": "d2022-05-11T17:47",
+    "date": "5/11/2022 12:00:00 AM",
     "sentence": "",
     "author": "Henry Olsen",
     "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable.",
-    "sentiment": "0.448"
-  },
-  {
-    "id": 3527,
-    "mediaId": 98,
-    "date": "d2022-05-17T00:00",
-    "sentence": "",
-    "author": "Ryan Faughnder",
-    "title": "Netflixs message to employees and woke Hollywoods retreat",
     "sentiment": "0"
   },
   {
     "id": 3382,
     "mediaId": 129,
-    "date": "d2022-05-17T04:01",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
@@ -290,7 +281,7 @@
   {
     "id": 3409,
     "mediaId": 129,
-    "date": "d2022-05-17T09:04:42",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
@@ -299,16 +290,25 @@
   {
     "id": 3410,
     "mediaId": 129,
-    "date": "d2022-05-17T09:04:42",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Live Updates: What to Watch for in the Pennsylvania and North Carolina Primaries",
     "sentiment": "0"
   },
   {
+    "id": 3527,
+    "mediaId": 98,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Netflixs message to employees and woke Hollywoods retreat",
+    "sentiment": "0"
+  },
+  {
     "id": 3471,
     "mediaId": 136,
-    "date": "d2022-05-18T17:32",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Katherine Fung",
     "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
@@ -317,7 +317,7 @@
   {
     "id": 6522,
     "mediaId": 376,
-    "date": "d2022-05-19T14:30",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Stephanie Akin\nKate Ackley\nMary Ellen McIntire",
     "title": "At the Races: NY state of turmoil",
@@ -326,7 +326,7 @@
   {
     "id": 8404,
     "mediaId": 376,
-    "date": "d2022-05-26T14:30",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
     "title": "At the Races: Divisions on display",
@@ -335,7 +335,7 @@
   {
     "id": 8461,
     "mediaId": 129,
-    "date": "d2022-05-28T00:00",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Trump's Primary Losses Puncture His Invincibility",

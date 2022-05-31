@@ -1,8 +1,26 @@
 [
   {
+    "id": 5912,
+    "mediaId": 312,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Philip Elliott",
+    "title": "A Leaked Supreme Court Draft Threatens to Make Every Race About Abortion",
+    "sentiment": "0"
+  },
+  {
+    "id": 5938,
+    "mediaId": 233,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Editors",
+    "title": "Leaked abortion draft opinion, Russia's next moves, Midwest primaries: 5 things to know Tuesday",
+    "sentiment": "0.559"
+  },
+  {
     "id": 5951,
     "mediaId": 129,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "This Supreme Court Is Out of Step With Most Americans",
@@ -11,34 +29,16 @@
   {
     "id": 5978,
     "mediaId": 43,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "Ohio Senate: SCOTUS leak comes out just in time for the primaries",
     "sentiment": "0.248"
   },
   {
-    "id": 5938,
-    "mediaId": 233,
-    "date": "d2022-05-03T08:38",
-    "sentence": "",
-    "author": "Editors",
-    "title": "Leaked abortion draft opinion, Russia's next moves, Midwest primaries: 5 things to know Tuesday",
-    "sentiment": "0.559"
-  },
-  {
-    "id": 5912,
-    "mediaId": 312,
-    "date": "d2022-05-03T19:24",
-    "sentence": "",
-    "author": "Philip Elliott",
-    "title": "A Leaked Supreme Court Draft Threatens to Make Every Race About Abortion",
-    "sentiment": "0"
-  },
-  {
     "id": 5861,
     "mediaId": 209,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Harold Maass",
     "title": "10 things you need to know today: May 4, 2022",
@@ -47,7 +47,7 @@
   {
     "id": 4018,
     "mediaId": 43,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Bill",
     "title": "Cheers and Jeers: Thursday",
@@ -56,7 +56,7 @@
   {
     "id": 5732,
     "mediaId": 19,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Katherine Hamilton",
     "title": "J.D. Vance on Kamala Harris Stooge Tim Ryans Late-Term Abortion Stance: Barbaric Anywhere in the World",
@@ -65,7 +65,7 @@
   {
     "id": 3873,
     "mediaId": 136,
-    "date": "d2022-05-07T15:06",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Brendan Cole",
     "title": "Roe v. Wade Turmoil Shows 'Cancer of Trump's Influence': Impeachment Lawyer",
@@ -74,7 +74,7 @@
   {
     "id": 5532,
     "mediaId": 238,
-    "date": "d2022-05-15T12:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Jason Willick",
     "title": "Opinion Sorry, Democrats, there is no Supreme Court legitimacy crisis",

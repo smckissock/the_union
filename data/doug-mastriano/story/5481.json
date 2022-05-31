@@ -1,27 +1,18 @@
 {
   "id": 5481,
   "mediaId": 409,
-  "date": "d2022-05-17T22:25",
+  "date": "5/17/2022 12:00:00 AM",
   "headline": "Trump-Backed Doug Mastriano Wins Pennsylvania GOP Primary for Governor",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/doug-mastriano-pennsylvania.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/trump-backed-doug-mastriano-wins-pennsylvania-gop-primary-for-governor/",
-  "sentiment": "0.549",
+  "sentiment": "0.0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caroline Downey",
   "authorUrl": "https://www.nationalreview.com/author/caroline-downey/",
   "termIds": [
-    1147,
-    1282,
-    1801,
-    3102,
-    428,
-    562,
-    571,
-    2992,
-    2862,
-    4936
+    3102
   ],
   "sentences": [
     "In 2019, he sponsored legislation that would would ban abortions in Pennsylvania in cases where a physician can detect a fetal heartbeat, proving himself ahead of the curve of Republican-controlled states such as Texas and Florida that only recently introduced such measures.",

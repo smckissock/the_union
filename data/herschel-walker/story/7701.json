@@ -1,26 +1,18 @@
 {
   "id": 7701,
   "mediaId": 558,
-  "date": "d2022-04-21T03:21",
+  "date": "4/21/2022 12:00:00 AM",
   "headline": "Were running out of time to hold Donald Trump accountable",
   "image": "https://s.yimg.com/ny/api/res/1.2/t8XSsnYUn9GxMiJAKDqRxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3NjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/eYN75IA6vYXOn.IwXwsq2A--~B/aD02MDA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/theguardian_763/a3fadb500fa03b7b76ffac453c18a587",
   "link": "https://sg.news.yahoo.com/running-time-hold-donald-trump-102152731.html",
-  "sentiment": "0.835",
+  "sentiment": "0.0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Robert Reich",
   "authorUrl": "",
   "termIds": [
-    815,
-    1147,
-    1653,
-    1801,
-    4247,
-    232,
-    380,
-    571,
-    2862
+    815
   ],
   "sentences": [
     "To get a strong endorsement from Trump, a candidate apparently must fulfill three prerequisites  run in a swing state whose primaries and general election will attract lots of media attention, be totally committed to Trump and his big lie, and be capable of promoting Trump and his lie with the kind of celebrity pizzaz that sells well on television.",

@@ -2,28 +2,28 @@
   {
     "id": 7417,
     "mediaId": 18,
-    "date": "d2022-05-24T22:48",
+    "date": "2022-00-24",
     "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "Associated Press",
     "title": "Biden says we have to act after Texas school shooting",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7388,
+    "mediaId": 943,
+    "date": "2022-00-25",
+    "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
+    "author": "ZEKE MILLER and CHRIS MEGERIAN",
+    "title": "President Biden delivers emotional plea for new gun restrictions after Texas school shooting",
     "sentiment": "0.0"
   },
   {
     "id": 7405,
     "mediaId": 18,
-    "date": "d2022-05-25T00:25",
+    "date": "2022-00-25",
     "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "Associated Press",
     "title": "Biden says we have to act after Texas school shooting",
     "sentiment": "0"
-  },
-  {
-    "id": 7388,
-    "mediaId": 943,
-    "date": "d2022-05-25T22:22",
-    "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
-    "author": "ZEKE MILLER and CHRIS MEGERIAN",
-    "title": "President Biden delivers emotional plea for new gun restrictions after Texas school shooting",
-    "sentiment": "0.0"
   }
 ]

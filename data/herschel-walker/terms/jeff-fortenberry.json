@@ -1,20 +1,20 @@
 [
   {
-    "id": 5441,
-    "mediaId": 124,
-    "date": "d2022-03-28T12:47:54",
-    "sentence": "Brian Kemp, and Senate hopeful <span class='selected-term'>Herschel Walker</span>.",
-    "author": "",
-    "title": "Midterm environment looks more like 2010 than 2018 in NBC News poll",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7863,
     "mediaId": 43,
-    "date": "d2022-04-01T00:00",
+    "date": "2022-00-01",
     "sentence": "Friday, Apr 1, 2022  5:16:43 PM +00:00  Jeff Singer\nGA-Sen: Former football star <span class='selected-term'>Herschel Walker</span> has been the undisputed frontrunner for the Republican nomination to take on Democratic Sen. Raphael Warnock from the moment he entered the race in August, but now his intra-party critics are preparing to wage an expensive ad campaign to weaken him in ahead of the May 24 primary.",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 4/1",
     "sentiment": "-0.993"
+  },
+  {
+    "id": 5441,
+    "mediaId": 124,
+    "date": "2022-00-28",
+    "sentence": "Brian Kemp, and Senate hopeful <span class='selected-term'>Herschel Walker</span>.",
+    "author": "",
+    "title": "Midterm environment looks more like 2010 than 2018 in NBC News poll",
+    "sentiment": "0.0"
   }
 ]

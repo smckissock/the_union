@@ -1,7 +1,7 @@
 {
   "id": 5390,
   "mediaId": 33,
-  "date": "d2022-03-31T00:00",
+  "date": "3/31/2022 12:00:00 AM",
   "headline": "Biden considering releasing 1 million barrels of oil per day from strategic reserves",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220329141627-joe-biden-0328-exlarge-169.jpg",
   "link": "https://www.cnn.com/2022/03/30/politics/strategic-petroleum-reserve-release-oil-joe-biden/index.html",
@@ -12,11 +12,7 @@
   "author": "Kevin Liptak",
   "authorUrl": "https://www.cnn.com/profiles/kevin-liptak-profile",
   "termIds": [
-    2030,
-    2087,
-    2095,
-    2945,
-    2959
+    2095
   ],
   "sentences": [
     "Still, tapping the reserve -- the stockpile of 600 million barrels of crude oil stored in underground salt caverns in Louisiana and Texas -- generally has only a limited effect on gas prices because of how much oil can be released at a time, but would act as a political sign that Biden is continuing to confront the problem.",

@@ -1,11 +1,11 @@
 {
   "id": 2427,
   "mediaId": 323,
-  "date": "d2022-01-09T15:26",
+  "date": "1/9/2022 12:00:00 AM",
   "headline": "Ron Johnson, Republican Senator, to Seek Third Term in Wisconsin",
   "image": "https://images.wsj.net/im-464478?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/ron-johnson-republican-senator-to-seek-third-term-in-wisconsin-11641737583",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,16 +14,8 @@
   "termIds": [
     741,
     802,
-    1147,
     1568,
-    1925,
-    2039,
-    2087,
-    146,
-    428,
-    571,
-    2834,
-    2972
+    2039
   ],
   "sentences": [
     "PREVIEW\nSUBSCRIBE\nThe state saw some of the first television advertisements of the 2022 campaign cycle nearly a year ago when the Democratic Party of Wisconsin launched more than $100,000 in spots critical of Mr. Johnson, who has questioned the existence of climate change, Mr. Biden's 2020 victory and whether the Jan. 6 riot at the Capitol amounted to an armed insurrection.",

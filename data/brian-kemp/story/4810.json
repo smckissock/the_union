@@ -1,24 +1,18 @@
 {
   "id": 4810,
   "mediaId": 151,
-  "date": "d2022-05-01T11:00",
+  "date": "5/1/2022 12:00:00 AM",
   "headline": "Trumps criminal justice reform bill becomes persona non grata among GOPers",
   "image": "https://www.politico.com/dims4/default/0fe444c/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F71%2F91%2Ff3af54b44b03843a1030db4cb95d%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1240191127",
   "link": "https://www.politico.com/news/2022/05/01/trump-republicans-first-step-act-00029104",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    822,
-    1147,
-    1477,
-    2095,
-    2347,
-    4358,
-    2672
+    2095
   ],
   "sentences": [
     "If you embed unfairness in our system, you will undermine it, and the EQUAL Act is designed to create that fairness and thats the foundation for juries coming back with fair sentencing and results.?\nSo far, the bill has the support of 11 Republican senators, the National District Attorneys Association, the Major Cities Chiefs Association and the American Civil Liberties Union.",

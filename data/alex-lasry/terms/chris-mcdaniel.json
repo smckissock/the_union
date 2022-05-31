@@ -1,20 +1,20 @@
 [
   {
-    "id": 2387,
-    "mediaId": 367,
-    "date": "d2022-02-21T00:00",
-    "sentence": "Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> said he believes there is inherent inequality in the current system.",
-    "author": "Daniel Bice",
-    "title": "Bice: U.S. Senate candidate Mandela Barnes favors eliminating cash bail nationally, aide says",
-    "sentiment": "0"
-  },
-  {
     "id": 2336,
     "mediaId": 195,
-    "date": "d2022-04-12T13:11",
+    "date": "2022-00-12",
     "sentence": "A Marquette University Law School survey released earlier this month showed Barnes leading the Democratic field of candidates, with 23 percent support, followed by Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> at 13 percent support.",
     "author": "Julia Manchester",
     "title": "Barnes posts $1.7M first quarter number in Wisconsin Senate race",
     "sentiment": "0.0"
+  },
+  {
+    "id": 2387,
+    "mediaId": 367,
+    "date": "2022-00-21",
+    "sentence": "Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> said he believes there is inherent inequality in the current system.",
+    "author": "Daniel Bice",
+    "title": "Bice: U.S. Senate candidate Mandela Barnes favors eliminating cash bail nationally, aide says",
+    "sentiment": "0"
   }
 ]

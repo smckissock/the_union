@@ -1,26 +1,18 @@
 {
   "id": 7413,
   "mediaId": 32,
-  "date": "d2022-05-24T23:16:40",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Trump-endorsed Senate hopeful Herschel Walker wins Georgia Republican primary, will face Democratic Sen. Warnock, NBC projects",
   "image": "https://image.cnbcfm.com/api/v1/image/107066440-1653422489010-her2.jpg?v=1653422546&w=740&h=416&ffmt=webp",
   "link": "https://www.cnbc.com/2022/05/24/georgia-gop-senate-primary-trump-pick-herschel-walker-leads-polls.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "CNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kevin Breuninger",
   "authorUrl": "",
   "termIds": [
-    815,
-    1136,
-    1147,
-    2087,
-    146,
-    428,
-    571,
-    3439,
-    2672
+    815
   ],
   "sentences": [
     "GOP hopefuls in many cases have sought Trumps favor by embracing the falsehood that the election was stolen from him, raising the prospect that a wave of candidates who spread election conspiracies could take federal and state office next year.",

@@ -1,128 +1,128 @@
 [
   {
-    "id": 6110,
-    "mediaId": 237,
-    "date": "d2022-04-28T06:00",
-    "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Midterm Memo: Power of Trump endorsement on display in Ohio",
-    "sentiment": "0"
-  },
-  {
     "id": 5609,
     "mediaId": 129,
-    "date": "d2022-05-09T23:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
     "sentiment": "0"
   },
   {
-    "id": 5605,
-    "mediaId": 19,
-    "date": "d2022-05-10T00:00",
-    "sentence": "",
-    "author": "Nick Gilbertson",
-    "title": "Trump-Backed Candidates 58-1 in Primaries Following Races in Nebraska, West Virginia",
-    "sentiment": "0"
-  },
-  {
-    "id": 5598,
-    "mediaId": 195,
-    "date": "d2022-05-10T09:27",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "5 things to watch in the West Virginia, Nebraska primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5597,
-    "mediaId": 238,
-    "date": "d2022-05-10T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today",
-    "sentiment": "0"
-  },
-  {
     "id": 5594,
     "mediaId": 323,
-    "date": "d2022-05-10T13:10",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Joshua Jamerson",
     "title": "West Virginia Republican Primary: Infrastructure Votes, Trump Endorsement Take Center Stage",
     "sentiment": "0"
   },
   {
-    "id": 5580,
+    "id": 5597,
+    "mediaId": 238,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "",
+    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today",
+    "sentiment": "0"
+  },
+  {
+    "id": 5598,
     "mediaId": 195,
-    "date": "d2022-05-11T01:14",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Tal Axelrod",
-    "title": "Mooney wins West Virginia primary, handing Trump another win",
+    "title": "5 things to watch in the West Virginia, Nebraska primaries",
     "sentiment": "0"
   },
   {
-    "id": 5577,
-    "mediaId": 151,
-    "date": "d2022-05-11T05:16",
+    "id": 5605,
+    "mediaId": 19,
+    "date": "2022-00-10",
     "sentence": "",
-    "author": "",
-    "title": "Trump gets knocked down in Nebraska",
-    "sentiment": "0"
-  },
-  {
-    "id": 5575,
-    "mediaId": 238,
-    "date": "d2022-05-11T10:23",
-    "sentence": "",
-    "author": "",
-    "title": "Takeaways from West Virginia and Nebraska GOP primaries",
-    "sentiment": "-0.465"
-  },
-  {
-    "id": 5572,
-    "mediaId": 129,
-    "date": "d2022-05-11T13:27:59",
-    "sentence": "",
-    "author": "",
-    "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
-    "sentiment": "0"
-  },
-  {
-    "id": 5571,
-    "mediaId": 136,
-    "date": "d2022-05-11T15:06",
-    "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "Donald Trump Is Losing More Primary Races Than He'd Like You to Know",
-    "sentiment": "0"
-  },
-  {
-    "id": 5565,
-    "mediaId": 376,
-    "date": "d2022-05-11T17:19",
-    "sentence": "",
-    "author": "Chris Marquette",
-    "title": "Mooney win cements House Republicans belief in value of Trump endorsement",
+    "author": "Nick Gilbertson",
+    "title": "Trump-Backed Candidates 58-1 in Primaries Following Races in Nebraska, West Virginia",
     "sentiment": "0"
   },
   {
     "id": 3689,
     "mediaId": 238,
-    "date": "d2022-05-11T17:47",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Henry Olsen",
     "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable.",
     "sentiment": "0.448"
   },
   {
+    "id": 5565,
+    "mediaId": 376,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Chris Marquette",
+    "title": "Mooney win cements House Republicans belief in value of Trump endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 5571,
+    "mediaId": 136,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Ewan Palmer",
+    "title": "Donald Trump Is Losing More Primary Races Than He'd Like You to Know",
+    "sentiment": "0"
+  },
+  {
+    "id": 5572,
+    "mediaId": 129,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
+    "sentiment": "0"
+  },
+  {
+    "id": 5575,
+    "mediaId": 238,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Takeaways from West Virginia and Nebraska GOP primaries",
+    "sentiment": "-0.465"
+  },
+  {
+    "id": 5577,
+    "mediaId": 151,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Trump gets knocked down in Nebraska",
+    "sentiment": "0"
+  },
+  {
+    "id": 5580,
+    "mediaId": 195,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Mooney wins West Virginia primary, handing Trump another win",
+    "sentiment": "0"
+  },
+  {
     "id": 5469,
     "mediaId": 129,
-    "date": "d2022-05-18T13:44",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Heres where Trumps endorsement record stands so far.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6110,
+    "mediaId": 237,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Midterm Memo: Power of Trump endorsement on display in Ohio",
     "sentiment": "0"
   }
 ]

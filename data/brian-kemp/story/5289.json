@@ -1,24 +1,18 @@
 {
   "id": 5289,
   "mediaId": 21,
-  "date": "d2022-04-06T05:00",
+  "date": "4/6/2022 12:00:00 AM",
   "headline": "MyPillow CEO Mike Lindell has been served with another defamation suit. This time, it's from a former Dominion employee he once accused of being a 'traitor to the United States of America.'",
   "image": "https://i.insider.com/61e76ee77c6a200018427d49?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/mypillow-ceo-mike-lindell-served-defamation-suit-eric-coomer-dominion-2022-4",
-  "sentiment": "-0.481",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Cheryl Teh",
   "authorUrl": "https://www.businessinsider.com/author/cheryl-teh",
   "termIds": [
-    1145,
-    1850,
-    2095,
-    154,
-    329,
-    2945,
-    4967
+    2095
   ],
   "sentences": [
     "\"Despite Defendants' baseless claims of election fraud being disproven by credible authorities across political parties, they persist in their campaign to profit from the 'Big Lie' by destroying the lives of private individuals like Dr. Coomer,\" read the court filing.",

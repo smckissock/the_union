@@ -1,7 +1,7 @@
 {
   "id": 5588,
   "mediaId": 65,
-  "date": "d2022-05-10T22:00",
+  "date": "5/10/2022 12:00:00 AM",
   "headline": "Fox News Poll: Three-way race in Pennsylvania GOP Senate primary election",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7dad363-80eb-4384-8ece-55e22dd1e85b/29c986ce-37f9-4d95-92ce-9a13bee79ef7/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/official-polls/fox-news-poll-three-way-race-pennsylvania-gop-senate-primary-election",
@@ -12,17 +12,8 @@
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1282,
-    1653,
     3102,
-    3103,
-    4682,
-    200,
-    428,
-    571,
-    2992,
-    2862
+    3103
   ],
   "sentences": [
     "Conducted May 3-7, 2022, under the joint direction of Beacon Research (D) and Shaw & Company Research (R), this Fox News Poll includes telephone interviews (landline and cellphone) with live interviewers among 1,001 Pennsylvania Republican primary voters and has an overall margin of sampling error of plus or minus three percentage points.",

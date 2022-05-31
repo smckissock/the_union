@@ -1,35 +1,8 @@
 [
   {
-    "id": 6455,
-    "mediaId": 43,
-    "date": "d2022-04-06T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Morning Digest: Longtime congressman will retire rather than face",
-    "sentiment": "0"
-  },
-  {
-    "id": 6429,
-    "mediaId": 43,
-    "date": "d2022-04-12T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Like where are the dads?: Tucker Carlson calls for violence against teachers who talk identity",
-    "sentiment": "0"
-  },
-  {
-    "id": 5023,
-    "mediaId": 43,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
-    "sentiment": "0"
-  },
-  {
     "id": 6038,
     "mediaId": 43,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Trump has no idea who is actually in Ohio's primary, but we do. Here's what to watch on Tuesday",
@@ -38,10 +11,37 @@
   {
     "id": 5842,
     "mediaId": 43,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Laura Clawson",
     "title": "J.D. Vance is the Ohio Senate candidate Mitch McConnell deserves, however McConnell feels about it",
+    "sentiment": "0"
+  },
+  {
+    "id": 6455,
+    "mediaId": 43,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "Morning Digest: Longtime congressman will retire rather than face",
+    "sentiment": "0"
+  },
+  {
+    "id": 6429,
+    "mediaId": 43,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "",
+    "title": "Like where are the dads?: Tucker Carlson calls for violence against teachers who talk identity",
+    "sentiment": "0"
+  },
+  {
+    "id": 5023,
+    "mediaId": 43,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
     "sentiment": "0"
   }
 ]

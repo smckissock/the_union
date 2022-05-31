@@ -1,17 +1,8 @@
 [
   {
-    "id": 8175,
-    "mediaId": 169,
-    "date": "d2022-02-09T14:54",
-    "sentence": "",
-    "author": "Igor Derysh",
-    "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
-    "sentiment": "0"
-  },
-  {
     "id": 6016,
     "mediaId": 151,
-    "date": "d2022-05-02T08:30",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Arizona GOP Senate frontrunner loses lead amid air assault",
@@ -20,16 +11,25 @@
   {
     "id": 5745,
     "mediaId": 129,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
     "title": "In Arizona, a Swing State Swings to the Far Right",
     "sentiment": "0.665"
   },
   {
+    "id": 8175,
+    "mediaId": 169,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "Igor Derysh",
+    "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
+    "sentiment": "0"
+  },
+  {
     "id": 3307,
     "mediaId": 233,
-    "date": "d2022-05-13T13:16",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Ella Lee",
     "title": "Pence will go toe-to-toe with Trump in Georgia as he announces rally with GOP Gov. Brian Kemp",

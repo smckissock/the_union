@@ -1,35 +1,8 @@
 [
   {
-    "id": 843,
-    "mediaId": 169,
-    "date": "d2022-01-03T06:00",
-    "sentence": "",
-    "author": "Igor Derysh",
-    "title": "Meet the scariest Republican candidates of 2022: It wasn't easy to pick 'em",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 85,
-    "mediaId": 129,
-    "date": "d2022-01-05T00:00",
-    "sentence": "In September, he endorsed a square-jawed, Army Special Forces veteran, <span class='selected-term'>Joe Kent</span>, to challenge Ms. Herrera Beutler, who before her vote had revealed one of the most damning vignettes of Jan. 6 for Mr. Trump.",
-    "author": "",
-    "title": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2256,
-    "mediaId": 237,
-    "date": "d2022-01-17T10:50",
-    "sentence": "It's going to come from the right, too.?\nHe was one of two Republican candidates, along with <span class='selected-term'>Joe Kent</span> of Washington, to attend a September Justice for J6? rally in support of alleged participants of the Jan. 6 Capitol riot still in Washington, D.C., jails.",
-    "author": "Emily Brooks",
-    "title": "A top GOP House candidate in Georgia says election doubts still driving voters",
-    "sentiment": "0.0"
-  },
-  {
     "id": 68,
     "mediaId": 163,
-    "date": "d2022-02-01T21:37",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Alexandra Ulmer",
     "title": "Republican U.S. lawmakers funnel money to colleagues who crossed Trump",
@@ -38,10 +11,37 @@
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "d2022-02-02T21:13",
+    "date": "2022-00-02",
     "sentence": "Trump has endorsed <span class='selected-term'>Joe Kent</span>, one of Herrera Beutler's Republican primary challengers in Washington's 3rd Congressional District.",
     "author": "Julia Manchester",
     "title": "GOP women's group endorses Herrera Beutler in primary race",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 843,
+    "mediaId": 169,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Igor Derysh",
+    "title": "Meet the scariest Republican candidates of 2022: It wasn't easy to pick 'em",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 85,
+    "mediaId": 129,
+    "date": "2022-00-05",
+    "sentence": "In September, he endorsed a square-jawed, Army Special Forces veteran, <span class='selected-term'>Joe Kent</span>, to challenge Ms. Herrera Beutler, who before her vote had revealed one of the most damning vignettes of Jan. 6 for Mr. Trump.",
+    "author": "",
+    "title": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2256,
+    "mediaId": 237,
+    "date": "2022-00-17",
+    "sentence": "It's going to come from the right, too.?\nHe was one of two Republican candidates, along with <span class='selected-term'>Joe Kent</span> of Washington, to attend a September Justice for J6? rally in support of alleged participants of the Jan. 6 Capitol riot still in Washington, D.C., jails.",
+    "author": "Emily Brooks",
+    "title": "A top GOP House candidate in Georgia says election doubts still driving voters",
     "sentiment": "0.0"
   }
 ]

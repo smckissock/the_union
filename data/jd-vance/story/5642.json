@@ -1,26 +1,18 @@
 {
   "id": 5642,
   "mediaId": 195,
-  "date": "d2022-05-07T02:47",
+  "date": "5/7/2022 12:00:00 AM",
   "headline": "Trump rallies for Oz in Pennsylvania, calls his challenger more Toomey than he is MAGA",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/Oz_Trump_Rally_050622_AP.jpg",
   "link": "https://thehill.com/news/campaign/3480297-trump-rallies-for-oz-in-pennsylvania-calls-his-challenger-more-toomey-than-he-is-maga/",
-  "sentiment": "0.932",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caroline Vakil",
   "authorUrl": "https://thehill.com/author/caroline-vakil/",
   "termIds": [
-    1133,
-    1147,
-    1801,
-    3103,
-    428,
-    571,
-    2710,
-    2845,
-    2862
+    3103
   ],
   "sentences": [
     "He really stepped forward.?\nTrump also took aim at former hedge fund CEO Dave McCormick, Ozs primary challenger in the Senate race, saying he is similar to Sen. Pat Toomey (R-Pa.), who is retiring from the upper chamber after his current term and was one of the seven Republican senators to vote to convict Trump last year.",

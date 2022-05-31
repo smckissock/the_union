@@ -1,20 +1,20 @@
 [
   {
-    "id": 6142,
-    "mediaId": 65,
-    "date": "d2022-04-26T21:07",
-    "sentence": "",
-    "author": "",
-    "title": "Fox News Poll: Vance moves into top spot in Ohio GOP Senate primary",
-    "sentiment": "0.922"
-  },
-  {
     "id": 5588,
     "mediaId": 65,
-    "date": "d2022-05-10T22:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Fox News Poll: Three-way race in Pennsylvania GOP Senate primary election",
     "sentiment": "0"
+  },
+  {
+    "id": 6142,
+    "mediaId": 65,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "",
+    "title": "Fox News Poll: Vance moves into top spot in Ohio GOP Senate primary",
+    "sentiment": "0.922"
   }
 ]

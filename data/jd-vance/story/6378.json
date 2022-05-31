@@ -1,26 +1,18 @@
 {
   "id": 6378,
   "mediaId": 223,
-  "date": "d2022-04-15T18:30",
+  "date": "4/15/2022 12:00:00 AM",
   "headline": "Donald Trump Endorses JD Vance for Closely Watched Senate Seat",
   "image": "https://media.townhall.com/townhall/reu/ha/2021/336/913039ea-72aa-493b-bf08-ee37f7d42ac0.jpg",
   "link": "https://townhall.com/tipsheet/rebeccadowns/2022/04/15/trump-endorses-jd-vance-n2605943",
-  "sentiment": "0.479",
+  "sentiment": "0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Rebecca Downs",
   "authorUrl": "https://townhall.com/tipsheet/rebeccadowns/",
   "termIds": [
-    781,
-    946,
-    1115,
-    1147,
-    1801,
-    2495,
-    3103,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "According to a report by Maggie Haberman and Jazmine Ulloa for The New York Times:\nAccording to a Republican familiar with Mr. Trumps thinking, he was swayed by several factors, one of which was seeing clips of a Republican primary debate in which two of the candidates, Mr. Mandel and Mr. Gibbons, got into a toe-to-toe fight.",

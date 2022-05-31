@@ -1,11 +1,11 @@
 {
   "id": 7419,
   "mediaId": 129,
-  "date": "d2022-05-24T22:44",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Your Tuesday Evening Briefing",
   "image": "https://static01.nyt.com/images/2022/05/24/multimedia/24evening-briefing-01a/24evening-briefing-01a-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/24/briefing/texas-shooting-covid-deaths-hugh-jackman.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "",
   "termIds": [
     815,
-    896,
-    1136,
-    1770,
-    1951,
-    2095,
-    4325,
-    4685,
-    627,
-    2942
+    2095
   ],
   "sentences": [
     "Brian Kemp, the incumbent who stood up against Donald Trumps demands to overturn the 2020 election results, is expected to defeat David Perdue, a Trump-backed candidate who yesterday accused Stacey Abrams, Kemps likely Democratic opponent this fall, of demeaning her own race.",

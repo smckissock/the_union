@@ -1,26 +1,8 @@
 [
   {
-    "id": 4345,
-    "mediaId": 124,
-    "date": "d2022-04-30T01:07:39",
-    "sentence": "",
-    "author": "",
-    "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors",
-    "sentiment": "0"
-  },
-  {
-    "id": 4345,
-    "mediaId": 124,
-    "date": "d2022-04-30T01:07:39",
-    "sentence": "",
-    "author": "",
-    "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3827,
     "mediaId": 65,
-    "date": "d2022-05-09T11:28",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "Alabama law criminalizing gender transition surgery, drugs for minors takes effect",
@@ -29,7 +11,7 @@
   {
     "id": 3594,
     "mediaId": 238,
-    "date": "d2022-05-14T18:42",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "Anne Branigin",
     "title": "Alabamas ban on medication for trans youths is blocked by judge",
@@ -38,10 +20,28 @@
   {
     "id": 7110,
     "mediaId": 195,
-    "date": "d2022-05-21T16:00",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "Douglas MacKinnon",
     "title": "Trumps vice presidential running mate for 2024?",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4345,
+    "mediaId": 124,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "",
+    "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors",
+    "sentiment": "0"
+  },
+  {
+    "id": 4345,
+    "mediaId": 124,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "",
+    "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors",
     "sentiment": "0.0"
   }
 ]

@@ -1,17 +1,8 @@
 [
   {
-    "id": 4337,
-    "mediaId": 261,
-    "date": "d2022-04-30T10:00",
-    "sentence": "Imagine all of America subjected to the casual cruelty and hypocrisy of a <span class='selected-term'>Ron DeSantis</span> or a Greg Abbott.",
-    "author": "Jill Lawrence",
-    "title": "Democrats must play hardball to survive 2022 midterms | Opinion",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4084,
     "mediaId": 187,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "Look at Governor <span class='selected-term'>Ron DeSantis</span> in Florida.",
     "author": "David Frum",
     "title": "Biden Just Walked Into a Student-Debt Trap",
@@ -20,10 +11,19 @@
   {
     "id": 3464,
     "mediaId": 195,
-    "date": "d2022-05-19T09:21",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Amie Parnes",
     "title": "Speculation over whether Biden will run again heats up",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4337,
+    "mediaId": 261,
+    "date": "2022-00-30",
+    "sentence": "Imagine all of America subjected to the casual cruelty and hypocrisy of a <span class='selected-term'>Ron DeSantis</span> or a Greg Abbott.",
+    "author": "Jill Lawrence",
+    "title": "Democrats must play hardball to survive 2022 midterms | Opinion",
     "sentiment": "0.0"
   }
 ]

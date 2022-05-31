@@ -1,65 +1,65 @@
 [
   {
+    "id": 7417,
+    "mediaId": 18,
+    "date": "2022-00-24",
+    "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
+    "author": "Associated Press",
+    "title": "Biden says we have to act after Texas school shooting",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7459,
     "mediaId": 178,
-    "date": "d2022-05-24T00:00",
+    "date": "2022-00-24",
     "sentence": "In a stark reminder of the issue's divisiveness, Biden's call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "ZEKE MILLER and CHRIS MEGERIAN Associated Press",
     "title": "Biden says 'we have to act' after Texas school shooting",
     "sentiment": "0.0"
   },
   {
-    "id": 7417,
-    "mediaId": 18,
-    "date": "d2022-05-24T22:48",
-    "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
-    "author": "Associated Press",
-    "title": "Biden says we have to act after Texas school shooting",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7405,
-    "mediaId": 18,
-    "date": "d2022-05-25T00:25",
-    "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
-    "author": "Associated Press",
-    "title": "Biden says we have to act after Texas school shooting",
-    "sentiment": "0"
-  },
-  {
     "id": 7388,
     "mediaId": 943,
-    "date": "d2022-05-25T22:22",
+    "date": "2022-00-25",
     "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "ZEKE MILLER and CHRIS MEGERIAN",
     "title": "President Biden delivers emotional plea for new gun restrictions after Texas school shooting",
     "sentiment": "0.0"
   },
   {
+    "id": 7405,
+    "mediaId": 18,
+    "date": "2022-00-25",
+    "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
+    "author": "Associated Press",
+    "title": "Biden says we have to act after Texas school shooting",
+    "sentiment": "0"
+  },
+  {
     "id": 8595,
     "mediaId": 157,
-    "date": "d2022-05-27T00:00",
+    "date": "2022-00-27",
     "sentence": "One of the couple's beneficiaries is Trump-endorsed former football star <span class='selected-term'>Herschel Walker</span>, who is running for Georgia Senate.",
     "author": "Sky Palma",
     "title": "Owners of company that manufactures gun used in Uvalde school shooting are prolific GOP donors: report",
     "sentiment": "0"
   },
   {
-    "id": 8579,
-    "mediaId": 151,
-    "date": "d2022-05-29T11:00",
-    "sentence": "Only in Georgia, it was incumbent Sen. Raphael Warnock who issued the call Thursday for three televised debates, as soon as his fall Senate election match-up with <span class='selected-term'>Herschel Walker</span> was set.",
-    "author": "",
-    "title": "He doesn't speak in beautiful syntax: GOP bets the Senate that Walker is ready for prime time",
-    "sentiment": "-0.858"
-  },
-  {
     "id": 8575,
     "mediaId": 223,
-    "date": "d2022-05-29T19:00",
+    "date": "2022-00-29",
     "sentence": "https://t.co/ekVgWmaEkM\n The Washington Post (@washingtonpost) May 27, 2022\nThe beneficiaries of the couples contributions include <span class='selected-term'>Herschel Walker</span>, who emerged victorious in Tuesdays primaries.",
     "author": "Rebecca Downs",
     "title": "Another Day, Another Bad Take From WaPo on Uvalde Shooting",
     "sentiment": "0.405"
+  },
+  {
+    "id": 8579,
+    "mediaId": 151,
+    "date": "2022-00-29",
+    "sentence": "Only in Georgia, it was incumbent Sen. Raphael Warnock who issued the call Thursday for three televised debates, as soon as his fall Senate election match-up with <span class='selected-term'>Herschel Walker</span> was set.",
+    "author": "",
+    "title": "He doesn't speak in beautiful syntax: GOP bets the Senate that Walker is ready for prime time",
+    "sentiment": "-0.858"
   }
 ]

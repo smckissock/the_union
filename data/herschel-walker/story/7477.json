@@ -1,11 +1,11 @@
 {
   "id": 7477,
   "mediaId": 234,
-  "date": "d2022-05-24T00:00",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "The GOP Needs Trump-Loving Football Champ Herschel Walker to Be Teflon",
   "image": "https://media.vanityfair.com/photos/628ce6d91dca96fc8793544e/master/w_2240,c_limit/vf-522-walker.png",
   "link": "https://www.vanityfair.com/news/2022/05/gop-trump-needs-herschel-walker",
-  "sentiment": "-0.817",
+  "sentiment": "0.0",
   "mediaOutlet": "Vanity Fair",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "https://www.vanityfair.com/contributor/caleb-ecarma",
   "termIds": [
     815,
-    1119,
-    1136,
-    1147,
-    1765,
-    3103,
-    428,
-    571,
-    584,
-    2672
+    3103
   ],
   "sentences": [
     "But Walker, a former Heisman-winning running back at the University of Georgia with no prior political experience, has faced a steady stream of scandals throughout his candidacy, with the most serious stemming from allegations of domestic violence and violent threats against past romantic partners.",

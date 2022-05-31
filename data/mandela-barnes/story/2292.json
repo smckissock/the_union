@@ -1,11 +1,11 @@
 {
   "id": 2292,
   "mediaId": 238,
-  "date": "d2022-05-03T14:00",
+  "date": "5/3/2022 12:00:00 AM",
   "headline": "Opinion A Ron Johnson challenger asks: What if Wisconsin actually had two senators?",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/03/alex-lasry-wisconsin-senate-primary-challenge/",
-  "sentiment": "-0.64",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,12 +14,7 @@
   "termIds": [
     741,
     802,
-    1925,
-    2039,
-    2087,
-    146,
-    571,
-    2972
+    2039
   ],
   "sentences": [
     "While Johnson has gotten grief for nonstop gaffes and his far-right tilt, Lasry, who is running in the Democratic primary, has a more direct message: Johnson has done nothing.?\nLasry said in an interview Monday that in the nearly 12 years Johnson has been in the Senate, the state has effectively had only one U.S. senator.? He adds, Has he said a lot of crazy things?",

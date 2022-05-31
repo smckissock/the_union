@@ -1,35 +1,26 @@
 [
   {
-    "id": 8218,
-    "mediaId": 12,
-    "date": "d2022-01-28T12:00",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "Bidens sagging approval could haunt Georgia Democrats",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8044,
-    "mediaId": 305,
-    "date": "d2022-03-11T11:38",
-    "sentence": "",
-    "author": "Kalyn Womack",
-    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
-    "sentiment": "-0.452"
-  },
-  {
     "id": 5358,
     "mediaId": 12,
-    "date": "d2022-04-01T19:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "David Wickert",
     "title": "Georgia Senate gives final approval to permit-less carry gun bill",
     "sentiment": "0"
   },
   {
+    "id": 8044,
+    "mediaId": 305,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Kalyn Womack",
+    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
+    "sentiment": "-0.452"
+  },
+  {
     "id": 5192,
     "mediaId": 1164,
-    "date": "d2022-04-13T00:00",
+    "date": "2022-00-13",
     "sentence": "Earlier today, Georgians gathered to oppose <span class='selected-term'>Brian Kemp</span>'s dangerous \"criminal carry\" law.",
     "author": "Darryl Coote",
     "title": "Georgia Gov. Brian Kemp signs law to allow conceal carry without a permit",
@@ -38,7 +29,7 @@
   {
     "id": 1984,
     "mediaId": 12,
-    "date": "d2022-04-22T12:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
@@ -47,10 +38,19 @@
   {
     "id": 4881,
     "mediaId": 305,
-    "date": "d2022-04-28T15:00",
+    "date": "2022-00-28",
     "sentence": "Georgia governor <span class='selected-term'>Brian Kemp</span> signed a few education bills into law, including one that targets divisive concepts? in the classroom, as reported by CNN.",
     "author": "Murjani Rawls",
     "title": "Republican Gov. Brian Kemp Signs Bill Limiting Race Discussions In Classrooms",
     "sentiment": "0"
+  },
+  {
+    "id": 8218,
+    "mediaId": 12,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "Bidens sagging approval could haunt Georgia Democrats",
+    "sentiment": "0.0"
   }
 ]

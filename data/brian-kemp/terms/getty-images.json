@@ -1,17 +1,8 @@
 [
   {
-    "id": 1462,
-    "mediaId": 19,
-    "date": "d2022-02-07T00:00",
-    "sentence": "What is even worse is that this is a classroom in <span class='selected-term'>Brian Kemp</span>'s Georgia, not New York or California.",
-    "author": "Matthew Boyle",
-    "title": "Exclusive David Perdue Slams Stacey Abrams and Brian Kemp in Unmask Our Kids' Ad",
-    "sentiment": "-0.504"
-  },
-  {
     "id": 5367,
     "mediaId": 32,
-    "date": "d2022-04-01T12:00:01",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Lorie Konish",
     "title": "How states aim to tackle high gas prices with tax holidays, rebates for residents",
@@ -20,16 +11,25 @@
   {
     "id": 5341,
     "mediaId": 19,
-    "date": "d2022-04-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Jacob Bliss",
     "title": "Fearing Losses in November, State Democrats Flip-Flop on Gas Taxes",
     "sentiment": "0.0"
   },
   {
+    "id": 1462,
+    "mediaId": 19,
+    "date": "2022-00-07",
+    "sentence": "What is even worse is that this is a classroom in <span class='selected-term'>Brian Kemp</span>'s Georgia, not New York or California.",
+    "author": "Matthew Boyle",
+    "title": "Exclusive David Perdue Slams Stacey Abrams and Brian Kemp in Unmask Our Kids' Ad",
+    "sentiment": "-0.504"
+  },
+  {
     "id": 2109,
     "mediaId": 19,
-    "date": "d2022-04-13T00:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Ashley Oliver",
     "title": "Georgia Poll: Brian Kemp Has Wide Lead over David Perdue in Governor's Primary",
@@ -38,7 +38,7 @@
   {
     "id": 4953,
     "mediaId": 323,
-    "date": "d2022-04-25T17:03",
+    "date": "2022-00-25",
     "sentence": "",
     "author": "Gerard Baker",
     "title": "GOP Leaders Remain Shackled to Donald Trump",

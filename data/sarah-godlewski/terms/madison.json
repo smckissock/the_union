@@ -2,7 +2,7 @@
   {
     "id": 2422,
     "mediaId": 147,
-    "date": "d2022-01-09T18:33",
+    "date": "2022-00-09",
     "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive Alex Lasry; state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Outagamie County Executive Tom Nelson.",
     "author": "Scott Bauer",
     "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
@@ -11,34 +11,16 @@
   {
     "id": 2420,
     "mediaId": 112,
-    "date": "d2022-01-10T03:13",
+    "date": "2022-00-10",
     "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive Alex Lasry; state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Outagamie County Executive Tom Nelson.",
     "author": "Associated Press",
     "title": "Wisconsin Republican Ron Johnson to run for re-election to Senate, reversing self-imposed term-limit vow",
     "sentiment": "0.0"
   },
   {
-    "id": 2401,
-    "mediaId": 323,
-    "date": "d2022-01-23T12:00",
-    "sentence": "Wisconsin State Treasurer <span class='selected-term'>Sarah Godlewski</span> has said she supports an Elizabeth Warren-style wealth tax.'\n Photo: Amber Arnold/Associated Press\nThree of the four top fundraising Democratic candidates participated in interviews for this story; an aide to Mr. Barnes said he was unavailable over the course of more than a week.",
-    "author": "John McCormick",
-    "title": "Wisconsin's Field of Democratic Senate Hopefuls Is Lining Up on Left of Biden",
-    "sentiment": "0"
-  },
-  {
-    "id": 2398,
-    "mediaId": 178,
-    "date": "d2022-01-25T00:00",
-    "sentence": "MADISON, Wis.  Democratic U.S. Senate candidate <span class='selected-term'>Sarah Godlewski</span>'s first major policy plan of the campaign released Tuesday focuses on ways to improve life in rural Wisconsin, from bolstering access to health care, helping family farms survive and making broadband internet a public utility.",
-    "author": "SCOTT BAUER",
-    "title": "US Senate candidate Godlewski unveils rural Wisconsin plan",
-    "sentiment": "0.553"
-  },
-  {
     "id": 2361,
     "mediaId": 195,
-    "date": "d2022-03-15T11:00",
+    "date": "2022-00-15",
     "sentence": "Mandela Barnes (D) leading that primary field with 23 percent support, with Milwaukee Bucks executive Alex Lasry trailing at 13 percent support, Outagamie County Executive Tom Nelson garnering five percent support and State Treasurer <span class='selected-term'>Sarah Godlewski</span> three percent.",
     "author": "Julia Manchester",
     "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill",
@@ -47,7 +29,7 @@
   {
     "id": 2314,
     "mediaId": 147,
-    "date": "d2022-04-17T18:40",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Scott Bauer",
     "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson",
@@ -56,10 +38,28 @@
   {
     "id": 6548,
     "mediaId": 367,
-    "date": "d2022-05-21T00:00",
+    "date": "2022-00-21",
     "sentence": "Other top Democratic contenders include state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Outagamie County Executive Tom Nelson.",
     "author": "Bill Glauber",
     "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance",
     "sentiment": "0"
+  },
+  {
+    "id": 2401,
+    "mediaId": 323,
+    "date": "2022-00-23",
+    "sentence": "Wisconsin State Treasurer <span class='selected-term'>Sarah Godlewski</span> has said she supports an Elizabeth Warren-style wealth tax.'\n Photo: Amber Arnold/Associated Press\nThree of the four top fundraising Democratic candidates participated in interviews for this story; an aide to Mr. Barnes said he was unavailable over the course of more than a week.",
+    "author": "John McCormick",
+    "title": "Wisconsin's Field of Democratic Senate Hopefuls Is Lining Up on Left of Biden",
+    "sentiment": "0"
+  },
+  {
+    "id": 2398,
+    "mediaId": 178,
+    "date": "2022-00-25",
+    "sentence": "MADISON, Wis.  Democratic U.S. Senate candidate <span class='selected-term'>Sarah Godlewski</span>'s first major policy plan of the campaign released Tuesday focuses on ways to improve life in rural Wisconsin, from bolstering access to health care, helping family farms survive and making broadband internet a public utility.",
+    "author": "SCOTT BAUER",
+    "title": "US Senate candidate Godlewski unveils rural Wisconsin plan",
+    "sentiment": "0.553"
   }
 ]

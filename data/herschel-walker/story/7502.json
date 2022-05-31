@@ -1,11 +1,11 @@
 {
   "id": 7502,
   "mediaId": 19,
-  "date": "d2022-05-23T00:00",
+  "date": "5/23/2022 12:00:00 AM",
   "headline": "Primary Races Foreshadow Blockbuster November in Georgia",
   "image": "https://media.breitbart.com/media/2022/01/Kemp-Abrams-Perdue1-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/23/primary-races-foreshadow-blockbuster-november-georgia/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,13 +13,7 @@
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
     815,
-    1147,
-    1951,
-    2087,
-    2095,
-    4325,
-    428,
-    2672
+    2095
   ],
   "sentences": [
     "SECRETARY OF STATE RACE\nSecretary of State Brad Raffensperger would seemingly be in hot water after Trump directed much of his wrath about the 2020 election at Georgia and repeatedly identified Raffensperger as just as blameworthy as Kemp in his eyes for Republicans stunning losses that year.",

@@ -1,25 +1,18 @@
 {
   "id": 5357,
   "mediaId": 12,
-  "date": "d2022-04-01T19:00",
+  "date": "4/1/2022 12:00:00 AM",
   "headline": "MUST Hope House: Expanded Marietta homeless shelter to open this spring",
   "image": "https://www.ajc.com/resizer/kD64zbCI8Lk7YPaUNPAehwUxzJo=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/6UHV52MPNBH5DHA6FVIIRSYMK4.jpg",
   "link": "https://www.ajc.com/news/atlanta-news/must-hope-house-expanded-marietta-homeless-shelter-to-open-this-spring/7HNEH7WJHBBZFDTA6PVYH2UM6Y/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brian Eason",
   "authorUrl": "https://www.ajc.com/staff/brian-eason/",
   "termIds": [
-    696,
-    2095,
-    4572,
-    428,
-    3344,
-    2555,
-    2672,
-    2778
+    2095
   ],
   "sentences": [
     "The need for affordable housing and temporary shelter has increased substantially over the last few years, as rising housing costs have collided with the coronavirus pandemic and drug and mental health problems to displace thousands of residents across metro Atlanta from their homes.",

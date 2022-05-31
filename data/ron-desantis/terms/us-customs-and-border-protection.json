@@ -1,53 +1,35 @@
 [
   {
+    "id": 3905,
+    "mediaId": 65,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Adam Shaw",
+    "title": "Florida ICE offices see massive lines, processing delays as hundreds of migrants wait for check-ins",
+    "sentiment": "0"
+  },
+  {
+    "id": 3905,
+    "mediaId": 65,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Adam Shaw",
+    "title": "Florida ICE offices see massive lines, processing delays as hundreds of migrants wait for check-ins",
+    "sentiment": "0.0"
+  },
+  {
     "id": 5061,
     "mediaId": 223,
-    "date": "d2022-04-20T10:30",
+    "date": "2022-00-20",
     "sentence": "The Strike Force includes Governors Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
     "author": "Spencer Brown",
     "title": "GOP Governors Launch 'Strike Force' to Combat Biden Border Crisis",
     "sentiment": "0.0"
   },
   {
-    "id": 3905,
-    "mediaId": 65,
-    "date": "d2022-05-06T18:04",
-    "sentence": "",
-    "author": "Adam Shaw",
-    "title": "Florida ICE offices see massive lines, processing delays as hundreds of migrants wait for check-ins",
-    "sentiment": "0"
-  },
-  {
-    "id": 3905,
-    "mediaId": 65,
-    "date": "d2022-05-06T18:04",
-    "sentence": "",
-    "author": "Adam Shaw",
-    "title": "Florida ICE offices see massive lines, processing delays as hundreds of migrants wait for check-ins",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7153,
-    "mediaId": 19,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Enhances Drug Trafficking Laws: Bidens Open Border Threatens All Americans Safety",
-    "sentiment": "0"
-  },
-  {
-    "id": 7153,
-    "mediaId": 19,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Enhances Drug Trafficking Laws: Bidens Open Border Threatens All Americans Safety",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7134,
     "mediaId": 223,
-    "date": "d2022-05-20T09:30",
+    "date": "2022-00-20",
     "sentence": "https://t.co/cDyejM3vG0\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 19, 2022\nWithin the last year, more than 107,000 people overdosed from drugs, 71,000 of those were caused by fentanyl.",
     "author": "Sarah Arnold",
     "title": "DeSantis Signs Bill Increasing Fentanyl Punishments, Blames Biden For Surge",
@@ -56,10 +38,28 @@
   {
     "id": 7134,
     "mediaId": 223,
-    "date": "d2022-05-20T09:30",
+    "date": "2022-00-20",
     "sentence": "https://t.co/cDyejM3vG0\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 19, 2022\nWithin the last year, more than 107,000 people overdosed from drugs, 71,000 of those were caused by fentanyl.",
     "author": "Sarah Arnold",
     "title": "DeSantis Signs Bill Increasing Fentanyl Punishments, Blames Biden For Surge",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7153,
+    "mediaId": 19,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Enhances Drug Trafficking Laws: Bidens Open Border Threatens All Americans Safety",
+    "sentiment": "0"
+  },
+  {
+    "id": 7153,
+    "mediaId": 19,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Enhances Drug Trafficking Laws: Bidens Open Border Threatens All Americans Safety",
     "sentiment": "0.0"
   }
 ]

@@ -1,26 +1,8 @@
 [
   {
-    "id": 7148,
-    "mediaId": 1164,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Doug Cunningham",
-    "title": "Appeals court reinstates Florida political redistricting map",
-    "sentiment": "0"
-  },
-  {
-    "id": 7148,
-    "mediaId": 1164,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Doug Cunningham",
-    "title": "Appeals court reinstates Florida political redistricting map",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7115,
     "mediaId": 323,
-    "date": "d2022-05-20T18:05",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Alexa Corse",
     "title": "Court Reinstates Florida Congressional Map",
@@ -29,16 +11,34 @@
   {
     "id": 7115,
     "mediaId": 323,
-    "date": "d2022-05-20T18:05",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Alexa Corse",
     "title": "Court Reinstates Florida Congressional Map",
     "sentiment": "0.0"
   },
   {
+    "id": 7148,
+    "mediaId": 1164,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Doug Cunningham",
+    "title": "Appeals court reinstates Florida political redistricting map",
+    "sentiment": "0"
+  },
+  {
+    "id": 7148,
+    "mediaId": 1164,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Doug Cunningham",
+    "title": "Appeals court reinstates Florida political redistricting map",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8550,
     "mediaId": 157,
-    "date": "d2022-05-27T00:00",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Michael Moline",
     "title": "New court ruling appears to favor DeSantis' plan to abolish Black-access district in North Florida",
@@ -47,7 +47,7 @@
   {
     "id": 8550,
     "mediaId": 157,
-    "date": "d2022-05-27T00:00",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Michael Moline",
     "title": "New court ruling appears to favor DeSantis' plan to abolish Black-access district in North Florida",

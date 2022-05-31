@@ -1,26 +1,18 @@
 {
   "id": 7997,
   "mediaId": 124,
-  "date": "d2022-03-17T13:05",
+  "date": "3/17/2022 12:00:00 AM",
   "headline": "Day 22 into Russia's invasion of Ukraine: A glimmer of hope and a devastating reality",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2022_11/3541646/220317-ukraine-kyiv-mn-0840.jpg",
   "link": "https://www.nbcnews.com/politics/meet-the-press/day-22-russia-s-invasion-ukraine-glimmer-hope-devastating-reality-n1292110",
-  "sentiment": "-0.953",
+  "sentiment": "0.0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815,
-    1312,
-    1462,
-    2030,
-    2138,
-    2475,
-    2888,
-    2942,
-    2959
+    815
   ],
   "sentences": [
     "A brutal Senate primary is heating up in Georgia, where Republican Gary Blacks campaign dropped opposition research about primary opponent Herschel Walker (former President Donald Trumps pick), highlighting a lengthy list of allegations of domestic assault, threats and violence.",

@@ -1,26 +1,18 @@
 {
   "id": 6411,
   "mediaId": 209,
-  "date": "d2022-04-14T14:52",
+  "date": "4/14/2022 12:00:00 AM",
   "headline": "Trump reportedly expected to endorse J.D. Vance in Ohio Senate race",
   "image": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-continuous-scroll-mobile@1/v1649960584/GettyImages-1238574761.jpg",
   "link": "https://theweek.com/donald-trump/1012582/trump-reportedly-expected-to-endorse-jd-vance-in-ohio-senate-race",
-  "sentiment": "-0.701",
+  "sentiment": "0",
   "mediaOutlet": "The Week",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brigid Kennedy",
   "authorUrl": "https://theweek.com/authors/brigid-kennedy",
   "termIds": [
-    946,
-    1147,
-    1801,
-    3103,
-    348,
-    380,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "According to three individuals familiar with the matter, Trump has, in recent days, begun calling \"donors and advisers\" to get their opinion on a Vance endorsement, but \"intense pressure\" from other GOP campaigns has kept him at bay, NBC News writes.",

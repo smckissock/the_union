@@ -1,26 +1,18 @@
 {
   "id": 6383,
   "mediaId": 98,
-  "date": "d2022-04-15T14:51",
+  "date": "4/15/2022 12:00:00 AM",
   "headline": "Trump backs Hillbilly Elegy author J.D. Vance in U.S. Senate primary in Ohio",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/b894e3d/2147483647/strip/true/crop/4852x3235+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F65%2Fc11bce1da0b2f4f86b5a750dda49%2Fb7f9f21aacde4929b1aa87a985d5cd3c",
   "link": "https://www.latimes.com/politics/story/2022-04-15/trump-backs-jd-vance",
-  "sentiment": "-0.359",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1054,
-    1147,
-    1158,
-    1801,
-    1839,
-    2466,
-    3103,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "In addition to trips to Mar-a-Lago, the candidates and their affiliated super PACs have spent millions trying to paint one another as insufficiently loyal to the former president, who remains deeply popular with the GOP base, despite being impeached twice, and won the state in both 2016 and 2020.",

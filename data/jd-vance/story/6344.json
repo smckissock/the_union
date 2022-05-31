@@ -1,28 +1,18 @@
 {
   "id": 6344,
   "mediaId": 136,
-  "date": "d2022-04-16T17:34",
+  "date": "4/16/2022 12:00:00 AM",
   "headline": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces",
   "image": "https://d.newsweek.com/en/full/2021469/jd-vance-ohio.webp?w=790&f=518e4394d1b491622c1492469cf0013d",
   "link": "https://www.newsweek.com/video-trump-backed-vance-saying-he-doesnt-care-about-ukraine-resurfaces-1698442",
-  "sentiment": "-0.744",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jason Lemon",
   "authorUrl": "https://www.newsweek.com/authors/jason-lemon",
   "termIds": [
-    1147,
-    1801,
-    1839,
-    2030,
-    2087,
-    3103,
-    428,
-    539,
-    3168,
-    2787,
-    2942
+    3103
   ],
   "sentences": [
     "Republicans were also slightly more likely than Democrats to view Russia's actions against Ukraine as a \"major threat\" to the U.S. Half of Democrats said they viewed Putin's aggression as major threat and 51 percentjust over halfof Republicans gave the same assessment.",

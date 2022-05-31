@@ -1,27 +1,19 @@
 {
   "id": 4456,
   "mediaId": 238,
-  "date": "d2022-05-19T15:22",
+  "date": "5/19/2022 12:00:00 AM",
   "headline": "Opinion Trumps alarming GOP primary wins demand a serious response",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/19/trump-primary-victories-electoral-count-act-reform/",
-  "sentiment": "-0.504",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Sargent",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1404,
-    1486,
-    2087,
     2095,
-    2279,
-    3102,
-    428,
-    571,
-    2862
+    3102
   ],
   "sentences": [
     "As Murphy put it, the challenge is to make it harder both for a governor to send a false certification to Congress, and for Congress to overturn a state certification.?\nOne approach would build in that judicial backstop against state certification of sham electors while also raising the threshold for Congress to overturn legitimate electors.",

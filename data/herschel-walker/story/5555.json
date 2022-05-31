@@ -1,26 +1,18 @@
 {
   "id": 5555,
   "mediaId": 157,
-  "date": "d2022-05-12T00:00",
+  "date": "5/12/2022 12:00:00 AM",
   "headline": "Trump-endorsed 'freaks and liars' are making Republicans worried about midterm chances: Morning Joe",
   "image": "https://www.rawstory.com/media-library/painfully-obvious-scarborough-accuses-trump-of-leaking-good-tax-return-to-distract-from-russia-hearings.jpg?id=24823507&width=1200&coordinates=0%2C24%2C0%2C24&height=600",
   "link": "https://www.rawstory.com/trump-senate-endorsement/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Travis Gettys",
   "authorUrl": "https://www.rawstory.com/u/travis_gettys",
   "termIds": [
-    815,
-    943,
-    967,
-    1147,
-    2342,
-    2491,
-    428,
-    571,
-    2862
+    815
   ],
   "sentences": [
     "Right-wing commentator Kathy Barnette is surging against the Trump-endorsed Dr. Mehmet Oz and MAGA candidate David McCormick, and the \"Morning Joe\" host said the former president's endorsed candidates were upending Senate races across the country and endangering GOP chances in November.",

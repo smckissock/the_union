@@ -1,20 +1,20 @@
 [
   {
-    "id": 7370,
-    "mediaId": 18,
-    "date": "d2022-05-25T02:04",
-    "sentence": "I had an inelegant delivery of a statement that I will keep making  that is <span class='selected-term'>Brian Kemp</span> is a failed governor who doesn't care about the people of Georgia, Abrams said.",
-    "author": "Associated Press",
-    "title": "Midterm updates | Nguyen in runoff in Democratic SoS primary",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7363,
     "mediaId": 195,
-    "date": "d2022-05-25T04:21",
+    "date": "2022-00-25",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Raffensperger fends off Trump-backed primary challenge in Georgia",
     "sentiment": "0"
+  },
+  {
+    "id": 7370,
+    "mediaId": 18,
+    "date": "2022-00-25",
+    "sentence": "I had an inelegant delivery of a statement that I will keep making  that is <span class='selected-term'>Brian Kemp</span> is a failed governor who doesn't care about the people of Georgia, Abrams said.",
+    "author": "Associated Press",
+    "title": "Midterm updates | Nguyen in runoff in Democratic SoS primary",
+    "sentiment": "0.0"
   }
 ]

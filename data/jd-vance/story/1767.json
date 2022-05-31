@@ -1,28 +1,19 @@
 {
   "id": 1767,
   "mediaId": 136,
-  "date": "d2022-05-04T02:15",
+  "date": "5/4/2022 12:00:00 AM",
   "headline": "J.D. Vance Wins Ohio Primary in Crucial Test of Trump's Power",
   "image": "https://d.newsweek.com/en/full/2029408/jd-vance.webp?w=790&f=5b4213519e5406c5fa4ca72ce854636d",
   "link": "https://www.newsweek.com/jd-vance-wins-ohio-primary-crucial-test-trumps-power-1702685",
-  "sentiment": "0.84",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jon Jackson",
   "authorUrl": "https://www.newsweek.com/authors/jon-jackson",
   "termIds": [
-    815,
-    1147,
-    1801,
-    2095,
-    2137,
     2303,
-    3103,
-    428,
-    571,
-    2672,
-    2845
+    3103
   ],
   "sentences": [
     "Meanwhile, voters have filed complaints with state elections officials to disqualify Georgia Representative Marjorie Taylor Greene and North Carolina Representative Madison Cawthornboth high-profile Trump alliesfrom seeking re-election for statements they made that have been construed as supportive of the January 6 siege on the U.S. Capitol.",

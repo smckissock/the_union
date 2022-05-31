@@ -1,17 +1,8 @@
 [
   {
-    "id": 5394,
-    "mediaId": 43,
-    "date": "d2022-03-31T00:00",
-    "sentence": "Governors\n? GA-Gov: Incumbent <span class='selected-term'>Brian Kemp</span> is once again running a TV ad against his Trump-endorsed Republican primary foe, former Sen. David Perdue, by using footage of Trump attacking Americans who send jobs to China.",
-    "author": "",
-    "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5105,
     "mediaId": 209,
-    "date": "d2022-04-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "The Week Staff",
     "title": "Putting more guns on the street",
@@ -20,10 +11,19 @@
   {
     "id": 8571,
     "mediaId": 151,
-    "date": "d2022-05-26T08:30",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "",
     "title": "'Trump picked this fight': Why heavyweight Republicans no longer fear Trump",
     "sentiment": "0"
+  },
+  {
+    "id": 5394,
+    "mediaId": 43,
+    "date": "2022-00-31",
+    "sentence": "Governors\n? GA-Gov: Incumbent <span class='selected-term'>Brian Kemp</span> is once again running a TV ad against his Trump-endorsed Republican primary foe, former Sen. David Perdue, by using footage of Trump attacking Americans who send jobs to China.",
+    "author": "",
+    "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP",
+    "sentiment": "0.0"
   }
 ]

@@ -1,17 +1,8 @@
 [
   {
-    "id": 8261,
-    "mediaId": 43,
-    "date": "d2022-01-21T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
-    "sentiment": "0"
-  },
-  {
     "id": 5720,
     "mediaId": 238,
-    "date": "d2022-05-05T12:59",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
     "title": "Live updates Abortion becomes central issue as Democrats draw contrast with GOP",
@@ -20,34 +11,34 @@
   {
     "id": 5641,
     "mediaId": 136,
-    "date": "d2022-05-07T03:11",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Aila Slisco",
     "title": "Donald Trump Mocks Biden's Stutter, Demands Cognitive Test at PA Rally",
     "sentiment": "0"
   },
   {
-    "id": 5549,
-    "mediaId": 129,
-    "date": "d2022-05-13T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
-    "sentiment": "0"
-  },
-  {
     "id": 5547,
     "mediaId": 151,
-    "date": "d2022-05-13T01:11",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "",
     "title": "GOP launches Operation Stop Barnette",
     "sentiment": "-0.526"
   },
   {
+    "id": 5549,
+    "mediaId": 129,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "",
+    "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
+    "sentiment": "0"
+  },
+  {
     "id": 5513,
     "mediaId": 238,
-    "date": "d2022-05-16T20:51",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Aaron Blake",
     "title": "How Trumps Dr. Oz endorsement could cost the GOP in Pennsylvania",
@@ -56,7 +47,7 @@
   {
     "id": 5500,
     "mediaId": 151,
-    "date": "d2022-05-17T00:11",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Trump works overtime to push Dr. Oz over the finish line",
@@ -65,7 +56,7 @@
   {
     "id": 5501,
     "mediaId": 151,
-    "date": "d2022-05-17T00:11",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Trump works overtime to push Dr. Oz over the finish line",
@@ -74,10 +65,19 @@
   {
     "id": 4461,
     "mediaId": 195,
-    "date": "d2022-05-19T10:28",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Recount looms in Pennsylvania",
+    "sentiment": "0"
+  },
+  {
+    "id": 8261,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "",
+    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
     "sentiment": "0"
   }
 ]

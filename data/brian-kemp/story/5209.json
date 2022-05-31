@@ -1,26 +1,18 @@
 {
   "id": 5209,
   "mediaId": 33,
-  "date": "d2022-04-12T00:00",
+  "date": "4/12/2022 12:00:00 AM",
   "headline": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220412171736-gov-brian-kemp-gun-signing-0412-exlarge-169.jpg",
   "link": "https://www.cnn.com/2022/04/12/us/georgia-permitless-gun-carry-law-signed/index.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Andy Rose and Theresa Waldrop",
   "authorUrl": "",
   "termIds": [
-    2095,
-    106,
-    176,
-    2537,
-    2672,
-    2710,
-    2845,
-    2910,
-    2972
+    2095
   ],
   "sentences": [
     "The measure -- which supporters call \"constitutional carry\" -- passed the legislature April 1 and allows anyone who was previously eligible for a concealed carry license in Georgia to begin carrying a concealed handgun without a permit.",

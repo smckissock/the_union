@@ -2,7 +2,7 @@
   {
     "id": 4038,
     "mediaId": 302,
-    "date": "d2022-05-04T19:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Charlie Crist hones message a year into campaign trail for Florida governor",
@@ -11,7 +11,7 @@
   {
     "id": 4038,
     "mediaId": 302,
-    "date": "d2022-05-04T19:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Charlie Crist hones message a year into campaign trail for Florida governor",
@@ -20,7 +20,7 @@
   {
     "id": 3817,
     "mediaId": 65,
-    "date": "d2022-05-09T20:26",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Ronn Blitzer",
     "title": "DeSantis signs bill designating statewide Victims of Communism Day",
@@ -29,52 +29,16 @@
   {
     "id": 3817,
     "mediaId": 65,
-    "date": "d2022-05-09T20:26",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Ronn Blitzer",
     "title": "DeSantis signs bill designating statewide Victims of Communism Day",
     "sentiment": "0.0"
   },
   {
-    "id": 3786,
-    "mediaId": 409,
-    "date": "d2022-05-10T09:30",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> on Monday signed legislation to create a Victims of Communism Day? each year on November 7, at which time public school teachers will be required to spend at least 45 minutes teaching students about communist leaders and how people suffered under their regimes.",
-    "author": "Brittany Bernstein",
-    "title": "DeSantis Signs Bill Requiring Education on Communist Regimes in Public Schools",
-    "sentiment": "0"
-  },
-  {
-    "id": 3786,
-    "mediaId": 409,
-    "date": "d2022-05-10T09:30",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> on Monday signed legislation to create a Victims of Communism Day? each year on November 7, at which time public school teachers will be required to spend at least 45 minutes teaching students about communist leaders and how people suffered under their regimes.",
-    "author": "Brittany Bernstein",
-    "title": "DeSantis Signs Bill Requiring Education on Communist Regimes in Public Schools",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3778,
-    "mediaId": 675,
-    "date": "d2022-05-10T10:59",
-    "sentence": "pic.twitter.com/Ojlao8f46t\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 9, 2022\nI appreciate this initiative and the fact that we are honoring the victims of communism by teaching young people about the evils of communism and the moral obligation we have to stop it,? Cuban human rights activist Rosa Mara Pay said in response to the legislation, according to the press release.",
-    "author": "WND News Services",
-    "title": "Now Florida to teach students 'evils of communism'",
-    "sentiment": "0"
-  },
-  {
-    "id": 3778,
-    "mediaId": 675,
-    "date": "d2022-05-10T10:59",
-    "sentence": "pic.twitter.com/Ojlao8f46t\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 9, 2022\nI appreciate this initiative and the fact that we are honoring the victims of communism by teaching young people about the evils of communism and the moral obligation we have to stop it,? Cuban human rights activist Rosa Mara Pay said in response to the legislation, according to the press release.",
-    "author": "WND News Services",
-    "title": "Now Florida to teach students 'evils of communism'",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3757,
     "mediaId": 238,
-    "date": "d2022-05-10T20:17",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "DeSantis mandates lessons on communism for high school students",
@@ -83,10 +47,46 @@
   {
     "id": 3757,
     "mediaId": 238,
-    "date": "d2022-05-10T20:17",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "DeSantis mandates lessons on communism for high school students",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3778,
+    "mediaId": 675,
+    "date": "2022-00-10",
+    "sentence": "pic.twitter.com/Ojlao8f46t\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 9, 2022\nI appreciate this initiative and the fact that we are honoring the victims of communism by teaching young people about the evils of communism and the moral obligation we have to stop it,? Cuban human rights activist Rosa Mara Pay said in response to the legislation, according to the press release.",
+    "author": "WND News Services",
+    "title": "Now Florida to teach students 'evils of communism'",
+    "sentiment": "0"
+  },
+  {
+    "id": 3778,
+    "mediaId": 675,
+    "date": "2022-00-10",
+    "sentence": "pic.twitter.com/Ojlao8f46t\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 9, 2022\nI appreciate this initiative and the fact that we are honoring the victims of communism by teaching young people about the evils of communism and the moral obligation we have to stop it,? Cuban human rights activist Rosa Mara Pay said in response to the legislation, according to the press release.",
+    "author": "WND News Services",
+    "title": "Now Florida to teach students 'evils of communism'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3786,
+    "mediaId": 409,
+    "date": "2022-00-10",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> on Monday signed legislation to create a Victims of Communism Day? each year on November 7, at which time public school teachers will be required to spend at least 45 minutes teaching students about communist leaders and how people suffered under their regimes.",
+    "author": "Brittany Bernstein",
+    "title": "DeSantis Signs Bill Requiring Education on Communist Regimes in Public Schools",
+    "sentiment": "0"
+  },
+  {
+    "id": 3786,
+    "mediaId": 409,
+    "date": "2022-00-10",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> on Monday signed legislation to create a Victims of Communism Day? each year on November 7, at which time public school teachers will be required to spend at least 45 minutes teaching students about communist leaders and how people suffered under their regimes.",
+    "author": "Brittany Bernstein",
+    "title": "DeSantis Signs Bill Requiring Education on Communist Regimes in Public Schools",
     "sentiment": "0.0"
   }
 ]

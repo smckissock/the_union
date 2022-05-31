@@ -1,11 +1,11 @@
 {
   "id": 7190,
   "mediaId": 21,
-  "date": "d2022-05-22T21:00",
+  "date": "5/22/2022 12:00:00 AM",
   "headline": "David Perdue's closing argument to Georgians ahead of Tuesday's GOP primary: A vote for Brian Kemp is a vote for Stacey Abrams",
   "image": "https://i.insider.com/628aa6c7b0a8be00185ff9de?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/david-perdue-brian-kemp-stacey-abrams-maga-georgia-2022-5",
-  "sentiment": "-0.805",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,8 @@
   "authorUrl": "https://www.businessinsider.com/author/warren-rojas",
   "termIds": [
     661,
-    1147,
-    1951,
-    2087,
     2095,
-    3082,
-    4325,
-    5507,
-    428,
-    2672
+    3082
   ],
   "sentences": [
     "Bikers for Trump founder Chris Cox aired his grievances against RINOs Friday night, proclaiming that by defying Trump's wishes, Kemp, former Vice President Mike Pence, and former President George Bush have proven they are more aligned with Biden than MAGA.",

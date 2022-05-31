@@ -1,27 +1,18 @@
 {
   "id": 6737,
   "mediaId": 238,
-  "date": "d2022-05-17T15:24",
+  "date": "5/17/2022 12:00:00 AM",
   "headline": "In a GOP primary, support for Jan. 6 isnt an obstacle. Is it an asset?",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/17/jan6-support-primary-obstacle/",
-  "sentiment": "0.866",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Philip Bump",
   "authorUrl": "https://www.washingtonpost.com/people/philip-bump/",
   "termIds": [
-    1106,
-    1147,
-    1434,
-    1903,
-    3102,
-    428,
-    2706,
-    2862,
-    2959,
-    5485
+    3102
   ],
   "sentences": [
     "Thats not directly a function of how she spent her time after the 2020 election  rather, her investment in preserving Trumps power is downstream from her ability to echo the concerns percolating in right-wing media, which helps bolster her sense of authenticity.",

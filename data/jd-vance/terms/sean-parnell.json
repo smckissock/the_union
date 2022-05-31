@@ -1,26 +1,8 @@
 [
   {
-    "id": 8261,
-    "mediaId": 43,
-    "date": "d2022-01-21T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
-    "sentiment": "0"
-  },
-  {
-    "id": 6309,
-    "mediaId": 21,
-    "date": "d2022-04-18T16:00",
-    "sentence": "",
-    "author": "Oma Seddiq",
-    "title": "Trump biographer compares GOP endorsements to 'The Apprentice' as 'a sad scramble of people behaving like crabs in a bucket to be lifted out by him'",
-    "sentiment": "0"
-  },
-  {
     "id": 1767,
     "mediaId": 136,
-    "date": "d2022-05-04T02:15",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Jon Jackson",
     "title": "J.D. Vance Wins Ohio Primary in Crucial Test of Trump's Power",
@@ -29,10 +11,28 @@
   {
     "id": 5464,
     "mediaId": 21,
-    "date": "d2022-05-18T20:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Jake Lahut",
     "title": "Why Donald Trump's 'golden ticket' doesn't guarantee success in 2022 Republican primaries  especially for his most controversial favorites",
+    "sentiment": "0"
+  },
+  {
+    "id": 6309,
+    "mediaId": 21,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Oma Seddiq",
+    "title": "Trump biographer compares GOP endorsements to 'The Apprentice' as 'a sad scramble of people behaving like crabs in a bucket to be lifted out by him'",
+    "sentiment": "0"
+  },
+  {
+    "id": 8261,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "",
+    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
     "sentiment": "0"
   }
 ]

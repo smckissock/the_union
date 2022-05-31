@@ -1,11 +1,11 @@
 {
   "id": 6539,
   "mediaId": 409,
-  "date": "d2022-05-20T09:47",
+  "date": "5/20/2022 12:00:00 AM",
   "headline": "Trump's Gambling Isn't Paying Off",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/2022-04-24T003125Z_1921902949_RC2BTT9ZUQTA_RTRMADP_3_USA-ELECTION-TRUMP.jpg?w=1592",
   "link": "https://www.nationalreview.com/the-morning-jolt/trumps-gambling-isnt-paying-off/",
-  "sentiment": "-0.658",
+  "sentiment": "0.0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,17 +13,9 @@
   "authorUrl": "",
   "termIds": [
     815,
-    1147,
-    1987,
     2095,
     2303,
-    2491,
-    3102,
-    4325,
-    428,
-    571,
-    2672,
-    2862
+    3102
   ],
   "sentences": [
     "This is a good point to keep in mind the next time you hear about some political action committee  you know, the ones with a name like American-Americans for a Better America PAC  and they make a boast along the lines of, 23 out of the 25 candidates we supported won last year! Okay, let's start with how many of those 25 candidates were even in competitive races.",

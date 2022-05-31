@@ -2,7 +2,7 @@
   {
     "id": 3293,
     "mediaId": 261,
-    "date": "d2022-05-12T20:36",
+    "date": "5/12/2022 12:00:00 AM",
     "sentence": "But that means Tudor Dixon, <span class='selected-term'>Michael Brown</span>, Donna Brandenburg, Ralph Rebandt and Michael Markey won't be onstage with their competitors.",
     "author": "Dave Boucher",
     "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
@@ -11,7 +11,7 @@
   {
     "id": 3454,
     "mediaId": 261,
-    "date": "d2022-05-16T23:30",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Egan",
     "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
@@ -20,28 +20,28 @@
   {
     "id": 7301,
     "mediaId": 98,
-    "date": "d2022-05-23T22:03",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "Bureau staff also determined that three other lesser-known GOP candidates  Donna Brandenburg, <span class='selected-term'>Michael Brown</span> and Michael Markey  did not turn in enough valid signatures.",
     "author": "DAVID EGGERT",
     "title": "Primary problem: Michigan GOP governor candidates short signatures",
-    "sentiment": "0"
-  },
-  {
-    "id": 7473,
-    "mediaId": 157,
-    "date": "d2022-05-24T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
-    "sentiment": "0"
+    "sentiment": "0.0"
   },
   {
     "id": 7300,
     "mediaId": 261,
-    "date": "d2022-05-24T02:09",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
-    "sentiment": "-0.692"
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7473,
+    "mediaId": 157,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
+    "sentiment": "0.0"
   }
 ]

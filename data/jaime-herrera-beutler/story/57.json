@@ -1,30 +1,22 @@
 {
   "id": 57,
   "mediaId": 238,
-  "date": "d2022-02-17T00:00",
+  "date": "2/17/2022 12:00:00 AM",
   "headline": "Opinion: Republicans who voted to impeach Trump might be in less peril than people think",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/02/18/cheney-mccarthy-endorsement-hageman-republican-primary-wyoming/",
-  "sentiment": "-0.232",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    826,
-    944,
-    1147,
-    1248,
-    1335,
     1901,
     2006,
-    2074,
     2125,
     3087,
-    3097,
-    428,
-    2976
+    3097
   ],
   "sentences": [
     "Her opening video in her bid for Cheney's congressional seat makes the most of her deep Wyoming roots and Cheney's apostasy, arguing that the congresswoman no longer rides for the brand.? In other words, she's betrayed the people and party who backed her.",

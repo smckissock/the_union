@@ -1,20 +1,20 @@
 [
   {
-    "id": 8044,
-    "mediaId": 305,
-    "date": "d2022-03-11T11:38",
-    "sentence": "",
-    "author": "Kalyn Womack",
-    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
-    "sentiment": "-0.452"
-  },
-  {
     "id": 5275,
     "mediaId": 12,
-    "date": "d2022-04-06T18:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Maya T. Prabhu",
     "title": "Expansion of postpartum Medicaid from 6 to 12 months heads to governors desk",
     "sentiment": "0"
+  },
+  {
+    "id": 8044,
+    "mediaId": 305,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Kalyn Womack",
+    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
+    "sentiment": "-0.452"
   }
 ]

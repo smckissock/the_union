@@ -2,16 +2,25 @@
   {
     "id": 1392,
     "mediaId": 124,
-    "date": "d2022-02-10T14:01",
+    "date": "2022-00-10",
     "sentence": "GOP in-fighting intensified yesterday with Trump endorsing two primary challengers taking on sitting House Republicans: Katie Arrington, who is challenging South Carolina Rep. Nancy Mace, and <span class='selected-term'>Loren Culp</span>, who is taking on Washington Rep. Dan Newhouse, one of the 10 House Republicans who voted to impeach Trump after Jan. 6.",
     "author": "",
     "title": "Congressional leaders race to catch up to stock ban momentum",
     "sentiment": "0.0"
   },
   {
+    "id": 2217,
+    "mediaId": 376,
+    "date": "2022-00-12",
+    "sentence": "Trump endorsed 2020 GOP gubernatorial nominee <span class='selected-term'>Loren Culp</span>, who refused to concede that race despite losing by 13.5 points to Democratic Gov.",
+    "author": "",
+    "title": "New lines, interesting races in Washington state",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2280,
     "mediaId": 63,
-    "date": "d2022-02-13T12:29",
+    "date": "2022-00-13",
     "sentence": "In Washington state, Thiel gave a much smaller amount ($2,900) to gubernatorial hopeful <span class='selected-term'>Loren Culp</span>; his campaign also spiraled.",
     "author": "Abram Brown",
     "title": "Poolside Fundraisers, Crypto And Mini-Trumps: Inside Peter Thiel's Life After Facebook",
@@ -20,19 +29,10 @@
   {
     "id": 57,
     "mediaId": 238,
-    "date": "d2022-02-17T00:00",
+    "date": "2022-00-17",
     "sentence": "Newhouse will benefit from Washington's top-two primary law as well, and Trump only recently endorsed a Newhouse opponent  <span class='selected-term'>Loren Culp</span>, the Republican nominee for Washington governor in 2020.",
     "author": "",
     "title": "Opinion: Republicans who voted to impeach Trump might be in less peril than people think",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2217,
-    "mediaId": 376,
-    "date": "d2022-04-12T15:02",
-    "sentence": "Trump endorsed 2020 GOP gubernatorial nominee <span class='selected-term'>Loren Culp</span>, who refused to concede that race despite losing by 13.5 points to Democratic Gov.",
-    "author": "",
-    "title": "New lines, interesting races in Washington state",
     "sentiment": "0.0"
   }
 ]

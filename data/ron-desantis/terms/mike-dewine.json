@@ -1,8 +1,17 @@
 [
   {
+    "id": 4076,
+    "mediaId": 147,
+    "date": "2022-00-04",
+    "sentence": "Conservatives upset with DeWine complained that his policies and actions during the pandemic ran counter to what they were hearing from Trump and GOP governors such as Floridas <span class='selected-term'>Ron DeSantis</span> and South Dakotas Kristi Noem.",
+    "author": "John Seewer",
+    "title": "After primary battles, Ohio Republican Gov. DeWine to face Democrat Nan Whaley in the fall",
+    "sentiment": "0.0"
+  },
+  {
     "id": 5061,
     "mediaId": 223,
-    "date": "d2022-04-20T10:30",
+    "date": "2022-00-20",
     "sentence": "The Strike Force includes Governors Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
     "author": "Spencer Brown",
     "title": "GOP Governors Launch 'Strike Force' to Combat Biden Border Crisis",
@@ -11,19 +20,10 @@
   {
     "id": 6163,
     "mediaId": 157,
-    "date": "d2022-04-25T00:00",
+    "date": "2022-00-25",
     "sentence": "At a NewsMax townhall last week, he used Florida Governor <span class='selected-term'>Ron DeSantis</span> bid to strip Disney of a special taxing district in retaliation for opposing the states dont say gay? legislation as an example of a politician who knows what time it is.?\nJ.D.",
     "author": "Nick Evans",
     "title": "'We love Trump, but he's not God': Trump fans unmoved by his endorsement of J.D. Vance",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4076,
-    "mediaId": 147,
-    "date": "d2022-05-04T01:20",
-    "sentence": "Conservatives upset with DeWine complained that his policies and actions during the pandemic ran counter to what they were hearing from Trump and GOP governors such as Floridas <span class='selected-term'>Ron DeSantis</span> and South Dakotas Kristi Noem.",
-    "author": "John Seewer",
-    "title": "After primary battles, Ohio Republican Gov. DeWine to face Democrat Nan Whaley in the fall",
     "sentiment": "0.0"
   }
 ]

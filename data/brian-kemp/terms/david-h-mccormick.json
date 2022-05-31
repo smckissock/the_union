@@ -1,8 +1,17 @@
 [
   {
+    "id": 5844,
+    "mediaId": 239,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Susan Ferrechio",
+    "title": "Trumps endorsement winning streak headed for tougher tests in Pennsylvania, Georgia",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7036,
     "mediaId": 43,
-    "date": "d2022-02-07T00:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Morning Digest: Democratic Senate primary in Pennsylvania gets smaller as GOP's gets uglier",
@@ -11,43 +20,43 @@
   {
     "id": 6501,
     "mediaId": 43,
-    "date": "d2022-04-12T00:00",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 4/12",
     "sentiment": "-0.448"
   },
   {
-    "id": 5101,
-    "mediaId": 21,
-    "date": "d2022-04-17T10:00",
-    "sentence": "Trump has made various risky endorsements, including David Perdue against incumbent <span class='selected-term'>Brian Kemp</span> in Georgia's gubernatorial race.",
-    "author": "Alia Shoaib",
-    "title": "'Gambler' Trump is going against advisers by endorsing risky candidates like Dr. Oz and JD Vance, report says",
-    "sentiment": "-0.514"
-  },
-  {
-    "id": 5844,
-    "mediaId": 239,
-    "date": "d2022-05-04T00:00",
-    "sentence": "",
-    "author": "Susan Ferrechio",
-    "title": "Trumps endorsement winning streak headed for tougher tests in Pennsylvania, Georgia",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4518,
     "mediaId": 129,
-    "date": "d2022-05-13T13:04:38",
+    "date": "2022-00-13",
     "sentence": "I am proud to offer my full support for four more years of <span class='selected-term'>Brian Kemp</span> as governor of the great state of Georgia!?\nThe former vice presidents visit will follow a series of campaign events Mr. Kemp has planned with a handful of Republican governors, who were blasted by Mr. Trump for their support of Mr. Kemp.",
     "author": "",
     "title": "Pence will headline a rally for Kemp in Georgia, splitting with Trump.",
     "sentiment": "0.491"
   },
   {
+    "id": 5101,
+    "mediaId": 21,
+    "date": "2022-00-17",
+    "sentence": "Trump has made various risky endorsements, including David Perdue against incumbent <span class='selected-term'>Brian Kemp</span> in Georgia's gubernatorial race.",
+    "author": "Alia Shoaib",
+    "title": "'Gambler' Trump is going against advisers by endorsing risky candidates like Dr. Oz and JD Vance, report says",
+    "sentiment": "-0.514"
+  },
+  {
+    "id": 6525,
+    "mediaId": 238,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "David Weigel",
+    "title": "The Trailer: Four trends from Tuesday's primaries in Pennsylvania, North Carolina and elsewhere",
+    "sentiment": "0.0"
+  },
+  {
     "id": 6605,
     "mediaId": 33,
-    "date": "d2022-05-19T00:00",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Gabby Orr",
     "title": "Trump may hold off on more endorsements for coming primaries, advisers say",
@@ -56,52 +65,43 @@
   {
     "id": 6608,
     "mediaId": 234,
-    "date": "d2022-05-19T00:00",
+    "date": "2022-00-19",
     "sentence": "Trump has been desperately trying to lift David Perdue, his preferred candidate in Georgias governor race, over incumbent <span class='selected-term'>Brian Kemp</span>a right-wing governor who provoked his ire by not doing more to overturn Joe Bidens 2020 election win.",
     "author": "Eric Lutz",
     "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
     "sentiment": "-0.577"
   },
   {
-    "id": 6525,
-    "mediaId": 238,
-    "date": "d2022-05-19T22:46",
-    "sentence": "",
-    "author": "David Weigel",
-    "title": "The Trailer: Four trends from Tuesday's primaries in Pennsylvania, North Carolina and elsewhere",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7095,
-    "mediaId": 157,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Tom Boggioni",
-    "title": "Trump growing gun shy about endorsements as his losses pile up: report",
-    "sentiment": "-0.788"
-  },
-  {
-    "id": 6539,
-    "mediaId": 409,
-    "date": "d2022-05-20T09:47",
-    "sentence": "Trump relentlessly pushed former senator David Perdue to run a primary challenge against Georgia governor <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Jim Geraghty",
-    "title": "Trump's Gambling Isn't Paying Off",
-    "sentiment": "0.0"
-  },
-  {
     "id": 6532,
     "mediaId": 21,
-    "date": "d2022-05-20T19:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Grace Panetta",
     "title": "Trump may stop endorsing candidates for competitive GOP primaries, report says: 'This is not how he expected this to go'",
     "sentiment": "-0.823"
   },
   {
+    "id": 6539,
+    "mediaId": 409,
+    "date": "2022-00-20",
+    "sentence": "Trump relentlessly pushed former senator David Perdue to run a primary challenge against Georgia governor <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Jim Geraghty",
+    "title": "Trump's Gambling Isn't Paying Off",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7095,
+    "mediaId": 157,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Tom Boggioni",
+    "title": "Trump growing gun shy about endorsements as his losses pile up: report",
+    "sentiment": "-0.788"
+  },
+  {
     "id": 7202,
     "mediaId": 151,
-    "date": "d2022-05-22T11:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "",
     "title": "'No one's paying any attention': The week that Republicans ignored Trump's election lies",

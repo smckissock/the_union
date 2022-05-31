@@ -1,35 +1,8 @@
 [
   {
-    "id": 4450,
-    "mediaId": 239,
-    "date": "d2022-04-29T00:03:54",
-    "sentence": "",
-    "author": "",
-    "title": "Florida sheriff removed following sex scandal investigation",
-    "sentiment": "0"
-  },
-  {
-    "id": 4450,
-    "mediaId": 239,
-    "date": "d2022-04-29T00:03:54",
-    "sentence": "",
-    "author": "",
-    "title": "Florida sheriff removed following sex scandal investigation",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4452,
-    "mediaId": 239,
-    "date": "d2022-04-29T00:03:54",
-    "sentence": "",
-    "author": "",
-    "title": "Florida sheriff arrested following sex scandal investigation",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4204,
     "mediaId": 302,
-    "date": "d2022-05-02T17:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Florida Capitol Police Director Glass tapped by DeSantis as acting FDLE commissioner",
@@ -38,7 +11,7 @@
   {
     "id": 4204,
     "mediaId": 302,
-    "date": "d2022-05-02T17:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Florida Capitol Police Director Glass tapped by DeSantis as acting FDLE commissioner",
@@ -47,7 +20,7 @@
   {
     "id": 3709,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
@@ -56,7 +29,7 @@
   {
     "id": 3709,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
@@ -65,7 +38,7 @@
   {
     "id": 3710,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
@@ -74,7 +47,7 @@
   {
     "id": 3710,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
@@ -83,7 +56,7 @@
   {
     "id": 8532,
     "mediaId": 302,
-    "date": "d2022-05-28T12:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Report rejects Rebekah Jones' claim that Florida doctored COVID data",
@@ -92,10 +65,37 @@
   {
     "id": 8532,
     "mediaId": 302,
-    "date": "d2022-05-28T12:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Report rejects Rebekah Jones' claim that Florida doctored COVID data",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4450,
+    "mediaId": 239,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "Florida sheriff removed following sex scandal investigation",
+    "sentiment": "0"
+  },
+  {
+    "id": 4450,
+    "mediaId": 239,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "Florida sheriff removed following sex scandal investigation",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4452,
+    "mediaId": 239,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "Florida sheriff arrested following sex scandal investigation",
     "sentiment": "0.0"
   }
 ]

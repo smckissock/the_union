@@ -1,17 +1,8 @@
 [
   {
-    "id": 4431,
-    "mediaId": 65,
-    "date": "d2022-04-29T08:43",
-    "sentence": "Continue reading \nLAURA INGRAHAM  The Fox host showcased <span class='selected-term'>Ron DeSantis</span>' leadership when it comes to improving Florida in the face of a media onslaught.",
-    "author": "",
-    "title": "Biden student debt cancellation may worsen inflation; US Marine vet dies fighting alongside Ukrainians",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4046,
     "mediaId": 65,
-    "date": "d2022-05-04T17:06",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Fox News Staff",
     "title": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
@@ -20,10 +11,19 @@
   {
     "id": 4046,
     "mediaId": 65,
-    "date": "d2022-05-04T17:06",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Fox News Staff",
     "title": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
     "sentiment": "0.781"
+  },
+  {
+    "id": 4431,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "Continue reading \nLAURA INGRAHAM  The Fox host showcased <span class='selected-term'>Ron DeSantis</span>' leadership when it comes to improving Florida in the face of a media onslaught.",
+    "author": "",
+    "title": "Biden student debt cancellation may worsen inflation; US Marine vet dies fighting alongside Ukrainians",
+    "sentiment": "0.0"
   }
 ]

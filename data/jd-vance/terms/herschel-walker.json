@@ -2,7 +2,7 @@
   {
     "id": 8261,
     "mediaId": 43,
-    "date": "d2022-01-21T00:00",
+    "date": "1/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
@@ -11,16 +11,16 @@
   {
     "id": 8225,
     "mediaId": 237,
-    "date": "d2022-01-27T16:22",
+    "date": "1/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Bedard",
     "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
-    "sentiment": "0.374"
+    "sentiment": "0"
   },
   {
     "id": 8192,
     "mediaId": 43,
-    "date": "d2022-02-03T00:00",
+    "date": "2/3/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Daily Kos Elections 4Q 2021 Senate fundraising reports roundup",
@@ -29,7 +29,7 @@
   {
     "id": 8175,
     "mediaId": 169,
-    "date": "d2022-02-09T14:54",
+    "date": "2/9/2022 12:00:00 AM",
     "sentence": "",
     "author": "Igor Derysh",
     "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
@@ -38,16 +38,16 @@
   {
     "id": 8030,
     "mediaId": 43,
-    "date": "d2022-03-15T00:00",
+    "date": "3/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "In Putins Russia, War Crimes Commit YOU!",
-    "sentiment": "-0.74"
+    "sentiment": "0"
   },
   {
     "id": 7973,
     "mediaId": 124,
-    "date": "d2022-03-22T13:17",
+    "date": "3/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "The GOP's bid to retake the Senate is encountering early struggles",
@@ -56,16 +56,16 @@
   {
     "id": 5139,
     "mediaId": 63,
-    "date": "d2022-04-14T19:24",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "Nicholas Reimann",
     "title": "Trump Reportedly Backing J.D. Vance In Ohio Senate RaceLatest Test Of Dubious Endorsement Power",
-    "sentiment": "-0.467"
+    "sentiment": "0"
   },
   {
     "id": 6387,
     "mediaId": 195,
-    "date": "d2022-04-15T10:00",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Niall Stanage",
     "title": "The Memo: Democrats hope Trump will save them from midterm disaster",
@@ -74,52 +74,43 @@
   {
     "id": 6360,
     "mediaId": 33,
-    "date": "d2022-04-16T00:00",
+    "date": "4/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "ANLISIS | La palabra que explica el respaldo de Donald Trump a J.D. Vance",
     "sentiment": "0"
   },
   {
-    "id": 16,
-    "mediaId": 558,
-    "date": "d2022-04-16T08:29",
-    "sentence": "",
-    "author": "Ben Werschkul",
-    "title": "Business resumes of J.D. Vance and other Trump-backed candidates",
-    "sentiment": "0.623"
-  },
-  {
     "id": 6313,
     "mediaId": 151,
-    "date": "d2022-04-18T14:00",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "5 numbers to know from the new FEC reports",
     "sentiment": "0"
   },
   {
+    "id": 6295,
+    "mediaId": 409,
+    "date": "4/19/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jim Geraghty",
+    "title": "The Medias Dirty Secret about GOP Coverage",
+    "sentiment": "0"
+  },
+  {
     "id": 6298,
     "mediaId": 157,
-    "date": "d2022-04-19T00:00",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Matthew Chapman",
     "title": "GOP has an 'epic opportunity' for Senate dominance over the next two cycles  here's how Dems could fight back",
     "sentiment": "0"
   },
   {
-    "id": 6295,
-    "mediaId": 409,
-    "date": "d2022-04-19T09:23",
-    "sentence": "",
-    "author": "Jim Geraghty",
-    "title": "The Medias Dirty Secret about GOP Coverage",
-    "sentiment": "0.443"
-  },
-  {
     "id": 6281,
     "mediaId": 43,
-    "date": "d2022-04-20T00:00",
+    "date": "4/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Daily Kos Elections 1Q 2022 Senate fundraising reports roundup",
@@ -128,16 +119,16 @@
   {
     "id": 6253,
     "mediaId": 136,
-    "date": "d2022-04-21T14:51",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Robert Reich",
     "title": "We're Running Out of Time to Hold Trump Accountable | Opinion",
-    "sentiment": "0.151"
+    "sentiment": "0"
   },
   {
     "id": 6245,
     "mediaId": 43,
-    "date": "d2022-04-22T00:00",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
@@ -146,196 +137,187 @@
   {
     "id": 6196,
     "mediaId": 195,
-    "date": "d2022-04-23T16:03",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Niall Stanage",
     "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
     "sentiment": "0"
   },
   {
-    "id": 6160,
-    "mediaId": 195,
-    "date": "d2022-04-25T10:00",
-    "sentence": "",
-    "author": "Juan Williams",
-    "title": "Juan Williams: Trump rains on McConnells parade",
-    "sentiment": "0.701"
-  },
-  {
     "id": 6155,
     "mediaId": 237,
-    "date": "d2022-04-25T13:18",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "Christian Datoc",
     "title": "Biden thinks Democrats can gain Senate seats this year  with Trump's help",
     "sentiment": "0"
   },
   {
-    "id": 6145,
-    "mediaId": 124,
-    "date": "d2022-04-26T13:05",
+    "id": 6160,
+    "mediaId": 195,
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
-    "author": "",
-    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
+    "author": "Juan Williams",
+    "title": "Juan Williams: Trump rains on McConnells parade",
     "sentiment": "0"
   },
   {
     "id": 6143,
     "mediaId": 136,
-    "date": "d2022-04-26T16:51",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "Andrew Stanton",
     "title": "Trump Sparking Fights in MAGA World With These Endorsements",
     "sentiment": "0"
   },
   {
-    "id": 6055,
-    "mediaId": 25,
-    "date": "d2022-05-01T00:00",
+    "id": 6145,
+    "mediaId": 124,
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
-    "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
+    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
     "sentiment": "0"
   },
   {
     "id": 6043,
     "mediaId": 238,
-    "date": "d2022-05-01T23:00",
+    "date": "5/1/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Trump makes closing pitch for Nebraska candidate accused of groping",
     "sentiment": "0"
   },
   {
+    "id": 6055,
+    "mediaId": 25,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 5929,
+    "mediaId": 163,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Nathan Layne",
+    "title": "Ohio Senate primary a test of Trump's grip on Republican voters",
+    "sentiment": "0"
+  },
+  {
     "id": 5933,
     "mediaId": 195,
-    "date": "d2022-05-03T09:18",
+    "date": "5/3/2022 12:00:00 AM",
     "sentence": "",
     "author": "Reid Wilson",
     "title": "Busy month of primaries to set stage for midterms",
     "sentiment": "0"
   },
   {
-    "id": 5929,
-    "mediaId": 163,
-    "date": "d2022-05-03T10:05",
-    "sentence": "",
-    "author": "Nathan Layne",
-    "title": "Ohio Senate primary a test of Trump's grip on Republican voters",
-    "sentiment": "-0.661"
-  },
-  {
-    "id": 1767,
-    "mediaId": 136,
-    "date": "d2022-05-04T02:15",
-    "sentence": "",
-    "author": "Jon Jackson",
-    "title": "J.D. Vance Wins Ohio Primary in Crucial Test of Trump's Power",
-    "sentiment": "0.84"
-  },
-  {
     "id": 5764,
     "mediaId": 237,
-    "date": "d2022-05-04T18:59",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "Daniel Chaitin",
     "title": "'Long arm of Donald Trump' encircles Mitch McConnell in Senate",
     "sentiment": "0"
   },
   {
-    "id": 5622,
-    "mediaId": 129,
-    "date": "d2022-05-09T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "How Trump Helped Transform Nebraska Into a Toxic Political Wasteland",
-    "sentiment": "0"
-  },
-  {
     "id": 5609,
     "mediaId": 129,
-    "date": "d2022-05-09T23:00",
+    "date": "5/9/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
     "sentiment": "0"
   },
   {
-    "id": 4489,
-    "mediaId": 157,
-    "date": "d2022-05-17T00:00",
+    "id": 5622,
+    "mediaId": 129,
+    "date": "5/9/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Travis Gettys",
-    "title": "'McConnell's worst nightmare': Morning Joe says Trump's 'bonkers' base is pushing for unelectable candidates",
-    "sentiment": "0.567"
+    "author": "",
+    "title": "How Trump Helped Transform Nebraska Into a Toxic Political Wasteland",
+    "sentiment": "0"
   },
   {
     "id": 3382,
     "mediaId": 129,
-    "date": "d2022-05-17T04:01",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
     "sentiment": "0"
   },
   {
+    "id": 4489,
+    "mediaId": 157,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Travis Gettys",
+    "title": "'McConnell's worst nightmare': Morning Joe says Trump's 'bonkers' base is pushing for unelectable candidates",
+    "sentiment": "0"
+  },
+  {
+    "id": 5462,
+    "mediaId": 238,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Paul Kane",
+    "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell",
+    "sentiment": "0"
+  },
+  {
     "id": 5466,
     "mediaId": 129,
-    "date": "d2022-05-18T15:50",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Primaries Show Limits, and Depths, of Trumps Power Over G.O.P. Base",
     "sentiment": "0"
   },
   {
-    "id": 5462,
-    "mediaId": 238,
-    "date": "d2022-05-18T21:29",
-    "sentence": "",
-    "author": "Paul Kane",
-    "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell",
-    "sentiment": "0.437"
-  },
-  {
-    "id": 7106,
-    "mediaId": 129,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Democrats, the Midterm Jinx Is Not Inevitable",
-    "sentiment": "0"
-  },
-  {
     "id": 6538,
     "mediaId": 195,
-    "date": "d2022-05-20T10:00",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "Niall Stanage",
     "title": "The Memo: Trump faces critical popularity test in Georgia",
     "sentiment": "0"
   },
   {
-    "id": 7224,
+    "id": 7106,
     "mediaId": 129,
-    "date": "d2022-05-22T00:00",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
-    "title": "What Donald Trump Didnt Count On in Georgia",
-    "sentiment": "0.519"
+    "title": "Democrats, the Midterm Jinx Is Not Inevitable",
+    "sentiment": "0"
   },
   {
     "id": 7194,
     "mediaId": 136,
-    "date": "d2022-05-22T19:11",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Andrew Stanton",
     "title": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan",
     "sentiment": "0"
   },
   {
+    "id": 7224,
+    "mediaId": 129,
+    "date": "5/22/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "What Donald Trump Didnt Count On in Georgia",
+    "sentiment": "0"
+  },
+  {
     "id": 7329,
     "mediaId": 33,
-    "date": "d2022-05-23T00:00",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Eric Bradner",
     "title": "Republicans look to Georgia for a path beyond Trump's 2020 grievances",
@@ -344,34 +326,16 @@
   {
     "id": 7482,
     "mediaId": 195,
-    "date": "d2022-05-23T22:29",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Niall Stanage",
     "title": "The Memo: Trump no longer holds MAGA movement in his palm",
     "sentiment": "0"
   },
   {
-    "id": 7477,
-    "mediaId": 234,
-    "date": "d2022-05-24T00:00",
-    "sentence": "",
-    "author": "Caleb Ecarma",
-    "title": "The GOP Needs Trump-Loving Football Champ Herschel Walker to Be Teflon",
-    "sentiment": "0"
-  },
-  {
-    "id": 7350,
-    "mediaId": 129,
-    "date": "d2022-05-24T08:59:18",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
-    "sentiment": "0"
-  },
-  {
     "id": 7309,
     "mediaId": 323,
-    "date": "d2022-05-24T09:30",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Cameron McWhirter",
     "title": "Georgia GOP Primary Elections for Governor and Secretary of State Are Top Contests Today",
@@ -380,25 +344,43 @@
   {
     "id": 7349,
     "mediaId": 32,
-    "date": "d2022-05-24T13:54:55",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kevin Breuninger",
     "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch",
     "sentiment": "0"
   },
   {
+    "id": 7350,
+    "mediaId": 129,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "0"
+  },
+  {
     "id": 7412,
     "mediaId": 233,
-    "date": "d2022-05-24T23:24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "David Jackson",
     "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
     "sentiment": "0"
   },
   {
+    "id": 7477,
+    "mediaId": 234,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Caleb Ecarma",
+    "title": "The GOP Needs Trump-Loving Football Champ Herschel Walker to Be Teflon",
+    "sentiment": "0"
+  },
+  {
     "id": 7331,
     "mediaId": 238,
-    "date": "d2022-05-25T03:03",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "David Weigel",
     "title": "Kemp, Raffensperger win in blow to Trump and his false election claims",
@@ -407,7 +389,7 @@
   {
     "id": 8357,
     "mediaId": 129,
-    "date": "d2022-05-25T09:15:29",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",
@@ -416,7 +398,7 @@
   {
     "id": 8404,
     "mediaId": 376,
-    "date": "d2022-05-26T14:30",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
     "title": "At the Races: Divisions on display",
@@ -425,7 +407,7 @@
   {
     "id": 8562,
     "mediaId": 195,
-    "date": "d2022-05-29T15:30",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Albert Hunt",
     "title": "Better candidates may not be enough for Democrats to retain the Senate",

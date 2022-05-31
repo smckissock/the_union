@@ -1,11 +1,11 @@
 {
   "id": 6610,
   "mediaId": 195,
-  "date": "d2022-05-18T23:17",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "Primaries fuel questions about potency of Trump endorsements",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/buddtedd_cawthornmadison_051822ap-see-credits_split_trump-aftermath.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/state-watch/3493613-primaries-fuel-questions-about-potency-of-trump-endorsements/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,17 +13,9 @@
   "authorUrl": "https://thehill.com/author/julia-manchester/",
   "termIds": [
     821,
-    1106,
-    1147,
-    1404,
     2303,
     3102,
-    3103,
-    428,
-    571,
-    2706,
-    2834,
-    2862
+    3103
   ],
   "sentences": [
     "No, it wasnt the decisive factor.?\nIn Mastrianos case, he was already leading in the polls when Trump endorsed him, despite being outspent on air by the other GOP gubernatorial hopefuls  though he rose to prominence as a supporter of Trumps claims the 2020 presidential election was stolen from him.",

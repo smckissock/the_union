@@ -1,62 +1,35 @@
 [
   {
-    "id": 6449,
-    "mediaId": 65,
-    "date": "d2022-04-07T06:00",
-    "sentence": "",
-    "author": "Lisa Bennatan",
-    "title": "As Ohio senate hopefuls vie for Trump's support, one contender says he's the only one focused on the issues",
-    "sentiment": "0"
-  },
-  {
-    "id": 6265,
-    "mediaId": 19,
-    "date": "d2022-04-21T00:00",
-    "sentence": "",
-    "author": "Paul Bois",
-    "title": "Watch  Ohios J.D. Vance Diagnoses How Americas Leaders Drained Working Class Jobs Overseas at Newsmax Town Hall",
-    "sentiment": "-0.337"
-  },
-  {
-    "id": 6117,
-    "mediaId": 157,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
-    "sentiment": "0"
-  },
-  {
-    "id": 6118,
-    "mediaId": 19,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "John Binder",
-    "title": "Exclusive: Trump-Endorsed J.D. Vance Takes Commanding Lead in New Poll",
-    "sentiment": "0"
-  },
-  {
-    "id": 6076,
-    "mediaId": 129,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Once Soft-Spoken, Ohio Conservatives Embrace the Bombast",
-    "sentiment": "0"
-  },
-  {
     "id": 5988,
     "mediaId": 147,
-    "date": "d2022-05-02T22:45",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "John Yang",
     "title": "Trump pushes Republican candidates in the Ohio Senate primary further to the right",
     "sentiment": "0"
   },
   {
+    "id": 5908,
+    "mediaId": 136,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Meghan Roos",
+    "title": "Ohio 2022 Primary Live Updates: Trump-Backed J.D. Vance Wins GOP Senate Primary",
+    "sentiment": "0.916"
+  },
+  {
+    "id": 5943,
+    "mediaId": 237,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Sarah Westwood",
+    "title": "Seven things to watch in the Ohio and Indiana primaries",
+    "sentiment": "0"
+  },
+  {
     "id": 5958,
     "mediaId": 19,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Alana Mastrangelo",
     "title": "Ohio Gov. Mike DeWine Wins Ohio Republican Primary",
@@ -65,7 +38,7 @@
   {
     "id": 5967,
     "mediaId": 1164,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Danielle Haynes",
     "title": "Ohio, Indiana voters head to polls in state primaries",
@@ -74,28 +47,55 @@
   {
     "id": 5982,
     "mediaId": 209,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Grayson Quay",
     "title": "What to watch for in the Ohio and Indiana primary elections",
     "sentiment": "0.326"
   },
   {
-    "id": 5943,
-    "mediaId": 237,
-    "date": "d2022-05-03T07:00",
+    "id": 6449,
+    "mediaId": 65,
+    "date": "2022-00-07",
     "sentence": "",
-    "author": "Sarah Westwood",
-    "title": "Seven things to watch in the Ohio and Indiana primaries",
+    "author": "Lisa Bennatan",
+    "title": "As Ohio senate hopefuls vie for Trump's support, one contender says he's the only one focused on the issues",
     "sentiment": "0"
   },
   {
-    "id": 5908,
-    "mediaId": 136,
-    "date": "d2022-05-03T20:05",
+    "id": 6265,
+    "mediaId": 19,
+    "date": "2022-00-21",
     "sentence": "",
-    "author": "Meghan Roos",
-    "title": "Ohio 2022 Primary Live Updates: Trump-Backed J.D. Vance Wins GOP Senate Primary",
-    "sentiment": "0.916"
+    "author": "Paul Bois",
+    "title": "Watch  Ohios J.D. Vance Diagnoses How Americas Leaders Drained Working Class Jobs Overseas at Newsmax Town Hall",
+    "sentiment": "-0.337"
+  },
+  {
+    "id": 6117,
+    "mediaId": 157,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
+    "sentiment": "0"
+  },
+  {
+    "id": 6118,
+    "mediaId": 19,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "John Binder",
+    "title": "Exclusive: Trump-Endorsed J.D. Vance Takes Commanding Lead in New Poll",
+    "sentiment": "0"
+  },
+  {
+    "id": 6076,
+    "mediaId": 129,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "",
+    "title": "Once Soft-Spoken, Ohio Conservatives Embrace the Bombast",
+    "sentiment": "0"
   }
 ]

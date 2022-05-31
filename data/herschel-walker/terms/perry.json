@@ -1,20 +1,20 @@
 [
   {
-    "id": 8230,
-    "mediaId": 19,
-    "date": "d2022-01-27T00:00",
-    "sentence": "In the poll, 872 registered Georgia voters were asked: If the election were held today and the candidates for U.S. Senate were Democrat Raphael Warnock and Republican <span class='selected-term'>Herschel Walker</span>, who would you vote for?",
-    "author": "Warner Todd Huston",
-    "title": "Poll: Herschel Walker Holds 3-Point lead over Warnock in Georgia Senate Race",
-    "sentiment": "0"
-  },
-  {
     "id": 1217,
     "mediaId": 65,
-    "date": "d2022-03-11T19:58",
+    "date": "2022-00-11",
     "sentence": "Also scheduled to appear at the March 26 rally with Trump is former professional and college football star running back <span class='selected-term'>Herschel Walker</span>, the clear front-runner in this year's GOP Senate primary in Georgia.",
     "author": "Paul Steinhauser",
     "title": "Trump returning to Georgia to campaign with David Perdue, Herschel Walker",
     "sentiment": "0.832"
+  },
+  {
+    "id": 8230,
+    "mediaId": 19,
+    "date": "2022-00-27",
+    "sentence": "In the poll, 872 registered Georgia voters were asked: If the election were held today and the candidates for U.S. Senate were Democrat Raphael Warnock and Republican <span class='selected-term'>Herschel Walker</span>, who would you vote for?",
+    "author": "Warner Todd Huston",
+    "title": "Poll: Herschel Walker Holds 3-Point lead over Warnock in Georgia Senate Race",
+    "sentiment": "0"
   }
 ]

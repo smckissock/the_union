@@ -1,71 +1,17 @@
 [
   {
-    "id": 6449,
-    "mediaId": 65,
-    "date": "d2022-04-07T06:00",
+    "id": 5999,
+    "mediaId": 136,
+    "date": "2022-00-02",
     "sentence": "",
-    "author": "Lisa Bennatan",
-    "title": "As Ohio senate hopefuls vie for Trump's support, one contender says he's the only one focused on the issues",
-    "sentiment": "0"
-  },
-  {
-    "id": 6439,
-    "mediaId": 558,
-    "date": "d2022-04-08T15:06",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio GOP Senate hopeful: Middle class doesn't pay fair share",
-    "sentiment": "0"
-  },
-  {
-    "id": 6425,
-    "mediaId": 233,
-    "date": "d2022-04-12T14:25",
-    "sentence": "",
-    "author": "Orlando Mayorquin",
-    "title": "Who is Tim Ryan? What to know about the congressman running for senate in Ohio",
-    "sentiment": "0"
-  },
-  {
-    "id": 6307,
-    "mediaId": 124,
-    "date": "d2022-04-18T17:58:30",
-    "sentence": "",
-    "author": "",
-    "title": "Trump Jr. to campaign with J.D. Vance in Ohio following father's endorsement",
-    "sentiment": "0"
-  },
-  {
-    "id": 6234,
-    "mediaId": 558,
-    "date": "d2022-04-22T10:55",
-    "sentence": "",
-    "author": "James Oliphant",
-    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
-    "sentiment": "-0.68"
-  },
-  {
-    "id": 6221,
-    "mediaId": 163,
-    "date": "d2022-04-22T18:00",
-    "sentence": "",
-    "author": "James Oliphant",
-    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6118,
-    "mediaId": 19,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "John Binder",
-    "title": "Exclusive: Trump-Endorsed J.D. Vance Takes Commanding Lead in New Poll",
-    "sentiment": "0"
+    "author": "Andrew Stanton",
+    "title": "Matt Dolan Gains Ground Ahead of Ohio Primary in Threat to Trump's Power",
+    "sentiment": "-0.695"
   },
   {
     "id": 6039,
     "mediaId": 129,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "In Ohio Senate Fight, G.O.P. Shows Strains of Its Identity Crisis",
@@ -74,7 +20,7 @@
   {
     "id": 6040,
     "mediaId": 129,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "How Ohios Map Will Test J.D. Vances Political Allure",
@@ -83,115 +29,106 @@
   {
     "id": 6042,
     "mediaId": 19,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Matthew Boyle",
     "title": "Swamp Establishment, Donor Class Rush into Ohio to Try to Stop Trump-Backed J.D. Vance",
     "sentiment": "0"
   },
   {
-    "id": 5999,
-    "mediaId": 136,
-    "date": "d2022-05-02T16:55",
-    "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "Matt Dolan Gains Ground Ahead of Ohio Primary in Threat to Trump's Power",
-    "sentiment": "-0.695"
-  },
-  {
-    "id": 5941,
-    "mediaId": 233,
-    "date": "d2022-05-03T08:00",
-    "sentence": "",
-    "author": "Rick Rouan",
-    "title": "Ohio, Indiana primary voters to nominate candidates for U.S. Senate, House, statewide races",
-    "sentiment": "0"
-  },
-  {
-    "id": 5906,
-    "mediaId": 238,
-    "date": "d2022-05-03T21:11",
-    "sentence": "",
-    "author": "",
-    "title": "The Trailer: What to watch tonight in Ohio and Indiana",
-    "sentiment": "0"
-  },
-  {
     "id": 5896,
     "mediaId": 65,
-    "date": "d2022-05-03T23:31",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Tyler Olson",
     "title": "Polls now closed in Ohio, where the GOP Senate primary is seen a key test of Trump's GOP clout",
     "sentiment": "0"
   },
   {
-    "id": 5857,
-    "mediaId": 43,
-    "date": "d2022-05-04T00:00",
+    "id": 5906,
+    "mediaId": 238,
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
-    "title": "2022 Midterm Primary Season Kicks of With Voting System Failures in OH: 'BradCast' 5/4/2022",
+    "title": "The Trailer: What to watch tonight in Ohio and Indiana",
+    "sentiment": "0"
+  },
+  {
+    "id": 5941,
+    "mediaId": 233,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Rick Rouan",
+    "title": "Ohio, Indiana primary voters to nominate candidates for U.S. Senate, House, statewide races",
     "sentiment": "0"
   },
   {
     "id": 1768,
     "mediaId": 63,
-    "date": "d2022-05-04T01:36",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Nicholas Reimann",
     "title": "Ohio Senate Primary: Trump-Backed J.D. Vance Wins GOP Nomination In Crowded Field",
     "sentiment": "0.803"
   },
   {
-    "id": 5823,
-    "mediaId": 136,
-    "date": "d2022-05-04T02:39",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "J.D. Vance Campaign First Test of Donald Trump Jr.'s Political Influence",
-    "sentiment": "0"
-  },
-  {
-    "id": 5818,
-    "mediaId": 129,
-    "date": "d2022-05-04T02:50",
-    "sentence": "",
-    "author": "",
-    "title": "Vance Wins Republican Senate Primary in Ohio After Nod From Trump",
-    "sentiment": "0"
-  },
-  {
-    "id": 5812,
-    "mediaId": 195,
-    "date": "d2022-05-04T04:03",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Five takeaways from the Ohio primaries",
-    "sentiment": "0"
-  },
-  {
     "id": 5784,
     "mediaId": 238,
-    "date": "d2022-05-04T14:22",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Trump and Biden prevail as party leaders in Ohio primary results",
     "sentiment": "0"
   },
   {
-    "id": 5731,
+    "id": 5812,
+    "mediaId": 195,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Five takeaways from the Ohio primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5818,
     "mediaId": 129,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Vance Wins Republican Senate Primary in Ohio After Nod From Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 5823,
+    "mediaId": 136,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "J.D. Vance Campaign First Test of Donald Trump Jr.'s Political Influence",
+    "sentiment": "0"
+  },
+  {
+    "id": 5857,
+    "mediaId": 43,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "2022 Midterm Primary Season Kicks of With Voting System Failures in OH: 'BradCast' 5/4/2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 5705,
+    "mediaId": 129,
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
     "title": "In Ohio Senate Race, Democrats Pin Their Hopes on the Suburbs",
     "sentiment": "0"
   },
   {
-    "id": 5705,
+    "id": 5731,
     "mediaId": 129,
-    "date": "d2022-05-05T20:03",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
     "title": "In Ohio Senate Race, Democrats Pin Their Hopes on the Suburbs",
@@ -200,10 +137,73 @@
   {
     "id": 5631,
     "mediaId": 151,
-    "date": "d2022-05-07T14:51",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Ohio was a test case for 2024. The GOP establishment looks screwed.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6449,
+    "mediaId": 65,
+    "date": "2022-00-07",
+    "sentence": "",
+    "author": "Lisa Bennatan",
+    "title": "As Ohio senate hopefuls vie for Trump's support, one contender says he's the only one focused on the issues",
+    "sentiment": "0"
+  },
+  {
+    "id": 6439,
+    "mediaId": 558,
+    "date": "2022-00-08",
+    "sentence": "",
+    "author": "",
+    "title": "Ohio GOP Senate hopeful: Middle class doesn't pay fair share",
+    "sentiment": "0"
+  },
+  {
+    "id": 6425,
+    "mediaId": 233,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "Orlando Mayorquin",
+    "title": "Who is Tim Ryan? What to know about the congressman running for senate in Ohio",
+    "sentiment": "0"
+  },
+  {
+    "id": 6307,
+    "mediaId": 124,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "Trump Jr. to campaign with J.D. Vance in Ohio following father's endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 6221,
+    "mediaId": 163,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "James Oliphant",
+    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
+    "sentiment": "0"
+  },
+  {
+    "id": 6234,
+    "mediaId": 558,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "James Oliphant",
+    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
+    "sentiment": "-0.68"
+  },
+  {
+    "id": 6118,
+    "mediaId": 19,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "John Binder",
+    "title": "Exclusive: Trump-Endorsed J.D. Vance Takes Commanding Lead in New Poll",
     "sentiment": "0"
   }
 ]

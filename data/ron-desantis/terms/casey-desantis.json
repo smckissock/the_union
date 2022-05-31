@@ -2,7 +2,7 @@
   {
     "id": 4214,
     "mediaId": 237,
-    "date": "d2022-05-02T15:23",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Ryan King",
     "title": "DeSantis envisions 'really big' election as end of Florida's days as swing state",
@@ -11,7 +11,7 @@
   {
     "id": 4214,
     "mediaId": 237,
-    "date": "d2022-05-02T15:23",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Ryan King",
     "title": "DeSantis envisions 'really big' election as end of Florida's days as swing state",
@@ -20,7 +20,7 @@
   {
     "id": 3759,
     "mediaId": 223,
-    "date": "d2022-05-10T18:00",
+    "date": "2022-00-10",
     "sentence": "Florida's First Lady Casey DeSantis is back on the campaign trail with her husband, Governor <span class='selected-term'>Ron DeSantis</span>, following the completion of her successful cancer treatment.",
     "author": "Spencer Brown",
     "title": "'Damn It Feels Good to Be Here': Casey DeSantis Returns to Campaign Trail",
@@ -29,34 +29,16 @@
   {
     "id": 3759,
     "mediaId": 223,
-    "date": "d2022-05-10T18:00",
+    "date": "2022-00-10",
     "sentence": "Florida's First Lady Casey DeSantis is back on the campaign trail with her husband, Governor <span class='selected-term'>Ron DeSantis</span>, following the completion of her successful cancer treatment.",
     "author": "Spencer Brown",
     "title": "'Damn It Feels Good to Be Here': Casey DeSantis Returns to Campaign Trail",
     "sentiment": "0.0"
   },
   {
-    "id": 3521,
-    "mediaId": 19,
-    "date": "d2022-05-17T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Approves $100 Million for Cancer Research",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3521,
-    "mediaId": 19,
-    "date": "d2022-05-17T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Approves $100 Million for Cancer Research",
-    "sentiment": "0.373"
-  },
-  {
     "id": 3500,
     "mediaId": 21,
-    "date": "d2022-05-17T18:00",
+    "date": "2022-00-17",
     "sentence": "\"It's something that you can beat,\" <span class='selected-term'>Ron DeSantis</span> said of a breast cancer diagnosis.",
     "author": "Kimberly Leonard",
     "title": "Casey DeSantis says her husband, Florida Gov. Ron DeSantis, 'picked me up literally and figuratively' and went to all her chemo treatments",
@@ -65,16 +47,34 @@
   {
     "id": 3500,
     "mediaId": 21,
-    "date": "d2022-05-17T18:00",
+    "date": "2022-00-17",
     "sentence": "\"It's something that you can beat,\" <span class='selected-term'>Ron DeSantis</span> said of a breast cancer diagnosis.",
     "author": "Kimberly Leonard",
     "title": "Casey DeSantis says her husband, Florida Gov. Ron DeSantis, 'picked me up literally and figuratively' and went to all her chemo treatments",
     "sentiment": "0.0"
   },
   {
+    "id": 3521,
+    "mediaId": 19,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Approves $100 Million for Cancer Research",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3521,
+    "mediaId": 19,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Approves $100 Million for Cancer Research",
+    "sentiment": "0.373"
+  },
+  {
     "id": 7121,
     "mediaId": 223,
-    "date": "d2022-05-20T17:00",
+    "date": "2022-00-20",
     "sentence": "DeSantis & @FLCaseyDeSantis Fund $100M for Cancer Centers https://t.co/i4hqlsCtN4\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 17, 2022\nEarly detection is a game changer in the cancer fight.",
     "author": "Rebecca Downs",
     "title": "EXCLUSIVE: Casey DeSantis Receives Humanitarian Award at House of Hope",
@@ -83,7 +83,7 @@
   {
     "id": 7121,
     "mediaId": 223,
-    "date": "d2022-05-20T17:00",
+    "date": "2022-00-20",
     "sentence": "DeSantis & @FLCaseyDeSantis Fund $100M for Cancer Centers https://t.co/i4hqlsCtN4\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 17, 2022\nEarly detection is a game changer in the cancer fight.",
     "author": "Rebecca Downs",
     "title": "EXCLUSIVE: Casey DeSantis Receives Humanitarian Award at House of Hope",

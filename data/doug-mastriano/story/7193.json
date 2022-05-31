@@ -1,26 +1,19 @@
 {
   "id": 7193,
   "mediaId": 157,
-  "date": "d2022-05-23T00:00",
+  "date": "5/23/2022 12:00:00 AM",
   "headline": "John Oliver reveals why Republicans assume Doug Mastriano will lead them into a disastrous election in November",
   "image": "https://www.rawstory.com/media-library/john-oliver-mastriano.png?id=29837809&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/doug-mastriano-gets-john-oliver-treatment/",
-  "sentiment": "-0.239",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah K. Burris",
   "authorUrl": "https://www.rawstory.com/u/sarah_k_burris",
   "termIds": [
-    1147,
-    2087,
     2303,
-    3102,
-    4780,
-    5511,
-    5523,
-    428,
-    2862
+    3102
   ],
   "sentences": [
     "He went on to cite another list of Mastriano's more extreme views like turning Pennsylvania into a Second Amendment safe haven and he would outlaw all abortions even in the case of rape and incest and he would refuse to save the lives of mothers who could die without them.",

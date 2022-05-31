@@ -1,8 +1,17 @@
 [
   {
+    "id": 6044,
+    "mediaId": 136,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Fatma Khaled",
+    "title": "Greene 'Tired' of Candidates Like Mandel Who 'Learned to Speak MAGA'",
+    "sentiment": "0"
+  },
+  {
     "id": 6409,
     "mediaId": 124,
-    "date": "d2022-04-14T17:11:54",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "",
     "title": "Trump plans J.D. Vance endorsement in crowded Ohio senate race, sources say",
@@ -11,37 +20,28 @@
   {
     "id": 6385,
     "mediaId": 223,
-    "date": "d2022-04-15T12:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Rebecca Downs",
     "title": "Is the Media Jumping the Gun When it Comes to Warnings on Trump's Planned Endorsement in Ohio?",
     "sentiment": "0"
   },
   {
-    "id": 6341,
-    "mediaId": 157,
-    "date": "d2022-04-17T00:00",
-    "sentence": "",
-    "author": "Tom Boggioni",
-    "title": "Trump refused to endorse Ohio's Josh Mandel because he's 'embarrassing': report",
-    "sentiment": "0"
-  },
-  {
     "id": 6336,
     "mediaId": 195,
-    "date": "d2022-04-17T15:30",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Albert Hunt",
     "title": "Ohio politics: A cesspool of GOP corruption and craziness",
     "sentiment": "0"
   },
   {
-    "id": 6044,
-    "mediaId": 136,
-    "date": "d2022-05-01T17:07",
+    "id": 6341,
+    "mediaId": 157,
+    "date": "2022-00-17",
     "sentence": "",
-    "author": "Fatma Khaled",
-    "title": "Greene 'Tired' of Candidates Like Mandel Who 'Learned to Speak MAGA'",
+    "author": "Tom Boggioni",
+    "title": "Trump refused to endorse Ohio's Josh Mandel because he's 'embarrassing': report",
     "sentiment": "0"
   }
 ]

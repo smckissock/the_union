@@ -1,17 +1,17 @@
 [
   {
-    "id": 8139,
-    "mediaId": 558,
-    "date": "d2022-02-15T07:18",
-    "sentence": "These four spots were held by two Democrats, Sen. Raphael Warnock (Ga.) and Rep. Val Demings (Fla.), and two Republicans, Sen. Tim Scott (S.C.) and former athlete <span class='selected-term'>Herschel Walker</span>.",
-    "author": "Grayson Quay",
-    "title": "Black Republicans and Democrats dominate list of top Senate fundraisers",
-    "sentiment": "0.649"
+    "id": 8071,
+    "mediaId": 12,
+    "date": "2022-00-07",
+    "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
+    "author": "",
+    "title": "Republican 'unforced errors' threaten path to Senate control",
+    "sentiment": "0.0"
   },
   {
     "id": 8075,
     "mediaId": 178,
-    "date": "d2022-03-07T00:00",
+    "date": "2022-00-07",
     "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
     "author": "STEVE PEOPLES and BRIAN SLODYSKO Associated Press",
     "title": "Republican 'unforced errors' threaten path to Senate control",
@@ -20,37 +20,37 @@
   {
     "id": 8076,
     "mediaId": 1576,
-    "date": "d2022-03-07T00:00",
+    "date": "2022-00-07",
     "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
     "author": "",
     "title": "GOP stumbles, weak fundraising in Ga. and other states threaten path to Senate control",
     "sentiment": "0.0"
   },
   {
-    "id": 8071,
-    "mediaId": 12,
-    "date": "d2022-03-07T17:00",
-    "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
+    "id": 8139,
+    "mediaId": 558,
+    "date": "2022-00-15",
+    "sentence": "These four spots were held by two Democrats, Sen. Raphael Warnock (Ga.) and Rep. Val Demings (Fla.), and two Republicans, Sen. Tim Scott (S.C.) and former athlete <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Grayson Quay",
+    "title": "Black Republicans and Democrats dominate list of top Senate fundraisers",
+    "sentiment": "0.649"
+  },
+  {
+    "id": 6313,
+    "mediaId": 151,
+    "date": "2022-00-18",
+    "sentence": "Thats three times as much money as GOP primary frontrunner <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
-    "title": "Republican 'unforced errors' threaten path to Senate control",
+    "title": "5 numbers to know from the new FEC reports",
     "sentiment": "0.0"
   },
   {
     "id": 7901,
     "mediaId": 65,
-    "date": "d2022-03-26T17:31",
+    "date": "2022-00-26",
     "sentence": "Warnock is facing Trump-backed candidate <span class='selected-term'>Herschel Walker</span> in the upcoming election, with both candidates boasting enviable war chests heading into campaign season.",
     "author": "",
     "title": "Warnock hosting fundraiser with activist who compared GOP to terrorist organizations",
     "sentiment": "0.249"
-  },
-  {
-    "id": 6313,
-    "mediaId": 151,
-    "date": "d2022-04-18T14:00",
-    "sentence": "Thats three times as much money as GOP primary frontrunner <span class='selected-term'>Herschel Walker</span>.",
-    "author": "",
-    "title": "5 numbers to know from the new FEC reports",
-    "sentiment": "0.0"
   }
 ]

@@ -1,23 +1,18 @@
 {
   "id": 1002,
   "mediaId": 238,
-  "date": "d2022-02-01T12:03",
+  "date": "2/1/2022 12:00:00 AM",
   "headline": "Mich. GOP governor candidate said rape victims shouldn't have abortions: Baby inside them may be the next president'",
   "image": "",
   "link": "https://www.washingtonpost.com/nation/2022/02/01/garrett-soldano-abortion-michigan-republican-governor/",
-  "sentiment": "-0.905",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    908,
-    2298,
-    2342,
-    428,
-    2645,
-    2791
+    2298
   ],
   "sentences": [
     "I will do everything in my power to make sure that happens,? he said, explaining that he believes life starts when DNA is created.?\nSoldano went on to say that society should encourage those who are pregnant  even those who are sexually assaulted  to deliver their babies.",

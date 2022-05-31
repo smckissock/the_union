@@ -1,44 +1,8 @@
 [
   {
-    "id": 4406,
-    "mediaId": 558,
-    "date": "d2022-04-29T13:25",
-    "sentence": "",
-    "author": "Jake Stofan",
-    "title": "Were gonna implement the law: New education Commissioner supports Stop WOKE Act he sponsored",
-    "sentiment": "0"
-  },
-  {
-    "id": 4406,
-    "mediaId": 558,
-    "date": "d2022-04-29T13:25",
-    "sentence": "",
-    "author": "Jake Stofan",
-    "title": "Were gonna implement the law: New education Commissioner supports Stop WOKE Act he sponsored",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4344,
-    "mediaId": 1067,
-    "date": "d2022-04-30T05:30",
-    "sentence": "",
-    "author": "Julio Fuentes",
-    "title": "Floridas altered social-media law is still flawed | Commentary",
-    "sentiment": "0"
-  },
-  {
-    "id": 4344,
-    "mediaId": 1067,
-    "date": "d2022-04-30T05:30",
-    "sentence": "",
-    "author": "Julio Fuentes",
-    "title": "Floridas altered social-media law is still flawed | Commentary",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4197,
     "mediaId": 136,
-    "date": "d2022-05-02T18:35",
+    "date": "2022-00-02",
     "sentence": "Calling Governor <span class='selected-term'>Ron DeSantis</span>' plan to dissolve Disney's self-governance district \"harebrained,\" a trio of Democratic Florida lawmakers spoke out against the move Monday, saying it could lead to higher taxes for the counties where Walt Disney World is located.",
     "author": "Thomas Kika",
     "title": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers",
@@ -47,7 +11,7 @@
   {
     "id": 4197,
     "mediaId": 136,
-    "date": "d2022-05-02T18:35",
+    "date": "2022-00-02",
     "sentence": "Calling Governor <span class='selected-term'>Ron DeSantis</span>' plan to dissolve Disney's self-governance district \"harebrained,\" a trio of Democratic Florida lawmakers spoke out against the move Monday, saying it could lead to higher taxes for the counties where Walt Disney World is located.",
     "author": "Thomas Kika",
     "title": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers",
@@ -56,7 +20,7 @@
   {
     "id": 3685,
     "mediaId": 65,
-    "date": "d2022-05-11T20:45",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Bradford Betz",
     "title": "Florida judge blocks Gov. DeSantis' redistricting map from taking effect before midterm elections",
@@ -65,7 +29,7 @@
   {
     "id": 3685,
     "mediaId": 65,
-    "date": "d2022-05-11T20:45",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Bradford Betz",
     "title": "Florida judge blocks Gov. DeSantis' redistricting map from taking effect before midterm elections",
@@ -74,7 +38,7 @@
   {
     "id": 3638,
     "mediaId": 65,
-    "date": "d2022-05-12T16:23",
+    "date": "2022-00-12",
     "sentence": "And Burton argued that \"the reason they are engaging in reckless gerrymandering in the 11th hour  like ignoring court orders in Ohio and <span class='selected-term'>Ron DeSantis</span> forcing a clearly unconstitutional map upon the people of Florida  is because they failed to draw themselves into a congressional majority everywhere else.",
     "author": "Paul Steinhauser",
     "title": "Republicans claim victory in congressional redistricting fight",
@@ -83,7 +47,7 @@
   {
     "id": 7108,
     "mediaId": 238,
-    "date": "d2022-05-21T18:13",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "Colby Itkowitz",
     "title": "House Democrats scramble after redistricting lessens competitive edge",
@@ -92,7 +56,7 @@
   {
     "id": 7108,
     "mediaId": 238,
-    "date": "d2022-05-21T18:13",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "Colby Itkowitz",
     "title": "House Democrats scramble after redistricting lessens competitive edge",
@@ -101,7 +65,7 @@
   {
     "id": 8535,
     "mediaId": 302,
-    "date": "d2022-05-28T09:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Guns, elections and Florida condos make this week's list of highs and lows | Editorial",
@@ -110,10 +74,46 @@
   {
     "id": 8535,
     "mediaId": 302,
-    "date": "d2022-05-28T09:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Guns, elections and Florida condos make this week's list of highs and lows | Editorial",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4406,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jake Stofan",
+    "title": "Were gonna implement the law: New education Commissioner supports Stop WOKE Act he sponsored",
+    "sentiment": "0"
+  },
+  {
+    "id": 4406,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jake Stofan",
+    "title": "Were gonna implement the law: New education Commissioner supports Stop WOKE Act he sponsored",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4344,
+    "mediaId": 1067,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Julio Fuentes",
+    "title": "Floridas altered social-media law is still flawed | Commentary",
+    "sentiment": "0"
+  },
+  {
+    "id": 4344,
+    "mediaId": 1067,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Julio Fuentes",
+    "title": "Floridas altered social-media law is still flawed | Commentary",
     "sentiment": "0.0"
   }
 ]

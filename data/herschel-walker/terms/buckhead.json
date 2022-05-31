@@ -1,20 +1,20 @@
 [
   {
-    "id": 8255,
-    "mediaId": 12,
-    "date": "d2022-01-24T13:00",
-    "sentence": "Senate candidate <span class='selected-term'>Herschel Walker</span> is holding mostly closed-door events in Georgia, while collecting lucrative fees for private speeches mostly outside of the state.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Internal poll shows voter support for Buckhead cityhood down",
-    "sentiment": "0.0"
-  },
-  {
     "id": 1321,
     "mediaId": 12,
-    "date": "d2022-02-22T13:00",
+    "date": "2022-00-22",
     "sentence": "I can promise you <span class='selected-term'>Herschel Walker</span> is going to be in this race.",
     "author": "Tia Mitchell",
     "title": "The Jolt: Herschel Walker hits weak' U.S. leadership in Russia crisis",
     "sentiment": "-0.689"
+  },
+  {
+    "id": 8255,
+    "mediaId": 12,
+    "date": "2022-00-24",
+    "sentence": "Senate candidate <span class='selected-term'>Herschel Walker</span> is holding mostly closed-door events in Georgia, while collecting lucrative fees for private speeches mostly outside of the state.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Internal poll shows voter support for Buckhead cityhood down",
+    "sentiment": "0.0"
   }
 ]

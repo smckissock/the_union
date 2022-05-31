@@ -1,26 +1,18 @@
 {
   "id": 7794,
   "mediaId": 209,
-  "date": "d2022-04-12T07:01",
+  "date": "4/12/2022 12:00:00 AM",
   "headline": "Late night hosts explore Russia's sanctions pains, Don Jr.'s election texts, Trump's Dr. Oz nod",
   "image": "https://u989.theweek.com/rest/dialogues/files/efb5bc8d-78f5-4819-a89e-e3a51a4394aa/tw_us_welcome+campaign_blueconic_v1_300x150_+copy.png",
   "link": "https://theweek.com/stephen-colbert/1012445/late-night-hosts-explore-russias-sanctions-pains-don-jrs-election-texts",
-  "sentiment": "0.253",
+  "sentiment": "0.0",
   "mediaOutlet": "The Week",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Peter Weber",
   "authorUrl": "https://theweek.com/authors/peter-weber",
   "termIds": [
-    815,
-    1053,
-    1147,
-    1653,
-    2030,
-    2282,
-    5756,
-    2888,
-    2942
+    815
   ],
   "sentences": [
     "The House Jan. 6 committee says it has enough evidence to refer crimes committed by \"our crazy ex-president\" to the Justice Department for prosecution, \"but they're hesitant to do that because they don't want it to seem politically motivated,\" Jimmy Kimmel sighed on Kimmel Live.",

@@ -1,11 +1,11 @@
 {
   "id": 1279,
   "mediaId": 19,
-  "date": "d2022-03-03T00:00",
+  "date": "3/3/2022 12:00:00 AM",
   "headline": "Georgia Poll: Kemp Holds Lead over Perdue in Governor's Race; Herschel Walker Dominates Senate Primary",
   "image": "https://media.breitbart.com/media/2022/02/GettyImages-1058497456-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/03/03/georgia-poll-kemp-holds-lead-perdue-governors-race-herschel-walker-dominates-senate-primary/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,23 +13,7 @@
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
     815,
-    984,
-    1147,
-    1154,
-    1435,
-    1462,
-    2095,
-    2250,
-    2355,
-    2389,
-    3082,
-    4325,
-    182,
-    600,
-    2557,
-    2672,
-    2894,
-    2934
+    3082
   ],
   "sentences": [
     "Walker, who is currently in a comfortable position to win his primary, recently spoke out about the contentious gubernatorial primary battle, saying he was mad at both? Kemp and Perdue and concerned that bitter campaign fighting could prove so divisive that it ends up thwarting Republicans' chances of defeating the Democrat candidate, voting rights activist Stacey Abrams, in the general election.",

@@ -1,35 +1,17 @@
 [
   {
-    "id": 1089,
-    "mediaId": 19,
-    "date": "d2022-03-26T00:00",
-    "sentence": "Right here in your state, we are going to throw out your spineless RINO Governor <span class='selected-term'>Brian Kemp</span>, and we are going to replace him with a fearless America First patriot in David Perdue,? Trump plans to say.",
-    "author": "Ashley Oliver",
-    "title": "Exclusive  Trump at Georgia Rally: A Vote for RINO Brian Kemp' Is a Vote for Stacey Abrams'",
-    "sentiment": "-0.548"
-  },
-  {
-    "id": 5441,
-    "mediaId": 124,
-    "date": "d2022-03-28T12:47:54",
+    "id": 4810,
+    "mediaId": 151,
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
-    "title": "Midterm environment looks more like 2010 than 2018 in NBC News poll",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5399,
-    "mediaId": 323,
-    "date": "d2022-03-30T22:53",
-    "sentence": "WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022Play video: WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022\n Potomac Watch: Stacey Abrams lost the 2018 Georgia governor's race to republican <span class='selected-term'>Brian Kemp</span>, and to this day she's never accepted the result.",
-    "author": "The Editorial Board",
-    "title": "Tennessees Political Protection Racket",
-    "sentiment": "-0.67"
+    "title": "Trumps criminal justice reform bill becomes persona non grata among GOPers",
+    "sentiment": "0"
   },
   {
     "id": 5280,
     "mediaId": 12,
-    "date": "d2022-04-06T16:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Ernie Suggs",
     "title": "Black Atlanta women judges say Ketanji Brown Jackson scrutiny familiar",
@@ -38,19 +20,37 @@
   {
     "id": 5266,
     "mediaId": 233,
-    "date": "d2022-04-07T08:19",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Editors",
     "title": "Jackson's Senate confirmation, Ukraine-Russia war, the Masters: 5 things to know Thursday",
     "sentiment": "0.0"
   },
   {
-    "id": 4810,
-    "mediaId": 151,
-    "date": "d2022-05-01T11:00",
+    "id": 1089,
+    "mediaId": 19,
+    "date": "2022-00-26",
+    "sentence": "Right here in your state, we are going to throw out your spineless RINO Governor <span class='selected-term'>Brian Kemp</span>, and we are going to replace him with a fearless America First patriot in David Perdue,? Trump plans to say.",
+    "author": "Ashley Oliver",
+    "title": "Exclusive  Trump at Georgia Rally: A Vote for RINO Brian Kemp' Is a Vote for Stacey Abrams'",
+    "sentiment": "-0.548"
+  },
+  {
+    "id": 5441,
+    "mediaId": 124,
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
-    "title": "Trumps criminal justice reform bill becomes persona non grata among GOPers",
-    "sentiment": "0"
+    "title": "Midterm environment looks more like 2010 than 2018 in NBC News poll",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5399,
+    "mediaId": 323,
+    "date": "2022-00-30",
+    "sentence": "WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022Play video: WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022\n Potomac Watch: Stacey Abrams lost the 2018 Georgia governor's race to republican <span class='selected-term'>Brian Kemp</span>, and to this day she's never accepted the result.",
+    "author": "The Editorial Board",
+    "title": "Tennessees Political Protection Racket",
+    "sentiment": "-0.67"
   }
 ]

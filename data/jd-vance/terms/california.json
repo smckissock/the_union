@@ -1,83 +1,83 @@
 [
   {
-    "id": 6246,
-    "mediaId": 238,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "Mariana Alfaro",
-    "title": "Leader McCarthy, Rep. Greene both have some explaining to do about Jan. 6",
-    "sentiment": "0"
-  },
-  {
-    "id": 6232,
-    "mediaId": 238,
-    "date": "d2022-04-22T12:00",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Will Trumps base ever turn on him? Look to Ohio.",
-    "sentiment": "0"
-  },
-  {
-    "id": 6134,
-    "mediaId": 19,
-    "date": "d2022-04-27T00:00",
-    "sentence": "",
-    "author": "Joshua Klein",
-    "title": "GOP Rips Dystopian DHS Plans for Disinformation Governance Board, Orwellian Abuse of Power by Biden Admin",
-    "sentiment": "0"
-  },
-  {
-    "id": 6110,
-    "mediaId": 237,
-    "date": "d2022-04-28T06:00",
-    "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Midterm Memo: Power of Trump endorsement on display in Ohio",
-    "sentiment": "0"
-  },
-  {
-    "id": 6101,
-    "mediaId": 237,
-    "date": "d2022-04-28T16:06",
-    "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
-    "sentiment": "0"
-  },
-  {
     "id": 4316,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
     "sentiment": "0"
   },
   {
-    "id": 5808,
-    "mediaId": 409,
-    "date": "d2022-05-04T06:30",
-    "sentence": "",
-    "author": "Jay Nordlinger",
-    "title": "Refuge in pluralism, &c.",
-    "sentiment": "0"
-  },
-  {
     "id": 5781,
     "mediaId": 238,
-    "date": "d2022-05-04T15:17",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
     "sentiment": "0"
   },
   {
+    "id": 5808,
+    "mediaId": 409,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Jay Nordlinger",
+    "title": "Refuge in pluralism, &c.",
+    "sentiment": "0"
+  },
+  {
     "id": 5586,
     "mediaId": 1576,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Accusations of 'grooming' are the latest political attack  with homophobic origins",
+    "sentiment": "0"
+  },
+  {
+    "id": 6232,
+    "mediaId": 238,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Will Trumps base ever turn on him? Look to Ohio.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6246,
+    "mediaId": 238,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Mariana Alfaro",
+    "title": "Leader McCarthy, Rep. Greene both have some explaining to do about Jan. 6",
+    "sentiment": "0"
+  },
+  {
+    "id": 6134,
+    "mediaId": 19,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Joshua Klein",
+    "title": "GOP Rips Dystopian DHS Plans for Disinformation Governance Board, Orwellian Abuse of Power by Biden Admin",
+    "sentiment": "0"
+  },
+  {
+    "id": 6101,
+    "mediaId": 237,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
+    "sentiment": "0"
+  },
+  {
+    "id": 6110,
+    "mediaId": 237,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Midterm Memo: Power of Trump endorsement on display in Ohio",
     "sentiment": "0"
   }
 ]

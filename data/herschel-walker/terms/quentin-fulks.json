@@ -1,47 +1,47 @@
 [
   {
-    "id": 8228,
-    "mediaId": 43,
-    "date": "d2022-01-27T00:00",
-    "sentence": "He has outraised his GOP opponent, <span class='selected-term'>Herschel Walker</span>, by almost double in the last quarter of 2021, with donations averaging at $43.",
-    "author": "Rebekah Sager",
-    "title": "Warnock soaring to the lead in fundraising over GOP opponent, Trump lapdog Herschel Walker",
-    "sentiment": "-0.902"
-  },
-  {
-    "id": 7768,
-    "mediaId": 12,
-    "date": "d2022-04-14T12:00",
-    "sentence": "Former football star <span class='selected-term'>Herschel Walker</span>, the GOP frontrunner, ended 2021 with roughly $5 million in the bank.",
-    "author": "Greg Bluestein",
-    "title": "Warnock sets another fundraising record, ends quarter with $25.6M in the bank",
-    "sentiment": "0"
-  },
-  {
-    "id": 7766,
-    "mediaId": 195,
-    "date": "d2022-04-14T13:19",
-    "sentence": "That bank account is anticipated to be a key advantage in his bid this year for a full term against likely GOP nominee <span class='selected-term'>Herschel Walker</span>, the former NFL star.",
-    "author": "Tal Axelrod",
-    "title": "Warnock raises $13.6 million in first quarter of 2022",
-    "sentiment": "0"
-  },
-  {
     "id": 7765,
     "mediaId": 237,
-    "date": "d2022-04-14T14:03",
+    "date": "2022-00-14",
     "sentence": "The numbers reflect the high-stakes nature of the Senate race between Warnock and his likely Republican opponent, former University of Georgia football star <span class='selected-term'>Herschel Walker</span>.",
     "author": "Cami Mondeaux",
     "title": "Sen. Warnock has over $25 million in the bank for fight against GOP rival Walker",
     "sentiment": "0"
   },
   {
+    "id": 7766,
+    "mediaId": 195,
+    "date": "2022-00-14",
+    "sentence": "That bank account is anticipated to be a key advantage in his bid this year for a full term against likely GOP nominee <span class='selected-term'>Herschel Walker</span>, the former NFL star.",
+    "author": "Tal Axelrod",
+    "title": "Warnock raises $13.6 million in first quarter of 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 7768,
+    "mediaId": 12,
+    "date": "2022-00-14",
+    "sentence": "Former football star <span class='selected-term'>Herschel Walker</span>, the GOP frontrunner, ended 2021 with roughly $5 million in the bank.",
+    "author": "Greg Bluestein",
+    "title": "Warnock sets another fundraising record, ends quarter with $25.6M in the bank",
+    "sentiment": "0"
+  },
+  {
     "id": 7679,
     "mediaId": 19,
-    "date": "d2022-04-26T00:00",
+    "date": "2022-00-26",
     "sentence": "The Republican frontrunner, <span class='selected-term'>Herschel Walker</span>, took in more than $5 million, outpacing his other Republican primary opponents, but at the same time that Warnock took in roughly $13 million.",
     "author": "Jacob Bliss",
     "title": "Majority of Democrat Sen. Raphael Warnocks Campaign Donations Are from Out of State",
     "sentiment": "0"
+  },
+  {
+    "id": 8228,
+    "mediaId": 43,
+    "date": "2022-00-27",
+    "sentence": "He has outraised his GOP opponent, <span class='selected-term'>Herschel Walker</span>, by almost double in the last quarter of 2021, with donations averaging at $43.",
+    "author": "Rebekah Sager",
+    "title": "Warnock soaring to the lead in fundraising over GOP opponent, Trump lapdog Herschel Walker",
+    "sentiment": "-0.902"
   }
 ]

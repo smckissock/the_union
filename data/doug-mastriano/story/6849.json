@@ -1,25 +1,18 @@
 {
   "id": 6849,
   "mediaId": 19,
-  "date": "d2022-05-13T00:00",
+  "date": "5/13/2022 12:00:00 AM",
   "headline": "NY Times: Democrat Runs Ad Intended to Help Doug Mastriano Win Pennsylvania GOP Gubernatorial Primary",
   "image": "https://media.breitbart.com/media/2022/05/AP22097622076886-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/13/ny-times-democrat-runs-ad-intended-to-help-doug-mastriano-win-pennsylvania-gop-gubernatorial-primary/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John Binder",
   "authorUrl": "https://www.breitbart.com/author/john-binder/",
   "termIds": [
-    1713,
-    3102,
-    146,
-    392,
-    428,
-    517,
-    2992,
-    2862
+    3102
   ],
   "sentences": [
     "The ad does not audibly state that it was paid for by Shapiros campaign but rather includes a chyron at the bottom of the screen labeled Paid for by Shapiro for Pennsylvania.?\nThe New York Times on Friday reported that the pro-Mastriano Shapiro ad appears intended to help one of his opponents in the Republican primary? in an effort to ensure that he runs against the weakest Republican opponent in November.",

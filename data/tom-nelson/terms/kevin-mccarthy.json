@@ -1,20 +1,20 @@
 [
   {
-    "id": 2392,
-    "mediaId": 21,
-    "date": "d2022-02-04T18:00",
-    "sentence": "Out in Outagamie County, Wisconsin, two flights and a lengthy Lyft ride from Capitol Hill, US Senate candidate <span class='selected-term'>Tom Nelson</span> follows events in Washington with disbelief as leaders of his own Democratic Party resist banning members of Congress from buying and selling stock.",
-    "author": "Dave Levinthal",
-    "title": "Democratic candidates blast Biden and Pelosi for not pushing Congress to pass a stock trade ban for lawmakers: 'Get in the ring!'",
-    "sentiment": "-0.827"
-  },
-  {
     "id": 2377,
     "mediaId": 43,
-    "date": "d2022-03-02T00:00",
+    "date": "2022-00-02",
     "sentence": "Mandela Barnes outpaces Milwaukee Bucks executive Alex Lasry 23-13, with Outagamie County Executive <span class='selected-term'>Tom Nelson</span> at 5%; a recent Lasry internal from Normington Petts found him trailing Barnes 35-27.",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 3/2",
     "sentiment": "0.0"
+  },
+  {
+    "id": 2392,
+    "mediaId": 21,
+    "date": "2022-00-04",
+    "sentence": "Out in Outagamie County, Wisconsin, two flights and a lengthy Lyft ride from Capitol Hill, US Senate candidate <span class='selected-term'>Tom Nelson</span> follows events in Washington with disbelief as leaders of his own Democratic Party resist banning members of Congress from buying and selling stock.",
+    "author": "Dave Levinthal",
+    "title": "Democratic candidates blast Biden and Pelosi for not pushing Congress to pass a stock trade ban for lawmakers: 'Get in the ring!'",
+    "sentiment": "-0.827"
   }
 ]

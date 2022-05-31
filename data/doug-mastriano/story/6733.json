@@ -1,27 +1,18 @@
 {
   "id": 6733,
   "mediaId": 65,
-  "date": "d2022-05-17T17:08",
+  "date": "5/17/2022 12:00:00 AM",
   "headline": "Oz, Barnette, McCormick cast votes in crucial Pennsylvania GOP Senate primary",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d23cb20-9b05-4bd2-b3a0-91ae0b95fa3d/3bc6ce0f-9d67-4803-a22d-2799c2fa4268/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/oz-barnette-mccormick-cast-votes-pennsylvania-gop-senate-primary",
-  "sentiment": "0.859",
+  "sentiment": "0.0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Steinhauser",
   "authorUrl": "https://www.foxnews.com/person/s/paul-steinhauser",
   "termIds": [
-    1147,
-    2087,
-    3102,
-    428,
-    571,
-    2992,
-    2862,
-    2865,
-    2868,
-    5462
+    3102
   ],
   "sentences": [
     "TRUMP'S GOP CLOUT IS ON THE LINE IN PENNSYLVANIA'S REPUBLICAN SENATE PRIMARY\nOz, who until the launch of his Senate campaign late last year was host of TVs popular \"Dr. Oz Show,\" had been one of the two polling front-runners for a couple of months in the GOP showdown to succeed retiring Republican Sen. Pat Toomey, in a race that may decide whether the GOP wins back the Senate majority in Novembers midterm elections.",

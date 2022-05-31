@@ -1,11 +1,11 @@
 {
   "id": 8365,
   "mediaId": 302,
-  "date": "d2022-05-26T00:00",
+  "date": "5/26/2022 12:00:00 AM",
   "headline": "Trump is in the past': Mounting losses show limits of power",
   "image": "https://www.tampabay.com/resizer//-r7NH23OvifR5Qj3iqoGfyW2mX4=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/SEJG4WUY7B4BHZ3TTJ6HEIVTN4.jpg",
   "link": "https://www.tampabay.com/news/nation-world/2022/05/25/trump-is-in-the-past-mounting-losses-show-limits-of-power/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,7 @@
   "authorUrl": "https://www.tampabay.com/author/associated-press",
   "termIds": [
     815,
-    896,
-    1147,
-    1801,
-    2095,
-    2555,
-    2672,
-    2834,
-    6074
+    2095
   ],
   "sentences": [
     "Trump faced a series of setbacks in Tuesday's primary elections as voters rejected his efforts to unseat two top targets for retribution: Georgia's Republican governor and secretary of state, both of whom had rebuffed Trump's extraordinary pressure to overturn the results of the 2020 presidential election.",

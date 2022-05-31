@@ -1,25 +1,18 @@
 {
   "id": 6311,
   "mediaId": 195,
-  "date": "d2022-04-18T15:40",
+  "date": "4/18/2022 12:00:00 AM",
   "headline": "JD Vance rolls out statewide ad touting Trump endorsement",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/04/33db9e5c2b474da4aff4a9d72ed6bd01.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/campaign/3271699-jd-vance-rolls-out-statewide-ad-touting-trump-endorsement/",
-  "sentiment": "0.621",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tal Axelrod",
   "authorUrl": "https://thehill.com/author/tal-axelrod/",
   "termIds": [
-    1147,
-    1801,
-    2087,
-    3103,
-    379,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "JD is the conservative outsider who will continue Trumps fight to secure our borders, protect the unborn, get rid of the corrupt politicians and stop Joe Biden,? a narrator says in the ad after video of local news coverage of Trumps endorsement.",

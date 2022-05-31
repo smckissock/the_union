@@ -1,17 +1,8 @@
 [
   {
-    "id": 8239,
-    "mediaId": 32,
-    "date": "d2022-01-26T12:00:01",
-    "sentence": "",
-    "author": "Thomas Franck",
-    "title": "Democrats bid to keep the Senate will involve plans to fight inflation and promises for a renewed agenda",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7036,
     "mediaId": 43,
-    "date": "d2022-02-07T00:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Morning Digest: Democratic Senate primary in Pennsylvania gets smaller as GOP's gets uglier",
@@ -20,7 +11,7 @@
   {
     "id": 4461,
     "mediaId": 195,
-    "date": "d2022-05-19T10:28",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Recount looms in Pennsylvania",
@@ -29,7 +20,7 @@
   {
     "id": 6582,
     "mediaId": 323,
-    "date": "d2022-05-19T22:37",
+    "date": "2022-00-19",
     "sentence": "In the state of Georgia, thanks to <span class='selected-term'>Brian Kemp</span>, our elections were absolutely stolen.",
     "author": "Kimberley A. Strassel",
     "title": "The Limits of Stop the Steal",
@@ -38,7 +29,7 @@
   {
     "id": 7106,
     "mediaId": 129,
-    "date": "d2022-05-20T00:00",
+    "date": "2022-00-20",
     "sentence": "In the Georgia primary for governor, a Trump surrogate, Sonny Purdue, is polling well behind Mr. Trumps nemesis, the incumbent <span class='selected-term'>Brian Kemp</span>.",
     "author": "",
     "title": "Democrats, the Midterm Jinx Is Not Inevitable",
@@ -47,10 +38,19 @@
   {
     "id": 7419,
     "mediaId": 129,
-    "date": "d2022-05-24T22:44",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "",
     "title": "Your Tuesday Evening Briefing",
     "sentiment": "0"
+  },
+  {
+    "id": 8239,
+    "mediaId": 32,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "Thomas Franck",
+    "title": "Democrats bid to keep the Senate will involve plans to fight inflation and promises for a renewed agenda",
+    "sentiment": "0.0"
   }
 ]

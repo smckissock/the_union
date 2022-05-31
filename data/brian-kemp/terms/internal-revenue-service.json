@@ -1,35 +1,53 @@
 [
   {
-    "id": 1166,
-    "mediaId": 12,
-    "date": "d2022-03-18T16:00",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "Stacey Abrams, Brian Kemp and David Perdue each disclose net worth in millions",
-    "sentiment": "-0.387"
-  },
-  {
-    "id": 5406,
-    "mediaId": 237,
-    "date": "d2022-03-30T12:41",
-    "sentence": "",
-    "author": "Andrew Kerr",
-    "title": "Stacey Abrams dark money group hauled in $62 million following 2018 election loss",
-    "sentiment": "0"
-  },
-  {
     "id": 5347,
     "mediaId": 223,
-    "date": "d2022-04-02T14:45",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Rebecca Downs",
     "title": "Mark Zuckerberg Involved in Significant 2020 Election Interference, New Documentary Exposes",
     "sentiment": "0.0"
   },
   {
+    "id": 5304,
+    "mediaId": 65,
+    "date": "2022-00-05",
+    "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
+    "author": "Julia Musto",
+    "title": "Stacey Abrams now a millionaire as she aims to take governor's office",
+    "sentiment": "0"
+  },
+  {
+    "id": 5309,
+    "mediaId": 12,
+    "date": "2022-00-05",
+    "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
+    "author": "JEFF AMY",
+    "title": "Stacey Abrams reaches millionaire status before 2nd campaign",
+    "sentiment": "-0.306"
+  },
+  {
+    "id": 5316,
+    "mediaId": 558,
+    "date": "2022-00-05",
+    "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
+    "author": "",
+    "title": "Stacey Abrams now a millionaire as she aims to take governor's office",
+    "sentiment": "0"
+  },
+  {
+    "id": 5320,
+    "mediaId": 98,
+    "date": "2022-00-05",
+    "sentence": "Since her 2018 defeat against Republican <span class='selected-term'>Brian Kemp</span>, Abrams has become a leading voting rights activist.",
+    "author": "JEFF AMY",
+    "title": "Once mocked for her shaky personal finances, Stacey Abrams is now a millionaire",
+    "sentiment": "-0.657"
+  },
+  {
     "id": 5326,
     "mediaId": 1576,
-    "date": "d2022-04-05T00:00",
+    "date": "2022-00-05",
     "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
     "author": "",
     "title": "Stacey Abrams reaches millionaire status before 2nd campaign",
@@ -38,46 +56,28 @@
   {
     "id": 5328,
     "mediaId": 25,
-    "date": "d2022-04-05T00:00",
+    "date": "2022-00-05",
     "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
     "author": "",
     "title": "Stacey Abrams' net worth over $3 million as she launches second bid for Georgia governor",
     "sentiment": "-0.334"
   },
   {
-    "id": 5320,
-    "mediaId": 98,
-    "date": "d2022-04-05T04:54",
-    "sentence": "Since her 2018 defeat against Republican <span class='selected-term'>Brian Kemp</span>, Abrams has become a leading voting rights activist.",
-    "author": "JEFF AMY",
-    "title": "Once mocked for her shaky personal finances, Stacey Abrams is now a millionaire",
-    "sentiment": "-0.657"
-  },
-  {
-    "id": 5316,
-    "mediaId": 558,
-    "date": "d2022-04-05T09:54",
-    "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
-    "author": "",
-    "title": "Stacey Abrams now a millionaire as she aims to take governor's office",
-    "sentiment": "0"
-  },
-  {
-    "id": 5309,
+    "id": 1166,
     "mediaId": 12,
-    "date": "d2022-04-05T11:23",
-    "sentence": "The leading Republicans seeking the nomination for governor  incumbent <span class='selected-term'>Brian Kemp</span> and challenger David Perdue  are far wealthier than she is.",
-    "author": "JEFF AMY",
-    "title": "Stacey Abrams reaches millionaire status before 2nd campaign",
-    "sentiment": "-0.306"
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "Stacey Abrams, Brian Kemp and David Perdue each disclose net worth in millions",
+    "sentiment": "-0.387"
   },
   {
-    "id": 5304,
-    "mediaId": 65,
-    "date": "d2022-04-05T16:54",
-    "sentence": "Then-gubernatorial candidate <span class='selected-term'>Brian Kemp</span> criticized Abrams in 2018 for owing $54,000 to the IRS.",
-    "author": "Julia Musto",
-    "title": "Stacey Abrams now a millionaire as she aims to take governor's office",
+    "id": 5406,
+    "mediaId": 237,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Andrew Kerr",
+    "title": "Stacey Abrams dark money group hauled in $62 million following 2018 election loss",
     "sentiment": "0"
   }
 ]

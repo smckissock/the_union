@@ -1,35 +1,17 @@
 [
   {
-    "id": 2418,
-    "mediaId": 129,
-    "date": "d2022-01-11T00:00",
-    "sentence": "Mandela Barnes and State Treasurer Sarah Godlewski, along with Alex Lasry, an executive with the Milwaukee Bucks, and <span class='selected-term'>Tom Nelson</span>, a county executive.",
-    "author": "",
-    "title": "Nobody's Getting Special Treatment in 2022",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2378,
     "mediaId": 367,
-    "date": "d2022-03-02T00:00",
+    "date": "2022-00-02",
     "sentence": "In the Democratic race for U.S. Senate, Barnes is the choice of 23%, Milwaukee Bucks executive Alex Lasry is at 13%, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> is at 5% and state Treasurer Sarah Godlewski is at 3%.",
     "author": "Bill Glauber",
     "title": "Marquette poll shows Rebecca Kleefisch and Mandela Barnes leading key primary contests",
     "sentiment": "0"
   },
   {
-    "id": 2357,
-    "mediaId": 367,
-    "date": "d2022-03-17T00:00",
-    "sentence": "Among the others in the large Senate primary are state Treasurer Sarah Godlewski, Milwaukee Bucks executive Alex Lasry and Outagamie County Executive <span class='selected-term'>Tom Nelson</span>.",
-    "author": "Patrick Marley",
-    "title": "Gov. Tony Evers isn't endorsing any candidates in the Democratic primary for U.S. Senate",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2294,
     "mediaId": 43,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\nMandela Barnes for U.S. Senate\nSarah Godlewski for U.S. Senate\n<span class='selected-term'>Tom Nelson</span> for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
     "title": "Now Says That COVID Vaccines Could Cause AIDS",
@@ -38,16 +20,34 @@
   {
     "id": 2288,
     "mediaId": 43,
-    "date": "d2022-05-07T00:00",
+    "date": "2022-00-07",
     "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\nMandela Barnes for U.S. Senate\nSarah Godlewski for U.S. Senate\n<span class='selected-term'>Tom Nelson</span> for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
     "title": "Admits He's Waging \"Guerilla War\" Against The Medical Establishment",
     "sentiment": "0.0"
   },
   {
+    "id": 2418,
+    "mediaId": 129,
+    "date": "2022-00-11",
+    "sentence": "Mandela Barnes and State Treasurer Sarah Godlewski, along with Alex Lasry, an executive with the Milwaukee Bucks, and <span class='selected-term'>Tom Nelson</span>, a county executive.",
+    "author": "",
+    "title": "Nobody's Getting Special Treatment in 2022",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2357,
+    "mediaId": 367,
+    "date": "2022-00-17",
+    "sentence": "Among the others in the large Senate primary are state Treasurer Sarah Godlewski, Milwaukee Bucks executive Alex Lasry and Outagamie County Executive <span class='selected-term'>Tom Nelson</span>.",
+    "author": "Patrick Marley",
+    "title": "Gov. Tony Evers isn't endorsing any candidates in the Democratic primary for U.S. Senate",
+    "sentiment": "0.0"
+  },
+  {
     "id": 6547,
     "mediaId": 367,
-    "date": "d2022-05-21T00:00",
+    "date": "2022-00-21",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Milwaukee Bucks executive Alex Lasry and Outagamie County Executive <span class='selected-term'>Tom Nelson</span>.",
     "author": "Patrick Marley",
     "title": "Ron Johnson unifies Republicans at state convention as they remain split over issues and other candidates",

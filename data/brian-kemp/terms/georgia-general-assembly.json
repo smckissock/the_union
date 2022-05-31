@@ -1,17 +1,53 @@
 [
   {
+    "id": 5355,
+    "mediaId": 12,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Maya T. Prabhu",
+    "title": "Georgia Legislature approves Juneteenth holiday for state employees",
+    "sentiment": "0"
+  },
+  {
+    "id": 5366,
+    "mediaId": 12,
+    "date": "2022-00-01",
+    "sentence": "Since its Friday, we always like to send you into the week with a little light reading, including:\nJamie DuPrees Washington Insider column Thursday, Georgia at the tip of the spear?;\nFridays Political Insider column, A legislative session for <span class='selected-term'>Brian Kemp</span> to take to the bank.?\nAs always, Jolt readers are some of our favorite tipsters.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: See Sonny Perdues resume for his new $524,000 job as chancellor",
+    "sentiment": "0"
+  },
+  {
+    "id": 4733,
+    "mediaId": 675,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Art Moore",
+    "title": "These 26 states likely would restrict abortion if Roe overturned",
+    "sentiment": "0"
+  },
+  {
     "id": 1680,
     "mediaId": 19,
-    "date": "d2022-01-05T00:00",
+    "date": "2022-00-05",
     "sentence": "I'm glad <span class='selected-term'>Brian Kemp</span> is answering my call for constitutional carry in Georgia.",
     "author": "Ashley Oliver",
     "title": "Brian Kemp Plans to Ease Gun Laws in Georgia: Carry Permit' Should Be the Founding Document of Our Nation'",
     "sentiment": "0.246"
   },
   {
+    "id": 5319,
+    "mediaId": 12,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Maya T. Prabhu",
+    "title": "Georgia lawmakers approve divisive concepts, transgender sports bill",
+    "sentiment": "0"
+  },
+  {
     "id": 1620,
     "mediaId": 12,
-    "date": "d2022-01-13T13:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Greg Bluestein",
     "title": "The Jolt: Brian Kemp says no more election law changes this year",
@@ -20,64 +56,28 @@
   {
     "id": 8268,
     "mediaId": 33,
-    "date": "d2022-01-19T00:00",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Fredreka Schouten",
     "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
     "sentiment": "0.0"
   },
   {
-    "id": 5404,
-    "mediaId": 12,
-    "date": "d2022-03-30T18:00",
-    "sentence": "",
-    "author": "Ty Tagami",
-    "title": "Georgia Legislature approves new process for banning books in schools",
-    "sentiment": "0"
-  },
-  {
-    "id": 5366,
-    "mediaId": 12,
-    "date": "d2022-04-01T13:00",
-    "sentence": "Since its Friday, we always like to send you into the week with a little light reading, including:\nJamie DuPrees Washington Insider column Thursday, Georgia at the tip of the spear?;\nFridays Political Insider column, A legislative session for <span class='selected-term'>Brian Kemp</span> to take to the bank.?\nAs always, Jolt readers are some of our favorite tipsters.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: See Sonny Perdues resume for his new $524,000 job as chancellor",
-    "sentiment": "0"
-  },
-  {
-    "id": 5355,
-    "mediaId": 12,
-    "date": "d2022-04-01T20:00",
-    "sentence": "",
-    "author": "Maya T. Prabhu",
-    "title": "Georgia Legislature approves Juneteenth holiday for state employees",
-    "sentiment": "0"
-  },
-  {
-    "id": 5319,
-    "mediaId": 12,
-    "date": "d2022-04-05T05:00",
-    "sentence": "",
-    "author": "Maya T. Prabhu",
-    "title": "Georgia lawmakers approve divisive concepts, transgender sports bill",
-    "sentiment": "0"
-  },
-  {
     "id": 1879,
     "mediaId": 237,
-    "date": "d2022-04-28T16:06",
+    "date": "2022-00-28",
     "sentence": "\"After months and months of <span class='selected-term'>Brian Kemp</span> having exclusive ability to raise unlimited funds as a result of the bill he signed, Kemp will no longer be able to raise these funds while Stacey Abrams and [her leadership committee] One Georgia are denied equal ability to operate under the same rules.",
     "author": "Cami Mondeaux",
     "title": "Brian Kemp's campaign fundraising suspended until after GOP primary, judge rules",
     "sentiment": "-0.624"
   },
   {
-    "id": 4733,
-    "mediaId": 675,
-    "date": "d2022-05-03T19:16",
+    "id": 5404,
+    "mediaId": 12,
+    "date": "2022-00-30",
     "sentence": "",
-    "author": "Art Moore",
-    "title": "These 26 states likely would restrict abortion if Roe overturned",
+    "author": "Ty Tagami",
+    "title": "Georgia Legislature approves new process for banning books in schools",
     "sentiment": "0"
   }
 ]

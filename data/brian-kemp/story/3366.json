@@ -1,28 +1,19 @@
 {
   "id": 3366,
   "mediaId": 136,
-  "date": "d2022-05-16T14:57",
+  "date": "5/16/2022 12:00:00 AM",
   "headline": "Donald Trump's Enemies Flock to Brian Kemp in Bid to Thwart MAGA Surge",
   "image": "https://d.newsweek.com/en/full/2038366/trump-bush-pence-kemp.webp?w=790&f=ed999cb4a5f0bab43994cecd9c6a71b3",
   "link": "https://www.newsweek.com/trump-georgia-primary-brian-kemp-david-perdue-bush-pence-1706956",
-  "sentiment": "-0.259",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ewan Palmer",
   "authorUrl": "https://www.newsweek.com/authors/ewan-palmer",
   "termIds": [
-    929,
-    945,
-    1147,
-    1248,
-    1434,
-    1951,
-    2087,
     2095,
-    2150,
-    3094,
-    4325
+    3094
   ],
   "sentences": [
     "Charles Bullock, a professor of political science at the University of Georgia, said that with Kemp being \"target number one\" for Trump, Republicans who do not support the former president and his vision have seen that \"the biggest blow they could deliver to begin freeing the GOP of Trumpism\" would be to beat his candidate in Georgia and securing the governor's reelection.",

@@ -1,20 +1,20 @@
 [
   {
-    "id": 6278,
-    "mediaId": 124,
-    "date": "d2022-04-20T02:35:01",
-    "sentence": "",
-    "author": "",
-    "title": "Trump-backed House candidate removed from ballot by Tenn. Republicans",
-    "sentiment": "0"
-  },
-  {
     "id": 5759,
     "mediaId": 124,
-    "date": "d2022-05-04T20:34:38",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Allan Smith",
     "title": "Inside the GOP effort to scrub a Trump-backed candidate from Tennessee's ballot",
+    "sentiment": "0"
+  },
+  {
+    "id": 6278,
+    "mediaId": 124,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "",
+    "title": "Trump-backed House candidate removed from ballot by Tenn. Republicans",
     "sentiment": "0"
   }
 ]

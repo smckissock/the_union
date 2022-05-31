@@ -1,27 +1,18 @@
 {
   "id": 7310,
   "mediaId": 136,
-  "date": "d2022-05-24T09:20",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Donald Trump and Joe Biden Will Both Be Big Losers from Georgia Primary",
   "image": "",
   "link": "https://www.newsweek.com/donald-trump-joe-biden-will-both-big-losers-georgia-primary-brian-kemp-1709407",
-  "sentiment": "-0.778",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Darragh Roche",
   "authorUrl": "https://www.newsweek.com/authors/darragh-roche",
   "termIds": [
-    1147,
-    1434,
-    1951,
-    2087,
-    2095,
-    4325,
-    146,
-    428,
-    571,
-    2672
+    2095
   ],
   "sentences": [
     "Recent polling about hypothetical match ups between Abrams and the Republican candidates has been relatively limited, but a WXIA-TV survey conducted from April 22 to 27 showed Perdue defeating Abrams by 49 percent to 46 percent, while Kemp had a lead of 50 percent to 45 percent over Abrams.",

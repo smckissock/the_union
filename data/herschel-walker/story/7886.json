@@ -1,11 +1,11 @@
 {
   "id": 7886,
   "mediaId": 136,
-  "date": "d2022-03-27T13:43",
+  "date": "3/27/2022 12:00:00 AM",
   "headline": "Trump Rally in Georgia Helps Stacey Abrams With Fundraising Appeal",
   "image": "",
   "link": "https://www.newsweek.com/trump-rally-georgia-helps-stacey-abrams-fundraising-appeal-1692210",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,7 @@
   "authorUrl": "https://www.newsweek.com/authors/xander-landen",
   "termIds": [
     815,
-    1147,
-    1951,
-    2087,
-    2095,
-    4325,
-    146,
-    428,
-    2672
+    2095
   ],
   "sentences": [
     "After Donald Trump's rally in Georgia on Saturday night, Democratic gubernatorial candidate Stacey Abrams issued a call to donors in an email, and took aim at the former president who was campaigning for GOP gubernatorial candidate David Perdue.",

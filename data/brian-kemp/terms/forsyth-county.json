@@ -1,8 +1,17 @@
 [
   {
+    "id": 7260,
+    "mediaId": 1576,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Georgia voters showed us these 3 things about the fall election",
+    "sentiment": "-0.795"
+  },
+  {
     "id": 4842,
     "mediaId": 1576,
-    "date": "d2022-04-29T00:00",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Political Antics: Democrats take aim at Kemps education bill signing blitz",
@@ -11,7 +20,7 @@
   {
     "id": 4855,
     "mediaId": 1576,
-    "date": "d2022-04-29T00:00",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "WABE's Week In Review: Georgia's new education laws, Kemp v Perdue and saving thousands of bees",
@@ -20,19 +29,10 @@
   {
     "id": 4863,
     "mediaId": 1576,
-    "date": "d2022-04-29T00:00",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Political Antics: Democrats take aim at Kemps education bill signing blitz",
     "sentiment": "0"
-  },
-  {
-    "id": 7260,
-    "mediaId": 1576,
-    "date": "d2022-05-22T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Georgia voters showed us these 3 things about the fall election",
-    "sentiment": "-0.795"
   }
 ]

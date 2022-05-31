@@ -1,35 +1,44 @@
 [
   {
-    "id": 2449,
-    "mediaId": 43,
-    "date": "d2022-01-01T00:00",
-    "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
-    "author": "",
-    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
-    "sentiment": "0.871"
-  },
-  {
-    "id": 2414,
-    "mediaId": 424,
-    "date": "d2022-01-12T05:00",
-    "sentence": "Another of the Democrats seeking to challenge the senator in 2022, Wisconsin Lieutenant Governor <span class='selected-term'>Mandela Barnes</span>, summed things up succinctly when he observed, Ron Johnson used his office to enrich some of his wealthiest campaign donors while raising taxes on the middle class and widening the income inequality gap.?\nThe senator's machinations had nothing to do with Wisconsin.",
-    "author": "John Nichols",
-    "title": "Ron Johnson Breaks His Term-Limit Pledge in Order to Keep Serving the Billionaire Class",
-    "sentiment": "0.0"
-  },
-  {
     "id": 694,
     "mediaId": 195,
-    "date": "d2022-02-01T21:47",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Max Greenwood and Reid Wilson -",
     "title": "Five big takeaways from year-end FEC filings",
     "sentiment": "0.0"
   },
   {
+    "id": 2449,
+    "mediaId": 43,
+    "date": "2022-00-01",
+    "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
+    "author": "",
+    "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
+    "sentiment": "0.871"
+  },
+  {
+    "id": 2288,
+    "mediaId": 43,
+    "date": "2022-00-07",
+    "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\n<span class='selected-term'>Mandela Barnes</span> for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
+    "author": "",
+    "title": "Admits He's Waging \"Guerilla War\" Against The Medical Establishment",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2414,
+    "mediaId": 424,
+    "date": "2022-00-12",
+    "sentence": "Another of the Democrats seeking to challenge the senator in 2022, Wisconsin Lieutenant Governor <span class='selected-term'>Mandela Barnes</span>, summed things up succinctly when he observed, Ron Johnson used his office to enrich some of his wealthiest campaign donors while raising taxes on the middle class and widening the income inequality gap.?\nThe senator's machinations had nothing to do with Wisconsin.",
+    "author": "John Nichols",
+    "title": "Ron Johnson Breaks His Term-Limit Pledge in Order to Keep Serving the Billionaire Class",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2367,
     "mediaId": 151,
-    "date": "d2022-03-14T08:30",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "",
     "title": "GOP Senate candidates thrash each other ahead of fight for majority",
@@ -38,43 +47,34 @@
   {
     "id": 1200,
     "mediaId": 19,
-    "date": "d2022-03-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Ashley Oliver and Matthew Boyle",
     "title": "Analysis: Senate Majority May Come Down to 11 Battleground Races",
     "sentiment": "0.0"
   },
   {
-    "id": 2361,
-    "mediaId": 195,
-    "date": "d2022-03-15T11:00",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2347,
-    "mediaId": 43,
-    "date": "d2022-03-28T00:00",
-    "sentence": "Or click below to donate and get involved with the Senate Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\n<span class='selected-term'>Mandela Barnes</span> for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
-    "author": "",
-    "title": "Rep. Adam Schiff (D. CA) Helps Wisconsin Democrats Take Down Putin's Favorite Senator",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2322,
     "mediaId": 195,
-    "date": "d2022-04-15T10:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Jordain Carney",
     "title": "Vulnerable Democrats buck Biden on Trump-era immigration fight",
     "sentiment": "0.0"
   },
   {
+    "id": 2361,
+    "mediaId": 195,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2313,
     "mediaId": 151,
-    "date": "d2022-04-18T10:35",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: The inflation argument splitting Dems in two",
@@ -83,19 +83,19 @@
   {
     "id": 2311,
     "mediaId": 151,
-    "date": "d2022-04-19T08:31",
+    "date": "2022-00-19",
     "sentence": "The frontrunners for the nomination in their two best Senate pickup opportunities  John Fetterman in Pennsylvania and <span class='selected-term'>Mandela Barnes</span> in Wisconsin  hail from the party's liberal wing, and both primary races could turn ugly.",
     "author": "",
     "title": "5 plot twists that could upend the midterms",
     "sentiment": "0.0"
   },
   {
-    "id": 2288,
+    "id": 2347,
     "mediaId": 43,
-    "date": "d2022-05-07T00:00",
-    "sentence": "Click below to donate and get involved with the Wisconsin Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\n<span class='selected-term'>Mandela Barnes</span> for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
+    "date": "2022-00-28",
+    "sentence": "Or click below to donate and get involved with the Senate Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\n<span class='selected-term'>Mandela Barnes</span> for U.S. Senate\nSarah Godlewski for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
     "author": "",
-    "title": "Admits He's Waging \"Guerilla War\" Against The Medical Establishment",
+    "title": "Rep. Adam Schiff (D. CA) Helps Wisconsin Democrats Take Down Putin's Favorite Senator",
     "sentiment": "0.0"
   }
 ]

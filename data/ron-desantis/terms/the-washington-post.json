@@ -1,26 +1,8 @@
 [
   {
-    "id": 4331,
-    "mediaId": 63,
-    "date": "d2022-04-30T14:08",
-    "sentence": "",
-    "author": "Anna Kaplan",
-    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
-    "sentiment": "0"
-  },
-  {
-    "id": 4331,
-    "mediaId": 63,
-    "date": "d2022-04-30T14:08",
-    "sentence": "",
-    "author": "Anna Kaplan",
-    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4088,
     "mediaId": 238,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Clinics, lawmakers and activists scramble to prep for a post-Roe world",
@@ -29,7 +11,7 @@
   {
     "id": 3871,
     "mediaId": 223,
-    "date": "d2022-05-07T20:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Rebecca Downs",
     "title": "Have No Fear, the WaPo Editorial Board Says To 'Ignore Hysteria Over the Disinformation Governance Board'",
@@ -38,7 +20,7 @@
   {
     "id": 3528,
     "mediaId": 157,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Top DeSantis spokeswoman gets punked by fake Washington Post parody",
@@ -47,7 +29,7 @@
   {
     "id": 3528,
     "mediaId": 157,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Top DeSantis spokeswoman gets punked by fake Washington Post parody",
@@ -56,7 +38,7 @@
   {
     "id": 3467,
     "mediaId": 65,
-    "date": "d2022-05-18T21:30",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Liberal media outlets 'shaming' companies into taking abortion stance 'isnt reporting,' critics say",
@@ -65,7 +47,7 @@
   {
     "id": 3467,
     "mediaId": 65,
-    "date": "d2022-05-18T21:30",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Liberal media outlets 'shaming' companies into taking abortion stance 'isnt reporting,' critics say",
@@ -74,7 +56,7 @@
   {
     "id": 7146,
     "mediaId": 188,
-    "date": "d2022-05-20T00:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Paul Sacca",
     "title": "Joy Reid says 'Christian nationalists' waging a pro-life 'jihad' will impose national forced birth law in the name of God",
@@ -83,7 +65,7 @@
   {
     "id": 7146,
     "mediaId": 188,
-    "date": "d2022-05-20T00:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Paul Sacca",
     "title": "Joy Reid says 'Christian nationalists' waging a pro-life 'jihad' will impose national forced birth law in the name of God",
@@ -92,7 +74,7 @@
   {
     "id": 7271,
     "mediaId": 223,
-    "date": "d2022-05-23T00:01",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Scott Morefield",
     "title": "Will the 'Great Replacement' Smear Work?",
@@ -101,10 +83,28 @@
   {
     "id": 8543,
     "mediaId": 65,
-    "date": "d2022-05-27T15:46",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Brian Flood",
     "title": "Instagram suspends Libs of TikTok as Big Tech, media continue targeting conservative internet sensation",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4331,
+    "mediaId": 63,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Anna Kaplan",
+    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
+    "sentiment": "0"
+  },
+  {
+    "id": 4331,
+    "mediaId": 63,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Anna Kaplan",
+    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
     "sentiment": "0.0"
   }
 ]

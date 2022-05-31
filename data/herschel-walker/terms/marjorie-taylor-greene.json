@@ -1,8 +1,17 @@
 [
   {
+    "id": 6055,
+    "mediaId": 25,
+    "date": "2022-00-01",
+    "sentence": "He's endorsed a number of other candidates: Pennsylvania, <span class='selected-term'>Herschel Walker</span>, Georgia.",
+    "author": "",
+    "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
+    "sentiment": "0.431"
+  },
+  {
     "id": 8087,
     "mediaId": 129,
-    "date": "d2022-03-03T00:00",
+    "date": "2022-00-03",
     "sentence": "Another Democratic political operation, American Bridge, is tying Ms. Greene to <span class='selected-term'>Herschel Walker</span>, the former University of Georgia football star recruited by Mr. Trump to challenge Senator Raphael Warnock, Democrat of Georgia, this fall.",
     "author": "",
     "title": "In Greene and Boebert, Democrats See a Helpful Political Target",
@@ -11,19 +20,10 @@
   {
     "id": 7671,
     "mediaId": 98,
-    "date": "d2022-04-27T00:00",
+    "date": "2022-00-27",
     "sentence": "Right now the leading candidate in Georgias Republican primary for the Senate is <span class='selected-term'>Herschel Walker</span>, a former Georgia Bulldog football star who lied about graduating from college, lied about being high school valedictorian, and earlier this year told college students in Texas that his upholstery company employs about 250 people when in fact theres no evidence of him even owning an upholstery company.",
     "author": "",
     "title": "Column: Georgia can do better than Marjorie Taylor Greene",
     "sentiment": "-0.413"
-  },
-  {
-    "id": 6055,
-    "mediaId": 25,
-    "date": "d2022-05-01T00:00",
-    "sentence": "He's endorsed a number of other candidates: Pennsylvania, <span class='selected-term'>Herschel Walker</span>, Georgia.",
-    "author": "",
-    "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
-    "sentiment": "0.431"
   }
 ]

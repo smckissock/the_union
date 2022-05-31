@@ -1,719 +1,8 @@
 [
   {
-    "id": 7045,
-    "mediaId": 65,
-    "date": "d2022-01-14T02:00",
-    "sentence": "",
-    "author": "",
-    "title": "Pennsylvania Republicans to draft bill to relocate migrants on Biden DHS flights to Delaware",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7032,
-    "mediaId": 675,
-    "date": "d2022-02-13T10:42",
-    "sentence": "",
-    "author": "WND News Services",
-    "title": "The mystery of the migrant kids",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7018,
-    "mediaId": 124,
-    "date": "d2022-02-16T14:00",
-    "sentence": "",
-    "author": "",
-    "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
-    "sentiment": "0"
-  },
-  {
-    "id": 7018,
-    "mediaId": 124,
-    "date": "d2022-02-16T14:00",
-    "sentence": "",
-    "author": "",
-    "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8084,
-    "mediaId": 43,
-    "date": "d2022-03-04T00:00",
-    "sentence": "Or to <span class='selected-term'>Ron DeSantis</span>, whos too busy anyway, directing embarrassing displays of public surliness at schoolchildren.",
-    "author": "",
-    "title": "Hitler, But Dumber: The Vladimir Putin Story",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7972,
-    "mediaId": 237,
-    "date": "d2022-03-22T13:56",
-    "sentence": "",
-    "author": "Virginia Aabram",
-    "title": "Pompeo endorses Rep. Ronny Jackson for reelection in Texas",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6296,
-    "mediaId": 376,
-    "date": "d2022-04-19T06:00",
-    "sentence": "",
-    "author": "John T. Bennett",
-    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
-    "sentiment": "0"
-  },
-  {
-    "id": 6296,
-    "mediaId": 376,
-    "date": "d2022-04-19T06:00",
-    "sentence": "",
-    "author": "John T. Bennett",
-    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5066,
-    "mediaId": 19,
-    "date": "d2022-04-20T00:00",
-    "sentence": "The pact is signed by the following governors:\nGovernors Doug Ducey (AZ), Greg Abbott (TX), Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
-    "author": "Bob Price",
-    "title": "26 Governors Mobilize Against Migration Chaos at Border",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5061,
-    "mediaId": 223,
-    "date": "d2022-04-20T10:30",
-    "sentence": "The Strike Force includes Governors Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
-    "author": "Spencer Brown",
-    "title": "GOP Governors Launch 'Strike Force' to Combat Biden Border Crisis",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6199,
-    "mediaId": 302,
-    "date": "d2022-04-23T13:00",
-    "sentence": "The political marriage of Donald Trump and <span class='selected-term'>Ron DeSantis</span>, never passionate but for a time mutually convenient, is all but over.",
-    "author": "Jim Verhulst",
-    "title": "Heres what to read from the left and the right | Column",
-    "sentiment": "0"
-  },
-  {
-    "id": 6199,
-    "mediaId": 302,
-    "date": "d2022-04-23T13:00",
-    "sentence": "The political marriage of Donald Trump and <span class='selected-term'>Ron DeSantis</span>, never passionate but for a time mutually convenient, is all but over.",
-    "author": "Jim Verhulst",
-    "title": "Heres what to read from the left and the right | Column",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4948,
-    "mediaId": 63,
-    "date": "d2022-04-25T23:44",
-    "sentence": "",
-    "author": "Mason Bissada",
-    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
-    "sentiment": "-0.532"
-  },
-  {
-    "id": 4948,
-    "mediaId": 63,
-    "date": "d2022-04-25T23:44",
-    "sentence": "",
-    "author": "Mason Bissada",
-    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6145,
-    "mediaId": 124,
-    "date": "d2022-04-26T13:05",
-    "sentence": "",
-    "author": "",
-    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4914,
-    "mediaId": 43,
-    "date": "d2022-04-27T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "\"Try to Think What We Are Going to Do Ourselves\"",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6094,
-    "mediaId": 43,
-    "date": "d2022-04-29T00:00",
-    "sentence": "Another stupid stunt (actually rescues DeSantis)\nx\nBREAKING: Disney hits back HARD at <span class='selected-term'>Ron DeSantis</span> and the GOP  says that Florida can't legally dissolve its self-governing district unless the state pays off the district's $1 billion debts due to a pledge in the original 1967 law.",
-    "author": "",
-    "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4451,
-    "mediaId": 239,
-    "date": "d2022-04-29T00:03:54",
-    "sentence": "",
-    "author": "Robert Knight",
-    "title": "DeSantis delivers a roundhouse blow to Disney",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4451,
-    "mediaId": 239,
-    "date": "d2022-04-29T00:03:54",
-    "sentence": "",
-    "author": "Robert Knight",
-    "title": "DeSantis delivers a roundhouse blow to Disney",
-    "sentiment": "0.828"
-  },
-  {
-    "id": 4444,
-    "mediaId": 65,
-    "date": "d2022-04-29T04:35",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "Ingraham: DeSantis has embraced policies that once seemed unthinkable",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4444,
-    "mediaId": 65,
-    "date": "d2022-04-29T04:35",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "Ingraham: DeSantis has embraced policies that once seemed unthinkable",
-    "sentiment": "0.588"
-  },
-  {
-    "id": 4442,
-    "mediaId": 65,
-    "date": "d2022-04-29T05:37",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "DeSantis warns Biden: If you caravan illegal migrants to Florida, we'll reroute them to Delaware",
-    "sentiment": "0"
-  },
-  {
-    "id": 4442,
-    "mediaId": 65,
-    "date": "d2022-04-29T05:37",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "DeSantis warns Biden: If you caravan illegal migrants to Florida, we'll reroute them to Delaware",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4437,
-    "mediaId": 98,
-    "date": "d2022-04-29T07:42",
-    "sentence": "",
-    "author": "David Lauter",
-    "title": "Is politics making people sick? A lot of young people say so",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4431,
-    "mediaId": 65,
-    "date": "d2022-04-29T08:43",
-    "sentence": "Continue reading \nLAURA INGRAHAM  The Fox host showcased <span class='selected-term'>Ron DeSantis</span>' leadership when it comes to improving Florida in the face of a media onslaught.",
-    "author": "",
-    "title": "Biden student debt cancellation may worsen inflation; US Marine vet dies fighting alongside Ukrainians",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4430,
-    "mediaId": 558,
-    "date": "d2022-04-29T08:46",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) spoke out Friday against President Joe Bidens intentions to reduce student debt.",
-    "author": "",
-    "title": "Gov. Ron DeSantis (R-FL) voices opposition to forgiving student debt: These are people like doctors and lawyers.\"",
-    "sentiment": "0"
-  },
-  {
-    "id": 4430,
-    "mediaId": 558,
-    "date": "d2022-04-29T08:46",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) spoke out Friday against President Joe Bidens intentions to reduce student debt.",
-    "author": "",
-    "title": "Gov. Ron DeSantis (R-FL) voices opposition to forgiving student debt: These are people like doctors and lawyers.\"",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4417,
-    "mediaId": 195,
-    "date": "d2022-04-29T10:42",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Biden economic troubles mount",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4400,
-    "mediaId": 195,
-    "date": "d2022-04-29T14:30",
-    "sentence": "",
-    "author": "Dennis Aftergut",
-    "title": "Is Trump asking Putin for favors again?",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4398,
-    "mediaId": 558,
-    "date": "d2022-04-29T14:35",
-    "sentence": "When Florida Governor <span class='selected-term'>Ron DeSantis</span> signed the Parental Rights in Education bill into law on March 28, Disney issued a statement saying it \"should never have passed\" and said that it should be repealed.",
-    "author": "",
-    "title": "UPDATE 2-Disney's corporate affairs head, Morrell, to leave company",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4399,
-    "mediaId": 238,
-    "date": "d2022-04-29T14:35",
-    "sentence": "Perhaps the only person who triggers progressives as much as Elon Musk these days is <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "",
-    "title": "Opinion DeSantis shows the way forward for Trumpism without Trump",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4399,
-    "mediaId": 238,
-    "date": "d2022-04-29T14:35",
-    "sentence": "Perhaps the only person who triggers progressives as much as Elon Musk these days is <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "",
-    "title": "Opinion DeSantis shows the way forward for Trumpism without Trump",
-    "sentiment": "0.579"
-  },
-  {
-    "id": 4395,
-    "mediaId": 65,
-    "date": "d2022-04-29T14:47",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> press secretary also weighed in on the video: \"I mean, she wrote a whole book based on the premise that you can be a CIA agent and also ~marginalized~ at the same time so shes the perfect censor kween for the Biden regime,\" Christina Pushaw wrote.",
-    "author": "Nikolas Lanum",
-    "title": "Twitter users shocked by ridiculous TikTok of new disinformation czar singing: God help us",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4394,
-    "mediaId": 151,
-    "date": "d2022-04-29T14:48",
-    "sentence": "But after the driest-ever start to the year in California history, conditions today are far more critical than theyve ever been, officials said.?\nHE SAID, HE SAID  <span class='selected-term'>Ron DeSantis</span> feud with Gavin Newsom ramps up amid San Francisco dumpster fire insult,? by the SF Chronicles Sophia Bollag: DeSantis made the comments several days after Newsom criticized him on Twitter for punishing Disney over its opposition to Floridas new law banning discussion of sexual orientation in early grades.?\n Bias, far-right sympathies among California law enforcement going unchecked, audit finds,? by the LA Times Kevin Rector: In California, a recent Times investigation found that police agencies across the state upheld just 49 racial profiling complaints from 2016 to 2019, or less than 2% of the roughly 3,500 allegations filed.?\n Debate Heats Up Over Effort to Pilot Safe Injection Sites in California,? by KQEDs Lesley McClurg: The last time supervised injection facilities were on the table in California, in 2018, a bill progressed all the way to Governor Jerry Browns desk.",
-    "author": "",
-    "title": "What Californias massive budget surplus could mean",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4393,
-    "mediaId": 65,
-    "date": "d2022-04-29T14:50",
-    "sentence": "",
-    "author": "Lynne Jordal Martin",
-    "title": "What Joe knew about Hunter, say 'no' to college and more Fox News Opinion",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4383,
-    "mediaId": 65,
-    "date": "d2022-04-29T16:08",
-    "sentence": "INGRAHAM: <span class='selected-term'>RON DESANTIS</span> HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",
-    "author": "Nikolas Lanum",
-    "title": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
-    "sentiment": "0"
-  },
-  {
-    "id": 4383,
-    "mediaId": 65,
-    "date": "d2022-04-29T16:08",
-    "sentence": "INGRAHAM: <span class='selected-term'>RON DESANTIS</span> HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",
-    "author": "Nikolas Lanum",
-    "title": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4382,
-    "mediaId": 675,
-    "date": "d2022-04-29T16:10",
-    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
-    "author": "WND News Services",
-    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
-    "sentiment": "0"
-  },
-  {
-    "id": 4382,
-    "mediaId": 675,
-    "date": "d2022-04-29T16:10",
-    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
-    "author": "WND News Services",
-    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4375,
-    "mediaId": 238,
-    "date": "d2022-04-29T17:55",
-    "sentence": "The Florida law was effective at ginning up attention for that states governor, <span class='selected-term'>Ron DeSantis</span> (R), and the discussion has been accompanied by a backlash against visibility for same-sex couples.",
-    "author": "",
-    "title": "American parents are generally fine with whats being taught in school",
-    "sentiment": "0"
-  },
-  {
-    "id": 4375,
-    "mediaId": 238,
-    "date": "d2022-04-29T17:55",
-    "sentence": "The Florida law was effective at ginning up attention for that states governor, <span class='selected-term'>Ron DeSantis</span> (R), and the discussion has been accompanied by a backlash against visibility for same-sex couples.",
-    "author": "",
-    "title": "American parents are generally fine with whats being taught in school",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4374,
-    "mediaId": 21,
-    "date": "d2022-04-29T18:00",
-    "sentence": "",
-    "author": "Kimberly Leonard",
-    "title": "Gov. Ron DeSantis ranted about Biden's potential plan to forgive student debt for degrees such as gender and 'zombie studies'",
-    "sentiment": "-0.223"
-  },
-  {
-    "id": 4374,
-    "mediaId": 21,
-    "date": "d2022-04-29T18:00",
-    "sentence": "",
-    "author": "Kimberly Leonard",
-    "title": "Gov. Ron DeSantis ranted about Biden's potential plan to forgive student debt for degrees such as gender and 'zombie studies'",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4369,
-    "mediaId": 63,
-    "date": "d2022-04-29T18:45",
-    "sentence": "",
-    "author": "Madeline Halpert",
-    "title": "Biden May Cancel At Least $10,000 Of Student Loan Debt For Some Individuals, Report Says",
-    "sentiment": "0"
-  },
-  {
-    "id": 4369,
-    "mediaId": 63,
-    "date": "d2022-04-29T18:45",
-    "sentence": "",
-    "author": "Madeline Halpert",
-    "title": "Biden May Cancel At Least $10,000 Of Student Loan Debt For Some Individuals, Report Says",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4363,
-    "mediaId": 112,
-    "date": "d2022-04-29T19:53",
-    "sentence": "",
-    "author": "Robert Schroeder",
-    "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
-    "sentiment": "0"
-  },
-  {
-    "id": 4363,
-    "mediaId": 112,
-    "date": "d2022-04-29T19:53",
-    "sentence": "",
-    "author": "Robert Schroeder",
-    "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4356,
-    "mediaId": 223,
-    "date": "d2022-04-29T21:20",
-    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
-    "author": "Rebecca Downs",
-    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation",
-    "sentiment": "0"
-  },
-  {
-    "id": 4356,
-    "mediaId": 223,
-    "date": "d2022-04-29T21:20",
-    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
-    "author": "Rebecca Downs",
-    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4346,
-    "mediaId": 188,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "Paul Sacca",
-    "title": "Disney exec who helped craft company's response to Florida's parental rights law quits after just 3 months, replaced by former political aide of Obama, Clinton, and Biden",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4347,
-    "mediaId": 19,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis: Leftists Freaking Out over Elon Musk Purchase Because They Used Twitter to Enforce the Narrative",
-    "sentiment": "0"
-  },
-  {
-    "id": 4347,
-    "mediaId": 19,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis: Leftists Freaking Out over Elon Musk Purchase Because They Used Twitter to Enforce the Narrative",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4348,
-    "mediaId": 19,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "Charlie Spiering",
-    "title": "Joe Biden Jokes About Disney, Some Guy Named Brandon, and Donald Trump at White House Correspondents Dinner",
-    "sentiment": "-0.505"
-  },
-  {
-    "id": 4348,
-    "mediaId": 19,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "Charlie Spiering",
-    "title": "Joe Biden Jokes About Disney, Some Guy Named Brandon, and Donald Trump at White House Correspondents Dinner",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4349,
-    "mediaId": 188,
-    "date": "d2022-04-30T00:00",
-    "sentence": "\\n\\nFlorida rejects Biden\\u2019s attempt to enforce regime-approved narratives and to stifle dissent.pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@Ron DeSantis) 1651247498",
-    "author": "Paul Sacca",
-    "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
-    "sentiment": "0"
-  },
-  {
-    "id": 4349,
-    "mediaId": 188,
-    "date": "d2022-04-30T00:00",
-    "sentence": "\\n\\nFlorida rejects Biden\\u2019s attempt to enforce regime-approved narratives and to stifle dissent.pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@Ron DeSantis) 1651247498",
-    "author": "Paul Sacca",
-    "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4351,
-    "mediaId": 19,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "James P. Pinkerton",
-    "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk",
-    "sentiment": "0"
-  },
-  {
-    "id": 4351,
-    "mediaId": 19,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "James P. Pinkerton",
-    "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4335,
-    "mediaId": 302,
-    "date": "d2022-04-30T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "The Lightning, Charlie Crist and a former surgeon general make the weeks highs and lows",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4334,
-    "mediaId": 65,
-    "date": "d2022-04-30T10:03",
-    "sentence": "",
-    "author": "Kelly Laco",
-    "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4331,
-    "mediaId": 63,
-    "date": "d2022-04-30T14:08",
-    "sentence": "",
-    "author": "Anna Kaplan",
-    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
-    "sentiment": "0"
-  },
-  {
-    "id": 4331,
-    "mediaId": 63,
-    "date": "d2022-04-30T14:08",
-    "sentence": "",
-    "author": "Anna Kaplan",
-    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4329,
-    "mediaId": 223,
-    "date": "d2022-04-30T17:50",
-    "sentence": "",
-    "author": "Rebecca Downs",
-    "title": "Buried in POLITICO Report is Mention of How Biography on Jill Biden Fared, and the Numbers Are Catastrophic",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4327,
-    "mediaId": 18,
-    "date": "d2022-04-30T19:37:23",
-    "sentence": "",
-    "author": "Joe Battenfeld",
-    "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4315,
-    "mediaId": 234,
-    "date": "d2022-05-01T00:00",
-    "sentence": "He went on to skewer FOX anchors; former CNN host Chris Cuomo; anything to do with CNN +, which shuttered within a month of its launch; and Floridas Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Terry Moseley",
-    "title": "The Nations Most Distinguished Superspreader Event: The White House Correspondents Dinner Returns",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4319,
-    "mediaId": 33,
-    "date": "d2022-05-01T00:00",
-    "sentence": "",
-    "author": "Devan Cole",
-    "title": "Arkansas GOP governor says he's considering 2024 bid and would run even if Trump does",
-    "sentiment": "0"
-  },
-  {
-    "id": 4319,
-    "mediaId": 33,
-    "date": "d2022-05-01T00:00",
-    "sentence": "",
-    "author": "Devan Cole",
-    "title": "Arkansas GOP governor says he's considering 2024 bid and would run even if Trump does",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4320,
-    "mediaId": 129,
-    "date": "d2022-05-01T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Jokes, Glamour and a Try for Normalcy as Correspondents Dinner Returns",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4323,
-    "mediaId": 43,
-    "date": "d2022-05-01T00:00",
-    "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
-    "author": "",
-    "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
-    "sentiment": "0"
-  },
-  {
-    "id": 4323,
-    "mediaId": 43,
-    "date": "d2022-05-01T00:00",
-    "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
-    "author": "",
-    "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4324,
-    "mediaId": 43,
-    "date": "d2022-05-01T00:00",
-    "sentence": "Excerpts From Trevor Noah's Speech:\n\"[<span class='selected-term'>Ron DeSantis</span> has] been so busy trying to outmaneuver Trump for 2024.",
-    "author": "",
-    "title": "The Condensed White House Correspondent's Dinner Remarks About Fox News and Crybaby Trump",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4310,
-    "mediaId": 195,
-    "date": "d2022-05-01T04:09",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
-    "author": "Judy Kurtz",
-    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
-    "sentiment": "0"
-  },
-  {
-    "id": 4310,
-    "mediaId": 195,
-    "date": "d2022-05-01T04:09",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
-    "author": "Judy Kurtz",
-    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4309,
-    "mediaId": 151,
-    "date": "d2022-05-01T04:25",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
-    "author": "",
-    "title": "Trevor Noah's best jokes at the WHCD",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4309,
-    "mediaId": 151,
-    "date": "d2022-05-01T04:25",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
-    "author": "",
-    "title": "Trevor Noah's best jokes at the WHCD",
-    "sentiment": "0.642"
-  },
-  {
-    "id": 4308,
-    "mediaId": 136,
-    "date": "d2022-05-01T04:34",
-    "sentence": "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",
-    "author": "Scott McDonald",
-    "title": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
-    "sentiment": "0"
-  },
-  {
-    "id": 4308,
-    "mediaId": 136,
-    "date": "d2022-05-01T04:34",
-    "sentence": "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",
-    "author": "Scott McDonald",
-    "title": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4293,
-    "mediaId": 195,
-    "date": "d2022-05-01T12:00",
-    "sentence": "",
-    "author": "Joe Concha",
-    "title": "Joe Bidens Ministry of Truth",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4292,
-    "mediaId": 163,
-    "date": "d2022-05-01T15:05",
-    "sentence": "Other potential Republican contenders in 2024 include Florida Governor <span class='selected-term'>Ron DeSantis</span>, former Vice President Mike Pence and former Secretary of State Mike Pompeo.",
-    "author": "Doina Chiacu",
-    "title": "Republican Hutchinson, at odds with Trump, eyes 2024 U.S. presidential run",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4283,
     "mediaId": 136,
-    "date": "d2022-05-01T20:17",
+    "date": "2022-00-01",
     "sentence": "GOP Florida Governor <span class='selected-term'>Ron DeSantis</span> is also a potential nominee for the 2024 race as his popularity continues to grow among his own party despite his recent law restricting LGBTQ rights and his ongoing feud with Disney.",
     "author": "Fatma Khaled",
     "title": "Trump 'Should Not Define Our Future': GOP's Asa Hutchinson Weighs 2024 Bid",
@@ -722,187 +11,151 @@
   {
     "id": 4283,
     "mediaId": 136,
-    "date": "d2022-05-01T20:17",
+    "date": "2022-00-01",
     "sentence": "GOP Florida Governor <span class='selected-term'>Ron DeSantis</span> is also a potential nominee for the 2024 race as his popularity continues to grow among his own party despite his recent law restricting LGBTQ rights and his ongoing feud with Disney.",
     "author": "Fatma Khaled",
     "title": "Trump 'Should Not Define Our Future': GOP's Asa Hutchinson Weighs 2024 Bid",
     "sentiment": "0.0"
   },
   {
-    "id": 4256,
-    "mediaId": 19,
-    "date": "d2022-05-02T00:00",
-    "sentence": "Hes not going to allow Chris Christie or <span class='selected-term'>Ron DeSantis</span> or anyone else define the future of the Republican Party.",
-    "author": "Wendell HusebÃ¸",
-    "title": "Report: Bidens Advisers Weigh Making Midterms About Trump Again",
+    "id": 4292,
+    "mediaId": 163,
+    "date": "2022-00-01",
+    "sentence": "Other potential Republican contenders in 2024 include Florida Governor <span class='selected-term'>Ron DeSantis</span>, former Vice President Mike Pence and former Secretary of State Mike Pompeo.",
+    "author": "Doina Chiacu",
+    "title": "Republican Hutchinson, at odds with Trump, eyes 2024 U.S. presidential run",
     "sentiment": "0.0"
   },
   {
-    "id": 4269,
+    "id": 4293,
     "mediaId": 195,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-01",
     "sentence": "",
-    "author": "",
-    "title": "Rising: May 2, 2022",
+    "author": "Joe Concha",
+    "title": "Joe Bidens Ministry of Truth",
     "sentiment": "0.0"
   },
   {
-    "id": 4248,
-    "mediaId": 223,
-    "date": "d2022-05-02T00:01",
-    "sentence": "Or do you have faith in the proven leadership of Donald Trump, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Virginia Governor Glenn Youngkin and dozens of other Republicans who stand ready to swing the pendulum of America back to sanity in 2022.",
-    "author": "Tom Tradup",
-    "title": "Democrats Gleefully Bankrupting America",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4247,
-    "mediaId": 239,
-    "date": "d2022-05-02T00:03:35",
-    "sentence": "",
-    "author": "Victor Morton",
-    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
-    "sentiment": "-0.896"
-  },
-  {
-    "id": 4247,
-    "mediaId": 239,
-    "date": "d2022-05-02T00:03:35",
-    "sentence": "",
-    "author": "Victor Morton",
-    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4246,
-    "mediaId": 558,
-    "date": "d2022-05-02T00:34",
-    "sentence": "",
-    "author": "Mary Ellen Klas",
-    "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
-    "sentiment": "-0.411"
-  },
-  {
-    "id": 4246,
-    "mediaId": 558,
-    "date": "d2022-05-02T00:34",
-    "sentence": "",
-    "author": "Mary Ellen Klas",
-    "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4232,
-    "mediaId": 238,
-    "date": "d2022-05-02T11:45",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
+    "id": 4308,
+    "mediaId": 136,
+    "date": "2022-00-01",
+    "sentence": "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",
+    "author": "Scott McDonald",
+    "title": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
     "sentiment": "0"
   },
   {
-    "id": 4232,
-    "mediaId": 238,
-    "date": "d2022-05-02T11:45",
+    "id": 4308,
+    "mediaId": 136,
+    "date": "2022-00-01",
+    "sentence": "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",
+    "author": "Scott McDonald",
+    "title": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4309,
+    "mediaId": 151,
+    "date": "2022-00-01",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
+    "author": "",
+    "title": "Trevor Noah's best jokes at the WHCD",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4309,
+    "mediaId": 151,
+    "date": "2022-00-01",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
+    "author": "",
+    "title": "Trevor Noah's best jokes at the WHCD",
+    "sentiment": "0.642"
+  },
+  {
+    "id": 4310,
+    "mediaId": 195,
+    "date": "2022-00-01",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
+    "author": "Judy Kurtz",
+    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
+    "sentiment": "0"
+  },
+  {
+    "id": 4310,
+    "mediaId": 195,
+    "date": "2022-00-01",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
+    "author": "Judy Kurtz",
+    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4315,
+    "mediaId": 234,
+    "date": "2022-00-01",
+    "sentence": "He went on to skewer FOX anchors; former CNN host Chris Cuomo; anything to do with CNN +, which shuttered within a month of its launch; and Floridas Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Terry Moseley",
+    "title": "The Nations Most Distinguished Superspreader Event: The White House Correspondents Dinner Returns",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4319,
+    "mediaId": 33,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Devan Cole",
+    "title": "Arkansas GOP governor says he's considering 2024 bid and would run even if Trump does",
+    "sentiment": "0"
+  },
+  {
+    "id": 4319,
+    "mediaId": 33,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Devan Cole",
+    "title": "Arkansas GOP governor says he's considering 2024 bid and would run even if Trump does",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4320,
+    "mediaId": 129,
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
-    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
+    "title": "Jokes, Glamour and a Try for Normalcy as Correspondents Dinner Returns",
     "sentiment": "0.0"
   },
   {
-    "id": 4220,
-    "mediaId": 195,
-    "date": "d2022-05-02T14:30",
-    "sentence": "And a <span class='selected-term'>Ron DeSantis</span>-Tim Scott ticket could be a combination Trump cant beat.",
-    "author": "Keith Naughton",
-    "title": "Ron DeSantis and Tim Scott are the ticket to beat Trump",
+    "id": 4323,
+    "mediaId": 43,
+    "date": "2022-00-01",
+    "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
+    "author": "",
+    "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
     "sentiment": "0"
   },
   {
-    "id": 4220,
-    "mediaId": 195,
-    "date": "d2022-05-02T14:30",
-    "sentence": "And a <span class='selected-term'>Ron DeSantis</span>-Tim Scott ticket could be a combination Trump cant beat.",
-    "author": "Keith Naughton",
-    "title": "Ron DeSantis and Tim Scott are the ticket to beat Trump",
+    "id": 4323,
+    "mediaId": 43,
+    "date": "2022-00-01",
+    "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
+    "author": "",
+    "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
     "sentiment": "0.0"
   },
   {
-    "id": 4210,
-    "mediaId": 223,
-    "date": "d2022-05-02T16:15",
-    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Brad Slager",
-    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
-    "sentiment": "-0.436"
-  },
-  {
-    "id": 4210,
-    "mediaId": 223,
-    "date": "d2022-05-02T16:15",
-    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Brad Slager",
-    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4199,
-    "mediaId": 195,
-    "date": "d2022-05-02T18:18",
-    "sentence": "Noah added, What I like about <span class='selected-term'>Ron DeSantis</span> is, if Trump was the original Terminator, DeSantis is the T-1000.",
-    "author": "Sarakshi Rai",
-    "title": "DeSantis trashes correspondents dinner after roasting from Trevor Noah",
-    "sentiment": "-0.512"
-  },
-  {
-    "id": 4199,
-    "mediaId": 195,
-    "date": "d2022-05-02T18:18",
-    "sentence": "Noah added, What I like about <span class='selected-term'>Ron DeSantis</span> is, if Trump was the original Terminator, DeSantis is the T-1000.",
-    "author": "Sarakshi Rai",
-    "title": "DeSantis trashes correspondents dinner after roasting from Trevor Noah",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4195,
-    "mediaId": 233,
-    "date": "d2022-05-02T19:10",
-    "sentence": "",
-    "author": "Merdie Nzanga",
-    "title": "Gov. Ron DeSantis says he hopes to flip Florida to a solid red state with his reelection",
-    "sentiment": "0"
-  },
-  {
-    "id": 4195,
-    "mediaId": 233,
-    "date": "d2022-05-02T19:10",
-    "sentence": "",
-    "author": "Merdie Nzanga",
-    "title": "Gov. Ron DeSantis says he hopes to flip Florida to a solid red state with his reelection",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4194,
-    "mediaId": 65,
-    "date": "d2022-05-02T19:30",
-    "sentence": "",
-    "author": "Kelly Laco",
-    "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
-    "sentiment": "-0.436"
-  },
-  {
-    "id": 4194,
-    "mediaId": 65,
-    "date": "d2022-05-02T19:30",
-    "sentence": "",
-    "author": "Kelly Laco",
-    "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
+    "id": 4324,
+    "mediaId": 43,
+    "date": "2022-00-01",
+    "sentence": "Excerpts From Trevor Noah's Speech:\n\"[<span class='selected-term'>Ron DeSantis</span> has] been so busy trying to outmaneuver Trump for 2024.",
+    "author": "",
+    "title": "The Condensed White House Correspondent's Dinner Remarks About Fox News and Crybaby Trump",
     "sentiment": "0.0"
   },
   {
     "id": 4192,
     "mediaId": 120,
-    "date": "d2022-05-02T19:49",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Ja'han Jones",
     "title": "The GOPs political stunts come at a high cost for Americans",
@@ -911,16 +164,232 @@
   {
     "id": 4192,
     "mediaId": 120,
-    "date": "d2022-05-02T19:49",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Ja'han Jones",
     "title": "The GOPs political stunts come at a high cost for Americans",
     "sentiment": "0.0"
   },
   {
+    "id": 4194,
+    "mediaId": 65,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
+    "sentiment": "-0.436"
+  },
+  {
+    "id": 4194,
+    "mediaId": 65,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4195,
+    "mediaId": 233,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Merdie Nzanga",
+    "title": "Gov. Ron DeSantis says he hopes to flip Florida to a solid red state with his reelection",
+    "sentiment": "0"
+  },
+  {
+    "id": 4195,
+    "mediaId": 233,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Merdie Nzanga",
+    "title": "Gov. Ron DeSantis says he hopes to flip Florida to a solid red state with his reelection",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4199,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "Noah added, What I like about <span class='selected-term'>Ron DeSantis</span> is, if Trump was the original Terminator, DeSantis is the T-1000.",
+    "author": "Sarakshi Rai",
+    "title": "DeSantis trashes correspondents dinner after roasting from Trevor Noah",
+    "sentiment": "-0.512"
+  },
+  {
+    "id": 4199,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "Noah added, What I like about <span class='selected-term'>Ron DeSantis</span> is, if Trump was the original Terminator, DeSantis is the T-1000.",
+    "author": "Sarakshi Rai",
+    "title": "DeSantis trashes correspondents dinner after roasting from Trevor Noah",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4210,
+    "mediaId": 223,
+    "date": "2022-00-02",
+    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Brad Slager",
+    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
+    "sentiment": "-0.436"
+  },
+  {
+    "id": 4210,
+    "mediaId": 223,
+    "date": "2022-00-02",
+    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Brad Slager",
+    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4220,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "And a <span class='selected-term'>Ron DeSantis</span>-Tim Scott ticket could be a combination Trump cant beat.",
+    "author": "Keith Naughton",
+    "title": "Ron DeSantis and Tim Scott are the ticket to beat Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 4220,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "And a <span class='selected-term'>Ron DeSantis</span>-Tim Scott ticket could be a combination Trump cant beat.",
+    "author": "Keith Naughton",
+    "title": "Ron DeSantis and Tim Scott are the ticket to beat Trump",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4232,
+    "mediaId": 238,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
+    "sentiment": "0"
+  },
+  {
+    "id": 4232,
+    "mediaId": 238,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4246,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Mary Ellen Klas",
+    "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
+    "sentiment": "-0.411"
+  },
+  {
+    "id": 4246,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Mary Ellen Klas",
+    "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4247,
+    "mediaId": 239,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Victor Morton",
+    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
+    "sentiment": "-0.896"
+  },
+  {
+    "id": 4247,
+    "mediaId": 239,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Victor Morton",
+    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4248,
+    "mediaId": 223,
+    "date": "2022-00-02",
+    "sentence": "Or do you have faith in the proven leadership of Donald Trump, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Virginia Governor Glenn Youngkin and dozens of other Republicans who stand ready to swing the pendulum of America back to sanity in 2022.",
+    "author": "Tom Tradup",
+    "title": "Democrats Gleefully Bankrupting America",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4256,
+    "mediaId": 19,
+    "date": "2022-00-02",
+    "sentence": "Hes not going to allow Chris Christie or <span class='selected-term'>Ron DeSantis</span> or anyone else define the future of the Republican Party.",
+    "author": "Wendell HusebÃ¸",
+    "title": "Report: Bidens Advisers Weigh Making Midterms About Trump Again",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4269,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "",
+    "title": "Rising: May 2, 2022",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4124,
+    "mediaId": 65,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Joshua Q. Nelson",
+    "title": "Somali-born Air Force veteran says Biden's Afghanistan withdrawal sparked her run for Congress",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4143,
+    "mediaId": 129,
+    "date": "2022-00-03",
+    "sentence": "Tension between businesses and politicians may intensify\nDisneys recent battles with <span class='selected-term'>Ron DeSantis</span>, Floridas Republican governor, over a law prohibiting discussion of gender identity in some public schools cost the company its special tax privileges and good will from key Republicans.",
+    "author": "",
+    "title": "Supreme Court Live Updates: Supreme Court Confirms Leaked Opinion But Says the Draft Is Not a Final Decision",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4146,
+    "mediaId": 151,
+    "date": "2022-00-03",
+    "sentence": "| Joe Raedle/Getty Images\nBy Matt Dixon\n 05/03/2022 04:31 AM EDT\nTALLAHASSEE, Fla.  Florida Democrats are increasingly worried that the candidates trying to unseat <span class='selected-term'>Ron DeSantis</span> cant stop the popular Republican governor from winning re-election as the GOP solidifies its hold on the states political infrastructure.",
+    "author": "",
+    "title": "DeSantis seems unstoppable: Florida Dems worry they cant beat the governor",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4146,
+    "mediaId": 151,
+    "date": "2022-00-03",
+    "sentence": "| Joe Raedle/Getty Images\nBy Matt Dixon\n 05/03/2022 04:31 AM EDT\nTALLAHASSEE, Fla.  Florida Democrats are increasingly worried that the candidates trying to unseat <span class='selected-term'>Ron DeSantis</span> cant stop the popular Republican governor from winning re-election as the GOP solidifies its hold on the states political infrastructure.",
+    "author": "",
+    "title": "DeSantis seems unstoppable: Florida Dems worry they cant beat the governor",
+    "sentiment": "0.331"
+  },
+  {
+    "id": 4154,
+    "mediaId": 718,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Jesse Jackson",
+    "title": "Gun violence rises as access to guns rises",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4156,
     "mediaId": 239,
-    "date": "d2022-05-03T00:03:18",
+    "date": "2022-00-03",
     "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead, first you ban the math textbooks, then nobody knows how to count the votes.?\nMr. Noah told the crowd Mr. DeSantis was here? at the dinner.",
     "author": "Susan Ferrechio",
     "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner",
@@ -929,133 +398,16 @@
   {
     "id": 4156,
     "mediaId": 239,
-    "date": "d2022-05-03T00:03:18",
+    "date": "2022-00-03",
     "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead, first you ban the math textbooks, then nobody knows how to count the votes.?\nMr. Noah told the crowd Mr. DeSantis was here? at the dinner.",
     "author": "Susan Ferrechio",
     "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner",
     "sentiment": "0.0"
   },
   {
-    "id": 4154,
-    "mediaId": 718,
-    "date": "d2022-05-03T01:00",
-    "sentence": "",
-    "author": "Jesse Jackson",
-    "title": "Gun violence rises as access to guns rises",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4146,
-    "mediaId": 151,
-    "date": "d2022-05-03T08:31",
-    "sentence": "| Joe Raedle/Getty Images\nBy Matt Dixon\n 05/03/2022 04:31 AM EDT\nTALLAHASSEE, Fla.  Florida Democrats are increasingly worried that the candidates trying to unseat <span class='selected-term'>Ron DeSantis</span> cant stop the popular Republican governor from winning re-election as the GOP solidifies its hold on the states political infrastructure.",
-    "author": "",
-    "title": "DeSantis seems unstoppable: Florida Dems worry they cant beat the governor",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4146,
-    "mediaId": 151,
-    "date": "d2022-05-03T08:31",
-    "sentence": "| Joe Raedle/Getty Images\nBy Matt Dixon\n 05/03/2022 04:31 AM EDT\nTALLAHASSEE, Fla.  Florida Democrats are increasingly worried that the candidates trying to unseat <span class='selected-term'>Ron DeSantis</span> cant stop the popular Republican governor from winning re-election as the GOP solidifies its hold on the states political infrastructure.",
-    "author": "",
-    "title": "DeSantis seems unstoppable: Florida Dems worry they cant beat the governor",
-    "sentiment": "0.331"
-  },
-  {
-    "id": 4143,
-    "mediaId": 129,
-    "date": "d2022-05-03T09:22:53",
-    "sentence": "Tension between businesses and politicians may intensify\nDisneys recent battles with <span class='selected-term'>Ron DeSantis</span>, Floridas Republican governor, over a law prohibiting discussion of gender identity in some public schools cost the company its special tax privileges and good will from key Republicans.",
-    "author": "",
-    "title": "Supreme Court Live Updates: Supreme Court Confirms Leaked Opinion But Says the Draft Is Not a Final Decision",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4124,
-    "mediaId": 65,
-    "date": "d2022-05-03T16:26",
-    "sentence": "",
-    "author": "Joshua Q. Nelson",
-    "title": "Somali-born Air Force veteran says Biden's Afghanistan withdrawal sparked her run for Congress",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4084,
-    "mediaId": 187,
-    "date": "d2022-05-04T00:00",
-    "sentence": "Look at Governor <span class='selected-term'>Ron DeSantis</span> in Florida.",
-    "author": "David Frum",
-    "title": "Biden Just Walked Into a Student-Debt Trap",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4053,
-    "mediaId": 195,
-    "date": "d2022-05-04T13:30",
-    "sentence": "",
-    "author": "Kristin Tate",
-    "title": "Trump is Democrats only hope in 2024",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4053,
-    "mediaId": 195,
-    "date": "d2022-05-04T13:30",
-    "sentence": "",
-    "author": "Kristin Tate",
-    "title": "Trump is Democrats only hope in 2024",
-    "sentiment": "0.163"
-  },
-  {
-    "id": 4050,
-    "mediaId": 65,
-    "date": "d2022-05-04T15:50",
-    "sentence": "\"Spanish-speaking Hispanics in Florida and across the country are moving towards Governor <span class='selected-term'>Ron DeSantis</span> because of his emphasis on economic opportunity, education, public safety, and other family-focused policies,\" the campaign argued.",
-    "author": "Paul Steinhauser",
-    "title": "Florida's DeSantis announces massive initial ad reservation with focus on Hispanic voters, in re-election run",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4050,
-    "mediaId": 65,
-    "date": "d2022-05-04T15:50",
-    "sentence": "\"Spanish-speaking Hispanics in Florida and across the country are moving towards Governor <span class='selected-term'>Ron DeSantis</span> because of his emphasis on economic opportunity, education, public safety, and other family-focused policies,\" the campaign argued.",
-    "author": "Paul Steinhauser",
-    "title": "Florida's DeSantis announces massive initial ad reservation with focus on Hispanic voters, in re-election run",
-    "sentiment": "0.699"
-  },
-  {
-    "id": 4046,
-    "mediaId": 65,
-    "date": "d2022-05-04T17:06",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4046,
-    "mediaId": 65,
-    "date": "d2022-05-04T17:06",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
-    "sentiment": "0.781"
-  },
-  {
-    "id": 4045,
-    "mediaId": 237,
-    "date": "d2022-05-04T17:09",
-    "sentence": "",
-    "author": "Haisten Willis",
-    "title": "White House accuses 'MAGA' Republicans of waging war on Mickey Mouse",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4044,
     "mediaId": 65,
-    "date": "d2022-05-04T18:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Kelly Laco",
     "title": "FL judge says Biden border policies merely a speedbump for migrants as catch-and-release lawsuit advances",
@@ -1064,16 +416,151 @@
   {
     "id": 4044,
     "mediaId": 65,
-    "date": "d2022-05-04T18:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Kelly Laco",
     "title": "FL judge says Biden border policies merely a speedbump for migrants as catch-and-release lawsuit advances",
     "sentiment": "0.0"
   },
   {
+    "id": 4045,
+    "mediaId": 237,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Haisten Willis",
+    "title": "White House accuses 'MAGA' Republicans of waging war on Mickey Mouse",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4046,
+    "mediaId": 65,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4046,
+    "mediaId": 65,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
+    "sentiment": "0.781"
+  },
+  {
+    "id": 4050,
+    "mediaId": 65,
+    "date": "2022-00-04",
+    "sentence": "\"Spanish-speaking Hispanics in Florida and across the country are moving towards Governor <span class='selected-term'>Ron DeSantis</span> because of his emphasis on economic opportunity, education, public safety, and other family-focused policies,\" the campaign argued.",
+    "author": "Paul Steinhauser",
+    "title": "Florida's DeSantis announces massive initial ad reservation with focus on Hispanic voters, in re-election run",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4050,
+    "mediaId": 65,
+    "date": "2022-00-04",
+    "sentence": "\"Spanish-speaking Hispanics in Florida and across the country are moving towards Governor <span class='selected-term'>Ron DeSantis</span> because of his emphasis on economic opportunity, education, public safety, and other family-focused policies,\" the campaign argued.",
+    "author": "Paul Steinhauser",
+    "title": "Florida's DeSantis announces massive initial ad reservation with focus on Hispanic voters, in re-election run",
+    "sentiment": "0.699"
+  },
+  {
+    "id": 4053,
+    "mediaId": 195,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Kristin Tate",
+    "title": "Trump is Democrats only hope in 2024",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4053,
+    "mediaId": 195,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Kristin Tate",
+    "title": "Trump is Democrats only hope in 2024",
+    "sentiment": "0.163"
+  },
+  {
+    "id": 4084,
+    "mediaId": 187,
+    "date": "2022-00-04",
+    "sentence": "Look at Governor <span class='selected-term'>Ron DeSantis</span> in Florida.",
+    "author": "David Frum",
+    "title": "Biden Just Walked Into a Student-Debt Trap",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8084,
+    "mediaId": 43,
+    "date": "2022-00-04",
+    "sentence": "Or to <span class='selected-term'>Ron DeSantis</span>, whos too busy anyway, directing embarrassing displays of public surliness at schoolchildren.",
+    "author": "",
+    "title": "Hitler, But Dumber: The Vladimir Putin Story",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3975,
+    "mediaId": 65,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Lawsuit filed against Biden, top officials for 'colluding' with Big Tech to censor speech on Hunter, COVID",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3979,
+    "mediaId": 65,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Hanna Panreck",
+    "title": "Kamala Harris slammed over report she refused to appear in student debt video with Biden: Team player",
+    "sentiment": "0"
+  },
+  {
+    "id": 3979,
+    "mediaId": 65,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Hanna Panreck",
+    "title": "Kamala Harris slammed over report she refused to appear in student debt video with Biden: Team player",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3992,
+    "mediaId": 237,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Paul Bedard",
+    "title": "2024 Shock: Biden 36%, Trump 50%",
+    "sentiment": "0"
+  },
+  {
+    "id": 3992,
+    "mediaId": 237,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Paul Bedard",
+    "title": "2024 Shock: Biden 36%, Trump 50%",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4005,
+    "mediaId": 223,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Larry Elder",
+    "title": "The Conservative Surge in Twitter Followers -- The Elon Musk Effect?",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4022,
     "mediaId": 157,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
@@ -1082,7 +569,7 @@
   {
     "id": 4024,
     "mediaId": 19,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "John Nolte",
     "title": "Nolte: Rematch Poll Shows Trump Defeating Biden by 14 Points",
@@ -1091,196 +578,16 @@
   {
     "id": 4024,
     "mediaId": 19,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "John Nolte",
     "title": "Nolte: Rematch Poll Shows Trump Defeating Biden by 14 Points",
     "sentiment": "0.0"
   },
   {
-    "id": 4005,
-    "mediaId": 223,
-    "date": "d2022-05-05T00:01",
-    "sentence": "",
-    "author": "Larry Elder",
-    "title": "The Conservative Surge in Twitter Followers -- The Elon Musk Effect?",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3992,
-    "mediaId": 237,
-    "date": "d2022-05-05T11:33",
-    "sentence": "",
-    "author": "Paul Bedard",
-    "title": "2024 Shock: Biden 36%, Trump 50%",
-    "sentiment": "0"
-  },
-  {
-    "id": 3992,
-    "mediaId": 237,
-    "date": "d2022-05-05T11:33",
-    "sentence": "",
-    "author": "Paul Bedard",
-    "title": "2024 Shock: Biden 36%, Trump 50%",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3979,
-    "mediaId": 65,
-    "date": "d2022-05-05T18:21",
-    "sentence": "",
-    "author": "Hanna Panreck",
-    "title": "Kamala Harris slammed over report she refused to appear in student debt video with Biden: Team player",
-    "sentiment": "0"
-  },
-  {
-    "id": 3979,
-    "mediaId": 65,
-    "date": "d2022-05-05T18:21",
-    "sentence": "",
-    "author": "Hanna Panreck",
-    "title": "Kamala Harris slammed over report she refused to appear in student debt video with Biden: Team player",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3975,
-    "mediaId": 65,
-    "date": "d2022-05-05T19:17",
-    "sentence": "",
-    "author": "Kelly Laco",
-    "title": "Lawsuit filed against Biden, top officials for 'colluding' with Big Tech to censor speech on Hunter, COVID",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3955,
-    "mediaId": 19,
-    "date": "d2022-05-06T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Florida: Ron DeSantis Signs $1.2 Billion Tax Relief Package",
-    "sentiment": "0"
-  },
-  {
-    "id": 3955,
-    "mediaId": 19,
-    "date": "d2022-05-06T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Florida: Ron DeSantis Signs $1.2 Billion Tax Relief Package",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3956,
-    "mediaId": 19,
-    "date": "d2022-05-06T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "DeSantis Administration Makes Baby Items Like Diapers Tax Free for a Year",
-    "sentiment": "0"
-  },
-  {
-    "id": 3956,
-    "mediaId": 19,
-    "date": "d2022-05-06T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "DeSantis Administration Makes Baby Items Like Diapers Tax Free for a Year",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3944,
-    "mediaId": 223,
-    "date": "d2022-05-06T00:01",
-    "sentence": "View Cartoon\nMickey Mouse fell for the trap laid out by Governor <span class='selected-term'>Ron DeSantis</span> and Florida Republicans, as woke Disney had its special tax status removed after opposing popular legislation stopping the indoctrination of Americas children.",
-    "author": "Townhall.com Staff",
-    "title": "Leftist Abortion Cult Goes Nuclear",
-    "sentiment": "0"
-  },
-  {
-    "id": 3944,
-    "mediaId": 223,
-    "date": "d2022-05-06T00:01",
-    "sentence": "View Cartoon\nMickey Mouse fell for the trap laid out by Governor <span class='selected-term'>Ron DeSantis</span> and Florida Republicans, as woke Disney had its special tax status removed after opposing popular legislation stopping the indoctrination of Americas children.",
-    "author": "Townhall.com Staff",
-    "title": "Leftist Abortion Cult Goes Nuclear",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3942,
-    "mediaId": 238,
-    "date": "d2022-05-06T07:00",
-    "sentence": "",
-    "author": "",
-    "title": "A pair of Four-Pinocchio abortion claims",
-    "sentiment": "0"
-  },
-  {
-    "id": 3942,
-    "mediaId": 238,
-    "date": "d2022-05-06T07:00",
-    "sentence": "",
-    "author": "",
-    "title": "A pair of Four-Pinocchio abortion claims",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3931,
-    "mediaId": 151,
-    "date": "d2022-05-06T10:59",
-    "sentence": "In Hialeah, Rebecca Brady, a mother of four and director of the Respect Life Ministry of the Archdiocese of Miami, said she has been trying to maintain a cautious optimism since she learned of the draft Supreme Court opinion overturning Roe v. Wade that Politico leaked Monday night.?\nBANNED  <span class='selected-term'>Ron DeSantis</span> is persona non grata at a Holocaust Memorial,? Wall Street Journals Elliott Abrams and Eric Cohen: A remarkable Jewish renaissance is under way in Florida.",
-    "author": "",
-    "title": "DeSantis scrutinizes health care costs for the undocumented",
-    "sentiment": "0"
-  },
-  {
-    "id": 3931,
-    "mediaId": 151,
-    "date": "d2022-05-06T10:59",
-    "sentence": "In Hialeah, Rebecca Brady, a mother of four and director of the Respect Life Ministry of the Archdiocese of Miami, said she has been trying to maintain a cautious optimism since she learned of the draft Supreme Court opinion overturning Roe v. Wade that Politico leaked Monday night.?\nBANNED  <span class='selected-term'>Ron DeSantis</span> is persona non grata at a Holocaust Memorial,? Wall Street Journals Elliott Abrams and Eric Cohen: A remarkable Jewish renaissance is under way in Florida.",
-    "author": "",
-    "title": "DeSantis scrutinizes health care costs for the undocumented",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3921,
-    "mediaId": 302,
-    "date": "d2022-05-06T13:53",
-    "sentence": "",
-    "author": "",
-    "title": "Jobless claims remain low amid DeSantis warnings",
-    "sentiment": "0"
-  },
-  {
-    "id": 3921,
-    "mediaId": 302,
-    "date": "d2022-05-06T13:53",
-    "sentence": "",
-    "author": "",
-    "title": "Jobless claims remain low amid DeSantis warnings",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3906,
-    "mediaId": 65,
-    "date": "d2022-05-06T17:57",
-    "sentence": "",
-    "author": "Ron DeSantis",
-    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
-    "sentiment": "0"
-  },
-  {
-    "id": 3906,
-    "mediaId": 65,
-    "date": "d2022-05-06T17:57",
-    "sentence": "",
-    "author": "Ron DeSantis",
-    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3901,
     "mediaId": 21,
-    "date": "d2022-05-06T19:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Kimberly Leonard",
     "title": "Ron DeSantis signs $1.2 billion in tax breaks for Floridians to fight 'Bidenflation headwinds,' though Biden's stimulus will help pay for it",
@@ -1289,88 +596,187 @@
   {
     "id": 3901,
     "mediaId": 21,
-    "date": "d2022-05-06T19:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Kimberly Leonard",
     "title": "Ron DeSantis signs $1.2 billion in tax breaks for Floridians to fight 'Bidenflation headwinds,' though Biden's stimulus will help pay for it",
     "sentiment": "0.407"
   },
   {
-    "id": 3891,
-    "mediaId": 209,
-    "date": "d2022-05-07T00:00",
+    "id": 3906,
+    "mediaId": 65,
+    "date": "2022-00-06",
     "sentence": "",
-    "author": "Brigid Kennedy",
-    "title": "Texas Gov. Greg Abbott has a controversial plan for the southern border. Is it working?",
+    "author": "Ron DeSantis",
+    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
+    "sentiment": "0"
+  },
+  {
+    "id": 3906,
+    "mediaId": 65,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Ron DeSantis",
+    "title": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3921,
+    "mediaId": 302,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "Jobless claims remain low amid DeSantis warnings",
+    "sentiment": "0"
+  },
+  {
+    "id": 3921,
+    "mediaId": 302,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "Jobless claims remain low amid DeSantis warnings",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3931,
+    "mediaId": 151,
+    "date": "2022-00-06",
+    "sentence": "In Hialeah, Rebecca Brady, a mother of four and director of the Respect Life Ministry of the Archdiocese of Miami, said she has been trying to maintain a cautious optimism since she learned of the draft Supreme Court opinion overturning Roe v. Wade that Politico leaked Monday night.?\nBANNED  <span class='selected-term'>Ron DeSantis</span> is persona non grata at a Holocaust Memorial,? Wall Street Journals Elliott Abrams and Eric Cohen: A remarkable Jewish renaissance is under way in Florida.",
+    "author": "",
+    "title": "DeSantis scrutinizes health care costs for the undocumented",
+    "sentiment": "0"
+  },
+  {
+    "id": 3931,
+    "mediaId": 151,
+    "date": "2022-00-06",
+    "sentence": "In Hialeah, Rebecca Brady, a mother of four and director of the Respect Life Ministry of the Archdiocese of Miami, said she has been trying to maintain a cautious optimism since she learned of the draft Supreme Court opinion overturning Roe v. Wade that Politico leaked Monday night.?\nBANNED  <span class='selected-term'>Ron DeSantis</span> is persona non grata at a Holocaust Memorial,? Wall Street Journals Elliott Abrams and Eric Cohen: A remarkable Jewish renaissance is under way in Florida.",
+    "author": "",
+    "title": "DeSantis scrutinizes health care costs for the undocumented",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3942,
+    "mediaId": 238,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "A pair of Four-Pinocchio abortion claims",
+    "sentiment": "0"
+  },
+  {
+    "id": 3942,
+    "mediaId": 238,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "A pair of Four-Pinocchio abortion claims",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3944,
+    "mediaId": 223,
+    "date": "2022-00-06",
+    "sentence": "View Cartoon\nMickey Mouse fell for the trap laid out by Governor <span class='selected-term'>Ron DeSantis</span> and Florida Republicans, as woke Disney had its special tax status removed after opposing popular legislation stopping the indoctrination of Americas children.",
+    "author": "Townhall.com Staff",
+    "title": "Leftist Abortion Cult Goes Nuclear",
+    "sentiment": "0"
+  },
+  {
+    "id": 3944,
+    "mediaId": 223,
+    "date": "2022-00-06",
+    "sentence": "View Cartoon\nMickey Mouse fell for the trap laid out by Governor <span class='selected-term'>Ron DeSantis</span> and Florida Republicans, as woke Disney had its special tax status removed after opposing popular legislation stopping the indoctrination of Americas children.",
+    "author": "Townhall.com Staff",
+    "title": "Leftist Abortion Cult Goes Nuclear",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3955,
+    "mediaId": 19,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Florida: Ron DeSantis Signs $1.2 Billion Tax Relief Package",
+    "sentiment": "0"
+  },
+  {
+    "id": 3955,
+    "mediaId": 19,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Florida: Ron DeSantis Signs $1.2 Billion Tax Relief Package",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3956,
+    "mediaId": 19,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "DeSantis Administration Makes Baby Items Like Diapers Tax Free for a Year",
+    "sentiment": "0"
+  },
+  {
+    "id": 3956,
+    "mediaId": 19,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "DeSantis Administration Makes Baby Items Like Diapers Tax Free for a Year",
     "sentiment": "0.0"
   },
   {
     "id": 3883,
     "mediaId": 237,
-    "date": "d2022-05-07T07:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Washington Examiner Staff",
     "title": "'Ultra-MAGA agenda': Quotes of the Week",
     "sentiment": "0.0"
   },
   {
-    "id": 3841,
-    "mediaId": 98,
-    "date": "d2022-05-09T00:00",
+    "id": 3891,
+    "mediaId": 209,
+    "date": "2022-00-07",
     "sentence": "",
-    "author": "",
-    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
-    "sentiment": "0"
-  },
-  {
-    "id": 3841,
-    "mediaId": 98,
-    "date": "d2022-05-09T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
+    "author": "Brigid Kennedy",
+    "title": "Texas Gov. Greg Abbott has a controversial plan for the southern border. Is it working?",
     "sentiment": "0.0"
   },
   {
     "id": 3831,
     "mediaId": 195,
-    "date": "d2022-05-09T10:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Juan Williams",
     "title": "Juan Williams: Biden is right to call out GOP as extreme on abortion",
     "sentiment": "0.0"
   },
   {
-    "id": 3796,
-    "mediaId": 19,
-    "date": "d2022-05-10T00:00",
+    "id": 3841,
+    "mediaId": 98,
+    "date": "2022-00-09",
     "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board",
+    "author": "",
+    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
     "sentiment": "0"
   },
   {
-    "id": 3796,
-    "mediaId": 19,
-    "date": "d2022-05-10T00:00",
+    "id": 3841,
+    "mediaId": 98,
+    "date": "2022-00-09",
     "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3799,
-    "mediaId": 19,
-    "date": "d2022-05-10T00:00",
-    "sentence": "",
-    "author": "Jordan Dixon-Hamilton",
-    "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
+    "author": "",
+    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
     "sentiment": "0.0"
   },
   {
     "id": 3780,
     "mediaId": 238,
-    "date": "d2022-05-10T10:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Emboldened by wins, GOP goes all in on the culture wars",
@@ -1379,16 +785,61 @@
   {
     "id": 3784,
     "mediaId": 136,
-    "date": "d2022-05-10T10:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Democrats Want to Raise Your Kids. Republicans Fight for Parental Rights | Opinion",
     "sentiment": "0.0"
   },
   {
+    "id": 3796,
+    "mediaId": 19,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board",
+    "sentiment": "0"
+  },
+  {
+    "id": 3796,
+    "mediaId": 19,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3799,
+    "mediaId": 19,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Jordan Dixon-Hamilton",
+    "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3689,
+    "mediaId": 238,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Henry Olsen",
+    "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3723,
+    "mediaId": 65,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3747,
     "mediaId": 129,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "A good example is Floridas governor, <span class='selected-term'>Ron DeSantis</span>, a Republican who last week signed a $1.2 billion tax cut that he said was the largest in state history and would fight inflationary policies imposed on us by the Biden administration.? But a state tax cut, just like a federal spending increase, puts money into consumers pockets.",
     "author": "",
     "title": "Ron DeSantis Is Being Incoherent on Inflation",
@@ -1397,7 +848,7 @@
   {
     "id": 3747,
     "mediaId": 129,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "A good example is Floridas governor, <span class='selected-term'>Ron DeSantis</span>, a Republican who last week signed a $1.2 billion tax cut that he said was the largest in state history and would fight inflationary policies imposed on us by the Biden administration.? But a state tax cut, just like a federal spending increase, puts money into consumers pockets.",
     "author": "",
     "title": "Ron DeSantis Is Being Incoherent on Inflation",
@@ -1406,7 +857,7 @@
   {
     "id": 3750,
     "mediaId": 157,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Bob Brigham",
     "title": "Biden waives executive privilege on 23,000 emails and attachments sought by Jan 6 committee: report",
@@ -1415,70 +866,16 @@
   {
     "id": 3753,
     "mediaId": 234,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "Per The Guardian:\nDiscussions of gender identity and sexual preference are banned in many Florida classrooms because of governor <span class='selected-term'>Ron DeSantis</span>s dont say gay? law, alongside dozens of math textbooks blocked for prohibited topics.? Now the Republican who has loudly condemned what he sees as the indoctrination? of young people has made another subject compulsory: students must receive at least 45 minutes instruction every November about the victims of communism.?\nIn a ceremony Monday at Miamis iconic Freedom Tower, where tens of thousands of Cuban immigrants fleeing Fidel Castros revolution were admitted into the US between 1962 and 1974, DeSantis signed into law House Bill 395, designating 7 November as Victims of Communism Day.",
     "author": "Bess Levin",
     "title": "Senator Ron Johnson Tells Pregnant People to Suck It Up and Go Out of State for an Abortion If They Want One",
     "sentiment": "0.0"
   },
   {
-    "id": 3723,
-    "mediaId": 65,
-    "date": "d2022-05-11T02:38",
-    "sentence": "",
-    "author": "",
-    "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3689,
-    "mediaId": 238,
-    "date": "d2022-05-11T17:47",
-    "sentence": "",
-    "author": "Henry Olsen",
-    "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3658,
-    "mediaId": 151,
-    "date": "d2022-05-12T00:42",
-    "sentence": "",
-    "author": "",
-    "title": "'The great MAGA king': Biden sharpens midterm attacks",
-    "sentiment": "0"
-  },
-  {
-    "id": 3658,
-    "mediaId": 151,
-    "date": "d2022-05-12T00:42",
-    "sentence": "",
-    "author": "",
-    "title": "'The great MAGA king': Biden sharpens midterm attacks",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3645,
-    "mediaId": 136,
-    "date": "d2022-05-12T12:05",
-    "sentence": "The donations for the record-breaking month included nearly $2.3 million raised by the governor's election campaign team, and $8.2 million from his political committee, Friends of <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Ewan Palmer",
-    "title": "How Ron DeSantis' Fundraising Compares to Donald Trump",
-    "sentiment": "0"
-  },
-  {
-    "id": 3645,
-    "mediaId": 136,
-    "date": "d2022-05-12T12:05",
-    "sentence": "The donations for the record-breaking month included nearly $2.3 million raised by the governor's election campaign team, and $8.2 million from his political committee, Friends of <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Ewan Palmer",
-    "title": "How Ron DeSantis' Fundraising Compares to Donald Trump",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3632,
     "mediaId": 129,
-    "date": "d2022-05-12T20:55",
+    "date": "2022-00-12",
     "sentence": "Even if you would never consider voting for him, its important to understand the sources of his appeal and the direction of his politics, because one way or the other  whether he ever runs for president or not  <span class='selected-term'>Ron DeSantis</span> is the new Republican Party.",
     "author": "",
     "title": "Republicans Need a New Leader. Theyre Looking to Florida.",
@@ -1487,70 +884,124 @@
   {
     "id": 3632,
     "mediaId": 129,
-    "date": "d2022-05-12T20:55",
+    "date": "2022-00-12",
     "sentence": "Even if you would never consider voting for him, its important to understand the sources of his appeal and the direction of his politics, because one way or the other  whether he ever runs for president or not  <span class='selected-term'>Ron DeSantis</span> is the new Republican Party.",
     "author": "",
     "title": "Republicans Need a New Leader. Theyre Looking to Florida.",
     "sentiment": "0.691"
   },
   {
-    "id": 3620,
-    "mediaId": 19,
-    "date": "d2022-05-13T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Poll: Donald Trump Maintains Majority Support as Partys Frontrunner",
+    "id": 3645,
+    "mediaId": 136,
+    "date": "2022-00-12",
+    "sentence": "The donations for the record-breaking month included nearly $2.3 million raised by the governor's election campaign team, and $8.2 million from his political committee, Friends of <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Ewan Palmer",
+    "title": "How Ron DeSantis' Fundraising Compares to Donald Trump",
     "sentiment": "0"
   },
   {
-    "id": 3620,
-    "mediaId": 19,
-    "date": "d2022-05-13T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Poll: Donald Trump Maintains Majority Support as Partys Frontrunner",
+    "id": 3645,
+    "mediaId": 136,
+    "date": "2022-00-12",
+    "sentence": "The donations for the record-breaking month included nearly $2.3 million raised by the governor's election campaign team, and $8.2 million from his political committee, Friends of <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Ewan Palmer",
+    "title": "How Ron DeSantis' Fundraising Compares to Donald Trump",
     "sentiment": "0.0"
   },
   {
-    "id": 3629,
-    "mediaId": 19,
-    "date": "d2022-05-13T00:00",
-    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022\nHis remarks follow news of President Biden canceling oil and gas lease sales in both Alaska and the Gulf of Mexico as Americans continue to feel the pain in their pockets at the gas pump under Bidens leadership.",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis: Joe Bidens Actions Show He Doesnt Care About Rising Gas Prices",
+    "id": 3658,
+    "mediaId": 151,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "",
+    "title": "'The great MAGA king': Biden sharpens midterm attacks",
     "sentiment": "0"
   },
   {
-    "id": 3629,
-    "mediaId": 19,
-    "date": "d2022-05-13T00:00",
-    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022\nHis remarks follow news of President Biden canceling oil and gas lease sales in both Alaska and the Gulf of Mexico as Americans continue to feel the pain in their pockets at the gas pump under Bidens leadership.",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis: Joe Bidens Actions Show He Doesnt Care About Rising Gas Prices",
+    "id": 3658,
+    "mediaId": 151,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "",
+    "title": "'The great MAGA king': Biden sharpens midterm attacks",
     "sentiment": "0.0"
   },
   {
     "id": 3604,
     "mediaId": 147,
-    "date": "d2022-05-13T22:35",
+    "date": "2022-00-13",
     "sentence": "You could be looking  there are any number of scenarios, but you could be looking at a match, say, between the Florida governor, <span class='selected-term'>Ron DeSantis</span>, and, say, Elizabeth Warren of Massachusetts.",
     "author": "PBS NewsHour",
     "title": "Former presidential adviser David Gergen discusses leadership and the next generation",
     "sentiment": "0.0"
   },
   {
+    "id": 3620,
+    "mediaId": 19,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Poll: Donald Trump Maintains Majority Support as Partys Frontrunner",
+    "sentiment": "0"
+  },
+  {
+    "id": 3620,
+    "mediaId": 19,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Poll: Donald Trump Maintains Majority Support as Partys Frontrunner",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3629,
+    "mediaId": 19,
+    "date": "2022-00-13",
+    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022\nHis remarks follow news of President Biden canceling oil and gas lease sales in both Alaska and the Gulf of Mexico as Americans continue to feel the pain in their pockets at the gas pump under Bidens leadership.",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis: Joe Bidens Actions Show He Doesnt Care About Rising Gas Prices",
+    "sentiment": "0"
+  },
+  {
+    "id": 3629,
+    "mediaId": 19,
+    "date": "2022-00-13",
+    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022\nHis remarks follow news of President Biden canceling oil and gas lease sales in both Alaska and the Gulf of Mexico as Americans continue to feel the pain in their pockets at the gas pump under Bidens leadership.",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis: Joe Bidens Actions Show He Doesnt Care About Rising Gas Prices",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7032,
+    "mediaId": 675,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "WND News Services",
+    "title": "The mystery of the migrant kids",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3601,
     "mediaId": 188,
-    "date": "d2022-05-14T00:00",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "Paul Sacca",
     "title": "Bill Maher blasts Biden's 'Ministry of Truth,' warns Democrats that the Disinformation Governance Board would have had a field day with Obama's big lie",
     "sentiment": "0.0"
   },
   {
+    "id": 7045,
+    "mediaId": 65,
+    "date": "2022-00-14",
+    "sentence": "",
+    "author": "",
+    "title": "Pennsylvania Republicans to draft bill to relocate migrants on Biden DHS flights to Delaware",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3445,
     "mediaId": 238,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Mariana Alfaro",
     "title": "Midterm primaries live updates Voters to pick key nominees in Pa., N.C., three other states",
@@ -1559,7 +1010,7 @@
   {
     "id": 3586,
     "mediaId": 238,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "",
     "title": "Key issues",
@@ -1568,7 +1019,7 @@
   {
     "id": 3431,
     "mediaId": 129,
-    "date": "d2022-05-16T00:00",
+    "date": "2022-00-16",
     "sentence": "He said that he had been told before that he was the <span class='selected-term'>Ron DeSantis</span> before Ron DeSantis.",
     "author": "",
     "title": "Republican Chaos' in Pennsylvania Threatens to Upend the Midterms",
@@ -1577,7 +1028,7 @@
   {
     "id": 3538,
     "mediaId": 238,
-    "date": "d2022-05-16T20:59",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Michelle Boorstein",
     "title": "Christian nationalism is shaping a Pa. primary  and a GOP shift",
@@ -1586,34 +1037,34 @@
   {
     "id": 3538,
     "mediaId": 238,
-    "date": "d2022-05-16T20:59",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Michelle Boorstein",
     "title": "Christian nationalism is shaping a Pa. primary  and a GOP shift",
     "sentiment": "0.0"
   },
   {
-    "id": 3506,
-    "mediaId": 238,
-    "date": "d2022-05-17T11:00",
+    "id": 7018,
+    "mediaId": 124,
+    "date": "2022-00-16",
     "sentence": "",
-    "author": "Hugh Hewitt",
-    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
-    "sentiment": "0.0"
+    "author": "",
+    "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
+    "sentiment": "0"
   },
   {
-    "id": 3506,
-    "mediaId": 238,
-    "date": "d2022-05-17T11:00",
+    "id": 7018,
+    "mediaId": 124,
+    "date": "2022-00-16",
     "sentence": "",
-    "author": "Hugh Hewitt",
-    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
-    "sentiment": "0.607"
+    "author": "",
+    "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
+    "sentiment": "0.0"
   },
   {
     "id": 3500,
     "mediaId": 21,
-    "date": "d2022-05-17T18:00",
+    "date": "2022-00-17",
     "sentence": "\"It's something that you can beat,\" <span class='selected-term'>Ron DeSantis</span> said of a breast cancer diagnosis.",
     "author": "Kimberly Leonard",
     "title": "Casey DeSantis says her husband, Florida Gov. Ron DeSantis, 'picked me up literally and figuratively' and went to all her chemo treatments",
@@ -1622,340 +1073,421 @@
   {
     "id": 3500,
     "mediaId": 21,
-    "date": "d2022-05-17T18:00",
+    "date": "2022-00-17",
     "sentence": "\"It's something that you can beat,\" <span class='selected-term'>Ron DeSantis</span> said of a breast cancer diagnosis.",
     "author": "Kimberly Leonard",
     "title": "Casey DeSantis says her husband, Florida Gov. Ron DeSantis, 'picked me up literally and figuratively' and went to all her chemo treatments",
     "sentiment": "0.0"
   },
   {
-    "id": 3486,
-    "mediaId": 188,
-    "date": "d2022-05-18T00:00",
+    "id": 3506,
+    "mediaId": 238,
+    "date": "2022-00-17",
     "sentence": "",
-    "author": "Alex Nitzberg",
-    "title": "Florida Gov. DeSantis says President 'Biden should be given an honorary membership in the Mexican drug cartels'",
-    "sentiment": "0"
-  },
-  {
-    "id": 3486,
-    "mediaId": 188,
-    "date": "d2022-05-18T00:00",
-    "sentence": "",
-    "author": "Alex Nitzberg",
-    "title": "Florida Gov. DeSantis says President 'Biden should be given an honorary membership in the Mexican drug cartels'",
+    "author": "Hugh Hewitt",
+    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
     "sentiment": "0.0"
   },
   {
-    "id": 3489,
-    "mediaId": 19,
-    "date": "d2022-05-18T00:00",
+    "id": 3506,
+    "mediaId": 238,
+    "date": "2022-00-17",
     "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Knocks Gas Prices Under Biden: He Has Reduced Our Ability to Be Energy Independent",
-    "sentiment": "0"
-  },
-  {
-    "id": 3489,
-    "mediaId": 19,
-    "date": "d2022-05-18T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Knocks Gas Prices Under Biden: He Has Reduced Our Ability to Be Energy Independent",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3490,
-    "mediaId": 19,
-    "date": "d2022-05-18T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Warning Shot: DeSantis Plans to Use Funds to Bus Illegal Immigrants Dumped in Florida to Bidens Delaware",
-    "sentiment": "0"
-  },
-  {
-    "id": 3490,
-    "mediaId": 19,
-    "date": "d2022-05-18T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Warning Shot: DeSantis Plans to Use Funds to Bus Illegal Immigrants Dumped in Florida to Bidens Delaware",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3479,
-    "mediaId": 151,
-    "date": "d2022-05-18T10:59",
-    "sentence": " Ken Burke files suit against Pinellas County over election bill lawsuit,? by Florida Politics Kelly Hayes\n Judge in ghost candidate case shields ex-lawmakers contacts,? by Orlando Sentinels Annie Martin\n State Attorney Brian Kramer announces new voter program to curb election crime offenses,? by The Gainesville Suns Javon L. Harris\n  Nikki Fried says media created <span class='selected-term'>Ron DeSantis</span> in explaining poll deficit,? by Florida Politics A.G. Gancarski\n... DATELINE TALLAHASSEE ...\nWHATS IN YOUR WALLET? DeSantis doles out millions but fails to mention it mostly comes from Uncle Sam,? by Orlando Sentinels Jeffrey Schweers: Gov.",
-    "author": "",
-    "title": "Biden's foreign policy rankles Florida Dems",
-    "sentiment": "0"
-  },
-  {
-    "id": 3479,
-    "mediaId": 151,
-    "date": "d2022-05-18T10:59",
-    "sentence": " Ken Burke files suit against Pinellas County over election bill lawsuit,? by Florida Politics Kelly Hayes\n Judge in ghost candidate case shields ex-lawmakers contacts,? by Orlando Sentinels Annie Martin\n State Attorney Brian Kramer announces new voter program to curb election crime offenses,? by The Gainesville Suns Javon L. Harris\n  Nikki Fried says media created <span class='selected-term'>Ron DeSantis</span> in explaining poll deficit,? by Florida Politics A.G. Gancarski\n... DATELINE TALLAHASSEE ...\nWHATS IN YOUR WALLET? DeSantis doles out millions but fails to mention it mostly comes from Uncle Sam,? by Orlando Sentinels Jeffrey Schweers: Gov.",
-    "author": "",
-    "title": "Biden's foreign policy rankles Florida Dems",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3474,
-    "mediaId": 223,
-    "date": "d2022-05-18T14:30",
-    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022",
-    "author": "Sarah Arnold",
-    "title": "DeSantis: Biden Will Plunge U.S. Into Recession as Gas Prices Soar",
-    "sentiment": "0"
-  },
-  {
-    "id": 3474,
-    "mediaId": 223,
-    "date": "d2022-05-18T14:30",
-    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022",
-    "author": "Sarah Arnold",
-    "title": "DeSantis: Biden Will Plunge U.S. Into Recession as Gas Prices Soar",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3470,
-    "mediaId": 1546,
-    "date": "d2022-05-18T18:39",
-    "sentence": "Not so, according to Florida Governor <span class='selected-term'>Ron DeSantis</span>, a potential 2024 Republican presidential candidate.",
-    "author": "Chris Simkins",
-    "title": "Looming Midterm Elections Put US Voting Rights in Spotlight",
-    "sentiment": "0"
-  },
-  {
-    "id": 3470,
-    "mediaId": 1546,
-    "date": "d2022-05-18T18:39",
-    "sentence": "Not so, according to Florida Governor <span class='selected-term'>Ron DeSantis</span>, a potential 2024 Republican presidential candidate.",
-    "author": "Chris Simkins",
-    "title": "Looming Midterm Elections Put US Voting Rights in Spotlight",
-    "sentiment": "0.0"
+    "author": "Hugh Hewitt",
+    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
+    "sentiment": "0.607"
   },
   {
     "id": 3468,
     "mediaId": 151,
-    "date": "d2022-05-18T20:45",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Bidens Cuba and Venezuela policy shifts leave Florida Democrats dismayed",
     "sentiment": "0.0"
   },
   {
+    "id": 3470,
+    "mediaId": 1546,
+    "date": "2022-00-18",
+    "sentence": "Not so, according to Florida Governor <span class='selected-term'>Ron DeSantis</span>, a potential 2024 Republican presidential candidate.",
+    "author": "Chris Simkins",
+    "title": "Looming Midterm Elections Put US Voting Rights in Spotlight",
+    "sentiment": "0"
+  },
+  {
+    "id": 3470,
+    "mediaId": 1546,
+    "date": "2022-00-18",
+    "sentence": "Not so, according to Florida Governor <span class='selected-term'>Ron DeSantis</span>, a potential 2024 Republican presidential candidate.",
+    "author": "Chris Simkins",
+    "title": "Looming Midterm Elections Put US Voting Rights in Spotlight",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3474,
+    "mediaId": 223,
+    "date": "2022-00-18",
+    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022",
+    "author": "Sarah Arnold",
+    "title": "DeSantis: Biden Will Plunge U.S. Into Recession as Gas Prices Soar",
+    "sentiment": "0"
+  },
+  {
+    "id": 3474,
+    "mediaId": 223,
+    "date": "2022-00-18",
+    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022",
+    "author": "Sarah Arnold",
+    "title": "DeSantis: Biden Will Plunge U.S. Into Recession as Gas Prices Soar",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3479,
+    "mediaId": 151,
+    "date": "2022-00-18",
+    "sentence": " Ken Burke files suit against Pinellas County over election bill lawsuit,? by Florida Politics Kelly Hayes\n Judge in ghost candidate case shields ex-lawmakers contacts,? by Orlando Sentinels Annie Martin\n State Attorney Brian Kramer announces new voter program to curb election crime offenses,? by The Gainesville Suns Javon L. Harris\n  Nikki Fried says media created <span class='selected-term'>Ron DeSantis</span> in explaining poll deficit,? by Florida Politics A.G. Gancarski\n... DATELINE TALLAHASSEE ...\nWHATS IN YOUR WALLET? DeSantis doles out millions but fails to mention it mostly comes from Uncle Sam,? by Orlando Sentinels Jeffrey Schweers: Gov.",
+    "author": "",
+    "title": "Biden's foreign policy rankles Florida Dems",
+    "sentiment": "0"
+  },
+  {
+    "id": 3479,
+    "mediaId": 151,
+    "date": "2022-00-18",
+    "sentence": " Ken Burke files suit against Pinellas County over election bill lawsuit,? by Florida Politics Kelly Hayes\n Judge in ghost candidate case shields ex-lawmakers contacts,? by Orlando Sentinels Annie Martin\n State Attorney Brian Kramer announces new voter program to curb election crime offenses,? by The Gainesville Suns Javon L. Harris\n  Nikki Fried says media created <span class='selected-term'>Ron DeSantis</span> in explaining poll deficit,? by Florida Politics A.G. Gancarski\n... DATELINE TALLAHASSEE ...\nWHATS IN YOUR WALLET? DeSantis doles out millions but fails to mention it mostly comes from Uncle Sam,? by Orlando Sentinels Jeffrey Schweers: Gov.",
+    "author": "",
+    "title": "Biden's foreign policy rankles Florida Dems",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3486,
+    "mediaId": 188,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Alex Nitzberg",
+    "title": "Florida Gov. DeSantis says President 'Biden should be given an honorary membership in the Mexican drug cartels'",
+    "sentiment": "0"
+  },
+  {
+    "id": 3486,
+    "mediaId": 188,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Alex Nitzberg",
+    "title": "Florida Gov. DeSantis says President 'Biden should be given an honorary membership in the Mexican drug cartels'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3489,
+    "mediaId": 19,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Knocks Gas Prices Under Biden: He Has Reduced Our Ability to Be Energy Independent",
+    "sentiment": "0"
+  },
+  {
+    "id": 3489,
+    "mediaId": 19,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Knocks Gas Prices Under Biden: He Has Reduced Our Ability to Be Energy Independent",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3490,
+    "mediaId": 19,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Warning Shot: DeSantis Plans to Use Funds to Bus Illegal Immigrants Dumped in Florida to Bidens Delaware",
+    "sentiment": "0"
+  },
+  {
+    "id": 3490,
+    "mediaId": 19,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Warning Shot: DeSantis Plans to Use Funds to Bus Illegal Immigrants Dumped in Florida to Bidens Delaware",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3463,
+    "mediaId": 136,
+    "date": "2022-00-19",
+    "sentence": "In response to HHS's document, <span class='selected-term'>Ron DeSantis</span>' Florida Department of Health issued guidance of its own clarifying the \"evidence\" HHS/OPA cited.",
+    "author": "",
+    "title": "HHS Guidance on Trans Pharmacology Raises More Questions Than It Answers | Opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 3463,
+    "mediaId": 136,
+    "date": "2022-00-19",
+    "sentence": "In response to HHS's document, <span class='selected-term'>Ron DeSantis</span>' Florida Department of Health issued guidance of its own clarifying the \"evidence\" HHS/OPA cited.",
+    "author": "",
+    "title": "HHS Guidance on Trans Pharmacology Raises More Questions Than It Answers | Opinion",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3464,
     "mediaId": 195,
-    "date": "d2022-05-19T09:21",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Amie Parnes",
     "title": "Speculation over whether Biden will run again heats up",
     "sentiment": "0.0"
   },
   {
-    "id": 3463,
-    "mediaId": 136,
-    "date": "d2022-05-19T10:00",
-    "sentence": "In response to HHS's document, <span class='selected-term'>Ron DeSantis</span>' Florida Department of Health issued guidance of its own clarifying the \"evidence\" HHS/OPA cited.",
-    "author": "",
-    "title": "HHS Guidance on Trans Pharmacology Raises More Questions Than It Answers | Opinion",
+    "id": 6296,
+    "mediaId": 376,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "John T. Bennett",
+    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
     "sentiment": "0"
   },
   {
-    "id": 3463,
-    "mediaId": 136,
-    "date": "d2022-05-19T10:00",
-    "sentence": "In response to HHS's document, <span class='selected-term'>Ron DeSantis</span>' Florida Department of Health issued guidance of its own clarifying the \"evidence\" HHS/OPA cited.",
-    "author": "",
-    "title": "HHS Guidance on Trans Pharmacology Raises More Questions Than It Answers | Opinion",
+    "id": 6296,
+    "mediaId": 376,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "John T. Bennett",
+    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
     "sentiment": "0.0"
   },
   {
     "id": 6522,
     "mediaId": 376,
-    "date": "d2022-05-19T14:30",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Stephanie Akin\nKate Ackley\nMary Ellen McIntire",
     "title": "At the Races: NY state of turmoil",
     "sentiment": "0.0"
   },
   {
-    "id": 7147,
-    "mediaId": 19,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis: Biden Administration Wants to Punish Americans for Using Carbon with Higher Gas Prices",
-    "sentiment": "0"
-  },
-  {
-    "id": 7147,
-    "mediaId": 19,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis: Biden Administration Wants to Punish Americans for Using Carbon with Higher Gas Prices",
+    "id": 5061,
+    "mediaId": 223,
+    "date": "2022-00-20",
+    "sentence": "The Strike Force includes Governors Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
+    "author": "Spencer Brown",
+    "title": "GOP Governors Launch 'Strike Force' to Combat Biden Border Crisis",
     "sentiment": "0.0"
   },
   {
-    "id": 7153,
+    "id": 5066,
     "mediaId": 19,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Enhances Drug Trafficking Laws: Bidens Open Border Threatens All Americans Safety",
-    "sentiment": "0"
-  },
-  {
-    "id": 7153,
-    "mediaId": 19,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Enhances Drug Trafficking Laws: Bidens Open Border Threatens All Americans Safety",
+    "date": "2022-00-20",
+    "sentence": "The pact is signed by the following governors:\nGovernors Doug Ducey (AZ), Greg Abbott (TX), Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
+    "author": "Bob Price",
+    "title": "26 Governors Mobilize Against Migration Chaos at Border",
     "sentiment": "0.0"
   },
   {
     "id": 6573,
     "mediaId": 558,
-    "date": "d2022-05-20T02:00",
+    "date": "2022-00-20",
     "sentence": "You guys think <span class='selected-term'>Ron DeSantis</span> is good?",
     "author": "Sam Levine",
     "title": "Trump loyalists primary win prompts election fears in Pennsylvania",
     "sentiment": "0.0"
   },
   {
-    "id": 7137,
-    "mediaId": 409,
-    "date": "d2022-05-20T06:30",
-    "sentence": "Put simply, our constitution contemplates the need for Americans to be able to flee Gavin Newsoms oppression and seek asylum with <span class='selected-term'>Ron DeSantis</span> in the free State of Florida.",
-    "author": "Steve Marshall",
-    "title": "Why Are Red States Yielding to Bidens Blue Government?",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7134,
-    "mediaId": 223,
-    "date": "d2022-05-20T09:30",
-    "sentence": "https://t.co/cDyejM3vG0\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 19, 2022\nWithin the last year, more than 107,000 people overdosed from drugs, 71,000 of those were caused by fentanyl.",
-    "author": "Sarah Arnold",
-    "title": "DeSantis Signs Bill Increasing Fentanyl Punishments, Blames Biden For Surge",
+    "id": 7119,
+    "mediaId": 675,
+    "date": "2022-00-20",
+    "sentence": "(SUMMIT NEWS)  During a speech Wednesday, Florida Governor <span class='selected-term'>Ron DeSantis</span> declared that Joe Biden should receive an honorary membership from Mexican drug cartels for facilitating their activities with open borders.",
+    "author": "WND News Services",
+    "title": "DeSantis says Biden should receive honorary cartel membership",
     "sentiment": "0"
   },
   {
-    "id": 7134,
-    "mediaId": 223,
-    "date": "d2022-05-20T09:30",
-    "sentence": "https://t.co/cDyejM3vG0\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 19, 2022\nWithin the last year, more than 107,000 people overdosed from drugs, 71,000 of those were caused by fentanyl.",
-    "author": "Sarah Arnold",
-    "title": "DeSantis Signs Bill Increasing Fentanyl Punishments, Blames Biden For Surge",
+    "id": 7119,
+    "mediaId": 675,
+    "date": "2022-00-20",
+    "sentence": "(SUMMIT NEWS)  During a speech Wednesday, Florida Governor <span class='selected-term'>Ron DeSantis</span> declared that Joe Biden should receive an honorary membership from Mexican drug cartels for facilitating their activities with open borders.",
+    "author": "WND News Services",
+    "title": "DeSantis says Biden should receive honorary cartel membership",
     "sentiment": "0.0"
   },
   {
     "id": 7123,
     "mediaId": 238,
-    "date": "d2022-05-20T15:52",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Emma Brown",
     "title": "Ginni Thomas, wife of Supreme Court justice, pressed Ariz. lawmakers to help reverse Trumps loss, emails show",
     "sentiment": "0.0"
   },
   {
-    "id": 7119,
-    "mediaId": 675,
-    "date": "d2022-05-20T17:11",
-    "sentence": "(SUMMIT NEWS)  During a speech Wednesday, Florida Governor <span class='selected-term'>Ron DeSantis</span> declared that Joe Biden should receive an honorary membership from Mexican drug cartels for facilitating their activities with open borders.",
-    "author": "WND News Services",
-    "title": "DeSantis says Biden should receive honorary cartel membership",
+    "id": 7134,
+    "mediaId": 223,
+    "date": "2022-00-20",
+    "sentence": "https://t.co/cDyejM3vG0\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 19, 2022\nWithin the last year, more than 107,000 people overdosed from drugs, 71,000 of those were caused by fentanyl.",
+    "author": "Sarah Arnold",
+    "title": "DeSantis Signs Bill Increasing Fentanyl Punishments, Blames Biden For Surge",
     "sentiment": "0"
   },
   {
-    "id": 7119,
-    "mediaId": 675,
-    "date": "d2022-05-20T17:11",
-    "sentence": "(SUMMIT NEWS)  During a speech Wednesday, Florida Governor <span class='selected-term'>Ron DeSantis</span> declared that Joe Biden should receive an honorary membership from Mexican drug cartels for facilitating their activities with open borders.",
-    "author": "WND News Services",
-    "title": "DeSantis says Biden should receive honorary cartel membership",
+    "id": 7134,
+    "mediaId": 223,
+    "date": "2022-00-20",
+    "sentence": "https://t.co/cDyejM3vG0\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 19, 2022\nWithin the last year, more than 107,000 people overdosed from drugs, 71,000 of those were caused by fentanyl.",
+    "author": "Sarah Arnold",
+    "title": "DeSantis Signs Bill Increasing Fentanyl Punishments, Blames Biden For Surge",
     "sentiment": "0.0"
   },
   {
-    "id": 7110,
-    "mediaId": 195,
-    "date": "d2022-05-21T16:00",
+    "id": 7137,
+    "mediaId": 409,
+    "date": "2022-00-20",
+    "sentence": "Put simply, our constitution contemplates the need for Americans to be able to flee Gavin Newsoms oppression and seek asylum with <span class='selected-term'>Ron DeSantis</span> in the free State of Florida.",
+    "author": "Steve Marshall",
+    "title": "Why Are Red States Yielding to Bidens Blue Government?",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7147,
+    "mediaId": 19,
+    "date": "2022-00-20",
     "sentence": "",
-    "author": "Douglas MacKinnon",
-    "title": "Trumps vice presidential running mate for 2024?",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis: Biden Administration Wants to Punish Americans for Using Carbon with Higher Gas Prices",
+    "sentiment": "0"
+  },
+  {
+    "id": 7147,
+    "mediaId": 19,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis: Biden Administration Wants to Punish Americans for Using Carbon with Higher Gas Prices",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7153,
+    "mediaId": 19,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Enhances Drug Trafficking Laws: Bidens Open Border Threatens All Americans Safety",
+    "sentiment": "0"
+  },
+  {
+    "id": 7153,
+    "mediaId": 19,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis Enhances Drug Trafficking Laws: Bidens Open Border Threatens All Americans Safety",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7108,
+    "mediaId": 238,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Colby Itkowitz",
+    "title": "House Democrats scramble after redistricting lessens competitive edge",
+    "sentiment": "0"
+  },
+  {
+    "id": 7108,
+    "mediaId": 238,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Colby Itkowitz",
+    "title": "House Democrats scramble after redistricting lessens competitive edge",
     "sentiment": "0.0"
   },
   {
     "id": 7109,
     "mediaId": 302,
-    "date": "d2022-05-21T18:00",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "Associated Press",
     "title": "Ginni Thomas emails deepen her involvement in 2020 election",
     "sentiment": "0.0"
   },
   {
-    "id": 7108,
-    "mediaId": 238,
-    "date": "d2022-05-21T18:13",
+    "id": 7110,
+    "mediaId": 195,
+    "date": "2022-00-21",
     "sentence": "",
-    "author": "Colby Itkowitz",
-    "title": "House Democrats scramble after redistricting lessens competitive edge",
-    "sentiment": "0"
-  },
-  {
-    "id": 7108,
-    "mediaId": 238,
-    "date": "d2022-05-21T18:13",
-    "sentence": "",
-    "author": "Colby Itkowitz",
-    "title": "House Democrats scramble after redistricting lessens competitive edge",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7279,
-    "mediaId": 21,
-    "date": "d2022-05-22T01:00",
-    "sentence": "",
-    "author": "Kimberly Leonard",
-    "title": "Sen. Marco Rubio avoids saying which national abortion ban Republicans should run on in the midterm elections, predicting states would decide",
+    "author": "Douglas MacKinnon",
+    "title": "Trumps vice presidential running mate for 2024?",
     "sentiment": "0.0"
   },
   {
     "id": 7190,
     "mediaId": 21,
-    "date": "d2022-05-22T21:00",
+    "date": "2022-00-22",
     "sentence": "\"Georgia deserves a governor more like <span class='selected-term'>Ron DeSantis</span>,\" Cox said, praising the combative Florida Republican and potential 2024 presidential contender for relentlessly sticking it to the establishment.",
     "author": "Warren Rojas",
     "title": "David Perdue's closing argument to Georgians ahead of Tuesday's GOP primary: A vote for Brian Kemp is a vote for Stacey Abrams",
     "sentiment": "0.0"
   },
   {
-    "id": 7294,
-    "mediaId": 129,
-    "date": "d2022-05-23T00:00",
-    "sentence": "Bret: A decent strategy unless <span class='selected-term'>Ron DeSantis</span> is the nominee.",
-    "author": "",
-    "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now",
+    "id": 7279,
+    "mediaId": 21,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Kimberly Leonard",
+    "title": "Sen. Marco Rubio avoids saying which national abortion ban Republicans should run on in the midterm elections, predicting states would decide",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7972,
+    "mediaId": 237,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Virginia Aabram",
+    "title": "Pompeo endorses Rep. Ronny Jackson for reelection in Texas",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6199,
+    "mediaId": 302,
+    "date": "2022-00-23",
+    "sentence": "The political marriage of Donald Trump and <span class='selected-term'>Ron DeSantis</span>, never passionate but for a time mutually convenient, is all but over.",
+    "author": "Jim Verhulst",
+    "title": "Heres what to read from the left and the right | Column",
+    "sentiment": "0"
+  },
+  {
+    "id": 6199,
+    "mediaId": 302,
+    "date": "2022-00-23",
+    "sentence": "The political marriage of Donald Trump and <span class='selected-term'>Ron DeSantis</span>, never passionate but for a time mutually convenient, is all but over.",
+    "author": "Jim Verhulst",
+    "title": "Heres what to read from the left and the right | Column",
     "sentiment": "0.0"
   },
   {
     "id": 7272,
     "mediaId": 223,
-    "date": "d2022-05-23T00:01",
+    "date": "2022-00-23",
     "sentence": "If a Youngkin-type, or even a <span class='selected-term'>Ron DeSantis</span> runs and wins the presidency in 2024, these people will not stop.",
     "author": "Will Alexander",
     "title": "Squishy Republicans Want Trump to Go Away",
     "sentiment": "0.0"
   },
   {
+    "id": 7294,
+    "mediaId": 129,
+    "date": "2022-00-23",
+    "sentence": "Bret: A decent strategy unless <span class='selected-term'>Ron DeSantis</span> is the nominee.",
+    "author": "",
+    "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7324,
     "mediaId": 195,
-    "date": "d2022-05-24T00:51",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Sarah Polus",
     "title": "Florida student suing over Don't Say Gay' uses curly hair as commencement speech code",
@@ -1964,61 +1496,97 @@
   {
     "id": 7324,
     "mediaId": 195,
-    "date": "d2022-05-24T00:51",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Sarah Polus",
     "title": "Florida student suing over Don't Say Gay' uses curly hair as commencement speech code",
     "sentiment": "0.0"
   },
   {
+    "id": 4948,
+    "mediaId": 63,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Mason Bissada",
+    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
+    "sentiment": "-0.532"
+  },
+  {
+    "id": 4948,
+    "mediaId": 63,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Mason Bissada",
+    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7343,
     "mediaId": 136,
-    "date": "d2022-05-25T01:02",
+    "date": "2022-00-25",
     "sentence": "Townsend added that Kemp's victory is \"very good news\" for other Republicans mounting a 2024 presidential campaign, especially Florida Governor <span class='selected-term'>Ron DeSantis</span>, because it suggests that Trump's power over the GOP is beginning to wane and that a new White House path is being opened for MAGA hopefuls who aren't Trump.",
     "author": "Katherine Fung",
     "title": "Trump Sacrificed His Endorsement Record for Georgia Revenge Fantasy",
     "sentiment": "0.0"
   },
   {
+    "id": 6145,
+    "mediaId": 124,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "",
+    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8368,
     "mediaId": 21,
-    "date": "d2022-05-26T01:00",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Kimberly Leonard",
     "title": "Kellyanne Conway is betting Trump will run for president in 2024 and that MAGA will loom large either way",
     "sentiment": "0.0"
   },
   {
-    "id": 8546,
-    "mediaId": 99,
-    "date": "d2022-05-27T10:16",
-    "sentence": "But the new face is Florida Governor <span class='selected-term'>Ron DeSantis</span>, Shaddick said.",
+    "id": 4914,
+    "mediaId": 43,
+    "date": "2022-00-27",
+    "sentence": "",
     "author": "",
-    "title": "Trump widens lead over Biden in 2024 election odds",
+    "title": "\"Try to Think What We Are Going to Do Ourselves\"",
     "sentiment": "0.0"
-  },
-  {
-    "id": 8546,
-    "mediaId": 99,
-    "date": "d2022-05-27T10:16",
-    "sentence": "But the new face is Florida Governor <span class='selected-term'>Ron DeSantis</span>, Shaddick said.",
-    "author": "",
-    "title": "Trump widens lead over Biden in 2024 election odds",
-    "sentiment": "0.378"
   },
   {
     "id": 8462,
     "mediaId": 558,
-    "date": "d2022-05-27T23:00",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "David Smith",
     "title": "Republican primaries offer look into future of Trumpism without Trump",
     "sentiment": "0.0"
   },
   {
+    "id": 8546,
+    "mediaId": 99,
+    "date": "2022-00-27",
+    "sentence": "But the new face is Florida Governor <span class='selected-term'>Ron DeSantis</span>, Shaddick said.",
+    "author": "",
+    "title": "Trump widens lead over Biden in 2024 election odds",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8546,
+    "mediaId": 99,
+    "date": "2022-00-27",
+    "sentence": "But the new face is Florida Governor <span class='selected-term'>Ron DeSantis</span>, Shaddick said.",
+    "author": "",
+    "title": "Trump widens lead over Biden in 2024 election odds",
+    "sentiment": "0.378"
+  },
+  {
     "id": 8391,
     "mediaId": 136,
-    "date": "d2022-05-28T10:00",
+    "date": "2022-00-28",
     "sentence": "However, the Wyoming lawmakerwith just 7 percent supporttrailed Trump (47 percent) and Florida Governor <span class='selected-term'>Ron DeSantis</span> (20 percent) among likely Republican voters.",
     "author": "Jason Lemon",
     "title": "Liz Cheney's Chances of Beating Trump-Backed Harriet Hageman in Wyoming",
@@ -2027,7 +1595,7 @@
   {
     "id": 8491,
     "mediaId": 238,
-    "date": "d2022-05-28T15:23",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "Dan Balz",
     "title": "Trump is trapped in the past, and its hurting him with GOP voters",
@@ -2036,34 +1604,313 @@
   {
     "id": 8491,
     "mediaId": 238,
-    "date": "d2022-05-28T15:23",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "Dan Balz",
     "title": "Trump is trapped in the past, and its hurting him with GOP voters",
     "sentiment": "0.0"
   },
   {
-    "id": 8527,
-    "mediaId": 157,
-    "date": "d2022-05-29T00:00",
-    "sentence": "",
-    "author": "Sarah K. Burris",
-    "title": "Georgia Republicans rejected Trump  not just his lies: columnist",
-    "sentiment": "-0.476"
+    "id": 4356,
+    "mediaId": 223,
+    "date": "2022-00-29",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
+    "author": "Rebecca Downs",
+    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation",
+    "sentiment": "0"
   },
   {
-    "id": 8527,
-    "mediaId": 157,
-    "date": "d2022-05-29T00:00",
+    "id": 4356,
+    "mediaId": 223,
+    "date": "2022-00-29",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nDuring a Friday press conference, DeSantis pointed out that the board seemed more suited as an April Fool's joke.",
+    "author": "Rebecca Downs",
+    "title": "Gov. Ron DeSantis Leading the Way on Speaking Out on Another Issue: Disinformation",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4363,
+    "mediaId": 112,
+    "date": "2022-00-29",
     "sentence": "",
-    "author": "Sarah K. Burris",
-    "title": "Georgia Republicans rejected Trump  not just his lies: columnist",
+    "author": "Robert Schroeder",
+    "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
+    "sentiment": "0"
+  },
+  {
+    "id": 4363,
+    "mediaId": 112,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Robert Schroeder",
+    "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4369,
+    "mediaId": 63,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Madeline Halpert",
+    "title": "Biden May Cancel At Least $10,000 Of Student Loan Debt For Some Individuals, Report Says",
+    "sentiment": "0"
+  },
+  {
+    "id": 4369,
+    "mediaId": 63,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Madeline Halpert",
+    "title": "Biden May Cancel At Least $10,000 Of Student Loan Debt For Some Individuals, Report Says",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4374,
+    "mediaId": 21,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Kimberly Leonard",
+    "title": "Gov. Ron DeSantis ranted about Biden's potential plan to forgive student debt for degrees such as gender and 'zombie studies'",
+    "sentiment": "-0.223"
+  },
+  {
+    "id": 4374,
+    "mediaId": 21,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Kimberly Leonard",
+    "title": "Gov. Ron DeSantis ranted about Biden's potential plan to forgive student debt for degrees such as gender and 'zombie studies'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4375,
+    "mediaId": 238,
+    "date": "2022-00-29",
+    "sentence": "The Florida law was effective at ginning up attention for that states governor, <span class='selected-term'>Ron DeSantis</span> (R), and the discussion has been accompanied by a backlash against visibility for same-sex couples.",
+    "author": "",
+    "title": "American parents are generally fine with whats being taught in school",
+    "sentiment": "0"
+  },
+  {
+    "id": 4375,
+    "mediaId": 238,
+    "date": "2022-00-29",
+    "sentence": "The Florida law was effective at ginning up attention for that states governor, <span class='selected-term'>Ron DeSantis</span> (R), and the discussion has been accompanied by a backlash against visibility for same-sex couples.",
+    "author": "",
+    "title": "American parents are generally fine with whats being taught in school",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4382,
+    "mediaId": 675,
+    "date": "2022-00-29",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
+    "author": "WND News Services",
+    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4382,
+    "mediaId": 675,
+    "date": "2022-00-29",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
+    "author": "WND News Services",
+    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4383,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "INGRAHAM: <span class='selected-term'>RON DESANTIS</span> HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",
+    "author": "Nikolas Lanum",
+    "title": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
+    "sentiment": "0"
+  },
+  {
+    "id": 4383,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "INGRAHAM: <span class='selected-term'>RON DESANTIS</span> HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",
+    "author": "Nikolas Lanum",
+    "title": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4393,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Lynne Jordal Martin",
+    "title": "What Joe knew about Hunter, say 'no' to college and more Fox News Opinion",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4394,
+    "mediaId": 151,
+    "date": "2022-00-29",
+    "sentence": "But after the driest-ever start to the year in California history, conditions today are far more critical than theyve ever been, officials said.?\nHE SAID, HE SAID  <span class='selected-term'>Ron DeSantis</span> feud with Gavin Newsom ramps up amid San Francisco dumpster fire insult,? by the SF Chronicles Sophia Bollag: DeSantis made the comments several days after Newsom criticized him on Twitter for punishing Disney over its opposition to Floridas new law banning discussion of sexual orientation in early grades.?\n Bias, far-right sympathies among California law enforcement going unchecked, audit finds,? by the LA Times Kevin Rector: In California, a recent Times investigation found that police agencies across the state upheld just 49 racial profiling complaints from 2016 to 2019, or less than 2% of the roughly 3,500 allegations filed.?\n Debate Heats Up Over Effort to Pilot Safe Injection Sites in California,? by KQEDs Lesley McClurg: The last time supervised injection facilities were on the table in California, in 2018, a bill progressed all the way to Governor Jerry Browns desk.",
+    "author": "",
+    "title": "What Californias massive budget surplus could mean",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4395,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> press secretary also weighed in on the video: \"I mean, she wrote a whole book based on the premise that you can be a CIA agent and also ~marginalized~ at the same time so shes the perfect censor kween for the Biden regime,\" Christina Pushaw wrote.",
+    "author": "Nikolas Lanum",
+    "title": "Twitter users shocked by ridiculous TikTok of new disinformation czar singing: God help us",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4398,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "When Florida Governor <span class='selected-term'>Ron DeSantis</span> signed the Parental Rights in Education bill into law on March 28, Disney issued a statement saying it \"should never have passed\" and said that it should be repealed.",
+    "author": "",
+    "title": "UPDATE 2-Disney's corporate affairs head, Morrell, to leave company",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4399,
+    "mediaId": 238,
+    "date": "2022-00-29",
+    "sentence": "Perhaps the only person who triggers progressives as much as Elon Musk these days is <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Opinion DeSantis shows the way forward for Trumpism without Trump",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4399,
+    "mediaId": 238,
+    "date": "2022-00-29",
+    "sentence": "Perhaps the only person who triggers progressives as much as Elon Musk these days is <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Opinion DeSantis shows the way forward for Trumpism without Trump",
+    "sentiment": "0.579"
+  },
+  {
+    "id": 4400,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Dennis Aftergut",
+    "title": "Is Trump asking Putin for favors again?",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4417,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Biden economic troubles mount",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4430,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) spoke out Friday against President Joe Bidens intentions to reduce student debt.",
+    "author": "",
+    "title": "Gov. Ron DeSantis (R-FL) voices opposition to forgiving student debt: These are people like doctors and lawyers.\"",
+    "sentiment": "0"
+  },
+  {
+    "id": 4430,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) spoke out Friday against President Joe Bidens intentions to reduce student debt.",
+    "author": "",
+    "title": "Gov. Ron DeSantis (R-FL) voices opposition to forgiving student debt: These are people like doctors and lawyers.\"",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4431,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "Continue reading \nLAURA INGRAHAM  The Fox host showcased <span class='selected-term'>Ron DeSantis</span>' leadership when it comes to improving Florida in the face of a media onslaught.",
+    "author": "",
+    "title": "Biden student debt cancellation may worsen inflation; US Marine vet dies fighting alongside Ukrainians",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4437,
+    "mediaId": 98,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "David Lauter",
+    "title": "Is politics making people sick? A lot of young people say so",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4442,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "DeSantis warns Biden: If you caravan illegal migrants to Florida, we'll reroute them to Delaware",
+    "sentiment": "0"
+  },
+  {
+    "id": 4442,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "DeSantis warns Biden: If you caravan illegal migrants to Florida, we'll reroute them to Delaware",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4444,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "Ingraham: DeSantis has embraced policies that once seemed unthinkable",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4444,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "Ingraham: DeSantis has embraced policies that once seemed unthinkable",
+    "sentiment": "0.588"
+  },
+  {
+    "id": 4451,
+    "mediaId": 239,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Robert Knight",
+    "title": "DeSantis delivers a roundhouse blow to Disney",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4451,
+    "mediaId": 239,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Robert Knight",
+    "title": "DeSantis delivers a roundhouse blow to Disney",
+    "sentiment": "0.828"
+  },
+  {
+    "id": 6094,
+    "mediaId": 43,
+    "date": "2022-00-29",
+    "sentence": "Another stupid stunt (actually rescues DeSantis)\nx\nBREAKING: Disney hits back HARD at <span class='selected-term'>Ron DeSantis</span> and the GOP  says that Florida can't legally dissolve its self-governing district unless the state pays off the district's $1 billion debts due to a pledge in the original 1967 law.",
+    "author": "",
+    "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
     "sentiment": "0.0"
   },
   {
     "id": 8523,
     "mediaId": 129,
-    "date": "d2022-05-29T13:16:45",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Uvalde Live Updates: As Biden Visits Texas, Confronting Anger and Grief",
@@ -2072,10 +1919,163 @@
   {
     "id": 8523,
     "mediaId": 129,
-    "date": "d2022-05-29T13:16:45",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Uvalde Live Updates: As Biden Visits Texas, Confronting Anger and Grief",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8527,
+    "mediaId": 157,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Sarah K. Burris",
+    "title": "Georgia Republicans rejected Trump  not just his lies: columnist",
+    "sentiment": "-0.476"
+  },
+  {
+    "id": 8527,
+    "mediaId": 157,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Sarah K. Burris",
+    "title": "Georgia Republicans rejected Trump  not just his lies: columnist",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4327,
+    "mediaId": 18,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Joe Battenfeld",
+    "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4329,
+    "mediaId": 223,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Rebecca Downs",
+    "title": "Buried in POLITICO Report is Mention of How Biography on Jill Biden Fared, and the Numbers Are Catastrophic",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4331,
+    "mediaId": 63,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Anna Kaplan",
+    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
+    "sentiment": "0"
+  },
+  {
+    "id": 4331,
+    "mediaId": 63,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Anna Kaplan",
+    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4334,
+    "mediaId": 65,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4335,
+    "mediaId": 302,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "",
+    "title": "The Lightning, Charlie Crist and a former surgeon general make the weeks highs and lows",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4346,
+    "mediaId": 188,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Paul Sacca",
+    "title": "Disney exec who helped craft company's response to Florida's parental rights law quits after just 3 months, replaced by former political aide of Obama, Clinton, and Biden",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4347,
+    "mediaId": 19,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis: Leftists Freaking Out over Elon Musk Purchase Because They Used Twitter to Enforce the Narrative",
+    "sentiment": "0"
+  },
+  {
+    "id": 4347,
+    "mediaId": 19,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Ron DeSantis: Leftists Freaking Out over Elon Musk Purchase Because They Used Twitter to Enforce the Narrative",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4348,
+    "mediaId": 19,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Charlie Spiering",
+    "title": "Joe Biden Jokes About Disney, Some Guy Named Brandon, and Donald Trump at White House Correspondents Dinner",
+    "sentiment": "-0.505"
+  },
+  {
+    "id": 4348,
+    "mediaId": 19,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Charlie Spiering",
+    "title": "Joe Biden Jokes About Disney, Some Guy Named Brandon, and Donald Trump at White House Correspondents Dinner",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4349,
+    "mediaId": 188,
+    "date": "2022-00-30",
+    "sentence": "\\n\\nFlorida rejects Biden\\u2019s attempt to enforce regime-approved narratives and to stifle dissent.pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@Ron DeSantis) 1651247498",
+    "author": "Paul Sacca",
+    "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4349,
+    "mediaId": 188,
+    "date": "2022-00-30",
+    "sentence": "\\n\\nFlorida rejects Biden\\u2019s attempt to enforce regime-approved narratives and to stifle dissent.pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@Ron DeSantis) 1651247498",
+    "author": "Paul Sacca",
+    "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4351,
+    "mediaId": 19,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "James P. Pinkerton",
+    "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk",
+    "sentiment": "0"
+  },
+  {
+    "id": 4351,
+    "mediaId": 19,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "James P. Pinkerton",
+    "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk",
     "sentiment": "0.0"
   }
 ]

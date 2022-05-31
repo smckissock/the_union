@@ -1,26 +1,8 @@
 [
   {
-    "id": 4366,
-    "mediaId": 302,
-    "date": "d2022-04-29T19:40:17",
-    "sentence": "",
-    "author": "",
-    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
-    "sentiment": "0"
-  },
-  {
-    "id": 4366,
-    "mediaId": 302,
-    "date": "d2022-04-29T19:40:17",
-    "sentence": "",
-    "author": "",
-    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3876,
     "mediaId": 302,
-    "date": "d2022-05-07T13:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "William March",
     "title": "Republican Jay Collins to switch congressional races",
@@ -29,70 +11,16 @@
   {
     "id": 3876,
     "mediaId": 302,
-    "date": "d2022-05-07T13:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "William March",
     "title": "Republican Jay Collins to switch congressional races",
     "sentiment": "0.0"
   },
   {
-    "id": 3644,
-    "mediaId": 558,
-    "date": "d2022-05-12T12:11",
-    "sentence": "",
-    "author": "",
-    "title": "Floridas top election official resigns, with possible run for Congress in her future",
-    "sentiment": "0"
-  },
-  {
-    "id": 3644,
-    "mediaId": 558,
-    "date": "d2022-05-12T12:11",
-    "sentence": "",
-    "author": "",
-    "title": "Floridas top election official resigns, with possible run for Congress in her future",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3643,
-    "mediaId": 558,
-    "date": "d2022-05-12T12:25",
-    "sentence": "",
-    "author": "",
-    "title": "Governor: Florida Secretary of State Laurel M. Lee to resign",
-    "sentiment": "0"
-  },
-  {
-    "id": 3643,
-    "mediaId": 558,
-    "date": "d2022-05-12T12:25",
-    "sentence": "",
-    "author": "",
-    "title": "Governor: Florida Secretary of State Laurel M. Lee to resign",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3642,
-    "mediaId": 302,
-    "date": "d2022-05-12T13:00",
-    "sentence": "",
-    "author": "",
-    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
-    "sentiment": "0"
-  },
-  {
-    "id": 3642,
-    "mediaId": 302,
-    "date": "d2022-05-12T13:00",
-    "sentence": "",
-    "author": "",
-    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3636,
     "mediaId": 302,
-    "date": "d2022-05-12T17:00",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "Lawrence Mower",
     "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run",
@@ -101,34 +29,70 @@
   {
     "id": 3636,
     "mediaId": 302,
-    "date": "d2022-05-12T17:00",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "Lawrence Mower",
     "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run",
     "sentiment": "0.0"
   },
   {
-    "id": 3609,
-    "mediaId": 195,
-    "date": "d2022-05-13T14:44",
+    "id": 3642,
+    "mediaId": 302,
+    "date": "2022-00-12",
     "sentence": "",
     "author": "",
-    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms",
+    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
     "sentiment": "0"
   },
   {
-    "id": 3609,
-    "mediaId": 195,
-    "date": "d2022-05-13T14:44",
+    "id": 3642,
+    "mediaId": 302,
+    "date": "2022-00-12",
     "sentence": "",
     "author": "",
-    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms",
+    "title": "Ben Diamond suspends bid for Pinellas congressional seat, citing DeSantis map",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3643,
+    "mediaId": 558,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "",
+    "title": "Governor: Florida Secretary of State Laurel M. Lee to resign",
+    "sentiment": "0"
+  },
+  {
+    "id": 3643,
+    "mediaId": 558,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "",
+    "title": "Governor: Florida Secretary of State Laurel M. Lee to resign",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3644,
+    "mediaId": 558,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "",
+    "title": "Floridas top election official resigns, with possible run for Congress in her future",
+    "sentiment": "0"
+  },
+  {
+    "id": 3644,
+    "mediaId": 558,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "",
+    "title": "Floridas top election official resigns, with possible run for Congress in her future",
     "sentiment": "0.0"
   },
   {
     "id": 3606,
     "mediaId": 302,
-    "date": "d2022-05-13T21:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Lawrence Mower",
     "title": "DeSantis names conservative lawmaker Cord Byrd as Florida elections chief",
@@ -137,16 +101,34 @@
   {
     "id": 3606,
     "mediaId": 302,
-    "date": "d2022-05-13T21:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Lawrence Mower",
     "title": "DeSantis names conservative lawmaker Cord Byrd as Florida elections chief",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3609,
+    "mediaId": 195,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "",
+    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms",
+    "sentiment": "0"
+  },
+  {
+    "id": 3609,
+    "mediaId": 195,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "",
+    "title": "Florida GOP Secretary of State Laurel Lee stepping down ahead of midterms",
     "sentiment": "0.0"
   },
   {
     "id": 3598,
     "mediaId": 302,
-    "date": "d2022-05-14T10:00",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "",
     "title": "The weeks highs and lows | Editorial",
@@ -155,7 +137,7 @@
   {
     "id": 3542,
     "mediaId": 302,
-    "date": "d2022-05-16T18:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Romy Ellenbogen",
     "title": "Kelli Stargel announces run for Floridas open 15th Congressional District",
@@ -164,7 +146,7 @@
   {
     "id": 3512,
     "mediaId": 151,
-    "date": "d2022-05-17T08:31",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Florida's fight over Don't Say Gay is getting more heated. And it hasn't even gone into effect yet.",
@@ -173,10 +155,28 @@
   {
     "id": 3512,
     "mediaId": 151,
-    "date": "d2022-05-17T08:31",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Florida's fight over Don't Say Gay is getting more heated. And it hasn't even gone into effect yet.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4366,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
+    "sentiment": "0"
+  },
+  {
+    "id": 4366,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
     "sentiment": "0.0"
   }
 ]

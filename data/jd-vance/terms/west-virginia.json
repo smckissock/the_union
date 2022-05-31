@@ -1,26 +1,8 @@
 [
   {
-    "id": 6087,
-    "mediaId": 129,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "For J.D. Vance, Hillbilly Elegy Was the Question, and Trump Was the Answer",
-    "sentiment": "0"
-  },
-  {
-    "id": 6088,
-    "mediaId": 129,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "The Decline of Ohio and the Rise of J.D. Vance",
-    "sentiment": "0"
-  },
-  {
     "id": 6029,
     "mediaId": 157,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "Trump headed for 'a couple of ugly nights' in May that will expose his weaknesses: adviser",
@@ -29,34 +11,61 @@
   {
     "id": 5853,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Report: Israel Is Holding 600 Palestinians Without Charge or Trial",
     "sentiment": "0"
   },
   {
-    "id": 5617,
-    "mediaId": 25,
-    "date": "d2022-05-09T00:00",
-    "sentence": "",
-    "author": "Adam Brewster, Sarah Ewall-Wice",
-    "title": "Nebraska's governor's primary race pits Trump-backed candidate accused of sexual misconduct against two other Republicans",
-    "sentiment": "0"
-  },
-  {
     "id": 5609,
     "mediaId": 129,
-    "date": "d2022-05-09T23:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
     "sentiment": "0"
   },
   {
+    "id": 5617,
+    "mediaId": 25,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "Adam Brewster, Sarah Ewall-Wice",
+    "title": "Nebraska's governor's primary race pits Trump-backed candidate accused of sexual misconduct against two other Republicans",
+    "sentiment": "0"
+  },
+  {
+    "id": 5594,
+    "mediaId": 323,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Joshua Jamerson",
+    "title": "West Virginia Republican Primary: Infrastructure Votes, Trump Endorsement Take Center Stage",
+    "sentiment": "0"
+  },
+  {
+    "id": 5597,
+    "mediaId": 238,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "",
+    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today",
+    "sentiment": "0"
+  },
+  {
+    "id": 5598,
+    "mediaId": 195,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "5 things to watch in the West Virginia, Nebraska primaries",
+    "sentiment": "0"
+  },
+  {
     "id": 5604,
     "mediaId": 98,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "LEAH WILLINGHAM",
     "title": "Trump-backed U.S. Rep. Alex Mooney wins West Virginia GOP primary",
@@ -65,91 +74,82 @@
   {
     "id": 5605,
     "mediaId": 19,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Nick Gilbertson",
     "title": "Trump-Backed Candidates 58-1 in Primaries Following Races in Nebraska, West Virginia",
     "sentiment": "0"
   },
   {
-    "id": 5598,
-    "mediaId": 195,
-    "date": "d2022-05-10T09:27",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "5 things to watch in the West Virginia, Nebraska primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5597,
+    "id": 5568,
     "mediaId": 238,
-    "date": "d2022-05-10T10:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
-    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today",
-    "sentiment": "0"
-  },
-  {
-    "id": 5594,
-    "mediaId": 323,
-    "date": "d2022-05-10T13:10",
-    "sentence": "",
-    "author": "Joshua Jamerson",
-    "title": "West Virginia Republican Primary: Infrastructure Votes, Trump Endorsement Take Center Stage",
-    "sentiment": "0"
-  },
-  {
-    "id": 5580,
-    "mediaId": 195,
-    "date": "d2022-05-11T01:14",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "Mooney wins West Virginia primary, handing Trump another win",
-    "sentiment": "0"
-  },
-  {
-    "id": 5578,
-    "mediaId": 151,
-    "date": "d2022-05-11T03:48",
-    "sentence": "",
-    "author": "",
-    "title": "Here are the Trump-backed candidates who won the Nebraska and West Virginia primaries",
-    "sentiment": "0.24"
-  },
-  {
-    "id": 5575,
-    "mediaId": 238,
-    "date": "d2022-05-11T10:23",
-    "sentence": "",
-    "author": "",
-    "title": "Takeaways from West Virginia and Nebraska GOP primaries",
-    "sentiment": "-0.465"
-  },
-  {
-    "id": 5572,
-    "mediaId": 129,
-    "date": "d2022-05-11T13:27:59",
-    "sentence": "",
-    "author": "",
-    "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
+    "title": "The MAGA vs. GOP divide in the Republican primaries",
     "sentiment": "0"
   },
   {
     "id": 5571,
     "mediaId": 136,
-    "date": "d2022-05-11T15:06",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Ewan Palmer",
     "title": "Donald Trump Is Losing More Primary Races Than He'd Like You to Know",
     "sentiment": "0"
   },
   {
-    "id": 5568,
-    "mediaId": 238,
-    "date": "d2022-05-11T16:27",
+    "id": 5572,
+    "mediaId": 129,
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
-    "title": "The MAGA vs. GOP divide in the Republican primaries",
+    "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
+    "sentiment": "0"
+  },
+  {
+    "id": 5575,
+    "mediaId": 238,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Takeaways from West Virginia and Nebraska GOP primaries",
+    "sentiment": "-0.465"
+  },
+  {
+    "id": 5578,
+    "mediaId": 151,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Here are the Trump-backed candidates who won the Nebraska and West Virginia primaries",
+    "sentiment": "0.24"
+  },
+  {
+    "id": 5580,
+    "mediaId": 195,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Mooney wins West Virginia primary, handing Trump another win",
+    "sentiment": "0"
+  },
+  {
+    "id": 6087,
+    "mediaId": 129,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "For J.D. Vance, Hillbilly Elegy Was the Question, and Trump Was the Answer",
+    "sentiment": "0"
+  },
+  {
+    "id": 6088,
+    "mediaId": 129,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "The Decline of Ohio and the Rise of J.D. Vance",
     "sentiment": "0"
   }
 ]

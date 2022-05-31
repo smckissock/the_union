@@ -1,25 +1,18 @@
 {
   "id": 6019,
   "mediaId": 169,
-  "date": "d2022-05-02T05:30",
+  "date": "5/2/2022 12:00:00 AM",
   "headline": "Trump pal J.D. Vance says Big Tech data collection should be illegal  but set to profit from it",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/07/jd-vance-0706211.jpg",
   "link": "https://www.salon.com/2022/05/02/pal-jd-vance-says-big-tech-data-collection-should-be-illegal--but-set-to-profit-from-it/",
-  "sentiment": "-0.406",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Igor Derysh",
   "authorUrl": "https://www.salon.com/writer/igor-derysh",
   "termIds": [
-    683,
-    1147,
-    1801,
-    2524,
-    3103,
-    428,
-    3334,
-    2845
+    3103
   ],
   "sentences": [
     "\"This investigation makes even more clear the need for Congress to pass comprehensive consumer privacy laws to ensure that the public is in control of their most intimate personal information  not distant corporations and tech giants,\" Sen. Richard Blumenthal, D-Conn., who chairs a Commerce, Science, and Transportation subcommittee on consumer protection and data security, told BuzzFeed.",

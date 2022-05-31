@@ -1,26 +1,19 @@
 {
   "id": 3399,
   "mediaId": 409,
-  "date": "d2022-05-14T16:07",
+  "date": "5/14/2022 12:00:00 AM",
   "headline": "Trump as GOP Kingmaker",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/02/cpac-2022-022622-11.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/trump-as-gop-kingmaker/",
-  "sentiment": "0.279",
+  "sentiment": "0.0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Fred Bauer",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1282,
-    1348,
-    1713,
     2095,
-    3102,
-    146,
-    428,
-    2862
+    3102
   ],
   "sentences": [
     "Even though Barletta endorsed Trump in March 2016 and has strong populist credentials, other political calculations might have factored into the Mastriano endorsement: While Mehmet Ozs polling numbers have improved, the Trump-endorsed candidate for the Republican Senate nomination in the Keystone State remains locked in a very tight race.",

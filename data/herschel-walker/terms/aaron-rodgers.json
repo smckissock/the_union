@@ -1,20 +1,20 @@
 [
   {
-    "id": 8253,
-    "mediaId": 18,
-    "date": "d2022-01-25T05:10:12",
-    "sentence": "and make a <span class='selected-term'>Herschel Walker</span>-like trade with the Packers.",
-    "author": "Boston Herald editorial staff",
-    "title": "Letters to the editor",
-    "sentiment": "0.47"
-  },
-  {
     "id": 8005,
     "mediaId": 98,
-    "date": "d2022-03-16T17:20",
+    "date": "2022-00-16",
     "sentence": "Considering the players and picks involved, it was the modern-day version of Dallas trading <span class='selected-term'>Herschel Walker</span> to the Minnesota Vikings in 1989.",
     "author": "Sam Farmer",
     "title": "How the Broncos were able to keep the Russell Wilson trade with Seahawks a secret",
     "sentiment": "0.0"
+  },
+  {
+    "id": 8253,
+    "mediaId": 18,
+    "date": "2022-00-25",
+    "sentence": "and make a <span class='selected-term'>Herschel Walker</span>-like trade with the Packers.",
+    "author": "Boston Herald editorial staff",
+    "title": "Letters to the editor",
+    "sentiment": "0.47"
   }
 ]

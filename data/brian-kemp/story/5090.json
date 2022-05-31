@@ -1,25 +1,18 @@
 {
   "id": 5090,
   "mediaId": 136,
-  "date": "d2022-04-18T16:08",
+  "date": "4/18/2022 12:00:00 AM",
   "headline": "Fourth Stimulus Check Update: Some Americans Eligible for More Money",
   "image": "https://d.newsweek.com/en/full/2021702/stimulus-checks.webp?w=790&f=9944a002e819ea7b72ed5d509c1d2a01",
   "link": "https://www.newsweek.com/fourth-stimulus-check-update-some-americans-eligible-more-money-1698635",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Impelli",
   "authorUrl": "https://www.newsweek.com/authors/matthew-impelli",
   "termIds": [
-    1486,
-    1591,
-    1903,
-    2095,
-    4651,
-    3339,
-    2672,
-    2945
+    2095
   ],
   "sentences": [
     "After the tax-filing deadline passes on April 18, the Department of Revenue in conjunction with the Auditor of State's Office will begin issuing the refunds via direct deposit or by mailing a paper check,\" Holcomb's office said earlier this month.",

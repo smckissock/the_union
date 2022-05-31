@@ -1,26 +1,18 @@
 {
   "id": 8340,
   "mediaId": 12,
-  "date": "d2022-01-04T19:00",
+  "date": "1/4/2022 12:00:00 AM",
   "headline": "From far and wide, Georgia fans flock to Indianapolis",
   "image": "https://www.ajc.com/resizer/2UGWZtSwI9YGacLjVY2z5aLLRDc=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/N4LVT3DDUVGABKFJIE4UAR77W4.JPEG",
   "link": "https://www.ajc.com/sports/georgia-bulldogs/from-far-and-wide-georgia-fans-flock-to-indianapolis/TMY3W7OM25BEDHAB62RXLVZZ3U/",
-  "sentiment": "0.833",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Chip Towers",
   "authorUrl": "https://www.ajc.com/staff/chip-towers/",
   "termIds": [
-    815,
-    5739,
-    5745,
-    6015,
-    501,
-    2672,
-    2710,
-    2711,
-    2738
+    815
   ],
   "sentences": [
     "JIMMY TAYLOR, Berkeley Lake\nDue to the stupid decision to host this game in a cold-weather city that requires a three-night stay, we made the decision and are fortunate enough to be traveling to the game on a private jet out of (DeKalb-Peachtree Airport).",

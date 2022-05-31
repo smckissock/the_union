@@ -1,8 +1,71 @@
 [
   {
+    "id": 4286,
+    "mediaId": 98,
+    "date": "2022-00-01",
+    "sentence": "That should have been a pretty big sign.?\nThroughout his 25-minute performance, Noah managed to lampoon a striking number of media and political figures  including but not limited to Donald Trump, Jeffrey Toobin, Tucker Carlson, Laura Ingraham, Chris Cuomo, Kyrsten Sinema, Kellyanne Conway, Madison Cawthorn, <span class='selected-term'>Ron DeSantis</span>, Jen Psaki, First Lady Jill Biden and of course, President Joe Biden.",
+    "author": "Christi CarrasStaff Writer",
+    "title": "Trevor Noah roasts pretty much everyone at White House Correspondents Dinner",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4308,
+    "mediaId": 136,
+    "date": "2022-00-01",
+    "sentence": "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",
+    "author": "Scott McDonald",
+    "title": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
+    "sentiment": "0"
+  },
+  {
+    "id": 4308,
+    "mediaId": 136,
+    "date": "2022-00-01",
+    "sentence": "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",
+    "author": "Scott McDonald",
+    "title": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4309,
+    "mediaId": 151,
+    "date": "2022-00-01",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
+    "author": "",
+    "title": "Trevor Noah's best jokes at the WHCD",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4309,
+    "mediaId": 151,
+    "date": "2022-00-01",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
+    "author": "",
+    "title": "Trevor Noah's best jokes at the WHCD",
+    "sentiment": "0.642"
+  },
+  {
+    "id": 4310,
+    "mediaId": 195,
+    "date": "2022-00-01",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
+    "author": "Judy Kurtz",
+    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
+    "sentiment": "0"
+  },
+  {
+    "id": 4310,
+    "mediaId": 195,
+    "date": "2022-00-01",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
+    "author": "Judy Kurtz",
+    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4320,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Jokes, Glamour and a Try for Normalcy as Correspondents Dinner Returns",
@@ -11,7 +74,7 @@
   {
     "id": 4323,
     "mediaId": 43,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
     "author": "",
     "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
@@ -20,187 +83,16 @@
   {
     "id": 4323,
     "mediaId": 43,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
     "author": "",
     "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
     "sentiment": "0.0"
   },
   {
-    "id": 4310,
-    "mediaId": 195,
-    "date": "d2022-05-01T04:09",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
-    "author": "Judy Kurtz",
-    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
-    "sentiment": "0"
-  },
-  {
-    "id": 4310,
-    "mediaId": 195,
-    "date": "d2022-05-01T04:09",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead: First, you ban the math textbooks.",
-    "author": "Judy Kurtz",
-    "title": "Trevor Noah roasts lawmakers on both sides of aisle in correspondents dinner remarks",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4309,
-    "mediaId": 151,
-    "date": "d2022-05-01T04:25",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
-    "author": "",
-    "title": "Trevor Noah's best jokes at the WHCD",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4309,
-    "mediaId": 151,
-    "date": "d2022-05-01T04:25",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
-    "author": "",
-    "title": "Trevor Noah's best jokes at the WHCD",
-    "sentiment": "0.642"
-  },
-  {
-    "id": 4308,
-    "mediaId": 136,
-    "date": "d2022-05-01T04:34",
-    "sentence": "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",
-    "author": "Scott McDonald",
-    "title": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
-    "sentiment": "0"
-  },
-  {
-    "id": 4308,
-    "mediaId": 136,
-    "date": "d2022-05-01T04:34",
-    "sentence": "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",
-    "author": "Scott McDonald",
-    "title": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4286,
-    "mediaId": 98,
-    "date": "d2022-05-01T18:16",
-    "sentence": "That should have been a pretty big sign.?\nThroughout his 25-minute performance, Noah managed to lampoon a striking number of media and political figures  including but not limited to Donald Trump, Jeffrey Toobin, Tucker Carlson, Laura Ingraham, Chris Cuomo, Kyrsten Sinema, Kellyanne Conway, Madison Cawthorn, <span class='selected-term'>Ron DeSantis</span>, Jen Psaki, First Lady Jill Biden and of course, President Joe Biden.",
-    "author": "Christi CarrasStaff Writer",
-    "title": "Trevor Noah roasts pretty much everyone at White House Correspondents Dinner",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4261,
-    "mediaId": 19,
-    "date": "d2022-05-02T00:00",
-    "sentence": "You see, what I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is the T-1000.",
-    "author": "Joel B. Pollak",
-    "title": "Ron DeSantis: Trevor Noah Lying About My Presence at White House Correspondents Dinner",
-    "sentiment": "-0.443"
-  },
-  {
-    "id": 4261,
-    "mediaId": 19,
-    "date": "d2022-05-02T00:00",
-    "sentence": "You see, what I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is the T-1000.",
-    "author": "Joel B. Pollak",
-    "title": "Ron DeSantis: Trevor Noah Lying About My Presence at White House Correspondents Dinner",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4242,
-    "mediaId": 558,
-    "date": "d2022-05-02T07:36",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) sounded off during a press conference about Trevor Noahs jabs at him and the state of Florida during the White House Correspondents dinner on Saturday.",
-    "author": "",
-    "title": "Gov. Ron DeSantis (R-FL) responds to Trevor Noah cracking jokes about him at the White House Correspondents Dinner.",
-    "sentiment": "-0.755"
-  },
-  {
-    "id": 4242,
-    "mediaId": 558,
-    "date": "d2022-05-02T07:36",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) sounded off during a press conference about Trevor Noahs jabs at him and the state of Florida during the White House Correspondents dinner on Saturday.",
-    "author": "",
-    "title": "Gov. Ron DeSantis (R-FL) responds to Trevor Noah cracking jokes about him at the White House Correspondents Dinner.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4210,
-    "mediaId": 223,
-    "date": "d2022-05-02T16:15",
-    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Brad Slager",
-    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
-    "sentiment": "-0.436"
-  },
-  {
-    "id": 4210,
-    "mediaId": 223,
-    "date": "d2022-05-02T16:15",
-    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Brad Slager",
-    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4205,
-    "mediaId": 237,
-    "date": "d2022-05-02T16:58",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
-    "author": "Asher Notheis",
-    "title": "DeSantis blasts Trevor Noah's 'lie' he attended Correspondents' Dinner",
-    "sentiment": "-0.215"
-  },
-  {
-    "id": 4205,
-    "mediaId": 237,
-    "date": "d2022-05-02T16:58",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
-    "author": "Asher Notheis",
-    "title": "DeSantis blasts Trevor Noah's 'lie' he attended Correspondents' Dinner",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4199,
-    "mediaId": 195,
-    "date": "d2022-05-02T18:18",
-    "sentence": "Noah added, What I like about <span class='selected-term'>Ron DeSantis</span> is, if Trump was the original Terminator, DeSantis is the T-1000.",
-    "author": "Sarakshi Rai",
-    "title": "DeSantis trashes correspondents dinner after roasting from Trevor Noah",
-    "sentiment": "-0.512"
-  },
-  {
-    "id": 4199,
-    "mediaId": 195,
-    "date": "d2022-05-02T18:18",
-    "sentence": "Noah added, What I like about <span class='selected-term'>Ron DeSantis</span> is, if Trump was the original Terminator, DeSantis is the T-1000.",
-    "author": "Sarakshi Rai",
-    "title": "DeSantis trashes correspondents dinner after roasting from Trevor Noah",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4198,
-    "mediaId": 65,
-    "date": "d2022-05-02T18:26",
-    "sentence": "Noah made several jokes at DeSantiss expense during his performance, saying at one point that \"<span class='selected-term'>Ron DeSantis</span> is here,\" and looking into the audience as if he was directing his attention at the governor himself.",
-    "author": "Ronn Blitzer",
-    "title": "DeSantis slams WHCA and calls Trevor Noah's claim about him during dinner a 'lie'",
-    "sentiment": "-0.595"
-  },
-  {
-    "id": 4198,
-    "mediaId": 65,
-    "date": "d2022-05-02T18:26",
-    "sentence": "Noah made several jokes at DeSantiss expense during his performance, saying at one point that \"<span class='selected-term'>Ron DeSantis</span> is here,\" and looking into the audience as if he was directing his attention at the governor himself.",
-    "author": "Ronn Blitzer",
-    "title": "DeSantis slams WHCA and calls Trevor Noah's claim about him during dinner a 'lie'",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4190,
     "mediaId": 65,
-    "date": "d2022-05-02T20:39",
+    "date": "2022-00-02",
     "sentence": "Comedian Trevor Noah made several jokes at DeSantiss expense during his performance at the White House Correspondents Dinner Saturday night, saying at one point that \"<span class='selected-term'>Ron DeSantis</span> is here,\" and looking into the audience as if he was directing his attention at the governor himself.",
     "author": "Nikolas Lanum",
     "title": "MSNBC, The View, late-night hosts repeatedly hurl personal attacks at DeSantis",
@@ -209,34 +101,124 @@
   {
     "id": 4190,
     "mediaId": 65,
-    "date": "d2022-05-02T20:39",
+    "date": "2022-00-02",
     "sentence": "Comedian Trevor Noah made several jokes at DeSantiss expense during his performance at the White House Correspondents Dinner Saturday night, saying at one point that \"<span class='selected-term'>Ron DeSantis</span> is here,\" and looking into the audience as if he was directing his attention at the governor himself.",
     "author": "Nikolas Lanum",
     "title": "MSNBC, The View, late-night hosts repeatedly hurl personal attacks at DeSantis",
     "sentiment": "0.0"
   },
   {
-    "id": 4156,
-    "mediaId": 239,
-    "date": "d2022-05-03T00:03:18",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead, first you ban the math textbooks, then nobody knows how to count the votes.?\nMr. Noah told the crowd Mr. DeSantis was here? at the dinner.",
-    "author": "Susan Ferrechio",
-    "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner",
-    "sentiment": "-0.616"
+    "id": 4198,
+    "mediaId": 65,
+    "date": "2022-00-02",
+    "sentence": "Noah made several jokes at DeSantiss expense during his performance, saying at one point that \"<span class='selected-term'>Ron DeSantis</span> is here,\" and looking into the audience as if he was directing his attention at the governor himself.",
+    "author": "Ronn Blitzer",
+    "title": "DeSantis slams WHCA and calls Trevor Noah's claim about him during dinner a 'lie'",
+    "sentiment": "-0.595"
   },
   {
-    "id": 4156,
-    "mediaId": 239,
-    "date": "d2022-05-03T00:03:18",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead, first you ban the math textbooks, then nobody knows how to count the votes.?\nMr. Noah told the crowd Mr. DeSantis was here? at the dinner.",
-    "author": "Susan Ferrechio",
-    "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner",
+    "id": 4198,
+    "mediaId": 65,
+    "date": "2022-00-02",
+    "sentence": "Noah made several jokes at DeSantiss expense during his performance, saying at one point that \"<span class='selected-term'>Ron DeSantis</span> is here,\" and looking into the audience as if he was directing his attention at the governor himself.",
+    "author": "Ronn Blitzer",
+    "title": "DeSantis slams WHCA and calls Trevor Noah's claim about him during dinner a 'lie'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4199,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "Noah added, What I like about <span class='selected-term'>Ron DeSantis</span> is, if Trump was the original Terminator, DeSantis is the T-1000.",
+    "author": "Sarakshi Rai",
+    "title": "DeSantis trashes correspondents dinner after roasting from Trevor Noah",
+    "sentiment": "-0.512"
+  },
+  {
+    "id": 4199,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "Noah added, What I like about <span class='selected-term'>Ron DeSantis</span> is, if Trump was the original Terminator, DeSantis is the T-1000.",
+    "author": "Sarakshi Rai",
+    "title": "DeSantis trashes correspondents dinner after roasting from Trevor Noah",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4205,
+    "mediaId": 237,
+    "date": "2022-00-02",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
+    "author": "Asher Notheis",
+    "title": "DeSantis blasts Trevor Noah's 'lie' he attended Correspondents' Dinner",
+    "sentiment": "-0.215"
+  },
+  {
+    "id": 4205,
+    "mediaId": 237,
+    "date": "2022-00-02",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
+    "author": "Asher Notheis",
+    "title": "DeSantis blasts Trevor Noah's 'lie' he attended Correspondents' Dinner",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4210,
+    "mediaId": 223,
+    "date": "2022-00-02",
+    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Brad Slager",
+    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
+    "sentiment": "-0.436"
+  },
+  {
+    "id": 4210,
+    "mediaId": 223,
+    "date": "2022-00-02",
+    "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 1, 2022\nArtisanally-Crafted Narrative  MIAMI HERALD\nOne of the not-surprising segments of the night was Trevor Noah using the event to scorch the media's new favorite target, Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Brad Slager",
+    "title": "Dispatches from the Journo Cotillion Show They Have Learned Little of Their Demise",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4242,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) sounded off during a press conference about Trevor Noahs jabs at him and the state of Florida during the White House Correspondents dinner on Saturday.",
+    "author": "",
+    "title": "Gov. Ron DeSantis (R-FL) responds to Trevor Noah cracking jokes about him at the White House Correspondents Dinner.",
+    "sentiment": "-0.755"
+  },
+  {
+    "id": 4242,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> (R-FL) sounded off during a press conference about Trevor Noahs jabs at him and the state of Florida during the White House Correspondents dinner on Saturday.",
+    "author": "",
+    "title": "Gov. Ron DeSantis (R-FL) responds to Trevor Noah cracking jokes about him at the White House Correspondents Dinner.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4261,
+    "mediaId": 19,
+    "date": "2022-00-02",
+    "sentence": "You see, what I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is the T-1000.",
+    "author": "Joel B. Pollak",
+    "title": "Ron DeSantis: Trevor Noah Lying About My Presence at White House Correspondents Dinner",
+    "sentiment": "-0.443"
+  },
+  {
+    "id": 4261,
+    "mediaId": 19,
+    "date": "2022-00-02",
+    "sentence": "You see, what I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is the T-1000.",
+    "author": "Joel B. Pollak",
+    "title": "Ron DeSantis: Trevor Noah Lying About My Presence at White House Correspondents Dinner",
     "sentiment": "0.0"
   },
   {
     "id": 4118,
     "mediaId": 223,
-    "date": "d2022-05-03T17:50",
+    "date": "2022-00-03",
     "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 3, 2022\nPresentation Paraadox  THE DAILY SHOW\nIf you think he was mad at the jokes, imagine if he had said something about them  oh, waityou already imagined it\nOne of the preferred targets of Trevor Noah during the White House Correspondents Dinner was Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Brad Slager",
     "title": "Nothing Like a SCOTUS Leak to Bring Out the Deranged Media",
@@ -245,16 +227,34 @@
   {
     "id": 4118,
     "mediaId": 223,
-    "date": "d2022-05-03T17:50",
+    "date": "2022-00-03",
     "sentence": "Lifetime Subscriber to CNN+ (@MartiniShark) May 3, 2022\nPresentation Paraadox  THE DAILY SHOW\nIf you think he was mad at the jokes, imagine if he had said something about them  oh, waityou already imagined it\nOne of the preferred targets of Trevor Noah during the White House Correspondents Dinner was Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Brad Slager",
     "title": "Nothing Like a SCOTUS Leak to Bring Out the Deranged Media",
     "sentiment": "0.0"
   },
   {
+    "id": 4156,
+    "mediaId": 239,
+    "date": "2022-00-03",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead, first you ban the math textbooks, then nobody knows how to count the votes.?\nMr. Noah told the crowd Mr. DeSantis was here? at the dinner.",
+    "author": "Susan Ferrechio",
+    "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner",
+    "sentiment": "-0.616"
+  },
+  {
+    "id": 4156,
+    "mediaId": 239,
+    "date": "2022-00-03",
+    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead, first you ban the math textbooks, then nobody knows how to count the votes.?\nMr. Noah told the crowd Mr. DeSantis was here? at the dinner.",
+    "author": "Susan Ferrechio",
+    "title": "DeSantis accuses Washington press of lying about him attending the White House Correspondents Dinner",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3883,
     "mediaId": 237,
-    "date": "d2022-05-07T07:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Washington Examiner Staff",
     "title": "'Ultra-MAGA agenda': Quotes of the Week",

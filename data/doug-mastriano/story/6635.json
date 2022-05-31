@@ -1,25 +1,18 @@
 {
   "id": 6635,
   "mediaId": 881,
-  "date": "d2022-05-18T13:55",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "A QAnon-Loving Election Denier Just Won Pennsylvanias GOP Governor Primary",
   "image": "https://video-images.vice.com/articles/6284f68bf9ba8f009eafe9e9/lede/1652881040733-gettyimages-1397825685.jpeg?crop=1xw:0.8427xh;0xw,0xh&resize=1000:*",
   "link": "https://www.vice.com/en_us/article/xgdn57/pennsylvania-doug-mastriano-primary",
-  "sentiment": "0.887",
+  "sentiment": "0.0",
   "mediaOutlet": "Vice",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Cameron Joseph",
   "authorUrl": "https://www.vice.com/en/contributor/cameron-joseph",
   "termIds": [
-    1147,
-    1282,
-    1713,
-    2087,
-    3102,
-    414,
-    428,
-    2862
+    3102
   ],
   "sentences": [
     "He regularly used the hashtags #QAnon and #thegreatawakening, and just weeks ago spoke at a QAnon conference, where he argued that America is a Christian nation, mocked what he called this myth of the separation of church and state,? and promised the audience that he and they are taking our country back.?\nMastriano is involved in a coalition of QAnon-aligned candidates running for elected positions that would put them in control of state election systems.",

@@ -1,23 +1,18 @@
 {
   "id": 7660,
   "mediaId": 12,
-  "date": "d2022-04-28T10:00",
+  "date": "4/28/2022 12:00:00 AM",
   "headline": "Herschel Walker spent years promoting health products with dubious claims",
   "image": "https://www.ajc.com/resizer/jgsj_6zcHEHGYzpM5pCZTICK3YA=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/HN73DZSUUEV5KE365IBM3GSCI4.jpg",
   "link": "https://www.ajc.com/politics/election/herschel-walker-spent-years-promoting-health-products-with-dubious-claims/63CWNAXVFFGDTD7F7JSTJB5UWU/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Dylan Jackson",
   "authorUrl": "https://www.ajc.com/staff/dylan-jackson/",
   "termIds": [
-    815,
-    1136,
-    1312,
-    428,
-    501,
-    571
+    815
   ],
   "sentences": [
     "In our coverage of the race for U.S. Senate, The Atlanta Journal-Constitution newsroom will:\n Conduct deep background investigations on the major candidates with an eye toward past behavior and any potential conflicts that might raise questions on or provide insight into how a candidate might perform.",

@@ -1,25 +1,18 @@
 {
   "id": 6332,
   "mediaId": 129,
-  "date": "d2022-04-18T00:00",
+  "date": "4/18/2022 12:00:00 AM",
   "headline": "Republicans Say, Let Them Eat Hate",
   "image": "https://static01.nyt.com/images/2022/04/18/opinion/18krugman1/18krugman1-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/04/18/opinion/republicans-senate-immigration-jd-vance.html",
-  "sentiment": "-0.369",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    946,
-    1147,
-    1801,
-    3103,
-    428,
-    571,
-    2845,
-    2942
+    3103
   ],
   "sentences": [
     "The social problems that have festered in 21st-century America  notably large numbers of prime-age males not working and widespread deaths of despair? from drugs, suicide and alcohol  have if anything fallen most heavily on rural and small-town whites, especially in parts of the heartland that have been left behind as a knowledge-centered economy increasingly favors high-education metropolitan areas.",

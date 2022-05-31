@@ -1,11 +1,11 @@
 {
   "id": 8218,
   "mediaId": 12,
-  "date": "d2022-01-28T12:00",
+  "date": "1/28/2022 12:00:00 AM",
   "headline": "Bidens sagging approval could haunt Georgia Democrats",
   "image": "https://www.ajc.com/resizer/3NMtg7B9CevCPK958DpwThVQ0Go=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/7G25O3U2G6P23ZBZUNO3OECVUQ.jpg",
   "link": "https://www.ajc.com/politics/bidens-sagging-approval-could-haunt-georgia-democrats/BLP66P66ONGKXB5C4IBTHOMSTY/",
-  "sentiment": "-0.851",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
     815,
-    1063,
-    1136,
-    1147,
-    1951,
-    2087,
-    2095,
-    147,
-    2555,
-    2672
+    2095
   ],
   "sentences": [
     "Interviews with left-leaning Georgia voters showed a sense of frustration with Biden to fulfill far-reaching campaign promises beyond the two big-ticket items that passed last year: a $1.9 trillion coronavirus relief package and a $1.2 trillion bipartisan infrastructure measure.",

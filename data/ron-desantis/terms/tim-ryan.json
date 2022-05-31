@@ -1,8 +1,17 @@
 [
   {
+    "id": 3780,
+    "mediaId": 238,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "",
+    "title": "Emboldened by wins, GOP goes all in on the culture wars",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4363,
     "mediaId": 112,
-    "date": "d2022-04-29T19:53",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "Robert Schroeder",
     "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
@@ -11,19 +20,10 @@
   {
     "id": 4363,
     "mediaId": 112,
-    "date": "d2022-04-29T19:53",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "Robert Schroeder",
     "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3780,
-    "mediaId": 238,
-    "date": "d2022-05-10T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "Emboldened by wins, GOP goes all in on the culture wars",
     "sentiment": "0.0"
   }
 ]

@@ -1,26 +1,18 @@
 {
   "id": 5280,
   "mediaId": 12,
-  "date": "d2022-04-06T16:00",
+  "date": "4/6/2022 12:00:00 AM",
   "headline": "Black Atlanta women judges say Ketanji Brown Jackson scrutiny familiar",
   "image": "https://www.ajc.com/resizer/-uLwFzmwataP6e27DEuQmUBwPY8=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/CGRDJQ33H77TJ3I6ASAVNVJ4VM.jpg",
   "link": "https://www.ajc.com/life/black-atlanta-women-judges-say-ketanji-brown-jackson-scrutiny-familiar/YRRNHSXTRJAYDFYWFRQNPVZJQM/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ernie Suggs",
   "authorUrl": "https://www.ajc.com/staff/ernie-suggs/",
   "termIds": [
-    820,
-    2034,
-    2095,
-    2347,
-    4669,
-    482,
-    2555,
-    2642,
-    2686
+    2095
   ],
   "sentences": [
     "Judge Kellie Hill, who in 2020 became the first Black person sworn into the Cobb County Superior Court, said that while Jacksons qualifications speak for themselves,? she was not surprised by her treatment, because of what I went through.?\nHill graduated from the University of Pennsylvania and in 1989, after Rutgers University Law School, moved to Atlanta to get a job at a firm.",

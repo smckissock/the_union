@@ -1,65 +1,65 @@
 [
   {
-    "id": 1306,
-    "mediaId": 19,
-    "date": "d2022-02-26T00:00",
-    "sentence": "In Trump's statement on Saturday, the former president took aim at Kemp for the dormant Buckhead bill, and also singled out Ralston, Duncan, and three specific state senators:\nRINOs like Governor <span class='selected-term'>Brian Kemp</span>, the man responsible, along with his puppet master Mitch McConnell, for the loss of two Senate Seats and 2020 Presidential Vote, Lt.",
-    "author": "Ashley Oliver",
-    "title": "Trump Backs Georgia's Buckhead Bill, Bashes RINOs like Gov. Brian Kemp': They Don't Deliver'",
-    "sentiment": "-0.422"
-  },
-  {
-    "id": 5386,
-    "mediaId": 12,
-    "date": "d2022-03-31T12:00",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "The Jolt: For mental health overhaul, truth is a powerful force",
-    "sentiment": "0"
-  },
-  {
     "id": 5301,
     "mediaId": 12,
-    "date": "d2022-04-05T18:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Mark Niesse",
     "title": "Georgia legislative session ends with last-minute flurry of tax-cut, gender bills",
     "sentiment": "0.0"
   },
   {
-    "id": 4820,
-    "mediaId": 25,
-    "date": "d2022-04-30T00:00",
-    "sentence": "Willis notified at least four state officials of her investigation in February 2021, sending document preservation notices to Georgia Governor <span class='selected-term'>Brian Kemp</span>, Lieutenant Governor Geoff Duncan, Secretary of State Brad Raffensperger and Attorney General Chris Carr.",
-    "author": "Graham Kates",
-    "title": "Special grand jury considering Trump election interference in Georgia convenes Monday",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7549,
     "mediaId": 558,
-    "date": "d2022-05-19T17:28",
+    "date": "2022-00-19",
     "sentence": "He just cared about <span class='selected-term'>Brian Kemp</span> losing, said Lt. Gov.",
     "author": "",
     "title": "Trump washes hands of Perdue in Georgia as his campaign limps into final stretch",
     "sentiment": "-0.494"
   },
   {
+    "id": 7194,
+    "mediaId": 136,
+    "date": "2022-00-22",
+    "sentence": "As Tuesday's primary elections approach in Georgia, Trump appears poised to be delivered a major proxy defeat in the Republican Party's gubernatorial primary, where he endorsed former Senator David Perdue against incumbent GOP Governor <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Andrew Stanton",
+    "title": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan",
+    "sentiment": "-0.925"
+  },
+  {
     "id": 7264,
     "mediaId": 157,
-    "date": "d2022-05-22T00:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "David Edwards",
     "title": "Georgia Republican: Trump's endorsement 'used to look like a freight train but now is just a Matchbox car'",
     "sentiment": "-0.869"
   },
   {
-    "id": 7194,
-    "mediaId": 136,
-    "date": "d2022-05-22T19:11",
-    "sentence": "As Tuesday's primary elections approach in Georgia, Trump appears poised to be delivered a major proxy defeat in the Republican Party's gubernatorial primary, where he endorsed former Senator David Perdue against incumbent GOP Governor <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Andrew Stanton",
-    "title": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan",
-    "sentiment": "-0.925"
+    "id": 1306,
+    "mediaId": 19,
+    "date": "2022-00-26",
+    "sentence": "In Trump's statement on Saturday, the former president took aim at Kemp for the dormant Buckhead bill, and also singled out Ralston, Duncan, and three specific state senators:\nRINOs like Governor <span class='selected-term'>Brian Kemp</span>, the man responsible, along with his puppet master Mitch McConnell, for the loss of two Senate Seats and 2020 Presidential Vote, Lt.",
+    "author": "Ashley Oliver",
+    "title": "Trump Backs Georgia's Buckhead Bill, Bashes RINOs like Gov. Brian Kemp': They Don't Deliver'",
+    "sentiment": "-0.422"
+  },
+  {
+    "id": 4820,
+    "mediaId": 25,
+    "date": "2022-00-30",
+    "sentence": "Willis notified at least four state officials of her investigation in February 2021, sending document preservation notices to Georgia Governor <span class='selected-term'>Brian Kemp</span>, Lieutenant Governor Geoff Duncan, Secretary of State Brad Raffensperger and Attorney General Chris Carr.",
+    "author": "Graham Kates",
+    "title": "Special grand jury considering Trump election interference in Georgia convenes Monday",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5386,
+    "mediaId": 12,
+    "date": "2022-00-31",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "The Jolt: For mental health overhaul, truth is a powerful force",
+    "sentiment": "0"
   }
 ]

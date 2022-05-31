@@ -1,8 +1,17 @@
 [
   {
+    "id": 2223,
+    "mediaId": 151,
+    "date": "2022-00-01",
+    "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
+    "author": "",
+    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
+    "sentiment": "0.0"
+  },
+  {
     "id": 64,
     "mediaId": 124,
-    "date": "d2022-02-02T02:59:38",
+    "date": "2022-00-02",
     "sentence": "And in Washington state, Rep. Jaime Herrera Beutler out-raised her Trump-backed opponent, <span class='selected-term'>Joe Kent</span>, bringing in about $422,000 compared to his roughly $297,000 during that same period.",
     "author": "",
     "title": "Republicans who impeached Trump outpace challengers in latest fundraising haul",
@@ -11,25 +20,16 @@
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "d2022-02-02T21:13",
+    "date": "2022-00-02",
     "sentence": "Trump has endorsed <span class='selected-term'>Joe Kent</span>, one of Herrera Beutler's Republican primary challengers in Washington's 3rd Congressional District.",
     "author": "Julia Manchester",
     "title": "GOP women's group endorses Herrera Beutler in primary race",
     "sentiment": "0.0"
   },
   {
-    "id": 2223,
-    "mediaId": 151,
-    "date": "d2022-04-01T17:10",
-    "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
-    "author": "",
-    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
-    "sentiment": "0.0"
-  },
-  {
     "id": 106,
     "mediaId": 98,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "Tracking Trump's endorsements in the 2022 midterm election",

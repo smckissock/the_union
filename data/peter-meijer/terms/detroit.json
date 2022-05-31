@@ -2,28 +2,28 @@
   {
     "id": 31,
     "mediaId": 118,
-    "date": "d2022-04-03T00:00",
+    "date": "2022-00-03",
     "sentence": "MY-jer?' They said it's `MY-er.' How the hell do you get `MY-er' out of it??\nTrump attacking <span class='selected-term'>Peter Meijer</span> for the spelling of his last name pic.twitter.com/klNHboIKF8\nWhile Trump may have thought he was making a great joke, people in Michigan may not have been so amused.",
     "author": "Stephanie Mencimer",
     "title": "At a Campaign Rally, Trump Mocked a Congressman's Name",
     "sentiment": "0.0"
   },
   {
-    "id": 5,
-    "mediaId": 165,
-    "date": "d2022-04-26T14:46",
-    "sentence": "How are you going to run an election system if you believe it's all fake?? (Rep. <span class='selected-term'>Peter Meijer</span>, the hometown congressman and rare Republican who voted to impeach Trump, skulked around the periphery, unwilling to tell reporters which candidates he'd supported.)",
-    "author": "Kara Voght",
-    "title": "Republicans Are Trying to Seize Veto Power Over the 2024 Election",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3286,
     "mediaId": 187,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "From the January/February 2022 issue: Tim Alberta on <span class='selected-term'>Peter Meijer</span> and what the GOP does to its own dissenters\nThere are different truths in politicsTrumps truth, Bidens truth, whatever, B.J.",
     "author": "Tim Alberta",
     "title": "How Politics Poisoned the Evangelical Church",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5,
+    "mediaId": 165,
+    "date": "2022-00-26",
+    "sentence": "How are you going to run an election system if you believe it's all fake?? (Rep. <span class='selected-term'>Peter Meijer</span>, the hometown congressman and rare Republican who voted to impeach Trump, skulked around the periphery, unwilling to tell reporters which candidates he'd supported.)",
+    "author": "Kara Voght",
+    "title": "Republicans Are Trying to Seize Veto Power Over the 2024 Election",
     "sentiment": "0.0"
   }
 ]

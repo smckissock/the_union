@@ -1,26 +1,18 @@
 {
   "id": 6067,
   "mediaId": 65,
-  "date": "d2022-04-30T13:04",
+  "date": "4/30/2022 12:00:00 AM",
   "headline": "Dolan 'not looking backwards' in Ohio GOP Senate primary dominated by Trump, amid bump in polls down stretch",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59f539ee-5d31-4c35-8b7d-47c022c3dd89/b0e566bc-ded0-4a55-a577-2630b6db9b62/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/dolan-event-ohio-senate-columbus",
-  "sentiment": "0.422",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tyler Olson",
   "authorUrl": "https://www.foxnews.com/person/o/tyler-olson",
   "termIds": [
-    1147,
-    1801,
-    2027,
-    3103,
-    379,
-    428,
-    571,
-    2623,
-    2845
+    3103
   ],
   "sentences": [
     "FOX NEWS POLL: VANCE MOVES INTO TOP SPOT IN OHIO GOP SENATE PRIMARY\nDolan separated himself from the four other top candidates competing in the GOP primary by not aggressively courting former President Donald Trump's endorsement.",

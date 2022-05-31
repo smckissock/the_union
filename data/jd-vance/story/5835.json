@@ -1,24 +1,18 @@
 {
   "id": 5835,
   "mediaId": 157,
-  "date": "d2022-05-04T00:00",
+  "date": "5/4/2022 12:00:00 AM",
   "headline": "'This is the Republican Party': NBC reporter says Ohio results show GOP's shift toward MAGA extremism",
   "image": "https://www.rawstory.com/media-library/image.png?id=29758932&width=980",
   "link": "https://www.rawstory.com/jd-vance-far-right-republican/",
-  "sentiment": "0.642",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah K. Burris",
   "authorUrl": "https://www.rawstory.com/u/sarah_k_burris",
   "termIds": [
-    1115,
-    1380,
-    1801,
-    2466,
-    3103,
-    348,
-    428
+    3103
   ],
   "sentences": [
     "He's the Republican nominee to replace [Sen.] Rob Portman, who, we should note, the retiring Republican, the candidate he endorsed, Jane Timken, walked away with just 6 percent.",

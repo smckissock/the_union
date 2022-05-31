@@ -1,53 +1,8 @@
 [
   {
-    "id": 4416,
-    "mediaId": 558,
-    "date": "d2022-04-29T11:12",
-    "sentence": "",
-    "author": "Jim Saunders",
-    "title": "Florida Supreme Court justice is retiring, opening door for another DeSantis nominee",
-    "sentiment": "0"
-  },
-  {
-    "id": 4416,
-    "mediaId": 558,
-    "date": "d2022-04-29T11:12",
-    "sentence": "",
-    "author": "Jim Saunders",
-    "title": "Florida Supreme Court justice is retiring, opening door for another DeSantis nominee",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4403,
-    "mediaId": 1067,
-    "date": "d2022-04-29T13:55",
-    "sentence": "",
-    "author": "Jim Saunders",
-    "title": "Florida Supreme Court Justice Alan Lawson to retire in August",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4373,
-    "mediaId": 302,
-    "date": "d2022-04-29T18:00",
-    "sentence": "",
-    "author": "",
-    "title": "Justice Alan Lawson to retire from Florida Supreme Court",
-    "sentiment": "0"
-  },
-  {
-    "id": 4373,
-    "mediaId": 302,
-    "date": "d2022-04-29T18:00",
-    "sentence": "",
-    "author": "",
-    "title": "Justice Alan Lawson to retire from Florida Supreme Court",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4095,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Protesters gather at the Florida Supreme Court steps in support of abortion rights",
@@ -56,7 +11,7 @@
   {
     "id": 3898,
     "mediaId": 238,
-    "date": "d2022-05-06T20:28",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Appellate court confirms DeSantis-backed voting law in Florida",
@@ -65,34 +20,34 @@
   {
     "id": 3898,
     "mediaId": 238,
-    "date": "d2022-05-06T20:28",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Appellate court confirms DeSantis-backed voting law in Florida",
     "sentiment": "0.0"
   },
   {
-    "id": 3688,
-    "mediaId": 302,
-    "date": "d2022-05-11T18:00",
-    "sentence": "",
-    "author": "",
-    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
+    "id": 3683,
+    "mediaId": 238,
+    "date": "2022-00-11",
+    "sentence": "This is all about <span class='selected-term'>Ron DeSantis</span> trying to push this image of being a super conservative warrior,? Isbell said.",
+    "author": "Lori Rozsa",
+    "title": "Judge blocks voting map favored by Florida Gov. Ron DeSantis",
     "sentiment": "0"
   },
   {
-    "id": 3688,
-    "mediaId": 302,
-    "date": "d2022-05-11T18:00",
-    "sentence": "",
-    "author": "",
-    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
+    "id": 3683,
+    "mediaId": 238,
+    "date": "2022-00-11",
+    "sentence": "This is all about <span class='selected-term'>Ron DeSantis</span> trying to push this image of being a super conservative warrior,? Isbell said.",
+    "author": "Lori Rozsa",
+    "title": "Judge blocks voting map favored by Florida Gov. Ron DeSantis",
     "sentiment": "0.0"
   },
   {
     "id": 3685,
     "mediaId": 65,
-    "date": "d2022-05-11T20:45",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Bradford Betz",
     "title": "Florida judge blocks Gov. DeSantis' redistricting map from taking effect before midterm elections",
@@ -101,61 +56,61 @@
   {
     "id": 3685,
     "mediaId": 65,
-    "date": "d2022-05-11T20:45",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Bradford Betz",
     "title": "Florida judge blocks Gov. DeSantis' redistricting map from taking effect before midterm elections",
     "sentiment": "0.0"
   },
   {
-    "id": 3683,
-    "mediaId": 238,
-    "date": "d2022-05-11T21:30",
-    "sentence": "This is all about <span class='selected-term'>Ron DeSantis</span> trying to push this image of being a super conservative warrior,? Isbell said.",
-    "author": "Lori Rozsa",
-    "title": "Judge blocks voting map favored by Florida Gov. Ron DeSantis",
+    "id": 3688,
+    "mediaId": 302,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
     "sentiment": "0"
   },
   {
-    "id": 3683,
-    "mediaId": 238,
-    "date": "d2022-05-11T21:30",
-    "sentence": "This is all about <span class='selected-term'>Ron DeSantis</span> trying to push this image of being a super conservative warrior,? Isbell said.",
-    "author": "Lori Rozsa",
-    "title": "Judge blocks voting map favored by Florida Gov. Ron DeSantis",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3666,
-    "mediaId": 25,
-    "date": "d2022-05-12T00:00",
-    "sentence": "A Florida state judge has thrown out the congressional map passed by the Republican legislature and pushed by Governor <span class='selected-term'>Ron DeSantis</span>, ruling that it violated state law by drawing Black voters out of a north Florida district.",
-    "author": "Aaron Navarro",
-    "title": "Florida judge throws out GOP-friendly congressional map",
-    "sentiment": "0"
-  },
-  {
-    "id": 3666,
-    "mediaId": 25,
-    "date": "d2022-05-12T00:00",
-    "sentence": "A Florida state judge has thrown out the congressional map passed by the Republican legislature and pushed by Governor <span class='selected-term'>Ron DeSantis</span>, ruling that it violated state law by drawing Black voters out of a north Florida district.",
-    "author": "Aaron Navarro",
-    "title": "Florida judge throws out GOP-friendly congressional map",
+    "id": 3688,
+    "mediaId": 302,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Florida judge says DeSantis congressional map unconstitutional, says hell block it",
     "sentiment": "0.0"
   },
   {
     "id": 3638,
     "mediaId": 65,
-    "date": "d2022-05-12T16:23",
+    "date": "2022-00-12",
     "sentence": "And Burton argued that \"the reason they are engaging in reckless gerrymandering in the 11th hour  like ignoring court orders in Ohio and <span class='selected-term'>Ron DeSantis</span> forcing a clearly unconstitutional map upon the people of Florida  is because they failed to draw themselves into a congressional majority everywhere else.",
     "author": "Paul Steinhauser",
     "title": "Republicans claim victory in congressional redistricting fight",
     "sentiment": "0.0"
   },
   {
+    "id": 3666,
+    "mediaId": 25,
+    "date": "2022-00-12",
+    "sentence": "A Florida state judge has thrown out the congressional map passed by the Republican legislature and pushed by Governor <span class='selected-term'>Ron DeSantis</span>, ruling that it violated state law by drawing Black voters out of a north Florida district.",
+    "author": "Aaron Navarro",
+    "title": "Florida judge throws out GOP-friendly congressional map",
+    "sentiment": "0"
+  },
+  {
+    "id": 3666,
+    "mediaId": 25,
+    "date": "2022-00-12",
+    "sentence": "A Florida state judge has thrown out the congressional map passed by the Republican legislature and pushed by Governor <span class='selected-term'>Ron DeSantis</span>, ruling that it violated state law by drawing Black voters out of a north Florida district.",
+    "author": "Aaron Navarro",
+    "title": "Florida judge throws out GOP-friendly congressional map",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3579,
     "mediaId": 302,
-    "date": "d2022-05-15T15:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "",
     "title": "Largo man arrested on animal cruelty, child neglect charges; 33 dogs seized",
@@ -164,7 +119,7 @@
   {
     "id": 3579,
     "mediaId": 302,
-    "date": "d2022-05-15T15:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "",
     "title": "Largo man arrested on animal cruelty, child neglect charges; 33 dogs seized",
@@ -173,52 +128,16 @@
   {
     "id": 3459,
     "mediaId": 238,
-    "date": "d2022-05-19T15:06",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Lizette Alvarez",
     "title": "Opinion Florida lawmakers, too busy with culture wars, missed an actual crisis",
     "sentiment": "0.0"
   },
   {
-    "id": 7148,
-    "mediaId": 1164,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Doug Cunningham",
-    "title": "Appeals court reinstates Florida political redistricting map",
-    "sentiment": "0"
-  },
-  {
-    "id": 7148,
-    "mediaId": 1164,
-    "date": "d2022-05-20T00:00",
-    "sentence": "",
-    "author": "Doug Cunningham",
-    "title": "Appeals court reinstates Florida political redistricting map",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7120,
-    "mediaId": 302,
-    "date": "d2022-05-20T17:00",
-    "sentence": "",
-    "author": "",
-    "title": "Appeals court puts Florida congressional redistricting decision on hold",
-    "sentiment": "0"
-  },
-  {
-    "id": 7120,
-    "mediaId": 302,
-    "date": "d2022-05-20T17:00",
-    "sentence": "",
-    "author": "",
-    "title": "Appeals court puts Florida congressional redistricting decision on hold",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7118,
     "mediaId": 195,
-    "date": "d2022-05-20T17:34",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Caroline Vakil",
     "title": "Florida appeals court reinstates DeSantiss congressional map",
@@ -227,16 +146,52 @@
   {
     "id": 7118,
     "mediaId": 195,
-    "date": "d2022-05-20T17:34",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Caroline Vakil",
     "title": "Florida appeals court reinstates DeSantiss congressional map",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7120,
+    "mediaId": 302,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "",
+    "title": "Appeals court puts Florida congressional redistricting decision on hold",
+    "sentiment": "0"
+  },
+  {
+    "id": 7120,
+    "mediaId": 302,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "",
+    "title": "Appeals court puts Florida congressional redistricting decision on hold",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7148,
+    "mediaId": 1164,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Doug Cunningham",
+    "title": "Appeals court reinstates Florida political redistricting map",
+    "sentiment": "0"
+  },
+  {
+    "id": 7148,
+    "mediaId": 1164,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Doug Cunningham",
+    "title": "Appeals court reinstates Florida political redistricting map",
     "sentiment": "0.0"
   },
   {
     "id": 7277,
     "mediaId": 151,
-    "date": "d2022-05-22T11:01",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "",
     "title": "Floridas firewall against abortion restrictions is in peril",
@@ -245,10 +200,55 @@
   {
     "id": 8531,
     "mediaId": 302,
-    "date": "d2022-05-28T13:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "17 hopefuls vie for Florida Supreme Court opening",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4373,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "Justice Alan Lawson to retire from Florida Supreme Court",
+    "sentiment": "0"
+  },
+  {
+    "id": 4373,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "Justice Alan Lawson to retire from Florida Supreme Court",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4403,
+    "mediaId": 1067,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jim Saunders",
+    "title": "Florida Supreme Court Justice Alan Lawson to retire in August",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4416,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jim Saunders",
+    "title": "Florida Supreme Court justice is retiring, opening door for another DeSantis nominee",
+    "sentiment": "0"
+  },
+  {
+    "id": 4416,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jim Saunders",
+    "title": "Florida Supreme Court justice is retiring, opening door for another DeSantis nominee",
     "sentiment": "0.0"
   }
 ]

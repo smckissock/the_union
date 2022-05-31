@@ -1,26 +1,18 @@
 {
   "id": 1327,
   "mediaId": 157,
-  "date": "d2022-02-22T00:00",
+  "date": "2/22/2022 12:00:00 AM",
   "headline": "Stacey Abrams and David Perdue in unlikely alliance after Brian Kemp changes election rules again",
   "image": "https://www.rawstory.com/media-library/federalist-reporter-claims-stacy-abrams-is-dangerous-for-promoting-voting.png?id=28028337&width=1200&coordinates=0%2C18%2C0%2C19&height=600",
   "link": "https://www.rawstory.com/stacey-abrams-david-perdue-in-unlikely-alliance-after-brian-kemp-changes-election-rules-again/",
-  "sentiment": "-0.524",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Igor Derysh",
   "authorUrl": "https://www.rawstory.com/u/iasdsadsa",
   "termIds": [
-    1008,
-    1151,
-    1951,
-    2095,
-    2230,
-    4325,
-    146,
-    428,
-    2672
+    2095
   ],
   "sentences": [
     "Abrams acknowledged that Kemp was the \"legal\" winner but refused to concede after the election was marred by a lack of voting machines in certain precincts, an unknown number of mail-in and provisional ballots that were rejected due to a lack of uniform standards, and Kemp's suspension of 53,000 voter registrations after early voting had already begun in a race Abrams lost by fewer than 55,000 votes.",

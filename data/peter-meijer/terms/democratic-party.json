@@ -1,26 +1,8 @@
 [
   {
-    "id": 82,
-    "mediaId": 21,
-    "date": "d2022-01-05T18:00",
-    "sentence": "Rep. <span class='selected-term'>Peter Meijer</span>, one of the Republicans who voted to impeach Trump over January 6, is also set to face a Trump-backed primary challenger.",
-    "author": "Grace Panetta",
-    "title": "A guide to the most important primary elections of the 2022 midterms, which will test Trump's influence over the GOP",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 75,
-    "mediaId": 237,
-    "date": "d2022-01-18T05:30",
-    "sentence": "Rep. <span class='selected-term'>Peter Meijer</span>\nMeijer, Upton's Michigan colleague, cast his impeachment vote just days after being sworn in for his first term in Congress.",
-    "author": "Kate Scanlon",
-    "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically",
-    "sentiment": "0.0"
-  },
-  {
     "id": 70,
     "mediaId": 881,
-    "date": "d2022-02-01T11:21",
+    "date": "2022-00-01",
     "sentence": "Michigan Rep. <span class='selected-term'>Peter Meijer</span> brought in more than a half-million dollarsten times the amount Trump-backed challenger John Gibbs brought in from the time he launched his campaign in early November through the end of 2021.",
     "author": "Cameron Joseph",
     "title": "Trump's Favorite Candidates Are Getting Crushed in Fundraising",
@@ -29,34 +11,70 @@
   {
     "id": 65,
     "mediaId": 43,
-    "date": "d2022-02-02T00:00",
+    "date": "2022-00-02",
     "sentence": "Leading Off\n? MI-03: Attorney Hillary Scholten announced Tuesday that she would seek a rematch against Republican Rep. <span class='selected-term'>Peter Meijer</span> in Michigan's 3rd Congressional District, a Grand Rapids-based constituency that the state's new map transformed from a 51-47 Trump seat to one Joe Biden would have carried 53-45.",
     "author": "",
     "title": "Morning Digest: Democrat announces rematch against House Republican under fire for impeachment vote",
     "sentiment": "0.0"
   },
   {
+    "id": 1,
+    "mediaId": 151,
+    "date": "2022-00-04",
+    "sentence": "Throughout the summer, Reps. <span class='selected-term'>Peter Meijer</span> (R-Mich.), Dan Newhouse (R-Wash.) and Jaime Herrera Beutler (R-Wash.)  all of whom voted to impeach Trump  will face more conservative opponents backed by the former president.",
+    "author": "",
+    "title": "Are you going to cave? GOP primaries pit fighters against governing wing",
+    "sentiment": "0.0"
+  },
+  {
     "id": 60,
     "mediaId": 237,
-    "date": "d2022-02-04T13:25",
+    "date": "2022-00-04",
     "sentence": "It just doesn't seem productive,? Michigan Republican Rep. <span class='selected-term'>Peter Meijer</span> told the Washington Examiner.",
     "author": "Emily Brooks",
     "title": "Republican National Committee censures Liz Cheney and Kinzinger",
     "sentiment": "0.0"
   },
   {
-    "id": 56,
-    "mediaId": 151,
-    "date": "d2022-02-20T13:48",
-    "sentence": "Rep. <span class='selected-term'>Peter Meijer</span> (R-Mich.) is the only other member in a swing district  Biden carried his seat by 9 points.",
+    "id": 24,
+    "mediaId": 238,
+    "date": "2022-00-05",
+    "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
+    "author": "Amy B Wang",
+    "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 27,
+    "mediaId": 238,
+    "date": "2022-00-05",
+    "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
     "author": "",
-    "title": "Defiant GOP impeachment voters gear up for Trump-backed primaries",
+    "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 82,
+    "mediaId": 21,
+    "date": "2022-00-05",
+    "sentence": "Rep. <span class='selected-term'>Peter Meijer</span>, one of the Republicans who voted to impeach Trump over January 6, is also set to face a Trump-backed primary challenger.",
+    "author": "Grace Panetta",
+    "title": "A guide to the most important primary elections of the 2022 midterms, which will test Trump's influence over the GOP",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 22,
+    "mediaId": 151,
+    "date": "2022-00-06",
+    "sentence": "And in Michigan, Democrat Hillary Scholten, an immigration attorney, is seeking a rematch against GOP Rep. <span class='selected-term'>Peter Meijer</span> in a much bluer seat.",
+    "author": "",
+    "title": "Dem moderates get choosy in midterm recruits as GOP headwinds grow",
     "sentiment": "0.0"
   },
   {
     "id": 43,
     "mediaId": 43,
-    "date": "d2022-03-14T00:00",
+    "date": "2022-00-14",
     "sentence": "? MI-03: EMILY's List has endorsed 2020 Democratic nominee Hillary Scholten, who faces no serious intra-party opposition as she seeks a rematch against Republican incumbent <span class='selected-term'>Peter Meijer</span>.",
     "author": "",
     "title": "Morning Digest: Renegade Washington Democrat who bolstered GOP for years finally calls it quits",
@@ -65,55 +83,37 @@
   {
     "id": 41,
     "mediaId": 65,
-    "date": "d2022-03-16T17:00",
+    "date": "2022-00-16",
     "sentence": "FIRST ON FOX NEWS: REPUBLICAN NATIONAL COMMITTEE SHATTERS FUNDRAISING RECORDS IN FEBRUARY\nThe RJC is also endorsing Republican Reps. David Schweikert of Arizona (AZ-01), David Valadao of California (CA-22), Andy Harris of Maryland (MD-01), <span class='selected-term'>Peter Meijer</span> of Michigan (MI-03), Don Bacon of Nebraska (NE-02), Yvette Herrell of New Mexico (NM-02), Nicole Malliotakis of New York (NY-11), Brian Fitzpatrick of Pennsylvania (PA-01) and Nancy Mace of South Carolina (SC-01).",
     "author": "Paul Steinhauser",
     "title": "Sen. Ron Johnson tops list of Republicans endorsed by top Jewish GOP organization",
     "sentiment": "0.0"
   },
   {
-    "id": 27,
-    "mediaId": 238,
-    "date": "d2022-04-05T14:21",
-    "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
-    "author": "",
-    "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
+    "id": 75,
+    "mediaId": 237,
+    "date": "2022-00-18",
+    "sentence": "Rep. <span class='selected-term'>Peter Meijer</span>\nMeijer, Upton's Michigan colleague, cast his impeachment vote just days after being sworn in for his first term in Congress.",
+    "author": "Kate Scanlon",
+    "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically",
     "sentiment": "0.0"
   },
   {
-    "id": 24,
-    "mediaId": 238,
-    "date": "d2022-04-05T17:20",
-    "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
-    "author": "Amy B Wang",
-    "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 22,
+    "id": 56,
     "mediaId": 151,
-    "date": "d2022-04-06T08:31",
-    "sentence": "And in Michigan, Democrat Hillary Scholten, an immigration attorney, is seeking a rematch against GOP Rep. <span class='selected-term'>Peter Meijer</span> in a much bluer seat.",
+    "date": "2022-00-20",
+    "sentence": "Rep. <span class='selected-term'>Peter Meijer</span> (R-Mich.) is the only other member in a swing district  Biden carried his seat by 9 points.",
     "author": "",
-    "title": "Dem moderates get choosy in midterm recruits as GOP headwinds grow",
+    "title": "Defiant GOP impeachment voters gear up for Trump-backed primaries",
     "sentiment": "0.0"
   },
   {
     "id": 7,
     "mediaId": 43,
-    "date": "d2022-04-22T00:00",
+    "date": "2022-00-22",
     "sentence": "Friday, Apr 22, 2022  11:30:12 AM Pacific Daylight Time  Jeff Singer\nMI-03: Rep. <span class='selected-term'>Peter Meijer</span>, who was one of the 10 House Republicans to vote to impeach Trump, faces primary opposition from conservative commentator John Gibbs, who is Trump's endorsed candidate.",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 4/22",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 1,
-    "mediaId": 151,
-    "date": "d2022-05-04T22:54",
-    "sentence": "Throughout the summer, Reps. <span class='selected-term'>Peter Meijer</span> (R-Mich.), Dan Newhouse (R-Wash.) and Jaime Herrera Beutler (R-Wash.)  all of whom voted to impeach Trump  will face more conservative opponents backed by the former president.",
-    "author": "",
-    "title": "Are you going to cave? GOP primaries pit fighters against governing wing",
     "sentiment": "0.0"
   }
 ]

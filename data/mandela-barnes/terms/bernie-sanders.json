@@ -1,35 +1,26 @@
 [
   {
+    "id": 2341,
+    "mediaId": 223,
+    "date": "2022-00-01",
+    "sentence": "",
+    "author": "Guy Benson",
+    "title": "Progressives: Actually, Please Stop Calling Us 'Progressives,' Thanks",
+    "sentiment": "0.181"
+  },
+  {
     "id": 2449,
     "mediaId": 43,
-    "date": "d2022-01-01T00:00",
+    "date": "2022-00-01",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
     "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
     "sentiment": "0.871"
   },
   {
-    "id": 2417,
-    "mediaId": 238,
-    "date": "d2022-01-11T00:00",
-    "sentence": "Charlie Sykes, the Milwaukee-based anti-Trump conservative editor, put it bluntly: <span class='selected-term'>Mandela Barnes</span> is the way to keep that seat Republican.?\nRepublican Sen. Patrick J. Toomey is retiring in Pennsylvania and neither party has a clear edge  or an easy path  in the race to succeed him.",
-    "author": "",
-    "title": "Opinion: These maps show where Democrats are losing ground in the fight for Senate control",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2401,
-    "mediaId": 323,
-    "date": "d2022-01-23T12:00",
-    "sentence": "",
-    "author": "John McCormick",
-    "title": "Wisconsin's Field of Democratic Senate Hopefuls Is Lining Up on Left of Biden",
-    "sentiment": "0"
-  },
-  {
     "id": 59,
     "mediaId": 195,
-    "date": "d2022-02-06T15:30",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Albert Hunt",
     "title": "Midterm primaries might be critical to balance of the Senate",
@@ -38,37 +29,46 @@
   {
     "id": 2390,
     "mediaId": 238,
-    "date": "d2022-02-07T00:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
     "sentiment": "-0.626"
   },
   {
-    "id": 2341,
-    "mediaId": 223,
-    "date": "d2022-04-01T10:45",
-    "sentence": "",
-    "author": "Guy Benson",
-    "title": "Progressives: Actually, Please Stop Calling Us 'Progressives,' Thanks",
-    "sentiment": "0.181"
-  },
-  {
-    "id": 2301,
-    "mediaId": 367,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "Bill Glauber",
-    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution",
+    "id": 2417,
+    "mediaId": 238,
+    "date": "2022-00-11",
+    "sentence": "Charlie Sykes, the Milwaukee-based anti-Trump conservative editor, put it bluntly: <span class='selected-term'>Mandela Barnes</span> is the way to keep that seat Republican.?\nRepublican Sen. Patrick J. Toomey is retiring in Pennsylvania and neither party has a clear edge  or an easy path  in the race to succeed him.",
+    "author": "",
+    "title": "Opinion: These maps show where Democrats are losing ground in the fight for Senate control",
     "sentiment": "0.0"
   },
   {
     "id": 6551,
     "mediaId": 195,
-    "date": "d2022-05-18T22:38",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Campaign Report  What Tuesday tells us about Trump",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2401,
+    "mediaId": 323,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "John McCormick",
+    "title": "Wisconsin's Field of Democratic Senate Hopefuls Is Lining Up on Left of Biden",
+    "sentiment": "0"
+  },
+  {
+    "id": 2301,
+    "mediaId": 367,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Bill Glauber",
+    "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution",
     "sentiment": "0.0"
   }
 ]

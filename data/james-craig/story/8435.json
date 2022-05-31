@@ -1,11 +1,11 @@
 {
   "id": 8435,
   "mediaId": 157,
-  "date": "d2022-05-28T00:00",
+  "date": "5/28/2022 12:00:00 AM",
   "headline": "GOP election lawyer accuses Michigan Republicans of 'despicable abuse'",
   "image": "https://www.rawstory.com/media-library/james-craig.png?id=27473093&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/gop-election-lawyer-accuses-candidates-of-despicable-abuse/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,12 +13,7 @@
   "authorUrl": "https://www.rawstory.com/u/igor_derysh_salon",
   "termIds": [
     651,
-    1844,
-    307,
-    308,
-    338,
-    428,
-    2791
+    1844
   ],
   "sentences": [
     "The bureau said it has no evidence that the candidates were aware of the fraud but said in its report that it did not fully process all the signatures because it had already identified enough fake ones to put the candidates well short of the 15,000 valid signatures needed to qualify for the ballot.",

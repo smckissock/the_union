@@ -1,11 +1,11 @@
 {
   "id": 2340,
   "mediaId": 195,
-  "date": "d2022-04-04T10:00",
+  "date": "4/4/2022 12:00:00 AM",
   "headline": "Midwest Democrats go all in on tough-on-China approach",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/04/ryantim_barnesmandeal_-4-122_split_GN_ap-Morry-Gash_china.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/campaign/3256917-midwest-democrats-go-all-in-on-tough-on-china-approach/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,8 @@
   "authorUrl": "https://thehill.com/author/julia-manchester/",
   "termIds": [
     741,
-    781,
-    1371,
     1568,
-    1925,
-    2039,
-    146,
-    428,
-    571,
-    2845,
-    2863
+    2039
   ],
   "sentences": [
     "Certainly bad trade deals with China, trying to compete with China, China sort of cheating the game, has really negatively impacted manufacturing here at home and it is definitely one of the things that [Barnes] attributes to this decline in manufacturing and something we need to get a handle on in order to rebuild manufacturing in Wisconsin,? said Barnes' communications director Maddy McDaniel.",

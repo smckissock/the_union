@@ -1,25 +1,18 @@
 {
   "id": 8240,
   "mediaId": 12,
-  "date": "d2022-01-26T11:00",
+  "date": "1/26/2022 12:00:00 AM",
   "headline": "Herschel Walker raises another $5.4M for Senate bid",
   "image": "https://www.ajc.com/resizer/cIywRkGqbV5epsjFvvosWLejkgM=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/D4INABMATREZRPEFBR4EZNTTI4.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/herschel-walker-raises-another-54m-for-senate-bid/S2JAB7TWVVHZ3FTIWPD5CZCS6U/",
-  "sentiment": "0.849",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Bluestein",
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
-    815,
-    1147,
-    1312,
-    146,
-    428,
-    571,
-    2672,
-    2945
+    815
   ],
   "sentences": [
     "Walker is the GOP frontrunner thanks in part to his sky-high name recognition and support from former President Donald Trump, who said the Republican would be an unstoppable political force in a contest that could decide control of the Senate.",

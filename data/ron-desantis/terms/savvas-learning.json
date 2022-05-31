@@ -1,44 +1,8 @@
 [
   {
-    "id": 4421,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0"
-  },
-  {
-    "id": 4421,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4418,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00:02",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0"
-  },
-  {
-    "id": 4418,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00:02",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3874,
     "mediaId": 129,
-    "date": "d2022-05-07T14:55",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Florida Releases Reviews That Led to Rejection of Math Textbooks",
@@ -47,10 +11,46 @@
   {
     "id": 3874,
     "mediaId": 129,
-    "date": "d2022-05-07T14:55",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Florida Releases Reviews That Led to Rejection of Math Textbooks",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4418,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0"
+  },
+  {
+    "id": 4418,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4421,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0"
+  },
+  {
+    "id": 4421,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
     "sentiment": "0.0"
   }
 ]

@@ -1,11 +1,11 @@
 {
   "id": 7894,
   "mediaId": 12,
-  "date": "d2022-03-27T03:00",
+  "date": "3/27/2022 12:00:00 AM",
   "headline": "Trump brings his anti-Kemp campaign to Georgia",
   "image": "https://www.ajc.com/resizer/2anrQcrynNxohnoxLZ4NvXFz1bE=/fit-in/720x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/ROOOUYRJJ6ENDSWXCNHRU73FRA.jpg",
   "link": "https://www.ajc.com/politics/trump-brings-his-anti-kemp-campaign-to-georgia/IH5NZU3OL5FNDJ56CH4EVL5M4I/",
-  "sentiment": "-0.388",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
     815,
-    1147,
-    1274,
-    1951,
-    2087,
-    2095,
-    4325,
-    428,
-    2624,
-    2672
+    2095
   ],
   "sentences": [
     "Before a crowd of a few thousand supporters, Trumps rambling speech invoked familiar, false claims that he and former U.S. Sen. David Perdue got screwed in 2020 and warned that his backers wont vote in a general election against Democratic gubernatorial candidate Stacey Abrams if Kemp is the nominee.",

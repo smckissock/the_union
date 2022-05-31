@@ -2,7 +2,7 @@
   {
     "id": 7074,
     "mediaId": 129,
-    "date": "d2022-05-21T00:00",
+    "date": "2022-00-21",
     "sentence": "Under the once-in-a-decade redistricting process, Georgias Republican governor, <span class='selected-term'>Brian Kemp</span>, signed into law a new map that transformed Ms. McBaths district to favor Republicans overwhelmingly.",
     "author": "",
     "title": "Two Democratic Congresswomen, One Redrawn Georgia District",
@@ -11,16 +11,43 @@
   {
     "id": 7228,
     "mediaId": 129,
-    "date": "d2022-05-22T00:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "",
     "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality",
     "sentiment": "0.0"
   },
   {
+    "id": 7289,
+    "mediaId": 129,
+    "date": "2022-00-23",
+    "sentence": "Under the once-in-a-decade redistricting process, Georgia's Republican governor, <span class='selected-term'>Brian Kemp</span>, signed into law a new map that transformed Ms. McBath's district to favor Republicans overwhelmingly.",
+    "author": "",
+    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else.",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7483,
+    "mediaId": 147,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Jeff Amy",
+    "title": "2022 Georgia Primary Election Results",
+    "sentiment": "0"
+  },
+  {
+    "id": 7488,
+    "mediaId": 151,
+    "date": "2022-00-23",
+    "sentence": "And weve got questions were eager to see answered:\nWhats next for <span class='selected-term'>Brian Kemp</span>?",
+    "author": "",
+    "title": "7 big 2022 midterm questions to answer this week",
+    "sentiment": "0"
+  },
+  {
     "id": 7497,
     "mediaId": 1576,
-    "date": "d2022-05-23T00:00",
+    "date": "2022-00-23",
     "sentence": "Governor <span class='selected-term'>Brian Kemp</span> is being challenged by former U.S.",
     "author": "",
     "title": "7 things to watch on primary election night in Georgia",
@@ -29,43 +56,16 @@
   {
     "id": 7507,
     "mediaId": 238,
-    "date": "d2022-05-23T00:00",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Theodoric Meyer",
     "title": "Tuesday's primary fights could be the latest sign of Blue Dogs' waning influence",
     "sentiment": "0.0"
   },
   {
-    "id": 7289,
-    "mediaId": 129,
-    "date": "d2022-05-23T13:33:24",
-    "sentence": "Under the once-in-a-decade redistricting process, Georgia's Republican governor, <span class='selected-term'>Brian Kemp</span>, signed into law a new map that transformed Ms. McBath's district to favor Republicans overwhelmingly.",
-    "author": "",
-    "title": "Democrats are mindful of headwinds in Georgia, and everywhere else.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7488,
-    "mediaId": 151,
-    "date": "d2022-05-23T14:00",
-    "sentence": "And weve got questions were eager to see answered:\nWhats next for <span class='selected-term'>Brian Kemp</span>?",
-    "author": "",
-    "title": "7 big 2022 midterm questions to answer this week",
-    "sentiment": "0"
-  },
-  {
-    "id": 7483,
-    "mediaId": 147,
-    "date": "d2022-05-23T19:51",
-    "sentence": "",
-    "author": "Jeff Amy",
-    "title": "2022 Georgia Primary Election Results",
-    "sentiment": "0"
-  },
-  {
     "id": 7461,
     "mediaId": 98,
-    "date": "d2022-05-24T00:00",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Melanie MasonStaff Writer",
     "title": "Georgia has its primary today. Heres what to watch",
@@ -74,7 +74,7 @@
   {
     "id": 7331,
     "mediaId": 238,
-    "date": "d2022-05-25T03:03",
+    "date": "2022-00-25",
     "sentence": "",
     "author": "David Weigel",
     "title": "Kemp, Raffensperger win in blow to Trump and his false election claims",
@@ -83,7 +83,7 @@
   {
     "id": 8357,
     "mediaId": 129,
-    "date": "d2022-05-25T09:15:29",
+    "date": "2022-00-25",
     "sentence": "",
     "author": "",
     "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",

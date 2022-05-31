@@ -1,19 +1,18 @@
 {
   "id": 5321,
   "mediaId": 12,
-  "date": "d2022-04-05T04:00",
+  "date": "4/5/2022 12:00:00 AM",
   "headline": "State lawmakers send school recess bill to Kemp for signature",
   "image": "https://www.ajc.com/resizer/PZepT0XKFg5vrreMgl3xSGzpjtY=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/S323WNZN34TSBM5MLWH5M3D4XM.JPG",
   "link": "https://www.ajc.com/education/georgia-lawmakers-send-school-recess-bill-to-the-governor/7FFRZUXQUFG2BDDRX6Q2I7GDOI/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ty Tagami",
   "authorUrl": "https://www.ajc.com/staff/ty-tagami/",
   "termIds": [
-    2095,
-    4180
+    2095
   ],
   "sentences": [
     "It takes a rare kid to be unhappy about recess.?\nThe bill that Lily testified for in the winter of 2017 did not pass, though the House had adopted a resolution the prior year in favor of more recess.",

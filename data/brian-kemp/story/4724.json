@@ -1,27 +1,18 @@
 {
   "id": 4724,
   "mediaId": 33,
-  "date": "d2022-05-04T00:00",
+  "date": "5/4/2022 12:00:00 AM",
   "headline": "Fact check: Jody Hice, running to oversee Georgia elections, makes yet more false 2020 claims",
   "image": "https://www.i.cdn.cnn.com/.a/2.294.0/assets/video_pinned_white_bg.jpg",
   "link": "https://www.cnn.com/2022/05/04/politics/fact-check-jody-hice-georgia-secretary-of-state-raffensperger/index.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Daniel Dale",
   "authorUrl": "https://www.cnn.com/profiles/daniel-dale",
   "termIds": [
-    1147,
-    1951,
-    2095,
-    2203,
-    2279,
-    146,
-    428,
-    501,
-    2617,
-    2672
+    2095
   ],
   "sentences": [
     "But the Raffensperger campaign said Abrams had no involvement in or influence on Raffensperger's decision, made public about a week after that news report, to send ballot request forms to voters of all ages; Raffensperger campaign spokesperson Lance Dutson said Raffensperger's office \"pushed back on Stacey Abrams and her liberal allies\" on various proposals, as Abrams-founded group Fair Fight Action noted in tweets criticizing Raffensperger at the time.",

@@ -1,25 +1,18 @@
 {
   "id": 1914,
   "mediaId": 237,
-  "date": "d2022-04-26T15:49",
+  "date": "4/26/2022 12:00:00 AM",
   "headline": "Brian Kemp surges ahead of Trump-backed David Perdue in Georgia GOP primary: Poll",
   "image": "https://cdn.brid.tv/live/partners/19383/snapshot/807156.png",
   "link": "https://www.washingtonexaminer.com/brian-kemp-surges-ahead-of-trump-backed-david-perdue-in-georgia-gop-primary-poll",
-  "sentiment": "-0.751",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Barnini Chakraborty",
   "authorUrl": "https://www.washingtonexaminer.com/author/barnini-chakraborty",
   "termIds": [
-    1147,
-    2095,
-    4325,
-    227,
-    428,
-    501,
-    584,
-    2672
+    2095
   ],
   "sentences": [
     "The survey, which involved 886 likely GOP primary voters, showed that the Republican incumbent has a wide lead over former Sen. David Perdue and could put the governor above the majority-vote threshold needed to avoid a June runoff.",

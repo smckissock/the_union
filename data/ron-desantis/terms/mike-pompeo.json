@@ -1,17 +1,8 @@
 [
   {
-    "id": 7972,
-    "mediaId": 237,
-    "date": "d2022-03-22T13:56",
-    "sentence": "",
-    "author": "Virginia Aabram",
-    "title": "Pompeo endorses Rep. Ronny Jackson for reelection in Texas",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4182,
     "mediaId": 43,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "Donald Trump\n <span class='selected-term'>Ron DeSantis</span>\n Mike Pence\n Chris Christi\n Nikki Haley\n Ted Cruz\n Mike Pompeo\n Kristi Noem\n Tom Cotton\n Larry Hogan\n Uncertain\n Other (please comment)\n 51 votes Vote Now!",
     "author": "",
     "title": "SATIRE: Gorilla association objects to GOP Gov. Larry Hogan calling Trump an 800 pounder in the room",
@@ -20,7 +11,7 @@
   {
     "id": 4072,
     "mediaId": 65,
-    "date": "d2022-05-04T06:06",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Brooke Singman",
     "title": "2024 presidential contenders weigh in on how Supreme Court leak may impact midterm elections",
@@ -29,7 +20,7 @@
   {
     "id": 3698,
     "mediaId": 65,
-    "date": "d2022-05-11T13:49",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Paul Steinhauser",
     "title": "2022/2024 Watch: Pompeo heading to Nevada to campaign with GOP Senate front-runner Adam Laxalt",
@@ -38,7 +29,7 @@
   {
     "id": 3638,
     "mediaId": 65,
-    "date": "d2022-05-12T16:23",
+    "date": "2022-00-12",
     "sentence": "And Burton argued that \"the reason they are engaging in reckless gerrymandering in the 11th hour  like ignoring court orders in Ohio and <span class='selected-term'>Ron DeSantis</span> forcing a clearly unconstitutional map upon the people of Florida  is because they failed to draw themselves into a congressional majority everywhere else.",
     "author": "Paul Steinhauser",
     "title": "Republicans claim victory in congressional redistricting fight",
@@ -47,10 +38,19 @@
   {
     "id": 3396,
     "mediaId": 65,
-    "date": "d2022-05-15T14:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "",
     "title": "Is Trump faceoff with Pence in Georgia GOP gubernatorial showdown an early 2024 skirmish?",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7972,
+    "mediaId": 237,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Virginia Aabram",
+    "title": "Pompeo endorses Rep. Ronny Jackson for reelection in Texas",
     "sentiment": "0.0"
   }
 ]

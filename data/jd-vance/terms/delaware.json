@@ -1,8 +1,17 @@
 [
   {
+    "id": 6024,
+    "mediaId": 25,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Adam Brewster",
+    "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
+    "sentiment": "0.362"
+  },
+  {
     "id": 6416,
     "mediaId": 136,
-    "date": "d2022-04-13T22:12",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Aila Slisco",
     "title": "With GOP Candidates Vying for His Backing, Donald Trump Plans Rally in Ohio",
@@ -11,16 +20,34 @@
   {
     "id": 6307,
     "mediaId": 124,
-    "date": "d2022-04-18T17:58:30",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Trump Jr. to campaign with J.D. Vance in Ohio following father's endorsement",
     "sentiment": "0"
   },
   {
+    "id": 6189,
+    "mediaId": 65,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Kyle Morris",
+    "title": "Former President Trump addresses supporters at Ohio rally",
+    "sentiment": "0"
+  },
+  {
+    "id": 6192,
+    "mediaId": 237,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Kate Scanlon",
+    "title": "Mike Gibbons optimistic after Trump endorses rival: We havent changed our plans",
+    "sentiment": "0"
+  },
+  {
     "id": 6212,
     "mediaId": 19,
-    "date": "d2022-04-23T00:00",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Ethan Letkeman",
     "title": "Watch Live: Donald Trump Holds Save America Rally in Delaware, Ohio",
@@ -29,109 +56,82 @@
   {
     "id": 6216,
     "mediaId": 157,
-    "date": "d2022-04-23T00:00",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "'Booing is entirely appropriate!': Ohio conservative group urging disruption at Trump rally",
     "sentiment": "-0.874"
   },
   {
-    "id": 6192,
-    "mediaId": 237,
-    "date": "d2022-04-23T20:14",
-    "sentence": "",
-    "author": "Kate Scanlon",
-    "title": "Mike Gibbons optimistic after Trump endorses rival: We havent changed our plans",
-    "sentiment": "0"
-  },
-  {
-    "id": 6189,
-    "mediaId": 65,
-    "date": "d2022-04-23T22:45",
-    "sentence": "",
-    "author": "Kyle Morris",
-    "title": "Former President Trump addresses supporters at Ohio rally",
-    "sentiment": "0"
-  },
-  {
-    "id": 6186,
-    "mediaId": 19,
-    "date": "d2022-04-24T00:00",
-    "sentence": "",
-    "author": "Kristina Wong",
-    "title": "J.D.! J.D.! J.D.!: Ohio Rally-Goers Cheer Trump-Endorsed Senate Candidate J.D. Vance",
-    "sentiment": "-0.87"
-  },
-  {
-    "id": 6182,
-    "mediaId": 136,
-    "date": "d2022-04-24T01:47",
-    "sentence": "",
-    "author": "Scott McDonald",
-    "title": "Trump Says J.D. Vance 'Said Some Bad Sh*t About Me' During His Endorsement",
-    "sentiment": "0"
-  },
-  {
-    "id": 6181,
-    "mediaId": 165,
-    "date": "d2022-04-24T01:55",
-    "sentence": "",
-    "author": "Ryan Bort",
-    "title": "Trump Rambles About Toilets Not Flushing During Ohio Rally  Oh, and Also: Hijacking Americas Election Systems",
-    "sentiment": "-0.356"
-  },
-  {
-    "id": 6180,
-    "mediaId": 21,
-    "date": "d2022-04-24T02:00",
-    "sentence": "",
-    "author": "Hannah Getahun",
-    "title": "Trump said he took a cognitive test because he didn't 'like being called stupid'",
-    "sentiment": "0"
-  },
-  {
-    "id": 6178,
-    "mediaId": 21,
-    "date": "d2022-04-24T06:00",
-    "sentence": "",
-    "author": "Hannah Getahun",
-    "title": "Trump acknowledged JD Vance's past comments disparaging him but has 'put that aside'",
-    "sentiment": "0"
-  },
-  {
-    "id": 6177,
-    "mediaId": 558,
-    "date": "d2022-04-24T07:25",
-    "sentence": "",
-    "author": "Tom LoBianco",
-    "title": "Trump pushes Vance for Senate in Ohio, but supporters are more excited for cowboy governor candidate",
-    "sentiment": "0"
-  },
-  {
     "id": 6171,
     "mediaId": 165,
-    "date": "d2022-04-24T16:27",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Jack Crosbie",
     "title": "Trump Squeezes In J.D. Vance Endorsement Between Rants About Water Pressure in Ohio",
     "sentiment": "0"
   },
   {
+    "id": 6177,
+    "mediaId": 558,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Tom LoBianco",
+    "title": "Trump pushes Vance for Senate in Ohio, but supporters are more excited for cowboy governor candidate",
+    "sentiment": "0"
+  },
+  {
+    "id": 6178,
+    "mediaId": 21,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Hannah Getahun",
+    "title": "Trump acknowledged JD Vance's past comments disparaging him but has 'put that aside'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6180,
+    "mediaId": 21,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Hannah Getahun",
+    "title": "Trump said he took a cognitive test because he didn't 'like being called stupid'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6181,
+    "mediaId": 165,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Ryan Bort",
+    "title": "Trump Rambles About Toilets Not Flushing During Ohio Rally  Oh, and Also: Hijacking Americas Election Systems",
+    "sentiment": "-0.356"
+  },
+  {
+    "id": 6182,
+    "mediaId": 136,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Scott McDonald",
+    "title": "Trump Says J.D. Vance 'Said Some Bad Sh*t About Me' During His Endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 6186,
+    "mediaId": 19,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Kristina Wong",
+    "title": "J.D.! J.D.! J.D.!: Ohio Rally-Goers Cheer Trump-Endorsed Senate Candidate J.D. Vance",
+    "sentiment": "-0.87"
+  },
+  {
     "id": 6124,
     "mediaId": 238,
-    "date": "d2022-04-27T15:53",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "",
     "title": "Opinion Once the toast of liberal parties, J.D. Vance has gone full MAGA",
     "sentiment": "0"
-  },
-  {
-    "id": 6024,
-    "mediaId": 25,
-    "date": "d2022-05-02T00:00",
-    "sentence": "",
-    "author": "Adam Brewster",
-    "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
-    "sentiment": "0.362"
   }
 ]

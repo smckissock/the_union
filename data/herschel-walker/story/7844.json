@@ -1,23 +1,18 @@
 {
   "id": 7844,
   "mediaId": 120,
-  "date": "d2022-04-04T12:00",
+  "date": "4/4/2022 12:00:00 AM",
   "headline": "Herschel Walkers latest fumble is over his education",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-04/220404-herschel-walker-mb-1236-6ebee6.jpg",
   "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/herschel-walkers-latest-fumble-education-rcna22806",
-  "sentiment": "-0.843",
+  "sentiment": "0.0",
   "mediaOutlet": "MSNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Steve Benen",
   "authorUrl": "https://www.msnbc.com/author/steve-benen-ncpn433601",
   "termIds": [
-    815,
-    2419,
-    428,
-    501,
-    584,
-    2672
+    815
   ],
   "sentences": [
     "Walker, who is a candidate in the Republican primary race for US Senate in Georgia, acknowledged in December that he did not graduate from Georgia after the Atlanta-Journal Constitution first reported that the false claim was listed on his campaign website.",

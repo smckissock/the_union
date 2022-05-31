@@ -1,27 +1,18 @@
 {
   "id": 8186,
   "mediaId": 19,
-  "date": "d2022-02-06T00:00",
+  "date": "2/6/2022 12:00:00 AM",
   "headline": "Vulnerable Democrats Distance from Joe Biden Ahead of Midterms",
   "image": "https://media.breitbart.com/media/2021/04/Joe-Biden-3-640x480.jpg",
   "link": "https://www.breitbart.com/midterm-election/2022/02/06/vulnerable-democrats-distance-joe-biden-midterms/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Bois",
   "authorUrl": "https://www.breitbart.com/author/pbois/",
   "termIds": [
-    815,
-    886,
-    991,
-    1147,
-    2087,
-    141,
-    146,
-    571,
-    2550,
-    2672
+    815
   ],
   "sentences": [
     "This November, at least two Senate Democrats stand to lose their seats in swing states that the increasingly unpopular President Biden won by slim margins: Sen. Raphael Warnock of Georgia and Sen. Mark Kelly of Arizona  neither of which have called for the presidents aid.",

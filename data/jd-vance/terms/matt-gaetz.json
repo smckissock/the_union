@@ -1,89 +1,35 @@
 [
   {
-    "id": 736,
-    "mediaId": 21,
-    "date": "d2022-01-25T13:52",
-    "sentence": "",
-    "author": "Jake Lahut",
-    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
-    "sentiment": "0.655"
-  },
-  {
-    "id": 735,
-    "mediaId": 21,
-    "date": "d2022-01-25T21:00",
-    "sentence": "",
-    "author": "Jake Lahut",
-    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
-    "sentiment": "0.402"
-  },
-  {
-    "id": 6408,
-    "mediaId": 223,
-    "date": "d2022-04-14T18:30",
-    "sentence": "",
-    "author": "Rebecca Downs",
-    "title": "Trump Looks to Be About to Make a Major Endorsement in Key Senate Race",
-    "sentiment": "-0.245"
-  },
-  {
-    "id": 6213,
-    "mediaId": 209,
-    "date": "d2022-04-23T00:00",
-    "sentence": "",
-    "author": "Steve Larkin",
-    "title": "Morality just isn't Republicans' thing anymore",
-    "sentiment": "0"
-  },
-  {
-    "id": 6123,
-    "mediaId": 65,
-    "date": "d2022-04-27T17:00",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Ohio Senate showdown: Matt Gaetz, Marjorie Taylor Greene to campaign with JD Vance before key GOP primary",
-    "sentiment": "0.888"
-  },
-  {
-    "id": 6120,
-    "mediaId": 195,
-    "date": "d2022-04-27T18:26",
-    "sentence": "",
-    "author": "Max Greenwood",
-    "title": "Gaetz, Greene to stump for Vance in Ohio ahead of GOP Senate primary",
-    "sentiment": "0"
-  },
-  {
-    "id": 6064,
-    "mediaId": 65,
-    "date": "d2022-04-30T19:50",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "House firebrands Gaetz, Greene say Vance is the Senate ally they need in rowdy campaign stop",
-    "sentiment": "-0.178"
-  },
-  {
-    "id": 5997,
-    "mediaId": 169,
-    "date": "d2022-05-02T17:58",
-    "sentence": "",
-    "author": "Jon Skolnik",
-    "title": "Marjorie Taylor Greene jumps in the middle of heated Ohio GOP primary race",
-    "sentiment": "0.958"
-  },
-  {
     "id": 5991,
     "mediaId": 124,
-    "date": "d2022-05-02T21:50:07",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Vance works to lock up Ohio GOP Senate race as Trump-averse candidate rises",
     "sentiment": "-0.335"
   },
   {
+    "id": 5997,
+    "mediaId": 169,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Jon Skolnik",
+    "title": "Marjorie Taylor Greene jumps in the middle of heated Ohio GOP primary race",
+    "sentiment": "0.958"
+  },
+  {
+    "id": 5753,
+    "mediaId": 233,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Rex Huppke",
+    "title": "Trickle-down creeponomics: Gaetz calls women protesting Roe draft opinion over-educated",
+    "sentiment": "0.415"
+  },
+  {
     "id": 5846,
     "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Eric Lutz",
     "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
@@ -92,7 +38,7 @@
   {
     "id": 5851,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Bob Brigham",
     "title": "Far-right takes a victory lap as JD Vance begins grueling general election battle against Tim Ryan",
@@ -101,25 +47,25 @@
   {
     "id": 5872,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Sky Palma",
     "title": "Matt Gaetz lashes out at the media after JD Vance leaves him out of victory speech",
     "sentiment": "-0.634"
   },
   {
-    "id": 5753,
-    "mediaId": 233,
-    "date": "d2022-05-04T22:18",
+    "id": 6408,
+    "mediaId": 223,
+    "date": "2022-00-14",
     "sentence": "",
-    "author": "Rex Huppke",
-    "title": "Trickle-down creeponomics: Gaetz calls women protesting Roe draft opinion over-educated",
-    "sentiment": "0.415"
+    "author": "Rebecca Downs",
+    "title": "Trump Looks to Be About to Make a Major Endorsement in Key Senate Race",
+    "sentiment": "-0.245"
   },
   {
     "id": 5511,
     "mediaId": 238,
-    "date": "d2022-05-16T22:44",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Dana Milbank",
     "title": "Opinion Republicans are bringing extremism to the mainstream",
@@ -128,7 +74,7 @@
   {
     "id": 5492,
     "mediaId": 169,
-    "date": "d2022-05-17T06:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Eoin Higgins",
     "title": "What \"great replacement\"? Right wants us to shut up about Buffalo shooter's ideology",
@@ -137,10 +83,64 @@
   {
     "id": 5472,
     "mediaId": 302,
-    "date": "d2022-05-18T10:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "In wake of the Buffalo mass shooting, lets pity the poor white people ... again | Column",
     "sentiment": "0"
+  },
+  {
+    "id": 6213,
+    "mediaId": 209,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Steve Larkin",
+    "title": "Morality just isn't Republicans' thing anymore",
+    "sentiment": "0"
+  },
+  {
+    "id": 735,
+    "mediaId": 21,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Jake Lahut",
+    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
+    "sentiment": "0.402"
+  },
+  {
+    "id": 736,
+    "mediaId": 21,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Jake Lahut",
+    "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
+    "sentiment": "0.655"
+  },
+  {
+    "id": 6120,
+    "mediaId": 195,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Max Greenwood",
+    "title": "Gaetz, Greene to stump for Vance in Ohio ahead of GOP Senate primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 6123,
+    "mediaId": 65,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Ohio Senate showdown: Matt Gaetz, Marjorie Taylor Greene to campaign with JD Vance before key GOP primary",
+    "sentiment": "0.888"
+  },
+  {
+    "id": 6064,
+    "mediaId": 65,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "House firebrands Gaetz, Greene say Vance is the Senate ally they need in rowdy campaign stop",
+    "sentiment": "-0.178"
   }
 ]

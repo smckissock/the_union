@@ -1,27 +1,18 @@
 {
   "id": 7848,
   "mediaId": 129,
-  "date": "d2022-04-03T00:00",
+  "date": "4/3/2022 12:00:00 AM",
   "headline": "Herschel Walker, the Worst Candidate, Trump-Approved",
   "image": "https://static01.nyt.com/images/2022/04/03/opinion/03blow1/03blow1-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/04/03/opinion/herschel-walker-georgia.html",
-  "sentiment": "-0.649",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815,
-    1058,
-    1136,
-    1147,
-    106,
-    501,
-    584,
-    5183,
-    5654,
-    2672
+    815
   ],
   "sentences": [
     "In his 2008 book about suffering from dissociative identity disorder, Walker says that he grew up as a fat kid who stuttered (twin sins in his judgment), that his teachers looked through him as if he hadnt been there and that the older children ridiculed him as stupid.",

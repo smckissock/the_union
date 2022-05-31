@@ -1,107 +1,26 @@
 [
   {
-    "id": 4444,
-    "mediaId": 65,
-    "date": "d2022-04-29T04:35",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "Ingraham: DeSantis has embraced policies that once seemed unthinkable",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4444,
-    "mediaId": 65,
-    "date": "d2022-04-29T04:35",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "Ingraham: DeSantis has embraced policies that once seemed unthinkable",
-    "sentiment": "0.588"
-  },
-  {
-    "id": 4443,
-    "mediaId": 65,
-    "date": "d2022-04-29T05:21",
-    "sentence": "",
-    "author": "",
-    "title": "DeSantis blasts Disney execs attack on parents: 'Walt Disney would not want that'",
-    "sentiment": "0"
-  },
-  {
-    "id": 4443,
-    "mediaId": 65,
-    "date": "d2022-04-29T05:21",
-    "sentence": "",
-    "author": "",
-    "title": "DeSantis blasts Disney execs attack on parents: 'Walt Disney would not want that'",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4433,
-    "mediaId": 136,
-    "date": "d2022-04-29T08:36",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
-    "author": "Ewan Palmer",
-    "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
-    "sentiment": "-0.542"
-  },
-  {
-    "id": 4433,
-    "mediaId": 136,
-    "date": "d2022-04-29T08:36",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
-    "author": "Ewan Palmer",
-    "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4393,
-    "mediaId": 65,
-    "date": "d2022-04-29T14:50",
-    "sentence": "",
-    "author": "Lynne Jordal Martin",
-    "title": "What Joe knew about Hunter, say 'no' to college and more Fox News Opinion",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4383,
-    "mediaId": 65,
-    "date": "d2022-04-29T16:08",
-    "sentence": "INGRAHAM: <span class='selected-term'>RON DESANTIS</span> HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",
-    "author": "Nikolas Lanum",
-    "title": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
-    "sentiment": "0"
-  },
-  {
-    "id": 4383,
-    "mediaId": 65,
-    "date": "d2022-04-29T16:08",
-    "sentence": "INGRAHAM: <span class='selected-term'>RON DESANTIS</span> HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",
-    "author": "Nikolas Lanum",
-    "title": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4324,
-    "mediaId": 43,
-    "date": "d2022-05-01T00:00",
-    "sentence": "Excerpts From Trevor Noah's Speech:\n\"[<span class='selected-term'>Ron DeSantis</span> has] been so busy trying to outmaneuver Trump for 2024.",
-    "author": "",
-    "title": "The Condensed White House Correspondent's Dinner Remarks About Fox News and Crybaby Trump",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4286,
     "mediaId": 98,
-    "date": "d2022-05-01T18:16",
+    "date": "2022-00-01",
     "sentence": "That should have been a pretty big sign.?\nThroughout his 25-minute performance, Noah managed to lampoon a striking number of media and political figures  including but not limited to Donald Trump, Jeffrey Toobin, Tucker Carlson, Laura Ingraham, Chris Cuomo, Kyrsten Sinema, Kellyanne Conway, Madison Cawthorn, <span class='selected-term'>Ron DeSantis</span>, Jen Psaki, First Lady Jill Biden and of course, President Joe Biden.",
     "author": "Christi CarrasStaff Writer",
     "title": "Trevor Noah roasts pretty much everyone at White House Correspondents Dinner",
     "sentiment": "0.0"
   },
   {
+    "id": 4324,
+    "mediaId": 43,
+    "date": "2022-00-01",
+    "sentence": "Excerpts From Trevor Noah's Speech:\n\"[<span class='selected-term'>Ron DeSantis</span> has] been so busy trying to outmaneuver Trump for 2024.",
+    "author": "",
+    "title": "The Condensed White House Correspondent's Dinner Remarks About Fox News and Crybaby Trump",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4246,
     "mediaId": 558,
-    "date": "d2022-05-02T00:34",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Mary Ellen Klas",
     "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
@@ -110,43 +29,43 @@
   {
     "id": 4246,
     "mediaId": 558,
-    "date": "d2022-05-02T00:34",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Mary Ellen Klas",
     "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
     "sentiment": "0.0"
   },
   {
-    "id": 4140,
-    "mediaId": 65,
-    "date": "d2022-05-03T10:08",
-    "sentence": "",
-    "author": "Jack Durschlag",
-    "title": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4133,
-    "mediaId": 238,
-    "date": "d2022-05-03T12:00",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion Surprise, surprise: Florida leads the nation in Jan. 6 defendants",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4107,
     "mediaId": 21,
-    "date": "d2022-05-03T20:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Grace Panetta",
     "title": "Conservative media talking heads play defense on overturning Roe: 'The sky will not have fallen'",
     "sentiment": "0.0"
   },
   {
+    "id": 4133,
+    "mediaId": 238,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion Surprise, surprise: Florida leads the nation in Jan. 6 defendants",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4140,
+    "mediaId": 65,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Jack Durschlag",
+    "title": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say",
+    "sentiment": "0.0"
+  },
+  {
     "id": 3632,
     "mediaId": 129,
-    "date": "d2022-05-12T20:55",
+    "date": "2022-00-12",
     "sentence": "Even if you would never consider voting for him, its important to understand the sources of his appeal and the direction of his politics, because one way or the other  whether he ever runs for president or not  <span class='selected-term'>Ron DeSantis</span> is the new Republican Party.",
     "author": "",
     "title": "Republicans Need a New Leader. Theyre Looking to Florida.",
@@ -155,7 +74,7 @@
   {
     "id": 3632,
     "mediaId": 129,
-    "date": "d2022-05-12T20:55",
+    "date": "2022-00-12",
     "sentence": "Even if you would never consider voting for him, its important to understand the sources of his appeal and the direction of his politics, because one way or the other  whether he ever runs for president or not  <span class='selected-term'>Ron DeSantis</span> is the new Republican Party.",
     "author": "",
     "title": "Republicans Need a New Leader. Theyre Looking to Florida.",
@@ -164,7 +83,7 @@
   {
     "id": 3590,
     "mediaId": 98,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Doyle McManusWashington Columnist",
     "title": "Column: Ron DeSantis is setting the agenda for the GOP, and Democrats should worry",
@@ -173,10 +92,91 @@
   {
     "id": 3590,
     "mediaId": 98,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Doyle McManusWashington Columnist",
     "title": "Column: Ron DeSantis is setting the agenda for the GOP, and Democrats should worry",
     "sentiment": "0.0"
+  },
+  {
+    "id": 4383,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "INGRAHAM: <span class='selected-term'>RON DESANTIS</span> HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",
+    "author": "Nikolas Lanum",
+    "title": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
+    "sentiment": "0"
+  },
+  {
+    "id": 4383,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "INGRAHAM: <span class='selected-term'>RON DESANTIS</span> HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",
+    "author": "Nikolas Lanum",
+    "title": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4393,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Lynne Jordal Martin",
+    "title": "What Joe knew about Hunter, say 'no' to college and more Fox News Opinion",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4433,
+    "mediaId": 136,
+    "date": "2022-00-29",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
+    "author": "Ewan Palmer",
+    "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
+    "sentiment": "-0.542"
+  },
+  {
+    "id": 4433,
+    "mediaId": 136,
+    "date": "2022-00-29",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
+    "author": "Ewan Palmer",
+    "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4443,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis blasts Disney execs attack on parents: 'Walt Disney would not want that'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4443,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis blasts Disney execs attack on parents: 'Walt Disney would not want that'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4444,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "Ingraham: DeSantis has embraced policies that once seemed unthinkable",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4444,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "Ingraham: DeSantis has embraced policies that once seemed unthinkable",
+    "sentiment": "0.588"
   }
 ]

@@ -1,8 +1,17 @@
 [
   {
+    "id": 5913,
+    "mediaId": 120,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Steve Benen",
+    "title": "Why campaign watchers are keeping an eye on Ohio, Indiana today",
+    "sentiment": "0"
+  },
+  {
     "id": 5958,
     "mediaId": 19,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Alana Mastrangelo",
     "title": "Ohio Gov. Mike DeWine Wins Ohio Republican Primary",
@@ -11,37 +20,28 @@
   {
     "id": 5973,
     "mediaId": 98,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Melanie MasonStaff Writer",
     "title": "Trumps endorsement of Hillbilly Elegy writer tested his power in the GOP",
     "sentiment": "-0.487"
   },
   {
-    "id": 5913,
+    "id": 5789,
     "mediaId": 120,
-    "date": "d2022-05-03T19:12",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Steve Benen",
-    "title": "Why campaign watchers are keeping an eye on Ohio, Indiana today",
+    "title": "Michigan Republican defeated after lie back and enjoy it talk",
     "sentiment": "0"
   },
   {
     "id": 5824,
     "mediaId": 233,
-    "date": "d2022-05-04T02:30",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "David Jackson",
     "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November",
     "sentiment": "0.241"
-  },
-  {
-    "id": 5789,
-    "mediaId": 120,
-    "date": "d2022-05-04T13:22",
-    "sentence": "",
-    "author": "Steve Benen",
-    "title": "Michigan Republican defeated after lie back and enjoy it talk",
-    "sentiment": "0"
   }
 ]

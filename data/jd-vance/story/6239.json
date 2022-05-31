@@ -1,27 +1,18 @@
 {
   "id": 6239,
   "mediaId": 239,
-  "date": "d2022-04-22T00:04:21",
+  "date": "4/22/2022 12:00:00 AM",
   "headline": "Trump touts Vance at Ohio rally",
   "image": "https://twt-thumbs.washtimes.com/media/image/2022/04/23/Trump_47631.jpg-1f892_c0-151-3600-2249_s885x516.jpg?27d773053ef491d0ba12c3bdb38ffd359e94f779",
   "link": "https://www.washingtontimes.com/news/2022/apr/23/trump-touts-jd-vance-ohio-rally/",
-  "sentiment": "0.386",
+  "sentiment": "0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joseph Clark",
   "authorUrl": "https://www.washingtontimes.com/staff/joseph-clark/",
   "termIds": [
-    946,
-    1147,
-    1158,
-    1801,
-    3103,
-    379,
-    380,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "This state loves the president and on May 3, vote JD Vance for US Senate ladies and gentlemen, because I am the American first candidate.?\nMr. Vance was a staunch critic of Mr. Trump in the lead-up to the 2016 election, slamming Mr. Trump as an idiot.? The Yale Law graduate floated the idea of voting for Democratic presidential candidate Hillary Clinton in the 2016 runoff against Mr. Trump.",

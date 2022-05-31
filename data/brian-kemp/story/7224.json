@@ -1,11 +1,11 @@
 {
   "id": 7224,
   "mediaId": 129,
-  "date": "d2022-05-22T00:00",
+  "date": "5/22/2022 12:00:00 AM",
   "headline": "What Donald Trump Didnt Count On in Georgia",
   "image": "https://static01.nyt.com/images/2022/05/20/us/00georgia-trump-1/merlin_207163095_0eeb4499-8ea8-475c-9261-6d379cfc81f6-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/22/us/what-donald-trump-didnt-count-on-in-georgia.html",
-  "sentiment": "0.919",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,9 @@
   "authorUrl": "",
   "termIds": [
     815,
-    1147,
-    1801,
     2095,
     3102,
-    3103,
-    4325,
-    2672,
-    2845,
-    2900,
-    5538
+    3103
   ],
   "sentences": [
     "And it is his gift for both reflecting and rewarding his conservative Georgia constituency that has given him a surprisingly cushy lead in the polls in advance of Tuesdays Republican primary, even as Mr. Trump, who remains tremendously popular in Georgia, continues to disparage him as a Republican in name only? and demands that voters punish Mr. Kemp for declining to help him overturn the states presidential election results of November 2020.",

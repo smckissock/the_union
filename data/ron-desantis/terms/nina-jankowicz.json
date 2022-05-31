@@ -1,35 +1,8 @@
 [
   {
-    "id": 4395,
-    "mediaId": 65,
-    "date": "d2022-04-29T14:47",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> press secretary also weighed in on the video: \"I mean, she wrote a whole book based on the premise that you can be a CIA agent and also ~marginalized~ at the same time so shes the perfect censor kween for the Biden regime,\" Christina Pushaw wrote.",
-    "author": "Nikolas Lanum",
-    "title": "Twitter users shocked by ridiculous TikTok of new disinformation czar singing: God help us",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4382,
-    "mediaId": 675,
-    "date": "d2022-04-29T16:10",
-    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
-    "author": "WND News Services",
-    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
-    "sentiment": "0"
-  },
-  {
-    "id": 4382,
-    "mediaId": 675,
-    "date": "d2022-04-29T16:10",
-    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
-    "author": "WND News Services",
-    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4293,
     "mediaId": 195,
-    "date": "d2022-05-01T12:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Joe Concha",
     "title": "Joe Bidens Ministry of Truth",
@@ -38,7 +11,7 @@
   {
     "id": 4248,
     "mediaId": 223,
-    "date": "d2022-05-02T00:01",
+    "date": "2022-00-02",
     "sentence": "Or do you have faith in the proven leadership of Donald Trump, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Virginia Governor Glenn Youngkin and dozens of other Republicans who stand ready to swing the pendulum of America back to sanity in 2022.",
     "author": "Tom Tradup",
     "title": "Democrats Gleefully Bankrupting America",
@@ -47,7 +20,7 @@
   {
     "id": 3796,
     "mediaId": 19,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Hannah Bleau",
     "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board",
@@ -56,7 +29,7 @@
   {
     "id": 3796,
     "mediaId": 19,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Hannah Bleau",
     "title": "FL Gov. Ron DeSantis Designates Nov. 7 Victims of Communism Day, Slams Bidens Disinformation Board",
@@ -65,10 +38,37 @@
   {
     "id": 3799,
     "mediaId": 19,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
     "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4382,
+    "mediaId": 675,
+    "date": "2022-00-29",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
+    "author": "WND News Services",
+    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
+    "sentiment": "0"
+  },
+  {
+    "id": 4382,
+    "mediaId": 675,
+    "date": "2022-00-29",
+    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
+    "author": "WND News Services",
+    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4395,
+    "mediaId": 65,
+    "date": "2022-00-29",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> press secretary also weighed in on the video: \"I mean, she wrote a whole book based on the premise that you can be a CIA agent and also ~marginalized~ at the same time so shes the perfect censor kween for the Biden regime,\" Christina Pushaw wrote.",
+    "author": "Nikolas Lanum",
+    "title": "Twitter users shocked by ridiculous TikTok of new disinformation czar singing: God help us",
     "sentiment": "0.0"
   }
 ]

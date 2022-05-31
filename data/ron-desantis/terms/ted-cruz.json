@@ -1,35 +1,8 @@
 [
   {
-    "id": 4338,
-    "mediaId": 169,
-    "date": "d2022-04-30T09:48",
-    "sentence": "Bill Maher referenced a Salon article on Friday's episode of \"Real Time With Bill Maher\" as part of a segment in which Maher discusses Ted Cruz and <span class='selected-term'>Ron DeSantis</span>' building concerns over a \"sexy Disney.\"",
-    "author": "Kelly McClure",
-    "title": "Bill Maher on DeSantis, Cruz and \"sexy Disney\"",
-    "sentiment": "-0.626"
-  },
-  {
-    "id": 4338,
-    "mediaId": 169,
-    "date": "d2022-04-30T09:48",
-    "sentence": "Bill Maher referenced a Salon article on Friday's episode of \"Real Time With Bill Maher\" as part of a segment in which Maher discusses Ted Cruz and <span class='selected-term'>Ron DeSantis</span>' building concerns over a \"sexy Disney.\"",
-    "author": "Kelly McClure",
-    "title": "Bill Maher on DeSantis, Cruz and \"sexy Disney\"",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4327,
-    "mediaId": 18,
-    "date": "d2022-04-30T19:37:23",
-    "sentence": "",
-    "author": "Joe Battenfeld",
-    "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3620,
     "mediaId": 19,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Hannah Bleau",
     "title": "Poll: Donald Trump Maintains Majority Support as Partys Frontrunner",
@@ -38,7 +11,7 @@
   {
     "id": 3620,
     "mediaId": 19,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Hannah Bleau",
     "title": "Poll: Donald Trump Maintains Majority Support as Partys Frontrunner",
@@ -47,7 +20,7 @@
   {
     "id": 3557,
     "mediaId": 223,
-    "date": "d2022-05-16T00:01",
+    "date": "2022-00-16",
     "sentence": "We need to get as high on that hierarchy as we can while still winning:\nRadical MAGA King (Think Trump, <span class='selected-term'>Ron DeSantis</span>, Mike Lee, Ted Cruz)\nNormal Republican (Think Murder Turtle and those interchangeable suits who always vote right)\nAnnoying RINO (Think Mitt Romney or Lindsey Graham or Oz)\nJeb!",
     "author": "Kurt Schlichter",
     "title": "Conservatives, Stop Falling in Love with Politicians",
@@ -56,7 +29,7 @@
   {
     "id": 3557,
     "mediaId": 223,
-    "date": "d2022-05-16T00:01",
+    "date": "2022-00-16",
     "sentence": "We need to get as high on that hierarchy as we can while still winning:\nRadical MAGA King (Think Trump, <span class='selected-term'>Ron DeSantis</span>, Mike Lee, Ted Cruz)\nNormal Republican (Think Murder Turtle and those interchangeable suits who always vote right)\nAnnoying RINO (Think Mitt Romney or Lindsey Graham or Oz)\nJeb!",
     "author": "Kurt Schlichter",
     "title": "Conservatives, Stop Falling in Love with Politicians",
@@ -65,7 +38,7 @@
   {
     "id": 3358,
     "mediaId": 98,
-    "date": "d2022-05-17T03:10",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Column: Trump's goal is to solidify control over the GOP, not help it win elections",
@@ -74,7 +47,7 @@
   {
     "id": 3480,
     "mediaId": 302,
-    "date": "d2022-05-18T10:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Trumps goal is to solidify control over the GOP, not help it win elections | Column",
@@ -83,7 +56,7 @@
   {
     "id": 3480,
     "mediaId": 302,
-    "date": "d2022-05-18T10:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "",
     "title": "Trumps goal is to solidify control over the GOP, not help it win elections | Column",
@@ -92,10 +65,37 @@
   {
     "id": 8462,
     "mediaId": 558,
-    "date": "d2022-05-27T23:00",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "David Smith",
     "title": "Republican primaries offer look into future of Trumpism without Trump",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4327,
+    "mediaId": 18,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Joe Battenfeld",
+    "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4338,
+    "mediaId": 169,
+    "date": "2022-00-30",
+    "sentence": "Bill Maher referenced a Salon article on Friday's episode of \"Real Time With Bill Maher\" as part of a segment in which Maher discusses Ted Cruz and <span class='selected-term'>Ron DeSantis</span>' building concerns over a \"sexy Disney.\"",
+    "author": "Kelly McClure",
+    "title": "Bill Maher on DeSantis, Cruz and \"sexy Disney\"",
+    "sentiment": "-0.626"
+  },
+  {
+    "id": 4338,
+    "mediaId": 169,
+    "date": "2022-00-30",
+    "sentence": "Bill Maher referenced a Salon article on Friday's episode of \"Real Time With Bill Maher\" as part of a segment in which Maher discusses Ted Cruz and <span class='selected-term'>Ron DeSantis</span>' building concerns over a \"sexy Disney.\"",
+    "author": "Kelly McClure",
+    "title": "Bill Maher on DeSantis, Cruz and \"sexy Disney\"",
     "sentiment": "0.0"
   }
 ]

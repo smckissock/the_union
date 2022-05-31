@@ -1,11 +1,11 @@
 {
   "id": 5476,
   "mediaId": 238,
-  "date": "d2022-05-18T00:00",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/18/6-takeaways-primaries-pennsylvania-north-carolina/",
-  "sentiment": "0.821",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,18 +13,10 @@
   "authorUrl": "https://www.washingtonpost.com/people/aaron-blake/",
   "termIds": [
     821,
-    1147,
-    1801,
-    1878,
-    1903,
     2303,
     3102,
     3103,
-    3104,
-    2706,
-    2816,
-    2834,
-    2862
+    3104
   ],
   "sentences": [
     "This is not the only Pennsylvania race that has Republicans staring down the barrel of a seemingly less-electable candidate: In the contest for the partys Senate nomination, Oz might not have had Kathy Barnettes murky personal history and record of extremist statements, but some polls showed more Republicans disliked than liked him, which is highly unusual.",

@@ -1,26 +1,18 @@
 {
   "id": 7376,
   "mediaId": 147,
-  "date": "d2022-05-25T00:43",
+  "date": "5/25/2022 12:00:00 AM",
   "headline": "Brian Kemp wins Georgia GOP governor's race against Trump-backed challenger",
   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/01/2022-01-05T180200Z_1636768802_RC22TR9AEQGT_RTRMADP_3_USA-POLITICS-GEORGIA-1200x800.jpg",
   "link": "https://www.pbs.org/newshour/politics/brian-kemp-wins-georgia-gop-governors-race-against-trump-backed-challenger",
-  "sentiment": "-0.412",
+  "sentiment": "0.0",
   "mediaOutlet": "PBS NewsHour",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Steve Peoples",
   "authorUrl": "https://www.pbs.org/newshour/author/steve-peoples",
   "termIds": [
-    1147,
-    1951,
-    2095,
-    4325,
-    146,
-    227,
-    428,
-    2555,
-    2672
+    2095
   ],
   "sentences": [
     "FOLLOW LIVE: 2022 Georgia Primary Election Results\nPerdue was courted by Trump to enter the race as retribution for Kemp not going along with the former president's effort to overturn his defeat in Georgia's 2020 election.",

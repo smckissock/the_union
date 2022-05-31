@@ -1,17 +1,8 @@
 [
   {
-    "id": 6107,
-    "mediaId": 120,
-    "date": "d2022-04-28T09:15",
-    "sentence": "",
-    "author": "Hayes Brown",
-    "title": "If Biden has a student loan forgiveness plan, now is the time announce it",
-    "sentiment": "0"
-  },
-  {
     "id": 5511,
     "mediaId": 238,
-    "date": "d2022-05-16T22:44",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Dana Milbank",
     "title": "Opinion Republicans are bringing extremism to the mainstream",
@@ -20,7 +11,7 @@
   {
     "id": 5509,
     "mediaId": 19,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Matthew Boyle",
     "title": "*** Election Night Livewire *** Pennsylvania, North Carolina, Kentucky, Idaho, Oregon Vote in Contentious Primaries",
@@ -29,7 +20,7 @@
   {
     "id": 6478,
     "mediaId": 136,
-    "date": "d2022-05-17T15:13",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Ewan Palmer",
     "title": "Trump Endorsements Face Toughest Test Yet in 27 Primary Election Battles",
@@ -38,7 +29,7 @@
   {
     "id": 5476,
     "mediaId": 238,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Aaron Blake",
     "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
@@ -47,16 +38,25 @@
   {
     "id": 6610,
     "mediaId": 195,
-    "date": "d2022-05-18T23:17",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Julia Manchester",
     "title": "Primaries fuel questions about potency of Trump endorsements",
     "sentiment": "0"
   },
   {
+    "id": 6107,
+    "mediaId": 120,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Hayes Brown",
+    "title": "If Biden has a student loan forgiveness plan, now is the time announce it",
+    "sentiment": "0"
+  },
+  {
     "id": 8461,
     "mediaId": 129,
-    "date": "d2022-05-28T00:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Trump's Primary Losses Puncture His Invincibility",

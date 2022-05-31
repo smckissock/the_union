@@ -1,26 +1,8 @@
 [
   {
-    "id": 4209,
-    "mediaId": 558,
-    "date": "d2022-05-02T16:21",
-    "sentence": "",
-    "author": "Mike Springer",
-    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4209,
-    "mediaId": 558,
-    "date": "d2022-05-02T16:21",
-    "sentence": "",
-    "author": "Mike Springer",
-    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees",
-    "sentiment": "0.612"
-  },
-  {
     "id": 4202,
     "mediaId": 1067,
-    "date": "d2022-05-02T17:14",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Kevin Spear",
     "title": "Florida responds to manatee death toll with $30 million",
@@ -29,16 +11,34 @@
   {
     "id": 4202,
     "mediaId": 1067,
-    "date": "d2022-05-02T17:14",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Kevin Spear",
     "title": "Florida responds to manatee death toll with $30 million",
     "sentiment": "0.0"
   },
   {
+    "id": 4209,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Mike Springer",
+    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4209,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Mike Springer",
+    "title": "Gov. DeSantis pledges $30 million to help save Florida manatees",
+    "sentiment": "0.612"
+  },
+  {
     "id": 3507,
     "mediaId": 302,
-    "date": "d2022-05-17T11:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Pinellas schools to get new superintendent today",

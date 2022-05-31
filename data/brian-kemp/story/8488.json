@@ -1,26 +1,18 @@
 {
   "id": 8488,
   "mediaId": 136,
-  "date": "d2022-05-28T17:19",
+  "date": "5/28/2022 12:00:00 AM",
   "headline": "Donations to Trump Fell Prior to Embarrassing GOP Primary Losses: Report",
   "image": "https://d.newsweek.com/en/full/2047662/donald-trump.webp?w=790&f=8e3819269b7e7189cbd2a64192e79b04",
   "link": "https://www.newsweek.com/donations-trump-fell-prior-embarrassing-gop-primary-losses-report-1711149",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jason Lemon",
   "authorUrl": "https://www.newsweek.com/authors/jason-lemon",
   "termIds": [
-    1147,
-    2087,
-    2095,
-    2203,
-    2279,
-    4325,
-    428,
-    6146,
-    2672
+    2095
   ],
   "sentences": [
     "The newspaper additionally reported that his \"main fund-raising committee accounted for 19.7 percent of what was raised by Republican campaigns and committees on WinRed in the last four months of 2021, but just 14.1 percent of what was raised during the first three months of 2022.\"",

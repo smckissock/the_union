@@ -1,20 +1,20 @@
 [
   {
-    "id": 395,
-    "mediaId": 12,
-    "date": "d2022-02-28T12:00",
-    "sentence": "",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: David Perdue targets Gov. Brian Kemp's prized Rivian deal",
-    "sentiment": "0"
-  },
-  {
     "id": 7312,
     "mediaId": 65,
-    "date": "d2022-05-24T06:00",
+    "date": "2022-00-24",
     "sentence": "Abrams, who is running unopposed for the Democratic nomination for governor of the Peach State, lost a close race to Republican <span class='selected-term'>Brian Kemp</span> in 2018.",
     "author": "Matt Leach",
     "title": "Georgia voters condemn Stacey Abrams worst state comments, share top priorities ahead of primary election",
     "sentiment": "-0.166"
+  },
+  {
+    "id": 395,
+    "mediaId": 12,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: David Perdue targets Gov. Brian Kemp's prized Rivian deal",
+    "sentiment": "0"
   }
 ]

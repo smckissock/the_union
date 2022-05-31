@@ -1,611 +1,8 @@
 [
   {
-    "id": 8225,
-    "mediaId": 237,
-    "date": "d2022-01-27T16:22",
-    "sentence": "",
-    "author": "Paul Bedard",
-    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
-    "sentiment": "0.374"
-  },
-  {
-    "id": 7018,
-    "mediaId": 124,
-    "date": "d2022-02-16T14:00",
-    "sentence": "",
-    "author": "",
-    "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
-    "sentiment": "0"
-  },
-  {
-    "id": 6452,
-    "mediaId": 238,
-    "date": "d2022-04-06T15:31",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: As vile as it gets: J.D. Vance goes full great replacement theory",
-    "sentiment": "0"
-  },
-  {
-    "id": 6444,
-    "mediaId": 238,
-    "date": "d2022-04-08T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Rep. Gonzales on how the GOP can win more Hispanic voters",
-    "sentiment": "0"
-  },
-  {
-    "id": 6436,
-    "mediaId": 19,
-    "date": "d2022-04-09T00:00",
-    "sentence": "",
-    "author": "James P. Pinkerton",
-    "title": "Pinkerton: David vs. Goliath  Five Takeaways from the Amazon Workers Victory Over Union-Busting Billionaire Bezos",
-    "sentiment": "0"
-  },
-  {
-    "id": 6435,
-    "mediaId": 195,
-    "date": "d2022-04-09T21:00",
-    "sentence": "",
-    "author": "Rebecca Beitsch",
-    "title": "Bottleneck: The border problems left behind by Title 42",
-    "sentiment": "0"
-  },
-  {
-    "id": 6422,
-    "mediaId": 129,
-    "date": "d2022-04-12T22:19",
-    "sentence": "",
-    "author": "Neil Vigdor",
-    "title": "Mark Zuckerberg Ends Election Grants",
-    "sentiment": "0"
-  },
-  {
-    "id": 6418,
-    "mediaId": 65,
-    "date": "d2022-04-13T10:53",
-    "sentence": "",
-    "author": "Paul Steinhauser",
-    "title": "Ohio GOP Senate contender Timken takes aim at Biden's 'runaway inflation' in new ad",
-    "sentiment": "0"
-  },
-  {
-    "id": 6413,
-    "mediaId": 424,
-    "date": "d2022-04-14T10:01",
-    "sentence": "",
-    "author": "John Nichols",
-    "title": "What J.D. Vance Doesnt Know About France",
-    "sentiment": "0"
-  },
-  {
-    "id": 5133,
-    "mediaId": 129,
-    "date": "d2022-04-15T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio",
-    "sentiment": "0.556"
-  },
-  {
-    "id": 6394,
-    "mediaId": 129,
-    "date": "d2022-04-15T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "SEARCH",
-    "sentiment": "0"
-  },
-  {
-    "id": 6387,
-    "mediaId": 195,
-    "date": "d2022-04-15T10:00",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: Democrats hope Trump will save them from midterm disaster",
-    "sentiment": "0"
-  },
-  {
-    "id": 6368,
-    "mediaId": 163,
-    "date": "d2022-04-15T21:51",
-    "sentence": "",
-    "author": "Reuters",
-    "title": "Trump endorses Vance in Ohio's Republican Senate primary",
-    "sentiment": "0"
-  },
-  {
-    "id": 6354,
-    "mediaId": 209,
-    "date": "d2022-04-16T00:00",
-    "sentence": "",
-    "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 16, 2022",
-    "sentiment": "-0.571"
-  },
-  {
-    "id": 6355,
-    "mediaId": 188,
-    "date": "d2022-04-16T00:00",
-    "sentence": "",
-    "author": "Samuel Mangold-Lenett",
-    "title": "JD Vance secures Donald Trump's endorsement in Ohio's crowded Republican Senate primary",
-    "sentiment": "0.883"
-  },
-  {
-    "id": 6344,
-    "mediaId": 136,
-    "date": "d2022-04-16T17:34",
-    "sentence": "",
-    "author": "Jason Lemon",
-    "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces",
-    "sentiment": "-0.744"
-  },
-  {
-    "id": 6342,
-    "mediaId": 239,
-    "date": "d2022-04-17T00:00",
-    "sentence": "",
-    "author": "Jennifer Harper",
-    "title": "NRA plans its major national meeting in Houston in May",
-    "sentiment": "-0.59"
-  },
-  {
-    "id": 6325,
-    "mediaId": 19,
-    "date": "d2022-04-18T00:00",
-    "sentence": "",
-    "author": "Jacob Bliss",
-    "title": "Ohio Republican J.D. Vance Highlights Trump Endorsement in Latest Ad",
-    "sentiment": "0.665"
-  },
-  {
-    "id": 6329,
-    "mediaId": 19,
-    "date": "d2022-04-18T00:00",
-    "sentence": "",
-    "author": "Breitbart News",
-    "title": "Breitbart News Daily Podcast Ep. 116: Happy Easter! The Pope Thinks Youre Racist; Guest: Emma-Jo Morris on Dr. Oz, the Trans Agenda, The Big Guy",
-    "sentiment": "0"
-  },
-  {
-    "id": 6318,
-    "mediaId": 65,
-    "date": "d2022-04-18T10:30",
-    "sentence": "",
-    "author": "Paul Steinhauser",
-    "title": "JD Vance highlights Trump endorsement with new TV ad in Ohios GOP Senate primary showdown",
-    "sentiment": "0.963"
-  },
-  {
-    "id": 6315,
-    "mediaId": 238,
-    "date": "d2022-04-18T11:17",
-    "sentence": "",
-    "author": "",
-    "title": "On our radar: Rick Scotts tax plan draws notice from the White House",
-    "sentiment": "0"
-  },
-  {
-    "id": 6311,
-    "mediaId": 195,
-    "date": "d2022-04-18T15:40",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "JD Vance rolls out statewide ad touting Trump endorsement",
-    "sentiment": "0.621"
-  },
-  {
-    "id": 6310,
-    "mediaId": 238,
-    "date": "d2022-04-18T15:46",
-    "sentence": "",
-    "author": "",
-    "title": "Ukraine is taking up less and less of the campaign conversation",
-    "sentiment": "0"
-  },
-  {
-    "id": 6303,
-    "mediaId": 18,
-    "date": "d2022-04-18T23:29:48",
-    "sentence": "",
-    "author": "Jeff Robbins",
-    "title": "Robbins: Here and abroad, democracy hanging in the balance",
-    "sentiment": "0"
-  },
-  {
-    "id": 6299,
-    "mediaId": 209,
-    "date": "d2022-04-19T00:00",
-    "sentence": "",
-    "author": "Jason Fields",
-    "title": "Censorship is as old as the pharaohs  and as new as today",
-    "sentiment": "0"
-  },
-  {
-    "id": 6296,
-    "mediaId": 376,
-    "date": "d2022-04-19T06:00",
-    "sentence": "",
-    "author": "John T. Bennett",
-    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
-    "sentiment": "0"
-  },
-  {
-    "id": 6294,
-    "mediaId": 195,
-    "date": "d2022-04-19T10:24",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Presented by Facebook  Mask-free travelers allowed, TSA says",
-    "sentiment": "0"
-  },
-  {
-    "id": 6293,
-    "mediaId": 151,
-    "date": "d2022-04-19T10:35",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: White House wonders: To mask, or not to mask?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6253,
-    "mediaId": 136,
-    "date": "d2022-04-21T14:51",
-    "sentence": "",
-    "author": "Robert Reich",
-    "title": "We're Running Out of Time to Hold Trump Accountable | Opinion",
-    "sentiment": "0.151"
-  },
-  {
-    "id": 6252,
-    "mediaId": 129,
-    "date": "d2022-04-21T14:58",
-    "sentence": "",
-    "author": "",
-    "title": "Bashing Joe Biden? Give the Guy a Break!",
-    "sentiment": "0"
-  },
-  {
-    "id": 6246,
-    "mediaId": 238,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "Mariana Alfaro",
-    "title": "Leader McCarthy, Rep. Greene both have some explaining to do about Jan. 6",
-    "sentiment": "0"
-  },
-  {
-    "id": 6234,
-    "mediaId": 558,
-    "date": "d2022-04-22T10:55",
-    "sentence": "",
-    "author": "James Oliphant",
-    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
-    "sentiment": "-0.68"
-  },
-  {
-    "id": 6228,
-    "mediaId": 98,
-    "date": "d2022-04-22T15:43",
-    "sentence": "",
-    "author": "Nolan D. McCaskill",
-    "title": "What the GOPs muted response on the McCarthy tapes means for the Republican Party",
-    "sentiment": "0"
-  },
-  {
-    "id": 6221,
-    "mediaId": 163,
-    "date": "d2022-04-22T18:00",
-    "sentence": "",
-    "author": "James Oliphant",
-    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6217,
-    "mediaId": 233,
-    "date": "d2022-04-22T22:00",
-    "sentence": "",
-    "author": "",
-    "title": "President Biden signs executive order to tackle climate change on Earth Day",
-    "sentiment": "0"
-  },
-  {
-    "id": 6207,
-    "mediaId": 19,
-    "date": "d2022-04-23T00:00",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Exclusive  Trump Senior Adviser Lynne Patton: Trump Is Endorsing Candidates Who Can Beat Democrats in the General Election",
-    "sentiment": "0"
-  },
-  {
-    "id": 6210,
-    "mediaId": 19,
-    "date": "d2022-04-23T00:00",
-    "sentence": "",
-    "author": "Jordan Dixon-Hamilton",
-    "title": "Exclusive  J.D. Vance: I Will Fight Back Against Chinese Theft of Our Manufacturing Base",
-    "sentiment": "-0.474"
-  },
-  {
-    "id": 6215,
-    "mediaId": 43,
-    "date": "d2022-04-23T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Caravan with a dumb solo: previous guy (even) more deranged in OH rally",
-    "sentiment": "0"
-  },
-  {
-    "id": 6200,
-    "mediaId": 65,
-    "date": "d2022-04-23T10:55",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Ohio Trump rally: Former president's backing may 'propel Vance to victory,' indicate power of his endorsement",
-    "sentiment": "0.227"
-  },
-  {
-    "id": 6199,
-    "mediaId": 302,
-    "date": "d2022-04-23T13:00",
-    "sentence": "",
-    "author": "Jim Verhulst",
-    "title": "Heres what to read from the left and the right | Column",
-    "sentiment": "0"
-  },
-  {
-    "id": 6196,
-    "mediaId": 195,
-    "date": "d2022-04-23T16:03",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
-    "sentiment": "0"
-  },
-  {
-    "id": 6185,
-    "mediaId": 209,
-    "date": "d2022-04-24T00:00",
-    "sentence": "",
-    "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 24, 2022",
-    "sentiment": "0"
-  },
-  {
-    "id": 6188,
-    "mediaId": 157,
-    "date": "d2022-04-24T00:00",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Evangelicals and 'Christian righteousness' power Trump's delusions of election fraud: NYT",
-    "sentiment": "0"
-  },
-  {
-    "id": 6182,
-    "mediaId": 136,
-    "date": "d2022-04-24T01:47",
-    "sentence": "",
-    "author": "Scott McDonald",
-    "title": "Trump Says J.D. Vance 'Said Some Bad Sh*t About Me' During His Endorsement",
-    "sentiment": "0"
-  },
-  {
-    "id": 6181,
-    "mediaId": 165,
-    "date": "d2022-04-24T01:55",
-    "sentence": "",
-    "author": "Ryan Bort",
-    "title": "Trump Rambles About Toilets Not Flushing During Ohio Rally  Oh, and Also: Hijacking Americas Election Systems",
-    "sentiment": "-0.356"
-  },
-  {
-    "id": 6180,
-    "mediaId": 21,
-    "date": "d2022-04-24T02:00",
-    "sentence": "",
-    "author": "Hannah Getahun",
-    "title": "Trump said he took a cognitive test because he didn't 'like being called stupid'",
-    "sentiment": "0"
-  },
-  {
-    "id": 6175,
-    "mediaId": 409,
-    "date": "d2022-04-24T11:35",
-    "sentence": "",
-    "author": "Caroline Downey",
-    "title": "Trump Blasts Failures of Biden Admin, Campaigns for Vance at Ohio Rally",
-    "sentiment": "-0.432"
-  },
-  {
-    "id": 6172,
-    "mediaId": 195,
-    "date": "d2022-04-24T15:30",
-    "sentence": "",
-    "author": "Albert Hunt",
-    "title": "McConnells dilemma: What if Trumps candidates win?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6165,
-    "mediaId": 238,
-    "date": "d2022-04-25T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "On trip to border, McCarthy deflects questions about Trump and Jan. 6",
-    "sentiment": "0"
-  },
-  {
-    "id": 6155,
-    "mediaId": 237,
-    "date": "d2022-04-25T13:18",
-    "sentence": "",
-    "author": "Christian Datoc",
-    "title": "Biden thinks Democrats can gain Senate seats this year  with Trump's help",
-    "sentiment": "0"
-  },
-  {
-    "id": 6145,
-    "mediaId": 124,
-    "date": "d2022-04-26T13:05",
-    "sentence": "",
-    "author": "",
-    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
-    "sentiment": "0"
-  },
-  {
-    "id": 6134,
-    "mediaId": 19,
-    "date": "d2022-04-27T00:00",
-    "sentence": "",
-    "author": "Joshua Klein",
-    "title": "GOP Rips Dystopian DHS Plans for Disinformation Governance Board, Orwellian Abuse of Power by Biden Admin",
-    "sentiment": "0"
-  },
-  {
-    "id": 6116,
-    "mediaId": 238,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Post Politics Now Trump to rally with GOP gubernatorial hopeful in Nebraska accused of sexual assault",
-    "sentiment": "0"
-  },
-  {
-    "id": 6117,
-    "mediaId": 157,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
-    "sentiment": "0"
-  },
-  {
-    "id": 6108,
-    "mediaId": 151,
-    "date": "d2022-04-28T08:30",
-    "sentence": "",
-    "author": "",
-    "title": "It's Trump vs. Cruz in Ohio and Pa. Senate races",
-    "sentiment": "0"
-  },
-  {
-    "id": 6107,
-    "mediaId": 120,
-    "date": "d2022-04-28T09:15",
-    "sentence": "",
-    "author": "Hayes Brown",
-    "title": "If Biden has a student loan forgiveness plan, now is the time announce it",
-    "sentiment": "0"
-  },
-  {
-    "id": 6106,
-    "mediaId": 195,
-    "date": "d2022-04-28T10:29",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Biden, Congress mull mounting economic woes",
-    "sentiment": "0"
-  },
-  {
-    "id": 6087,
-    "mediaId": 129,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "For J.D. Vance, Hillbilly Elegy Was the Question, and Trump Was the Answer",
-    "sentiment": "0"
-  },
-  {
-    "id": 6088,
-    "mediaId": 129,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "The Decline of Ohio and the Rise of J.D. Vance",
-    "sentiment": "0"
-  },
-  {
-    "id": 6094,
-    "mediaId": 43,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
-    "sentiment": "0"
-  },
-  {
-    "id": 6095,
-    "mediaId": 157,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "Matthew Chapman",
-    "title": "JD Vance suggests Biden is deliberately letting fentanyl into America to kill rural Trump supporters",
-    "sentiment": "0"
-  },
-  {
-    "id": 6078,
-    "mediaId": 237,
-    "date": "d2022-04-29T18:43",
-    "sentence": "",
-    "author": "Cami Mondeaux",
-    "title": "Mike drop: Trump endorses Pences brother without mentioning veep",
-    "sentiment": "0"
-  },
-  {
-    "id": 4363,
-    "mediaId": 112,
-    "date": "d2022-04-29T19:53",
-    "sentence": "",
-    "author": "Robert Schroeder",
-    "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
-    "sentiment": "0"
-  },
-  {
-    "id": 4349,
-    "mediaId": 188,
-    "date": "d2022-04-30T00:00",
-    "sentence": "",
-    "author": "Paul Sacca",
-    "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
-    "sentiment": "0"
-  },
-  {
-    "id": 6072,
-    "mediaId": 195,
-    "date": "d2022-04-30T02:52",
-    "sentence": "",
-    "author": "Lexi Lonas",
-    "title": "Barr: GOP has big opportunity to move past Trump in 2024",
-    "sentiment": "0"
-  },
-  {
-    "id": 6071,
-    "mediaId": 65,
-    "date": "d2022-04-30T05:20",
-    "sentence": "",
-    "author": "Fox News Staff",
-    "title": "JD Vance: Will there be America-first Republicans or 'same old' Republicans in Congress after midterms?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6065,
-    "mediaId": 136,
-    "date": "d2022-04-30T16:28",
-    "sentence": "",
-    "author": "Fatma Khaled",
-    "title": "MAGA Voter Deaths by Fentanyl via Border 'Does Look Intentional': JD Vance",
-    "sentiment": "-0.755"
-  },
-  {
     "id": 6051,
     "mediaId": 43,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "J.D. Vance (R) Is Now Claiming That Pres. Biden Is \"Trying To Kill A Bunch Of MAGA Voters\"",
@@ -614,7 +11,7 @@
   {
     "id": 6053,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Don Jr. Road Show in Ohio Was No Joke",
@@ -623,7 +20,7 @@
   {
     "id": 6056,
     "mediaId": 157,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Trump accidentally endorses JD Vance opponent Josh Mandel after bragging about his dementia test scores",
@@ -632,7 +29,7 @@
   {
     "id": 6058,
     "mediaId": 157,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "'Weak' JD Vance demoted to Don Trump Jr's 'sidekick' as primary vote looms: columnist",
@@ -641,16 +38,70 @@
   {
     "id": 6059,
     "mediaId": 19,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "John Binder",
     "title": "Exclusive  J.D. Vance: Joe Bidens Propaganda Ministry Is About Enforcing Speech Codes on Americans",
     "sentiment": "0"
   },
   {
+    "id": 5986,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Alexander Bolton",
+    "title": "Senate GOP privately roots against Trump in Ohio primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 5987,
+    "mediaId": 151,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "",
+    "title": "Biden races to achieve the near-impossible: A permanent point man on guns",
+    "sentiment": "0"
+  },
+  {
+    "id": 6011,
+    "mediaId": 169,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Jon Skolnik",
+    "title": "\"JP, right? JD Mandel?\": Trump can't seem to remember who he endorsed in Ohio's GOP Senate primary",
+    "sentiment": "0.463"
+  },
+  {
+    "id": 6015,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?",
+    "sentiment": "0"
+  },
+  {
+    "id": 6021,
+    "mediaId": 136,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Margaret Weaver",
+    "title": "Trump Touts Perfect Cognitive Test, Then Misspeaks Endorsing 'J.D. Mandel'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6022,
+    "mediaId": 21,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Kelsey Vlamis",
+    "title": "Trump confused the names of candidates in a closely contested GOP Senate primary that's 2 days away  one of whom he endorsed last month",
+    "sentiment": "0"
+  },
+  {
     "id": 6026,
     "mediaId": 157,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "'What planet is he on?' Morning Joe mocks Trump for forgetting who he endorsed in GOP Senate race",
@@ -659,7 +110,7 @@
   {
     "id": 6032,
     "mediaId": 178,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Michelle Cottle",
     "title": "Donald Trump Jr. road show in Ohio was no joke",
@@ -668,70 +119,97 @@
   {
     "id": 6036,
     "mediaId": 43,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 5/2",
     "sentiment": "0"
   },
   {
-    "id": 6022,
-    "mediaId": 21,
-    "date": "d2022-05-02T01:00",
+    "id": 1797,
+    "mediaId": 239,
+    "date": "2022-00-03",
     "sentence": "",
-    "author": "Kelsey Vlamis",
-    "title": "Trump confused the names of candidates in a closely contested GOP Senate primary that's 2 days away  one of whom he endorsed last month",
+    "author": "Susan Ferrechio",
+    "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement",
+    "sentiment": "0.16"
+  },
+  {
+    "id": 5896,
+    "mediaId": 65,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Polls now closed in Ohio, where the GOP Senate primary is seen a key test of Trump's GOP clout",
     "sentiment": "0"
   },
   {
-    "id": 6021,
+    "id": 5917,
     "mediaId": 136,
-    "date": "d2022-05-02T01:09",
-    "sentence": "",
-    "author": "Margaret Weaver",
-    "title": "Trump Touts Perfect Cognitive Test, Then Misspeaks Endorsing 'J.D. Mandel'",
-    "sentiment": "0"
-  },
-  {
-    "id": 6015,
-    "mediaId": 195,
-    "date": "d2022-05-02T10:26",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6011,
-    "mediaId": 169,
-    "date": "d2022-05-02T12:07",
-    "sentence": "",
-    "author": "Jon Skolnik",
-    "title": "\"JP, right? JD Mandel?\": Trump can't seem to remember who he endorsed in Ohio's GOP Senate primary",
-    "sentiment": "0.463"
-  },
-  {
-    "id": 5987,
-    "mediaId": 151,
-    "date": "d2022-05-02T23:43",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
-    "title": "Biden races to achieve the near-impossible: A permanent point man on guns",
+    "title": "The White House's Response to the Fentanyl Crisis Falls Short | Opinion",
     "sentiment": "0"
   },
   {
-    "id": 5986,
-    "mediaId": 195,
-    "date": "d2022-05-02T23:47",
+    "id": 5918,
+    "mediaId": 129,
+    "date": "2022-00-03",
     "sentence": "",
-    "author": "Alexander Bolton",
-    "title": "Senate GOP privately roots against Trump in Ohio primary",
+    "author": "",
+    "title": "G.O.P. Candidates Make Final Push in Ohios Closely Watched Senate Race",
+    "sentiment": "0"
+  },
+  {
+    "id": 5923,
+    "mediaId": 237,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Paul Bedard",
+    "title": "Trump endorsement helps far more than Bidens",
+    "sentiment": "0"
+  },
+  {
+    "id": 5929,
+    "mediaId": 163,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Nathan Layne",
+    "title": "Ohio Senate primary a test of Trump's grip on Republican voters",
+    "sentiment": "-0.661"
+  },
+  {
+    "id": 5930,
+    "mediaId": 238,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "",
+    "title": "As Ohioans head to polls, a Senate primary tests Trumps sway",
+    "sentiment": "0"
+  },
+  {
+    "id": 5937,
+    "mediaId": 124,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "",
+    "title": "Ohio primaries to test Trumps power over the GOP base",
+    "sentiment": "0"
+  },
+  {
+    "id": 5939,
+    "mediaId": 151,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "",
+    "title": "7 ways Tuesdays primaries could shake the 2022 election",
     "sentiment": "0"
   },
   {
     "id": 5964,
     "mediaId": 129,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "J.D. Vances Rise From Hillbilly Elegy Author to Senate Nominee",
@@ -740,97 +218,133 @@
   {
     "id": 5974,
     "mediaId": 25,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Adam Brewster",
     "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
     "sentiment": "0"
   },
   {
-    "id": 1797,
-    "mediaId": 239,
-    "date": "d2022-05-03T00:03:18",
-    "sentence": "",
-    "author": "Susan Ferrechio",
-    "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement",
-    "sentiment": "0.16"
-  },
-  {
-    "id": 5939,
-    "mediaId": 151,
-    "date": "d2022-05-03T08:31",
-    "sentence": "",
-    "author": "",
-    "title": "7 ways Tuesdays primaries could shake the 2022 election",
-    "sentiment": "0"
-  },
-  {
-    "id": 5937,
-    "mediaId": 124,
-    "date": "d2022-05-03T08:39:10",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio primaries to test Trumps power over the GOP base",
-    "sentiment": "0"
-  },
-  {
-    "id": 5930,
-    "mediaId": 238,
-    "date": "d2022-05-03T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "As Ohioans head to polls, a Senate primary tests Trumps sway",
-    "sentiment": "0"
-  },
-  {
-    "id": 5929,
-    "mediaId": 163,
-    "date": "d2022-05-03T10:05",
-    "sentence": "",
-    "author": "Nathan Layne",
-    "title": "Ohio Senate primary a test of Trump's grip on Republican voters",
-    "sentiment": "-0.661"
-  },
-  {
-    "id": 5923,
-    "mediaId": 237,
-    "date": "d2022-05-03T11:04",
-    "sentence": "",
-    "author": "Paul Bedard",
-    "title": "Trump endorsement helps far more than Bidens",
-    "sentiment": "0"
-  },
-  {
-    "id": 5918,
-    "mediaId": 129,
-    "date": "d2022-05-03T13:37:50",
-    "sentence": "",
-    "author": "",
-    "title": "G.O.P. Candidates Make Final Push in Ohios Closely Watched Senate Race",
-    "sentiment": "0"
-  },
-  {
-    "id": 5917,
-    "mediaId": 136,
-    "date": "d2022-05-03T16:40",
-    "sentence": "",
-    "author": "",
-    "title": "The White House's Response to the Fentanyl Crisis Falls Short | Opinion",
-    "sentiment": "0"
-  },
-  {
-    "id": 5896,
+    "id": 5757,
     "mediaId": 65,
-    "date": "d2022-05-03T23:31",
+    "date": "2022-00-04",
     "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Polls now closed in Ohio, where the GOP Senate primary is seen a key test of Trump's GOP clout",
+    "author": "David Rutz",
+    "title": "Media pushes narrative that leaked Roe v. Wade draft could be midterm game-changer",
     "sentiment": "0"
+  },
+  {
+    "id": 5758,
+    "mediaId": 312,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Philip Elliott",
+    "title": "In Ohio, J.D. Vance Thanked Trump for His Win. Maybe Mike DeWine Should Too.",
+    "sentiment": "-0.165"
+  },
+  {
+    "id": 5765,
+    "mediaId": 65,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Democrat Tim Ryan dodges question on whether he'll let Biden campaign for him in Ohio Senate race",
+    "sentiment": "-0.819"
+  },
+  {
+    "id": 5766,
+    "mediaId": 195,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Max Greenwood",
+    "title": "Campaign Report  Trump shows his strength in Ohio",
+    "sentiment": "0.912"
+  },
+  {
+    "id": 5769,
+    "mediaId": 233,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Biden calls out 'MAGA crowd' for being 'most extreme' political group in recent US history",
+    "sentiment": "0"
+  },
+  {
+    "id": 5770,
+    "mediaId": 151,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Biden: MAGA is the most extreme political organization in recent U.S. history",
+    "sentiment": "0"
+  },
+  {
+    "id": 5781,
+    "mediaId": 238,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 5784,
+    "mediaId": 238,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Trump and Biden prevail as party leaders in Ohio primary results",
+    "sentiment": "0"
+  },
+  {
+    "id": 5785,
+    "mediaId": 98,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Biden previews midterm offensive as he attacks extreme MAGA Republicans in deficit speech",
+    "sentiment": "0"
+  },
+  {
+    "id": 5792,
+    "mediaId": 136,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Ewan Palmer",
+    "title": "Donald Trump's Stunning Ohio Victories Show 'Era Has Ended' for Republicans",
+    "sentiment": "0.209"
+  },
+  {
+    "id": 5798,
+    "mediaId": 195,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Roe, Ohio primary dominate",
+    "sentiment": "0"
+  },
+  {
+    "id": 5810,
+    "mediaId": 151,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Here are the Trump-backed candidates who won Tuesday's primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5822,
+    "mediaId": 136,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "J.D. Vance Thanks Anti-Trump Opponent for Making GOP 'Better' Touting Win",
+    "sentiment": "0.85"
   },
   {
     "id": 5837,
     "mediaId": 129,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Roxane Gay",
     "title": "A Trump Win in Ohio",
@@ -839,7 +353,7 @@
   {
     "id": 5839,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "State Department Declares WNBA Star Brittney Griner to Be Wrongfully Detained in Russia",
@@ -848,7 +362,7 @@
   {
     "id": 5846,
     "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Eric Lutz",
     "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
@@ -857,7 +371,7 @@
   {
     "id": 5848,
     "mediaId": 25,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Ohio primary results: Trump-backed J.D. Vance wins Republican Senate race",
@@ -866,7 +380,7 @@
   {
     "id": 5858,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Without Filibuster Reform, Democratic Efforts to Codify Abortion Rights Will Fail",
@@ -875,7 +389,7 @@
   {
     "id": 5861,
     "mediaId": 209,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Harold Maass",
     "title": "10 things you need to know today: May 4, 2022",
@@ -884,7 +398,7 @@
   {
     "id": 5866,
     "mediaId": 43,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "QAnon rando defeats established pols in Ohio House district GOP hopes to flip",
@@ -893,7 +407,7 @@
   {
     "id": 5870,
     "mediaId": 19,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Breitbart News",
     "title": "Breitbart News Daily Podcast Ep. 128: Vance Wins in OH, Biden Gets Ghoulish on Abortion, Guest: Sen. Tom Cotton on SCOTUS, Ministry of Truth, Our Open Border",
@@ -902,7 +416,7 @@
   {
     "id": 5871,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Agence France-Presse",
     "title": "Biden signals campaign strategy against 'extreme' Republicans",
@@ -911,7 +425,7 @@
   {
     "id": 5876,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "U.N.: 4.5 Tons of Grain Stuck in Ukraine Due to Russian Blockade",
@@ -920,7 +434,7 @@
   {
     "id": 5882,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Trump on Black Lives Matter Protesters: Cant You Just Shoot Them?",
@@ -929,7 +443,7 @@
   {
     "id": 5883,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Biden Visits Lockheed Martin Plant to Push for Passage of $33B for Ukraine",
@@ -938,7 +452,7 @@
   {
     "id": 5884,
     "mediaId": 233,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Trump: With me, you'll win so much, you'll be bored",
@@ -947,7 +461,7 @@
   {
     "id": 5889,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "BP Records $6.2 Billion in Profits over Past Three Months",
@@ -956,277 +470,214 @@
   {
     "id": 5890,
     "mediaId": 395,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "North Korea Launches Suspected Ballistic Missile",
     "sentiment": "0"
   },
   {
-    "id": 5822,
-    "mediaId": 136,
-    "date": "d2022-05-04T02:45",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "J.D. Vance Thanks Anti-Trump Opponent for Making GOP 'Better' Touting Win",
-    "sentiment": "0.85"
-  },
-  {
-    "id": 5810,
-    "mediaId": 151,
-    "date": "d2022-05-04T05:19",
-    "sentence": "",
-    "author": "",
-    "title": "Here are the Trump-backed candidates who won Tuesday's primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5798,
-    "mediaId": 195,
-    "date": "d2022-05-04T10:26",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Roe, Ohio primary dominate",
-    "sentiment": "0"
-  },
-  {
-    "id": 5792,
-    "mediaId": 136,
-    "date": "d2022-05-04T12:23",
-    "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "Donald Trump's Stunning Ohio Victories Show 'Era Has Ended' for Republicans",
-    "sentiment": "0.209"
-  },
-  {
-    "id": 5785,
-    "mediaId": 98,
-    "date": "d2022-05-04T13:52",
-    "sentence": "",
-    "author": "",
-    "title": "Biden previews midterm offensive as he attacks extreme MAGA Republicans in deficit speech",
-    "sentiment": "0"
-  },
-  {
-    "id": 5784,
-    "mediaId": 238,
-    "date": "d2022-05-04T14:22",
-    "sentence": "",
-    "author": "",
-    "title": "Trump and Biden prevail as party leaders in Ohio primary results",
-    "sentiment": "0"
-  },
-  {
-    "id": 5781,
-    "mediaId": 238,
-    "date": "d2022-05-04T15:17",
-    "sentence": "",
-    "author": "",
-    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
-    "sentiment": "0"
-  },
-  {
-    "id": 5770,
-    "mediaId": 151,
-    "date": "d2022-05-04T17:34",
-    "sentence": "",
-    "author": "",
-    "title": "Biden: MAGA is the most extreme political organization in recent U.S. history",
-    "sentiment": "0"
-  },
-  {
-    "id": 5769,
-    "mediaId": 233,
-    "date": "d2022-05-04T17:45",
-    "sentence": "",
-    "author": "",
-    "title": "Biden calls out 'MAGA crowd' for being 'most extreme' political group in recent US history",
-    "sentiment": "0"
-  },
-  {
-    "id": 5766,
-    "mediaId": 195,
-    "date": "d2022-05-04T18:21",
-    "sentence": "",
-    "author": "Max Greenwood",
-    "title": "Campaign Report  Trump shows his strength in Ohio",
-    "sentiment": "0.912"
-  },
-  {
-    "id": 5765,
-    "mediaId": 65,
-    "date": "d2022-05-04T18:55",
-    "sentence": "",
-    "author": "",
-    "title": "Democrat Tim Ryan dodges question on whether he'll let Biden campaign for him in Ohio Senate race",
-    "sentiment": "-0.819"
-  },
-  {
-    "id": 5758,
-    "mediaId": 312,
-    "date": "d2022-05-04T20:47",
-    "sentence": "",
-    "author": "Philip Elliott",
-    "title": "In Ohio, J.D. Vance Thanked Trump for His Win. Maybe Mike DeWine Should Too.",
-    "sentiment": "-0.165"
-  },
-  {
-    "id": 5757,
-    "mediaId": 65,
-    "date": "d2022-05-04T21:12",
-    "sentence": "",
-    "author": "David Rutz",
-    "title": "Media pushes narrative that leaked Roe v. Wade draft could be midterm game-changer",
-    "sentiment": "0"
-  },
-  {
-    "id": 4022,
-    "mediaId": 157,
-    "date": "d2022-05-05T00:00",
-    "sentence": "",
-    "author": "Travis Gettys",
-    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
-    "sentiment": "0"
-  },
-  {
-    "id": 5745,
-    "mediaId": 129,
-    "date": "d2022-05-05T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "In Arizona, a Swing State Swings to the Far Right",
-    "sentiment": "0.665"
-  },
-  {
-    "id": 5725,
-    "mediaId": 195,
-    "date": "d2022-05-05T10:27",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Biden, Trump square off on MAGA",
-    "sentiment": "0"
-  },
-  {
     "id": 1732,
     "mediaId": 195,
-    "date": "d2022-05-05T12:30",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Dennis Aftergut",
     "title": "J.D. Vance's GOP primary victory in Ohio says little about Trump's endorsement power",
     "sentiment": "-0.341"
   },
   {
-    "id": 5720,
-    "mediaId": 238,
-    "date": "d2022-05-05T12:59",
+    "id": 4022,
+    "mediaId": 157,
+    "date": "2022-00-05",
     "sentence": "",
-    "author": "",
-    "title": "Live updates Abortion becomes central issue as Democrats draw contrast with GOP",
-    "sentiment": "0"
-  },
-  {
-    "id": 5719,
-    "mediaId": 136,
-    "date": "d2022-05-05T13:28",
-    "sentence": "",
-    "author": "Jason Lemon",
-    "title": "Mitt Romney Admits Trump Has Control Over 2024 Nomination",
-    "sentiment": "0.52"
-  },
-  {
-    "id": 5715,
-    "mediaId": 136,
-    "date": "d2022-05-05T14:22",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "Donald Trump Warns Republican Candidates Against Crossing Him",
+    "author": "Travis Gettys",
+    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
     "sentiment": "0"
   },
   {
     "id": 5709,
     "mediaId": 65,
-    "date": "d2022-05-05T17:14",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Brooke Singman",
     "title": "Trump reacts to Biden's MAGA criticism, says movement 'saving America'",
     "sentiment": "0.445"
   },
   {
-    "id": 5696,
-    "mediaId": 129,
-    "date": "d2022-05-06T00:00",
+    "id": 5715,
+    "mediaId": 136,
+    "date": "2022-00-05",
     "sentence": "",
-    "author": "",
-    "title": "Dr. Oz rallies with Trump and Vance on a rainy night in Pennsylvania, and meets a damp reception.",
-    "sentiment": "-0.263"
+    "author": "Katherine Fung",
+    "title": "Donald Trump Warns Republican Candidates Against Crossing Him",
+    "sentiment": "0"
   },
   {
-    "id": 5674,
+    "id": 5719,
+    "mediaId": 136,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Jason Lemon",
+    "title": "Mitt Romney Admits Trump Has Control Over 2024 Nomination",
+    "sentiment": "0.52"
+  },
+  {
+    "id": 5720,
     "mediaId": 238,
-    "date": "d2022-05-06T11:16",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
-    "title": "On our radar: Trump to rally with Oz in Pennsylvania",
+    "title": "Live updates Abortion becomes central issue as Democrats draw contrast with GOP",
     "sentiment": "0"
   },
   {
-    "id": 5672,
-    "mediaId": 151,
-    "date": "d2022-05-06T13:03",
+    "id": 5725,
+    "mediaId": 195,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Biden, Trump square off on MAGA",
+    "sentiment": "0"
+  },
+  {
+    "id": 5745,
+    "mediaId": 129,
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
-    "title": "An America we've never seen before",
-    "sentiment": "0"
-  },
-  {
-    "id": 5668,
-    "mediaId": 441,
-    "date": "d2022-05-06T15:00",
-    "sentence": "",
-    "author": "Josh Wingrove",
-    "title": "Biden Heads for JD Vances Home Turf as Democrat Sits Out Event",
-    "sentiment": "0.506"
-  },
-  {
-    "id": 5659,
-    "mediaId": 376,
-    "date": "d2022-05-06T17:57",
-    "sentence": "",
-    "author": "Kate Ackley\nNiels Lesniewski",
-    "title": "In Ohio, Biden pushes bipartisan bill as way to curb inflation",
-    "sentiment": "0"
-  },
-  {
-    "id": 5656,
-    "mediaId": 112,
-    "date": "d2022-05-06T19:40",
-    "sentence": "",
-    "author": "Victor Reklaitis",
-    "title": "Tim Ryan, Democrats Senate nominee in Ohio, skips Bidens events in the Cincinnati area",
-    "sentiment": "0"
-  },
-  {
-    "id": 5654,
-    "mediaId": 32,
-    "date": "d2022-05-06T21:30:39",
-    "sentence": "",
-    "author": "Thomas Franck",
-    "title": "Pass the damn bill: Biden demands chips legislation to counter China tech rise",
-    "sentiment": "0"
+    "title": "In Arizona, a Swing State Swings to the Far Right",
+    "sentiment": "0.665"
   },
   {
     "id": 5653,
     "mediaId": 129,
-    "date": "d2022-05-06T22:25",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Inflation concerns are at the center of an Ohio Senate contest.",
     "sentiment": "0"
   },
   {
+    "id": 5654,
+    "mediaId": 32,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Thomas Franck",
+    "title": "Pass the damn bill: Biden demands chips legislation to counter China tech rise",
+    "sentiment": "0"
+  },
+  {
+    "id": 5656,
+    "mediaId": 112,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Victor Reklaitis",
+    "title": "Tim Ryan, Democrats Senate nominee in Ohio, skips Bidens events in the Cincinnati area",
+    "sentiment": "0"
+  },
+  {
+    "id": 5659,
+    "mediaId": 376,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Kate Ackley\nNiels Lesniewski",
+    "title": "In Ohio, Biden pushes bipartisan bill as way to curb inflation",
+    "sentiment": "0"
+  },
+  {
+    "id": 5668,
+    "mediaId": 441,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Josh Wingrove",
+    "title": "Biden Heads for JD Vances Home Turf as Democrat Sits Out Event",
+    "sentiment": "0.506"
+  },
+  {
+    "id": 5672,
+    "mediaId": 151,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "An America we've never seen before",
+    "sentiment": "0"
+  },
+  {
+    "id": 5674,
+    "mediaId": 238,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "On our radar: Trump to rally with Oz in Pennsylvania",
+    "sentiment": "0"
+  },
+  {
+    "id": 5696,
+    "mediaId": 129,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "Dr. Oz rallies with Trump and Vance on a rainy night in Pennsylvania, and meets a damp reception.",
+    "sentiment": "-0.263"
+  },
+  {
+    "id": 6452,
+    "mediaId": 238,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: As vile as it gets: J.D. Vance goes full great replacement theory",
+    "sentiment": "0"
+  },
+  {
+    "id": 5630,
+    "mediaId": 136,
+    "date": "2022-00-07",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "Trump Mocked for Seemingly Mistaking Office Mehmet Oz Is Running For",
+    "sentiment": "0"
+  },
+  {
+    "id": 5634,
+    "mediaId": 195,
+    "date": "2022-00-07",
+    "sentence": "",
+    "author": "Niall Stanage",
+    "title": "The Memo: Trump, Biden allies crave 2024 rematch",
+    "sentiment": "0"
+  },
+  {
+    "id": 5636,
+    "mediaId": 238,
+    "date": "2022-00-07",
+    "sentence": "",
+    "author": "",
+    "title": "How 6 GOP candidates shifted their tones on stolen election claims",
+    "sentiment": "0"
+  },
+  {
+    "id": 5638,
+    "mediaId": 558,
+    "date": "2022-00-07",
+    "sentence": "",
+    "author": "Christopher Wilson",
+    "title": "Trump avoids talking abortion ruling, pitches Oz endorsement at Pennsylvania rally",
+    "sentiment": "0"
+  },
+  {
+    "id": 5641,
+    "mediaId": 136,
+    "date": "2022-00-07",
+    "sentence": "",
+    "author": "Aila Slisco",
+    "title": "Donald Trump Mocks Biden's Stutter, Demands Cognitive Test at PA Rally",
+    "sentiment": "0"
+  },
+  {
     "id": 5644,
     "mediaId": 129,
-    "date": "d2022-05-07T00:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "The Pro-Family Agenda Republicans Should Embrace After Roe",
@@ -1235,7 +686,7 @@
   {
     "id": 5646,
     "mediaId": 43,
-    "date": "d2022-05-07T00:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Well, That Woke Everyone the &$#@ Up: Saturday's GNR",
@@ -1244,250 +695,295 @@
   {
     "id": 5647,
     "mediaId": 157,
-    "date": "d2022-05-07T00:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Meaghan Ellis",
     "title": "Trump struggling to convince his apprehensive supporters to back Dr. Oz's Senate bid",
     "sentiment": "0"
   },
   {
-    "id": 5641,
-    "mediaId": 136,
-    "date": "d2022-05-07T03:11",
-    "sentence": "",
-    "author": "Aila Slisco",
-    "title": "Donald Trump Mocks Biden's Stutter, Demands Cognitive Test at PA Rally",
-    "sentiment": "0"
-  },
-  {
-    "id": 5638,
-    "mediaId": 558,
-    "date": "d2022-05-07T07:17",
-    "sentence": "",
-    "author": "Christopher Wilson",
-    "title": "Trump avoids talking abortion ruling, pitches Oz endorsement at Pennsylvania rally",
-    "sentiment": "0"
-  },
-  {
-    "id": 5636,
+    "id": 6444,
     "mediaId": 238,
-    "date": "d2022-05-07T11:30",
+    "date": "2022-00-08",
     "sentence": "",
     "author": "",
-    "title": "How 6 GOP candidates shifted their tones on stolen election claims",
-    "sentiment": "0"
-  },
-  {
-    "id": 5634,
-    "mediaId": 195,
-    "date": "d2022-05-07T13:38",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: Trump, Biden allies crave 2024 rematch",
-    "sentiment": "0"
-  },
-  {
-    "id": 5630,
-    "mediaId": 136,
-    "date": "d2022-05-07T14:54",
-    "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "Trump Mocked for Seemingly Mistaking Office Mehmet Oz Is Running For",
-    "sentiment": "0"
-  },
-  {
-    "id": 5610,
-    "mediaId": 18,
-    "date": "d2022-05-09T19:44",
-    "sentence": "",
-    "author": "Peter Lucas",
-    "title": "Lucas: Biden could use some love from Massachusetts Democrats",
+    "title": "Rep. Gonzales on how the GOP can win more Hispanic voters",
     "sentiment": "0"
   },
   {
     "id": 5609,
     "mediaId": 129,
-    "date": "d2022-05-09T23:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
     "sentiment": "0"
   },
   {
-    "id": 5604,
-    "mediaId": 98,
-    "date": "d2022-05-10T00:00",
+    "id": 5610,
+    "mediaId": 18,
+    "date": "2022-00-09",
     "sentence": "",
-    "author": "LEAH WILLINGHAM",
-    "title": "Trump-backed U.S. Rep. Alex Mooney wins West Virginia GOP primary",
+    "author": "Peter Lucas",
+    "title": "Lucas: Biden could use some love from Massachusetts Democrats",
+    "sentiment": "0"
+  },
+  {
+    "id": 6435,
+    "mediaId": 195,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "Rebecca Beitsch",
+    "title": "Bottleneck: The border problems left behind by Title 42",
+    "sentiment": "0"
+  },
+  {
+    "id": 6436,
+    "mediaId": 19,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "James P. Pinkerton",
+    "title": "Pinkerton: David vs. Goliath  Five Takeaways from the Amazon Workers Victory Over Union-Busting Billionaire Bezos",
     "sentiment": "0"
   },
   {
     "id": 3780,
     "mediaId": 238,
-    "date": "d2022-05-10T10:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Emboldened by wins, GOP goes all in on the culture wars",
     "sentiment": "0"
   },
   {
-    "id": 5595,
-    "mediaId": 195,
-    "date": "d2022-05-10T10:27",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  US expedites Ukraine assistance push",
-    "sentiment": "0"
-  },
-  {
-    "id": 5594,
-    "mediaId": 323,
-    "date": "d2022-05-10T13:10",
-    "sentence": "",
-    "author": "Joshua Jamerson",
-    "title": "West Virginia Republican Primary: Infrastructure Votes, Trump Endorsement Take Center Stage",
-    "sentiment": "0"
-  },
-  {
-    "id": 5592,
-    "mediaId": 238,
-    "date": "d2022-05-10T14:21",
-    "sentence": "",
-    "author": "",
-    "title": "Post Politics Now Biden to speak on inflation, try to turn the tables on Republicans",
-    "sentiment": "0"
-  },
-  {
     "id": 5590,
     "mediaId": 238,
-    "date": "d2022-05-10T17:22",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Opinion How the GOP strategy to paint Democrats as extreme really works",
     "sentiment": "0"
   },
   {
-    "id": 5580,
-    "mediaId": 195,
-    "date": "d2022-05-11T01:14",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "Mooney wins West Virginia primary, handing Trump another win",
-    "sentiment": "0"
-  },
-  {
-    "id": 5577,
-    "mediaId": 151,
-    "date": "d2022-05-11T05:16",
+    "id": 5592,
+    "mediaId": 238,
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
-    "title": "Trump gets knocked down in Nebraska",
+    "title": "Post Politics Now Biden to speak on inflation, try to turn the tables on Republicans",
     "sentiment": "0"
   },
   {
-    "id": 5571,
-    "mediaId": 136,
-    "date": "d2022-05-11T15:06",
+    "id": 5594,
+    "mediaId": 323,
+    "date": "2022-00-10",
     "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "Donald Trump Is Losing More Primary Races Than He'd Like You to Know",
+    "author": "Joshua Jamerson",
+    "title": "West Virginia Republican Primary: Infrastructure Votes, Trump Endorsement Take Center Stage",
     "sentiment": "0"
   },
   {
-    "id": 5565,
-    "mediaId": 376,
-    "date": "d2022-05-11T17:19",
+    "id": 5595,
+    "mediaId": 195,
+    "date": "2022-00-10",
     "sentence": "",
-    "author": "Chris Marquette",
-    "title": "Mooney win cements House Republicans belief in value of Trump endorsement",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  US expedites Ukraine assistance push",
+    "sentiment": "0"
+  },
+  {
+    "id": 5604,
+    "mediaId": 98,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "LEAH WILLINGHAM",
+    "title": "Trump-backed U.S. Rep. Alex Mooney wins West Virginia GOP primary",
     "sentiment": "0"
   },
   {
     "id": 3689,
     "mediaId": 238,
-    "date": "d2022-05-11T17:47",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Henry Olsen",
     "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable.",
     "sentiment": "0.448"
   },
   {
+    "id": 5565,
+    "mediaId": 376,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Chris Marquette",
+    "title": "Mooney win cements House Republicans belief in value of Trump endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 5571,
+    "mediaId": 136,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Ewan Palmer",
+    "title": "Donald Trump Is Losing More Primary Races Than He'd Like You to Know",
+    "sentiment": "0"
+  },
+  {
+    "id": 5577,
+    "mediaId": 151,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Trump gets knocked down in Nebraska",
+    "sentiment": "0"
+  },
+  {
+    "id": 5580,
+    "mediaId": 195,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "Mooney wins West Virginia primary, handing Trump another win",
+    "sentiment": "0"
+  },
+  {
     "id": 5559,
     "mediaId": 19,
-    "date": "d2022-05-12T00:00",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "John Binder",
     "title": "ExclusiveJ.D. Vance: Ruling Class Hellbent on Keeping U.S. in Managed Decline by Weakening China Tariffs",
     "sentiment": "0"
   },
   {
-    "id": 5546,
-    "mediaId": 136,
-    "date": "d2022-05-13T01:50",
+    "id": 6422,
+    "mediaId": 129,
+    "date": "2022-00-12",
     "sentence": "",
-    "author": "Daniel Bush",
-    "title": "Biden Reaches Out to Trump Country Voters While Ramping Up MAGA Criticism",
+    "author": "Neil Vigdor",
+    "title": "Mark Zuckerberg Ends Election Grants",
     "sentiment": "0"
   },
   {
     "id": 5543,
     "mediaId": 238,
-    "date": "d2022-05-13T15:46",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Greg Sargent",
     "title": "Opinion J.D. Vance, migrant babies and the unhinged GOP enemy hunt",
     "sentiment": "0"
   },
   {
+    "id": 5546,
+    "mediaId": 136,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "Daniel Bush",
+    "title": "Biden Reaches Out to Trump Country Voters While Ramping Up MAGA Criticism",
+    "sentiment": "0"
+  },
+  {
+    "id": 6418,
+    "mediaId": 65,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "Paul Steinhauser",
+    "title": "Ohio GOP Senate contender Timken takes aim at Biden's 'runaway inflation' in new ad",
+    "sentiment": "0"
+  },
+  {
     "id": 5540,
     "mediaId": 238,
-    "date": "d2022-05-14T14:33",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "Karen Heller",
     "title": "Dr. Ozs Trump-infused Senate run is coming down to the wire",
     "sentiment": "0"
   },
   {
-    "id": 5533,
-    "mediaId": 238,
-    "date": "d2022-05-15T12:00",
+    "id": 6413,
+    "mediaId": 424,
+    "date": "2022-00-14",
     "sentence": "",
-    "author": "Seung Min Kim",
-    "title": "Biden plunges into the risky politics of student loans",
+    "author": "John Nichols",
+    "title": "What J.D. Vance Doesnt Know About France",
     "sentiment": "0"
+  },
+  {
+    "id": 5133,
+    "mediaId": 129,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "",
+    "title": "Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio",
+    "sentiment": "0.556"
   },
   {
     "id": 5529,
     "mediaId": 238,
-    "date": "d2022-05-15T19:17",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Max Boot",
     "title": "Opinion The Buffalo shooters views are mainstream on the right",
     "sentiment": "0"
   },
   {
-    "id": 5524,
-    "mediaId": 234,
-    "date": "d2022-05-16T00:00",
+    "id": 5533,
+    "mediaId": 238,
+    "date": "2022-00-15",
     "sentence": "",
-    "author": "Bess Levin",
-    "title": "Republicans Are Furious People Remember Theyve Been Pushing the Racist Great Replacement Rhetoric for Years",
+    "author": "Seung Min Kim",
+    "title": "Biden plunges into the risky politics of student loans",
     "sentiment": "0"
   },
   {
-    "id": 5526,
+    "id": 6368,
+    "mediaId": 163,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Reuters",
+    "title": "Trump endorses Vance in Ohio's Republican Senate primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 6387,
+    "mediaId": 195,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Niall Stanage",
+    "title": "The Memo: Democrats hope Trump will save them from midterm disaster",
+    "sentiment": "0"
+  },
+  {
+    "id": 6394,
     "mediaId": 129,
-    "date": "d2022-05-16T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "",
-    "title": "From Voodoo to MAGA to Buffalo",
+    "title": "SEARCH",
+    "sentiment": "0"
+  },
+  {
+    "id": 5511,
+    "mediaId": 238,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Dana Milbank",
+    "title": "Opinion Republicans are bringing extremism to the mainstream",
+    "sentiment": "0"
+  },
+  {
+    "id": 5516,
+    "mediaId": 881,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "",
+    "title": "MORE LIKE THIS",
     "sentiment": "0"
   },
   {
     "id": 5519,
     "mediaId": 151,
-    "date": "d2022-05-16T14:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "",
     "title": "Student loan fight heats up as Biden weighs decision",
@@ -1496,43 +992,106 @@
   {
     "id": 5520,
     "mediaId": 21,
-    "date": "d2022-05-16T14:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Ayelet Sheffey",
     "title": "Donald Trump Jr. says Biden's student-loan forgiveness plans will force workers who didn't go 'to college to get drunk for four years' to pay for 'worthless gender study degrees'",
     "sentiment": "0"
   },
   {
-    "id": 5516,
-    "mediaId": 881,
-    "date": "d2022-05-16T15:50",
+    "id": 5524,
+    "mediaId": 234,
+    "date": "2022-00-16",
     "sentence": "",
-    "author": "",
-    "title": "MORE LIKE THIS",
+    "author": "Bess Levin",
+    "title": "Republicans Are Furious People Remember Theyve Been Pushing the Racist Great Replacement Rhetoric for Years",
     "sentiment": "0"
   },
   {
-    "id": 5511,
-    "mediaId": 238,
-    "date": "d2022-05-16T22:44",
+    "id": 5526,
+    "mediaId": 129,
+    "date": "2022-00-16",
     "sentence": "",
-    "author": "Dana Milbank",
-    "title": "Opinion Republicans are bringing extremism to the mainstream",
+    "author": "",
+    "title": "From Voodoo to MAGA to Buffalo",
+    "sentiment": "0"
+  },
+  {
+    "id": 6344,
+    "mediaId": 136,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Jason Lemon",
+    "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces",
+    "sentiment": "-0.744"
+  },
+  {
+    "id": 6354,
+    "mediaId": 209,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Grayson Quay",
+    "title": "10 things you need to know today: April 16, 2022",
+    "sentiment": "-0.571"
+  },
+  {
+    "id": 6355,
+    "mediaId": 188,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Samuel Mangold-Lenett",
+    "title": "JD Vance secures Donald Trump's endorsement in Ohio's crowded Republican Senate primary",
+    "sentiment": "0.883"
+  },
+  {
+    "id": 7018,
+    "mediaId": 124,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "",
+    "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
+    "sentiment": "0"
+  },
+  {
+    "id": 3350,
+    "mediaId": 129,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "Buffalo Shooting Live Updates: Biden Arrives in City to Mourn Shooting Victims",
     "sentiment": "0"
   },
   {
     "id": 4489,
     "mediaId": 157,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "'McConnell's worst nightmare': Morning Joe says Trump's 'bonkers' base is pushing for unelectable candidates",
     "sentiment": "0.567"
   },
   {
+    "id": 5482,
+    "mediaId": 238,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Greg Sargent",
+    "title": "Opinion Democrats are crafting a response to Buffalo. What will the right do?",
+    "sentiment": "0"
+  },
+  {
+    "id": 5497,
+    "mediaId": 98,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "LISA MASCARO",
+    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine",
+    "sentiment": "0"
+  },
+  {
     "id": 5504,
     "mediaId": 129,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "The Slaughter in Buffalo Hasnt Quieted the Great Replacement Caucus",
@@ -1541,79 +1100,151 @@
   {
     "id": 5507,
     "mediaId": 19,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "John Binder",
     "title": "Report: Joe Bidens Globalists Quietly Fight to Slash U.S. Tariffs on China",
     "sentiment": "0"
   },
   {
-    "id": 5497,
-    "mediaId": 98,
-    "date": "d2022-05-17T03:09",
+    "id": 6342,
+    "mediaId": 239,
+    "date": "2022-00-17",
     "sentence": "",
-    "author": "LISA MASCARO",
-    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine",
-    "sentiment": "0"
-  },
-  {
-    "id": 3350,
-    "mediaId": 129,
-    "date": "d2022-05-17T13:16:42",
-    "sentence": "",
-    "author": "",
-    "title": "Buffalo Shooting Live Updates: Biden Arrives in City to Mourn Shooting Victims",
-    "sentiment": "0"
-  },
-  {
-    "id": 5482,
-    "mediaId": 238,
-    "date": "d2022-05-17T20:55",
-    "sentence": "",
-    "author": "Greg Sargent",
-    "title": "Opinion Democrats are crafting a response to Buffalo. What will the right do?",
-    "sentiment": "0"
-  },
-  {
-    "id": 5469,
-    "mediaId": 129,
-    "date": "d2022-05-18T13:44",
-    "sentence": "",
-    "author": "",
-    "title": "Heres where Trumps endorsement record stands so far.",
-    "sentiment": "0"
+    "author": "Jennifer Harper",
+    "title": "NRA plans its major national meeting in Houston in May",
+    "sentiment": "-0.59"
   },
   {
     "id": 5462,
     "mediaId": 238,
-    "date": "d2022-05-18T21:29",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Paul Kane",
     "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell",
     "sentiment": "0.437"
   },
   {
-    "id": 6608,
-    "mediaId": 234,
-    "date": "d2022-05-19T00:00",
+    "id": 5469,
+    "mediaId": 129,
+    "date": "2022-00-18",
     "sentence": "",
-    "author": "Eric Lutz",
-    "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
+    "author": "",
+    "title": "Heres where Trumps endorsement record stands so far.",
+    "sentiment": "0"
+  },
+  {
+    "id": 6303,
+    "mediaId": 18,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Jeff Robbins",
+    "title": "Robbins: Here and abroad, democracy hanging in the balance",
+    "sentiment": "0"
+  },
+  {
+    "id": 6310,
+    "mediaId": 238,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "Ukraine is taking up less and less of the campaign conversation",
+    "sentiment": "0"
+  },
+  {
+    "id": 6311,
+    "mediaId": 195,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "JD Vance rolls out statewide ad touting Trump endorsement",
+    "sentiment": "0.621"
+  },
+  {
+    "id": 6315,
+    "mediaId": 238,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "On our radar: Rick Scotts tax plan draws notice from the White House",
+    "sentiment": "0"
+  },
+  {
+    "id": 6318,
+    "mediaId": 65,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Paul Steinhauser",
+    "title": "JD Vance highlights Trump endorsement with new TV ad in Ohios GOP Senate primary showdown",
+    "sentiment": "0.963"
+  },
+  {
+    "id": 6325,
+    "mediaId": 19,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Jacob Bliss",
+    "title": "Ohio Republican J.D. Vance Highlights Trump Endorsement in Latest Ad",
+    "sentiment": "0.665"
+  },
+  {
+    "id": 6329,
+    "mediaId": 19,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Breitbart News",
+    "title": "Breitbart News Daily Podcast Ep. 116: Happy Easter! The Pope Thinks Youre Racist; Guest: Emma-Jo Morris on Dr. Oz, the Trans Agenda, The Big Guy",
     "sentiment": "0"
   },
   {
     "id": 5456,
     "mediaId": 881,
-    "date": "d2022-05-19T14:17",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Cameron Joseph",
     "title": "Trumps Big Lie Made It Easier for Racists to Sell Great Replacement Theory",
     "sentiment": "0"
   },
   {
+    "id": 6293,
+    "mediaId": 151,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: White House wonders: To mask, or not to mask?",
+    "sentiment": "0"
+  },
+  {
+    "id": 6294,
+    "mediaId": 195,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Presented by Facebook  Mask-free travelers allowed, TSA says",
+    "sentiment": "0"
+  },
+  {
+    "id": 6296,
+    "mediaId": 376,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "John T. Bennett",
+    "title": "You always have to talk about health: Trump shows his first card in close-held 2024 hand",
+    "sentiment": "0"
+  },
+  {
+    "id": 6299,
+    "mediaId": 209,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "Jason Fields",
+    "title": "Censorship is as old as the pharaohs  and as new as today",
+    "sentiment": "0"
+  },
+  {
     "id": 6522,
     "mediaId": 376,
-    "date": "d2022-05-19T14:30",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Stephanie Akin\nKate Ackley\nMary Ellen McIntire",
     "title": "At the Races: NY state of turmoil",
@@ -1622,16 +1253,34 @@
   {
     "id": 6583,
     "mediaId": 195,
-    "date": "d2022-05-19T21:30",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Brad Bannon",
     "title": "Party primaries test power of Trumps backing and progressive platform",
     "sentiment": "0"
   },
   {
+    "id": 6608,
+    "mediaId": 234,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "Eric Lutz",
+    "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
+    "sentiment": "0"
+  },
+  {
+    "id": 6538,
+    "mediaId": 195,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Niall Stanage",
+    "title": "The Memo: Trump faces critical popularity test in Georgia",
+    "sentiment": "0"
+  },
+  {
     "id": 6575,
     "mediaId": 129,
-    "date": "d2022-05-20T00:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "Its Trumps Party, and Hell Lie if He Wants To",
@@ -1640,61 +1289,232 @@
   {
     "id": 7106,
     "mediaId": 129,
-    "date": "d2022-05-20T00:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "Democrats, the Midterm Jinx Is Not Inevitable",
     "sentiment": "0"
   },
   {
-    "id": 6538,
-    "mediaId": 195,
-    "date": "d2022-05-20T10:00",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: Trump faces critical popularity test in Georgia",
-    "sentiment": "0"
-  },
-  {
     "id": 7156,
     "mediaId": 151,
-    "date": "d2022-05-20T18:08",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "Inside McConnell's bid to quash GOP isolationists'",
     "sentiment": "0"
   },
   {
-    "id": 7229,
+    "id": 6252,
     "mediaId": 129,
-    "date": "d2022-05-22T00:00",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "",
-    "title": "My Lunch With President Biden",
+    "title": "Bashing Joe Biden? Give the Guy a Break!",
+    "sentiment": "0"
+  },
+  {
+    "id": 6253,
+    "mediaId": 136,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Robert Reich",
+    "title": "We're Running Out of Time to Hold Trump Accountable | Opinion",
+    "sentiment": "0.151"
+  },
+  {
+    "id": 6217,
+    "mediaId": 233,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "President Biden signs executive order to tackle climate change on Earth Day",
+    "sentiment": "0"
+  },
+  {
+    "id": 6221,
+    "mediaId": 163,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "James Oliphant",
+    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
+    "sentiment": "0"
+  },
+  {
+    "id": 6228,
+    "mediaId": 98,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Nolan D. McCaskill",
+    "title": "What the GOPs muted response on the McCarthy tapes means for the Republican Party",
+    "sentiment": "0"
+  },
+  {
+    "id": 6234,
+    "mediaId": 558,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "James Oliphant",
+    "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
+    "sentiment": "-0.68"
+  },
+  {
+    "id": 6246,
+    "mediaId": 238,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Mariana Alfaro",
+    "title": "Leader McCarthy, Rep. Greene both have some explaining to do about Jan. 6",
     "sentiment": "0"
   },
   {
     "id": 7198,
     "mediaId": 323,
-    "date": "d2022-05-22T14:33",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Cameron McWhirter",
     "title": "Georgia Governor Race Is a Test for Trump. It Isn't Going Well.",
     "sentiment": "0"
   },
   {
+    "id": 7229,
+    "mediaId": 129,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "My Lunch With President Biden",
+    "sentiment": "0"
+  },
+  {
+    "id": 6196,
+    "mediaId": 195,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Niall Stanage",
+    "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
+    "sentiment": "0"
+  },
+  {
+    "id": 6199,
+    "mediaId": 302,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Jim Verhulst",
+    "title": "Heres what to read from the left and the right | Column",
+    "sentiment": "0"
+  },
+  {
+    "id": 6200,
+    "mediaId": 65,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Ohio Trump rally: Former president's backing may 'propel Vance to victory,' indicate power of his endorsement",
+    "sentiment": "0.227"
+  },
+  {
+    "id": 6207,
+    "mediaId": 19,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Exclusive  Trump Senior Adviser Lynne Patton: Trump Is Endorsing Candidates Who Can Beat Democrats in the General Election",
+    "sentiment": "0"
+  },
+  {
+    "id": 6210,
+    "mediaId": 19,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Jordan Dixon-Hamilton",
+    "title": "Exclusive  J.D. Vance: I Will Fight Back Against Chinese Theft of Our Manufacturing Base",
+    "sentiment": "-0.474"
+  },
+  {
+    "id": 6215,
+    "mediaId": 43,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "",
+    "title": "Caravan with a dumb solo: previous guy (even) more deranged in OH rally",
+    "sentiment": "0"
+  },
+  {
     "id": 7326,
     "mediaId": 1546,
-    "date": "d2022-05-23T17:21",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Ken Bredemeier",
     "title": "Trump's Election Fraud Claims Face a Test in Georgia",
     "sentiment": "0"
   },
   {
+    "id": 6172,
+    "mediaId": 195,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Albert Hunt",
+    "title": "McConnells dilemma: What if Trumps candidates win?",
+    "sentiment": "0"
+  },
+  {
+    "id": 6175,
+    "mediaId": 409,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Caroline Downey",
+    "title": "Trump Blasts Failures of Biden Admin, Campaigns for Vance at Ohio Rally",
+    "sentiment": "-0.432"
+  },
+  {
+    "id": 6180,
+    "mediaId": 21,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Hannah Getahun",
+    "title": "Trump said he took a cognitive test because he didn't 'like being called stupid'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6181,
+    "mediaId": 165,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Ryan Bort",
+    "title": "Trump Rambles About Toilets Not Flushing During Ohio Rally  Oh, and Also: Hijacking Americas Election Systems",
+    "sentiment": "-0.356"
+  },
+  {
+    "id": 6182,
+    "mediaId": 136,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Scott McDonald",
+    "title": "Trump Says J.D. Vance 'Said Some Bad Sh*t About Me' During His Endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 6185,
+    "mediaId": 209,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Grayson Quay",
+    "title": "10 things you need to know today: April 24, 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 6188,
+    "mediaId": 157,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Evangelicals and 'Christian righteousness' power Trump's delusions of election fraud: NYT",
+    "sentiment": "0"
+  },
+  {
     "id": 7309,
     "mediaId": 323,
-    "date": "d2022-05-24T09:30",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Cameron McWhirter",
     "title": "Georgia GOP Primary Elections for Governor and Secretary of State Are Top Contests Today",
@@ -1703,37 +1523,217 @@
   {
     "id": 7412,
     "mediaId": 233,
-    "date": "d2022-05-24T23:24",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "David Jackson",
     "title": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
     "sentiment": "0"
   },
   {
+    "id": 6155,
+    "mediaId": 237,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Christian Datoc",
+    "title": "Biden thinks Democrats can gain Senate seats this year  with Trump's help",
+    "sentiment": "0"
+  },
+  {
+    "id": 6165,
+    "mediaId": 238,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "",
+    "title": "On trip to border, McCarthy deflects questions about Trump and Jan. 6",
+    "sentiment": "0"
+  },
+  {
     "id": 7331,
     "mediaId": 238,
-    "date": "d2022-05-25T03:03",
+    "date": "2022-00-25",
     "sentence": "",
     "author": "David Weigel",
     "title": "Kemp, Raffensperger win in blow to Trump and his false election claims",
     "sentiment": "0"
   },
   {
+    "id": 6145,
+    "mediaId": 124,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "",
+    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
+    "sentiment": "0"
+  },
+  {
+    "id": 6134,
+    "mediaId": 19,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Joshua Klein",
+    "title": "GOP Rips Dystopian DHS Plans for Disinformation Governance Board, Orwellian Abuse of Power by Biden Admin",
+    "sentiment": "0"
+  },
+  {
+    "id": 8225,
+    "mediaId": 237,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Paul Bedard",
+    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
+    "sentiment": "0.374"
+  },
+  {
     "id": 8509,
     "mediaId": 238,
-    "date": "d2022-05-27T11:10",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Felicia Sonmez",
     "title": "Post Politics Now Biden to address Naval Academy graduates; Trump to speak at NRA convention",
     "sentiment": "0"
   },
   {
+    "id": 6106,
+    "mediaId": 195,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Biden, Congress mull mounting economic woes",
+    "sentiment": "0"
+  },
+  {
+    "id": 6107,
+    "mediaId": 120,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Hayes Brown",
+    "title": "If Biden has a student loan forgiveness plan, now is the time announce it",
+    "sentiment": "0"
+  },
+  {
+    "id": 6108,
+    "mediaId": 151,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "It's Trump vs. Cruz in Ohio and Pa. Senate races",
+    "sentiment": "0"
+  },
+  {
+    "id": 6116,
+    "mediaId": 238,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "Post Politics Now Trump to rally with GOP gubernatorial hopeful in Nebraska accused of sexual assault",
+    "sentiment": "0"
+  },
+  {
+    "id": 6117,
+    "mediaId": 157,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
+    "sentiment": "0"
+  },
+  {
+    "id": 4363,
+    "mediaId": 112,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Robert Schroeder",
+    "title": "Trump-backed Senate hopeful Vance tied in polls ahead of Ohio primary seen as key test for ex-president",
+    "sentiment": "0"
+  },
+  {
+    "id": 6078,
+    "mediaId": 237,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Cami Mondeaux",
+    "title": "Mike drop: Trump endorses Pences brother without mentioning veep",
+    "sentiment": "0"
+  },
+  {
+    "id": 6087,
+    "mediaId": 129,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "For J.D. Vance, Hillbilly Elegy Was the Question, and Trump Was the Answer",
+    "sentiment": "0"
+  },
+  {
+    "id": 6088,
+    "mediaId": 129,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "The Decline of Ohio and the Rise of J.D. Vance",
+    "sentiment": "0"
+  },
+  {
+    "id": 6094,
+    "mediaId": 43,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
+    "sentiment": "0"
+  },
+  {
+    "id": 6095,
+    "mediaId": 157,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Matthew Chapman",
+    "title": "JD Vance suggests Biden is deliberately letting fentanyl into America to kill rural Trump supporters",
+    "sentiment": "0"
+  },
+  {
     "id": 8562,
     "mediaId": 195,
-    "date": "d2022-05-29T15:30",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "Albert Hunt",
     "title": "Better candidates may not be enough for Democrats to retain the Senate",
+    "sentiment": "0"
+  },
+  {
+    "id": 4349,
+    "mediaId": 188,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Paul Sacca",
+    "title": "Republicans vow to eradicate Biden's Disinformation Governance Board. Boebert says it is at a 'Stalin level,' DeSantis warns: 'You cannot have a ministry of truth in this country.'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6065,
+    "mediaId": 136,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Fatma Khaled",
+    "title": "MAGA Voter Deaths by Fentanyl via Border 'Does Look Intentional': JD Vance",
+    "sentiment": "-0.755"
+  },
+  {
+    "id": 6071,
+    "mediaId": 65,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Fox News Staff",
+    "title": "JD Vance: Will there be America-first Republicans or 'same old' Republicans in Congress after midterms?",
+    "sentiment": "0"
+  },
+  {
+    "id": 6072,
+    "mediaId": 195,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Lexi Lonas",
+    "title": "Barr: GOP has big opportunity to move past Trump in 2024",
     "sentiment": "0"
   }
 ]

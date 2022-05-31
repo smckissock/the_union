@@ -1,8 +1,35 @@
 [
   {
+    "id": 5743,
+    "mediaId": 157,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Brad Reed",
+    "title": "JD Vance-backing super PAC wrote a brutal oppo book on their own candidate -- and it's public for all to see",
+    "sentiment": "-0.174"
+  },
+  {
+    "id": 5669,
+    "mediaId": 65,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "JD Vance campaign fires back at Politico Playbook: They're acting like Tim Ryan's 'PR team'",
+    "sentiment": "-0.574"
+  },
+  {
+    "id": 5677,
+    "mediaId": 63,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Zach Everson",
+    "title": "Thiel Was Good For $10 Million, But J.D. Vances Other Billionaire Backers Were Good For Nothing",
+    "sentiment": "0"
+  },
+  {
     "id": 6436,
     "mediaId": 19,
-    "date": "d2022-04-09T00:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "James P. Pinkerton",
     "title": "Pinkerton: David vs. Goliath  Five Takeaways from the Amazon Workers Victory Over Union-Busting Billionaire Bezos",
@@ -11,37 +38,10 @@
   {
     "id": 6297,
     "mediaId": 188,
-    "date": "d2022-04-19T00:00",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Sarah Taylor",
     "title": "Washington Post reporter taken to the woodshed for doxxing anonymous Libs of Tik Tok creator, prompting outlet to stealth-edit the report",
     "sentiment": "0"
-  },
-  {
-    "id": 5743,
-    "mediaId": 157,
-    "date": "d2022-05-05T00:00",
-    "sentence": "",
-    "author": "Brad Reed",
-    "title": "JD Vance-backing super PAC wrote a brutal oppo book on their own candidate -- and it's public for all to see",
-    "sentiment": "-0.174"
-  },
-  {
-    "id": 5677,
-    "mediaId": 63,
-    "date": "d2022-05-06T10:30",
-    "sentence": "",
-    "author": "Zach Everson",
-    "title": "Thiel Was Good For $10 Million, But J.D. Vances Other Billionaire Backers Were Good For Nothing",
-    "sentiment": "0"
-  },
-  {
-    "id": 5669,
-    "mediaId": 65,
-    "date": "d2022-05-06T14:25",
-    "sentence": "",
-    "author": "",
-    "title": "JD Vance campaign fires back at Politico Playbook: They're acting like Tim Ryan's 'PR team'",
-    "sentiment": "-0.574"
   }
 ]

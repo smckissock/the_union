@@ -1,17 +1,8 @@
 [
   {
-    "id": 8225,
-    "mediaId": 237,
-    "date": "d2022-01-27T16:22",
-    "sentence": "",
-    "author": "Paul Bedard",
-    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
-    "sentiment": "0.374"
-  },
-  {
     "id": 6055,
     "mediaId": 25,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
@@ -20,10 +11,19 @@
   {
     "id": 5693,
     "mediaId": 25,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Adam Brewster, Jacob Rosen",
     "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024",
     "sentiment": "0"
+  },
+  {
+    "id": 8225,
+    "mediaId": 237,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Paul Bedard",
+    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
+    "sentiment": "0.374"
   }
 ]

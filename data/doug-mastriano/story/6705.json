@@ -1,25 +1,18 @@
 {
   "id": 6705,
   "mediaId": 238,
-  "date": "d2022-05-18T00:00",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "Pennsylvania Republicans identify the real kingmaker: Sean Hannity",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/18/pennsylvania-republicans-identify-real-kingmaker-sean-hannity/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Philip Bump",
   "authorUrl": "https://www.washingtonpost.com/people/philip-bump/",
   "termIds": [
-    1147,
-    1148,
-    1653,
-    3102,
-    200,
-    428,
-    571,
-    2862
+    3102
   ],
   "sentences": [
     "Giving me advice in late-night conversations  again the kinds of things that true friends do for one another.?\nHere, again, I am obligated by the standards of my profession to gnash my teeth at Hannity offering behind the scenes? advice to a candidate for office, but I will say that Im gnashing them with little more than depressed resignation.",

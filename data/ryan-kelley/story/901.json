@@ -1,11 +1,11 @@
 {
   "id": 901,
   "mediaId": 157,
-  "date": "d2022-04-19T00:00",
+  "date": "4/19/2022 12:00:00 AM",
   "headline": "Meatgrinder' GOP Gov. primary in Michigan will leave nominee broke, bloodied, and disliked': expert",
   "image": "https://www.rawstory.com/media-library/donald-trump-and-tudor-dixon.jpg?id=29699932&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/michigan-governor-2022-republicans/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,19 +13,12 @@
   "authorUrl": "https://www.rawstory.com/u/bob_brigham",
   "termIds": [
     651,
-    773,
-    1002,
-    1645,
     1682,
     1844,
     2002,
     2298,
     3075,
-    3095,
-    146,
-    428,
-    2645,
-    2791
+    3095
   ],
   "sentences": [
     "\"The large field means candidates will collectively need to spend many millions of dollars from Republican donors before it is known who will oppose Whitmer, who is sitting on a large and growing campaign war chest to see a second four-year term.\"",

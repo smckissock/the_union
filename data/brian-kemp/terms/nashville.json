@@ -2,28 +2,28 @@
   {
     "id": 1452,
     "mediaId": 237,
-    "date": "d2022-02-07T16:17",
+    "date": "2022-00-07",
     "sentence": "The best shot they had of beating <span class='selected-term'>Brian Kemp</span> was to get him into a runoff.?\nStacey Abrams, who lost to Kemp narrowly in 2018, is running again this year and is considered the putative Democratic nominee.",
     "author": "David M. Drucker",
     "title": "David Perdue gets clear shot at Georgia Gov. Brian Kemp with Vernon Jones primary exit",
     "sentiment": "0"
   },
   {
-    "id": 5399,
-    "mediaId": 323,
-    "date": "d2022-03-30T22:53",
-    "sentence": "WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022Play video: WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022\n Potomac Watch: Stacey Abrams lost the 2018 Georgia governor's race to republican <span class='selected-term'>Brian Kemp</span>, and to this day she's never accepted the result.",
-    "author": "The Editorial Board",
-    "title": "Tennessees Political Protection Racket",
-    "sentiment": "-0.67"
-  },
-  {
     "id": 7507,
     "mediaId": 238,
-    "date": "d2022-05-23T00:00",
+    "date": "2022-00-23",
     "sentence": "",
     "author": "Theodoric Meyer",
     "title": "Tuesday's primary fights could be the latest sign of Blue Dogs' waning influence",
     "sentiment": "0.0"
+  },
+  {
+    "id": 5399,
+    "mediaId": 323,
+    "date": "2022-00-30",
+    "sentence": "WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022Play video: WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022\n Potomac Watch: Stacey Abrams lost the 2018 Georgia governor's race to republican <span class='selected-term'>Brian Kemp</span>, and to this day she's never accepted the result.",
+    "author": "The Editorial Board",
+    "title": "Tennessees Political Protection Racket",
+    "sentiment": "-0.67"
   }
 ]

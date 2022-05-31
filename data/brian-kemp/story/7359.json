@@ -1,26 +1,18 @@
 {
   "id": 7359,
   "mediaId": 151,
-  "date": "d2022-05-25T05:05",
+  "date": "5/25/2022 12:00:00 AM",
   "headline": "Raffensperger wins Georgia secretary of state primary over Trump-backed opponent",
   "image": "https://www.politico.com/dims4/default/0ded8d5/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Faf%2Fc1%2F057b948249098d3231c2899ee2b3%2Fap20322055500606.jpg",
   "link": "https://www.politico.com/news/2022/05/25/raffensperger-wins-georgia-secretary-of-state-primary-over-trump-backed-opponent-00035011",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    712,
-    926,
-    1147,
-    2095,
-    2203,
-    2279,
-    2555,
-    2672,
-    2791
+    2095
   ],
   "sentences": [
     "| Brynn Anderson, File/AP Photo\nBy Zach Montellaro\n 05/25/2022 01:05 AM EDT\nGeorgia Secretary of State Brad Raffensperger has defeated his GOP primary opponent, Rep. Jody Hice, in a major repudiation of former President Donald Trump by Georgia Republicans.",

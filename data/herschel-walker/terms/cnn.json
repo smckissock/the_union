@@ -1,62 +1,26 @@
 [
   {
-    "id": 8267,
-    "mediaId": 223,
-    "date": "d2022-01-19T13:30",
-    "sentence": "The paper decided to go through the Instagram account of Senate candidate <span class='selected-term'>Herschel Walker</span>, and they have found a number of accounts that were followed thatuh, well, I guess the reporters did not likeit seems?",
-    "author": "Brad Slager",
-    "title": "CNN 'Conspiracy Buster' Raves When the Network Hires a Conspiracy Source",
-    "sentiment": "-0.463"
-  },
-  {
-    "id": 8246,
-    "mediaId": 43,
-    "date": "d2022-01-26T00:00",
-    "sentence": "McConnell being forced to bow to Trump's wishes on endorsing alleged wife-beater and violence-prone former football star <span class='selected-term'>Herschel Walker</span>?",
-    "author": "",
-    "title": "McConnell tells CNN everything is going perfectly for 2022 with just one",
-    "sentiment": "-0.494"
-  },
-  {
-    "id": 7968,
-    "mediaId": 188,
-    "date": "d2022-03-23T00:00",
-    "sentence": "The White House requested for Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span> to resign from the President's Council on Sports, Fitness & Nutrition on Wednesday, or else face termination, according to CNN.",
-    "author": "Alex Nitzberg",
-    "title": "White House ousts Dr. Mehmet Oz and Herschel Walker from President's Council on Sports, Fitness & Nutrition",
-    "sentiment": "-0.833"
-  },
-  {
-    "id": 7885,
-    "mediaId": 151,
-    "date": "d2022-03-27T15:33",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7861,
-    "mediaId": 33,
-    "date": "d2022-04-01T00:00",
-    "sentence": "The street where Johnson County High School resides was officially renamed \"<span class='selected-term'>Herschel Walker</span> Drive\" in 2017 in honor of Walker's football achievements.",
-    "author": "Andrew Kaczynski and Em Steck",
-    "title": "GOP Senate candidate Herschel Walker has been overstating his academic achievements for years",
-    "sentiment": "-0.343"
-  },
-  {
     "id": 7854,
     "mediaId": 165,
-    "date": "d2022-04-01T19:58",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "William Vaillancourt",
     "title": "Turns Out Herschel Walker, Who Questioned How Evolution Is Possible, Repeatedly Lied About His Academic Record",
     "sentiment": "-0.824"
   },
   {
+    "id": 7861,
+    "mediaId": 33,
+    "date": "2022-00-01",
+    "sentence": "The street where Johnson County High School resides was officially renamed \"<span class='selected-term'>Herschel Walker</span> Drive\" in 2017 in honor of Walker's football achievements.",
+    "author": "Andrew Kaczynski and Em Steck",
+    "title": "GOP Senate candidate Herschel Walker has been overstating his academic achievements for years",
+    "sentiment": "-0.343"
+  },
+  {
     "id": 7848,
     "mediaId": 129,
-    "date": "d2022-04-03T00:00",
+    "date": "2022-00-03",
     "sentence": "No one, and I mean not one person, would seriously believe that <span class='selected-term'>Herschel Walker</span>, the former football star and current leading contender for the Republican Senate nomination in Georgia, was at the top of his class at the University of Georgia.",
     "author": "",
     "title": "Herschel Walker, the Worst Candidate, Trump-Approved",
@@ -65,10 +29,46 @@
   {
     "id": 6360,
     "mediaId": 33,
-    "date": "d2022-04-16T00:00",
+    "date": "2022-00-16",
     "sentence": "Esta es una muestra de los apoyos de Trump hasta ahora en 2022:\nRespald a <span class='selected-term'>Herschel Walker</span> en la carrera por el Senado de Georgia.",
     "author": "",
     "title": "ANLISIS | La palabra que explica el respaldo de Donald Trump a J.D. Vance",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 8267,
+    "mediaId": 223,
+    "date": "2022-00-19",
+    "sentence": "The paper decided to go through the Instagram account of Senate candidate <span class='selected-term'>Herschel Walker</span>, and they have found a number of accounts that were followed thatuh, well, I guess the reporters did not likeit seems?",
+    "author": "Brad Slager",
+    "title": "CNN 'Conspiracy Buster' Raves When the Network Hires a Conspiracy Source",
+    "sentiment": "-0.463"
+  },
+  {
+    "id": 7968,
+    "mediaId": 188,
+    "date": "2022-00-23",
+    "sentence": "The White House requested for Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span> to resign from the President's Council on Sports, Fitness & Nutrition on Wednesday, or else face termination, according to CNN.",
+    "author": "Alex Nitzberg",
+    "title": "White House ousts Dr. Mehmet Oz and Herschel Walker from President's Council on Sports, Fitness & Nutrition",
+    "sentiment": "-0.833"
+  },
+  {
+    "id": 8246,
+    "mediaId": 43,
+    "date": "2022-00-26",
+    "sentence": "McConnell being forced to bow to Trump's wishes on endorsing alleged wife-beater and violence-prone former football star <span class='selected-term'>Herschel Walker</span>?",
+    "author": "",
+    "title": "McConnell tells CNN everything is going perfectly for 2022 with just one",
+    "sentiment": "-0.494"
+  },
+  {
+    "id": 7885,
+    "mediaId": 151,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
     "sentiment": "0.0"
   }
 ]

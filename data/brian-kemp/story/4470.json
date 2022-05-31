@@ -1,11 +1,11 @@
 {
   "id": 4470,
   "mediaId": 65,
-  "date": "d2022-05-18T22:00",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "Fox News Poll: Georgias GOP primary race for governor sees Kemp holding wide lead over Perdue",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d41511f-40b1-4bf7-89bf-d3bbe7d7f253/948c6cfb-800a-46eb-86e4-65d13d8d267c/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/official-polls/fox-news-poll-georgia-primary-governor-kemp-lead-perdue",
-  "sentiment": "0.592",
+  "sentiment": "0.0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,9 @@
   "authorUrl": "",
   "termIds": [
     815,
-    973,
-    1434,
     1664,
     2095,
-    3082,
-    4682,
-    4687,
-    200,
-    428,
-    2672
+    3082
   ],
   "sentences": [
     "Conducted May 12-16, 2022, under the joint direction of Beacon Research (D) and Shaw & Company Research (R), this Fox News Poll includes telephone interviews (landline and cellphone) with live interviewers among 1,004 Georgia Republican primary voters and has a margin of sampling error of plus or minus three percentage points.",

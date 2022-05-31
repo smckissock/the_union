@@ -1,17 +1,8 @@
 [
   {
-    "id": 1006,
-    "mediaId": 261,
-    "date": "d2022-01-27T19:49",
-    "sentence": "Other Republican candidates for Michigan governor are Oakland County businessman Kevin Rinke; Norton Shores businesswoman and conservative commentator Tudor Dixon; Kalamazoo chiropractor <span class='selected-term'>Garrett Soldano</span>; Michigan State Police Capt.",
-    "author": "Paul Egan",
-    "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor",
-    "sentiment": "0.0"
-  },
-  {
     "id": 917,
     "mediaId": 157,
-    "date": "d2022-04-07T00:00",
+    "date": "2022-00-07",
     "sentence": "There are 12 Republicans running for the GOP nomination in the August primary, including chiropractor <span class='selected-term'>Garrett Soldano</span>, right-wing commentator Tudor Dixon, former Detroit Police Chief James Craig, businessman Perry Johnson and businessman Kevin Rinke.",
     "author": "Allison R. Donahue",
     "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case",
@@ -20,10 +11,19 @@
   {
     "id": 3454,
     "mediaId": 261,
-    "date": "d2022-05-16T23:30",
+    "date": "2022-00-16",
     "sentence": "Based on a poll the business group conducted of support for the 10 candidates who have submitted petition signatures to get on the primary ballot, the chamber invited former Detroit Police Chief James Craig, Oakland County businessman Perry Johnson, Kelley, Oakland County businessman Kevin Rinke, and Kalamazoo chiropractor <span class='selected-term'>Garrett Soldano</span> to participate in the June 2 debate.",
     "author": "Paul Egan",
     "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 1006,
+    "mediaId": 261,
+    "date": "2022-00-27",
+    "sentence": "Other Republican candidates for Michigan governor are Oakland County businessman Kevin Rinke; Norton Shores businesswoman and conservative commentator Tudor Dixon; Kalamazoo chiropractor <span class='selected-term'>Garrett Soldano</span>; Michigan State Police Capt.",
+    "author": "Paul Egan",
+    "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor",
     "sentiment": "0.0"
   }
 ]

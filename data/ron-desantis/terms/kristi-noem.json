@@ -1,26 +1,8 @@
 [
   {
-    "id": 5066,
-    "mediaId": 19,
-    "date": "d2022-04-20T00:00",
-    "sentence": "The pact is signed by the following governors:\nGovernors Doug Ducey (AZ), Greg Abbott (TX), Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
-    "author": "Bob Price",
-    "title": "26 Governors Mobilize Against Migration Chaos at Border",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5061,
-    "mediaId": 223,
-    "date": "d2022-04-20T10:30",
-    "sentence": "The Strike Force includes Governors Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
-    "author": "Spencer Brown",
-    "title": "GOP Governors Launch 'Strike Force' to Combat Biden Border Crisis",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4152,
     "mediaId": 163,
-    "date": "d2022-05-03T04:09",
+    "date": "2022-00-03",
     "sentence": "FLORIDA: Republican Governor <span class='selected-term'>Ron DeSantis</span> in April signed a 15-week abortion ban, which allows exceptions for medical emergencies or if the fetus has a fatal abnormality.",
     "author": "Gabriella Borter",
     "title": "Factbox: Restrictions vs protections: How U.S. states are taking sides on abortion",
@@ -29,7 +11,7 @@
   {
     "id": 4152,
     "mediaId": 163,
-    "date": "d2022-05-03T04:09",
+    "date": "2022-00-03",
     "sentence": "FLORIDA: Republican Governor <span class='selected-term'>Ron DeSantis</span> in April signed a 15-week abortion ban, which allows exceptions for medical emergencies or if the fetus has a fatal abnormality.",
     "author": "Gabriella Borter",
     "title": "Factbox: Restrictions vs protections: How U.S. states are taking sides on abortion",
@@ -38,7 +20,7 @@
   {
     "id": 4053,
     "mediaId": 195,
-    "date": "d2022-05-04T13:30",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Kristin Tate",
     "title": "Trump is Democrats only hope in 2024",
@@ -47,7 +29,7 @@
   {
     "id": 4053,
     "mediaId": 195,
-    "date": "d2022-05-04T13:30",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Kristin Tate",
     "title": "Trump is Democrats only hope in 2024",
@@ -56,7 +38,7 @@
   {
     "id": 3558,
     "mediaId": 223,
-    "date": "d2022-05-16T00:01",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Scott Morefield",
     "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room",
@@ -65,10 +47,28 @@
   {
     "id": 3558,
     "mediaId": 223,
-    "date": "d2022-05-16T00:01",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Scott Morefield",
     "title": "The Five Most Important Americans Alive Right Now, And The Missing Elephant In The Room",
     "sentiment": "0.331"
+  },
+  {
+    "id": 5061,
+    "mediaId": 223,
+    "date": "2022-00-20",
+    "sentence": "The Strike Force includes Governors Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
+    "author": "Spencer Brown",
+    "title": "GOP Governors Launch 'Strike Force' to Combat Biden Border Crisis",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5066,
+    "mediaId": 19,
+    "date": "2022-00-20",
+    "sentence": "The pact is signed by the following governors:\nGovernors Doug Ducey (AZ), Greg Abbott (TX), Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), <span class='selected-term'>Ron DeSantis</span> (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
+    "author": "Bob Price",
+    "title": "26 Governors Mobilize Against Migration Chaos at Border",
+    "sentiment": "0.0"
   }
 ]

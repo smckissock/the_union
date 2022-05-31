@@ -1,28 +1,18 @@
 {
   "id": 6337,
   "mediaId": 21,
-  "date": "d2022-04-17T14:00",
+  "date": "4/17/2022 12:00:00 AM",
   "headline": "Trump stopped taking phone calls after GOP blowback from JD Vance endorsement in Ohio Senate race: report",
   "image": "https://i.insider.com/625bb39833c02a0018ca3c92?width=1000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-vance-ohio-senate-endorsement-dismissed-phone-calls-republican-resistance-2022-4",
-  "sentiment": "-0.524",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John L. Dorman",
   "authorUrl": "https://www.businessinsider.com/author/john-l-dorman",
   "termIds": [
-    836,
-    946,
-    1147,
-    1801,
-    2027,
-    2466,
-    3103,
-    380,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "The contest has been a raucous affair in recent months as candidates have sharpened their messaging ahead of the May 3 GOP primary, seeking to gain favor with the legions of conservatives who powered Trump's wins during his two presidential campaigns and have shifted Ohio rightward after its long run as the quintessential Midwestern swing state.",

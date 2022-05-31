@@ -1,17 +1,8 @@
 [
   {
-    "id": 6170,
-    "mediaId": 195,
-    "date": "d2022-04-24T16:55",
-    "sentence": "",
-    "author": "Olafimihan Oshin",
-    "title": "Christe calls Trumps endorsements all emotional decisions",
-    "sentiment": "-0.663"
-  },
-  {
     "id": 5755,
     "mediaId": 195,
-    "date": "d2022-05-04T21:46",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Lexi Lonas",
     "title": "Oz to speak at Trump rally in Pennsylvania",
@@ -20,7 +11,7 @@
   {
     "id": 5711,
     "mediaId": 237,
-    "date": "d2022-05-05T17:01",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Juliegrace Brufke",
     "title": "GOP Senate nominees Vance of Ohio and Oz of Pennsylvania set to rally with Trump",
@@ -29,7 +20,7 @@
   {
     "id": 5588,
     "mediaId": 65,
-    "date": "d2022-05-10T22:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Fox News Poll: Three-way race in Pennsylvania GOP Senate primary election",
@@ -38,10 +29,19 @@
   {
     "id": 5541,
     "mediaId": 323,
-    "date": "d2022-05-14T13:00",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "John McCormick",
     "title": "Kathy Barnette Scrambles Pennsylvania GOP Senate Primary, Drawing Trump Ire",
     "sentiment": "0"
+  },
+  {
+    "id": 6170,
+    "mediaId": 195,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Olafimihan Oshin",
+    "title": "Christe calls Trumps endorsements all emotional decisions",
+    "sentiment": "-0.663"
   }
 ]

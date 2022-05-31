@@ -1,11 +1,11 @@
 {
   "id": 8472,
   "mediaId": 129,
-  "date": "d2022-05-26T00:00",
+  "date": "5/26/2022 12:00:00 AM",
   "headline": "The G.O.P. Has Gone Even Farther to the Right Than I Expected': Three Writers Talk About the Midterms",
   "image": "https://static01.nyt.com/images/2022/05/26/opinion/26bruni-continetti-smith-image/26bruni-continetti-smith-image-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/05/26/opinion/midterms-trump-democrats-republicans.html",
-  "sentiment": "0.606",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,18 +14,9 @@
   "termIds": [
     661,
     815,
-    1147,
-    1162,
-    1293,
-    1404,
     2095,
     2303,
-    3102,
-    4776,
-    6176,
-    6190,
-    428,
-    2834
+    3102
   ],
   "sentences": [
     "They voted against the American Rescue Plan (then took credit for the checks that went to American households), mostly voted against infrastructure (then took credit for projects in their districts), mostly voted against capping the price of insulin, voted against stopping oil companies from price gouging, mostly voted against a bill that would include importing baby formula.",

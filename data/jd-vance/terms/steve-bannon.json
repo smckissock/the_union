@@ -1,44 +1,8 @@
 [
   {
-    "id": 6383,
-    "mediaId": 98,
-    "date": "d2022-04-15T14:51",
-    "sentence": "",
-    "author": "",
-    "title": "Trump backs Hillbilly Elegy author J.D. Vance in U.S. Senate primary in Ohio",
-    "sentiment": "-0.359"
-  },
-  {
-    "id": 6344,
-    "mediaId": 136,
-    "date": "d2022-04-16T17:34",
-    "sentence": "",
-    "author": "Jason Lemon",
-    "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces",
-    "sentiment": "-0.744"
-  },
-  {
-    "id": 6225,
-    "mediaId": 195,
-    "date": "d2022-04-22T16:00",
-    "sentence": "",
-    "author": "Will Marshall",
-    "title": "Trump party blames America first",
-    "sentiment": "0"
-  },
-  {
-    "id": 6138,
-    "mediaId": 157,
-    "date": "d2022-04-27T00:00",
-    "sentence": "",
-    "author": "Timothy Evans",
-    "title": "Republican candidates left reeling after Club for Growth chief gets cast out of Trump World: report",
-    "sentiment": "-0.463"
-  },
-  {
     "id": 6043,
     "mediaId": 238,
-    "date": "d2022-05-01T23:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Trump makes closing pitch for Nebraska candidate accused of groping",
@@ -47,34 +11,34 @@
   {
     "id": 6024,
     "mediaId": 25,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Adam Brewster",
     "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
     "sentiment": "0.362"
   },
   {
-    "id": 5974,
-    "mediaId": 25,
-    "date": "d2022-05-03T00:00",
-    "sentence": "",
-    "author": "Adam Brewster",
-    "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
-    "sentiment": "0"
-  },
-  {
     "id": 5895,
     "mediaId": 136,
-    "date": "d2022-05-03T23:46",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Katherine Fung",
     "title": "What J.D. Vance Has Said on Voter Fraud as Ohio Sets Mail-In Ballot Record",
     "sentiment": "0"
   },
   {
+    "id": 5974,
+    "mediaId": 25,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Adam Brewster",
+    "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
+    "sentiment": "0"
+  },
+  {
     "id": 5846,
     "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Eric Lutz",
     "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
@@ -83,7 +47,7 @@
   {
     "id": 5744,
     "mediaId": 157,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Aaron Sanderford",
     "title": "Trump to hold follow-up call with voters after Nebraska rally for Charles Herbster",
@@ -92,7 +56,7 @@
   {
     "id": 5636,
     "mediaId": 238,
-    "date": "d2022-05-07T11:30",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "How 6 GOP candidates shifted their tones on stolen election claims",
@@ -101,16 +65,34 @@
   {
     "id": 5549,
     "mediaId": 129,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "",
     "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
     "sentiment": "0"
   },
   {
+    "id": 6383,
+    "mediaId": 98,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "",
+    "title": "Trump backs Hillbilly Elegy author J.D. Vance in U.S. Senate primary in Ohio",
+    "sentiment": "-0.359"
+  },
+  {
+    "id": 6344,
+    "mediaId": 136,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Jason Lemon",
+    "title": "Video of Trump-Backed Vance Saying He Doesn't Care About Ukraine Resurfaces",
+    "sentiment": "-0.744"
+  },
+  {
     "id": 5494,
     "mediaId": 238,
-    "date": "d2022-05-17T04:01",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Ishaan Tharoor",
     "title": "The Orbanization of America: The U.S. right walks in Hungarys path",
@@ -119,7 +101,7 @@
   {
     "id": 3471,
     "mediaId": 136,
-    "date": "d2022-05-18T17:32",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Katherine Fung",
     "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
@@ -128,10 +110,28 @@
   {
     "id": 6571,
     "mediaId": 151,
-    "date": "d2022-05-20T08:30",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "Trumps Alternate Reality Hits a New Crazy Note with Dr. Oz",
     "sentiment": "0"
+  },
+  {
+    "id": 6225,
+    "mediaId": 195,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Will Marshall",
+    "title": "Trump party blames America first",
+    "sentiment": "0"
+  },
+  {
+    "id": 6138,
+    "mediaId": 157,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "Timothy Evans",
+    "title": "Republican candidates left reeling after Club for Growth chief gets cast out of Trump World: report",
+    "sentiment": "-0.463"
   }
 ]

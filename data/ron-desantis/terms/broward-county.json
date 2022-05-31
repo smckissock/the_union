@@ -2,52 +2,52 @@
   {
     "id": 4299,
     "mediaId": 151,
-    "date": "d2022-05-01T11:01",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Florida lost 70,000 people to Covid. Its still not prepared for the next wave.",
     "sentiment": "0.0"
   },
   {
-    "id": 4262,
-    "mediaId": 25,
-    "date": "d2022-05-02T00:00",
-    "sentence": "\"Today, Miami, Orlando and Tampa have the fastest-growing rents in the country,\" some 40 lawmakers said in an April 28 letter to Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Irina Ivanova",
-    "title": "Florida is the least affordable place to live in the U.S.",
+    "id": 4223,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Jimena Tavel",
+    "title": "Who is Daniel Foganholi, the new Broward School Board member appointed by DeSantis?",
+    "sentiment": "0"
+  },
+  {
+    "id": 4223,
+    "mediaId": 558,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Jimena Tavel",
+    "title": "Who is Daniel Foganholi, the new Broward School Board member appointed by DeSantis?",
     "sentiment": "0.0"
   },
   {
     "id": 4237,
     "mediaId": 302,
-    "date": "d2022-05-02T10:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Pay remains sticking point for many Florida teachers, support staff",
     "sentiment": "0.0"
   },
   {
-    "id": 4223,
-    "mediaId": 558,
-    "date": "d2022-05-02T13:58",
-    "sentence": "",
-    "author": "Jimena Tavel",
-    "title": "Who is Daniel Foganholi, the new Broward School Board member appointed by DeSantis?",
-    "sentiment": "0"
-  },
-  {
-    "id": 4223,
-    "mediaId": 558,
-    "date": "d2022-05-02T13:58",
-    "sentence": "",
-    "author": "Jimena Tavel",
-    "title": "Who is Daniel Foganholi, the new Broward School Board member appointed by DeSantis?",
+    "id": 4262,
+    "mediaId": 25,
+    "date": "2022-00-02",
+    "sentence": "\"Today, Miami, Orlando and Tampa have the fastest-growing rents in the country,\" some 40 lawmakers said in an April 28 letter to Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Irina Ivanova",
+    "title": "Florida is the least affordable place to live in the U.S.",
     "sentiment": "0.0"
   },
   {
     "id": 3812,
     "mediaId": 157,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Stay Woke Go Vote: FL Black Caucus launches campaign to empower voters",
@@ -56,16 +56,25 @@
   {
     "id": 3812,
     "mediaId": 157,
-    "date": "d2022-05-10T00:00",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
     "title": "Stay Woke Go Vote: FL Black Caucus launches campaign to empower voters",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3705,
+    "mediaId": 302,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Lawsuit over teaching about gender identity has effects in Florida schools",
     "sentiment": "0.0"
   },
   {
     "id": 3709,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
@@ -74,7 +83,7 @@
   {
     "id": 3709,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
@@ -83,7 +92,7 @@
   {
     "id": 3710,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
@@ -92,25 +101,16 @@
   {
     "id": 3710,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
     "sentiment": "0.0"
   },
   {
-    "id": 3705,
-    "mediaId": 302,
-    "date": "d2022-05-11T11:00",
-    "sentence": "",
-    "author": "",
-    "title": "Lawsuit over teaching about gender identity has effects in Florida schools",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3507,
     "mediaId": 302,
-    "date": "d2022-05-17T11:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Pinellas schools to get new superintendent today",
@@ -119,7 +119,7 @@
   {
     "id": 3508,
     "mediaId": 151,
-    "date": "d2022-05-17T11:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Lee to jump into one of Florida's wild GOP primaries",
@@ -128,7 +128,7 @@
   {
     "id": 3508,
     "mediaId": 151,
-    "date": "d2022-05-17T11:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Lee to jump into one of Florida's wild GOP primaries",
@@ -137,7 +137,7 @@
   {
     "id": 7117,
     "mediaId": 302,
-    "date": "d2022-05-20T18:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "As cost of condo insurance soars, Florida legislators remain silent",
@@ -146,7 +146,7 @@
   {
     "id": 7117,
     "mediaId": 302,
-    "date": "d2022-05-20T18:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "As cost of condo insurance soars, Florida legislators remain silent",
@@ -155,7 +155,7 @@
   {
     "id": 8369,
     "mediaId": 147,
-    "date": "d2022-05-26T00:57",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Associated Press",
     "title": "Florida passes condo safety bill in wake of Surfside collapse",
@@ -164,7 +164,7 @@
   {
     "id": 8369,
     "mediaId": 147,
-    "date": "d2022-05-26T00:57",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Associated Press",
     "title": "Florida passes condo safety bill in wake of Surfside collapse",
@@ -173,7 +173,7 @@
   {
     "id": 8525,
     "mediaId": 302,
-    "date": "d2022-05-29T09:00:05",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Florida embraced social-emotional learning after Parkland. Not any more.",
@@ -182,7 +182,7 @@
   {
     "id": 8525,
     "mediaId": 302,
-    "date": "d2022-05-29T09:00:05",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Florida embraced social-emotional learning after Parkland. Not any more.",

@@ -1,53 +1,35 @@
 [
   {
-    "id": 6288,
-    "mediaId": 136,
-    "date": "d2022-04-19T18:54",
-    "sentence": "",
-    "author": "Natalie Colarossi",
-    "title": "Trump to Rally for Nebraska Candidate Accused of Sexual Assault",
-    "sentiment": "0"
-  },
-  {
-    "id": 6168,
-    "mediaId": 147,
-    "date": "d2022-04-24T21:40",
-    "sentence": "",
-    "author": "",
-    "title": "News Wrap: Thousands of acres still burning due to Western wildfires",
-    "sentiment": "0"
-  },
-  {
-    "id": 6116,
-    "mediaId": 238,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Post Politics Now Trump to rally with GOP gubernatorial hopeful in Nebraska accused of sexual assault",
-    "sentiment": "0"
-  },
-  {
-    "id": 6099,
-    "mediaId": 151,
-    "date": "d2022-04-28T17:14",
-    "sentence": "",
-    "author": "",
-    "title": "Trumps risky primary play: Rallying for a longtime ally accused of sexual misconduct",
-    "sentiment": "0"
-  },
-  {
     "id": 6043,
     "mediaId": 238,
-    "date": "d2022-05-01T23:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Trump makes closing pitch for Nebraska candidate accused of groping",
     "sentiment": "0"
   },
   {
+    "id": 5992,
+    "mediaId": 195,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Vance waves off Trump fumbling his name: Im not worried about it at all",
+    "sentiment": "-0.643"
+  },
+  {
+    "id": 6021,
+    "mediaId": 136,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Margaret Weaver",
+    "title": "Trump Touts Perfect Cognitive Test, Then Misspeaks Endorsing 'J.D. Mandel'",
+    "sentiment": "0"
+  },
+  {
     "id": 6029,
     "mediaId": 157,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "Trump headed for 'a couple of ugly nights' in May that will expose his weaknesses: adviser",
@@ -56,7 +38,7 @@
   {
     "id": 6031,
     "mediaId": 43,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "More deranged previous guy in Nebraska, because gropsters stick together",
@@ -65,34 +47,16 @@
   {
     "id": 6033,
     "mediaId": 43,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Watch The Previous Guy Forget The Name Of The Piece Of Sh*t He Endorsed In Ohio",
     "sentiment": "0.393"
   },
   {
-    "id": 6021,
-    "mediaId": 136,
-    "date": "d2022-05-02T01:09",
-    "sentence": "",
-    "author": "Margaret Weaver",
-    "title": "Trump Touts Perfect Cognitive Test, Then Misspeaks Endorsing 'J.D. Mandel'",
-    "sentiment": "0"
-  },
-  {
-    "id": 5992,
-    "mediaId": 195,
-    "date": "d2022-05-02T20:41",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Vance waves off Trump fumbling his name: Im not worried about it at all",
-    "sentiment": "-0.643"
-  },
-  {
     "id": 5983,
     "mediaId": 43,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "I Got Your Democratic Messaging Right Here",
@@ -101,43 +65,52 @@
   {
     "id": 5744,
     "mediaId": 157,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Aaron Sanderford",
     "title": "Trump to hold follow-up call with voters after Nebraska rally for Charles Herbster",
     "sentiment": "0"
   },
   {
-    "id": 5693,
-    "mediaId": 25,
-    "date": "d2022-05-06T00:00",
-    "sentence": "",
-    "author": "Adam Brewster, Jacob Rosen",
-    "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024",
-    "sentiment": "0"
-  },
-  {
-    "id": 5686,
-    "mediaId": 195,
-    "date": "d2022-05-06T01:05",
-    "sentence": "",
-    "author": "Caroline Vakil",
-    "title": "Trump holds second rally in a week for embattled Nebraska gubernatorial candidate",
-    "sentiment": "0"
-  },
-  {
     "id": 5680,
     "mediaId": 169,
-    "date": "d2022-05-06T06:31",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Chauncey DeVega",
     "title": "You laughed at Trump for screwing up J.D. Vance's name. Did that save Roe v. Wade?",
     "sentiment": "-0.743"
   },
   {
+    "id": 5686,
+    "mediaId": 195,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Caroline Vakil",
+    "title": "Trump holds second rally in a week for embattled Nebraska gubernatorial candidate",
+    "sentiment": "0"
+  },
+  {
+    "id": 5693,
+    "mediaId": 25,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Adam Brewster, Jacob Rosen",
+    "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024",
+    "sentiment": "0"
+  },
+  {
+    "id": 5609,
+    "mediaId": 129,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "",
+    "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
+    "sentiment": "0"
+  },
+  {
     "id": 5617,
     "mediaId": 25,
-    "date": "d2022-05-09T00:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Adam Brewster, Sarah Ewall-Wice",
     "title": "Nebraska's governor's primary race pits Trump-backed candidate accused of sexual misconduct against two other Republicans",
@@ -146,160 +119,187 @@
   {
     "id": 5622,
     "mediaId": 129,
-    "date": "d2022-05-09T00:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "How Trump Helped Transform Nebraska Into a Toxic Political Wasteland",
     "sentiment": "0"
   },
   {
-    "id": 5609,
-    "mediaId": 129,
-    "date": "d2022-05-09T23:00",
-    "sentence": "",
-    "author": "",
-    "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5605,
-    "mediaId": 19,
-    "date": "d2022-05-10T00:00",
-    "sentence": "",
-    "author": "Nick Gilbertson",
-    "title": "Trump-Backed Candidates 58-1 in Primaries Following Races in Nebraska, West Virginia",
-    "sentiment": "0"
-  },
-  {
-    "id": 5598,
-    "mediaId": 195,
-    "date": "d2022-05-10T09:27",
-    "sentence": "",
-    "author": "Tal Axelrod",
-    "title": "5 things to watch in the West Virginia, Nebraska primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5597,
-    "mediaId": 238,
-    "date": "d2022-05-10T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today",
-    "sentiment": "0"
-  },
-  {
-    "id": 5592,
-    "mediaId": 238,
-    "date": "d2022-05-10T14:21",
-    "sentence": "",
-    "author": "",
-    "title": "Post Politics Now Biden to speak on inflation, try to turn the tables on Republicans",
-    "sentiment": "0"
-  },
-  {
     "id": 5591,
     "mediaId": 136,
-    "date": "d2022-05-10T17:15",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "Rob Minto",
     "title": "Trump's Endorsement Record Is Improving: Here's the Key to His Success",
     "sentiment": "0.811"
   },
   {
-    "id": 5579,
-    "mediaId": 136,
-    "date": "d2022-05-11T03:29",
-    "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "Donald Trump's 55-0 Primary Winning Streak Finally Ends",
-    "sentiment": "0"
-  },
-  {
-    "id": 5578,
-    "mediaId": 151,
-    "date": "d2022-05-11T03:48",
-    "sentence": "",
-    "author": "",
-    "title": "Here are the Trump-backed candidates who won the Nebraska and West Virginia primaries",
-    "sentiment": "0.24"
-  },
-  {
-    "id": 5577,
-    "mediaId": 151,
-    "date": "d2022-05-11T05:16",
-    "sentence": "",
-    "author": "",
-    "title": "Trump gets knocked down in Nebraska",
-    "sentiment": "0"
-  },
-  {
-    "id": 5575,
+    "id": 5592,
     "mediaId": 238,
-    "date": "d2022-05-11T10:23",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
-    "title": "Takeaways from West Virginia and Nebraska GOP primaries",
-    "sentiment": "-0.465"
-  },
-  {
-    "id": 5572,
-    "mediaId": 129,
-    "date": "d2022-05-11T13:27:59",
-    "sentence": "",
-    "author": "",
-    "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
+    "title": "Post Politics Now Biden to speak on inflation, try to turn the tables on Republicans",
     "sentiment": "0"
   },
   {
-    "id": 5571,
-    "mediaId": 136,
-    "date": "d2022-05-11T15:06",
-    "sentence": "",
-    "author": "Ewan Palmer",
-    "title": "Donald Trump Is Losing More Primary Races Than He'd Like You to Know",
-    "sentiment": "0"
-  },
-  {
-    "id": 5568,
+    "id": 5597,
     "mediaId": 238,
-    "date": "d2022-05-11T16:27",
+    "date": "2022-00-10",
     "sentence": "",
     "author": "",
-    "title": "The MAGA vs. GOP divide in the Republican primaries",
+    "title": "Trump-backed candidate accused of groping is on Nebraska ballot today",
+    "sentiment": "0"
+  },
+  {
+    "id": 5598,
+    "mediaId": 195,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Tal Axelrod",
+    "title": "5 things to watch in the West Virginia, Nebraska primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5605,
+    "mediaId": 19,
+    "date": "2022-00-10",
+    "sentence": "",
+    "author": "Nick Gilbertson",
+    "title": "Trump-Backed Candidates 58-1 in Primaries Following Races in Nebraska, West Virginia",
     "sentiment": "0"
   },
   {
     "id": 3689,
     "mediaId": 238,
-    "date": "d2022-05-11T17:47",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Henry Olsen",
     "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable.",
     "sentiment": "0.448"
   },
   {
+    "id": 5568,
+    "mediaId": 238,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "The MAGA vs. GOP divide in the Republican primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5571,
+    "mediaId": 136,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Ewan Palmer",
+    "title": "Donald Trump Is Losing More Primary Races Than He'd Like You to Know",
+    "sentiment": "0"
+  },
+  {
+    "id": 5572,
+    "mediaId": 129,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
+    "sentiment": "0"
+  },
+  {
+    "id": 5575,
+    "mediaId": 238,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Takeaways from West Virginia and Nebraska GOP primaries",
+    "sentiment": "-0.465"
+  },
+  {
+    "id": 5577,
+    "mediaId": 151,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Trump gets knocked down in Nebraska",
+    "sentiment": "0"
+  },
+  {
+    "id": 5578,
+    "mediaId": 151,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "",
+    "title": "Here are the Trump-backed candidates who won the Nebraska and West Virginia primaries",
+    "sentiment": "0.24"
+  },
+  {
+    "id": 5579,
+    "mediaId": 136,
+    "date": "2022-00-11",
+    "sentence": "",
+    "author": "Ewan Palmer",
+    "title": "Donald Trump's 55-0 Primary Winning Streak Finally Ends",
+    "sentiment": "0"
+  },
+  {
     "id": 5476,
     "mediaId": 238,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Aaron Blake",
     "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
     "sentiment": "0"
   },
   {
+    "id": 6288,
+    "mediaId": 136,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "Natalie Colarossi",
+    "title": "Trump to Rally for Nebraska Candidate Accused of Sexual Assault",
+    "sentiment": "0"
+  },
+  {
+    "id": 6168,
+    "mediaId": 147,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "",
+    "title": "News Wrap: Thousands of acres still burning due to Western wildfires",
+    "sentiment": "0"
+  },
+  {
     "id": 8504,
     "mediaId": 151,
-    "date": "d2022-05-27T17:43",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "",
     "title": "Inside the Forecast: Trumps endorsement record, explained",
     "sentiment": "0"
   },
   {
+    "id": 6099,
+    "mediaId": 151,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "Trumps risky primary play: Rallying for a longtime ally accused of sexual misconduct",
+    "sentiment": "0"
+  },
+  {
+    "id": 6116,
+    "mediaId": 238,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "Post Politics Now Trump to rally with GOP gubernatorial hopeful in Nebraska accused of sexual assault",
+    "sentiment": "0"
+  },
+  {
     "id": 8461,
     "mediaId": 129,
-    "date": "d2022-05-28T00:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Trump's Primary Losses Puncture His Invincibility",

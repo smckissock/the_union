@@ -1,65 +1,65 @@
 [
   {
-    "id": 8261,
-    "mediaId": 43,
-    "date": "d2022-01-21T00:00",
-    "sentence": "His Senate picks for Georgia (<span class='selected-term'>Herschel Walker</span>), Pennsylvania (Sean Parnell), and North Carolina (Ted Budd) have already muddled GOP chances in three of the most important races.",
-    "author": "",
-    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
-    "sentiment": "0"
-  },
-  {
-    "id": 8028,
-    "mediaId": 234,
-    "date": "d2022-03-15T00:00",
-    "sentence": "Per HuffPost:\nRepublican Senate candidate <span class='selected-term'>Herschel Walker</span> cast doubt on the theory of evolution in recent remarks, saying the fact that apes and humans coexist disproves accepted science.",
-    "author": "Bess Levin",
-    "title": "Eric Trump: Putin Was Pants-Pissingly Terrified of My Dad, O.K.?",
-    "sentiment": "-0.26"
-  },
-  {
-    "id": 7760,
-    "mediaId": 169,
-    "date": "d2022-04-14T22:00",
-    "sentence": "Hostin also compares Oz's situation to that of former football running back <span class='selected-term'>Herschel Walker</span>, who came out as the front-runner in recent polls amid his campaign to acquire a Senate seat in Georgia.",
-    "author": "Joy Saha",
-    "title": "\"The View\" hosts tickled by \"Trump minions\" at Fox News who are split over Dr. Oz Senate endorsement",
-    "sentiment": "0"
-  },
-  {
-    "id": 7758,
-    "mediaId": 188,
-    "date": "d2022-04-15T00:00",
-    "sentence": "Georgia Republican Senate candidate <span class='selected-term'>Herschel Walker</span> graciously invited progressive journalist Elie Mystal to meet him and \"break bread\" after Mystal viciously attacked Walker's candidacy, but the offer was snubbed.",
-    "author": "Chris Pandolfo",
-    "title": "Herschel Walker invites progressive who viciously attacked him to 'break bread,' gets an utterly contemptuous response",
-    "sentiment": "-0.828"
-  },
-  {
-    "id": 7747,
-    "mediaId": 65,
-    "date": "d2022-04-15T04:12",
-    "sentence": "Georgia U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> asserted that the Democratic Party \"has left Brown and Black people behind\" Thursday on \"Hannity.\"",
-    "author": "",
-    "title": "Herschel Walker responds to Elie Mystal's attack: Democratic Party 'has left Brown and Black people behind'",
-    "sentiment": "-0.897"
-  },
-  {
     "id": 1801,
     "mediaId": 239,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "One of the problems also is if Brian Kemp gets in, I think it's going to be very, very hard for <span class='selected-term'>Herschel Walker</span> to win,? Mr. Trump said, according to the Atlanta Journal-Constitution.",
     "author": "Seth McLaughlin",
     "title": "Herschel Walker's debate avoidance in primary spurs general election questions",
     "sentiment": "0.182"
   },
   {
+    "id": 7760,
+    "mediaId": 169,
+    "date": "2022-00-14",
+    "sentence": "Hostin also compares Oz's situation to that of former football running back <span class='selected-term'>Herschel Walker</span>, who came out as the front-runner in recent polls amid his campaign to acquire a Senate seat in Georgia.",
+    "author": "Joy Saha",
+    "title": "\"The View\" hosts tickled by \"Trump minions\" at Fox News who are split over Dr. Oz Senate endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 7747,
+    "mediaId": 65,
+    "date": "2022-00-15",
+    "sentence": "Georgia U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> asserted that the Democratic Party \"has left Brown and Black people behind\" Thursday on \"Hannity.\"",
+    "author": "",
+    "title": "Herschel Walker responds to Elie Mystal's attack: Democratic Party 'has left Brown and Black people behind'",
+    "sentiment": "-0.897"
+  },
+  {
+    "id": 7758,
+    "mediaId": 188,
+    "date": "2022-00-15",
+    "sentence": "Georgia Republican Senate candidate <span class='selected-term'>Herschel Walker</span> graciously invited progressive journalist Elie Mystal to meet him and \"break bread\" after Mystal viciously attacked Walker's candidacy, but the offer was snubbed.",
+    "author": "Chris Pandolfo",
+    "title": "Herschel Walker invites progressive who viciously attacked him to 'break bread,' gets an utterly contemptuous response",
+    "sentiment": "-0.828"
+  },
+  {
+    "id": 8028,
+    "mediaId": 234,
+    "date": "2022-00-15",
+    "sentence": "Per HuffPost:\nRepublican Senate candidate <span class='selected-term'>Herschel Walker</span> cast doubt on the theory of evolution in recent remarks, saying the fact that apes and humans coexist disproves accepted science.",
+    "author": "Bess Levin",
+    "title": "Eric Trump: Putin Was Pants-Pissingly Terrified of My Dad, O.K.?",
+    "sentiment": "-0.26"
+  },
+  {
     "id": 7526,
     "mediaId": 305,
-    "date": "d2022-05-21T16:29",
+    "date": "2022-00-21",
     "sentence": "The Republicans running against <span class='selected-term'>Herschel Walker</span> for U.S. Senate are crisscrossing the state this week, looking for every vote they can get and making a similar argument: Walker cant win in a November general election against Democrat Raphael Warnock.",
     "author": "Keith Reed",
     "title": "Hershel Walker's Senate Bid Has Some Georgia Republicans Shook",
     "sentiment": "-0.762"
+  },
+  {
+    "id": 8261,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "His Senate picks for Georgia (<span class='selected-term'>Herschel Walker</span>), Pennsylvania (Sean Parnell), and North Carolina (Ted Budd) have already muddled GOP chances in three of the most important races.",
+    "author": "",
+    "title": "It's starting to occur to Trump that some of his endorsements have proven subpar",
+    "sentiment": "0"
   }
 ]

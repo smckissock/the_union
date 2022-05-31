@@ -1,71 +1,8 @@
 [
   {
-    "id": 6437,
-    "mediaId": 188,
-    "date": "d2022-04-09T00:00",
-    "sentence": "",
-    "author": "Samuel Mangold-Lenett",
-    "title": "JD Vance receives endorsement from Ohio Right to Life in Senate GOP primary",
-    "sentiment": "0"
-  },
-  {
-    "id": 6410,
-    "mediaId": 409,
-    "date": "d2022-04-14T16:03",
-    "sentence": "",
-    "author": "Nate Hochman",
-    "title": "Report: Trump Plans to Endorse J. D. Vance in the Ohio GOP Senate Primary",
-    "sentiment": "0"
-  },
-  {
-    "id": 6396,
-    "mediaId": 19,
-    "date": "d2022-04-15T00:00",
-    "sentence": "",
-    "author": "John Nolte",
-    "title": "Nolte: Ohio Senate Poll Shows Trump Nod Could Put J.D. Vance over the Top",
-    "sentiment": "0.302"
-  },
-  {
-    "id": 6400,
-    "mediaId": 25,
-    "date": "d2022-04-15T00:00",
-    "sentence": "",
-    "author": "Aaron Navarro",
-    "title": "J.D. Vance lands Donald Trump's endorsement for Ohio Senate GOP race",
-    "sentiment": "0.21"
-  },
-  {
-    "id": 6327,
-    "mediaId": 157,
-    "date": "d2022-04-18T00:00",
-    "sentence": "",
-    "author": "Alex Henderson",
-    "title": "Ukraines nightmare asserts itself in Ohios bitter US Senate race",
-    "sentiment": "0"
-  },
-  {
-    "id": 6269,
-    "mediaId": 65,
-    "date": "d2022-04-20T22:01",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Half of Trump's 2016 Ohio RNC delegates call Vance endorsement 'betrayal,' ask him to 'reconsider'",
-    "sentiment": "0.302"
-  },
-  {
-    "id": 6257,
-    "mediaId": 239,
-    "date": "d2022-04-21T00:03:51",
-    "sentence": "",
-    "author": "Seth McLaughlin",
-    "title": "J.D. Vance gets Trump bounce in Ohio Senate race: poll",
-    "sentiment": "0.549"
-  },
-  {
     "id": 6046,
     "mediaId": 65,
-    "date": "d2022-05-01T10:08",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Tyler Olson",
     "title": "Ohio GOP Senate Primary: Timken plans ground game blitz to get undecided voters on her side",
@@ -74,7 +11,7 @@
   {
     "id": 6017,
     "mediaId": 409,
-    "date": "d2022-05-02T06:46",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "John McCormack",
     "title": "Trafalgar Ohio Poll: Vance 26, Dolan 22, Mandel 21",
@@ -83,7 +20,7 @@
   {
     "id": 5984,
     "mediaId": 129,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "Vance Wins Republican Senate Primary in Ohio After Nod From Trump",
@@ -92,7 +29,7 @@
   {
     "id": 5985,
     "mediaId": 25,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "Ohio primary results: Trump's endorsement power could be tested in Senate race",
@@ -101,10 +38,73 @@
   {
     "id": 5837,
     "mediaId": 129,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Roxane Gay",
     "title": "A Trump Win in Ohio",
     "sentiment": "0"
+  },
+  {
+    "id": 6437,
+    "mediaId": 188,
+    "date": "2022-00-09",
+    "sentence": "",
+    "author": "Samuel Mangold-Lenett",
+    "title": "JD Vance receives endorsement from Ohio Right to Life in Senate GOP primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 6410,
+    "mediaId": 409,
+    "date": "2022-00-14",
+    "sentence": "",
+    "author": "Nate Hochman",
+    "title": "Report: Trump Plans to Endorse J. D. Vance in the Ohio GOP Senate Primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 6396,
+    "mediaId": 19,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "John Nolte",
+    "title": "Nolte: Ohio Senate Poll Shows Trump Nod Could Put J.D. Vance over the Top",
+    "sentiment": "0.302"
+  },
+  {
+    "id": 6400,
+    "mediaId": 25,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Aaron Navarro",
+    "title": "J.D. Vance lands Donald Trump's endorsement for Ohio Senate GOP race",
+    "sentiment": "0.21"
+  },
+  {
+    "id": 6327,
+    "mediaId": 157,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Alex Henderson",
+    "title": "Ukraines nightmare asserts itself in Ohios bitter US Senate race",
+    "sentiment": "0"
+  },
+  {
+    "id": 6269,
+    "mediaId": 65,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Half of Trump's 2016 Ohio RNC delegates call Vance endorsement 'betrayal,' ask him to 'reconsider'",
+    "sentiment": "0.302"
+  },
+  {
+    "id": 6257,
+    "mediaId": 239,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Seth McLaughlin",
+    "title": "J.D. Vance gets Trump bounce in Ohio Senate race: poll",
+    "sentiment": "0.549"
   }
 ]

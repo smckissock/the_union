@@ -1,17 +1,8 @@
 [
   {
-    "id": 4196,
-    "mediaId": 1067,
-    "date": "d2022-05-02T18:55",
-    "sentence": "",
-    "author": "Stephen Hudak",
-    "title": "As head of Orange County Health Services, Raul Pino hopes to work well with state",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4184,
     "mediaId": 65,
-    "date": "d2022-05-02T22:46",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "DeSantis says he would ban medical gender transitions for children in Florida",
@@ -20,16 +11,25 @@
   {
     "id": 4184,
     "mediaId": 65,
-    "date": "d2022-05-02T22:46",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "DeSantis says he would ban medical gender transitions for children in Florida",
     "sentiment": "0.0"
   },
   {
+    "id": 4196,
+    "mediaId": 1067,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Stephen Hudak",
+    "title": "As head of Orange County Health Services, Raul Pino hopes to work well with state",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4173,
     "mediaId": 188,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Sarah Taylor",
     "title": "Gov. Ron DeSantis says he would support law banning gender transition surgeries on children",
@@ -38,7 +38,7 @@
   {
     "id": 4173,
     "mediaId": 188,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Sarah Taylor",
     "title": "Gov. Ron DeSantis says he would support law banning gender transition surgeries on children",
@@ -47,7 +47,7 @@
   {
     "id": 8532,
     "mediaId": 302,
-    "date": "d2022-05-28T12:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Report rejects Rebekah Jones' claim that Florida doctored COVID data",
@@ -56,7 +56,7 @@
   {
     "id": 8532,
     "mediaId": 302,
-    "date": "d2022-05-28T12:00",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "",
     "title": "Report rejects Rebekah Jones' claim that Florida doctored COVID data",

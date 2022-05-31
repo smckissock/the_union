@@ -1,25 +1,18 @@
 {
   "id": 4857,
   "mediaId": 157,
-  "date": "d2022-04-29T00:00",
+  "date": "4/29/2022 12:00:00 AM",
   "headline": "'QAnon freaks and lunatic fringe': Morning Joe panel goes off on 'crazy' Republicans",
   "image": "https://www.rawstory.com/media-library/republicans-urge-supreme-court-to-overturn-pennsylvanias-election-but-know-the-scheme-has-a-flaw.png?id=24841640&width=1200&coordinates=0%2C15%2C0%2C15&height=600",
   "link": "https://www.rawstory.com/qanon-republican-party/",
-  "sentiment": "-0.829",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Boggioni",
   "authorUrl": "https://www.rawstory.com/u/tom_boggioni",
   "termIds": [
-    967,
-    1098,
-    2095,
-    4325,
-    4786,
-    327,
-    414,
-    428
+    2095
   ],
   "sentences": [
     "You have, in Georgia, Brian Kemp, the Republican who was number one on Donald Trump's enemy list -- he hated him so much he said he'd support Stacey Abrams -- Kemp is humiliating his conspiracy opponent, David Perdue, right now, his pro-trump opponent.\"",

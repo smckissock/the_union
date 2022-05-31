@@ -1,11 +1,11 @@
 {
   "id": 8429,
   "mediaId": 151,
-  "date": "d2022-05-27T08:30",
+  "date": "5/27/2022 12:00:00 AM",
   "headline": "Wisconsin Senate race tightens as rivals close in on Barnes",
   "image": "https://www.politico.com/dims4/default/e49f502/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F20%2F54%2F9f7168dc4632b6c5b9ee79f16a53%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1053879964",
   "link": "https://www.politico.com/news/2022/05/27/wisconsin-senate-race-barnes-lasry-00035580",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,13 +15,7 @@
     741,
     802,
     1568,
-    2039,
-    2468,
-    6148,
-    373,
-    571,
-    2793,
-    2972
+    2039
   ],
   "sentences": [
     "The poll is the latest sign that the battleground primary has become a close race between Barnes, a progressive backed by Sen. Elizabeth Warren and the Working Families Party, and Lasry, a more center-left candidate who has won the endorsement of local labor unions.",

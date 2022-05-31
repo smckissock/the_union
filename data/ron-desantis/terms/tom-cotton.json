@@ -1,26 +1,8 @@
 [
   {
-    "id": 6440,
-    "mediaId": 238,
-    "date": "d2022-04-08T12:00",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits...",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4334,
-    "mediaId": 65,
-    "date": "d2022-04-30T10:03",
-    "sentence": "",
-    "author": "Kelly Laco",
-    "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4182,
     "mediaId": 43,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "Donald Trump\n <span class='selected-term'>Ron DeSantis</span>\n Mike Pence\n Chris Christi\n Nikki Haley\n Ted Cruz\n Mike Pompeo\n Kristi Noem\n Tom Cotton\n Larry Hogan\n Uncertain\n Other (please comment)\n 51 votes Vote Now!",
     "author": "",
     "title": "SATIRE: Gorilla association objects to GOP Gov. Larry Hogan calling Trump an 800 pounder in the room",
@@ -29,34 +11,25 @@
   {
     "id": 3972,
     "mediaId": 120,
-    "date": "d2022-05-05T23:07",
+    "date": "2022-00-05",
     "sentence": "Still, its a bit embarrassing that we had to wait for Tom Cotton and <span class='selected-term'>Ron DeSantis</span> to get up in arms for DHS to get its act together on communicating to the public.",
     "author": "Jessica Levinson",
     "title": "Mayorkas' botched DHS disinfo rollout pinpoints a weakness of American government",
     "sentiment": "0.0"
   },
   {
-    "id": 3518,
-    "mediaId": 136,
-    "date": "d2022-05-17T01:01",
-    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Jake Thomas",
-    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
-    "sentiment": "0"
-  },
-  {
-    "id": 3518,
-    "mediaId": 136,
-    "date": "d2022-05-17T01:01",
-    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Jake Thomas",
-    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
+    "id": 6440,
+    "mediaId": 238,
+    "date": "2022-00-08",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits...",
     "sentiment": "0.0"
   },
   {
     "id": 3506,
     "mediaId": 238,
-    "date": "d2022-05-17T11:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Hugh Hewitt",
     "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
@@ -65,16 +38,34 @@
   {
     "id": 3506,
     "mediaId": 238,
-    "date": "d2022-05-17T11:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Hugh Hewitt",
     "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
     "sentiment": "0.607"
   },
   {
+    "id": 3518,
+    "mediaId": 136,
+    "date": "2022-00-17",
+    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Jake Thomas",
+    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
+    "sentiment": "0"
+  },
+  {
+    "id": 3518,
+    "mediaId": 136,
+    "date": "2022-00-17",
+    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Jake Thomas",
+    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8514,
     "mediaId": 223,
-    "date": "d2022-05-27T00:01",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Michael Barone",
     "title": "Primary Results: Trump Repudiated, Republicans Enthused, Democrats Focused On Theoretical Issues",
@@ -83,10 +74,19 @@
   {
     "id": 8514,
     "mediaId": 223,
-    "date": "d2022-05-27T00:01",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Michael Barone",
     "title": "Primary Results: Trump Repudiated, Republicans Enthused, Democrats Focused On Theoretical Issues",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4334,
+    "mediaId": 65,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in",
     "sentiment": "0.0"
   }
 ]

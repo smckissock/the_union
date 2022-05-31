@@ -1,134 +1,8 @@
 [
   {
-    "id": 8030,
-    "mediaId": 43,
-    "date": "d2022-03-15T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "In Putins Russia, War Crimes Commit YOU!",
-    "sentiment": "-0.74"
-  },
-  {
-    "id": 6452,
-    "mediaId": 238,
-    "date": "d2022-04-06T15:31",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: As vile as it gets: J.D. Vance goes full great replacement theory",
-    "sentiment": "0"
-  },
-  {
-    "id": 6429,
-    "mediaId": 43,
-    "date": "d2022-04-12T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Like where are the dads?: Tucker Carlson calls for violence against teachers who talk identity",
-    "sentiment": "0"
-  },
-  {
-    "id": 2068,
-    "mediaId": 129,
-    "date": "d2022-04-15T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio",
-    "sentiment": "0.179"
-  },
-  {
-    "id": 6393,
-    "mediaId": 43,
-    "date": "d2022-04-15T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Ohio Senate GOP primary: previous guy endorses J.D. Vance, because \"he gets it now\"",
-    "sentiment": "0"
-  },
-  {
-    "id": 6374,
-    "mediaId": 195,
-    "date": "d2022-04-15T21:11",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Trump endorses Vance in Ohio GOP Senate primary",
-    "sentiment": "0"
-  },
-  {
-    "id": 2050,
-    "mediaId": 234,
-    "date": "d2022-04-17T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers",
-    "sentiment": "-0.457"
-  },
-  {
-    "id": 6292,
-    "mediaId": 209,
-    "date": "d2022-04-19T11:41",
-    "sentence": "",
-    "author": "Grayson Quay",
-    "title": "Conservatives complain of 'doxxing' after expos reveals woman behind 'Libs of TikTok' account",
-    "sentiment": "0"
-  },
-  {
-    "id": 6241,
-    "mediaId": 234,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "Emily Jane Fox",
-    "title": "Conservative Guys Are Going to Get All the Girls: Author James Pogue on the New Right",
-    "sentiment": "0"
-  },
-  {
-    "id": 6245,
-    "mediaId": 43,
-    "date": "d2022-04-22T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
-    "sentiment": "0"
-  },
-  {
-    "id": 6184,
-    "mediaId": 151,
-    "date": "d2022-04-24T00:42",
-    "sentence": "",
-    "author": "",
-    "title": "Trump lays down marker for Vance in Ohio rally: 'This man is going to win'",
-    "sentiment": "-0.421"
-  },
-  {
-    "id": 6157,
-    "mediaId": 151,
-    "date": "d2022-04-25T13:01",
-    "sentence": "",
-    "author": "",
-    "title": "Hawley endorses Thiel-backed Arizona Senate candidate",
-    "sentiment": "0.859"
-  },
-  {
-    "id": 6140,
-    "mediaId": 237,
-    "date": "d2022-04-26T22:09",
-    "sentence": "",
-    "author": "David Sivak",
-    "title": "JD Vance takes lead in GOP Senate primary after Trump endorsement: Poll",
-    "sentiment": "0.581"
-  },
-  {
-    "id": 6111,
-    "mediaId": 157,
-    "date": "d2022-04-28T00:00",
-    "sentence": "",
-    "author": "Brad Reed",
-    "title": "Trump decided to endorse JD Vance after hearing rumor of rival conservative's 'disgusting' sex life: report",
-    "sentiment": "0"
-  },
-  {
     "id": 4316,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
@@ -137,7 +11,7 @@
   {
     "id": 6051,
     "mediaId": 43,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "J.D. Vance (R) Is Now Claiming That Pres. Biden Is \"Trying To Kill A Bunch Of MAGA Voters\"",
@@ -146,7 +20,7 @@
   {
     "id": 6053,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Don Jr. Road Show in Ohio Was No Joke",
@@ -155,52 +29,79 @@
   {
     "id": 6054,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Don Jr. Road Show in Ohio Was No Joke",
     "sentiment": "0"
   },
   {
-    "id": 6035,
-    "mediaId": 19,
-    "date": "d2022-05-02T00:00",
-    "sentence": "",
-    "author": "Pam Key",
-    "title": "Steve Schmidt: FNCs Tucker Carlson, JD Vance Pushing Fascism",
-    "sentiment": "0"
-  },
-  {
-    "id": 6019,
-    "mediaId": 169,
-    "date": "d2022-05-02T05:30",
-    "sentence": "",
-    "author": "Igor Derysh",
-    "title": "Trump pal J.D. Vance says Big Tech data collection should be illegal  but set to profit from it",
-    "sentiment": "-0.406"
-  },
-  {
     "id": 5989,
     "mediaId": 147,
-    "date": "d2022-05-02T22:35",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Amy Walter and Annie Linskey on primary election season, Tucker Carlsons role in the GOP",
     "sentiment": "0"
   },
   {
+    "id": 6019,
+    "mediaId": 169,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Igor Derysh",
+    "title": "Trump pal J.D. Vance says Big Tech data collection should be illegal  but set to profit from it",
+    "sentiment": "-0.406"
+  },
+  {
+    "id": 6035,
+    "mediaId": 19,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Pam Key",
+    "title": "Steve Schmidt: FNCs Tucker Carlson, JD Vance Pushing Fascism",
+    "sentiment": "0"
+  },
+  {
     "id": 5948,
     "mediaId": 129,
-    "date": "d2022-05-03T04:01",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "What Were Watching in Tuesdays Primary Elections in Ohio and Indiana",
     "sentiment": "0"
   },
   {
+    "id": 5762,
+    "mediaId": 238,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion Why the J.D. Vance victory wasnt all about Trump",
+    "sentiment": "0.403"
+  },
+  {
+    "id": 5772,
+    "mediaId": 238,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion The bottom line in Ohio? Trump wins.",
+    "sentiment": "-0.485"
+  },
+  {
+    "id": 5806,
+    "mediaId": 65,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Jack Durschlag",
+    "title": "Vance wins Ohio Senate primary; Key Republicans sound off on SCOTUS leak's midterms impact",
+    "sentiment": "0.469"
+  },
+  {
     "id": 5841,
     "mediaId": 43,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "rich guy J.D. Vance wins massively expensive Ohio Senate primary",
@@ -209,7 +110,7 @@
   {
     "id": 5846,
     "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Eric Lutz",
     "title": "J.D. Vance Played The Trumpiest Version of Himself He Could and It Totally Worked",
@@ -218,7 +119,7 @@
   {
     "id": 5851,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Bob Brigham",
     "title": "Far-right takes a victory lap as JD Vance begins grueling general election battle against Tim Ryan",
@@ -227,7 +128,7 @@
   {
     "id": 5852,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Trump thought GOP candidate Josh Mandel was 'weird' -- and 'no amount of sucking up' would win his endorsement: report",
@@ -236,7 +137,7 @@
   {
     "id": 5854,
     "mediaId": 129,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Tucker, Thiel and Trump: How J.D. Vance Won in Ohio",
@@ -245,7 +146,7 @@
   {
     "id": 5875,
     "mediaId": 43,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "",
     "title": "Morning Digest: Trump's guy won the Ohio Senate",
@@ -254,61 +155,34 @@
   {
     "id": 5887,
     "mediaId": 234,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Caleb Ecarma",
     "title": "J.D. Vances Victory in Ohio Is a Huge Win for Peter Thiels Political Movement",
     "sentiment": "0.67"
   },
   {
-    "id": 5806,
-    "mediaId": 65,
-    "date": "d2022-05-04T08:32",
-    "sentence": "",
-    "author": "Jack Durschlag",
-    "title": "Vance wins Ohio Senate primary; Key Republicans sound off on SCOTUS leak's midterms impact",
-    "sentiment": "0.469"
-  },
-  {
-    "id": 5772,
-    "mediaId": 238,
-    "date": "d2022-05-04T17:21",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion The bottom line in Ohio? Trump wins.",
-    "sentiment": "-0.485"
-  },
-  {
-    "id": 5762,
-    "mediaId": 238,
-    "date": "d2022-05-04T19:54",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion Why the J.D. Vance victory wasnt all about Trump",
-    "sentiment": "0.403"
-  },
-  {
-    "id": 5741,
-    "mediaId": 19,
-    "date": "d2022-05-05T00:00",
-    "sentence": "",
-    "author": "John Binder",
-    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement",
-    "sentiment": "0"
-  },
-  {
     "id": 5712,
     "mediaId": 238,
-    "date": "d2022-05-05T16:07",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
     "title": "Opinion Why a secretive tech billionaire is bankrolling J.D. Vance",
     "sentiment": "0"
   },
   {
+    "id": 5741,
+    "mediaId": 19,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "John Binder",
+    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement",
+    "sentiment": "0"
+  },
+  {
     "id": 3929,
     "mediaId": 558,
-    "date": "d2022-05-06T12:06",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Conservative urges American Christians to reject the new right's authoritarian impulses",
@@ -317,34 +191,88 @@
   {
     "id": 5667,
     "mediaId": 238,
-    "date": "d2022-05-06T15:13",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Opinion One of the ugliest right-wing lies about Jan. 6 is imploding",
     "sentiment": "0"
   },
   {
+    "id": 6452,
+    "mediaId": 238,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: As vile as it gets: J.D. Vance goes full great replacement theory",
+    "sentiment": "0"
+  },
+  {
     "id": 5586,
     "mediaId": 1576,
-    "date": "d2022-05-11T00:00",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Accusations of 'grooming' are the latest political attack  with homophobic origins",
     "sentiment": "0"
   },
   {
+    "id": 6429,
+    "mediaId": 43,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "",
+    "title": "Like where are the dads?: Tucker Carlson calls for violence against teachers who talk identity",
+    "sentiment": "0"
+  },
+  {
     "id": 5549,
     "mediaId": 129,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "",
     "title": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
     "sentiment": "0"
   },
   {
+    "id": 2068,
+    "mediaId": 129,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "",
+    "title": "Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio",
+    "sentiment": "0.179"
+  },
+  {
+    "id": 5528,
+    "mediaId": 238,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Eugene Robinson",
+    "title": "Opinion The Black victims of the Buffalo shooting were killed by white supremacy",
+    "sentiment": "0"
+  },
+  {
+    "id": 5529,
+    "mediaId": 238,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion The Buffalo shooters views are mainstream on the right",
+    "sentiment": "0"
+  },
+  {
+    "id": 5531,
+    "mediaId": 169,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Amanda Marcotte",
+    "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame",
+    "sentiment": "0"
+  },
+  {
     "id": 5535,
     "mediaId": 129,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Marc Tracy",
     "title": "How Hollywood and the Media Fueled the Political Rise of J.D. Vance",
@@ -353,43 +281,70 @@
   {
     "id": 5538,
     "mediaId": 157,
-    "date": "d2022-05-15T00:00",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Amanda Marcotte",
     "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame",
     "sentiment": "0"
   },
   {
-    "id": 5531,
-    "mediaId": 169,
-    "date": "d2022-05-15T13:20",
+    "id": 6374,
+    "mediaId": 195,
+    "date": "2022-00-15",
     "sentence": "",
-    "author": "Amanda Marcotte",
-    "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame",
+    "author": "Julia Manchester",
+    "title": "Trump endorses Vance in Ohio GOP Senate primary",
     "sentiment": "0"
   },
   {
-    "id": 5529,
-    "mediaId": 238,
-    "date": "d2022-05-15T19:17",
+    "id": 6393,
+    "mediaId": 43,
+    "date": "2022-00-15",
     "sentence": "",
-    "author": "Max Boot",
-    "title": "Opinion The Buffalo shooters views are mainstream on the right",
+    "author": "",
+    "title": "Ohio Senate GOP primary: previous guy endorses J.D. Vance, because \"he gets it now\"",
     "sentiment": "0"
   },
   {
-    "id": 5528,
-    "mediaId": 238,
-    "date": "d2022-05-15T21:01",
+    "id": 8030,
+    "mediaId": 43,
+    "date": "2022-00-15",
     "sentence": "",
-    "author": "Eugene Robinson",
-    "title": "Opinion The Black victims of the Buffalo shooting were killed by white supremacy",
+    "author": "",
+    "title": "In Putins Russia, War Crimes Commit YOU!",
+    "sentiment": "-0.74"
+  },
+  {
+    "id": 5510,
+    "mediaId": 195,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Mike Lillis",
+    "title": "Democrats hit GOP over replacement theory",
+    "sentiment": "0"
+  },
+  {
+    "id": 5511,
+    "mediaId": 238,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Dana Milbank",
+    "title": "Opinion Republicans are bringing extremism to the mainstream",
+    "sentiment": "0"
+  },
+  {
+    "id": 5517,
+    "mediaId": 238,
+    "date": "2022-00-16",
+    "sentence": "",
+    "author": "Greg Sargent",
+    "title": "Opinion How Elise Stefanik and the GOP sanitize great replacement ugliness",
     "sentiment": "0"
   },
   {
     "id": 5524,
     "mediaId": 234,
-    "date": "d2022-05-16T00:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Bess Levin",
     "title": "Republicans Are Furious People Remember Theyve Been Pushing the Racist Great Replacement Rhetoric for Years",
@@ -398,43 +353,79 @@
   {
     "id": 5526,
     "mediaId": 129,
-    "date": "d2022-05-16T00:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "",
     "title": "From Voodoo to MAGA to Buffalo",
     "sentiment": "0"
   },
   {
-    "id": 5517,
+    "id": 2050,
+    "mediaId": 234,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers",
+    "sentiment": "-0.457"
+  },
+  {
+    "id": 3350,
+    "mediaId": 129,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "Buffalo Shooting Live Updates: Biden Arrives in City to Mourn Shooting Victims",
+    "sentiment": "0"
+  },
+  {
+    "id": 3359,
+    "mediaId": 129,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "",
+    "title": "Republicans Play on Fears of Great Replacement' in Bid for Base Voters",
+    "sentiment": "0"
+  },
+  {
+    "id": 5482,
     "mediaId": 238,
-    "date": "d2022-05-16T15:25",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Greg Sargent",
-    "title": "Opinion How Elise Stefanik and the GOP sanitize great replacement ugliness",
+    "title": "Opinion Democrats are crafting a response to Buffalo. What will the right do?",
     "sentiment": "0"
   },
   {
-    "id": 5511,
-    "mediaId": 238,
-    "date": "d2022-05-16T22:44",
-    "sentence": "",
-    "author": "Dana Milbank",
-    "title": "Opinion Republicans are bringing extremism to the mainstream",
-    "sentiment": "0"
-  },
-  {
-    "id": 5510,
+    "id": 5488,
     "mediaId": 195,
-    "date": "d2022-05-16T22:47",
+    "date": "2022-00-17",
     "sentence": "",
-    "author": "Mike Lillis",
-    "title": "Democrats hit GOP over replacement theory",
+    "author": "Tom Mockaitis",
+    "title": "Conspiracy theories and racist rhetoric fuel domestic terrorism",
+    "sentiment": "0"
+  },
+  {
+    "id": 5492,
+    "mediaId": 169,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Eoin Higgins",
+    "title": "What \"great replacement\"? Right wants us to shut up about Buffalo shooter's ideology",
+    "sentiment": "0"
+  },
+  {
+    "id": 5494,
+    "mediaId": 238,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Ishaan Tharoor",
+    "title": "The Orbanization of America: The U.S. right walks in Hungarys path",
     "sentiment": "0"
   },
   {
     "id": 5504,
     "mediaId": 129,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "The Slaughter in Buffalo Hasnt Quieted the Great Replacement Caucus",
@@ -443,7 +434,7 @@
   {
     "id": 5505,
     "mediaId": 157,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Alex Henderson",
     "title": "Economist Paul Krugman explains why MAGAs paranoid mindset has overtaken the GOP",
@@ -452,100 +443,109 @@
   {
     "id": 5508,
     "mediaId": 98,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Brian Contreras",
     "title": "Will social media companies crack down on the racist conspiracy theory behind the Buffalo massacre?",
     "sentiment": "0"
   },
   {
-    "id": 3359,
-    "mediaId": 129,
-    "date": "d2022-05-17T01:07",
-    "sentence": "",
-    "author": "",
-    "title": "Republicans Play on Fears of Great Replacement' in Bid for Base Voters",
-    "sentiment": "0"
-  },
-  {
-    "id": 5494,
-    "mediaId": 238,
-    "date": "d2022-05-17T04:01",
-    "sentence": "",
-    "author": "Ishaan Tharoor",
-    "title": "The Orbanization of America: The U.S. right walks in Hungarys path",
-    "sentiment": "0"
-  },
-  {
-    "id": 5492,
-    "mediaId": 169,
-    "date": "d2022-05-17T06:00",
-    "sentence": "",
-    "author": "Eoin Higgins",
-    "title": "What \"great replacement\"? Right wants us to shut up about Buffalo shooter's ideology",
-    "sentiment": "0"
-  },
-  {
-    "id": 5488,
-    "mediaId": 195,
-    "date": "d2022-05-17T11:30",
-    "sentence": "",
-    "author": "Tom Mockaitis",
-    "title": "Conspiracy theories and racist rhetoric fuel domestic terrorism",
-    "sentiment": "0"
-  },
-  {
-    "id": 3350,
-    "mediaId": 129,
-    "date": "d2022-05-17T13:16:42",
-    "sentence": "",
-    "author": "",
-    "title": "Buffalo Shooting Live Updates: Biden Arrives in City to Mourn Shooting Victims",
-    "sentiment": "0"
-  },
-  {
-    "id": 5482,
-    "mediaId": 238,
-    "date": "d2022-05-17T20:55",
-    "sentence": "",
-    "author": "Greg Sargent",
-    "title": "Opinion Democrats are crafting a response to Buffalo. What will the right do?",
-    "sentiment": "0"
-  },
-  {
-    "id": 5479,
-    "mediaId": 98,
-    "date": "d2022-05-18T00:00",
-    "sentence": "",
-    "author": "Fidel Martinez",
-    "title": "Latinx Files: Replacement theorys fatal aftermath",
-    "sentiment": "0"
-  },
-  {
-    "id": 5472,
-    "mediaId": 302,
-    "date": "d2022-05-18T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "In wake of the Buffalo mass shooting, lets pity the poor white people ... again | Column",
-    "sentiment": "0"
-  },
-  {
     "id": 5463,
     "mediaId": 136,
-    "date": "d2022-05-18T20:13",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Maura Currie",
     "title": "Steve Schmidt Discusses Violent Extremism, the GOP and John McCain",
     "sentiment": "0"
   },
   {
+    "id": 5472,
+    "mediaId": 302,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "",
+    "title": "In wake of the Buffalo mass shooting, lets pity the poor white people ... again | Column",
+    "sentiment": "0"
+  },
+  {
+    "id": 5479,
+    "mediaId": 98,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Fidel Martinez",
+    "title": "Latinx Files: Replacement theorys fatal aftermath",
+    "sentiment": "0"
+  },
+  {
+    "id": 6292,
+    "mediaId": 209,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "Grayson Quay",
+    "title": "Conservatives complain of 'doxxing' after expos reveals woman behind 'Libs of TikTok' account",
+    "sentiment": "0"
+  },
+  {
     "id": 7157,
     "mediaId": 238,
-    "date": "d2022-05-20T18:03",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Paul Waldman",
     "title": "Opinion After Buffalo massacre, Republicans double down on great replacement'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6241,
+    "mediaId": 234,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "Emily Jane Fox",
+    "title": "Conservative Guys Are Going to Get All the Girls: Author James Pogue on the New Right",
+    "sentiment": "0"
+  },
+  {
+    "id": 6245,
+    "mediaId": 43,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Testicle Guru, and, Amazingly, Other Equally Stupid Sh*t",
+    "sentiment": "0"
+  },
+  {
+    "id": 6184,
+    "mediaId": 151,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "",
+    "title": "Trump lays down marker for Vance in Ohio rally: 'This man is going to win'",
+    "sentiment": "-0.421"
+  },
+  {
+    "id": 6157,
+    "mediaId": 151,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "",
+    "title": "Hawley endorses Thiel-backed Arizona Senate candidate",
+    "sentiment": "0.859"
+  },
+  {
+    "id": 6140,
+    "mediaId": 237,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "David Sivak",
+    "title": "JD Vance takes lead in GOP Senate primary after Trump endorsement: Poll",
+    "sentiment": "0.581"
+  },
+  {
+    "id": 6111,
+    "mediaId": 157,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "Brad Reed",
+    "title": "Trump decided to endorse JD Vance after hearing rumor of rival conservative's 'disgusting' sex life: report",
     "sentiment": "0"
   }
 ]

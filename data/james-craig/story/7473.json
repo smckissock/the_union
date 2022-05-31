@@ -1,11 +1,11 @@
 {
   "id": 7473,
   "mediaId": 157,
-  "date": "d2022-05-24T00:00",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
   "image": "https://www.rawstory.com/media-library/image.jpg?id=29845352&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/massive-signature-fraud-scandal-upends-michigan-gop-gubernatorial-race/",
-  "sentiment": "-0.403",
+  "sentiment": "0.0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,20 +14,14 @@
   "termIds": [
     651,
     815,
-    1147,
     1682,
     1844,
     2002,
-    2087,
     2171,
     2298,
     3075,
     3095,
-    3099,
-    307,
-    428,
-    5615,
-    2791
+    3099
   ],
   "sentences": [
     "It appears that after my campaigns signature gathering was complete, individuals independently contracted for a portion of our signature gathering and validation jumped onto other campaigns and went on a money grab, Brown said in a statement Tuesday morning, after his campaign manager initially contested the report the night before.",

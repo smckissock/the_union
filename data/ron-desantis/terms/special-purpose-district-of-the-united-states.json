@@ -1,53 +1,8 @@
 [
   {
-    "id": 4449,
-    "mediaId": 302,
-    "date": "d2022-04-29T02:00",
-    "sentence": "",
-    "author": "",
-    "title": "Disney special district dispute could weaken other Florida government bonds, Fitch Ratings warns",
-    "sentiment": "0"
-  },
-  {
-    "id": 4449,
-    "mediaId": 302,
-    "date": "d2022-04-29T02:00",
-    "sentence": "",
-    "author": "",
-    "title": "Disney special district dispute could weaken other Florida government bonds, Fitch Ratings warns",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4411,
-    "mediaId": 558,
-    "date": "d2022-04-29T11:54",
-    "sentence": "",
-    "author": "Colin Lodewick",
-    "title": "The Disney fiasco could have ominous consequences for Floridas government, major credit agency warns",
-    "sentiment": "0"
-  },
-  {
-    "id": 4411,
-    "mediaId": 558,
-    "date": "d2022-04-29T11:54",
-    "sentence": "",
-    "author": "Colin Lodewick",
-    "title": "The Disney fiasco could have ominous consequences for Floridas government, major credit agency warns",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4389,
-    "mediaId": 195,
-    "date": "d2022-04-29T15:39",
-    "sentence": "",
-    "author": "Kelsey Carolan",
-    "title": "Disney says Florida cant dissolve special district without paying $1B debt",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3701,
     "mediaId": 675,
-    "date": "d2022-05-11T12:11",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "WND Staff",
     "title": "Disney tries to keep its special district, now federal judge issues ruling",
@@ -56,7 +11,7 @@
   {
     "id": 3701,
     "mediaId": 675,
-    "date": "d2022-05-11T12:11",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "WND Staff",
     "title": "Disney tries to keep its special district, now federal judge issues ruling",
@@ -65,7 +20,7 @@
   {
     "id": 3534,
     "mediaId": 238,
-    "date": "d2022-05-16T22:15",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Lori Rozsa",
     "title": "DeSantis says Florida may take over Disneys special district",
@@ -74,7 +29,7 @@
   {
     "id": 3534,
     "mediaId": 238,
-    "date": "d2022-05-16T22:15",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Lori Rozsa",
     "title": "DeSantis says Florida may take over Disneys special district",
@@ -83,7 +38,7 @@
   {
     "id": 3517,
     "mediaId": 195,
-    "date": "d2022-05-17T01:18",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Olafimihan Oshin",
     "title": "DeSantis threatens state control over Disneys special district",
@@ -92,10 +47,55 @@
   {
     "id": 3517,
     "mediaId": 195,
-    "date": "d2022-05-17T01:18",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Olafimihan Oshin",
     "title": "DeSantis threatens state control over Disneys special district",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4389,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Kelsey Carolan",
+    "title": "Disney says Florida cant dissolve special district without paying $1B debt",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4411,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Colin Lodewick",
+    "title": "The Disney fiasco could have ominous consequences for Floridas government, major credit agency warns",
+    "sentiment": "0"
+  },
+  {
+    "id": 4411,
+    "mediaId": 558,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Colin Lodewick",
+    "title": "The Disney fiasco could have ominous consequences for Floridas government, major credit agency warns",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4449,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "Disney special district dispute could weaken other Florida government bonds, Fitch Ratings warns",
+    "sentiment": "0"
+  },
+  {
+    "id": 4449,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "Disney special district dispute could weaken other Florida government bonds, Fitch Ratings warns",
     "sentiment": "0.0"
   }
 ]

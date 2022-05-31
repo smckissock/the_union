@@ -1,24 +1,18 @@
 {
   "id": 5814,
   "mediaId": 233,
-  "date": "d2022-05-04T03:27",
+  "date": "5/4/2022 12:00:00 AM",
   "headline": "Trump was wrong. Why Ohio Senate candidate J.D. Vance didn't deserve his endorsement.",
   "image": "https://www.gannett-cdn.com/presto/2022/04/29/USAT/4380bfab-a0ec-4f9f-90e5-0afd146e3b31-GTY_1240140180.jpeg?width=660&height=371&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.usatoday.com/story/opinion/columnist/2022/05/03/trump-ohio-senate-candidate-jd-vance/9614253002/",
-  "sentiment": "-0.465",
+  "sentiment": "0",
   "mediaOutlet": "USA Today",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jeffrey Scott Shapiro",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1801,
-    3103,
-    380,
-    571,
-    2845,
-    2945
+    3103
   ],
   "sentences": [
     "Vance in Tuesdays Republican Senate primary in Ohio, a decision that raised concerns from many America-firsters since he previously called Trump a total fraud? and described some of his supporters as racist.?\nVance has since reversed his position and called Trump the best president of his lifetime.",

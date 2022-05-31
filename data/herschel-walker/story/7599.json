@@ -1,26 +1,18 @@
 {
   "id": 7599,
   "mediaId": 12,
-  "date": "d2022-05-05T11:00",
+  "date": "5/5/2022 12:00:00 AM",
   "headline": "Nikki Haley endorses 2nd District GOP candidate Jeremy Hunt",
   "image": "https://www.ajc.com/resizer/jomsZHwtT4UzmyKyyN7EpSyzLbk=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/S3A4TNCDWCUPUN3HKHGDH5LLMI.jpg",
   "link": "https://www.ajc.com/politics/nikki-haley-endorses-2nd-district-gop-candidate-jeremy-hunt/2J7CPWHOOZF47FKJ6GJTZFJASA/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tia Mitchell",
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
-    805,
-    815,
-    1101,
-    1448,
-    1959,
-    2195,
-    5340,
-    428,
-    2672
+    815
   ],
   "sentences": [
     "Her team did not elaborate on why Hunt was chosen despite his limited ties to the region where he is running and what enticed her to get involved in this GOP primary and not the many others across Georgia.",

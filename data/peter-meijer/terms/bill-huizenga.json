@@ -1,38 +1,38 @@
 [
   {
-    "id": 27,
-    "mediaId": 238,
-    "date": "d2022-04-05T14:21",
-    "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
-    "author": "",
-    "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 26,
-    "mediaId": 261,
-    "date": "d2022-04-05T14:43",
-    "sentence": "Also voting to impeach was U.S. Rep. <span class='selected-term'>Peter Meijer</span>, R-Grand Rapids, who is running for reelection this year despite Trump's endorsement of another candidate, John Gibbs.",
-    "author": "Todd Spangler",
-    "title": "Rep. Fred Upton announces retirement from Congress, has been in US House since 1987",
+    "id": 23,
+    "mediaId": 195,
+    "date": "2022-00-05",
+    "sentence": "Rep. <span class='selected-term'>Peter Meijer</span> (R-Mich.) faces John Gibbs, a former Trump administration official.",
+    "author": "Cristina Marcos",
+    "title": "Veteran lawmaker's exit has House GOP trending toward Trump",
     "sentiment": "0.0"
   },
   {
     "id": 24,
     "mediaId": 238,
-    "date": "d2022-04-05T17:20",
+    "date": "2022-00-05",
     "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
     "author": "Amy B Wang",
     "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
     "sentiment": "0.0"
   },
   {
-    "id": 23,
-    "mediaId": 195,
-    "date": "d2022-04-05T21:49",
-    "sentence": "Rep. <span class='selected-term'>Peter Meijer</span> (R-Mich.) faces John Gibbs, a former Trump administration official.",
-    "author": "Cristina Marcos",
-    "title": "Veteran lawmaker's exit has House GOP trending toward Trump",
+    "id": 26,
+    "mediaId": 261,
+    "date": "2022-00-05",
+    "sentence": "Also voting to impeach was U.S. Rep. <span class='selected-term'>Peter Meijer</span>, R-Grand Rapids, who is running for reelection this year despite Trump's endorsement of another candidate, John Gibbs.",
+    "author": "Todd Spangler",
+    "title": "Rep. Fred Upton announces retirement from Congress, has been in US House since 1987",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 27,
+    "mediaId": 238,
+    "date": "2022-00-05",
+    "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
+    "author": "",
+    "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
     "sentiment": "0.0"
   }
 ]

@@ -1,8 +1,17 @@
 [
   {
+    "id": 7747,
+    "mediaId": 65,
+    "date": "2022-00-15",
+    "sentence": "Georgia U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> asserted that the Democratic Party \"has left Brown and Black people behind\" Thursday on \"Hannity.\"",
+    "author": "",
+    "title": "Herschel Walker responds to Elie Mystal's attack: Democratic Party 'has left Brown and Black people behind'",
+    "sentiment": "-0.897"
+  },
+  {
     "id": 7968,
     "mediaId": 188,
-    "date": "d2022-03-23T00:00",
+    "date": "2022-00-23",
     "sentence": "The White House requested for Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span> to resign from the President's Council on Sports, Fitness & Nutrition on Wednesday, or else face termination, according to CNN.",
     "author": "Alex Nitzberg",
     "title": "White House ousts Dr. Mehmet Oz and Herschel Walker from President's Council on Sports, Fitness & Nutrition",
@@ -11,19 +20,10 @@
   {
     "id": 7942,
     "mediaId": 136,
-    "date": "d2022-03-24T10:09",
+    "date": "2022-00-24",
     "sentence": "Oz, best known as the host of The Dr. Oz Show, and <span class='selected-term'>Herschel Walker</span> were both sent letters on Wednesday asking them to resign by the end of the day or they would be terminated, a White House official told NBC News.",
     "author": "Khaleda Rahman",
     "title": "Dr. Oz Calls Biden 'Petty' After Being Asked to Quit President's Council",
     "sentiment": "-0.607"
-  },
-  {
-    "id": 7747,
-    "mediaId": 65,
-    "date": "d2022-04-15T04:12",
-    "sentence": "Georgia U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> asserted that the Democratic Party \"has left Brown and Black people behind\" Thursday on \"Hannity.\"",
-    "author": "",
-    "title": "Herschel Walker responds to Elie Mystal's attack: Democratic Party 'has left Brown and Black people behind'",
-    "sentiment": "-0.897"
   }
 ]

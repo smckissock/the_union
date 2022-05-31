@@ -1,24 +1,18 @@
 {
   "id": 7041,
   "mediaId": 237,
-  "date": "d2022-01-28T15:15",
+  "date": "1/28/2022 12:00:00 AM",
   "headline": "Pennsylvania court declares mail-in voting law unconstitutional",
   "image": "https://cdn.brid.tv/live/partners/19383/snapshot/813407.png",
   "link": "https://www.washingtonexaminer.com/news/pennsylvania-court-declares-mail-in-voting-law-unconstitutional",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Elizabeth Faddis",
   "authorUrl": "https://www.washingtonexaminer.com/author/elizabeth-faddis",
   "termIds": [
-    1147,
-    1625,
-    1713,
-    3102,
-    51,
-    5186,
-    2862
+    3102
   ],
   "sentences": [
     "\"No-excuse mail-in voting makes the exercise of the franchise more convenient and has been used four times in the history of Pennsylvania,\" Mary Hannah Leavitt, a judge with the Commonwealth Court, wrote in the court's decision.",

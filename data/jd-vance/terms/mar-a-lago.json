@@ -1,62 +1,8 @@
 [
   {
-    "id": 6340,
-    "mediaId": 157,
-    "date": "d2022-04-17T00:00",
-    "sentence": "",
-    "author": "Tom Boggioni",
-    "title": "'A sad scramble': GOP hopefuls are paying 'Trump whisperers' for access to him at Mar-a-Lago",
-    "sentiment": "0"
-  },
-  {
-    "id": 5091,
-    "mediaId": 169,
-    "date": "d2022-04-18T10:33",
-    "sentence": "",
-    "author": "Heather Digby Parton",
-    "title": "Does Trump still have the juice? His spotty endorsement record suggests decline",
-    "sentiment": "0"
-  },
-  {
-    "id": 6309,
-    "mediaId": 21,
-    "date": "d2022-04-18T16:00",
-    "sentence": "",
-    "author": "Oma Seddiq",
-    "title": "Trump biographer compares GOP endorsements to 'The Apprentice' as 'a sad scramble of people behaving like crabs in a bucket to be lifted out by him'",
-    "sentiment": "0"
-  },
-  {
-    "id": 6196,
-    "mediaId": 195,
-    "date": "d2022-04-23T16:03",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
-    "sentiment": "0"
-  },
-  {
-    "id": 6193,
-    "mediaId": 18,
-    "date": "d2022-04-23T19:45:26",
-    "sentence": "",
-    "author": "Howie Carr",
-    "title": "Howie Carr: Between Trump and Kevin McCarthy, it appears no good deed goes unpunished",
-    "sentiment": "0"
-  },
-  {
-    "id": 6089,
-    "mediaId": 157,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "Timothy Evans",
-    "title": "Anti-Trump Ohio Republican rising in polls: report",
-    "sentiment": "0.647"
-  },
-  {
     "id": 5923,
     "mediaId": 237,
-    "date": "d2022-05-03T11:04",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Paul Bedard",
     "title": "Trump endorsement helps far more than Bidens",
@@ -65,7 +11,7 @@
   {
     "id": 5852,
     "mediaId": 157,
-    "date": "d2022-05-04T00:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Trump thought GOP candidate Josh Mandel was 'weird' -- and 'no amount of sucking up' would win his endorsement: report",
@@ -74,7 +20,7 @@
   {
     "id": 5713,
     "mediaId": 195,
-    "date": "d2022-05-05T16:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Kevin R. Kosar",
     "title": "The big story from Ohio is not about Donald Trumps power",
@@ -83,10 +29,64 @@
   {
     "id": 3363,
     "mediaId": 238,
-    "date": "d2022-05-16T22:00",
+    "date": "2022-00-16",
     "sentence": "",
     "author": "Isaac Arnsdorf",
     "title": "How Trump's pact with the Club for Growth turned into a grudge match",
     "sentiment": "0"
+  },
+  {
+    "id": 6340,
+    "mediaId": 157,
+    "date": "2022-00-17",
+    "sentence": "",
+    "author": "Tom Boggioni",
+    "title": "'A sad scramble': GOP hopefuls are paying 'Trump whisperers' for access to him at Mar-a-Lago",
+    "sentiment": "0"
+  },
+  {
+    "id": 5091,
+    "mediaId": 169,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Heather Digby Parton",
+    "title": "Does Trump still have the juice? His spotty endorsement record suggests decline",
+    "sentiment": "0"
+  },
+  {
+    "id": 6309,
+    "mediaId": 21,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Oma Seddiq",
+    "title": "Trump biographer compares GOP endorsements to 'The Apprentice' as 'a sad scramble of people behaving like crabs in a bucket to be lifted out by him'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6193,
+    "mediaId": 18,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Howie Carr",
+    "title": "Howie Carr: Between Trump and Kevin McCarthy, it appears no good deed goes unpunished",
+    "sentiment": "0"
+  },
+  {
+    "id": 6196,
+    "mediaId": 195,
+    "date": "2022-00-23",
+    "sentence": "",
+    "author": "Niall Stanage",
+    "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
+    "sentiment": "0"
+  },
+  {
+    "id": 6089,
+    "mediaId": 157,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Timothy Evans",
+    "title": "Anti-Trump Ohio Republican rising in polls: report",
+    "sentiment": "0.647"
   }
 ]

@@ -1,25 +1,19 @@
 {
   "id": 8416,
   "mediaId": 98,
-  "date": "d2022-05-29T00:00",
+  "date": "5/29/2022 12:00:00 AM",
   "headline": "Christian nationalism on the rise in some GOP campaigns",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/e093482/2147483647/strip/true/crop/3519x2346+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F12%2Fbfddc47ef3c5c529b3b3065eb634%2Fd2f595ac921f4092ad0d3e4e233b5e20",
   "link": "https://www.latimes.com/world-nation/story/2022-05-29/christian-nationalism-on-the-rise-in-some-gop-campaigns",
-  "sentiment": "-0.169",
+  "sentiment": "0.0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "PETER SMITH and DEEPA BHARATH",
   "authorUrl": "",
   "termIds": [
-    1106,
     2303,
-    3102,
-    428,
-    577,
-    2862,
-    2868,
-    2945
+    3102
   ],
   "sentences": [
     "Mastriano is a unique case where he really does in his speeches highlight this apocalyptic idea where his supporters and causes are on God's side, said Andrew Whitehead, sociology professor at Indiana University-Purdue University Indianapolis and co-author of Taking America Back for God: Christian Nationalism in the United States.",

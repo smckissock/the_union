@@ -1,24 +1,18 @@
 {
   "id": 6880,
   "mediaId": 65,
-  "date": "d2022-05-10T14:48",
+  "date": "5/10/2022 12:00:00 AM",
   "headline": "Moderate Dem accused of trying to 'confuse' GOP primary voters with mailers tying candidate to Trump",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b9329a9-18ca-42ec-b552-57ac217baae4/293b7fac-ca29-4284-adc6-848146115a54/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/moderate-dem-accused-confuse-gop-primary-voters-mailers-trump",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1147,
-    2087,
-    3102,
-    5355,
-    146,
-    428,
-    2820
+    3102
   ],
   "sentences": [
     "Gottheimer isnt the only Democrat who appears to be throwing up primary smokescreens trying to tie Republicans to Trump  the Pennsylvania gubernatorial race is seeing television ads from the presumptive Democrat nominee, state Attorney General Josh Shapiro, targeting GOP state Sen. Doug Mastriano as \"one of Donald Trumps strongest supporters.\"",

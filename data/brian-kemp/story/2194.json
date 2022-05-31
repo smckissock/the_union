@@ -1,25 +1,18 @@
 {
   "id": 2194,
   "mediaId": 12,
-  "date": "d2022-04-01T10:00",
+  "date": "4/1/2022 12:00:00 AM",
   "headline": "OPINION: A legislative session for Brian Kemp to take to the bank",
   "image": "https://www.ajc.com/resizer/xteLCzVXSdai4Jyj4MGkYZ0LOps=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/CTKU7WI4EWGAZ6AQCPZEKSY4NU.jpg",
   "link": "https://www.ajc.com/politics/opinion-a-legislative-session-for-brian-kemp-to-take-to-the-bank/NOQ6QFWSZJDZ7FUBGR6YUB2H4U/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Patricia Murphy",
   "authorUrl": "https://www.ajc.com/staff/patricia-murphy/",
   "termIds": [
-    1103,
-    1178,
-    1951,
-    2095,
-    4325,
-    571,
-    2617,
-    2672
+    2095
   ],
   "sentences": [
     "He also pitched a buffet of hot-button school issues that the governor put under the umbrella of parents' rights.? After nearly two years of COVID school closures, mask mandates, online school, and more, parent activists sent Republicans into this session with marching orders and most of those demands are now in legislation headed toward or across the finish line.",

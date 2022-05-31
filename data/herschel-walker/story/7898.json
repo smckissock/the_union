@@ -1,25 +1,18 @@
 {
   "id": 7898,
   "mediaId": 19,
-  "date": "d2022-03-27T00:00",
+  "date": "3/27/2022 12:00:00 AM",
   "headline": "Raphael Warnock Fundraises with Activist Who Compared Republicans to Terrorists",
   "image": "https://media.breitbart.com/media/2021/01/GettyImages-1229686848-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/03/27/warnock-fundraises-activist-who-compared-republicans-terrorists/",
-  "sentiment": "-0.523",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Amy Furr",
   "authorUrl": "https://www.breitbart.com/author/amy-furr/",
   "termIds": [
-    815,
-    1136,
-    2087,
-    5922,
-    428,
-    571,
-    2934,
-    2945
+    815
   ],
   "sentences": [
     "In other posts, Siskind has made similar remarks about Republicans and the Taliban:\nMeanwhile, Georgia U.S. Senate candidate Herschel Walker said the Biden administration was using its call for him to step down from the Sports & Fitness Council to bolster his challenger, the incumbent Sen. Warnock.",

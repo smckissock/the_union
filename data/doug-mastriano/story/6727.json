@@ -1,28 +1,19 @@
 {
   "id": 6727,
   "mediaId": 323,
-  "date": "d2022-05-17T19:58",
+  "date": "5/17/2022 12:00:00 AM",
   "headline": "Primary Elections Live Updates: Voters in Pennsylvania and North Carolina Cast Ballots",
   "image": "https://images.wsj.net/im-545787/social",
   "link": "https://www.wsj.com/livecoverage/primary-election-results-pennysylvania-north-carolina-oregon",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    999,
-    1147,
-    1282,
-    1433,
     2303,
-    3102,
-    5414,
-    428,
-    2834,
-    2850,
-    2862
+    3102
   ],
   "sentences": [
     "Here's a look back at WSJ's coverage:\nA healthcare executive is challenging the high-profile lawmaker in next months Republican primary in a Georgia district where many voters embrace Mrs. Greenes provocative style but some Republicans are frustrated by what they see as a lack of attention to the districts needs.",

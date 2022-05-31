@@ -1,27 +1,18 @@
 {
   "id": 5575,
   "mediaId": 238,
-  "date": "d2022-05-11T10:23",
+  "date": "5/11/2022 12:00:00 AM",
   "headline": "Takeaways from West Virginia and Nebraska GOP primaries",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/11/west-virginia-nebraska-republicans/",
-  "sentiment": "-0.465",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    733,
-    1147,
-    1332,
-    1801,
-    2510,
-    3103,
-    350,
-    428,
-    2816,
-    2969
+    3103
   ],
   "sentences": [
     "Earlier in this election cycle, Trump had endorsed another candidate with a messy personal history who did not end up winning his race: Sean Parnell dropped out of the GOP Pennsylvania Senate contest after losing custody of his children in a divorce battle in which his wife accused him of domestic violence.",

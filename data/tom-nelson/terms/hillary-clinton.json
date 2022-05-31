@@ -2,25 +2,16 @@
   {
     "id": 2418,
     "mediaId": 129,
-    "date": "d2022-01-11T00:00",
+    "date": "2022-00-11",
     "sentence": "Mandela Barnes and State Treasurer Sarah Godlewski, along with Alex Lasry, an executive with the Milwaukee Bucks, and <span class='selected-term'>Tom Nelson</span>, a county executive.",
     "author": "",
     "title": "Nobody's Getting Special Treatment in 2022",
     "sentiment": "0.0"
   },
   {
-    "id": 2406,
-    "mediaId": 124,
-    "date": "d2022-01-20T09:33",
-    "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Milwaukee Bucks executive Alex Lasry and <span class='selected-term'>Tom Nelson</span>, the Outagamie County executive.",
-    "author": "",
-    "title": "Republicans 'all in' for Ron Johnson's Senate re-election fight in Wisconsin",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2361,
     "mediaId": 195,
-    "date": "d2022-03-15T11:00",
+    "date": "2022-00-15",
     "sentence": "Mandela Barnes (D) leading that primary field with 23 percent support, with Milwaukee Bucks executive Alex Lasry trailing at 13 percent support, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> garnering five percent support and State Treasurer Sarah Godlewski three percent.",
     "author": "Julia Manchester",
     "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill",
@@ -29,10 +20,19 @@
   {
     "id": 2316,
     "mediaId": 238,
-    "date": "d2022-04-17T14:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "",
     "title": "Opinion: Wisconsin's Tom Nelson reminds Democrats how populists should sound",
     "sentiment": "0.255"
+  },
+  {
+    "id": 2406,
+    "mediaId": 124,
+    "date": "2022-00-20",
+    "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Milwaukee Bucks executive Alex Lasry and <span class='selected-term'>Tom Nelson</span>, the Outagamie County executive.",
+    "author": "",
+    "title": "Republicans 'all in' for Ron Johnson's Senate re-election fight in Wisconsin",
+    "sentiment": "0.0"
   }
 ]

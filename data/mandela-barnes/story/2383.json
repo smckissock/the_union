@@ -1,25 +1,18 @@
 {
   "id": 2383,
   "mediaId": 367,
-  "date": "d2022-02-27T00:00",
+  "date": "2/27/2022 12:00:00 AM",
   "headline": "Asked about meeting with the families of murder victims, Evers says he has a 'busy schedule'",
   "image": "https://www.gannett-cdn.com/presto/2022/02/16/PMJS/25d3d417-011b-48cb-a2f0-5d334208bc85-MJS_state16_15.jpg_state16.JPG?crop=2903,1633,x0,y0&width=2903&height=1633&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/2022/02/27/evers-cites-busy-schedule-when-asked-meeting-victims-families/6964223001/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Patrick Marley",
   "authorUrl": "https://www.jsonline.com/staff/2646637001/patrick-marley/",
   "termIds": [
-    1360,
-    1490,
-    2039,
-    2145,
-    625,
-    2771,
-    2793,
-    2972
+    2039
   ],
   "sentences": [
     "In a pre-taped segment on WKOW-TV, the first-term Democrat said he had met with those affected by the attack on the Waukesha Christmas Parade but did not directly address when he had met with those who lost loved ones in Milwaukee.",

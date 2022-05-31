@@ -1,8 +1,17 @@
 [
   {
+    "id": 6018,
+    "mediaId": 376,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "Stephanie Akin\nJessica Wehrman",
+    "title": "What to watch in Tuesdays primaries in Ohio and Indiana",
+    "sentiment": "0"
+  },
+  {
     "id": 6024,
     "mediaId": 25,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "Adam Brewster",
     "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
@@ -11,25 +20,61 @@
   {
     "id": 6036,
     "mediaId": 43,
-    "date": "d2022-05-02T00:00",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 5/2",
     "sentiment": "0"
   },
   {
-    "id": 6018,
-    "mediaId": 376,
-    "date": "d2022-05-02T06:00",
+    "id": 5897,
+    "mediaId": 195,
+    "date": "2022-00-03",
     "sentence": "",
-    "author": "Stephanie Akin\nJessica Wehrman",
-    "title": "What to watch in Tuesdays primaries in Ohio and Indiana",
+    "author": "Max Greenwood",
+    "title": "Polls close on key primaries in Ohio",
+    "sentiment": "0.158"
+  },
+  {
+    "id": 5906,
+    "mediaId": 238,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "",
+    "title": "The Trailer: What to watch tonight in Ohio and Indiana",
+    "sentiment": "0"
+  },
+  {
+    "id": 5913,
+    "mediaId": 120,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Steve Benen",
+    "title": "Why campaign watchers are keeping an eye on Ohio, Indiana today",
+    "sentiment": "0"
+  },
+  {
+    "id": 5918,
+    "mediaId": 129,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "",
+    "title": "G.O.P. Candidates Make Final Push in Ohios Closely Watched Senate Race",
+    "sentiment": "0"
+  },
+  {
+    "id": 5943,
+    "mediaId": 237,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Sarah Westwood",
+    "title": "Seven things to watch in the Ohio and Indiana primaries",
     "sentiment": "0"
   },
   {
     "id": 5974,
     "mediaId": 25,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Adam Brewster",
     "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
@@ -38,7 +83,7 @@
   {
     "id": 5976,
     "mediaId": 238,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "Republicans reluctant to tout Roe decision they have long sought",
@@ -47,133 +92,88 @@
   {
     "id": 5985,
     "mediaId": 25,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "",
     "title": "Ohio primary results: Trump's endorsement power could be tested in Senate race",
     "sentiment": "0"
   },
   {
-    "id": 5943,
-    "mediaId": 237,
-    "date": "d2022-05-03T07:00",
-    "sentence": "",
-    "author": "Sarah Westwood",
-    "title": "Seven things to watch in the Ohio and Indiana primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5918,
-    "mediaId": 129,
-    "date": "d2022-05-03T13:37:50",
-    "sentence": "",
-    "author": "",
-    "title": "G.O.P. Candidates Make Final Push in Ohios Closely Watched Senate Race",
-    "sentiment": "0"
-  },
-  {
-    "id": 5913,
-    "mediaId": 120,
-    "date": "d2022-05-03T19:12",
-    "sentence": "",
-    "author": "Steve Benen",
-    "title": "Why campaign watchers are keeping an eye on Ohio, Indiana today",
-    "sentiment": "0"
-  },
-  {
-    "id": 5906,
-    "mediaId": 238,
-    "date": "d2022-05-03T21:11",
-    "sentence": "",
-    "author": "",
-    "title": "The Trailer: What to watch tonight in Ohio and Indiana",
-    "sentiment": "0"
-  },
-  {
-    "id": 5897,
-    "mediaId": 195,
-    "date": "d2022-05-03T23:30",
-    "sentence": "",
-    "author": "Max Greenwood",
-    "title": "Polls close on key primaries in Ohio",
-    "sentiment": "0.158"
-  },
-  {
-    "id": 5857,
-    "mediaId": 43,
-    "date": "d2022-05-04T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "2022 Midterm Primary Season Kicks of With Voting System Failures in OH: 'BradCast' 5/4/2022",
-    "sentiment": "0"
-  },
-  {
-    "id": 5834,
-    "mediaId": 124,
-    "date": "d2022-05-04T00:02:56",
-    "sentence": "",
-    "author": "",
-    "title": "Vance leads in Ohio Republican Senate primary, remains too early to call",
-    "sentiment": "0"
-  },
-  {
-    "id": 5824,
-    "mediaId": 233,
-    "date": "d2022-05-04T02:30",
-    "sentence": "",
-    "author": "David Jackson",
-    "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November",
-    "sentiment": "0.241"
-  },
-  {
-    "id": 5789,
-    "mediaId": 120,
-    "date": "d2022-05-04T13:22",
-    "sentence": "",
-    "author": "Steve Benen",
-    "title": "Michigan Republican defeated after lie back and enjoy it talk",
-    "sentiment": "0"
-  },
-  {
-    "id": 5784,
-    "mediaId": 238,
-    "date": "d2022-05-04T14:22",
-    "sentence": "",
-    "author": "",
-    "title": "Trump and Biden prevail as party leaders in Ohio primary results",
-    "sentiment": "0"
-  },
-  {
-    "id": 5781,
-    "mediaId": 238,
-    "date": "d2022-05-04T15:17",
-    "sentence": "",
-    "author": "",
-    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
-    "sentiment": "0"
-  },
-  {
-    "id": 5780,
-    "mediaId": 238,
-    "date": "d2022-05-04T15:23",
-    "sentence": "",
-    "author": "",
-    "title": "4 takeaways from the Ohio primaries",
-    "sentiment": "0"
-  },
-  {
     "id": 5766,
     "mediaId": 195,
-    "date": "d2022-05-04T18:21",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Campaign Report  Trump shows his strength in Ohio",
     "sentiment": "0.912"
   },
   {
+    "id": 5780,
+    "mediaId": 238,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "4 takeaways from the Ohio primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5781,
+    "mediaId": 238,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 5784,
+    "mediaId": 238,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Trump and Biden prevail as party leaders in Ohio primary results",
+    "sentiment": "0"
+  },
+  {
+    "id": 5789,
+    "mediaId": 120,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Steve Benen",
+    "title": "Michigan Republican defeated after lie back and enjoy it talk",
+    "sentiment": "0"
+  },
+  {
+    "id": 5824,
+    "mediaId": 233,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November",
+    "sentiment": "0.241"
+  },
+  {
+    "id": 5834,
+    "mediaId": 124,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "Vance leads in Ohio Republican Senate primary, remains too early to call",
+    "sentiment": "0"
+  },
+  {
+    "id": 5857,
+    "mediaId": 43,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "",
+    "title": "2022 Midterm Primary Season Kicks of With Voting System Failures in OH: 'BradCast' 5/4/2022",
+    "sentiment": "0"
+  },
+  {
     "id": 5748,
     "mediaId": 43,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
     "title": "The Downballot: Why progressives must build state power (transcript)",
@@ -182,7 +182,7 @@
   {
     "id": 5691,
     "mediaId": 43,
-    "date": "d2022-05-06T00:00",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Highlights from The Downballot: Why building progressive state power is imperative",

@@ -1,11 +1,11 @@
 {
   "id": 8230,
   "mediaId": 19,
-  "date": "d2022-01-27T00:00",
+  "date": "1/27/2022 12:00:00 AM",
   "headline": "Poll: Herschel Walker Holds 3-Point lead over Warnock in Georgia Senate Race",
   "image": "https://media.breitbart.com/media/2022/01/GettyImages-1235507269-640x480.jpg",
   "link": "https://www.breitbart.com/sports/2022/01/27/poll-herschel-walker-holds-3-point-lead-over-warnock-in-georgia-senate-race/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "https://www.breitbart.com/author/warner-todd-huston/",
   "termIds": [
     815,
-    1136,
-    2095,
-    2493,
-    146,
-    232,
-    571,
-    584,
-    2672,
-    2864
+    2095
   ],
   "sentences": [
     "The Jan. 24 University of Georgias School of Public and International Affairs poll finds that Walker, a 1982 Heisman Trophy winner, has overtaken Warnock, who was elected in a special election in 2020 for the seat temporarily held by Republican Kelly Loeffler, who was appointed to the seat to finish the term after Sen. Johnny Isakson resigned his seat.",

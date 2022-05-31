@@ -1,22 +1,18 @@
 {
   "id": 5356,
   "mediaId": 195,
-  "date": "d2022-04-01T19:03",
+  "date": "4/1/2022 12:00:00 AM",
   "headline": "GA state Senate sends permit-less carry handgun bill to Kemp",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2021/10/ca_gun_ammo_istock.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/3256581-ga-state-senate-sends-permit-less-carry-handgun-bill-to-kemp/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caroline Vakil",
   "authorUrl": "https://thehill.com/author/caroline-vakil/",
   "termIds": [
-    2095,
-    562,
-    571,
-    2537,
-    2672
+    2095
   ],
   "sentences": [
     "The legislation allows people to carry concealed handguns anywhere that a licensed permit holder can if they have not been involved in mental health treatment within the last five years or do not have felony or drug convictions, according to The Atlanta Journal-Constitution.",

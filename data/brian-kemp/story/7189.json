@@ -1,26 +1,20 @@
 {
   "id": 7189,
   "mediaId": 21,
-  "date": "d2022-05-23T01:00",
+  "date": "5/23/2022 12:00:00 AM",
   "headline": "GOP gubernatorial candidate running on 'Jesus, Guns, Babies' platform says 'the church rules the state of Georgia'",
   "image": "https://i.insider.com/628ad9b0b0a8be00185ffc37?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/gop-kandiss-taylor-says-church-rules-the-state-of-georgia-2022-5",
-  "sentiment": "-0.882",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Tangalakis-Lippert",
   "authorUrl": "https://www.businessinsider.com/author/katherine-tangalakis-lippert",
   "termIds": [
-    1463,
     1646,
-    1740,
     2095,
-    3082,
-    4325,
-    428,
-    2555,
-    2672
+    3082
   ],
   "sentences": [
     "At a Sunday campaign event, GOP candidate for Governor Kandiss Taylor delivered an anti-abortion speech that criticized the separation of church and state, saying \"the church runs the state of Georgia.\"",

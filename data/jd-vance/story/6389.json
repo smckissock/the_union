@@ -1,27 +1,18 @@
 {
   "id": 6389,
   "mediaId": 239,
-  "date": "d2022-04-15T00:03:36",
+  "date": "4/15/2022 12:00:00 AM",
   "headline": "Trump endorses J.D. Vance in Ohio Senate race",
   "image": "https://twt-thumbs.washtimes.com/media/image/2022/04/15/Election_2022_Senate_Ohio_Trump_49616.jpg-6bd01_c0-203-4852-3031_s885x516.jpg?e5aa7a432a1da382bc4ec5677e8704e66e8b88df",
   "link": "https://www.washingtontimes.com/news/2022/apr/16/trump-endorses-jd-vance-ohio-senate-race/",
-  "sentiment": "0.437",
+  "sentiment": "0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joseph Clark",
   "authorUrl": "https://www.washingtontimes.com/staff/joseph-clark/",
   "termIds": [
-    946,
-    1147,
-    1801,
-    2005,
-    2466,
-    3103,
-    380,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "He said the final decision was all about winning.?\nMr. Vance was a staunch critic of Mr. Trump in the lead-up to the 2016 election, describing himself as a Never Trump guy? and slamming Mr. Trump as an idiot.? The Yale Law graduate floated the idea of voting for Democratic presidential candidate Hillary Clinton in the 2016 runoff against Mr. Trump.",

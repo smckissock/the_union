@@ -1,11 +1,11 @@
 {
   "id": 6741,
   "mediaId": 233,
-  "date": "d2022-05-17T13:04",
+  "date": "5/17/2022 12:00:00 AM",
   "headline": "Key races in PA, NC highlight busy primary day, Biden heads to Buffalo: 5 Things podcast",
   "image": "https://www.gannett-cdn.com/presto/2022/05/13/USAT/2a5c5d9b-f03b-4427-9e4b-c55b3e233ff5-AP_Election_2022_Senate_Pennsylvania.jpg?crop=4013,2258,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
   "link": "https://www.usatoday.com/story/news/nation/2022/05/17/key-primary-races-across-country-biden-visits-buffalo-5-things-podcast/9804064002/",
-  "sentiment": "-0.216",
+  "sentiment": "0.0",
   "mediaOutlet": "USA Today",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,8 @@
   "authorUrl": "https://www.usatoday.com/staff/2646288001/taylor-wilson/",
   "termIds": [
     821,
-    1147,
-    1653,
-    1713,
-    1770,
-    2087,
     2303,
-    3102,
-    5437,
-    2862,
-    4938
+    3102
   ],
   "sentences": [
     "Behind the scenes for the last several months, liberal groups led by the Center for American Progress has been testing various messaging with voters through polling and through focus groups, etc., what they found is ultra MAGA is viewed more negatively among voters who aren't considered strong Trump supporters then Trump himself.",

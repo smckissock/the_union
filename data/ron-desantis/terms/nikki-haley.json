@@ -1,26 +1,8 @@
 [
   {
-    "id": 4377,
-    "mediaId": 195,
-    "date": "d2022-04-29T17:00",
-    "sentence": "",
-    "author": "Armstrong Williams",
-    "title": "Someone like Trump  but not Trump",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4377,
-    "mediaId": 195,
-    "date": "d2022-04-29T17:00",
-    "sentence": "",
-    "author": "Armstrong Williams",
-    "title": "Someone like Trump  but not Trump",
-    "sentiment": "0.413"
-  },
-  {
     "id": 4182,
     "mediaId": 43,
-    "date": "d2022-05-03T00:00",
+    "date": "2022-00-03",
     "sentence": "Donald Trump\n <span class='selected-term'>Ron DeSantis</span>\n Mike Pence\n Chris Christi\n Nikki Haley\n Ted Cruz\n Mike Pompeo\n Kristi Noem\n Tom Cotton\n Larry Hogan\n Uncertain\n Other (please comment)\n 51 votes Vote Now!",
     "author": "",
     "title": "SATIRE: Gorilla association objects to GOP Gov. Larry Hogan calling Trump an 800 pounder in the room",
@@ -29,10 +11,28 @@
   {
     "id": 7110,
     "mediaId": 195,
-    "date": "d2022-05-21T16:00",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "Douglas MacKinnon",
     "title": "Trumps vice presidential running mate for 2024?",
     "sentiment": "0.0"
+  },
+  {
+    "id": 4377,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Armstrong Williams",
+    "title": "Someone like Trump  but not Trump",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4377,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Armstrong Williams",
+    "title": "Someone like Trump  but not Trump",
+    "sentiment": "0.413"
   }
 ]

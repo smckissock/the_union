@@ -1,27 +1,18 @@
 {
   "id": 5167,
   "mediaId": 21,
-  "date": "d2022-04-13T18:00",
+  "date": "4/13/2022 12:00:00 AM",
   "headline": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs",
   "image": "https://i.insider.com/6203d2fe019b02001851ecda?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/mcconnell-donald-trump-georgia-runoffs-2020-election-this-will-not-pass-2022-4",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brent D. Griffiths",
   "authorUrl": "https://www.businessinsider.com/author/brent-d-griffiths",
   "termIds": [
-    1136,
-    1147,
-    1311,
-    1668,
-    1765,
-    2087,
-    2095,
-    232,
-    571,
-    2672
+    2095
   ],
   "sentences": [
     "\"What it looks to me like he's doing is setting this up so he can blame the governor and the secretary of state if we lose,\" McConnell told New York Times reporters Jonathan Martin and Alexander Burns for their new book, \"This Will Not Pass: Trump, Biden, and the Battle for America's Future.\"",

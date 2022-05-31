@@ -1,26 +1,18 @@
 {
   "id": 5014,
   "mediaId": 21,
-  "date": "d2022-04-22T08:00",
+  "date": "4/22/2022 12:00:00 AM",
   "headline": "Trump has accused Georgia's GOP leaders of colluding with 'radical left Democrats' to unseat Marjorie Taylor Greene",
   "image": "https://i.insider.com/61c457cc1f3fca0018a53557?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-georgia-gop-leaders-colluding-radical-left-democrats-oust-mtg-2022-4",
-  "sentiment": "-0.822",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Cheryl Teh",
   "authorUrl": "https://www.businessinsider.com/author/cheryl-teh",
   "termIds": [
-    1147,
-    1951,
-    2087,
-    2095,
-    2203,
-    4325,
-    146,
-    428,
-    2672
+    2095
   ],
   "sentences": [
     "In the statement, Trump once again threw his weight behind GOP gubernatorial candidate David Perdue, who is challenging Kemp for the Republican nomination and is slated to go up against Democratic candidate Stacey Abrams for the hotly-contested Georgia seat.",

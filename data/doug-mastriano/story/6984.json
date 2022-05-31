@@ -1,25 +1,18 @@
 {
   "id": 6984,
   "mediaId": 675,
-  "date": "d2022-03-24T19:09",
+  "date": "3/24/2022 12:00:00 AM",
   "headline": "Do D.C. Democrats fear the convoy truckers?",
   "image": "https://www.wnd.com/wp-content/uploads/2022/03/Ted-Cruz-rides-with-Peoples-Convoy-to-support-truck-drivers-video-screenshot.jpg",
   "link": "https://www.wnd.com/2022/03/d-c-democrats-fear-convoy-truckers/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Michael Letts",
   "authorUrl": "https://www.wnd.com/author/mletts/",
   "termIds": [
-    1710,
-    3102,
-    146,
-    2593,
-    2782,
-    2853,
-    2945,
-    2959
+    3102
   ],
   "sentences": [
     "\"Although many of the federal and local COVID mandates are lifted, there are still employers, including hospitals, which are requiring employees to get vaccinated or boosted or risk losing their jobs,\" said Pierre Kory, M.D., president and chief medical officer of the Frontline COVID-19 Critical Care Alliance.",

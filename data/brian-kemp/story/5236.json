@@ -1,11 +1,11 @@
 {
   "id": 5236,
   "mediaId": 21,
-  "date": "d2022-04-09T06:00",
+  "date": "4/9/2022 12:00:00 AM",
   "headline": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
   "image": "https://i.insider.com/62510e77ee61990018dde72a?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/ron-desantis-cold-war-possible-florida-georgia-stacey-abrams-governor-2022-4",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,13 +13,7 @@
   "authorUrl": "https://www.businessinsider.com/author/hannah-getahun",
   "termIds": [
     661,
-    1951,
-    2095,
-    4844,
-    78,
-    2661,
-    2672,
-    2851
+    2095
   ],
   "sentences": [
     "During a press conference Friday in Gulf County, Florida, while promoting a workforce development event, DeSantis spoke about the race in Georgia, seemingly encouraging Georgia residents to make sure they cost Abrams the election.",

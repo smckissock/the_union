@@ -1,11 +1,11 @@
 {
   "id": 7412,
   "mediaId": 233,
-  "date": "d2022-05-24T23:24",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Stacey Abrams wins gov primary; GA polls close; primaries also in Alabama, Ark., Texas: live updates",
   "image": "https://www.gannett-cdn.com/presto/2021/12/10/USAT/d8f1268b-1b97-4ed7-acf6-2e49b8225653-AP_Election_2022_Georgia_Governor.jpg?crop=3363,1892,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
   "link": "https://www.usatoday.com/story/news/politics/2022/05/24/primaries-georgia-texas-alabama-arkansas-live-updates/9570676002/",
-  "sentiment": "-0.802",
+  "sentiment": "0.0",
   "mediaOutlet": "USA Today",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,8 @@
   "authorUrl": "https://www.usatoday.com/staff/2647924001/david-jackson/",
   "termIds": [
     815,
-    984,
-    1147,
-    1951,
-    2087,
     2095,
-    2475,
-    3103,
-    428,
-    2672,
-    2934
+    3103
   ],
   "sentences": [
     "Catherine Buchaniec, Medill News Service\nAlabama votes for federal, state offices\nAlabama voters go to the polls Tuesday to select nominees for a host of state and local offices, including governor, U.S. Senate, attorney general, secretary of state, state auditor, the Alabama Supreme Court, and the Public Service Commission.",

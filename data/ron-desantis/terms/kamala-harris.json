@@ -1,35 +1,17 @@
 [
   {
-    "id": 4341,
-    "mediaId": 223,
-    "date": "d2022-04-30T08:00",
-    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
-    "author": "Spencer Brown",
-    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
-    "sentiment": "0"
-  },
-  {
-    "id": 4341,
-    "mediaId": 223,
-    "date": "d2022-04-30T08:00",
-    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
-    "author": "Spencer Brown",
-    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4327,
-    "mediaId": 18,
-    "date": "d2022-04-30T19:37:23",
+    "id": 4299,
+    "mediaId": 151,
+    "date": "2022-00-01",
     "sentence": "",
-    "author": "Joe Battenfeld",
-    "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears",
+    "author": "",
+    "title": "Florida lost 70,000 people to Covid. Its still not prepared for the next wave.",
     "sentiment": "0.0"
   },
   {
     "id": 4320,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "Jokes, Glamour and a Try for Normalcy as Correspondents Dinner Returns",
@@ -38,7 +20,7 @@
   {
     "id": 4323,
     "mediaId": 43,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
     "author": "",
     "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
@@ -47,25 +29,16 @@
   {
     "id": 4323,
     "mediaId": 43,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "What if I make a really mean joke about Kellyanne Conway and her husband rushes up on the stage and thanks me??\nWhat I like about <span class='selected-term'>Ron DeSantis</span> is if Trump was the original Terminator, DeSantis is like the T-1000.",
     "author": "",
     "title": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
     "sentiment": "0.0"
   },
   {
-    "id": 4299,
-    "mediaId": 151,
-    "date": "d2022-05-01T11:01",
-    "sentence": "",
-    "author": "",
-    "title": "Florida lost 70,000 people to Covid. Its still not prepared for the next wave.",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4043,
     "mediaId": 65,
-    "date": "d2022-05-04T18:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Hanna Panreck",
     "title": "New MSNBC host gets defensive when reporter suggests she might give Jill Biden softball interview",
@@ -74,52 +47,16 @@
   {
     "id": 4043,
     "mediaId": 65,
-    "date": "d2022-05-04T18:00",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Hanna Panreck",
     "title": "New MSNBC host gets defensive when reporter suggests she might give Jill Biden softball interview",
     "sentiment": "0.0"
   },
   {
-    "id": 4024,
-    "mediaId": 19,
-    "date": "d2022-05-05T00:00",
-    "sentence": "",
-    "author": "John Nolte",
-    "title": "Nolte: Rematch Poll Shows Trump Defeating Biden by 14 Points",
-    "sentiment": "0"
-  },
-  {
-    "id": 4024,
-    "mediaId": 19,
-    "date": "d2022-05-05T00:00",
-    "sentence": "",
-    "author": "John Nolte",
-    "title": "Nolte: Rematch Poll Shows Trump Defeating Biden by 14 Points",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3991,
-    "mediaId": 132,
-    "date": "d2022-05-05T12:00",
-    "sentence": "",
-    "author": "Fabiola Santiago",
-    "title": "Behind the Supreme Court's bid to overturn Roe v. Wade? A hidden GOP agenda against women",
-    "sentiment": "0"
-  },
-  {
-    "id": 3991,
-    "mediaId": 132,
-    "date": "d2022-05-05T12:00",
-    "sentence": "",
-    "author": "Fabiola Santiago",
-    "title": "Behind the Supreme Court's bid to overturn Roe v. Wade? A hidden GOP agenda against women",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3979,
     "mediaId": 65,
-    "date": "d2022-05-05T18:21",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Hanna Panreck",
     "title": "Kamala Harris slammed over report she refused to appear in student debt video with Biden: Team player",
@@ -128,16 +65,52 @@
   {
     "id": 3979,
     "mediaId": 65,
-    "date": "d2022-05-05T18:21",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Hanna Panreck",
     "title": "Kamala Harris slammed over report she refused to appear in student debt video with Biden: Team player",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3991,
+    "mediaId": 132,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Fabiola Santiago",
+    "title": "Behind the Supreme Court's bid to overturn Roe v. Wade? A hidden GOP agenda against women",
+    "sentiment": "0"
+  },
+  {
+    "id": 3991,
+    "mediaId": 132,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Fabiola Santiago",
+    "title": "Behind the Supreme Court's bid to overturn Roe v. Wade? A hidden GOP agenda against women",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4024,
+    "mediaId": 19,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "John Nolte",
+    "title": "Nolte: Rematch Poll Shows Trump Defeating Biden by 14 Points",
+    "sentiment": "0"
+  },
+  {
+    "id": 4024,
+    "mediaId": 19,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "John Nolte",
+    "title": "Nolte: Rematch Poll Shows Trump Defeating Biden by 14 Points",
     "sentiment": "0.0"
   },
   {
     "id": 3464,
     "mediaId": 195,
-    "date": "d2022-05-19T09:21",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Amie Parnes",
     "title": "Speculation over whether Biden will run again heats up",
@@ -146,7 +119,7 @@
   {
     "id": 8546,
     "mediaId": 99,
-    "date": "d2022-05-27T10:16",
+    "date": "2022-00-27",
     "sentence": "But the new face is Florida Governor <span class='selected-term'>Ron DeSantis</span>, Shaddick said.",
     "author": "",
     "title": "Trump widens lead over Biden in 2024 election odds",
@@ -155,7 +128,7 @@
   {
     "id": 8546,
     "mediaId": 99,
-    "date": "d2022-05-27T10:16",
+    "date": "2022-00-27",
     "sentence": "But the new face is Florida Governor <span class='selected-term'>Ron DeSantis</span>, Shaddick said.",
     "author": "",
     "title": "Trump widens lead over Biden in 2024 election odds",
@@ -164,7 +137,7 @@
   {
     "id": 8523,
     "mediaId": 129,
-    "date": "d2022-05-29T13:16:45",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Uvalde Live Updates: As Biden Visits Texas, Confronting Anger and Grief",
@@ -173,10 +146,37 @@
   {
     "id": 8523,
     "mediaId": 129,
-    "date": "d2022-05-29T13:16:45",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "Uvalde Live Updates: As Biden Visits Texas, Confronting Anger and Grief",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4327,
+    "mediaId": 18,
+    "date": "2022-00-30",
+    "sentence": "",
+    "author": "Joe Battenfeld",
+    "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4341,
+    "mediaId": 223,
+    "date": "2022-00-30",
+    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
+    "author": "Spencer Brown",
+    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
+    "sentiment": "0"
+  },
+  {
+    "id": 4341,
+    "mediaId": 223,
+    "date": "2022-00-30",
+    "sentence": "Their opposition was too little, too late though and Governor <span class='selected-term'>Ron DeSantis</span> signed the parental rights bill into law.",
+    "author": "Spencer Brown",
+    "title": "Disney Exec Quits Following Florida Debacle After Three Months on the Job",
     "sentiment": "0.0"
   }
 ]

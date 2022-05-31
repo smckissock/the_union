@@ -1,35 +1,8 @@
 [
   {
-    "id": 8260,
-    "mediaId": 12,
-    "date": "d2022-01-21T11:00",
-    "sentence": "Hell face one of four Republicans, including <span class='selected-term'>Herschel Walker</span>, who have gotten into the GOP primary to challenge him.",
-    "author": "Patricia Murphy",
-    "title": "OPINION: Raphael Warnocks year of victories, defeats, and Senate prayers",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8112,
-    "mediaId": 12,
-    "date": "d2022-02-24T13:00",
-    "sentence": "The Florida compound will host back-to-back fundraisers in mid-March, along with a third <span class='selected-term'>Herschel Walker</span> event.",
-    "author": "Greg Bluestein",
-    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
-    "sentiment": "0.428"
-  },
-  {
-    "id": 7925,
-    "mediaId": 43,
-    "date": "d2022-03-25T00:00",
-    "sentence": "Current candidates like <span class='selected-term'>Herschel Walker</span>?",
-    "author": "",
-    "title": "Mark Foley. Dennis Hastert. Matt Gaetz. And Republicans want to pontificate about morals?",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7780,
     "mediaId": 234,
-    "date": "d2022-04-13T00:00",
+    "date": "2022-00-13",
     "sentence": "Trump-endorsed Georgia candidate follows Trumpian tradition of lying about everything all the time\nFresh off revelations that <span class='selected-term'>Herschel Walker</span> lied about graduating at the top of his class from the University of Georgia when, in fact, he didnt graduate at all, comes a new report from the Daily Beast that the U.S. Senate candidate has a habit of claiming to own businesses that dont appear to exist in the literal sense.",
     "author": "Bess Levin",
     "title": "Trumps Former Chief of Staff Wont Be Able to (Allegedly) Commit Voter Fraud in North Carolina Anymore",
@@ -38,19 +11,46 @@
   {
     "id": 7788,
     "mediaId": 43,
-    "date": "d2022-04-13T00:00",
+    "date": "2022-00-13",
     "sentence": "RELATED STORY: <span class='selected-term'>Herschel Walker</span>'s financial reporting 'may raise questions for voters,' expert says\nWalker has made mind-numbing missteps, such as referring to the late Rep. John Lewis as a senator, even implying that Lewis wouldnt have supported the bill named in his honor.",
     "author": "Rebekah Sager",
     "title": "Former NFL star, current Senate candidate Herschel Walker gets new coaches: McConnell, Cruz, Trump",
     "sentiment": "-0.449"
   },
   {
+    "id": 8260,
+    "mediaId": 12,
+    "date": "2022-00-21",
+    "sentence": "Hell face one of four Republicans, including <span class='selected-term'>Herschel Walker</span>, who have gotten into the GOP primary to challenge him.",
+    "author": "Patricia Murphy",
+    "title": "OPINION: Raphael Warnocks year of victories, defeats, and Senate prayers",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7202,
     "mediaId": 151,
-    "date": "d2022-05-22T11:00",
+    "date": "2022-00-22",
     "sentence": "His preferred Senate candidate in Georgia, <span class='selected-term'>Herschel Walker</span>, is favored to win.",
     "author": "",
     "title": "'No one's paying any attention': The week that Republicans ignored Trump's election lies",
     "sentiment": "0"
+  },
+  {
+    "id": 8112,
+    "mediaId": 12,
+    "date": "2022-00-24",
+    "sentence": "The Florida compound will host back-to-back fundraisers in mid-March, along with a third <span class='selected-term'>Herschel Walker</span> event.",
+    "author": "Greg Bluestein",
+    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
+    "sentiment": "0.428"
+  },
+  {
+    "id": 7925,
+    "mediaId": 43,
+    "date": "2022-00-25",
+    "sentence": "Current candidates like <span class='selected-term'>Herschel Walker</span>?",
+    "author": "",
+    "title": "Mark Foley. Dennis Hastert. Matt Gaetz. And Republicans want to pontificate about morals?",
+    "sentiment": "0.0"
   }
 ]

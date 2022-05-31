@@ -1,27 +1,18 @@
 {
   "id": 7420,
   "mediaId": 1546,
-  "date": "d2022-05-24T22:26",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Biden Says 'We Have to Act' After Texas School Shooting",
   "image": "https://gdb.voanews.com/03180000-0aff-0242-93b8-08da3df5a28a_w1023_r1_s.jpg",
   "link": "https://www.voanews.com/a/biden-says-we-have-to-act-after-texas-school-shooting-/6588279.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "VOA",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Associated Press",
   "authorUrl": "https://www.voanews.com/author/associated-press/j_-yt",
   "termIds": [
-    815,
-    895,
-    915,
-    1024,
-    2087,
-    2250,
-    2626,
-    2672,
-    2826,
-    2934
+    815
   ],
   "sentences": [
     "Vice President Kamala Harris said earlier that people normally declare in moments like this, \"our hearts break  but our hearts keep getting broken ... and our broken hearts are nothing compared to the broken hearts of those families.\"",

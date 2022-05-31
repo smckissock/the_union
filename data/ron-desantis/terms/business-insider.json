@@ -1,26 +1,8 @@
 [
   {
-    "id": 5236,
-    "mediaId": 21,
-    "date": "d2022-04-09T06:00",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> said that a southern \"cold war\" could happen if Stacey Abrams wins Georgia's governor's race in November.",
-    "author": "Hannah Getahun",
-    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
-    "sentiment": "0"
-  },
-  {
-    "id": 5236,
-    "mediaId": 21,
-    "date": "d2022-04-09T06:00",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> said that a southern \"cold war\" could happen if Stacey Abrams wins Georgia's governor's race in November.",
-    "author": "Hannah Getahun",
-    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4078,
     "mediaId": 21,
-    "date": "d2022-05-04T01:00",
+    "date": "2022-00-04",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> discouraged Twitter from bringing its headquarters to the state following Elon Musk's privatization of the platform, Jacksonville outlet News4JAX reported.",
     "author": "Taiyler Simone Mitchell",
     "title": "DeSantis takes a dig at Twitter as lawmakers encourage Elon Musk to move HQ to Florida: 'Importing some tech company from San Francisco has not been high on our list'",
@@ -29,43 +11,61 @@
   {
     "id": 4078,
     "mediaId": 21,
-    "date": "d2022-05-04T01:00",
+    "date": "2022-00-04",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> discouraged Twitter from bringing its headquarters to the state following Elon Musk's privatization of the platform, Jacksonville outlet News4JAX reported.",
     "author": "Taiyler Simone Mitchell",
     "title": "DeSantis takes a dig at Twitter as lawmakers encourage Elon Musk to move HQ to Florida: 'Importing some tech company from San Francisco has not been high on our list'",
     "sentiment": "0.0"
   },
   {
-    "id": 3519,
+    "id": 5236,
     "mediaId": 21,
-    "date": "d2022-05-17T01:00",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
+    "date": "2022-00-09",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> said that a southern \"cold war\" could happen if Stacey Abrams wins Georgia's governor's race in November.",
     "author": "Hannah Getahun",
-    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
+    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
     "sentiment": "0"
   },
   {
-    "id": 3519,
+    "id": 5236,
     "mediaId": 21,
-    "date": "d2022-05-17T01:00",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
+    "date": "2022-00-09",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> said that a southern \"cold war\" could happen if Stacey Abrams wins Georgia's governor's race in November.",
     "author": "Hannah Getahun",
-    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
+    "title": "DeSantis says 'Cold War' could ensue between Florida and Georgia if Stacey Abrams wins governor race",
     "sentiment": "0.0"
   },
   {
     "id": 3499,
     "mediaId": 21,
-    "date": "d2022-05-17T21:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Kimberly Leonard",
     "title": "A Republican congressional candidate in Florida paid her home energy bill using campaign funds, potentially violating federal law",
     "sentiment": "0.0"
   },
   {
+    "id": 3519,
+    "mediaId": 21,
+    "date": "2022-00-17",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
+    "author": "Hannah Getahun",
+    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
+    "sentiment": "0"
+  },
+  {
+    "id": 3519,
+    "mediaId": 21,
+    "date": "2022-00-17",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
+    "author": "Hannah Getahun",
+    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7275,
     "mediaId": 21,
-    "date": "d2022-05-22T15:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Yelena Dzhanova",
     "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
@@ -74,7 +74,7 @@
   {
     "id": 7275,
     "mediaId": 21,
-    "date": "d2022-05-22T15:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Yelena Dzhanova",
     "title": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
@@ -83,7 +83,7 @@
   {
     "id": 8368,
     "mediaId": 21,
-    "date": "d2022-05-26T01:00",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Kimberly Leonard",
     "title": "Kellyanne Conway is betting Trump will run for president in 2024 and that MAGA will loom large either way",

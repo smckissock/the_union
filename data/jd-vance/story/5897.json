@@ -1,27 +1,18 @@
 {
   "id": 5897,
   "mediaId": 195,
-  "date": "d2022-05-03T23:30",
+  "date": "5/3/2022 12:00:00 AM",
   "headline": "Polls close on key primaries in Ohio",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/5b437bb9d44746bcb00f6f29e7dc7dd7.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/campaign/3476327-polls-close-on-key-primaries-in-ohio/",
-  "sentiment": "0.158",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Max Greenwood",
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
-    648,
-    946,
-    1147,
-    1448,
-    1801,
-    2466,
-    3103,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "Throughout the campaign, the Republican candidates have fought bitterly to prove their conservative bona fides, running campaigns that echoed Trumps rhetoric on everything from immigration and border security to his false claim that the 2020 election was stolen from him through widespread voter fraud.",

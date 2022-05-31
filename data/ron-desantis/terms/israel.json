@@ -1,8 +1,26 @@
 [
   {
+    "id": 3984,
+    "mediaId": 323,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Elliott Abrams and Eric Cohen",
+    "title": "Ron DeSantis Is Persona Non Grata at a Holocaust Memorial",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 3984,
+    "mediaId": 323,
+    "date": "2022-00-05",
+    "sentence": "",
+    "author": "Elliott Abrams and Eric Cohen",
+    "title": "Ron DeSantis Is Persona Non Grata at a Holocaust Memorial",
+    "sentiment": "0.623"
+  },
+  {
     "id": 4013,
     "mediaId": 157,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Matthew Chapman",
     "title": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report",
@@ -11,34 +29,16 @@
   {
     "id": 4013,
     "mediaId": 157,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "Matthew Chapman",
     "title": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report",
     "sentiment": "0.0"
   },
   {
-    "id": 3984,
-    "mediaId": 323,
-    "date": "d2022-05-05T16:59",
-    "sentence": "",
-    "author": "Elliott Abrams and Eric Cohen",
-    "title": "Ron DeSantis Is Persona Non Grata at a Holocaust Memorial",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3984,
-    "mediaId": 323,
-    "date": "d2022-05-05T16:59",
-    "sentence": "",
-    "author": "Elliott Abrams and Eric Cohen",
-    "title": "Ron DeSantis Is Persona Non Grata at a Holocaust Memorial",
-    "sentiment": "0.623"
-  },
-  {
     "id": 3838,
     "mediaId": 65,
-    "date": "d2022-05-09T04:55",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Lawrence Richard",
     "title": "NYC politician pulls funding from Jewish museum over alleged DeSantis snub",
@@ -47,7 +47,7 @@
   {
     "id": 3838,
     "mediaId": 65,
-    "date": "d2022-05-09T04:55",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "Lawrence Richard",
     "title": "NYC politician pulls funding from Jewish museum over alleged DeSantis snub",
@@ -56,7 +56,7 @@
   {
     "id": 3709,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",
@@ -65,7 +65,7 @@
   {
     "id": 3709,
     "mediaId": 558,
-    "date": "d2022-05-11T10:39",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis still hasn't made decision over sheriff's lies",

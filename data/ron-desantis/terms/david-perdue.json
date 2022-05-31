@@ -1,26 +1,8 @@
 [
   {
-    "id": 4948,
-    "mediaId": 63,
-    "date": "d2022-04-25T23:44",
-    "sentence": "",
-    "author": "Mason Bissada",
-    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
-    "sentiment": "-0.532"
-  },
-  {
-    "id": 4948,
-    "mediaId": 63,
-    "date": "d2022-04-25T23:44",
-    "sentence": "",
-    "author": "Mason Bissada",
-    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4140,
     "mediaId": 65,
-    "date": "d2022-05-03T10:08",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Jack Durschlag",
     "title": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say",
@@ -29,7 +11,7 @@
   {
     "id": 3402,
     "mediaId": 409,
-    "date": "d2022-05-14T10:51",
+    "date": "2022-00-14",
     "sentence": "Amidst all the media attention to Trumps endorsements, however, there is a very big dog that hasnt barked: his chief rival for leadership of the national Republican party, Florida governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Dan McLaughlin",
     "title": "The Ron DeSantis Dog That Hasnt Barked Yet",
@@ -38,7 +20,7 @@
   {
     "id": 3402,
     "mediaId": 409,
-    "date": "d2022-05-14T10:51",
+    "date": "2022-00-14",
     "sentence": "Amidst all the media attention to Trumps endorsements, however, there is a very big dog that hasnt barked: his chief rival for leadership of the national Republican party, Florida governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Dan McLaughlin",
     "title": "The Ron DeSantis Dog That Hasnt Barked Yet",
@@ -47,7 +29,7 @@
   {
     "id": 7190,
     "mediaId": 21,
-    "date": "d2022-05-22T21:00",
+    "date": "2022-00-22",
     "sentence": "\"Georgia deserves a governor more like <span class='selected-term'>Ron DeSantis</span>,\" Cox said, praising the combative Florida Republican and potential 2024 presidential contender for relentlessly sticking it to the establishment.",
     "author": "Warren Rojas",
     "title": "David Perdue's closing argument to Georgians ahead of Tuesday's GOP primary: A vote for Brian Kemp is a vote for Stacey Abrams",
@@ -56,34 +38,52 @@
   {
     "id": 7294,
     "mediaId": 129,
-    "date": "d2022-05-23T00:00",
+    "date": "2022-00-23",
     "sentence": "Bret: A decent strategy unless <span class='selected-term'>Ron DeSantis</span> is the nominee.",
     "author": "",
     "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now",
     "sentiment": "0.0"
   },
   {
-    "id": 7345,
-    "mediaId": 1576,
-    "date": "d2022-05-25T00:00",
+    "id": 4948,
+    "mediaId": 63,
+    "date": "2022-00-25",
     "sentence": "",
-    "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "author": "Mason Bissada",
+    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
+    "sentiment": "-0.532"
+  },
+  {
+    "id": 4948,
+    "mediaId": 63,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "Mason Bissada",
+    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
     "sentiment": "0.0"
   },
   {
     "id": 7343,
     "mediaId": 136,
-    "date": "d2022-05-25T01:02",
+    "date": "2022-00-25",
     "sentence": "Townsend added that Kemp's victory is \"very good news\" for other Republicans mounting a 2024 presidential campaign, especially Florida Governor <span class='selected-term'>Ron DeSantis</span>, because it suggests that Trump's power over the GOP is beginning to wane and that a new White House path is being opened for MAGA hopefuls who aren't Trump.",
     "author": "Katherine Fung",
     "title": "Trump Sacrificed His Endorsement Record for Georgia Revenge Fantasy",
     "sentiment": "0.0"
   },
   {
+    "id": 7345,
+    "mediaId": 1576,
+    "date": "2022-00-25",
+    "sentence": "",
+    "author": "",
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8514,
     "mediaId": 223,
-    "date": "d2022-05-27T00:01",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Michael Barone",
     "title": "Primary Results: Trump Repudiated, Republicans Enthused, Democrats Focused On Theoretical Issues",
@@ -92,7 +92,7 @@
   {
     "id": 8514,
     "mediaId": 223,
-    "date": "d2022-05-27T00:01",
+    "date": "2022-00-27",
     "sentence": "",
     "author": "Michael Barone",
     "title": "Primary Results: Trump Repudiated, Republicans Enthused, Democrats Focused On Theoretical Issues",
@@ -101,7 +101,7 @@
   {
     "id": 8491,
     "mediaId": 238,
-    "date": "d2022-05-28T15:23",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "Dan Balz",
     "title": "Trump is trapped in the past, and its hurting him with GOP voters",
@@ -110,7 +110,7 @@
   {
     "id": 8491,
     "mediaId": 238,
-    "date": "d2022-05-28T15:23",
+    "date": "2022-00-28",
     "sentence": "",
     "author": "Dan Balz",
     "title": "Trump is trapped in the past, and its hurting him with GOP voters",
@@ -119,7 +119,7 @@
   {
     "id": 8527,
     "mediaId": 157,
-    "date": "d2022-05-29T00:00",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Georgia Republicans rejected Trump  not just his lies: columnist",
@@ -128,7 +128,7 @@
   {
     "id": 8527,
     "mediaId": 157,
-    "date": "d2022-05-29T00:00",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Georgia Republicans rejected Trump  not just his lies: columnist",

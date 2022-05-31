@@ -1,11 +1,11 @@
 {
   "id": 3712,
   "mediaId": 223,
-  "date": "d2022-05-11T10:25",
+  "date": "5/11/2022 12:00:00 AM",
   "headline": "Harvard Study: Student Development Harmed Much Less in States with Open Schools During COVID",
   "image": "https://media.townhall.com/townhall/reu/ha/2018/275/f225cc62-bbfb-4857-a6a0-cd6825e9ef48.jpg",
   "link": "https://townhall.com/tipsheet/guybenson/2022/05/11/harvard-study-students-harmed-less-in-states-that-kept-schools-open-n2606962",
-  "sentiment": "-0.568",
+  "sentiment": "0.0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,13 +13,7 @@
   "authorUrl": "https://townhall.com/tipsheet/guybenson/",
   "termIds": [
     661,
-    2095,
-    2250,
-    4116,
-    245,
-    3126,
-    2661,
-    2672
+    2095
   ],
   "sentences": [
     "To give you a sense of the magnitude: In high-poverty schools that were remote for more than half of 2021, the loss was about half of a school years worth of typical achievement growth...There are 50 million students in the U.S. About 40 percent, or 20 million students, nationally were in schools that conducted classes remotely for less than four weeks, and 30 percent, or 15 million students, remained in remote instruction for more than 16 weeks.",

@@ -1,27 +1,18 @@
 {
   "id": 5762,
   "mediaId": 238,
-  "date": "d2022-05-04T19:54",
+  "date": "5/4/2022 12:00:00 AM",
   "headline": "Opinion Why the J.D. Vance victory wasnt all about Trump",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/04/vance-ohio-win-not-all-about-trump/",
-  "sentiment": "0.403",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    647,
-    683,
-    781,
-    1147,
-    1801,
-    2524,
-    3103,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "Weve turned a gilded corner onto a shiny street where the wealthy (and their even wealthier friends) can buy name recognition and avoid the kind of scrutiny of character and policy that comes with running for and achieving local offices before running statewide.",

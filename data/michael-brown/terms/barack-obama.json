@@ -1,17 +1,8 @@
 [
   {
-    "id": 957,
-    "mediaId": 675,
-    "date": "d2022-02-23T18:56",
-    "sentence": "Jack Cashill\nStephen Moore\nLt. Col. James Zumwalt\nRead all of today's COMMENTARY...\nEducation\nPolitics\nDiversions\nU.S.\nHealth\nWorld\nMoney\nMORE COMMENTARY\nLarry Elder\n<span class='selected-term'>Michael Brown</span>\nRead all of today's COMMENTARY...\nNew Section",
-    "author": "Larry Elder",
-    "title": "GOP gerrymandering is 'racist'  Obama-mandering is just politics",
-    "sentiment": "0.0"
-  },
-  {
     "id": 918,
     "mediaId": 675,
-    "date": "d2022-04-05T13:09",
+    "date": "2022-00-05",
     "sentence": "Faith\nCommentary\nMychal Massie\nScott Lively\nBrian Sussman\nRead all of today's COMMENTARY...\nEducation\nHealth\nMoney\nU.S.\nDiversions\nWorld\nPolitics\nMORE COMMENTARY\nOliver L. North & David Goetsch\n<span class='selected-term'>Michael Brown</span>\nRead all of today's COMMENTARY...\nNew Section",
     "author": "Art Moore",
     "title": "Text confirms Hillary's 'conspiracy' to steal election, says special counsel",
@@ -20,7 +11,7 @@
   {
     "id": 911,
     "mediaId": 675,
-    "date": "d2022-04-11T19:46",
+    "date": "2022-00-11",
     "sentence": "Faith\nCommentary\nJoseph Farah\nMychal Massie\nMichael Master\nRead all of today's COMMENTARY...\nEducation\nWorld\nU.S.\nMoney\nPolitics\nHealth\nDiversions\nMORE COMMENTARY\nRachel Alexander\n<span class='selected-term'>Michael Brown</span>\nOliver L. North & David Goetsch\nRead all of today's COMMENTARY...\nNew Section\nWatch: While Biden was likely tucked in for bed, Trump makes surprise appearance at wild Kid Rock concert",
     "author": "Scott Lively",
     "title": "Biden's resignation, a 'great reset' and the end of the Shemitah",
@@ -29,7 +20,7 @@
   {
     "id": 912,
     "mediaId": 675,
-    "date": "d2022-04-11T19:46",
+    "date": "2022-00-11",
     "sentence": "Faith\nCommentary\nJoseph Farah\nMychal Massie\nMichael Master\nRead all of today's COMMENTARY...\nEducation\nWorld\nU.S.\nMoney\nPolitics\nHealth\nDiversions\nMORE COMMENTARY\nRachel Alexander\n<span class='selected-term'>Michael Brown</span>\nOliver L. North & David Goetsch\nRead all of today's COMMENTARY...\nNew Section",
     "author": "Scott Lively",
     "title": "Biden's resignation, a 'great reset' and the end of the Shemitah",
@@ -38,10 +29,19 @@
   {
     "id": 896,
     "mediaId": 675,
-    "date": "d2022-04-20T17:57",
+    "date": "2022-00-20",
     "sentence": "Politics\nEducation\nMoney\nWorld\nMORE COMMENTARY\nLarry Elder\n<span class='selected-term'>Michael Brown</span>\nMichelle Malkin\nRead all of today's COMMENTARY...\nNew Section",
     "author": "Bob Unruh",
     "title": "Marjorie Taylor Greene warns Dems of 'another way to play this game'",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 957,
+    "mediaId": 675,
+    "date": "2022-00-23",
+    "sentence": "Jack Cashill\nStephen Moore\nLt. Col. James Zumwalt\nRead all of today's COMMENTARY...\nEducation\nPolitics\nDiversions\nU.S.\nHealth\nWorld\nMoney\nMORE COMMENTARY\nLarry Elder\n<span class='selected-term'>Michael Brown</span>\nRead all of today's COMMENTARY...\nNew Section",
+    "author": "Larry Elder",
+    "title": "GOP gerrymandering is 'racist'  Obama-mandering is just politics",
     "sentiment": "0.0"
   }
 ]

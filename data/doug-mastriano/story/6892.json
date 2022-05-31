@@ -1,26 +1,18 @@
 {
   "id": 6892,
   "mediaId": 129,
-  "date": "d2022-05-08T00:00",
+  "date": "5/8/2022 12:00:00 AM",
   "headline": "Midterms Biggest Abortion Battleground: Pennsylvania",
   "image": "https://static01.nyt.com/images/2022/05/09/lens/09pol-pa-abortion-01/merlin_206357274_38f563dd-d288-4b12-8e51-bd0fdf945272-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/08/us/politics/midterms-abortion-pennsylvania.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1713,
-    3102,
-    146,
-    428,
-    2991,
-    2791,
-    2862,
-    2972
+    3102
   ],
   "sentences": [
     "Lou Barletta, a former congressman and one of two front-runners in the race, has said he would sign any bill that comes to my desk that would protect the life of the unborn.?\nAnother top candidate, Doug Mastriano, said in a recent debate that he was opposed to any exceptions  for rape, incest or the health of the mother  in an abortion ban.",

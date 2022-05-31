@@ -1,17 +1,8 @@
 [
   {
-    "id": 4886,
-    "mediaId": 239,
-    "date": "d2022-04-28T00:04:16",
-    "sentence": "",
-    "author": "KATE BRUMBACK",
-    "title": "Lawsuit seeks to block Georgia law that bans most abortions",
-    "sentiment": "0"
-  },
-  {
     "id": 7446,
     "mediaId": 151,
-    "date": "d2022-05-24T08:30",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "",
     "title": "Trump heads for big rebuke in Tuesdays elections",
@@ -20,7 +11,7 @@
   {
     "id": 7362,
     "mediaId": 195,
-    "date": "d2022-05-25T04:43",
+    "date": "2022-00-25",
     "sentence": "Trump's endorsement suffered a major loss in Georgia's gubernatorial race with incumbent <span class='selected-term'>Brian Kemp</span>'s (R ) victory over former Sen. David Perdue (R-Ga.).",
     "author": "Max Greenwood",
     "title": "Five takeaways from primaries in Georgia, Alabama and beyond",
@@ -29,10 +20,19 @@
   {
     "id": 8355,
     "mediaId": 195,
-    "date": "d2022-05-26T09:14",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Georgia deals critical blow to Trump's kingmaker status",
     "sentiment": "-0.43"
+  },
+  {
+    "id": 4886,
+    "mediaId": 239,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "KATE BRUMBACK",
+    "title": "Lawsuit seeks to block Georgia law that bans most abortions",
+    "sentiment": "0"
   }
 ]

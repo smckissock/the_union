@@ -1,24 +1,18 @@
 {
   "id": 5905,
   "mediaId": 136,
-  "date": "d2022-05-03T21:22",
+  "date": "5/3/2022 12:00:00 AM",
   "headline": "Trump Worried Tim Ryan's Cash Puts J.D. Vance's Senate Shot at Risk",
   "image": "https://d.newsweek.com/en/full/2030542/former-president-donald-trump-jd-vance.webp?w=790&f=a2588531d7fabb9a5fa97423b59f5864",
   "link": "https://www.newsweek.com/donald-trump-tim-ryan-jd-vance-ohio-senate-race-money-1703140",
-  "sentiment": "-0.824",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Adam Staten",
   "authorUrl": "https://www.newsweek.com/authors/adam-staten",
   "termIds": [
-    717,
-    781,
-    946,
-    1147,
-    1801,
-    3103,
-    571
+    3103
   ],
   "sentences": [
     "In a response to Newsweek regarding Trump's comments on Tuesday, Tim for Ohio spokesperson Izzi Levy said: \"Whichever out-of-touch millionaire limps out of tonight's primary should be worried about a lot more than moneyTim welcomes the opportunity to compare his lifelong record of fighting for Ohio workers with whatever these flawed and phony candidates have to offer.\"",

@@ -1,26 +1,18 @@
 {
   "id": 5186,
   "mediaId": 1576,
-  "date": "d2022-04-13T00:00",
+  "date": "4/13/2022 12:00:00 AM",
   "headline": "Public college costs to fall in Georgia as fee goes away",
   "image": "https://www.wabe.org/app/uploads/2022/04/AP19316792829102-336x189.jpg",
   "link": "https://www.wabe.org/?p=271412",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095,
-    221,
-    224,
-    598,
-    3237,
-    2672,
-    2770,
-    2900,
-    5135
+    2095
   ],
   "sentences": [
     "Amounts are for four-year degrees at each schools main campus:\n Abraham Baldwin Agricultural College: $3,806, down 9.5%\n Albany State University: $6,500, down 6.5%\n Atlanta Metropolitan State College: $3,712, down 9.7%\n Augusta University: $8,122, down 8%\n Clayton State University: $6,084, down 7.6%\n College of Coastal Georgia: $4,124, down 9.8%\n Columbus State University: $6,844, down 6.7%\n Dalton State College: $3,294, down 9.3%\n East Georgia State College: $3,306, down 13.1%\n Fort Valley State University: $6,408, down 6.4%\n Georgia College and State University: $8,794, down 5.8%\n Georgia Gwinnett College: $5,652, down 8.5%\n Georgia Highlands College: $3,514, down 10.2%\n Georgia Southern University: $6,998, down 7.7%\n Georgia Southwestern University: $5,996, down 7.5%\n Georgia State University: $10,268, down 7.3%\n Georgia Tech: $11,764, down 8.5%\n Gordon State College: $4,116, down 7.1%\n Kennesaw State University: $6,898, down 8.6%\n Middle Georgia State University: $4,762, up 0.4%\n Savannah State University: $6,514, down 5.8%\n South Georgia State College: $3,540, down 8.8%\n University of Georgia: $11,180, down 7.5%\n University of North Georgia: $7,012, down 6%\n University of West Georgia: $7,034, down 7.6%\n Valdosta State University: $7,100 down 7.5%\nSource: Board of Regents of University System of Georgia",

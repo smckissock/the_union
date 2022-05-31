@@ -1,53 +1,17 @@
 [
   {
-    "id": 2409,
-    "mediaId": 178,
-    "date": "d2022-01-19T00:00",
-    "sentence": "Mandela Barnes, state Treasurer <span class='selected-term'>Sarah Godlewski</span>, Milwaukee Bucks executive Alex Lasry and Outagamie County Executive Tom Nelson.",
-    "author": "Associated Press",
-    "title": "Democratic Senate candidate files election lawsuits",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2401,
-    "mediaId": 323,
-    "date": "d2022-01-23T12:00",
-    "sentence": "Wisconsin State Treasurer <span class='selected-term'>Sarah Godlewski</span> has said she supports an Elizabeth Warren-style wealth tax.'\n Photo: Amber Arnold/Associated Press\nThree of the four top fundraising Democratic candidates participated in interviews for this story; an aide to Mr. Barnes said he was unavailable over the course of more than a week.",
-    "author": "John McCormick",
-    "title": "Wisconsin's Field of Democratic Senate Hopefuls Is Lining Up on Left of Biden",
-    "sentiment": "0"
-  },
-  {
-    "id": 2398,
-    "mediaId": 178,
-    "date": "d2022-01-25T00:00",
-    "sentence": "MADISON, Wis.  Democratic U.S. Senate candidate <span class='selected-term'>Sarah Godlewski</span>'s first major policy plan of the campaign released Tuesday focuses on ways to improve life in rural Wisconsin, from bolstering access to health care, helping family farms survive and making broadband internet a public utility.",
-    "author": "SCOTT BAUER",
-    "title": "US Senate candidate Godlewski unveils rural Wisconsin plan",
-    "sentiment": "0.553"
-  },
-  {
     "id": 2371,
     "mediaId": 195,
-    "date": "d2022-03-09T15:43",
+    "date": "2022-00-09",
     "sentence": "State Treasurer <span class='selected-term'>Sarah Godlewski</span> received three percent support, according to the poll.",
     "author": "Julia Manchester",
     "title": "Johnson touts work with Milwaukee faith initiative in new ads",
     "sentiment": "0.0"
   },
   {
-    "id": 2347,
-    "mediaId": 43,
-    "date": "d2022-03-28T00:00",
-    "sentence": "Or click below to donate and get involved with the Senate Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\nMandela Barnes for U.S. Senate\n<span class='selected-term'>Sarah Godlewski</span> for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
-    "author": "",
-    "title": "Rep. Adam Schiff (D. CA) Helps Wisconsin Democrats Take Down Putin's Favorite Senator",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2333,
     "mediaId": 239,
-    "date": "d2022-04-13T00:04:52",
+    "date": "2022-00-13",
     "sentence": "Mandela Barnes, state Treasurer <span class='selected-term'>Sarah Godlewski</span>, and Alex Lasry, the son of Milwaukee Bucks co-owner Marc Lasry.",
     "author": "Mica Soellner",
     "title": "Democrats battle to knock out Sen. Ron Johnson in tough election year",
@@ -56,37 +20,73 @@
   {
     "id": 2314,
     "mediaId": 147,
-    "date": "d2022-04-17T18:40",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Scott Bauer",
     "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson",
     "sentiment": "0.0"
   },
   {
-    "id": 2303,
-    "mediaId": 151,
-    "date": "d2022-04-28T08:30",
-    "sentence": "Nineteen percent backed Barnes, while Milwaukee Bucks executive Alex Lasry received 16 percent and state treasurer <span class='selected-term'>Sarah Godlewski</span> won 7 percent.",
-    "author": "",
-    "title": "Pro-Bernie group endorses in key Dem Senate primary",
+    "id": 2409,
+    "mediaId": 178,
+    "date": "2022-00-19",
+    "sentence": "Mandela Barnes, state Treasurer <span class='selected-term'>Sarah Godlewski</span>, Milwaukee Bucks executive Alex Lasry and Outagamie County Executive Tom Nelson.",
+    "author": "Associated Press",
+    "title": "Democratic Senate candidate files election lawsuits",
     "sentiment": "0.0"
   },
   {
     "id": 6548,
     "mediaId": 367,
-    "date": "d2022-05-21T00:00",
+    "date": "2022-00-21",
     "sentence": "Other top Democratic contenders include state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Outagamie County Executive Tom Nelson.",
     "author": "Bill Glauber",
     "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance",
     "sentiment": "0"
   },
   {
+    "id": 2401,
+    "mediaId": 323,
+    "date": "2022-00-23",
+    "sentence": "Wisconsin State Treasurer <span class='selected-term'>Sarah Godlewski</span> has said she supports an Elizabeth Warren-style wealth tax.'\n Photo: Amber Arnold/Associated Press\nThree of the four top fundraising Democratic candidates participated in interviews for this story; an aide to Mr. Barnes said he was unavailable over the course of more than a week.",
+    "author": "John McCormick",
+    "title": "Wisconsin's Field of Democratic Senate Hopefuls Is Lining Up on Left of Biden",
+    "sentiment": "0"
+  },
+  {
+    "id": 2398,
+    "mediaId": 178,
+    "date": "2022-00-25",
+    "sentence": "MADISON, Wis.  Democratic U.S. Senate candidate <span class='selected-term'>Sarah Godlewski</span>'s first major policy plan of the campaign released Tuesday focuses on ways to improve life in rural Wisconsin, from bolstering access to health care, helping family farms survive and making broadband internet a public utility.",
+    "author": "SCOTT BAUER",
+    "title": "US Senate candidate Godlewski unveils rural Wisconsin plan",
+    "sentiment": "0.553"
+  },
+  {
     "id": 8429,
     "mediaId": 151,
-    "date": "d2022-05-27T08:30",
+    "date": "2022-00-27",
     "sentence": "Thirty-four percent of likely Democratic voters support Barnes, while 31 percent are for Lasry, 18 percent back state Treasurer <span class='selected-term'>Sarah Godlewski</span>, and 5 percent are behind Outagamie County Executive Tom Nelson, a survey commissioned by Lasry's campaign found.",
     "author": "",
     "title": "Wisconsin Senate race tightens as rivals close in on Barnes",
     "sentiment": "0"
+  },
+  {
+    "id": 2303,
+    "mediaId": 151,
+    "date": "2022-00-28",
+    "sentence": "Nineteen percent backed Barnes, while Milwaukee Bucks executive Alex Lasry received 16 percent and state treasurer <span class='selected-term'>Sarah Godlewski</span> won 7 percent.",
+    "author": "",
+    "title": "Pro-Bernie group endorses in key Dem Senate primary",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2347,
+    "mediaId": 43,
+    "date": "2022-00-28",
+    "sentence": "Or click below to donate and get involved with the Senate Democrat of your choice and these Wisconsin Democrats campaigns:\nWisconsin Democratic Party\nMinocqua Brewing Company SuperPAC\nTony Evers for Governor\nMandela Barnes for U.S. Senate\n<span class='selected-term'>Sarah Godlewski</span> for U.S. Senate\nTom Nelson for U.S. Senate\nAlex Lasry for U.S. Senate\nJosh Kaul for Attorney General",
+    "author": "",
+    "title": "Rep. Adam Schiff (D. CA) Helps Wisconsin Democrats Take Down Putin's Favorite Senator",
+    "sentiment": "0.0"
   }
 ]

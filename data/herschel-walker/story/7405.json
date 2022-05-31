@@ -1,26 +1,18 @@
 {
   "id": 7405,
   "mediaId": 18,
-  "date": "d2022-05-25T00:25",
+  "date": "5/25/2022 12:00:00 AM",
   "headline": "Biden says we have to act after Texas school shooting",
   "image": "https://www.bostonherald.com/wp-content/uploads/2022/05/Biden_Asia_47235-1.jpg?w=1569",
   "link": "https://www.bostonherald.com/2022/05/25/biden-says-we-have-to-act-after-texas-school-shooting/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Boston Herald",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Associated Press",
   "authorUrl": "https://www.bostonherald.com/author/associated-press/",
   "termIds": [
-    815,
-    915,
-    1155,
-    1341,
-    1949,
-    2087,
-    571,
-    2934,
-    6069
+    815
   ],
   "sentences": [
     "Speaking at an Asian Pacific American event that was intended to celebrate Bidens Asia trip, Vice President Kamala Harris said earlier that people normally declare in moments like this, our hearts break  but our hearts keep getting broken  and our broken hearts are nothing compared to the broken hearts of those families.",

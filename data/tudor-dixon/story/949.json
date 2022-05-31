@@ -1,11 +1,11 @@
 {
   "id": 949,
   "mediaId": 19,
-  "date": "d2022-02-25T00:00",
+  "date": "2/25/2022 12:00:00 AM",
   "headline": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals",
   "image": "https://media.breitbart.com/media/2021/05/april-16-2020-Detroit-Police-Chief-James-Craig-AP-640x480.jpg",
   "link": "https://www.breitbart.com/midterm-election/2022/02/25/poll-former-detroit-police-chief-james-craig-holds-wide-lead-over-republican-rivals/",
-  "sentiment": "0.489",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,10 @@
   "authorUrl": "https://www.breitbart.com/author/jbliss/",
   "termIds": [
     651,
-    773,
-    1645,
-    1815,
     1844,
     2002,
     2298,
-    3075,
-    428,
-    2645,
-    2791
+    3075
   ],
   "sentences": [
     "There were still three percent who said Someone else? and 34 percent who said they were undecided.?\nWhen the likely Republican voters were asked about voting for a candidate backed by former President Donald Trump, 58 percent said they were much more likely,? while 22 percent said a little more likely.?\nWith 80% more likely,' it demonstrates the incredible hold that Trump continues to have on the Republican Party,? said Steve Mitchell from Mitchell Research and Communications.",

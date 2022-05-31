@@ -1,11 +1,11 @@
 {
   "id": 7245,
   "mediaId": 21,
-  "date": "d2022-05-22T15:00",
+  "date": "5/22/2022 12:00:00 AM",
   "headline": "Early voting turnout in Georgia soars in wake of restrictive election law",
   "image": "https://i.insider.com/624a46e082200b001943dcee?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/georgia-early-voting-record-turnout-trump-kemp-abrams-election-law-2022-5",
-  "sentiment": "-0.523",
+  "sentiment": "0.0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,13 +13,7 @@
   "authorUrl": "https://www.businessinsider.com/author/john-l-dorman",
   "termIds": [
     815,
-    1136,
-    1951,
-    2087,
-    2095,
-    2203,
-    4325,
-    2672
+    2095
   ],
   "sentences": [
     "Brian Kemp and Trump-backed former Sen. David Perdue; the GOP Senate primary where former NFL player Herschel Walker is set to glide to the nomination and face first-term Democratic Sen. Raphael Warnock; the Georgia secretary of state race which features Raffensperger and Trump-endorsed Rep. Jody Hice; and the Democratic gubernatorial primary, where former state House minority leader Stacey Abrams is running unopposed in her second bid for the Governor's Mansion.",

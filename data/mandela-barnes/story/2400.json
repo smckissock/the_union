@@ -1,11 +1,11 @@
 {
   "id": 2400,
   "mediaId": 1390,
-  "date": "d2022-01-24T19:00",
+  "date": "1/24/2022 12:00:00 AM",
   "headline": "Dem Senate candidates campaign on higher federal spending, despite inflation fears",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/ab713b70-6632-4998-89dd-1180a3fd2d97/f1d9ca8b-65bd-4944-b0fe-7e6bba151e80/1280x720/match/image.jpg",
   "link": "https://www.foxbusiness.com/politics/dem-senate-candidates-federal-spending",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Fox Business",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,7 @@
   "authorUrl": "https://www.foxbusiness.com/person/k/houston-keene",
   "termIds": [
     741,
-    781,
-    815,
-    1136,
-    1925,
-    2039,
-    2087,
-    146,
-    571
+    2039
   ],
   "sentences": [
     "\"As I've done throughout my career, I'll fight to bring common-sense solutions to the United States Senate like a Medicare-for-all plan that helps us realize the dream of health care for every American, a Green New Deal that benefits the people of Wisconsin and creates good jobs right here at home, and ensuring rich corporations and ultra-millionaires finally pay their fair share in taxes, so we can provide tax relief to Wisconsin families who have borne the brunt of the tax burden from Washington for far too long,\" Barnes said in August of last year.",

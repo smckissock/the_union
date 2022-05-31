@@ -1,47 +1,47 @@
 [
   {
-    "id": 6427,
-    "mediaId": 195,
-    "date": "d2022-04-12T13:50",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Tim Ryan raises $4.1 million for Senate race in first quarter",
-    "sentiment": "0"
-  },
-  {
-    "id": 5958,
-    "mediaId": 19,
-    "date": "d2022-05-03T00:00",
-    "sentence": "",
-    "author": "Alana Mastrangelo",
-    "title": "Ohio Gov. Mike DeWine Wins Ohio Republican Primary",
-    "sentiment": "0"
-  },
-  {
     "id": 5909,
     "mediaId": 237,
-    "date": "d2022-05-03T19:55",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "Joe Maiorana/AP",
     "title": "Live Blog: Ohio and Indiana Midterm primaries",
     "sentiment": "0"
   },
   {
+    "id": 5958,
+    "mediaId": 19,
+    "date": "2022-00-03",
+    "sentence": "",
+    "author": "Alana Mastrangelo",
+    "title": "Ohio Gov. Mike DeWine Wins Ohio Republican Primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 5771,
+    "mediaId": 136,
+    "date": "2022-00-04",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "Democrats Target Anti-Trump GOP Voters as MAGA Declares Victory in Ohio",
+    "sentiment": "0.171"
+  },
+  {
     "id": 5787,
     "mediaId": 237,
-    "date": "d2022-05-04T13:32",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "Virginia Aabram",
     "title": "Ohio Democrats mock JD Vance as elitist as uphill November Senate fight opens",
     "sentiment": "-0.596"
   },
   {
-    "id": 5771,
-    "mediaId": 136,
-    "date": "d2022-05-04T17:31",
+    "id": 6427,
+    "mediaId": 195,
+    "date": "2022-00-12",
     "sentence": "",
-    "author": "Katherine Fung",
-    "title": "Democrats Target Anti-Trump GOP Voters as MAGA Declares Victory in Ohio",
-    "sentiment": "0.171"
+    "author": "Julia Manchester",
+    "title": "Tim Ryan raises $4.1 million for Senate race in first quarter",
+    "sentiment": "0"
   }
 ]

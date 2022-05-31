@@ -2,16 +2,25 @@
   {
     "id": 6336,
     "mediaId": 195,
-    "date": "d2022-04-17T15:30",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Albert Hunt",
     "title": "Ohio politics: A cesspool of GOP corruption and craziness",
     "sentiment": "0"
   },
   {
+    "id": 5468,
+    "mediaId": 195,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Keith Naughton",
+    "title": "Kasich Effect propping up Trump, but for how long?",
+    "sentiment": "0"
+  },
+  {
     "id": 6269,
     "mediaId": 65,
-    "date": "d2022-04-20T22:01",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Tyler Olson",
     "title": "Half of Trump's 2016 Ohio RNC delegates call Vance endorsement 'betrayal,' ask him to 'reconsider'",
@@ -20,7 +29,7 @@
   {
     "id": 6240,
     "mediaId": 136,
-    "date": "d2022-04-22T00:03",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Jake Thomas",
     "title": "The Day After Supporting J.D. Vance in Ohio, Trump Jr. Lashes out at Mandel",
@@ -29,19 +38,10 @@
   {
     "id": 6076,
     "mediaId": 129,
-    "date": "d2022-04-30T00:00",
+    "date": "2022-00-30",
     "sentence": "",
     "author": "",
     "title": "Once Soft-Spoken, Ohio Conservatives Embrace the Bombast",
-    "sentiment": "0"
-  },
-  {
-    "id": 5468,
-    "mediaId": 195,
-    "date": "d2022-05-18T13:45",
-    "sentence": "",
-    "author": "Keith Naughton",
-    "title": "Kasich Effect propping up Trump, but for how long?",
     "sentiment": "0"
   }
 ]

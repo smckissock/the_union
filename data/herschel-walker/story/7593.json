@@ -1,26 +1,18 @@
 {
   "id": 7593,
   "mediaId": 136,
-  "date": "d2022-05-06T09:00",
+  "date": "5/6/2022 12:00:00 AM",
   "headline": "Democrats Campaigning in Swing States Are Reckoning With Biden's Economy",
   "image": "https://d.newsweek.com/en/full/2032165/gas-prices-inflation.webp?w=790&f=c90745e7becebf63d14775d5f6d6f086",
   "link": "https://www.newsweek.com/democrats-campaigning-swing-states-are-reckoning-bidens-economy-1703908",
-  "sentiment": "0.296",
+  "sentiment": "0.0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Daniel Bush",
   "authorUrl": "https://www.newsweek.com/authors/daniel-bush",
   "termIds": [
-    815,
-    1136,
-    1147,
-    2087,
-    146,
-    571,
-    2550,
-    2672,
-    2818
+    815
   ],
   "sentences": [
     "The Democratic Party's challenges on the economy were highlighted last month when Biden touted the economic growth on his watch while promoting the infrastructure law during a visit to New Hampshire, a state where Republicans feel confident they can pick up a Senate seat by defeating incumbent Senator Maggie Hassan in November.",

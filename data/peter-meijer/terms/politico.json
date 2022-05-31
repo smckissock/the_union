@@ -2,28 +2,28 @@
   {
     "id": 88,
     "mediaId": 151,
-    "date": "d2022-01-01T15:17",
+    "date": "2022-00-01",
     "sentence": " Rep. <span class='selected-term'>Peter Meijer</span> (R-Mich.)  Fiona Hill  Barton Gellman.",
     "author": "",
     "title": "POLITICO Playbook: Welcome to 2022",
     "sentiment": "0.0"
   },
   {
-    "id": 55,
-    "mediaId": 151,
-    "date": "d2022-02-20T16:45",
-    "sentence": "Others, like Michigan's <span class='selected-term'>PETER MEIJER</span> and FRED UPTON, face Trump-backed candidates with steep uphill odds in new districts.",
-    "author": "",
-    "title": "POLITICO Playbook: Harris declares unity,' while Zelenskyy accuses appeasement'",
-    "sentiment": "0.0"
-  },
-  {
     "id": 40,
     "mediaId": 157,
-    "date": "d2022-03-20T00:00",
+    "date": "2022-00-20",
     "sentence": "Doug Ducey and 'RINO Congressman <span class='selected-term'>Peter Meijer</span>.'",
     "author": "Tom Boggioni",
     "title": "Trump sicced his followers on the GOP's 'RINOs' -- and it's tearing the party apart: report",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 55,
+    "mediaId": 151,
+    "date": "2022-00-20",
+    "sentence": "Others, like Michigan's <span class='selected-term'>PETER MEIJER</span> and FRED UPTON, face Trump-backed candidates with steep uphill odds in new districts.",
+    "author": "",
+    "title": "POLITICO Playbook: Harris declares unity,' while Zelenskyy accuses appeasement'",
     "sentiment": "0.0"
   }
 ]

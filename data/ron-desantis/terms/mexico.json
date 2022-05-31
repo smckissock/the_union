@@ -1,35 +1,8 @@
 [
   {
-    "id": 4421,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0"
-  },
-  {
-    "id": 4421,
-    "mediaId": 302,
-    "date": "d2022-04-29T10:00",
-    "sentence": "",
-    "author": "",
-    "title": "A closer look at Floridas rejected math textbooks",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4417,
-    "mediaId": 195,
-    "date": "d2022-04-29T10:42",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Biden economic troubles mount",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4306,
     "mediaId": 1067,
-    "date": "d2022-05-01T05:30",
+    "date": "2022-00-01",
     "sentence": "Gov.<span class='selected-term'>Ron DeSantis</span> has been on a rampage, ramming through a barrage of legislation on culture war issues that are nothing more than buzzwords.",
     "author": "",
     "title": "DeSantis shouldnt alienate GOP centrists | Letters",
@@ -38,7 +11,7 @@
   {
     "id": 4306,
     "mediaId": 1067,
-    "date": "d2022-05-01T05:30",
+    "date": "2022-00-01",
     "sentence": "Gov.<span class='selected-term'>Ron DeSantis</span> has been on a rampage, ramming through a barrage of legislation on culture war issues that are nothing more than buzzwords.",
     "author": "",
     "title": "DeSantis shouldnt alienate GOP centrists | Letters",
@@ -47,7 +20,7 @@
   {
     "id": 4007,
     "mediaId": 98,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "Last year, current GOP darling <span class='selected-term'>Ron DeSantis</span> loosely referred to efforts to address global warming as left-wing stuff.?\nThese arent examples from decades ago.",
     "author": "LZ Granderson",
     "title": "Column: Republican denial will add to the droughts body count",
@@ -56,7 +29,7 @@
   {
     "id": 4018,
     "mediaId": 43,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "A tale of courage, humanity, and compassion is coming to Disney+ May 27th...\nx\nx\nx\n-\nDont tell <span class='selected-term'>Ron DeSantis</span> or hell send in the National Guard to invade the Magic Kingdom.",
     "author": "Bill",
     "title": "Cheers and Jeers: Thursday",
@@ -65,7 +38,7 @@
   {
     "id": 4018,
     "mediaId": 43,
-    "date": "d2022-05-05T00:00",
+    "date": "2022-00-05",
     "sentence": "A tale of courage, humanity, and compassion is coming to Disney+ May 27th...\nx\nx\nx\n-\nDont tell <span class='selected-term'>Ron DeSantis</span> or hell send in the National Guard to invade the Magic Kingdom.",
     "author": "Bill",
     "title": "Cheers and Jeers: Thursday",
@@ -74,10 +47,37 @@
   {
     "id": 3891,
     "mediaId": 209,
-    "date": "d2022-05-07T00:00",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Brigid Kennedy",
     "title": "Texas Gov. Greg Abbott has a controversial plan for the southern border. Is it working?",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4417,
+    "mediaId": 195,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Biden economic troubles mount",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4421,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
+    "sentiment": "0"
+  },
+  {
+    "id": 4421,
+    "mediaId": 302,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "",
+    "title": "A closer look at Floridas rejected math textbooks",
     "sentiment": "0.0"
   }
 ]

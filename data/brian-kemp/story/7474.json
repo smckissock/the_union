@@ -1,11 +1,11 @@
 {
   "id": 7474,
   "mediaId": 1164,
-  "date": "d2022-05-24T00:00",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Georgia governor, Senate races highlight primaries in 5 states",
   "image": "https://cdnph.upi.com/svc/sv/upi/5521653405406/2022/1/51cb69e155a9e8517e0cf607638a1152/Georgia-governor-Senate-races-highlight-primaries-in-5-states.jpg",
   "link": "https://www.upi.com/Top_News/US/2022/05/24/Georgia-Brian-Kemp-David-Perdue-Trump-Herschel-Walker/5521653405406/",
-  "sentiment": "-0.438",
+  "sentiment": "0.0",
   "mediaOutlet": "UPI",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "https://www.upi.com/author/Clyde-Hughes/",
   "termIds": [
     815,
-    1078,
-    1136,
-    1147,
-    1434,
-    1951,
-    2095,
-    2150,
-    571,
-    2672
+    2095
   ],
   "sentences": [
     "May 24 (UPI) -- High-profile primaries and runoffs dot the election map on Tuesday where candidates endorsed by former President Donald Trump and former Vice President Mike Pence go head-to-head in Georgia.",

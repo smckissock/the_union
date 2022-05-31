@@ -1,20 +1,20 @@
 [
   {
-    "id": 7543,
-    "mediaId": 169,
-    "date": "d2022-05-20T04:00",
-    "sentence": "",
-    "author": "Meaghan Ellis",
-    "title": "Herschel Walker left out millions in his financial report",
-    "sentiment": "-0.488"
-  },
-  {
     "id": 7539,
     "mediaId": 558,
-    "date": "d2022-05-20T13:25",
+    "date": "2022-00-20",
     "sentence": "Georgia Republican <span class='selected-term'>Herschel Walker</span>, currently leading its race for the U.S. Senate, failed to disclose over $3 million in earnings in his last federal disclosure form.",
     "author": "",
     "title": "Senate candidate Herschel Walker failed to disclose millions in earnings",
     "sentiment": "-0.652"
+  },
+  {
+    "id": 7543,
+    "mediaId": 169,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "Meaghan Ellis",
+    "title": "Herschel Walker left out millions in his financial report",
+    "sentiment": "-0.488"
   }
 ]

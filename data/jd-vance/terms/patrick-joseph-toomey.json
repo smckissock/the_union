@@ -1,38 +1,38 @@
 [
   {
-    "id": 5091,
-    "mediaId": 169,
-    "date": "d2022-04-18T10:33",
-    "sentence": "",
-    "author": "Heather Digby Parton",
-    "title": "Does Trump still have the juice? His spotty endorsement record suggests decline",
-    "sentiment": "0"
-  },
-  {
-    "id": 6108,
-    "mediaId": 151,
-    "date": "d2022-04-28T08:30",
-    "sentence": "",
-    "author": "",
-    "title": "It's Trump vs. Cruz in Ohio and Pa. Senate races",
-    "sentiment": "0"
-  },
-  {
     "id": 5642,
     "mediaId": 195,
-    "date": "d2022-05-07T02:47",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Caroline Vakil",
     "title": "Trump rallies for Oz in Pennsylvania, calls his challenger more Toomey than he is MAGA",
     "sentiment": "0.932"
   },
   {
+    "id": 5091,
+    "mediaId": 169,
+    "date": "2022-00-18",
+    "sentence": "",
+    "author": "Heather Digby Parton",
+    "title": "Does Trump still have the juice? His spotty endorsement record suggests decline",
+    "sentiment": "0"
+  },
+  {
     "id": 5462,
     "mediaId": 238,
-    "date": "d2022-05-18T21:29",
+    "date": "2022-00-18",
     "sentence": "",
     "author": "Paul Kane",
     "title": "GOP voters choose nominees with first loyalty to Trump, not McConnell",
     "sentiment": "0.437"
+  },
+  {
+    "id": 6108,
+    "mediaId": 151,
+    "date": "2022-00-28",
+    "sentence": "",
+    "author": "",
+    "title": "It's Trump vs. Cruz in Ohio and Pa. Senate races",
+    "sentiment": "0"
   }
 ]

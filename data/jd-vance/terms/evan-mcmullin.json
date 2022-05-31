@@ -2,46 +2,46 @@
   {
     "id": 6405,
     "mediaId": 151,
-    "date": "d2022-04-14T22:34",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "",
     "title": "Ohio Republicans gang up to stop Vance endorsement",
     "sentiment": "-0.821"
   },
   {
-    "id": 6385,
-    "mediaId": 223,
-    "date": "d2022-04-15T12:00",
+    "id": 6375,
+    "mediaId": 21,
+    "date": "2022-00-15",
     "sentence": "",
-    "author": "Rebecca Downs",
-    "title": "Is the Media Jumping the Gun When it Comes to Warnings on Trump's Planned Endorsement in Ohio?",
-    "sentiment": "0"
-  },
-  {
-    "id": 6381,
-    "mediaId": 237,
-    "date": "d2022-04-15T17:15",
-    "sentence": "",
-    "author": "Chris Irvine",
-    "title": "Donald Trump endorses JD Vance for Ohio Senate",
-    "sentiment": "0.361"
+    "author": "Brent D. Griffiths",
+    "title": "Trump endorses 'Never Trump guy' JD Vance, ignoring many Ohio Republicans who wanted him to pick a different candidate in a key Senate race",
+    "sentiment": "-0.358"
   },
   {
     "id": 6377,
     "mediaId": 195,
-    "date": "d2022-04-15T18:57",
+    "date": "2022-00-15",
     "sentence": "",
     "author": "Julia Manchester",
     "title": "Ohio GOP leaders press Trump to not endorse JD Vance",
     "sentiment": "0"
   },
   {
-    "id": 6375,
-    "mediaId": 21,
-    "date": "d2022-04-15T21:00",
+    "id": 6381,
+    "mediaId": 237,
+    "date": "2022-00-15",
     "sentence": "",
-    "author": "Brent D. Griffiths",
-    "title": "Trump endorses 'Never Trump guy' JD Vance, ignoring many Ohio Republicans who wanted him to pick a different candidate in a key Senate race",
-    "sentiment": "-0.358"
+    "author": "Chris Irvine",
+    "title": "Donald Trump endorses JD Vance for Ohio Senate",
+    "sentiment": "0.361"
+  },
+  {
+    "id": 6385,
+    "mediaId": 223,
+    "date": "2022-00-15",
+    "sentence": "",
+    "author": "Rebecca Downs",
+    "title": "Is the Media Jumping the Gun When it Comes to Warnings on Trump's Planned Endorsement in Ohio?",
+    "sentiment": "0"
   }
 ]

@@ -1,28 +1,19 @@
 {
   "id": 5862,
   "mediaId": 209,
-  "date": "d2022-05-04T00:00",
+  "date": "5/4/2022 12:00:00 AM",
   "headline": "What pro-life activists are saying in the wake of the Roe v. Wade bombshell",
   "image": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-desktop@1/v1651596446/pro%20life%20court.jpg",
   "link": "https://theweek.com/us/1013212/what-pro-life-activists-are-saying-roe-v-wade",
-  "sentiment": "0.232",
+  "sentiment": "0",
   "mediaOutlet": "The Week",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Grayson Quay",
   "authorUrl": "https://theweek.com/authors/grayson-quay",
   "termIds": [
-    946,
-    1801,
     2303,
-    3103,
-    3711,
-    4196,
-    4749,
-    482,
-    571,
-    3563,
-    2945
+    3103
   ],
   "sentences": [
     "The Susan B. Anthony List, which supports pro-life politicians, tweeted its plan for a post-Roe America, explaining that the organization will to work to \"build consensus for the strongest protections possible for unborn children and women in every legislature\" while also recognizing \"the need for the pro-life movement to continue its existing work to support pregnant women and children in need.\"",

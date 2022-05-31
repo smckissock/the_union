@@ -1,44 +1,71 @@
 [
   {
-    "id": 6737,
-    "mediaId": 238,
-    "date": "d2022-05-17T15:24",
-    "sentence": "On Jan. 6, both the front-runner in Pennsylvanias Republican gubernatorial primary  state Sen. <span class='selected-term'>Doug Mastriano</span> (R)  and one of the leading candidates for the states Republican Senate nomination  Kathy Barnette  were in Washington.",
-    "author": "Philip Bump",
-    "title": "In a GOP primary, support for Jan. 6 isnt an obstacle. Is it an asset?",
-    "sentiment": "0.866"
-  },
-  {
     "id": 6720,
     "mediaId": 558,
-    "date": "d2022-05-17T21:33",
+    "date": "2022-00-17",
     "sentence": "Given the possibility of recounts and the need for official certifications, it is unlikely that final results in all races will be available tonight.?\nIn the race for governor, state Sen. <span class='selected-term'>Doug Mastriano</span>, known for advancing debunked claims that the 2020 election was stolen from Trump, has won the GOP primary, NBC News projects.",
     "author": "",
     "title": "Oz, McCormick locked in nail-biter as Pa. GOP Senate primary results trickle in",
     "sentiment": "0.0"
   },
   {
+    "id": 6737,
+    "mediaId": 238,
+    "date": "2022-00-17",
+    "sentence": "On Jan. 6, both the front-runner in Pennsylvanias Republican gubernatorial primary  state Sen. <span class='selected-term'>Doug Mastriano</span> (R)  and one of the leading candidates for the states Republican Senate nomination  Kathy Barnette  were in Washington.",
+    "author": "Philip Bump",
+    "title": "In a GOP primary, support for Jan. 6 isnt an obstacle. Is it an asset?",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4473,
+    "mediaId": 195,
+    "date": "2022-00-18",
+    "sentence": "Trump backed Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> (R) only in the closing days of the Commonwealths primary, long after it became clear Mastriano  who was in Washington during the Jan. 6 insurrection  would win the Republican nod.",
+    "author": "Reid Wilson",
+    "title": "Governors races spoil Trumps once-unblemished endorsement record",
+    "sentiment": "0.0"
+  },
+  {
     "id": 4479,
     "mediaId": 1576,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "And in Pennsylvanias GOP race for governor, Trumps endorsed candidate, the far-right <span class='selected-term'>Doug Mastriano</span>, easily won the nomination  though he was already well ahead in the polls when Trump weighed in just days before the primary.",
     "author": "",
     "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
-    "sentiment": "0.576"
+    "sentiment": "0.0"
   },
   {
     "id": 5476,
     "mediaId": 238,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "Trump-endorsed state Sen. <span class='selected-term'>Doug Mastriano</span> also won the nomination for Pennsylvania governor, but he was already well on track to victory before Trump backed him in recent days.",
     "author": "Aaron Blake",
     "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
-    "sentiment": "0.821"
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6475,
+    "mediaId": 151,
+    "date": "2022-00-18",
+    "sentence": "In a last-minute endorsement that rattled members of Pennsylvanias Republican party, Trump backed Mastriano, a leading force in trying to overturn the 2020 election results who was pictured outside the Capitol on Jan. 6. There is no one in Pennsylvania who has done more, or fought harder, for Election Integrity than State Senator <span class='selected-term'>Doug Mastriano</span>,? Trump said last week.",
+    "author": "",
+    "title": "How Trump-backed candidates fared on the busiest primary day",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 6648,
+    "mediaId": 21,
+    "date": "2022-00-18",
+    "sentence": "Also in Pennsylvania, Trump-endorsed gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, an ardent backer of Trump's baseless claims victory was stolen from him in the 2020 presidential election, won the primary.",
+    "author": "Tom Porter",
+    "title": "High-profile candidates endorsed by Trump lost their primaries, showing the limits of his power over the party",
+    "sentiment": "0.0"
   },
   {
     "id": 6683,
     "mediaId": 178,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "___\nHARRISBURG, Pa.  <span class='selected-term'>Doug Mastriano</span> has won the Republican nomination for Pennsylvania governor, overcoming an eleventh-hour push by the state's GOP political establishment to consolidate support around an alternative in the crowded primary.",
     "author": "The Associated Press Associated Press",
     "title": "Midterm updates | Idaho Gov. Little defeats Trump-backed foe",
@@ -47,43 +74,16 @@
   {
     "id": 6694,
     "mediaId": 33,
-    "date": "d2022-05-18T00:00",
+    "date": "2022-00-18",
     "sentence": "Un negador de elecciones podra tener poder sobre las elecciones de Pensilvania de 2024\nEn el senador estatal <span class='selected-term'>Doug Mastriano</span>, los republicanos de Pensilvania han nominado para gobernador a una voz destacada que promueve las mentiras de Trump sobre el fraude electoral, lo que aumenta la posibilidad de que alguien que ya intent anular la voluntad de los votantes en 2020 tendra poder sobre la maquinaria electoral de uno de los estados de campo de batalla presidencial ms importantes de la nacin en 2024.",
     "author": "Dan Merica",
     "title": "6 conclusiones de las primarias en Pensilvania, Carolina del Norte y ms",
     "sentiment": "0.0"
   },
   {
-    "id": 6475,
-    "mediaId": 151,
-    "date": "d2022-05-18T05:46",
-    "sentence": "In a last-minute endorsement that rattled members of Pennsylvanias Republican party, Trump backed Mastriano, a leading force in trying to overturn the 2020 election results who was pictured outside the Capitol on Jan. 6. There is no one in Pennsylvania who has done more, or fought harder, for Election Integrity than State Senator <span class='selected-term'>Doug Mastriano</span>,? Trump said last week.",
-    "author": "",
-    "title": "How Trump-backed candidates fared on the busiest primary day",
-    "sentiment": "0.175"
-  },
-  {
-    "id": 4473,
-    "mediaId": 195,
-    "date": "d2022-05-18T09:16",
-    "sentence": "Trump backed Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> (R) only in the closing days of the Commonwealths primary, long after it became clear Mastriano  who was in Washington during the Jan. 6 insurrection  would win the Republican nod.",
-    "author": "Reid Wilson",
-    "title": "Governors races spoil Trumps once-unblemished endorsement record",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6648,
-    "mediaId": 21,
-    "date": "d2022-05-18T11:00",
-    "sentence": "Also in Pennsylvania, Trump-endorsed gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>, an ardent backer of Trump's baseless claims victory was stolen from him in the 2020 presidential election, won the primary.",
-    "author": "Tom Porter",
-    "title": "High-profile candidates endorsed by Trump lost their primaries, showing the limits of his power over the party",
-    "sentiment": "0.588"
-  },
-  {
     "id": 6583,
     "mediaId": 195,
-    "date": "d2022-05-19T21:30",
+    "date": "2022-00-19",
     "sentence": "The contest for governor will feature the Democratic Attorney General Ben Shapiro and GOP State Sen. <span class='selected-term'>Doug Mastriano</span>, another Republican endorsed by Trump.",
     "author": "Brad Bannon",
     "title": "Party primaries test power of Trumps backing and progressive platform",

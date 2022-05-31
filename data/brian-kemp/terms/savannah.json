@@ -1,8 +1,17 @@
 [
   {
+    "id": 4639,
+    "mediaId": 12,
+    "date": "2022-00-06",
+    "sentence": "",
+    "author": "Andy Miller",
+    "title": "As overdoses soar, more states decriminalize fentanyl testing strips",
+    "sentiment": "0"
+  },
+  {
     "id": 5287,
     "mediaId": 98,
-    "date": "d2022-04-06T11:19",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Residents of Southern states clear storm debris as more severe weather looms",
@@ -11,7 +20,7 @@
   {
     "id": 5264,
     "mediaId": 238,
-    "date": "d2022-04-07T10:49",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "Mark Shavin",
     "title": "After tornadoes strike the Southeast, Ga. residents recount the terror",
@@ -20,25 +29,52 @@
   {
     "id": 5186,
     "mediaId": 1576,
-    "date": "d2022-04-13T00:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "",
     "title": "Public college costs to fall in Georgia as fee goes away",
     "sentiment": "0"
   },
   {
-    "id": 4639,
-    "mediaId": 12,
-    "date": "d2022-05-06T14:00",
+    "id": 7082,
+    "mediaId": 195,
+    "date": "2022-00-20",
     "sentence": "",
-    "author": "Andy Miller",
-    "title": "As overdoses soar, more states decriminalize fentanyl testing strips",
+    "author": "Lexi Lonas",
+    "title": "Palin to stump for Perdue in Georgia",
     "sentiment": "0"
+  },
+  {
+    "id": 7083,
+    "mediaId": 558,
+    "date": "2022-00-20",
+    "sentence": "",
+    "author": "",
+    "title": "Hyundai to build $5.5 bn electric vehicle plant in US",
+    "sentiment": "0"
+  },
+  {
+    "id": 7084,
+    "mediaId": 558,
+    "date": "2022-00-20",
+    "sentence": "They estimate the investment to be worth $5.54 billion, with Governor <span class='selected-term'>Brian Kemp</span> claiming it will be the \"largest project\" in state history.",
+    "author": "Jon Fingas",
+    "title": "Hyundai's first all-EV factory in the US will be in Georgia",
+    "sentiment": "0"
+  },
+  {
+    "id": 7089,
+    "mediaId": 238,
+    "date": "2022-00-20",
+    "sentence": "Polls show the Trump-backed candidate for governor, former senator David Perdue, well behind the incumbent, <span class='selected-term'>Brian Kemp</span>, who also became an object of the former presidents ire for refusing to go along with false fraud claims.",
+    "author": "Amy Gardner",
+    "title": "Brad Raffensperger stood up to Trump. Now hes courting Trumps base.",
+    "sentiment": "0.0"
   },
   {
     "id": 7094,
     "mediaId": 1576,
-    "date": "d2022-05-20T00:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "Announcement expected to confirm $7B auto plant in Georgia",
@@ -47,52 +83,16 @@
   {
     "id": 7102,
     "mediaId": 1576,
-    "date": "d2022-05-20T00:00",
+    "date": "2022-00-20",
     "sentence": "Late last year, Governor <span class='selected-term'>Brian Kemp</span> trumpeted another electric vehicle plant as the largest economic development announcement in state history.",
     "author": "",
     "title": "Georgia woos a second electric vehicle plant with $5.5 billion Hyundai factory",
     "sentiment": "0"
   },
   {
-    "id": 7089,
-    "mediaId": 238,
-    "date": "d2022-05-20T10:00",
-    "sentence": "Polls show the Trump-backed candidate for governor, former senator David Perdue, well behind the incumbent, <span class='selected-term'>Brian Kemp</span>, who also became an object of the former presidents ire for refusing to go along with false fraud claims.",
-    "author": "Amy Gardner",
-    "title": "Brad Raffensperger stood up to Trump. Now hes courting Trumps base.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7084,
-    "mediaId": 558,
-    "date": "d2022-05-20T14:30",
-    "sentence": "They estimate the investment to be worth $5.54 billion, with Governor <span class='selected-term'>Brian Kemp</span> claiming it will be the \"largest project\" in state history.",
-    "author": "Jon Fingas",
-    "title": "Hyundai's first all-EV factory in the US will be in Georgia",
-    "sentiment": "0"
-  },
-  {
-    "id": 7083,
-    "mediaId": 558,
-    "date": "d2022-05-20T14:38",
-    "sentence": "",
-    "author": "",
-    "title": "Hyundai to build $5.5 bn electric vehicle plant in US",
-    "sentiment": "0"
-  },
-  {
-    "id": 7082,
-    "mediaId": 195,
-    "date": "d2022-05-20T16:12",
-    "sentence": "",
-    "author": "Lexi Lonas",
-    "title": "Palin to stump for Perdue in Georgia",
-    "sentiment": "0"
-  },
-  {
     "id": 7224,
     "mediaId": 129,
-    "date": "d2022-05-22T00:00",
+    "date": "2022-00-22",
     "sentence": "But to many Georgia Republicans, he is one of us.\nTHOMASTON, Ga. <span class='selected-term'>Brian Kemp</span>, Georgias incumbent governor and a prominent fixture on former President Donald J. Trumps enemies list, was clip-clopping around in a pair of cowboy boots in this small city on a recent morning, glad-handing his way through an adoring Republican throng at a place called Greatest Generation Memorial Park.",
     "author": "",
     "title": "What Donald Trump Didnt Count On in Georgia",
@@ -101,7 +101,7 @@
   {
     "id": 7255,
     "mediaId": 233,
-    "date": "d2022-05-22T04:01",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Maureen Groppe",
     "title": "Biden ending South Korea visit with continued emphasis on economic, security cooperation",
@@ -110,7 +110,7 @@
   {
     "id": 7436,
     "mediaId": 441,
-    "date": "d2022-05-24T11:00",
+    "date": "2022-00-24",
     "sentence": "While Republican Governor <span class='selected-term'>Brian Kemp</span> remains popular in Georgia and looks likely to survive a primary challenge, Secretary of State Brad Raffenspergers race is closer.",
     "author": "Margaret Newkirk",
     "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries",

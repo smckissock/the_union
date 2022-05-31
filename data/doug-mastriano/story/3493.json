@@ -1,11 +1,11 @@
 {
   "id": 3493,
   "mediaId": 129,
-  "date": "d2022-05-18T00:00",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "Americas Doug Mastriano Problem",
   "image": "https://static01.nyt.com/images/2022/05/18/opinion/18douthat1/18douthat1-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/05/18/opinion/doug-mastriano-republicans-constitution.html",
-  "sentiment": "0.462",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,17 +13,9 @@
   "authorUrl": "",
   "termIds": [
     661,
-    1147,
-    1164,
     2095,
-    2266,
     2303,
-    3102,
-    3902,
-    4253,
-    146,
-    428,
-    2945
+    3102
   ],
   "sentences": [
     "But throughout the whole Trumpian experience, the Democratic Party has consistently failed its own tests of responsibility: It has talked constantly about the threat to democracy while moving leftward to a degree that makes it difficult to impossible to hold the center, and it has repeatedly cheered on unfit Republican candidates on the theory that they will be easier to beat.",

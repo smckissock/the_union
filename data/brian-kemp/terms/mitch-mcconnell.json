@@ -2,16 +2,25 @@
   {
     "id": 8097,
     "mediaId": 12,
-    "date": "d2022-03-01T17:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Greg Bluestein",
     "title": "Walker wont go to Marjorie Taylor Greene event after she spoke at pro-Putin rally",
     "sentiment": "0.0"
   },
   {
+    "id": 3894,
+    "mediaId": 129,
+    "date": "2022-00-06",
+    "sentence": "But if you disagree with me, my doors always open.?\nGovernors like <span class='selected-term'>Brian Kemp</span> of Georgia and Ron DeSantis of Florida have said relatively little on the issue since the draft opinion came out.",
+    "author": "",
+    "title": "G.O.P. Lawmakers Recast Abortion Stance, Wary of Voter Backlash",
+    "sentiment": "0.0"
+  },
+  {
     "id": 5260,
     "mediaId": 129,
-    "date": "d2022-04-07T23:09",
+    "date": "2022-00-07",
     "sentence": "",
     "author": "",
     "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics",
@@ -20,7 +29,7 @@
   {
     "id": 5167,
     "mediaId": 21,
-    "date": "d2022-04-13T18:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Brent D. Griffiths",
     "title": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs",
@@ -29,43 +38,16 @@
   {
     "id": 5168,
     "mediaId": 21,
-    "date": "d2022-04-13T18:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Bryan Metzger",
     "title": "McConnell told Republican senators they've 'got to stay focused on Georgia' immediately after Trump told them that he could overturn the 2020 presidential election: book",
     "sentiment": "0.0"
   },
   {
-    "id": 5037,
-    "mediaId": 157,
-    "date": "d2022-04-21T00:00",
-    "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
-    "author": "Bob Brigham",
-    "title": "Crazytown: Former senator aghast Marjorie Taylor Greene has more power than Kevin McCarthy and Mitch McConnell",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5032,
-    "mediaId": 169,
-    "date": "d2022-04-21T06:30",
-    "sentence": "",
-    "author": "Chauncey DeVega",
-    "title": "Has the mainstream media already made its peace with fascism? We'll soon find out",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3894,
-    "mediaId": 129,
-    "date": "d2022-05-06T22:45",
-    "sentence": "But if you disagree with me, my doors always open.?\nGovernors like <span class='selected-term'>Brian Kemp</span> of Georgia and Ron DeSantis of Florida have said relatively little on the issue since the draft opinion came out.",
-    "author": "",
-    "title": "G.O.P. Lawmakers Recast Abortion Stance, Wary of Voter Backlash",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3401,
     "mediaId": 151,
-    "date": "d2022-05-14T14:11",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: Clarence Thomas speaks",
@@ -74,7 +56,7 @@
   {
     "id": 4483,
     "mediaId": 238,
-    "date": "d2022-05-17T19:09",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Henry Olsen",
     "title": "Opinion Republicans have only themselves to blame for unelectable big lie candidates",
@@ -83,34 +65,52 @@
   {
     "id": 4461,
     "mediaId": 195,
-    "date": "d2022-05-19T10:28",
+    "date": "2022-00-19",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Recount looms in Pennsylvania",
     "sentiment": "0"
   },
   {
-    "id": 7261,
+    "id": 5032,
+    "mediaId": 169,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "Chauncey DeVega",
+    "title": "Has the mainstream media already made its peace with fascism? We'll soon find out",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 5037,
     "mediaId": 157,
-    "date": "d2022-05-22T00:00",
-    "sentence": "\"Good for <span class='selected-term'>Brian Kemp</span> who stayed the course and showed what you can do when you have a real record to run on and you don't have to kowtow to this and you don't have to change yourself -- be who you are and that authenticity has carried him.\"",
-    "author": "Tom Boggioni",
-    "title": "Trump to blame for 'embarrassing' end of David Perdue's political career: Mitch McConnell adviser",
-    "sentiment": "-0.23"
+    "date": "2022-00-21",
+    "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
+    "author": "Bob Brigham",
+    "title": "Crazytown: Former senator aghast Marjorie Taylor Greene has more power than Kevin McCarthy and Mitch McConnell",
+    "sentiment": "0.0"
   },
   {
     "id": 7242,
     "mediaId": 136,
-    "date": "d2022-05-22T16:49",
+    "date": "2022-00-22",
     "sentence": "\"Good for <span class='selected-term'>Brian Kemp</span> who stayed the course and showed what you can do when you have a real record to run on and you don't have to kowtow to this and you don't have to change yourselfbe who you are and that authenticity has carried him.\"",
     "author": "Thomas Kika",
     "title": "McConnell Adviser Blames Trump for 'Embarrassing' End to Perdue's Career",
     "sentiment": "0"
   },
   {
+    "id": 7261,
+    "mediaId": 157,
+    "date": "2022-00-22",
+    "sentence": "\"Good for <span class='selected-term'>Brian Kemp</span> who stayed the course and showed what you can do when you have a real record to run on and you don't have to kowtow to this and you don't have to change yourself -- be who you are and that authenticity has carried him.\"",
+    "author": "Tom Boggioni",
+    "title": "Trump to blame for 'embarrassing' end of David Perdue's political career: Mitch McConnell adviser",
+    "sentiment": "-0.23"
+  },
+  {
     "id": 8441,
     "mediaId": 129,
-    "date": "d2022-05-27T14:00:08",
+    "date": "2022-00-27",
     "sentence": "Governor's Race: <span class='selected-term'>Brian Kemp</span> scored a landslide victory over David Perdue, delivering Mr. Trump his biggest setback of the 2022 primaries.",
     "author": "",
     "title": "Republican Governors Lose Their Dread of Trump",

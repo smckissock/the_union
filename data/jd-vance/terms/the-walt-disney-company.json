@@ -1,53 +1,8 @@
 [
   {
-    "id": 6451,
-    "mediaId": 157,
-    "date": "d2022-04-07T00:00",
-    "sentence": "",
-    "author": "Amanda Marcotte",
-    "title": "Trump's MAGA movement is a cult  and here's the proof",
-    "sentiment": "0"
-  },
-  {
-    "id": 6447,
-    "mediaId": 169,
-    "date": "d2022-04-07T13:10",
-    "sentence": "",
-    "author": "Amanda Marcotte",
-    "title": "Boycotting Disney and Oreos: The red flags that MAGA is a cult",
-    "sentiment": "0"
-  },
-  {
-    "id": 6267,
-    "mediaId": 43,
-    "date": "d2022-04-21T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Yes, Republicans really are moving us towards",
-    "sentiment": "0"
-  },
-  {
-    "id": 6251,
-    "mediaId": 238,
-    "date": "d2022-04-21T15:31",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
-    "sentiment": "0"
-  },
-  {
-    "id": 6220,
-    "mediaId": 238,
-    "date": "d2022-04-22T18:04",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
-    "sentiment": "0"
-  },
-  {
     "id": 4316,
     "mediaId": 129,
-    "date": "d2022-05-01T00:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "",
     "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
@@ -56,19 +11,64 @@
   {
     "id": 4218,
     "mediaId": 238,
-    "date": "d2022-05-02T14:48",
+    "date": "2022-00-02",
     "sentence": "",
     "author": "",
     "title": "Opinion A conservative Christian quietly battles against right-wing hysteria",
     "sentiment": "0"
   },
   {
+    "id": 6447,
+    "mediaId": 169,
+    "date": "2022-00-07",
+    "sentence": "",
+    "author": "Amanda Marcotte",
+    "title": "Boycotting Disney and Oreos: The red flags that MAGA is a cult",
+    "sentiment": "0"
+  },
+  {
+    "id": 6451,
+    "mediaId": 157,
+    "date": "2022-00-07",
+    "sentence": "",
+    "author": "Amanda Marcotte",
+    "title": "Trump's MAGA movement is a cult  and here's the proof",
+    "sentiment": "0"
+  },
+  {
     "id": 3527,
     "mediaId": 98,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Ryan Faughnder",
     "title": "Netflixs message to employees and woke Hollywoods retreat",
+    "sentiment": "0"
+  },
+  {
+    "id": 6251,
+    "mediaId": 238,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
+    "sentiment": "0"
+  },
+  {
+    "id": 6267,
+    "mediaId": 43,
+    "date": "2022-00-21",
+    "sentence": "",
+    "author": "",
+    "title": "Yes, Republicans really are moving us towards",
+    "sentiment": "0"
+  },
+  {
+    "id": 6220,
+    "mediaId": 238,
+    "date": "2022-00-22",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
     "sentiment": "0"
   }
 ]

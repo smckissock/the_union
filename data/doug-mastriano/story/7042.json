@@ -1,24 +1,18 @@
 {
   "id": 7042,
   "mediaId": 129,
-  "date": "d2022-01-28T00:00",
+  "date": "1/28/2022 12:00:00 AM",
   "headline": "Pennsylvania Court Says States Mail Voting Law Is Unconstitutional",
   "image": "https://static01.nyt.com/images/2022/01/28/us/politics/28pa-votinglaw-1/merlin_179587551_600f88c8-5b92-47c4-aba2-0dee2622987f-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/01/28/us/politics/pennsylvania-mail-voting-law-unconstitutional.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1713,
-    3102,
-    4634,
-    428,
-    482,
-    5186,
-    2862
+    3102
   ],
   "sentences": [
     "Whether it be through a court decision or by legislation, I support the immediate end of Act 77.?\nThe bipartisan law was praised by both sides when it was passed, but it became a target of conservatives during the 2020 election, as former President Donald J. Trump unspooled falsehoods and lies about fraud involving mail-in voting.",

@@ -1,11 +1,11 @@
 {
   "id": 7416,
   "mediaId": 195,
-  "date": "d2022-05-24T23:00",
+  "date": "5/24/2022 12:00:00 AM",
   "headline": "Live coverage: Polls close in Alabama, Texas",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/GaVoters_052422_ap.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3500127-live-coverage-polls-close-in-georgia-on-busy-primary-day/",
-  "sentiment": "0.891",
+  "sentiment": "0.0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "",
   "termIds": [
     815,
-    1136,
-    1147,
-    2095,
-    2475,
-    571,
-    2537,
-    2551,
-    2672,
-    2934
+    2095
   ],
   "sentences": [
     "Tal Axelrod\nHerschel Walker clinches GOP Senate nomination in Georgia\n7:58 p.m.\nFormer NFL star Herschel Walker is projected to easily clinch the Republican Senate nomination in Georgia, securing his spot on the ballot to face off against Sen. Raphael Warnock (D-Ga.) in November.",

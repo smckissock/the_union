@@ -1,11 +1,11 @@
 {
   "id": 6640,
   "mediaId": 323,
-  "date": "d2022-05-18T13:36",
+  "date": "5/18/2022 12:00:00 AM",
   "headline": "Pennsylvania GOP Senate Race Might Be Headed for Recount",
   "image": "https://images.wsj.net/im-546519/?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/pennsylvania-gop-senate-race-might-be-headed-for-recount-11652881011",
-  "sentiment": "0.353",
+  "sentiment": "0.0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,17 +13,8 @@
   "authorUrl": "https://www.wsj.com/news/author/john-mccormick-1",
   "termIds": [
     821,
-    1147,
-    1404,
-    1770,
-    2087,
     2303,
-    2491,
-    3102,
-    428,
-    571,
-    2992,
-    2862
+    3102
   ],
   "sentences": [
     "His supporters tend to be anti-incumbent, which isnt going to help the state house and senate candidates in close races in November.?\nMr. Becker added: Theres still a lot of potential for this to be a wasted opportunity for Pennsylvania Republicans in what could be a very good year for Republicans nationally.?\nPennsylvania is one of about a half-dozen states nationally that analysts say are most likely to determine party control of the Senate.",

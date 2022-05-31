@@ -1,27 +1,18 @@
 {
   "id": 6322,
   "mediaId": 239,
-  "date": "d2022-04-18T00:03:30",
+  "date": "4/18/2022 12:00:00 AM",
   "headline": "Hillbilly to Capitol Hill? Author eyes Senate bid in Ohio",
   "image": "https://twt-thumbs.washtimes.com/media/image/2021/04/16/senate_ohio_vance_87465_c0-745-2236-2048_s885x516.jpg?e49c28e830c8e2b32f40874a110580fc68a9a5fd",
   "link": "https://www.washingtontimes.com/news/2021/apr/16/hillbilly-to-capitol-hill-author-eyes-senate-bid-i/",
-  "sentiment": "0.433",
+  "sentiment": "0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "DAN SEWELL",
   "authorUrl": "",
   "termIds": [
-    1115,
-    1632,
-    1801,
-    3103,
-    4889,
-    571,
-    2609,
-    2845,
-    4945,
-    5059
+    3103
   ],
   "sentences": [
     "His bestselling book told not only his own story but also highlighted the people of Appalachia and cities like his hometown that feel left behind, and it was embraced by small-government conservatives for depicting poverty as a cultural problem not easily fixed by government programs and aid.",

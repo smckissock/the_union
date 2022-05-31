@@ -1,24 +1,18 @@
 {
   "id": 4880,
   "mediaId": 32,
-  "date": "d2022-04-28T15:28:37",
+  "date": "4/28/2022 12:00:00 AM",
   "headline": "Georgia just became the latest state to require personal finance education",
   "image": "https://image.cnbcfm.com/api/v1/image/106997134-16414059892022-01-05t180200z_1636768802_rc22tr9aeqgt_rtrmadp_0_usa-politics-georgia.jpeg?v=1641406066&w=740&h=416&ffmt=webp",
   "link": "https://www.cnbc.com/2022/04/28/georgia-is-now-the-latest-state-to-mandate-personal-finance-education.html",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "CNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Carmen Reinicke",
   "authorUrl": "",
   "termIds": [
-    2095,
-    3453,
-    2661,
-    2672,
-    2881,
-    2907,
-    2910
+    2095
   ],
   "sentences": [
     "More from Invest in You:\n16 U.S. cities where women under 30 earn more than their male peers\nGreat Resignation is spurring employers to offer financial-wellness benefits\nA four-day workweek pilot program is now underway in the U.S. and Canada\nA growing trend\nGeorgia is the 13th state to mandate personal finance education for its students, according to nonprofit Next Gen Personal Finance, which tracks such bills.",

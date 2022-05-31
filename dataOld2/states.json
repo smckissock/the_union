@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Florida",
+    "races": [
+      {
+        "title": "Governor",
+        "office": "Governor",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "18",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Ron Desantis",
+            "incumbent": "True",
+            "slug": "ron-desantis",
+            "storyCount": "680",
+            "localStoryCount": "173"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "races": [
+      {
+        "title": "Governor",
+        "office": "Governor",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "16",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Brian Kemp",
+            "incumbent": "True",
+            "slug": "brian-kemp",
+            "storyCount": "463",
+            "localStoryCount": "148"
+          }
+        ]
+      },
+      {
+        "title": "Senate",
+        "office": "Senate",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "7",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Herschel Walker",
+            "incumbent": "False",
+            "slug": "herschel-walker",
+            "storyCount": "441",
+            "localStoryCount": "116"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Michigan",
+    "races": [
+      {
+        "title": "Governor",
+        "office": "Governor",
+        "primaryDate": "2022-08-02",
+        "runoffDate": "",
+        "raceType": "Republican Primary",
+        "ranking": "0",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Donna Brandenburg",
+            "incumbent": "False",
+            "slug": "donna-brandenburg",
+            "storyCount": "1",
+            "localStoryCount": "11"
+          },
+          {
+            "party": "R",
+            "name": "Michael Brown",
+            "incumbent": "False",
+            "slug": "michael-brown",
+            "storyCount": "111",
+            "localStoryCount": "6"
+          },
+          {
+            "party": "R",
+            "name": "James Craig",
+            "incumbent": "False",
+            "slug": "james-craig",
+            "storyCount": "41",
+            "localStoryCount": "13"
+          },
+          {
+            "party": "R",
+            "name": "Tudor Dixon",
+            "incumbent": "False",
+            "slug": "tudor-dixon",
+            "storyCount": "21",
+            "localStoryCount": "11"
+          },
+          {
+            "party": "R",
+            "name": "Perry Johnson",
+            "incumbent": "False",
+            "slug": "perry-johnson",
+            "storyCount": "24",
+            "localStoryCount": "13"
+          },
+          {
+            "party": "R",
+            "name": "Ryan Kelley",
+            "incumbent": "False",
+            "slug": "ryan-kelley",
+            "storyCount": "7",
+            "localStoryCount": "8"
+          },
+          {
+            "party": "R",
+            "name": "Ralph Rebandt",
+            "incumbent": "False",
+            "slug": "ralph-rebandt",
+            "storyCount": "2",
+            "localStoryCount": "8"
+          },
+          {
+            "party": "R",
+            "name": "Kevin Rinke",
+            "incumbent": "False",
+            "slug": "kevin-rinke",
+            "storyCount": "16",
+            "localStoryCount": "8"
+          },
+          {
+            "party": "R",
+            "name": "Bob Scott",
+            "incumbent": "False",
+            "slug": "bob-scott",
+            "storyCount": "1",
+            "localStoryCount": "3"
+          },
+          {
+            "party": "R",
+            "name": "Garrett Soldano",
+            "incumbent": "False",
+            "slug": "garrett-soldano",
+            "storyCount": "25",
+            "localStoryCount": "8"
+          }
+        ]
+      },
+      {
+        "title": "House 3rd",
+        "office": "House",
+        "primaryDate": "2022-08-02",
+        "runoffDate": "",
+        "raceType": "Republican Primary",
+        "ranking": "0",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Peter Meijer",
+            "incumbent": "True",
+            "slug": "peter-meijer",
+            "storyCount": "71",
+            "localStoryCount": "3"
+          },
+          {
+            "party": "R",
+            "name": "John Gibbs",
+            "incumbent": "False",
+            "slug": "john-gibbs",
+            "storyCount": "27",
+            "localStoryCount": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ohio",
+    "races": [
+      {
+        "title": "Senate",
+        "office": "Senate",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "9",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "J.D. Vance",
+            "incumbent": "False",
+            "slug": "jd-vance",
+            "storyCount": "746",
+            "localStoryCount": "22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pennsylvania",
+    "races": [
+      {
+        "title": "Governor",
+        "office": "Governor",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "3",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Doug Mastriano",
+            "incumbent": "False",
+            "slug": "doug-mastriano",
+            "storyCount": "351",
+            "localStoryCount": "26"
+          }
+        ]
+      },
+      {
+        "title": "House 7th",
+        "office": "House",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "14",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Lisa Scheller",
+            "incumbent": "False",
+            "slug": "lisa-scheller",
+            "storyCount": "13",
+            "localStoryCount": "0"
+          }
+        ]
+      },
+      {
+        "title": "House 8th",
+        "office": "House",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "11",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Jim Bognet",
+            "incumbent": "False",
+            "slug": "jim-bognet",
+            "storyCount": "28",
+            "localStoryCount": "0"
+          }
+        ]
+      },
+      {
+        "title": "House 17th",
+        "office": "House",
+        "primaryDate": "",
+        "runoffDate": "",
+        "raceType": "General",
+        "ranking": "15",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Jeremy Shaffer",
+            "incumbent": "False",
+            "slug": "jeremy-shaffer",
+            "storyCount": "9",
+            "localStoryCount": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Washington",
+    "races": [
+      {
+        "title": "House 3rd",
+        "office": "House",
+        "primaryDate": "2022-08-02",
+        "runoffDate": "",
+        "raceType": "Republican Primary",
+        "ranking": "0",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Jaime Herrera Beutler",
+            "incumbent": "True",
+            "slug": "jaime-herrera-beutler",
+            "storyCount": "42",
+            "localStoryCount": "3"
+          },
+          {
+            "party": "R",
+            "name": "Leslie French",
+            "incumbent": "False",
+            "slug": "leslie-french",
+            "storyCount": "1",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "R",
+            "name": "Joe Kent",
+            "incumbent": "False",
+            "slug": "joe-kent",
+            "storyCount": "43",
+            "localStoryCount": "3"
+          },
+          {
+            "party": "R",
+            "name": "Vicki Kraft",
+            "incumbent": "False",
+            "slug": "vicki-kraft",
+            "storyCount": "3",
+            "localStoryCount": "0"
+          }
+        ]
+      },
+      {
+        "title": "House 4th",
+        "office": "House",
+        "primaryDate": "2022-08-02",
+        "runoffDate": "",
+        "raceType": "Republican Primary",
+        "ranking": "0",
+        "candidates": [
+          {
+            "party": "R",
+            "name": "Loren Culp",
+            "incumbent": "False",
+            "slug": "loren-culp",
+            "storyCount": "21",
+            "localStoryCount": "1"
+          },
+          {
+            "party": "R",
+            "name": "Brad Klippert",
+            "incumbent": "False",
+            "slug": "brad-klippert",
+            "storyCount": "3",
+            "localStoryCount": "0"
+          },
+          {
+            "party": "R",
+            "name": "Jerrod Sessler",
+            "incumbent": "False",
+            "slug": "jerrod-sessler",
+            "storyCount": "6",
+            "localStoryCount": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wisconsin",
+    "races": [
+      {
+        "title": "Senate",
+        "office": "Senate",
+        "primaryDate": "2022-08-09",
+        "runoffDate": "",
+        "raceType": "Democratic Primary",
+        "ranking": "13",
+        "candidates": [
+          {
+            "party": "D",
+            "name": "Mandela Barnes",
+            "incumbent": "False",
+            "slug": "mandela-barnes",
+            "storyCount": "102",
+            "localStoryCount": "26"
+          },
+          {
+            "party": "D",
+            "name": "Sarah Godlewski",
+            "incumbent": "False",
+            "slug": "sarah-godlewski",
+            "storyCount": "69",
+            "localStoryCount": "24"
+          },
+          {
+            "party": "D",
+            "name": "Alex Lasry",
+            "incumbent": "False",
+            "slug": "alex-lasry",
+            "storyCount": "78",
+            "localStoryCount": "25"
+          },
+          {
+            "party": "D",
+            "name": "Tom Nelson",
+            "incumbent": "False",
+            "slug": "tom-nelson",
+            "storyCount": "53",
+            "localStoryCount": "23"
+          },
+          {
+            "party": "D",
+            "name": "Steven Olikara",
+            "incumbent": "False",
+            "slug": "steven-olikara",
+            "storyCount": "4",
+            "localStoryCount": "5"
+          }
+        ]
+      }
+    ]
+  }
+]

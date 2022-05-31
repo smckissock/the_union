@@ -1,17 +1,17 @@
 [
   {
-    "id": 7885,
-    "mediaId": 151,
-    "date": "d2022-03-27T15:33",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
-    "sentiment": "0.0"
+    "id": 4779,
+    "mediaId": 223,
+    "date": "2022-00-02",
+    "sentence": "Lindenbaum's name appears as the third signature on the original complaint in the lawsuit alleging voter suppression in the race that saw then-Republican Secretary of State <span class='selected-term'>Brian Kemp</span> defeat Abrams by 55,000 votes statewide in the governor's race.",
+    "author": "Guy Benson",
+    "title": "Surprise: Biden Nominates Conspiratorial Election Truther to Oversee US Elections",
+    "sentiment": "-0.866"
   },
   {
     "id": 5254,
     "mediaId": 33,
-    "date": "d2022-04-08T00:00",
+    "date": "2022-00-08",
     "sentence": "",
     "author": "Art Acevedo",
     "title": "Opinion: These laws tie law enforcement's hands behind their backs",
@@ -20,7 +20,7 @@
   {
     "id": 5209,
     "mediaId": 33,
-    "date": "d2022-04-12T00:00",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "Andy Rose and Theresa Waldrop",
     "title": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit",
@@ -29,70 +29,52 @@
   {
     "id": 5162,
     "mediaId": 33,
-    "date": "d2022-04-14T00:00",
+    "date": "2022-00-14",
     "sentence": "En Georgia, por ejemplo, los partidarios de la Gran Mentira, la falsa afirmacin de que las elecciones de 2020 fueron robadas al expresidente Donald Trump, abuchearon al gobernador <span class='selected-term'>Brian Kemp</span>, un republicano acrrimo que se enfrenta a un desafo en las primarias de un candidato elegido a dedo por el expresidente.",
     "author": "Por Frida Ghitis",
     "title": "OPININ | As podra verse la venganza de Putin contra Estados Unidos",
     "sentiment": "0.0"
   },
   {
-    "id": 4841,
-    "mediaId": 33,
-    "date": "d2022-04-29T00:00",
-    "sentence": "",
-    "author": "Jamie Gangel",
-    "title": "CNN Exclusive: New text messages reveal Fox's Hannity advising Trump White House and seeking direction",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4848,
-    "mediaId": 33,
-    "date": "d2022-04-29T00:00",
-    "sentence": "With the silence of the Republican Governor <span class='selected-term'>Brian Kemp</span> over the voting issues in Georgia, both rank-in-file Republicans and many state leaders are bitterly divided.",
-    "author": "",
-    "title": "READ: 82 texts between Sean Hannity and Mark Meadows",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4779,
-    "mediaId": 223,
-    "date": "d2022-05-02T13:30",
-    "sentence": "Lindenbaum's name appears as the third signature on the original complaint in the lawsuit alleging voter suppression in the race that saw then-Republican Secretary of State <span class='selected-term'>Brian Kemp</span> defeat Abrams by 55,000 votes statewide in the governor's race.",
-    "author": "Guy Benson",
-    "title": "Surprise: Biden Nominates Conspiratorial Election Truther to Oversee US Elections",
-    "sentiment": "-0.866"
-  },
-  {
-    "id": 7098,
-    "mediaId": 157,
-    "date": "d2022-05-20T00:00",
-    "sentence": "\"We're a few days from some big primaries including in Georgia, where the former President Donald Trump has worked hard, really hard, to defeat incumbent Republican Governor <span class='selected-term'>Brian Kemp</span>,\" said anchor John Berman.",
-    "author": "Matthew Chapman",
-    "title": "Trump is about to 'get embarrassed' in Georgia GOP primary: CNN election analyst",
-    "sentiment": "-0.168"
-  },
-  {
-    "id": 7080,
-    "mediaId": 223,
-    "date": "d2022-05-20T17:40",
-    "sentence": "It's as if Brent is oblivious to Glenn Younkin winning without Trump and <span class='selected-term'>Brian Kemp</span> excelling in spite of his rift with the man.",
-    "author": "Brad Slager",
-    "title": "The Press Is Actively Changing the Language to Push Its Abortion Agenda",
-    "sentiment": "0.0"
-  },
-  {
     "id": 6532,
     "mediaId": 21,
-    "date": "d2022-05-20T19:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "Grace Panetta",
     "title": "Trump may stop endorsing candidates for competitive GOP primaries, report says: 'This is not how he expected this to go'",
     "sentiment": "-0.823"
   },
   {
+    "id": 7080,
+    "mediaId": 223,
+    "date": "2022-00-20",
+    "sentence": "It's as if Brent is oblivious to Glenn Younkin winning without Trump and <span class='selected-term'>Brian Kemp</span> excelling in spite of his rift with the man.",
+    "author": "Brad Slager",
+    "title": "The Press Is Actively Changing the Language to Push Its Abortion Agenda",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7098,
+    "mediaId": 157,
+    "date": "2022-00-20",
+    "sentence": "\"We're a few days from some big primaries including in Georgia, where the former President Donald Trump has worked hard, really hard, to defeat incumbent Republican Governor <span class='selected-term'>Brian Kemp</span>,\" said anchor John Berman.",
+    "author": "Matthew Chapman",
+    "title": "Trump is about to 'get embarrassed' in Georgia GOP primary: CNN election analyst",
+    "sentiment": "-0.168"
+  },
+  {
+    "id": 7244,
+    "mediaId": 136,
+    "date": "2022-00-22",
+    "sentence": "As top Republicans including the state's Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger rejected those claims, Trump backed their primary challengers, former Senator David Perdue and GOP Representative Jody Hice.",
+    "author": "Andrew Stanton",
+    "title": "Ex-Trump Aide Slams Former Boss for Endorsements 'Based on Grievance'",
+    "sentiment": "0.0"
+  },
+  {
     "id": 7261,
     "mediaId": 157,
-    "date": "d2022-05-22T00:00",
+    "date": "2022-00-22",
     "sentence": "\"Good for <span class='selected-term'>Brian Kemp</span> who stayed the course and showed what you can do when you have a real record to run on and you don't have to kowtow to this and you don't have to change yourself -- be who you are and that authenticity has carried him.\"",
     "author": "Tom Boggioni",
     "title": "Trump to blame for 'embarrassing' end of David Perdue's political career: Mitch McConnell adviser",
@@ -101,25 +83,16 @@
   {
     "id": 7269,
     "mediaId": 157,
-    "date": "d2022-05-22T00:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Private emails reveal how Trump's far-right lawyer ended up on a government election commission",
     "sentiment": "0"
   },
   {
-    "id": 7244,
-    "mediaId": 136,
-    "date": "d2022-05-22T16:41",
-    "sentence": "As top Republicans including the state's Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger rejected those claims, Trump backed their primary challengers, former Senator David Perdue and GOP Representative Jody Hice.",
-    "author": "Andrew Stanton",
-    "title": "Ex-Trump Aide Slams Former Boss for Endorsements 'Based on Grievance'",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7311,
     "mediaId": 65,
-    "date": "d2022-05-24T06:00",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "Nikolas Lanum",
     "title": "Georgia voting shattering turnout records after MSNBC, CNN, others ran with 'Jim Crow' accusations",
@@ -128,10 +101,37 @@
   {
     "id": 8360,
     "mediaId": 305,
-    "date": "d2022-05-26T16:20",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Murjani Rawls",
     "title": "Stacey Abrams Wins Georgia's Democratic Gubernatorial Primary",
     "sentiment": "-0.783"
+  },
+  {
+    "id": 7885,
+    "mediaId": 151,
+    "date": "2022-00-27",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4841,
+    "mediaId": 33,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Jamie Gangel",
+    "title": "CNN Exclusive: New text messages reveal Fox's Hannity advising Trump White House and seeking direction",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4848,
+    "mediaId": 33,
+    "date": "2022-00-29",
+    "sentence": "With the silence of the Republican Governor <span class='selected-term'>Brian Kemp</span> over the voting issues in Georgia, both rank-in-file Republicans and many state leaders are bitterly divided.",
+    "author": "",
+    "title": "READ: 82 texts between Sean Hannity and Mark Meadows",
+    "sentiment": "0.0"
   }
 ]

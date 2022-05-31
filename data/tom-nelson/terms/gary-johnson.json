@@ -1,8 +1,17 @@
 [
   {
+    "id": 2298,
+    "mediaId": 237,
+    "date": "2022-00-02",
+    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; Alex Lasry, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and <span class='selected-term'>Tom Nelson</span>, current Outagamie County executive.",
+    "author": "Salena Zito",
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2440,
     "mediaId": 367,
-    "date": "d2022-01-07T00:00",
+    "date": "2022-00-07",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> and Alex Lasry, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
     "title": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources",
@@ -11,34 +20,34 @@
   {
     "id": 2436,
     "mediaId": 21,
-    "date": "d2022-01-08T15:00",
+    "date": "2022-00-08",
     "sentence": "Mandela Barnes  who is seen as the frontrunner in the race  along with state Treasurer Sarah Godlewski, Outagamie County Executive <span class='selected-term'>Tom Nelson</span>, and businessman Alex Lasry.",
     "author": "John L. Dorman",
     "title": "GOP Sen. Ron Johnson of Wisconsin, a top foil for Democrats who pledged to only serve for two terms, poised to run for reelection to a third: sources",
     "sentiment": "0"
   },
   {
-    "id": 2424,
-    "mediaId": 312,
-    "date": "d2022-01-09T16:17",
-    "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive Alex Lasry; state Treasurer Sarah Godlewski and Outagamie County Executive <span class='selected-term'>Tom Nelson</span>.",
-    "author": "SCOTT BAUER / AP",
-    "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection",
-    "sentiment": "0"
-  },
-  {
     "id": 2422,
     "mediaId": 147,
-    "date": "d2022-01-09T18:33",
+    "date": "2022-00-09",
     "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive Alex Lasry; state Treasurer Sarah Godlewski and Outagamie County Executive <span class='selected-term'>Tom Nelson</span>.",
     "author": "Scott Bauer",
     "title": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
     "sentiment": "0"
   },
   {
+    "id": 2424,
+    "mediaId": 312,
+    "date": "2022-00-09",
+    "sentence": "Mandela Barnes, who is seeking to become the state's first Black senator; Milwaukee Bucks executive Alex Lasry; state Treasurer Sarah Godlewski and Outagamie County Executive <span class='selected-term'>Tom Nelson</span>.",
+    "author": "SCOTT BAUER / AP",
+    "title": "Wisconsin Republican Sen. Ron Johnson Will Seek Reelection",
+    "sentiment": "0"
+  },
+  {
     "id": 2321,
     "mediaId": 195,
-    "date": "d2022-04-15T14:20",
+    "date": "2022-00-15",
     "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> trailed at 5 percent, and Godlewski came in at 3 percent support.",
     "author": "Julia Manchester",
     "title": "Johnson raises $7.1 million in first quarter",
@@ -47,19 +56,10 @@
   {
     "id": 2314,
     "mediaId": 147,
-    "date": "d2022-04-17T18:40",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Scott Bauer",
     "title": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson",
     "sentiment": "0"
-  },
-  {
-    "id": 2298,
-    "mediaId": 237,
-    "date": "d2022-05-02T16:49",
-    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; Alex Lasry, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and <span class='selected-term'>Tom Nelson</span>, current Outagamie County executive.",
-    "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans",
-    "sentiment": "0.0"
   }
 ]

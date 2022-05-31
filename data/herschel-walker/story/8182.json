@@ -1,25 +1,18 @@
 {
   "id": 8182,
   "mediaId": 12,
-  "date": "d2022-02-08T10:00",
+  "date": "2/8/2022 12:00:00 AM",
   "headline": "Warnock to Georgians in debut 2022 ad: I see you, I hear you, I am you.",
   "image": "https://www.ajc.com/resizer/78ONJ9Fx8Tf0c64OLLXDfUMJoNU=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/SIUCIBNHW3H6XHFD4GAPFDBMVY.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/warnock-to-georgians-in-debut-2022-ad-i-see-you-i-hear-you-i-am-you/T6W6EXO7HNGEVMOK4HP5O3PGEY/",
-  "sentiment": "0",
+  "sentiment": "0.0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Bluestein",
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
-    815,
-    146,
-    160,
-    428,
-    501,
-    571,
-    2555,
-    2672
+    815
   ],
   "sentences": [
     "Georgia voters are on edge about rising inflation rates and economic struggles, according to an Atlanta Journal-Constitution poll that also shows Warnock in a tight race against Republican football standout Herschel Walker in a hypothetical matchup.",

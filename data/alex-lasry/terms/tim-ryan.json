@@ -1,8 +1,26 @@
 [
   {
+    "id": 2298,
+    "mediaId": 237,
+    "date": "2022-00-02",
+    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; <span class='selected-term'>Alex Lasry</span>, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and Tom Nelson, current Outagamie County executive.",
+    "author": "Salena Zito",
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2340,
+    "mediaId": 195,
+    "date": "2022-00-04",
+    "sentence": "Outagamie County Executive Tom Nelson has said China is eating our lunch,? when it comes to trade, while Milwaukee Bucks basketball team executive <span class='selected-term'>Alex Lasry</span> vowed to stand up to China? in a TV ad.",
+    "author": "Julia Manchester",
+    "title": "Midwest Democrats go all in on tough-on-China approach",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2443,
     "mediaId": 65,
-    "date": "d2022-01-05T16:00",
+    "date": "2022-00-05",
     "sentence": "In Wisconsin, Democratic Senate candidate and Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> on Wednesday unveiled a plan \"strengthening American Democracy\" which includes ending the filibuster and other reforms.\"",
     "author": "Paul Steinhauser",
     "title": "Democratic Senate candidates put changing the filibuster front and center",
@@ -11,25 +29,16 @@
   {
     "id": 2405,
     "mediaId": 129,
-    "date": "d2022-01-21T00:00",
+    "date": "2022-00-21",
     "sentence": "The spot, by <span class='selected-term'>Alex Lasry</span>, a Milwaukee Bucks executive, doesn't shy away from the economic problems pulling down Biden's poll numbers: supply-chain shortages and surging inflation.",
     "author": "",
     "title": "What Mattered This Week",
     "sentiment": "0.0"
   },
   {
-    "id": 2400,
-    "mediaId": 1390,
-    "date": "d2022-01-24T19:00",
-    "sentence": "Additionally, Democratic Senate candidate and Milwaukee Bucks senior vice president <span class='selected-term'>Alex Lasry</span>  son of billionaire hedge fund manager and Bucks owner Marc Lasry  said he supports \"Medicare for all who want it\" and more federal spending to \"increase the United States contribution to the Green Climate Fund, invest in additional research and development, and share technology and technical assistance with countries across the world.\"",
-    "author": "Houston Keene",
-    "title": "Dem Senate candidates campaign on higher federal spending, despite inflation fears",
-    "sentiment": "0.0"
-  },
-  {
     "id": 1122,
     "mediaId": 43,
-    "date": "d2022-03-24T00:00",
+    "date": "2022-00-24",
     "sentence": "Mandela Barnes' new internal from Impact Research (formerly known as Anzalone Liszt Grove or ALG) gives him a 38-17 lead over Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> in the August Democratic primary, with state Treasurer Sarah Godlewski and Outagamie County Executive Tom Nelson at 9% and 8%, respectively.",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 3/29",
@@ -38,37 +47,28 @@
   {
     "id": 2349,
     "mediaId": 367,
-    "date": "d2022-03-24T00:00",
+    "date": "2022-00-24",
     "sentence": "In many ways, Barnes, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>, Outagamie County Executive Tom Nelson and state Treasurer Sarah Godlewski are following the political path Baldwin blazed.",
     "author": "Bill Glauber",
     "title": "Democratic U.S. Senate contenders in Wisconsin focus on manufacturing",
     "sentiment": "0.0"
   },
   {
+    "id": 2400,
+    "mediaId": 1390,
+    "date": "2022-00-24",
+    "sentence": "Additionally, Democratic Senate candidate and Milwaukee Bucks senior vice president <span class='selected-term'>Alex Lasry</span>  son of billionaire hedge fund manager and Bucks owner Marc Lasry  said he supports \"Medicare for all who want it\" and more federal spending to \"increase the United States contribution to the Green Climate Fund, invest in additional research and development, and share technology and technical assistance with countries across the world.\"",
+    "author": "Houston Keene",
+    "title": "Dem Senate candidates campaign on higher federal spending, despite inflation fears",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2343,
     "mediaId": 65,
-    "date": "d2022-03-30T10:53",
+    "date": "2022-00-30",
     "sentence": "One of those Democrats was Senate candidate <span class='selected-term'>Alex Lasry</span> of Wisconsin, who in a January commercial pledged to \"stand up to China.\"",
     "author": "",
     "title": "The Senate candidate who spotlights 'It is us versus China' in a new ad is a Democrat",
     "sentiment": "0"
-  },
-  {
-    "id": 2340,
-    "mediaId": 195,
-    "date": "d2022-04-04T10:00",
-    "sentence": "Outagamie County Executive Tom Nelson has said China is eating our lunch,? when it comes to trade, while Milwaukee Bucks basketball team executive <span class='selected-term'>Alex Lasry</span> vowed to stand up to China? in a TV ad.",
-    "author": "Julia Manchester",
-    "title": "Midwest Democrats go all in on tough-on-China approach",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2298,
-    "mediaId": 237,
-    "date": "d2022-05-02T16:49",
-    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; <span class='selected-term'>Alex Lasry</span>, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and Tom Nelson, current Outagamie County executive.",
-    "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans",
-    "sentiment": "0.0"
   }
 ]

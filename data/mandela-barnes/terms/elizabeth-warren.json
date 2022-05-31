@@ -2,16 +2,25 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "d2022-01-01T00:00",
+    "date": "2022-00-01",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
     "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
     "sentiment": "0.871"
   },
   {
+    "id": 2293,
+    "mediaId": 43,
+    "date": "2022-00-03",
+    "sentence": "Click below to donate and get involved with these Democratic Senate candidates and incumbents campaigns:\nArizona\nMark Kelly\nGeorgia\nRaphael Warnock\nNevada\nCatherine Cortez Masto\nNew Hampshire\nMaggie Hassan\nPennsylvania:\nJohn Fetterman\nWisconsin:\n<span class='selected-term'>Mandela Barnes</span>\nTom Nelson\nAlex Lasry\nSarah Godlewski\nOhio:\nTim Ryan\nNorth Carolina:\nCheri Beasley\nFlorida:\nVal Demings\nMissouri:\nLucas Kunce",
+    "author": "",
+    "title": "Video Of A Rightfully Pissed Off Sen. Elizabeth Warren (D. MA) Hits 4.2 Million Views",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2416,
     "mediaId": 195,
-    "date": "d2022-01-11T13:18",
+    "date": "2022-00-11",
     "sentence": "",
     "author": "Mychael Schnell",
     "title": "Booker endorses Mandela Barnes in Wisconsin Senate race",
@@ -20,46 +29,37 @@
   {
     "id": 2413,
     "mediaId": 195,
-    "date": "d2022-01-12T19:37",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "Mychael Schnell",
     "title": "Barnes rakes in almost $150K after Johnson enters Wisconsin Senate race",
     "sentiment": "0.871"
   },
   {
-    "id": 2396,
-    "mediaId": 238,
-    "date": "d2022-01-26T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion: Sarah Godlewski could be the best chance to rid the Senate of Ron Johnson",
-    "sentiment": "0"
-  },
-  {
     "id": 2309,
     "mediaId": 238,
-    "date": "d2022-04-21T10:00",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "",
     "title": "The most interesting Democratic primaries of 2022",
     "sentiment": "0.0"
   },
   {
-    "id": 2293,
-    "mediaId": 43,
-    "date": "d2022-05-03T00:00",
-    "sentence": "Click below to donate and get involved with these Democratic Senate candidates and incumbents campaigns:\nArizona\nMark Kelly\nGeorgia\nRaphael Warnock\nNevada\nCatherine Cortez Masto\nNew Hampshire\nMaggie Hassan\nPennsylvania:\nJohn Fetterman\nWisconsin:\n<span class='selected-term'>Mandela Barnes</span>\nTom Nelson\nAlex Lasry\nSarah Godlewski\nOhio:\nTim Ryan\nNorth Carolina:\nCheri Beasley\nFlorida:\nVal Demings\nMissouri:\nLucas Kunce",
-    "author": "",
-    "title": "Video Of A Rightfully Pissed Off Sen. Elizabeth Warren (D. MA) Hits 4.2 Million Views",
-    "sentiment": "0.0"
-  },
-  {
     "id": 6548,
     "mediaId": 367,
-    "date": "d2022-05-21T00:00",
+    "date": "2022-00-21",
     "sentence": "",
     "author": "Bill Glauber",
     "title": "U.S. Sen. Elizabeth Warren praises Mandela Barnes, calls out Ron Johnson during Milwaukee appearance",
     "sentiment": "-0.376"
+  },
+  {
+    "id": 2396,
+    "mediaId": 238,
+    "date": "2022-00-26",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion: Sarah Godlewski could be the best chance to rid the Senate of Ron Johnson",
+    "sentiment": "0"
   }
 ]

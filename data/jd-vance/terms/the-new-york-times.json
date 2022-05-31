@@ -1,35 +1,8 @@
 [
   {
-    "id": 6295,
-    "mediaId": 409,
-    "date": "d2022-04-19T09:23",
-    "sentence": "",
-    "author": "Jim Geraghty",
-    "title": "The Medias Dirty Secret about GOP Coverage",
-    "sentiment": "0.443"
-  },
-  {
-    "id": 6188,
-    "mediaId": 157,
-    "date": "d2022-04-24T00:00",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Evangelicals and 'Christian righteousness' power Trump's delusions of election fraud: NYT",
-    "sentiment": "0"
-  },
-  {
-    "id": 6082,
-    "mediaId": 169,
-    "date": "d2022-04-29T10:03",
-    "sentence": "",
-    "author": "Heather Digby Parton",
-    "title": "Trump's puppets: McConnell and McCarthy have lost all control",
-    "sentiment": "0"
-  },
-  {
     "id": 5712,
     "mediaId": 238,
-    "date": "d2022-05-05T16:07",
+    "date": "2022-00-05",
     "sentence": "",
     "author": "",
     "title": "Opinion Why a secretive tech billionaire is bankrolling J.D. Vance",
@@ -38,7 +11,7 @@
   {
     "id": 5652,
     "mediaId": 147,
-    "date": "d2022-05-06T22:35",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "",
     "title": "Brooks and Tumulty on Roe v. Wade, culture wars and Trumps impact on the midterms",
@@ -47,10 +20,37 @@
   {
     "id": 5505,
     "mediaId": 157,
-    "date": "d2022-05-17T00:00",
+    "date": "2022-00-17",
     "sentence": "",
     "author": "Alex Henderson",
     "title": "Economist Paul Krugman explains why MAGAs paranoid mindset has overtaken the GOP",
+    "sentiment": "0"
+  },
+  {
+    "id": 6295,
+    "mediaId": 409,
+    "date": "2022-00-19",
+    "sentence": "",
+    "author": "Jim Geraghty",
+    "title": "The Medias Dirty Secret about GOP Coverage",
+    "sentiment": "0.443"
+  },
+  {
+    "id": 6188,
+    "mediaId": 157,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Evangelicals and 'Christian righteousness' power Trump's delusions of election fraud: NYT",
+    "sentiment": "0"
+  },
+  {
+    "id": 6082,
+    "mediaId": 169,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Heather Digby Parton",
+    "title": "Trump's puppets: McConnell and McCarthy have lost all control",
     "sentiment": "0"
   }
 ]

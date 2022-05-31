@@ -1,17 +1,8 @@
 [
   {
-    "id": 8112,
-    "mediaId": 12,
-    "date": "d2022-02-24T13:00",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2126,
     "mediaId": 12,
-    "date": "d2022-04-11T12:00",
+    "date": "2022-00-11",
     "sentence": "It's up to <span class='selected-term'>Brian Kemp</span> and David Perdue to explain to Republican women and to all Georgians why they are excluding Kandiss Taylor from participating in multiple Republican primary debates,? Groh-Wargo said.",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp tangles with grassroots hecklers yelling Liar!'",
@@ -20,16 +11,25 @@
   {
     "id": 7202,
     "mediaId": 151,
-    "date": "d2022-05-22T11:00",
+    "date": "2022-00-22",
     "sentence": "",
     "author": "",
     "title": "'No one's paying any attention': The week that Republicans ignored Trump's election lies",
     "sentiment": "-0.644"
   },
   {
+    "id": 8112,
+    "mediaId": 12,
+    "date": "2022-00-24",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8473,
     "mediaId": 157,
-    "date": "d2022-05-26T00:00",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Republicans talk trash about Trump as endorsements flop",
@@ -38,7 +38,7 @@
   {
     "id": 8571,
     "mediaId": 151,
-    "date": "d2022-05-26T08:30",
+    "date": "2022-00-26",
     "sentence": "",
     "author": "",
     "title": "'Trump picked this fight': Why heavyweight Republicans no longer fear Trump",

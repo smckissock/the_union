@@ -2,16 +2,43 @@
   {
     "id": 7968,
     "mediaId": 188,
-    "date": "d2022-03-23T00:00",
+    "date": "2022-00-23",
     "sentence": "The White House requested for Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span> to resign from the President's Council on Sports, Fitness & Nutrition on Wednesday, or else face termination, according to CNN.",
     "author": "Alex Nitzberg",
     "title": "White House ousts Dr. Mehmet Oz and Herschel Walker from President's Council on Sports, Fitness & Nutrition",
     "sentiment": "-0.833"
   },
   {
+    "id": 7932,
+    "mediaId": 112,
+    "date": "2022-00-24",
+    "sentence": "President Joe Biden has axed <span class='selected-term'>Herschel Walker</span> and Dr. Mehmet Oz from advisory roles with the Presidents Council on Sports, Fitness & Nutrition due to their current candidacies for the U.S. Senate.",
+    "author": "Charles Passy",
+    "title": "Why President Biden fired Herschel Walker and Dr. Mehmet Oz from a federal fitness council",
+    "sentiment": "-0.81"
+  },
+  {
+    "id": 7940,
+    "mediaId": 237,
+    "date": "2022-00-24",
+    "sentence": "A White House official told CNN Wednesday that Oz, along with fellow council member and Republican Senate candidate <span class='selected-term'>Herschel Walker</span>, were in violation of the Biden administration's policy of federal candidates serving on presidential boards.",
+    "author": "Heather Hamilton",
+    "title": "WATCH: Dr. Oz responds to Bidens request that he resign from fitness council",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7942,
+    "mediaId": 136,
+    "date": "2022-00-24",
+    "sentence": "Oz, best known as the host of The Dr. Oz Show, and <span class='selected-term'>Herschel Walker</span> were both sent letters on Wednesday asking them to resign by the end of the day or they would be terminated, a White House official told NBC News.",
+    "author": "Khaleda Rahman",
+    "title": "Dr. Oz Calls Biden 'Petty' After Being Asked to Quit President's Council",
+    "sentiment": "-0.607"
+  },
+  {
     "id": 7950,
     "mediaId": 43,
-    "date": "d2022-03-24T00:00",
+    "date": "2022-00-24",
     "sentence": "Just as President Joe Biden has reportedly asked GOP Senate candidates <span class='selected-term'>Herschel Walker</span> and Mehmet Oz to resign their posts on the Presidents Council on Sports, Fitness & Nutrition, Biden has announced his intent to appoint their replacements.",
     "author": "Rebekah Sager",
     "title": "Biden moves to oust GOP Senate candidates Herschel Walker, Dr. Oz for Jos Andrs, Elena Delle Donne",
@@ -20,43 +47,16 @@
   {
     "id": 7955,
     "mediaId": 43,
-    "date": "d2022-03-24T00:00",
+    "date": "2022-00-24",
     "sentence": "Dr. Mehmet Oz and <span class='selected-term'>Herschel Walker</span> were both appointed to the President's Council on Sports, Fitness & Nutrition by twice-popular-voter-loser former President Donald Trump.",
     "author": "",
     "title": "Biden requests resignations of Dr. Mehmet Oz and Herschel Walker by end of day",
     "sentiment": "-0.418"
   },
   {
-    "id": 7942,
-    "mediaId": 136,
-    "date": "d2022-03-24T10:09",
-    "sentence": "Oz, best known as the host of The Dr. Oz Show, and <span class='selected-term'>Herschel Walker</span> were both sent letters on Wednesday asking them to resign by the end of the day or they would be terminated, a White House official told NBC News.",
-    "author": "Khaleda Rahman",
-    "title": "Dr. Oz Calls Biden 'Petty' After Being Asked to Quit President's Council",
-    "sentiment": "-0.607"
-  },
-  {
-    "id": 7940,
-    "mediaId": 237,
-    "date": "d2022-03-24T12:41",
-    "sentence": "A White House official told CNN Wednesday that Oz, along with fellow council member and Republican Senate candidate <span class='selected-term'>Herschel Walker</span>, were in violation of the Biden administration's policy of federal candidates serving on presidential boards.",
-    "author": "Heather Hamilton",
-    "title": "WATCH: Dr. Oz responds to Bidens request that he resign from fitness council",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7932,
-    "mediaId": 112,
-    "date": "d2022-03-24T18:05",
-    "sentence": "President Joe Biden has axed <span class='selected-term'>Herschel Walker</span> and Dr. Mehmet Oz from advisory roles with the Presidents Council on Sports, Fitness & Nutrition due to their current candidacies for the U.S. Senate.",
-    "author": "Charles Passy",
-    "title": "Why President Biden fired Herschel Walker and Dr. Mehmet Oz from a federal fitness council",
-    "sentiment": "-0.81"
-  },
-  {
     "id": 7883,
     "mediaId": 63,
-    "date": "d2022-03-28T00:02",
+    "date": "2022-00-28",
     "sentence": "But Mehmet Oz, MD, still brought up Fauci in response to the Biden Administration asking both him and <span class='selected-term'>Herschel Walker</span> to resign from the Council.",
     "author": "Bruce Y. Lee",
     "title": "Dr. Mehmet Oz Asked To Resign From Presidents Council, Brings Up Dr. Fauci Again",
@@ -65,7 +65,7 @@
   {
     "id": 7875,
     "mediaId": 151,
-    "date": "d2022-03-29T23:08",
+    "date": "2022-00-29",
     "sentence": "Theres no upside to debate, said Jason Shepherd, the chair of the Republican Party in Cobb County, Ga., if youre someone like <span class='selected-term'>Herschel Walker</span> who is already the frontrunner  and has no experience debating.",
     "author": "",
     "title": "Debate-dodging takes off in midterm campaigns",

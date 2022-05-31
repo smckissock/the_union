@@ -1,26 +1,8 @@
 [
   {
-    "id": 4451,
-    "mediaId": 239,
-    "date": "d2022-04-29T00:03:54",
-    "sentence": "",
-    "author": "Robert Knight",
-    "title": "DeSantis delivers a roundhouse blow to Disney",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4451,
-    "mediaId": 239,
-    "date": "d2022-04-29T00:03:54",
-    "sentence": "",
-    "author": "Robert Knight",
-    "title": "DeSantis delivers a roundhouse blow to Disney",
-    "sentiment": "0.828"
-  },
-  {
     "id": 4293,
     "mediaId": 195,
-    "date": "d2022-05-01T12:00",
+    "date": "2022-00-01",
     "sentence": "",
     "author": "Joe Concha",
     "title": "Joe Bidens Ministry of Truth",
@@ -29,7 +11,7 @@
   {
     "id": 3902,
     "mediaId": 237,
-    "date": "d2022-05-06T18:56",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Jenny Goldsberry",
     "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
@@ -38,7 +20,7 @@
   {
     "id": 3902,
     "mediaId": 237,
-    "date": "d2022-05-06T18:56",
+    "date": "2022-00-06",
     "sentence": "",
     "author": "Jenny Goldsberry",
     "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
@@ -47,7 +29,7 @@
   {
     "id": 3826,
     "mediaId": 302,
-    "date": "d2022-05-09T14:00",
+    "date": "2022-00-09",
     "sentence": "",
     "author": "",
     "title": "Climate catastrophists need to chill | Column",
@@ -56,7 +38,7 @@
   {
     "id": 3618,
     "mediaId": 129,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Liam Stack",
     "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
@@ -65,7 +47,7 @@
   {
     "id": 3618,
     "mediaId": 129,
-    "date": "d2022-05-13T00:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "Liam Stack",
     "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
@@ -74,10 +56,28 @@
   {
     "id": 7125,
     "mediaId": 302,
-    "date": "d2022-05-20T14:00",
+    "date": "2022-00-20",
     "sentence": "",
     "author": "",
     "title": "Are Democrats up to preventing the next coup attempt? | Column",
     "sentiment": "0.0"
+  },
+  {
+    "id": 4451,
+    "mediaId": 239,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Robert Knight",
+    "title": "DeSantis delivers a roundhouse blow to Disney",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 4451,
+    "mediaId": 239,
+    "date": "2022-00-29",
+    "sentence": "",
+    "author": "Robert Knight",
+    "title": "DeSantis delivers a roundhouse blow to Disney",
+    "sentiment": "0.828"
   }
 ]

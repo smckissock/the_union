@@ -1,27 +1,18 @@
 {
   "id": 1175,
   "mediaId": 237,
-  "date": "d2022-03-17T23:00",
+  "date": "3/17/2022 12:00:00 AM",
   "headline": "The many trials of Brian Kemp",
   "image": "https://mediadc.brightspotcdn.com/dims4/default/f48c8f9/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F33%2F80%2F8da3a37f4b7eb3bd12ee6b4d7830%2Fwb.campign.jpg",
   "link": "https://www.washingtonexaminer.com/news/campaigns/the-many-trials-of-georgia-gov-brian-kemp",
-  "sentiment": "-0.472",
+  "sentiment": "0.0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Haisten Willis",
   "authorUrl": "https://www.washingtonexaminer.com/author/haisten-willis",
   "termIds": [
-    1147,
-    1951,
-    2095,
-    2471,
-    4325,
-    295,
-    2672,
-    2888,
-    2942,
-    2945
+    2095
   ],
   "sentences": [
     "\"The economy in Georgia has fared better than expected these last two years, and that has allowed him to make good on a promise to deliver a $5,000 raise to Georgia teachers and a raise for the rest of the state employees,\" said Nathan Price, a political science professor at the University of North Georgia.",

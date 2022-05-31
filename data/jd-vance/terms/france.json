@@ -1,35 +1,44 @@
 [
   {
-    "id": 6428,
-    "mediaId": 98,
-    "date": "d2022-04-12T00:00",
+    "id": 5808,
+    "mediaId": 409,
+    "date": "2022-00-04",
     "sentence": "",
-    "author": "Jonah Goldberg",
-    "title": "Column: Frances election shows how political parties can fade away",
+    "author": "Jay Nordlinger",
+    "title": "Refuge in pluralism, &c.",
     "sentiment": "0"
-  },
-  {
-    "id": 6424,
-    "mediaId": 312,
-    "date": "d2022-04-12T18:31",
-    "sentence": "",
-    "author": "Philip Elliott",
-    "title": "To Court Trump Voters, J.D. Vance Betrays Conservatives on Electoral College",
-    "sentiment": "-0.213"
   },
   {
     "id": 6423,
     "mediaId": 99,
-    "date": "d2022-04-12T21:01",
+    "date": "2022-00-12",
     "sentence": "",
     "author": "",
     "title": "JONAH GOLDBERG: Frances election shows how political parties can fade away",
     "sentiment": "0"
   },
   {
+    "id": 6424,
+    "mediaId": 312,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "Philip Elliott",
+    "title": "To Court Trump Voters, J.D. Vance Betrays Conservatives on Electoral College",
+    "sentiment": "-0.213"
+  },
+  {
+    "id": 6428,
+    "mediaId": 98,
+    "date": "2022-00-12",
+    "sentence": "",
+    "author": "Jonah Goldberg",
+    "title": "Column: Frances election shows how political parties can fade away",
+    "sentiment": "0"
+  },
+  {
     "id": 6420,
     "mediaId": 302,
-    "date": "d2022-04-13T09:00",
+    "date": "2022-00-13",
     "sentence": "",
     "author": "",
     "title": "Frances election shows how political parties can fade away | Column",
@@ -38,7 +47,7 @@
   {
     "id": 6413,
     "mediaId": 424,
-    "date": "d2022-04-14T10:01",
+    "date": "2022-00-14",
     "sentence": "",
     "author": "John Nichols",
     "title": "What J.D. Vance Doesnt Know About France",
@@ -47,19 +56,10 @@
   {
     "id": 6173,
     "mediaId": 151,
-    "date": "d2022-04-24T15:24",
+    "date": "2022-00-24",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: Remembering Orrin Hatch",
-    "sentiment": "0"
-  },
-  {
-    "id": 5808,
-    "mediaId": 409,
-    "date": "d2022-05-04T06:30",
-    "sentence": "",
-    "author": "Jay Nordlinger",
-    "title": "Refuge in pluralism, &c.",
     "sentiment": "0"
   }
 ]

@@ -1,53 +1,26 @@
 [
   {
-    "id": 85,
-    "mediaId": 129,
-    "date": "d2022-01-05T00:00",
-    "sentence": "In September, he endorsed a square-jawed, Army Special Forces veteran, <span class='selected-term'>Joe Kent</span>, to challenge Ms. Herrera Beutler, who before her vote had revealed one of the most damning vignettes of Jan. 6 for Mr. Trump.",
-    "author": "",
-    "title": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2256,
-    "mediaId": 237,
-    "date": "d2022-01-17T10:50",
-    "sentence": "It's going to come from the right, too.?\nHe was one of two Republican candidates, along with <span class='selected-term'>Joe Kent</span> of Washington, to attend a September Justice for J6? rally in support of alleged participants of the Jan. 6 Capitol riot still in Washington, D.C., jails.",
-    "author": "Emily Brooks",
-    "title": "A top GOP House candidate in Georgia says election doubts still driving voters",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 75,
-    "mediaId": 237,
-    "date": "d2022-01-18T05:30",
-    "sentence": "Rep. Jaime Herrera Beutler\nThe six-term Washington state lawmaker faces several primary challengers, including the Trump-backed <span class='selected-term'>Joe Kent</span>.",
-    "author": "Kate Scanlon",
-    "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 690,
-    "mediaId": 129,
-    "date": "d2022-02-02T00:00",
-    "sentence": "",
-    "author": "",
-    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
-    "sentiment": "0.0"
-  },
-  {
     "id": 64,
     "mediaId": 124,
-    "date": "d2022-02-02T02:59:38",
+    "date": "2022-00-02",
     "sentence": "And in Washington state, Rep. Jaime Herrera Beutler out-raised her Trump-backed opponent, <span class='selected-term'>Joe Kent</span>, bringing in about $422,000 compared to his roughly $297,000 during that same period.",
     "author": "",
     "title": "Republicans who impeached Trump outpace challengers in latest fundraising haul",
     "sentiment": "0.0"
   },
   {
+    "id": 690,
+    "mediaId": 129,
+    "date": "2022-00-02",
+    "sentence": "",
+    "author": "",
+    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2247,
     "mediaId": 195,
-    "date": "d2022-02-02T21:13",
+    "date": "2022-00-02",
     "sentence": "Trump has endorsed <span class='selected-term'>Joe Kent</span>, one of Herrera Beutler's Republican primary challengers in Washington's 3rd Congressional District.",
     "author": "Julia Manchester",
     "title": "GOP women's group endorses Herrera Beutler in primary race",
@@ -56,7 +29,7 @@
   {
     "id": 61,
     "mediaId": 165,
-    "date": "d2022-02-03T18:29",
+    "date": "2022-00-03",
     "sentence": "",
     "author": "William Vaillancourt",
     "title": "Republicans Who Voted to Impeach Trump Are Fundraising Laps Around Their MAGA Primary Opponents",
@@ -65,19 +38,46 @@
   {
     "id": 23,
     "mediaId": 195,
-    "date": "d2022-04-05T21:49",
+    "date": "2022-00-05",
     "sentence": "Army veteran <span class='selected-term'>Joe Kent</span> got the Trump nod in a primary against Rep. Jaime Herrera Beutler (R-Wash.).",
     "author": "Cristina Marcos",
     "title": "Veteran lawmaker's exit has House GOP trending toward Trump",
     "sentiment": "0.0"
   },
   {
+    "id": 85,
+    "mediaId": 129,
+    "date": "2022-00-05",
+    "sentence": "In September, he endorsed a square-jawed, Army Special Forces veteran, <span class='selected-term'>Joe Kent</span>, to challenge Ms. Herrera Beutler, who before her vote had revealed one of the most damning vignettes of Jan. 6 for Mr. Trump.",
+    "author": "",
+    "title": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
+    "sentiment": "0.0"
+  },
+  {
     "id": 2217,
     "mediaId": 376,
-    "date": "d2022-04-12T15:02",
+    "date": "2022-00-12",
     "sentence": "In southwestern Washington, Trump has endorsed former Army Green Beret <span class='selected-term'>Joe Kent</span> against Herrera Beutler.",
     "author": "",
     "title": "New lines, interesting races in Washington state",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 2256,
+    "mediaId": 237,
+    "date": "2022-00-17",
+    "sentence": "It's going to come from the right, too.?\nHe was one of two Republican candidates, along with <span class='selected-term'>Joe Kent</span> of Washington, to attend a September Justice for J6? rally in support of alleged participants of the Jan. 6 Capitol riot still in Washington, D.C., jails.",
+    "author": "Emily Brooks",
+    "title": "A top GOP House candidate in Georgia says election doubts still driving voters",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 75,
+    "mediaId": 237,
+    "date": "2022-00-18",
+    "sentence": "Rep. Jaime Herrera Beutler\nThe six-term Washington state lawmaker faces several primary challengers, including the Trump-backed <span class='selected-term'>Joe Kent</span>.",
+    "author": "Kate Scanlon",
+    "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically",
     "sentiment": "0.0"
   }
 ]

@@ -1,25 +1,18 @@
 {
   "id": 6459,
   "mediaId": 19,
-  "date": "d2022-05-17T00:00",
+  "date": "5/17/2022 12:00:00 AM",
   "headline": "Doug Mastriano Wins Pennsylvania Republican Gubernatorial Primary",
   "image": "https://media.breitbart.com/media/2022/05/GettyImages-1397246883-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/17/doug-mastriano-wins-pennsylvania-republican-gubernatorial-primary/",
-  "sentiment": "0.646",
+  "sentiment": "0.0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John Binder",
   "authorUrl": "https://www.breitbart.com/author/john-binder/",
   "termIds": [
-    1147,
-    1282,
-    1713,
-    1997,
-    3102,
-    146,
-    428,
-    2862
+    3102
   ],
   "sentences": [
     "Mastriano, who billed himself as an anti-establishment outsider who would investigate Pennsylvanias 2020 election results, took a large lead with election day voters and swept some counties with more than 50 percent of the vote.",

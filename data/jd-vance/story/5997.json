@@ -1,28 +1,18 @@
 {
   "id": 5997,
   "mediaId": 169,
-  "date": "d2022-05-02T17:58",
+  "date": "5/2/2022 12:00:00 AM",
   "headline": "Marjorie Taylor Greene jumps in the middle of heated Ohio GOP primary race",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/05/josh-mandel-marjorie-taylor-greene-0502221.jpg",
   "link": "https://www.salon.com/2022/05/02/marjorie-taylor-greene-jumps-in-the-middle-of-heated-ohio-primary-race/",
-  "sentiment": "0.958",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jon Skolnik",
   "authorUrl": "https://www.salon.com/writer/jon-skolnik",
   "termIds": [
-    883,
-    946,
-    1577,
-    1801,
-    2027,
-    3103,
-    379,
-    428,
-    2672,
-    2827,
-    2845
+    3103
   ],
   "sentences": [
     "Vance says Big Tech data collection should be \"illegal\"  but set to profit from it\nhttps://twitter.com/JDVancePress/status/1520738181251010562\nAccording to an Emerson poll, the author and venture capitalist has the support of 26% of Ohio's primary voters, with Josh Mandel (24%), Matt Dolan (21%), and Mike Gibbons (17%) trailing behind.",

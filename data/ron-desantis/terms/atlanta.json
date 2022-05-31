@@ -1,26 +1,8 @@
 [
   {
-    "id": 7032,
-    "mediaId": 675,
-    "date": "d2022-02-13T10:42",
-    "sentence": "",
-    "author": "WND News Services",
-    "title": "The mystery of the migrant kids",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7033,
-    "mediaId": 675,
-    "date": "d2022-02-13T10:42",
-    "sentence": "",
-    "author": "WND News Services",
-    "title": "The mystery of the migrant kids",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4238,
     "mediaId": 136,
-    "date": "d2022-05-02T10:00",
+    "date": "2022-00-02",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has released a payload of consequences onto the Walt Disney Company for its decision to fight policies designed to protect children from sexual content in their earliest years of education.",
     "author": "Mark Davis",
     "title": "Pushback Against DeSantis Proves the Value of His Battle With Disney | Opinion",
@@ -29,7 +11,7 @@
   {
     "id": 4238,
     "mediaId": 136,
-    "date": "d2022-05-02T10:00",
+    "date": "2022-00-02",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has released a payload of consequences onto the Walt Disney Company for its decision to fight policies designed to protect children from sexual content in their earliest years of education.",
     "author": "Mark Davis",
     "title": "Pushback Against DeSantis Proves the Value of His Battle With Disney | Opinion",
@@ -38,16 +20,34 @@
   {
     "id": 4069,
     "mediaId": 233,
-    "date": "d2022-05-04T09:04",
+    "date": "2022-00-04",
     "sentence": "",
     "author": "David Jackson",
     "title": "Anti-trans bills could be one key Republicans use to rally their base ahead of midterms. Will it work?",
     "sentiment": "0.0"
   },
   {
+    "id": 7032,
+    "mediaId": 675,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "WND News Services",
+    "title": "The mystery of the migrant kids",
+    "sentiment": "0.0"
+  },
+  {
+    "id": 7033,
+    "mediaId": 675,
+    "date": "2022-00-13",
+    "sentence": "",
+    "author": "WND News Services",
+    "title": "The mystery of the migrant kids",
+    "sentiment": "0.0"
+  },
+  {
     "id": 8526,
     "mediaId": 129,
-    "date": "d2022-05-29T00:00",
+    "date": "2022-00-29",
     "sentence": "",
     "author": "",
     "title": "What Lia Thomas Could Mean for Women's Elite Sports",
