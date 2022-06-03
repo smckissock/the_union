@@ -5,14 +5,17 @@
   "headline": "Ban on protests in front of homes signed by Gov. DeSantis",
   "image": "https://static-cdn.spot.im/production/launcher/tags/v2.77.2/launcher/ec24cb303220fcfc94f8.svg",
   "link": "https://news.yahoo.com/ban-protests-front-homes-signed-220504801.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2661,
+    2926,
+    2953
   ],
   "sentences": [
     "This bill will provide protection to those living in residential communities and I am glad to sign it into law.?\nSome Democrats opposed the bill, arguing it infringes on people's First Amendment rights to free speech.",

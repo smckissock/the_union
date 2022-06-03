@@ -5,7 +5,7 @@
   "headline": "The Memo: McCarthy furor underlines Trumps grip on GOP",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/04/trumpdonald_mccarthykevin_042222ap-chris-seward-gn_split_memo.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/house/3460577-the-memo-mccarthy-furor-underlines-trumps-grip-on-gop/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "https://thehill.com/author/niall-stanage/",
   "termIds": [
     815,
-    3103
+    1147,
+    1311,
+    1609,
+    1668,
+    2087,
+    2214,
+    3103,
+    146,
+    296,
+    428
   ],
   "sentences": [
     "Rep. Adam Kinzinger (Ill.), one of the most fervent Trump critics among congressional Republicans, tweeted that McCarthy was over Trump until he wasnt, when he realized he needed him,? adding sardonically, Thanks Kev.?\nFor McCarthy, one key question is whether the uproar will endanger his chances of becoming Speaker if the Republicans win the House majority at Novembers midterm elections.",

@@ -5,14 +5,17 @@
   "headline": "DeSantis accused textbooks of indoctrination. Heres what he meant.",
   "image": "",
   "link": "https://www.washingtonpost.com/education/2022/05/09/florida-banned-textbooks-math-desantis/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4383,
+    2661,
+    2945
   ],
   "sentences": [
     "One flagged a statement as proscribed because it said, The United States has eradicated neither poverty no [sic] racism.?\nEmphasis that racism is embedded in American society,? the reviewer wrote, contains Critical Race Theory which is prohibited in 6A1.094124 F.A.C.?\nSchool officials wanted to know whether the books followed a law, passed in 2021, that forbids instructional material from containing the theory that racism is not merely the product of prejudice, but that racism is embedded in American society and its legal systems in order to uphold the supremacy of white persons,? or references to the 1619 Project, the New York Times work that highlighted the role of slavery in the nations founding.",

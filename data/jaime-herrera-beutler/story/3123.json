@@ -5,15 +5,23 @@
   "headline": "House Jan. 6 committee subpoenas Kevin McCarthy for his communications with Trump around time of the Capitol attack",
   "image": "https://i.insider.com/6228dd679fa32d00184c8b57?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/house-jan-6-committee-subpoenas-kevin-mccarthy-over-trump-contacts-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brent D. Griffiths",
   "authorUrl": "https://www.businessinsider.com/author/brent-d-griffiths",
   "termIds": [
+    799,
+    1066,
+    1081,
+    1147,
+    1609,
     2125,
-    3094
+    3094,
+    78,
+    428,
+    562
   ],
   "sentences": [
     "\"We have every reason to believe that members of Congress will comply with their legal and moral duty to participate, just as the vast majority of people have participated and cooperated with the investigation,\" Raskin told reporters outside the House chamber, seconds after Perry sped by.",

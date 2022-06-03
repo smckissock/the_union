@@ -2,19 +2,28 @@
   {
     "id": 5346,
     "mediaId": 223,
-    "date": "2022-00-02",
+    "date": "4/2/2022 12:00:00 AM",
     "sentence": "",
     "author": "Rebecca Downs",
     "title": "More Big Tech Censorship: RNC Video of Interview with Donald Trump Removed from YouTube",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7243,
     "mediaId": 233,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "University of Georgia Professor Charles Bullock told USA TODAY that Trump's endorsement \"really doesn't make much of a difference in the governor's race because <span class='selected-term'>Brian Kemp</span> is well-known.\"",
     "author": "Merdie Nzanga",
     "title": "Ahead of Georgia primary, RNC chairwoman calls on Republicans to unite",
     "sentiment": "0.222"
+  },
+  {
+    "id": 8711,
+    "mediaId": 18,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "GOP govs offer states as alternative RNC convention host",
+    "sentiment": "0"
   }
 ]

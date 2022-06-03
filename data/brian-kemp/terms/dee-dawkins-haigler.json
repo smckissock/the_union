@@ -2,7 +2,7 @@
   {
     "id": 7363,
     "mediaId": 195,
-    "date": "2022-00-25",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Raffensperger fends off Trump-backed primary challenge in Georgia",
@@ -11,10 +11,19 @@
   {
     "id": 7370,
     "mediaId": 18,
-    "date": "2022-00-25",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "I had an inelegant delivery of a statement that I will keep making  that is <span class='selected-term'>Brian Kemp</span> is a failed governor who doesn't care about the people of Georgia, Abrams said.",
     "author": "Associated Press",
     "title": "Midterm updates | Nguyen in runoff in Democratic SoS primary",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8724,
+    "mediaId": 1576,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Abrams makes more endorsements in Georgia Democratic runoffs",
+    "sentiment": "-0.454"
   }
 ]

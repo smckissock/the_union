@@ -5,14 +5,21 @@
   "headline": "Georgia voting shattering turnout records after MSNBC, CNN, others ran with 'Jim Crow' accusations",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b280c8d-e64f-4b03-bcc7-4dd35725ab2e/d96c72bd-0e10-4bdb-90eb-55e3bd501ab1/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/georgia-voting-law-media-jim-crow-accusations",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Nikolas Lanum",
   "authorUrl": "https://www.foxnews.com/person/l/nikolas-lanum",
   "termIds": [
-    2095
+    2095,
+    2203,
+    4715,
+    5541,
+    106,
+    327,
+    428,
+    2672
   ],
   "sentences": [
     "Last year, President Biden called the law, known as SB 202, a \"blatant attack on the Constitution and good conscience,\" ascribed it as \"Jim Crow in the 21st century\" and was supportive of Major League Baseball moving the 2021 All-Star Game out of Atlanta as a response.",

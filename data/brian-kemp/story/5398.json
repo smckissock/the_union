@@ -5,14 +5,20 @@
   "headline": "AJC politics reporter Greg Bluestein on his new book and whether Georgia may be 'Flipped' again",
   "image": "https://www.wabe.org/app/uploads/2021/11/AP21306583988294-1-scaled.jpg",
   "link": "https://www.wabe.org/ajc-politics-reporter-greg-bluestein-on-his-new-book-and-whether-georgia-may-be-flipped-again/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1011,
+    1147,
+    2095,
+    4325,
+    227,
+    501,
+    2672
   ],
   "sentences": [
     "In his new book, Flipped: How Georgia Turned Purple and Broke the Monopoly on Republican Power,? Atlanta Journal-Constitution politics reporter Greg Bluestein delves into the characters and narratives that shaped the 2020 election cycle, as well as the attempts to overturn the results.",

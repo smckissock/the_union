@@ -1,17 +1,8 @@
 [
   {
-    "id": 5775,
-    "mediaId": 136,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Rob Minto",
-    "title": "J.D. Vance's Book Sales Got Bigger Boost from Trump Than Netflix",
-    "sentiment": "0.934"
-  },
-  {
     "id": 6450,
     "mediaId": 98,
-    "date": "2022-00-07",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "Fidel Martinez",
     "title": "Latinx Files: J.D. Vance asks if you hate Mexicans",
@@ -20,10 +11,19 @@
   {
     "id": 6322,
     "mediaId": 239,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "DAN SEWELL",
     "title": "Hillbilly to Capitol Hill? Author eyes Senate bid in Ohio",
     "sentiment": "0.433"
+  },
+  {
+    "id": 5775,
+    "mediaId": 136,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Rob Minto",
+    "title": "J.D. Vance's Book Sales Got Bigger Boost from Trump Than Netflix",
+    "sentiment": "0.934"
   }
 ]

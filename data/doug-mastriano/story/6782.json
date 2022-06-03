@@ -5,14 +5,20 @@
   "headline": "Trump Admits 'Ultra-MAGA' Candidate Can't Win Against Democrats",
   "image": "https://d.newsweek.com/en/full/2038597/trump-maga-primary-pennsylvania.webp?w=790&f=296fdfc0daa8e33892cf28ab701b44fa",
   "link": "https://www.newsweek.com/donald-trump-kathy-barnette-cant-win-against-democrats-pennsylvania-1707053",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Fung",
   "authorUrl": "https://www.newsweek.com/authors/katherine-fung",
   "termIds": [
-    3102
+    1147,
+    1839,
+    2491,
+    3102,
+    428,
+    571,
+    2862
   ],
   "sentences": [
     "Former President Donald Trump said conservative commentator Kathy Barnette would be an unsuccessful challenger to the Democratic Party should she win the Republican nomination for Pennsylvania's Senate seat in Tuesday's primary, telling GOP voters that voting for her would be \"a vote against Victory in the Fall!\"",

@@ -1,197 +1,8 @@
 [
   {
-    "id": 6045,
-    "mediaId": 409,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "John McCormack",
-    "title": "Ohio GOP Senate Poll: Vance 26, Mandel 24, Dolan 21",
-    "sentiment": "0"
-  },
-  {
-    "id": 5896,
-    "mediaId": 65,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Polls now closed in Ohio, where the GOP Senate primary is seen a key test of Trump's GOP clout",
-    "sentiment": "0"
-  },
-  {
-    "id": 5908,
-    "mediaId": 136,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Meghan Roos",
-    "title": "Ohio 2022 Primary Live Updates: Trump-Backed J.D. Vance Wins GOP Senate Primary",
-    "sentiment": "0.916"
-  },
-  {
-    "id": 5909,
-    "mediaId": 237,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Joe Maiorana/AP",
-    "title": "Live Blog: Ohio and Indiana Midterm primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5913,
-    "mediaId": 120,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Steve Benen",
-    "title": "Why campaign watchers are keeping an eye on Ohio, Indiana today",
-    "sentiment": "0"
-  },
-  {
-    "id": 5939,
-    "mediaId": 151,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "",
-    "title": "7 ways Tuesdays primaries could shake the 2022 election",
-    "sentiment": "0"
-  },
-  {
-    "id": 5958,
-    "mediaId": 19,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Alana Mastrangelo",
-    "title": "Ohio Gov. Mike DeWine Wins Ohio Republican Primary",
-    "sentiment": "0"
-  },
-  {
-    "id": 5984,
-    "mediaId": 129,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "",
-    "title": "Vance Wins Republican Senate Primary in Ohio After Nod From Trump",
-    "sentiment": "0"
-  },
-  {
-    "id": 5751,
-    "mediaId": 129,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Your Wednesday Evening Briefing",
-    "sentiment": "0"
-  },
-  {
-    "id": 5758,
-    "mediaId": 312,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Philip Elliott",
-    "title": "In Ohio, J.D. Vance Thanked Trump for His Win. Maybe Mike DeWine Should Too.",
-    "sentiment": "-0.165"
-  },
-  {
-    "id": 5789,
-    "mediaId": 120,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Steve Benen",
-    "title": "Michigan Republican defeated after lie back and enjoy it talk",
-    "sentiment": "0"
-  },
-  {
-    "id": 5809,
-    "mediaId": 238,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "2022 Ohio Primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5810,
-    "mediaId": 151,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Here are the Trump-backed candidates who won Tuesday's primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5818,
-    "mediaId": 129,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Vance Wins Republican Senate Primary in Ohio After Nod From Trump",
-    "sentiment": "0"
-  },
-  {
-    "id": 5824,
-    "mediaId": 233,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "David Jackson",
-    "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November",
-    "sentiment": "0.241"
-  },
-  {
-    "id": 5832,
-    "mediaId": 238,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "2022 Ohio Primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 5834,
-    "mediaId": 124,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Vance leads in Ohio Republican Senate primary, remains too early to call",
-    "sentiment": "0"
-  },
-  {
-    "id": 5864,
-    "mediaId": 19,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Katherine Hamilton",
-    "title": "Despite SCOTUS Roe Leak, Republicans Double Democrat Turnout in Ohio Primaries",
-    "sentiment": "0"
-  },
-  {
-    "id": 1732,
-    "mediaId": 195,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "Dennis Aftergut",
-    "title": "J.D. Vance's GOP primary victory in Ohio says little about Trump's endorsement power",
-    "sentiment": "-0.341"
-  },
-  {
-    "id": 5655,
-    "mediaId": 151,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "",
-    "title": "Why the political environment is outweighing candidate strength  for now",
-    "sentiment": "-0.32"
-  },
-  {
-    "id": 5609,
-    "mediaId": 129,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
-    "sentiment": "0"
-  },
-  {
     "id": 6163,
     "mediaId": 157,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "Nick Evans",
     "title": "'We love Trump, but he's not God': Trump fans unmoved by his endorsement of J.D. Vance",
@@ -200,7 +11,7 @@
   {
     "id": 6126,
     "mediaId": 409,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "John McCormack",
     "title": "Does Matt Dolan Have a Shot in the Ohio GOP Senate Race?",
@@ -209,10 +20,199 @@
   {
     "id": 6097,
     "mediaId": 238,
-    "date": "2022-00-28",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "In once mainstream Ohio, moderates struggle against pro-Trump rivals",
     "sentiment": "-0.225"
+  },
+  {
+    "id": 6045,
+    "mediaId": 409,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "John McCormack",
+    "title": "Ohio GOP Senate Poll: Vance 26, Mandel 24, Dolan 21",
+    "sentiment": "0"
+  },
+  {
+    "id": 5896,
+    "mediaId": 65,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Polls now closed in Ohio, where the GOP Senate primary is seen a key test of Trump's GOP clout",
+    "sentiment": "0"
+  },
+  {
+    "id": 5908,
+    "mediaId": 136,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Meghan Roos",
+    "title": "Ohio 2022 Primary Live Updates: Trump-Backed J.D. Vance Wins GOP Senate Primary",
+    "sentiment": "0.916"
+  },
+  {
+    "id": 5909,
+    "mediaId": 237,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Joe Maiorana/AP",
+    "title": "Live Blog: Ohio and Indiana Midterm primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5913,
+    "mediaId": 120,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Steve Benen",
+    "title": "Why campaign watchers are keeping an eye on Ohio, Indiana today",
+    "sentiment": "0"
+  },
+  {
+    "id": 5939,
+    "mediaId": 151,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "7 ways Tuesdays primaries could shake the 2022 election",
+    "sentiment": "0"
+  },
+  {
+    "id": 5958,
+    "mediaId": 19,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Alana Mastrangelo",
+    "title": "Ohio Gov. Mike DeWine Wins Ohio Republican Primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 5984,
+    "mediaId": 129,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Vance Wins Republican Senate Primary in Ohio After Nod From Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 5751,
+    "mediaId": 129,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Your Wednesday Evening Briefing",
+    "sentiment": "0"
+  },
+  {
+    "id": 5758,
+    "mediaId": 312,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Philip Elliott",
+    "title": "In Ohio, J.D. Vance Thanked Trump for His Win. Maybe Mike DeWine Should Too.",
+    "sentiment": "-0.165"
+  },
+  {
+    "id": 5789,
+    "mediaId": 120,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Steve Benen",
+    "title": "Michigan Republican defeated after lie back and enjoy it talk",
+    "sentiment": "0"
+  },
+  {
+    "id": 5809,
+    "mediaId": 238,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "2022 Ohio Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5810,
+    "mediaId": 151,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Here are the Trump-backed candidates who won Tuesday's primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5818,
+    "mediaId": 129,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Vance Wins Republican Senate Primary in Ohio After Nod From Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 5824,
+    "mediaId": 233,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David Jackson",
+    "title": "Ohio primary election live updates: Vance wins Senate race; Ryan tops Democrats; DeWine, Whaley to face off in November",
+    "sentiment": "0.241"
+  },
+  {
+    "id": 5832,
+    "mediaId": 238,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "2022 Ohio Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 5834,
+    "mediaId": 124,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Vance leads in Ohio Republican Senate primary, remains too early to call",
+    "sentiment": "0"
+  },
+  {
+    "id": 5864,
+    "mediaId": 19,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Katherine Hamilton",
+    "title": "Despite SCOTUS Roe Leak, Republicans Double Democrat Turnout in Ohio Primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 1732,
+    "mediaId": 195,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Dennis Aftergut",
+    "title": "J.D. Vance's GOP primary victory in Ohio says little about Trump's endorsement power",
+    "sentiment": "-0.341"
+  },
+  {
+    "id": 5655,
+    "mediaId": 151,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Why the political environment is outweighing candidate strength  for now",
+    "sentiment": "-0.32"
+  },
+  {
+    "id": 5609,
+    "mediaId": 129,
+    "date": "5/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "What Were Watching For in the Nebraska and West Virginia Primaries",
+    "sentiment": "0"
   }
 ]

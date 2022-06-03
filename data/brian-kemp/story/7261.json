@@ -5,14 +5,22 @@
   "headline": "Trump to blame for 'embarrassing' end of David Perdue's political career: Mitch McConnell adviser",
   "image": "https://www.rawstory.com/media-library/david-perdue.jpg?id=29836744&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/donald-trump-david-perdue-2657368143/",
-  "sentiment": "0.0",
+  "sentiment": "-0.23",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Boggioni",
   "authorUrl": "https://www.rawstory.com/u/tom_boggioni",
   "termIds": [
-    2095
+    1147,
+    1765,
+    2095,
+    2329,
+    4177,
+    4325,
+    106,
+    571,
+    2672
   ],
   "sentences": [
     "After co-panelist and former Trump administration spokesperson Alyssa Farah Griffin stated \"Donald Trump's biggest issue that he's facing is that he's making endorsements based on grievance and his own personal vendettas versus who is electable, a good candidate and able to win in a general election,\" Jennings jumped in.",

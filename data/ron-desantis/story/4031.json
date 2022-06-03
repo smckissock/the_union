@@ -5,14 +5,17 @@
   "headline": "The group behind some of DeSantis' most draconian measures",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-05/220503-ROB-Ron-DeSantis-jg-cecb7d.jpg",
   "link": "https://www.msnbc.com/the-reidout/reidout-blog/florida-citizens-alliance-desantis-rcna26901",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "MSNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ja'han Jones",
   "authorUrl": "https://www.msnbc.com/author/ja-jones-ncpn371241",
   "termIds": [
-    661
+    661,
+    1813,
+    2131,
+    2661
   ],
   "sentences": [
     "According to the Daily Beast, the alliances members have previously combed school textbooks for violations of their beliefs, creating carefully detailed reports on how many times, and in what context, elementary and high school students were learning about rising seas, or melting ice in Antarctica.?\nThose efforts preceded the groups successful push for a GOP-backed bill allowing residents to challenge the use of specific texts in school curricula.",

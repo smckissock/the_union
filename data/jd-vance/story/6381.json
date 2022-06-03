@@ -5,14 +5,21 @@
   "headline": "Donald Trump endorses JD Vance for Ohio Senate",
   "image": "https://mediadc.brightspotcdn.com/dims4/default/0d10165/2147483647/strip/true/crop/4429x2325+0+314/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fd5%2Ff5%2Fecd7df3d4dd49269b381945400cf%2Fap22031091354337.jpg",
   "link": "https://www.washingtonexaminer.com/news/senate/donald-trump-endorses-jd-vance-for-ohio-senate",
-  "sentiment": "0",
+  "sentiment": "0.361",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Chris Irvine",
   "authorUrl": "https://www.washingtonexaminer.com/author/chris-irvine",
   "termIds": [
-    3103
+    1147,
+    1766,
+    1801,
+    3103,
+    379,
+    380,
+    428,
+    2845
   ],
   "sentences": [
     "Mandel and Gibbons both openly courted Trump's seal of approval and tried to smear Vance as anti-Trump to an electorate that voted heavily in favor of the former president in both elections.",

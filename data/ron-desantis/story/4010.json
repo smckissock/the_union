@@ -5,14 +5,20 @@
   "headline": "Americas Blue-Red Divide Is About to Get Starker",
   "image": "https://cdn.theatlantic.com/thumbor/4GA1MTup-rJMKyOJ8lm8UBYsdCk=/0x50:5330x3048/1952x1098/media/img/mt/2022/05/GettyImages_1356626908/original.jpg",
   "link": "https://www.theatlantic.com/politics/archive/2022/05/roe-abortion-supreme-court-republican-divide/629768/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Atlantic",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ronald Brownstein",
   "authorUrl": "https://www.theatlantic.com/author/ronald-brownstein/",
   "termIds": [
-    661
+    661,
+    1147,
+    2058,
+    4121,
+    428,
+    482,
+    2945
   ],
   "sentences": [
     "The Republican consultant Brad Todd told me he believes a Roe reversal mostly will drive up Democratic margins in places where they already have margins and increase Republican intensity in places where we already have intensity.? But he sees one segment of the electorate as up for grabs?: mothers who describe themselves as somewhat pro-choice,? a group of voters whom he says want some state restrictions on abortion rights but are supportive of legal access in very early pregnancy.?\nEven small shifts could have big consequences in Novembers Senate and gubernatorial races in purple states such as Georgia, Arizona, and Nevada; across the Sunbelt; and in the perennial Rust Belt battlegrounds of Wisconsin, Pennsylvania, and Michigan.",

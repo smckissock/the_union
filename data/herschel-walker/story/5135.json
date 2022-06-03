@@ -5,7 +5,7 @@
   "headline": "A tidal wave of cash hits Georgias Senate race",
   "image": "https://www.ajc.com/resizer/pFxdROC0g5yP4SGxwHLq_9huvCo=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/TMCVSSM5TVD6TLGDZZYAQSILA4.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/politically-georgia-a-tidal-wave-of-cash-hits-the-senate-race/U2CYVDYNBNBAHK5PIPZ4MI5444/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,11 @@
   "authorUrl": "https://www.ajc.com/staff/patricia-murphy/",
   "termIds": [
     815,
-    2095
+    1011,
+    2095,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "In this episode of the Politically Georgia podcast, AJC political insiders Greg Bluestein and Patricia Murphy breakdown how the Democrat will use the $25 million hes amassed -- and how GOP frontrunner Herschel Walker plans to respond.",

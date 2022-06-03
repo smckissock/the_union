@@ -1,47 +1,38 @@
 [
   {
-    "id": 3829,
-    "mediaId": 233,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "Cady Stanton",
-    "title": "As 'Don't Say Gay' and similar bills take hold, LGBTQ youths feel they're 'getting crushed'",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7141,
-    "mediaId": 19,
-    "date": "2022-00-20",
-    "sentence": "The company has faced severe pushback to their woke agenda, with parents marching on Disney and Florida Governor <span class='selected-term'>Ron Desantis</span> rescinding the multinationals self-governing status in Orlando.",
-    "author": "Spencer Lindquist",
-    "title": "Disney Releases LGBTQ Pride-Themed Toys Marketed to Children",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7154,
-    "mediaId": 19,
-    "date": "2022-00-20",
-    "sentence": "",
-    "author": "David Ng",
-    "title": "Disney Giving Pride Collection Profits to Groups Fighting Floridas Anti-Grooming Law",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4448,
     "mediaId": 558,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "This law, I see as an effort to take away the years that weve put in trying to make this a better place for kids so they dont have to grow up like I grew up, where I thought I was all alone and then I barely made it through high school.?\nFloridas teachers, students, and LGBTQ community are continuing to speak out against the bill that was signed by right-wing Trump-supporting governor <span class='selected-term'>Ron DeSantis</span> last month.",
     "author": "Michael Sainato",
     "title": "Hurtful and insulting: Florida teachers react to the dont say gay bill",
     "sentiment": "0"
   },
   {
-    "id": 4448,
-    "mediaId": 558,
-    "date": "2022-00-29",
-    "sentence": "This law, I see as an effort to take away the years that weve put in trying to make this a better place for kids so they dont have to grow up like I grew up, where I thought I was all alone and then I barely made it through high school.?\nFloridas teachers, students, and LGBTQ community are continuing to speak out against the bill that was signed by right-wing Trump-supporting governor <span class='selected-term'>Ron DeSantis</span> last month.",
-    "author": "Michael Sainato",
-    "title": "Hurtful and insulting: Florida teachers react to the dont say gay bill",
-    "sentiment": "0.0"
+    "id": 3829,
+    "mediaId": 233,
+    "date": "5/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Cady Stanton",
+    "title": "As 'Don't Say Gay' and similar bills take hold, LGBTQ youths feel they're 'getting crushed'",
+    "sentiment": "0"
+  },
+  {
+    "id": 7141,
+    "mediaId": 19,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "The company has faced severe pushback to their woke agenda, with parents marching on Disney and Florida Governor <span class='selected-term'>Ron Desantis</span> rescinding the multinationals self-governing status in Orlando.",
+    "author": "Spencer Lindquist",
+    "title": "Disney Releases LGBTQ Pride-Themed Toys Marketed to Children",
+    "sentiment": "0"
+  },
+  {
+    "id": 7154,
+    "mediaId": 19,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David Ng",
+    "title": "Disney Giving Pride Collection Profits to Groups Fighting Floridas Anti-Grooming Law",
+    "sentiment": "0"
   }
 ]

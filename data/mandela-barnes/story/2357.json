@@ -5,7 +5,7 @@
   "headline": "Gov. Tony Evers isn't endorsing any candidates in the Democratic primary for U.S. Senate",
   "image": "https://www.gannett-cdn.com/presto/2022/02/16/PMJS/25d3d417-011b-48cb-a2f0-5d334208bc85-MJS_state16_15.jpg_state16.JPG?crop=2903,1633,x0,y0&width=2903&height=1633&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/03/17/tony-evers-isnt-endorsing-democratic-primary-u-s-senate/7079625001/",
-  "sentiment": "0.0",
+  "sentiment": "0.341",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,14 @@
     741,
     802,
     1568,
-    2039
+    1925,
+    2039,
+    2145,
+    146,
+    428,
+    571,
+    2855,
+    2945
   ],
   "sentences": [
     "\"Mandela Barnes knows that as the leader of the party, Governor Evers cannot get involved in the primary,\" said a statement from Maddy McDaniel, a Barnes' campaign spokeswoman.",

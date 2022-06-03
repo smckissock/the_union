@@ -2,10 +2,19 @@
   {
     "id": 7202,
     "mediaId": 151,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "His preferred Senate candidate in Georgia, <span class='selected-term'>Herschel Walker</span>, is favored to win.",
     "author": "",
     "title": "'No one's paying any attention': The week that Republicans ignored Trump's election lies",
+    "sentiment": "0"
+  },
+  {
+    "id": 8926,
+    "mediaId": 238,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "In Georgia, Josh Clark, a Republican Senate candidate who recently lost the primary to former football star <span class='selected-term'>Herschel Walker</span>, said in March that he planned to give away an AR-15 every week until the election.",
+    "author": "Colby Itkowitz",
+    "title": "Guns are all over GOP ads and social media, prompting some criticism",
     "sentiment": "0"
   }
 ]

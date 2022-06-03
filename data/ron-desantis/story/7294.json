@@ -5,7 +5,7 @@
   "headline": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now",
   "image": "https://static01.nyt.com/images/2022/05/23/opinion/23conversation_1/23conversation_1-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/05/23/opinion/heard-depp-trial.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,17 @@
   "authorUrl": "",
   "termIds": [
     661,
+    1147,
+    1539,
+    2030,
+    2087,
     2095,
     2303,
-    3094
+    3094,
+    3754,
+    4325,
+    5547,
+    2672
   ],
   "sentences": [
     "I think the case serves as a reminder that the current politicized vision of relationships  in which men always hold all the power, including physical power; women are generally presumed to be the victimized party, as well as the honest one; and romantic relationships are supposed to abide by the dictates of a legal brief, not the alchemy of desire  just doesn't conform to the way most people experience life.",

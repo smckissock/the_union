@@ -6,7 +6,7 @@
     "sentence": "But that means Tudor Dixon, Michael Brown, Donna Brandenburg, <span class='selected-term'>Ralph Rebandt</span> and Michael Markey won't be onstage with their competitors.",
     "author": "Dave Boucher",
     "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3454,
@@ -15,7 +15,7 @@
     "sentence": "Michael Brown of Stevensville, Byron Center businesswoman Donna Brandenburg, Farmington Hills Pastor <span class='selected-term'>Ralph Rebandt</span>, and Grand Haven financial adviser Michael Markey would not be onstage with their competitors.",
     "author": "Paul Egan",
     "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7301,
@@ -24,7 +24,7 @@
     "sentence": "Those qualifying for the ballot would be Dixon, a former conservative TV news host who netted the DeVos family endorsement earlier Monday; chiropractor and grass-roots activist Garrett Soldano; wealthy self-funding businessman Kevin Rinke; real estate broker and anti-coronavirus lockdown activist Ryan Kelley; and pastor <span class='selected-term'>Ralph Rebandt</span>.",
     "author": "DAVID EGGERT",
     "title": "Primary problem: Michigan GOP governor candidates short signatures",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7300,
@@ -33,7 +33,7 @@
     "sentence": "Also on the ballot, and suddenly in much stronger positions, are:Ottawa County real estate agent Ryan Kelley; Farmington Hills pastor <span class='selected-term'>Ralph Rebandt</span>; Bloomfield Hills businessman Kevin Rinke, and Kalamazoo chiropractor Garrett Soldano.",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7473,
@@ -42,6 +42,33 @@
     "sentence": "",
     "author": "",
     "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8663,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The five remaining GOP gubernatorial candidates include Tudor Dixon, Ryan Kelley, <span class='selected-term'>Ralph Rebandt</span>, Kevin Rinke and Garrett Soldano.",
+    "author": "Amy B Wang",
+    "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
+    "sentiment": "0"
+  },
+  {
+    "id": 8670,
+    "mediaId": 157,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon King",
+    "title": "Michigan 'quality guru' Perry Johnson remains off August primary ballot after unanimous court ruling",
+    "sentiment": "0"
+  },
+  {
+    "id": 8655,
+    "mediaId": 157,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
   }
 ]

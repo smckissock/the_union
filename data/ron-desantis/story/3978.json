@@ -5,14 +5,17 @@
   "headline": "Conservatives roast comedy writer for saying nobody mourns 'miscarriages': Delete your account",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7371c3d8-a5eb-4428-b4f5-f56ddb0fa9a7/2f70f7b2-be7a-4dc4-ae37-6c6021616897/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/conservatives-roast-comedy-writer-mourns-miscarriages-delete-account",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2058,
+    4260,
+    2945
   ],
   "sentences": [
     "DEVOUT CATHOLIC BIDEN TORCHED FOR APPEALING TO HIS RIGHTS AS A CHILD OF GOD TO JUSTIFY ABORTION\nHe later wrote, \"Nobody who says abortion is murder is out carrying signs that and miscarriages are suicide.\"\nHe then brought God into it, writing, \"Nobody who says a fetus is a life that [G]od wanted to bring into the world talks about how a million times a year he just, uh, changes his mind.\"",

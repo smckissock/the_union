@@ -5,14 +5,22 @@
   "headline": "Florida Teacher Fired for Discussing Sexual Orientation Sparks Debate",
   "image": "",
   "link": "https://www.newsweek.com/florida-teacher-fired-discussing-sexual-orientation-pansexual-sparks-debate-1703691",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Gerrard Kaonga",
   "authorUrl": "https://www.newsweek.com/authors/gerrard-kaonga",
   "termIds": [
-    661
+    661,
+    4138,
+    539,
+    3202,
+    3450,
+    3508,
+    2661,
+    4944,
+    5117
   ],
   "sentences": [
     "The bill's entire seven pages essentially establish into law the idea that \"classroom instruction by school personnel or third parties on sexual orientation or gender identity may not occur in kindergarten through grade 3 or in a manner that is not age appropriate or developmentally appropriate for students in accordance with state standards.\"",

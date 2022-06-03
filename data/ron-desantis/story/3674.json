@@ -5,14 +5,20 @@
   "headline": "DeSantis Win: Judge Dismisses Lawsuit Challenging Floridas Law to Dissolve Disneys Special District",
   "image": "https://media.breitbart.com/media/2022/04/rondesantisDisney5-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/12/desantis-win-judge-dismisses-lawsuit-over-revoking-disneys-special-district/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sean Moran",
   "authorUrl": "https://www.breitbart.com/author/sean-moran/",
   "termIds": [
-    661
+    661,
+    4508,
+    524,
+    2661,
+    2788,
+    2849,
+    5082
   ],
   "sentences": [
     "Anltonaga wrote that the residents do not plausibly allege they have suffered any concrete injury as a result of the alleged violation of Disneys First Amendment rights, and nothing in the Complaint shows Plaintiffs have a close relationship with Disney.?\nThe judge also dismissed claims that dissolving the Disney corporate carveout, otherwise known as the Reedy Creek Improvement District, would limit free speech:\nFar from it: Plaintiffs expressly allege that they expect Disney and the State of Florida to litigate this matter for a significant period of time[.",

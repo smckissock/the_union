@@ -5,14 +5,19 @@
   "headline": "Columna: La violencia armada aumenta cuando aumenta el acceso a las armas",
   "image": "https://cst.brightspotcdn.com/dims4/default/3dfa490/2147483647/strip/true/crop/3771x2514+193+0/resize/1680x1120!/format/webp/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FASiT33-E_ZctNqtt_n-m0Wka9Q4%3D%2F0x0%3A4155x2514%2F4155x2514%2Ffilters%3Afocal%282078x1257%3A2079x1258%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23433981%2FGUNS_020121_7.jpg",
   "link": "https://chicago.suntimes.com/la-voz/2022/5/3/23055509/columna-la-violencia-armada-aumenta-cuando-aumenta-el-acceso-a-las-armas-chicago-espanol-la-voz",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Chicago Sun-Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jesse Jackson",
   "authorUrl": "https://chicago.suntimes.com/authors/jesse-jackson",
   "termIds": [
-    661
+    661,
+    1147,
+    1335,
+    1609,
+    3177,
+    2942
   ],
   "sentences": [
     "En las ciudades, necesitamos nuevos esfuerzos para reunir a todas las partes interesadasfuncionarios, lderes comunitarios, clrigos de todas las religiones, lderes de las pandillas, policapara debatir formas de reducir el nivel de violencia y deshacerse de las armas.",

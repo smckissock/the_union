@@ -5,15 +5,23 @@
   "headline": "Axios: Breitbart News Readers, Trump's Small-Dollar Donors Steer Modern' GOP as Corporate Class Fades",
   "image": "https://media.breitbart.com/media/2022/02/breitbart-populism-getty-ap-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/02/05/axios-breitbart-news-readers-trumps-small-dollar-donors-steer-modern-gop-as-corporate-class-fades/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John Binder",
   "authorUrl": "https://www.breitbart.com/author/john-binder/",
   "termIds": [
+    683,
+    1147,
+    1767,
+    1801,
+    1828,
     2006,
-    3094
+    3094,
+    54,
+    428,
+    451
   ],
   "sentences": [
     "For the 2022 midterms, nearly 100 Republican lawmakers have accepted donations from the Koch Industries PAC, including Reps. Liz Cheney (R-WY), Jeff Duncan (R-SC), Don Bacon (R-NE), Tony Gonzalez (R-TX), Adam Kinzinger (R-IL), Ashley Hinson (R-IA), Julia Letlow (R-LA), Jackie Walorski (R-IN), Garret Graves (R-LA), Jim Banks (R-IN), Byron Donalds (R-FL), Yvette Herrell (R-NM), and Jim Jordan (R-OH), among others.",

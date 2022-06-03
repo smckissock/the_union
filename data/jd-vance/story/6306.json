@@ -5,14 +5,23 @@
   "headline": "Trump Jr. to stump for Vance in Ohio ahead of fathers rally",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2020/10/donaldtrumpjr_1082020_gettyimages.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/campaign/3272058-trump-jr-to-stump-for-vance-in-ohio-ahead-of-fathers-rally/",
-  "sentiment": "0",
+  "sentiment": "0.852",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mychael Schnell",
   "authorUrl": "https://thehill.com/author/mychael-schnell/",
   "termIds": [
-    3103
+    1053,
+    1147,
+    1801,
+    3103,
+    380,
+    428,
+    539,
+    3116,
+    2845,
+    5017
   ],
   "sentences": [
     "Days before announcing his endorsement, Trumps leadership PAC Save America announced that the former president would rally supporters in the Buckeye State on April 23.",

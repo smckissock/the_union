@@ -5,7 +5,7 @@
   "headline": "US Senate candidate Godlewski unveils rural Wisconsin plan",
   "image": "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1643134865",
   "link": "https://www.startribune.com/us-senate-candidate-godlewski-unveils-rural-wisconsin-plan/600139408/",
-  "sentiment": "0.0",
+  "sentiment": "0.553",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,14 @@
     741,
     802,
     1568,
-    2039
+    2039,
+    571,
+    2651,
+    2680,
+    2771,
+    2793,
+    2856,
+    2972
   ],
   "sentences": [
     "She also calls for expanding loan forgiveness programs to entice more teachers, farmers, health care workers and others to live in rural areas; creating incentives for farmers to use biofuels, carbon capture, crop rotation to help the environment; and ban the future use of PFAS, known as forever chemicals because they linger in the environment",

@@ -5,14 +5,22 @@
   "headline": "'Anxious' Trump fears he's losing control of the GOP -- and wants to launch his 2024 campaign this summer",
   "image": "https://www.rawstory.com/media-library/donald-trump.jpg?id=29869608&width=1200&coordinates=0%2C18%2C0%2C36&height=600",
   "link": "https://www.rawstory.com/donald-trump-2024-2657406446/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Boggioni",
   "authorUrl": "https://www.rawstory.com/u/tom_boggioni",
   "termIds": [
-    661
+    661,
+    723,
+    1147,
+    1434,
+    1636,
+    6207,
+    428,
+    517,
+    2945
   ],
   "sentences": [
     "As the Times report states, \"After the first phase of the primary season concluded on Tuesday, a month in which a quarter of America's states cast their ballots, the verdict has been clear: Mr. Trump's aura of untouchability in Republican politics has been punctured.,\" adding, \"The mounting losses have emboldened Mr. Trump's rivals inside the party to an extent not seen since early 2016 and increased the chances that, should he run again in 2024, he would face serious competition.\"",

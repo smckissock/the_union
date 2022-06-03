@@ -5,14 +5,16 @@
   "headline": "Georgia governor signs controversial education bill, transgender athlete ban into law",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/04/CA_kempbrian_022922_ap.jpg?w=1439&h=880&crop=1",
   "link": "https://thehill.com/changing-america/respect/equality/3471707-georgia-governor-signs-controversial-education-bill-transgender-athlete-ban-into-law/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    674,
+    2095,
+    2672
   ],
   "sentences": [
     "Tennessee late last week added harsher penalties to the states existing transgender athlete ban, while the Kansas legislature on Thursday sustained the governors veto of legislation to bar transgender athletes from playing on sports teams consistent with their gender identity.",

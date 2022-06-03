@@ -5,14 +5,24 @@
   "headline": "Two GOP senators have yet to say if they're running for reelection in November",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6cae015-856f-423d-8559-1881a8a25514/eab076a3-948e-487a-9819-3771cb50d6b5/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/the-two-senators-whove-yet-to-say-if-theyre-running-for-reelection-in-november",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Steinhauser",
   "authorUrl": "https://www.foxnews.com/person/s/paul-steinhauser",
   "termIds": [
-    2039
+    1147,
+    1925,
+    1963,
+    2039,
+    2087,
+    146,
+    428,
+    562,
+    571,
+    2911,
+    2972
   ],
   "sentences": [
     "Johnson stirred controversy in 2021 by questioning COVID-19 vaccines, seemingly downplaying the effects of climate change, and asserting that he never felt threatened by the rioters that stormed the U.S. Capitol on Jan. 6 of last year as they attempted to disrupt congressional certification of Biden's Electoral College victory over then-President Donald Trump.",

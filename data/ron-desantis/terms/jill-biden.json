@@ -1,29 +1,29 @@
 [
   {
+    "id": 4329,
+    "mediaId": 223,
+    "date": "4/30/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Rebecca Downs",
+    "title": "Buried in POLITICO Report is Mention of How Biography on Jill Biden Fared, and the Numbers Are Catastrophic",
+    "sentiment": "0"
+  },
+  {
     "id": 4043,
     "mediaId": 65,
-    "date": "2022-00-04",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "Hanna Panreck",
     "title": "New MSNBC host gets defensive when reporter suggests she might give Jill Biden softball interview",
     "sentiment": "0"
   },
   {
-    "id": 4043,
-    "mediaId": 65,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Hanna Panreck",
-    "title": "New MSNBC host gets defensive when reporter suggests she might give Jill Biden softball interview",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4329,
-    "mediaId": 223,
-    "date": "2022-00-30",
-    "sentence": "",
-    "author": "Rebecca Downs",
-    "title": "Buried in POLITICO Report is Mention of How Biography on Jill Biden Fared, and the Numbers Are Catastrophic",
-    "sentiment": "0.0"
+    "id": 8782,
+    "mediaId": 32,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "More from NBC News:\nFull-throttle: How the Florida Legislature is making <span class='selected-term'>Ron DeSantis</span> into a GOP juggernaut\nFBI blocked planned cyberattack on childrens hospital, director says\nAll of these kids are angels: Family and friends say goodbye to Uvalde victims\nFor so many of you at home, I want to be very clear, this is not about taking away anyones guns.",
+    "author": "Shannon Pettypiece",
+    "title": "Biden calls on Congress to act on gun control, saying hospitals and schools have become killing fields",
+    "sentiment": "0"
   }
 ]

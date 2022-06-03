@@ -5,7 +5,7 @@
   "headline": "Christian nationalism is shaping a Pa. primary  and a GOP shift",
   "image": "",
   "link": "https://www.washingtonpost.com/religion/2022/05/16/mastriano-pennsylvania-republican-christian-nationalism/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://www.washingtonpost.com/people/michelle-boorstein/",
   "termIds": [
     661,
-    3102
+    1990,
+    2087,
+    3102,
+    3808,
+    3952,
+    428,
+    2945,
+    5094
   ],
   "sentences": [
     "There is no evangelical Dad vibe coming off Mastriano,? said Yale sociologist Philip Gorski, co-author of The Flag and the Cross: White Christian Nationalism and the Threat to American Democracy.?\nMastriano marks a shift from the culture wars of Falwell, who once went after one of the Teletubbies because he thought it was gay, to trench warfare in a supernatural realm with demonic forces.?\nIts not Ralph Reed like a general sitting somewhere behind the front with electoral maps and polling data and voter files,? Gorski said, referring to the veteran political consultant and first leader of the Christian Coalition.",

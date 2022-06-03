@@ -5,14 +5,22 @@
   "headline": "Trump-backed candidate J.D. Vance wins in Ohio Republican Senate primary",
   "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTc1Njg2MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcwNjk0MzU4NX0.NqxQXNJmeq9n1W6zOQK8DyAXbaPgwVtT0_t0bGKMeNs/img.jpg?width=1245&quality=85&coordinates=0%2C107%2C0%2C100&height=700",
   "link": "https://www.theblaze.com/news/vance-wins-ohio-gop-primary",
-  "sentiment": "0",
+  "sentiment": "0.328",
   "mediaOutlet": "The Blaze",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Carlos Garcia",
   "authorUrl": "https://www.theblaze.com/u/carlosgarcia",
   "termIds": [
-    3103
+    946,
+    1147,
+    1710,
+    1801,
+    3103,
+    428,
+    571,
+    3481,
+    2845
   ],
   "sentences": [
     "Vance is best-known for writing \"Hillbilly Elegy,\" a New York Times bestseller documenting the political changes among working class white people in the beleaguered region of Appalachia.",

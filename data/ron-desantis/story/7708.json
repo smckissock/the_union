@@ -5,7 +5,7 @@
   "headline": "Will Alaskans Welcome Sarah Palins Political Comeback?",
   "image": "https://static01.nyt.com/images/2022/04/18/multimedia/18onpolitics-palin02/18onpolitics-palin02-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/04/20/us/politics/sarah-palin-alaska.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "",
   "termIds": [
     661,
-    815
+    815,
+    1549,
+    2137,
+    5800,
+    5823,
+    5965,
+    5981,
+    571,
+    2538,
+    2544,
+    6061
   ],
   "sentences": [
     "He was also pulling on a string that threatened to unravel an arrangement the state made with Disney in 1967 that granted the company extraordinary power over a 39-square-mile patch of former swampland in Central Florida  an unusual experiment in local governance that has few American counterparts.",

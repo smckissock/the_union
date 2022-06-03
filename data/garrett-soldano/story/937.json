@@ -5,14 +5,24 @@
   "headline": "Why aren't Republicans worried their fanatical culture war will hurt them in the midterms?",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/02/akin-desantis-abbott-mandel-0225221.jpg",
   "link": "https://www.salon.com/2022/03/02/why-arent-worried-their-fanatical-culture-will-hurt-them-in-the-midterms/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Amanda Marcotte",
   "authorUrl": "https://www.salon.com/writer/amanda_marcotte",
   "termIds": [
-    2298
+    800,
+    1017,
+    2250,
+    2298,
+    2305,
+    2342,
+    146,
+    428,
+    2661,
+    2934,
+    2945
   ],
   "sentences": [
     "Republicans want to make the 2022 elections a referendum on President Joe Biden's supposed failures to end the pandemic or bring inflation under control, even though the former is wholly the fault of Republicans themselves for encouraging vaccine rejection and the latter is not something, say, re-electing a Republican governor of Texas will change in any way.",

@@ -5,14 +5,22 @@
   "headline": "As G.O.P. Candidates Face Accusations, Rivals Tread Carefully",
   "image": "https://static01.nyt.com/images/2022/04/15/us/politics/00pol-gopabuse-Hartzler-sub/00pol-gopabuse-Hartzler-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/04/15/us/politics/republicans-accusations-women.html",
-  "sentiment": "0.0",
+  "sentiment": "-0.761",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    904,
+    1147,
+    2365,
+    3010,
+    3918,
+    5811,
+    428,
+    2799
   ],
   "sentences": [
     "Even in 2018, when women were widely seen as having delivered the House to Democrats in response to the Trump presidency, Republican women were no more likely to vote for Democrats than they had been two years before, said Erin C. Cassese, a professor of political science at the University of Delaware who studies womens voting patterns.",

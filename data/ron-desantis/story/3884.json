@@ -5,14 +5,16 @@
   "headline": "Schmidt: American people collateral damage as culture wars rage",
   "image": "https://www.bostonherald.com/wp-content/uploads/2022/04/AP22046712121221-1280x854-1.jpg?w=1280",
   "link": "https://www.bostonherald.com/2022/05/07/bhr-z-schmidt-oped-0507/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Boston Herald",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lynn Schmidt",
   "authorUrl": "https://www.bostonherald.com/author/lynn-schmidt/",
   "termIds": [
-    661
+    661,
+    1241,
+    2661
   ],
   "sentences": [
     "In March, Floridas Republican governor, Ron DeSantis, signed the Parental Rights in Education Bill,? which reinforces parents rights to make decisions regarding the upbringing of their children.? The bill prohibits classroom instruction on sexual orientation or gender identity in kindergarten through third grade and prohibits instruction that is not age appropriate for students and requires school districts to adopt procedures for notifying parents if there is a change in services from the school regarding a childs mental, emotional or physical health or well-being.",

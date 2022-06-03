@@ -5,14 +5,22 @@
   "headline": "'Gambler' Trump is going against advisers by endorsing risky candidates like Dr. Oz and JD Vance, report says",
   "image": "https://i.insider.com/61e85bd59386c900185f5d6c?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-endorsing-risky-candidates-dr-oz-and-jd-vance-2022-4",
-  "sentiment": "0.0",
+  "sentiment": "-0.514",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Alia Shoaib",
   "authorUrl": "https://www.businessinsider.com/author/alia-shoaib",
   "termIds": [
-    2095
+    1147,
+    1653,
+    1801,
+    2095,
+    2491,
+    4034,
+    4325,
+    2550,
+    2866
   ],
   "sentences": [
     "\"The biggest way to defeat him is to electorally chip away at the notion he is the most powerful endorsement in the country,\" Alyssa Farah Griffin, a former Trump White House communications director turned critic, told The Post.",

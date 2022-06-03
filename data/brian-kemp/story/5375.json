@@ -5,14 +5,16 @@
   "headline": "Georgia lawmakers OK parent rights, divisive concepts ban",
   "image": "https://www.wabe.org/app/uploads/2022/01/AP21196506418357-e1626365742876-336x189.jpg",
   "link": "https://www.wabe.org/georgia-lawmakers-ok-parent-rights-divisive-concepts-ban/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    571,
+    2672
   ],
   "sentences": [
     "We dont defeat racism with racism.?\nBanned divisive concepts? would include claims that the U.S. is fundamentally or systematically racist,? that any people are inherently racist or oppressive, whether consciously or unconsciously,? and that no one should feel discomfort, guilt, anguish, or any other form of psychological distress because of his or her race.? Bills using identical language have been proposed in dozens of states, backed by the Center for Renewing America, a think tank led by former Trump administration officials.",

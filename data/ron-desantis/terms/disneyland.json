@@ -1,53 +1,8 @@
 [
   {
-    "id": 3696,
-    "mediaId": 21,
-    "date": "2022-00-11",
-    "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
-    "author": "Claire Atkinson",
-    "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
-    "sentiment": "-0.465"
-  },
-  {
-    "id": 3696,
-    "mediaId": 21,
-    "date": "2022-00-11",
-    "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
-    "author": "Claire Atkinson",
-    "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3599,
-    "mediaId": 98,
-    "date": "2022-00-14",
-    "sentence": "",
-    "author": "",
-    "title": "How does Disneyland rate a year after its COVID-era reopening?",
-    "sentiment": "0"
-  },
-  {
-    "id": 3599,
-    "mediaId": 98,
-    "date": "2022-00-14",
-    "sentence": "",
-    "author": "",
-    "title": "How does Disneyland rate a year after its COVID-era reopening?",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3465,
-    "mediaId": 195,
-    "date": "2022-00-19",
-    "sentence": "",
-    "author": "",
-    "title": "Disney renames annual Rainbow Disney clothing line to Disney Pride collection",
-    "sentiment": "0.0"
-  },
-  {
     "id": 6220,
     "mediaId": 238,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
@@ -56,28 +11,64 @@
   {
     "id": 6220,
     "mediaId": 238,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4443,
     "mediaId": 65,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "DeSantis blasts Disney execs attack on parents: 'Walt Disney would not want that'",
     "sentiment": "0"
   },
   {
-    "id": 4443,
-    "mediaId": 65,
-    "date": "2022-00-29",
+    "id": 3696,
+    "mediaId": 21,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
+    "author": "Claire Atkinson",
+    "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
+    "sentiment": "-0.465"
+  },
+  {
+    "id": 3696,
+    "mediaId": 21,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "Communications misfires led to a rapid executive departure\nDisney has spent weeks in the headlines thanks to the Republican governor of Florida, <span class='selected-term'>Ron DeSantis</span>, over the state's \"Don't Say Gay\" legislation, which bans elementary school classroom discussion of sexual orientation or gender identity.",
+    "author": "Claire Atkinson",
+    "title": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
+    "sentiment": "0"
+  },
+  {
+    "id": 3599,
+    "mediaId": 98,
+    "date": "5/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
-    "title": "DeSantis blasts Disney execs attack on parents: 'Walt Disney would not want that'",
-    "sentiment": "0.0"
+    "title": "How does Disneyland rate a year after its COVID-era reopening?",
+    "sentiment": "0"
+  },
+  {
+    "id": 3465,
+    "mediaId": 195,
+    "date": "5/19/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Disney renames annual Rainbow Disney clothing line to Disney Pride collection",
+    "sentiment": "0"
+  },
+  {
+    "id": 8842,
+    "mediaId": 18,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Tribune News Service",
+    "title": "How Disney parks could change post-coronavirus",
+    "sentiment": "0"
   }
 ]

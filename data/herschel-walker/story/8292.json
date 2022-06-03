@@ -5,14 +5,22 @@
   "headline": "Georgia snaps 41-year title drought with 33-18 win over Alabama",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-01/220110-indianapolis-georgia-bulldogs-ac-1155p-88ae98.jpg",
   "link": "https://www.nbcnews.com/news/sports/georgia-snaps-41-year-title-drought-33-18-win-alabama-rcna11729",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    5871,
+    5891,
+    5894,
+    5589,
+    5648,
+    2537,
+    2672,
+    2711
   ],
   "sentences": [
     "INDIANAPOLIS  Stetson Bennett delivered the biggest throws of his storybook career and Georgias defense sealed the sweetest victory in program history, vanquishing rival Alabama 33-18 Monday night for its first national title in 41 years.",

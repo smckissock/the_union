@@ -1,38 +1,47 @@
 [
   {
-    "id": 6892,
-    "mediaId": 129,
-    "date": "2022-00-08",
-    "sentence": "Lou Barletta, a former congressman and one of two front-runners in the race, has said he would sign any bill that comes to my desk that would protect the life of the unborn.?\nAnother top candidate, <span class='selected-term'>Doug Mastriano</span>, said in a recent debate that he was opposed to any exceptions  for rape, incest or the health of the mother  in an abortion ban.",
-    "author": "",
-    "title": "Midterms Biggest Abortion Battleground: Pennsylvania",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7000,
     "mediaId": 43,
-    "date": "2022-00-09",
+    "date": "3/9/2022 12:00:00 AM",
     "sentence": "GOP candidates who campaigned with these hate groups include Lou Barletta, <span class='selected-term'>Doug Mastriano</span>, Dave White, Bill McSwain and Guy Ciarrocchi.",
     "author": "",
     "title": "Josh Shapiro (D) Makes The Case Why PA GOP Deserve The Blame For Price Gouging At The Pump",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6679,
-    "mediaId": 147,
-    "date": "2022-00-18",
-    "sentence": "Shapiros advertising in recent weeks has included spots introducing him to voters, but he also has targeted state Sen. <span class='selected-term'>Doug Mastriano</span> as the Republican gubernatorial candidate emerged from the large primary field as a front-runner.",
-    "author": "Associated Press",
-    "title": "Josh Shapiro wins unopposed Democratic primary for Pennsylvania governor",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 6981,
     "mediaId": 157,
-    "date": "2022-00-31",
+    "date": "3/31/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "'This is a charade': Pennsylvania Democrats walk out of GOP-led election hearing",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 6892,
+    "mediaId": 129,
+    "date": "5/8/2022 12:00:00 AM",
+    "sentence": "Lou Barletta, a former congressman and one of two front-runners in the race, has said he would sign any bill that comes to my desk that would protect the life of the unborn.?\nAnother top candidate, <span class='selected-term'>Doug Mastriano</span>, said in a recent debate that he was opposed to any exceptions  for rape, incest or the health of the mother  in an abortion ban.",
+    "author": "",
+    "title": "Midterms Biggest Abortion Battleground: Pennsylvania",
+    "sentiment": "0"
+  },
+  {
+    "id": 6679,
+    "mediaId": 147,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "Shapiros advertising in recent weeks has included spots introducing him to voters, but he also has targeted state Sen. <span class='selected-term'>Doug Mastriano</span> as the Republican gubernatorial candidate emerged from the large primary field as a front-runner.",
+    "author": "Associated Press",
+    "title": "Josh Shapiro wins unopposed Democratic primary for Pennsylvania governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 8683,
+    "mediaId": 65,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "In response to that move, two Republicans  GOP gubernatorial nominee <span class='selected-term'>Doug Mastriano</span> and state Sen. Scott Hutchinson  introduced a bill to slash energy production regulations and withdraw Pennsylvania from the Regional Greenhouse Gas Initiative (RGGI).",
+    "author": "",
+    "title": "Newt Gingrich blasts Pennsylvania Democrats' entry in 'green' energy initiative",
+    "sentiment": "0"
   }
 ]

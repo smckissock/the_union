@@ -5,14 +5,20 @@
   "headline": "The Jolt: Internal poll shows voter support for Buckhead cityhood down",
   "image": "https://s3.documentcloud.org/documents/21185283/pages/buckhead-poll-p1-normal.gif?ts=1643031975659",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-internal-poll-shows-buckhead-cityhood-down-andre-dickens-up/4R4L4TQBYRC5PJD7KZ2BTSLWGU/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tia Mitchell",
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
-    815
+    815,
+    1178,
+    501,
+    513,
+    2555,
+    2586,
+    2672
   ],
   "sentences": [
     "2022 2021 RIGHT DIRECTION .......................................................... 40% 39% WRONG TRACK ............................................................... 50% 56% DON'T KNOW/NO OPINION ........................................... 10% 6%\nAyres said two specific dynamics in the poll are notable.",

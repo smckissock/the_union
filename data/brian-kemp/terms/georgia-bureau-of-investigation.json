@@ -2,16 +2,25 @@
   {
     "id": 8205,
     "mediaId": 43,
-    "date": "2022-00-01",
+    "date": "2/1/2022 12:00:00 AM",
     "sentence": "The Democrats walked all over <span class='selected-term'>Brian Kemp</span>, Trump yells, adding, He was afraid of Stacey The Hoax Abrams.",
     "author": "Rebekah Sager",
     "title": "Perdue kicks off his Stop Stacey campaign with a promise of an election fraud police force",
     "sentiment": "-0.812"
   },
   {
+    "id": 1334,
+    "mediaId": 19,
+    "date": "2/19/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Ashley Oliver",
+    "title": "Exclusive  Gov. Brian Kemp Urges Buckhead City Debate: Atlanta Mayor Needs to Feel Pressure' on Crime",
+    "sentiment": "0"
+  },
+  {
     "id": 5305,
     "mediaId": 124,
-    "date": "2022-00-05",
+    "date": "4/5/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Georgia lawmakers pass bill allowing state police to investigate voter fraud",
@@ -20,7 +29,7 @@
   {
     "id": 5307,
     "mediaId": 163,
-    "date": "2022-00-05",
+    "date": "4/5/2022 12:00:00 AM",
     "sentence": "Trump has fiercely criticized Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger, both fellow Republicans, for their refusal to overturn the results of the 2020 election, in which President Joe Biden became the first Democrat in nearly 30 years to win the state.",
     "author": "Joseph Ax",
     "title": "Georgia Republicans pass bill empowering law enforcement to investigate elections",
@@ -29,7 +38,7 @@
   {
     "id": 5317,
     "mediaId": 558,
-    "date": "2022-00-05",
+    "date": "4/5/2022 12:00:00 AM",
     "sentence": "Trump has fiercely criticized Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger, both fellow Republicans, for their refusal to overturn the results of the 2020 election, in which President Joe Biden became the first Democrat in nearly 30 years to win the state.",
     "author": "",
     "title": "Georgia Republicans pass bill empowering law enforcement to investigate elections",
@@ -38,7 +47,7 @@
   {
     "id": 5285,
     "mediaId": 305,
-    "date": "2022-00-06",
+    "date": "4/6/2022 12:00:00 AM",
     "sentence": "In January, former Senator and current Republican Gubernatorial candidate David Purdue called for an election police unit, to do what <span class='selected-term'>Brian Kemp</span> has failed to do? to make Georgia elections the safest and securest.? Secretary of State Brad Raffensperger stated that voter fraud is not widespread in Georgia.",
     "author": "Murjani Rawls",
     "title": "Georgia Republicans Pass Bill To Allow State Police To Investigate Voter Fraud Claims",
@@ -47,7 +56,7 @@
   {
     "id": 4511,
     "mediaId": 675,
-    "date": "2022-00-13",
+    "date": "5/13/2022 12:00:00 AM",
     "sentence": "Democratic activist Stacey Abrams, known for her get-out-the-vote activism, is running again for governor of Georgia after narrowly losing to the current governor, <span class='selected-term'>Brian Kemp</span>, in 2018.",
     "author": "Art Moore",
     "title": "'2000 Mules' investigator: Georgia officials intimidating my witnesses",
@@ -56,19 +65,10 @@
   {
     "id": 4482,
     "mediaId": 238,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "They have this exact data and, in fact, many of them inside of the GBI and inside of <span class='selected-term'>Brian Kemp</span>s office and inside of Raffenspergers office are very eager to try to fight back and push back against True the Vote.",
     "author": "Philip Bump",
     "title": "Discussing the gaps in 2000 Mules with Dinesh DSouza",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 1334,
-    "mediaId": 19,
-    "date": "2022-00-19",
-    "sentence": "",
-    "author": "Ashley Oliver",
-    "title": "Exclusive  Gov. Brian Kemp Urges Buckhead City Debate: Atlanta Mayor Needs to Feel Pressure' on Crime",
     "sentiment": "0"
   }
 ]

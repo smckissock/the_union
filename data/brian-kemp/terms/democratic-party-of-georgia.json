@@ -1,26 +1,35 @@
 [
   {
-    "id": 5358,
+    "id": 8218,
     "mediaId": 12,
-    "date": "2022-00-01",
+    "date": "1/28/2022 12:00:00 AM",
     "sentence": "",
-    "author": "David Wickert",
-    "title": "Georgia Senate gives final approval to permit-less carry gun bill",
+    "author": "Greg Bluestein",
+    "title": "Bidens sagging approval could haunt Georgia Democrats",
     "sentiment": "0"
   },
   {
     "id": 8044,
     "mediaId": 305,
-    "date": "2022-00-11",
+    "date": "3/11/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kalyn Womack",
     "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
     "sentiment": "-0.452"
   },
   {
+    "id": 5358,
+    "mediaId": 12,
+    "date": "4/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David Wickert",
+    "title": "Georgia Senate gives final approval to permit-less carry gun bill",
+    "sentiment": "0"
+  },
+  {
     "id": 5192,
     "mediaId": 1164,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "Earlier today, Georgians gathered to oppose <span class='selected-term'>Brian Kemp</span>'s dangerous \"criminal carry\" law.",
     "author": "Darryl Coote",
     "title": "Georgia Gov. Brian Kemp signs law to allow conceal carry without a permit",
@@ -29,7 +38,7 @@
   {
     "id": 1984,
     "mediaId": 12,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
@@ -38,19 +47,10 @@
   {
     "id": 4881,
     "mediaId": 305,
-    "date": "2022-00-28",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "Georgia governor <span class='selected-term'>Brian Kemp</span> signed a few education bills into law, including one that targets divisive concepts? in the classroom, as reported by CNN.",
     "author": "Murjani Rawls",
     "title": "Republican Gov. Brian Kemp Signs Bill Limiting Race Discussions In Classrooms",
     "sentiment": "0"
-  },
-  {
-    "id": 8218,
-    "mediaId": 12,
-    "date": "2022-00-28",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "Bidens sagging approval could haunt Georgia Democrats",
-    "sentiment": "0.0"
   }
 ]

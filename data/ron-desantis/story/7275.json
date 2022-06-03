@@ -5,14 +5,22 @@
   "headline": "Florida's Department of Education asked textbook publishers to avoid references to critical race theory and social justice",
   "image": "https://i.insider.com/6127b84b12b9cc001962f6a7?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/florida-asked-textbook-publishers-avoid-references-to-critical-race-theory-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Yelena Dzhanova",
   "authorUrl": "https://www.businessinsider.com/author/yelena-dzhanova",
   "termIds": [
-    661
+    661,
+    1417,
+    78,
+    403,
+    3214,
+    3223,
+    2661,
+    2953,
+    5044
   ],
   "sentences": [
     "\"Examples of theories that distort historical events and are inconsistent with State Board approved standards include the denial or minimization of the Holocaust, and the teaching of Critical Race Theory, meaning the theory that racism is not merely the product of prejudice, but that racism is embedded in American society and its legal systems in order to uphold the supremacy of white persons,\" the amendment reads in part.",

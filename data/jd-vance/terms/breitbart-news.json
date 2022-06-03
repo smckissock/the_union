@@ -1,44 +1,8 @@
 [
   {
-    "id": 5870,
-    "mediaId": 19,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Breitbart News",
-    "title": "Breitbart News Daily Podcast Ep. 128: Vance Wins in OH, Biden Gets Ghoulish on Abortion, Guest: Sen. Tom Cotton on SCOTUS, Ministry of Truth, Our Open Border",
-    "sentiment": "0"
-  },
-  {
-    "id": 5559,
-    "mediaId": 19,
-    "date": "2022-00-12",
-    "sentence": "",
-    "author": "John Binder",
-    "title": "ExclusiveJ.D. Vance: Ruling Class Hellbent on Keeping U.S. in Managed Decline by Weakening China Tariffs",
-    "sentiment": "0"
-  },
-  {
-    "id": 5561,
-    "mediaId": 19,
-    "date": "2022-00-12",
-    "sentence": "",
-    "author": "Breitbart News",
-    "title": "Breitbart News Daily Podcast Ep. 134: Americas Managed Decline with Tom Homan and J.D. Vance",
-    "sentiment": "0.589"
-  },
-  {
-    "id": 5492,
-    "mediaId": 169,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "Eoin Higgins",
-    "title": "What \"great replacement\"? Right wants us to shut up about Buffalo shooter's ideology",
-    "sentiment": "0"
-  },
-  {
     "id": 6329,
     "mediaId": 19,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Breitbart News",
     "title": "Breitbart News Daily Podcast Ep. 116: Happy Easter! The Pope Thinks Youre Racist; Guest: Emma-Jo Morris on Dr. Oz, the Trans Agenda, The Big Guy",
@@ -47,10 +11,46 @@
   {
     "id": 6091,
     "mediaId": 19,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Breitbart News",
     "title": "Breitbart News Daily Podcast Ep. 125: Explosive Election Meddling Evidence, Stagflation, Free Speech War, Guests: J.D. Vance, Dinesh DSouza",
+    "sentiment": "0"
+  },
+  {
+    "id": 5870,
+    "mediaId": 19,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Breitbart News",
+    "title": "Breitbart News Daily Podcast Ep. 128: Vance Wins in OH, Biden Gets Ghoulish on Abortion, Guest: Sen. Tom Cotton on SCOTUS, Ministry of Truth, Our Open Border",
+    "sentiment": "0"
+  },
+  {
+    "id": 5559,
+    "mediaId": 19,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "John Binder",
+    "title": "ExclusiveJ.D. Vance: Ruling Class Hellbent on Keeping U.S. in Managed Decline by Weakening China Tariffs",
+    "sentiment": "0"
+  },
+  {
+    "id": 5561,
+    "mediaId": 19,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Breitbart News",
+    "title": "Breitbart News Daily Podcast Ep. 134: Americas Managed Decline with Tom Homan and J.D. Vance",
+    "sentiment": "0.589"
+  },
+  {
+    "id": 5492,
+    "mediaId": 169,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Eoin Higgins",
+    "title": "What \"great replacement\"? Right wants us to shut up about Buffalo shooter's ideology",
     "sentiment": "0"
   }
 ]

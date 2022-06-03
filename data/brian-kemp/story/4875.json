@@ -5,14 +5,23 @@
   "headline": "Ask me nicely: Trump demanded loyalty from governors for help, says book",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/04/trumpdonald3_08242020getty.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/state-watch/3470441-ask-me-nicely-trump-demanded-loyalty-from-governors-for-help-says-book/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Reid Wilson",
   "authorUrl": "https://thehill.com/author/reid-wilson/",
   "termIds": [
-    2095
+    914,
+    1147,
+    1231,
+    1311,
+    1394,
+    1434,
+    1486,
+    1668,
+    2095,
+    2873
   ],
   "sentences": [
     "It says everything and nothing at the same time.?\nIn another call with governors revealed by the book, after Trump said he would cut back federal funding for all but two states that deployed the National Guard to battle the coronavirus pandemic, he told governors who wanted the full costs covered: You have to call me and ask me nicely.?\nTrumps unorthodox and at times boorish approaches to politics alarmed many governors, who told the authors his uneven and sometimes disinterested concern with the coronavirus pandemic made battling the virus more difficult.",

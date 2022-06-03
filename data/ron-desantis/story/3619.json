@@ -5,14 +5,19 @@
   "headline": "What does 1 million dead Americans tell us?",
   "image": "https://www.rawstory.com/media-library/covid-hospital.jpg?id=29801553&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/what-does-1-million-americans-tell-us/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John Stoehr",
   "authorUrl": "https://www.rawstory.com/u/john_stoehr_the_editorial_board",
   "termIds": [
-    661
+    661,
+    681,
+    2626,
+    2661,
+    2924,
+    2945
   ],
   "sentences": [
     "Florida is probably best characterized as a fragile state.? According to the World Bank, fragile statehood exists in situations where there is low level of government performance, where state institutions are weak or on the verge of collapse and where the state either fails to perform core roles or performs them wholly inadequately.?\nThat Florida is probably best described as a fragile state? tells us that the word democracy? as a description of America is covering up for the fact that Florida is probably best described as a fragile state.?\nThe people of Florida think they live in a democracy, because their state is one of the United States, which everyone says is a democracy.",

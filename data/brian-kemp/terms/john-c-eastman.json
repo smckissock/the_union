@@ -1,20 +1,20 @@
 [
   {
+    "id": 5438,
+    "mediaId": 136,
+    "date": "3/28/2022 12:00:00 AM",
+    "sentence": "In the days leading up to the congressional certification of Biden's electoral victory, Trump called on two Georgia leadersGovernor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffenspergerto overturn Biden's win in the state.",
+    "author": "Alexandra Hutzler",
+    "title": "What's Next for Trump as Judge Finds He 'Likely' Tried to Obstruct Congress",
+    "sentiment": "0"
+  },
+  {
     "id": 5044,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "NOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Matthew Chapman",
     "title": "'Shoes dropping like hail': Here's how Jan 6 committee's 'bombshells' have gone off even before the final report",
     "sentiment": "-0.71"
-  },
-  {
-    "id": 5438,
-    "mediaId": 136,
-    "date": "2022-00-28",
-    "sentence": "In the days leading up to the congressional certification of Biden's electoral victory, Trump called on two Georgia leadersGovernor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffenspergerto overturn Biden's win in the state.",
-    "author": "Alexandra Hutzler",
-    "title": "What's Next for Trump as Judge Finds He 'Likely' Tried to Obstruct Congress",
-    "sentiment": "0.0"
   }
 ]

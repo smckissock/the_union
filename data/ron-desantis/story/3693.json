@@ -5,14 +5,22 @@
   "headline": "Democrats Launch $15M 'Blue Shift Florida' Initiative To Increase Voter Turnout",
   "image": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1600/ff3b7c7e702c25a731f6ae19ead61d8f.jpg",
   "link": "https://www.theroot.com/democrats-launch-15m-blue-shift-florida-initiative-to-1848912439",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Root",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Murjani Rawls",
   "authorUrl": "https://www.theroot.com/author/murjanirawls",
   "termIds": [
-    661
+    661,
+    971,
+    1078,
+    1572,
+    2418,
+    3993,
+    146,
+    3277,
+    2661
   ],
   "sentences": [
     "Diaz claims that Blue Shift Florida is the start of an ambitious, institutionalized year-round effort that he has been touting since he took the helm of the battered party soon after Democrats were routed across the state in the last election.",

@@ -5,14 +5,24 @@
   "headline": "Once again, Alabama stands in Georgias path to glory",
   "image": "https://www.ajc.com/resizer/G6Tqzrij1Gn2jLeIOwgfhkLL98U=/fit-in/720x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/MTYEGZAND6SSM4I5E3W66Y6RFA.jpg",
   "link": "https://www.ajc.com/sports/georgia-bulldogs/once-again-alabama-stands-in-georgias-path-to-glory/KZHEFPVE7ZAHBKDCCV3RACXI6U/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Chip Towers",
   "authorUrl": "https://www.ajc.com/staff/chip-towers/",
   "termIds": [
-    815
+    815,
+    2235,
+    5871,
+    5891,
+    584,
+    5561,
+    5589,
+    2537,
+    2555,
+    2672,
+    2711
   ],
   "sentences": [
     "INDIANAPOLIS  As the Georgia Bulldogs prepare to take college footballs grandest stage once again, there are two overarching themes following them into Lucas Oil Stadium: Can they finally beat Alabama and will they finally hoist the national championship trophy for the first time in 41 years?",

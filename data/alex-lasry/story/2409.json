@@ -5,7 +5,7 @@
   "headline": "Democratic Senate candidate files election lawsuits",
   "image": "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1642617364",
   "link": "https://www.startribune.com/democratic-senate-candidate-files-election-lawsuits/600137392/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -16,7 +16,13 @@
     802,
     1568,
     2039,
-    3096
+    3096,
+    146,
+    318,
+    621,
+    2793,
+    2855,
+    2972
   ],
   "sentences": [
     "In one case, Peckarsky asked a judge to order the Wisconsin Elections Commission to bar Milwaukee and other cities from marking absentee ballots with numbers that could reveal how individual voters cast their ballots.",

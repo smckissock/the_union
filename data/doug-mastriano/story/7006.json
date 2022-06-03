@@ -5,14 +5,24 @@
   "headline": "Is Pennsylvania losing it? Hate groups proliferate as state GOP descends into MAGA paranoia",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/03/doug-mastriano-0302221.jpg",
   "link": "https://www.salon.com/2022/03/03/is-pennsylvania-losing-it-hate-groups-proliferate-as-state-descends-into-maga-paranoia/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Igor Derysh",
   "authorUrl": "https://www.salon.com/writer/igor-derysh",
   "termIds": [
-    3102
+    1145,
+    1997,
+    2087,
+    2525,
+    3102,
+    28,
+    376,
+    428,
+    462,
+    2862,
+    5460
   ],
   "sentences": [
     "\"From parroting Donald Trump's lies about the election to embracing his far-right agenda,\" Pennsylvania Democratic Party spokesman Brendan Welch said in a statement, \"Lou Barletta is running a campaign defined by Trumpian litmus tests and dangerous conspiracy theories.\"",

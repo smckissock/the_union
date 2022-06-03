@@ -5,14 +5,20 @@
   "headline": "Herschel Walker Claims 'There's No Food on the Shelf' in U.S., Slams Biden",
   "image": "https://d.newsweek.com/en/full/2017900/herschel-walker-weighs-food-supply.webp?w=790&f=1af41d05494e8d23e529b4aed946c36a",
   "link": "https://www.newsweek.com/herschel-walker-claims-theres-no-food-shelf-us-slams-biden-1696737",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Fatma Khaled",
   "authorUrl": "https://www.newsweek.com/authors/fatma-khaled",
   "termIds": [
-    815
+    815,
+    1136,
+    2004,
+    2087,
+    428,
+    571,
+    2945
   ],
   "sentences": [
     "The GOP candidate, who will challenge Democratic Senator Raphael Warnock in the upcoming midterm race in Georgia, blamed the Biden administration for not being energy independent enough saying that there are \"enemies negotiating deals for us,\" which he called \"ridiculous.\"",

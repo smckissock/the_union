@@ -5,14 +5,17 @@
   "headline": "Cobb County cityhood movements advance",
   "image": "https://www.wabe.org/app/uploads/2022/04/AP22061590898068-336x189.jpg",
   "link": "https://www.wabe.org/cobb-county-cityhood-movements-advance/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    3374,
+    2617,
+    2672
   ],
   "sentences": [
     "He further explained that locally, the creation of the city of Sandy Springs paved the way for other cityhood efforts in Georgia and discussed the long-term tax implications if Cobb County voters vote in favor of East Cobb, Vinings, Lost Mountain and Mableton.",

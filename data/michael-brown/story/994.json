@@ -5,14 +5,21 @@
   "headline": "Massive exodus from Harris' office hits speechwriting staff",
   "image": "https://www.wnd.com/wp-content/uploads/2019/08/kamala_harris3.jpg",
   "link": "https://www.wnd.com/?p=4980109",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bob Unruh",
   "authorUrl": "https://www.wnd.com/author/runruh/",
   "termIds": [
-    2171
+    645,
+    895,
+    1154,
+    2171,
+    2725,
+    2826,
+    2945,
+    2959
   ],
   "sentences": [
     "It was CNN where the first reports of Harris' dysfunctional office emerged, with its comment that, \"Many current and former West Wing aides say that Vice President Kamala Harris is not being adequately prepared or positioned, and instead is being sidelined, causing frustration among staffers.\"",

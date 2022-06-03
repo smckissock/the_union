@@ -1,20 +1,20 @@
 [
   {
-    "id": 3428,
-    "mediaId": 25,
-    "date": "2022-00-16",
-    "sentence": "Their likely GOP challengers, <span class='selected-term'>Lisa Scheller</span> in the 7th District and Jim Bognet in the 8th District, both have endorsements from Trump and McCarthy.",
-    "author": "Aaron Navarro",
-    "title": "House primaries to watch Tuesday: Madison Cawthorn faces several challengers and more",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7178,
     "mediaId": 65,
-    "date": "2022-00-22",
+    "date": "3/22/2022 12:00:00 AM",
     "sentence": "CLF is also endorsing Scott Baugh in California's 47th Congressional District, a Democratic controlled open seat; Tom Barrett in Michigan's 7th District, where Democratic Rep. Elissa Slotkins running for re-election; Tyler Kistner in Minnesota's 2nd District, where Democratic incumbent Angie Craig is seeking another term; Alex Skarlatos in Oregon's 4th District, a Democratic controlled open seat; and <span class='selected-term'>Lisa Scheller</span> in Pennsylvania 7th, where Democratic Rep. Susan Wilds running for re-election.",
     "author": "",
     "title": "Top outside group backing House Republicans makes second round of 2022 GOP endorsements",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3428,
+    "mediaId": 25,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "Their likely GOP challengers, <span class='selected-term'>Lisa Scheller</span> in the 7th District and Jim Bognet in the 8th District, both have endorsements from Trump and McCarthy.",
+    "author": "Aaron Navarro",
+    "title": "House primaries to watch Tuesday: Madison Cawthorn faces several challengers and more",
+    "sentiment": "0"
   }
 ]

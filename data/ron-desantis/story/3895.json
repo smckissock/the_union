@@ -5,14 +5,17 @@
   "headline": "Tweet Accuses Disney of 'Pure Greed' Thanks to Movie Screening Rules",
   "image": "https://d.newsweek.com/en/full/2033113/cinemark.webp?w=790&f=965c933c0129efc7b0e39da25f450eba",
   "link": "https://www.newsweek.com/tweet-accuses-disney-pure-greed-thanks-movie-screening-rules-1704435",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Nick Mordowanec",
   "authorUrl": "https://www.newsweek.com/authors/nick-mordowanec",
   "termIds": [
-    661
+    661,
+    4834,
+    428,
+    524
   ],
   "sentences": [
     "There have been similar allegations against Disney regarding the tweet against Disney and its practices, including one Reddit thread published at the same time as the release of Star Wars: The Force Awakens alleging that theater employees were also barred from seeing that flick in advance.",

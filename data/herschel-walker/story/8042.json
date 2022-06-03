@@ -5,14 +5,22 @@
   "headline": "Trump touted a contest for small-dollar donors to dine with him in New Orleans. But no winner met him.",
   "image": "",
   "link": "https://www.washingtonpost.com/nation/2022/03/11/trump-pac-new-orleans-contest-winner/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1147,
+    5675,
+    5736,
+    101,
+    427,
+    5657,
+    2824,
+    2910
   ],
   "sentences": [
     "The Washington Post asked Save America to provide winners for other contests it has held, which included meeting the president at a rally in South Carolina this weekend, meeting Trump at his palatial Florida club last year, playing golf with Trump and Georgia Senate candidate Herschel Walker in Palm Beach, or receiving commemorative memorabilia  such as a football signed by Trump and Walker, a College Football Hall of Famer.",

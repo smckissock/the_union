@@ -5,14 +5,24 @@
   "headline": "Florida Republicans beat the gun lobby. Congress hasn't followed.",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/28/florida-gun-laws/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mike DeBonis",
   "authorUrl": "https://www.washingtonpost.com/people/mike-debonis/",
   "termIds": [
-    661
+    661,
+    1464,
+    2305,
+    4341,
+    6165,
+    6195,
+    545,
+    3508,
+    6120,
+    2661,
+    2926
   ],
   "sentences": [
     "He touted the bill in comments to reporters Tuesday evening, just after the news from Uvalde broke, then described its provisions to his colleagues inside a Senate GOP lunch on Wednesday and spoke to Sen. Chris Murphy (D-Conn.), the lead Democratic negotiator on gun legislation, about the bill on Thursday.",

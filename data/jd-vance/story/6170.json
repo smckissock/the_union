@@ -5,14 +5,24 @@
   "headline": "Christe calls Trumps endorsements all emotional decisions",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2020/10/ca_christiemasks_101620getty.jpg?w=1440&h=880&crop=1",
   "link": "https://thehill.com/news/3461550-christe-calls-trumps-endorsements-all-emotional-decisions/",
-  "sentiment": "0",
+  "sentiment": "-0.663",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Olafimihan Oshin",
   "authorUrl": "https://thehill.com/author/olafimihan-oshin/",
   "termIds": [
-    3103
+    761,
+    1147,
+    1653,
+    1801,
+    3103,
+    3961,
+    428,
+    571,
+    2992,
+    2672,
+    2845
   ],
   "sentences": [
     "Several Ohio GOP lawmakers wrote a letter to Trump earlier this month urging him to not endorse Vance, noting the states support for the former president in the 2016 and 2020 elections and Vances past criticism of him\nThe Hill has removed its comment section, as there are many other forums for readers to participate in the conversation.",

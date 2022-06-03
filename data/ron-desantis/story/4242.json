@@ -5,14 +5,17 @@
   "headline": "Gov. Ron DeSantis (R-FL) responds to Trevor Noah cracking jokes about him at the White House Correspondents Dinner.",
   "image": "https://s.yimg.com/uu/api/res/1.2/sg.fBi0_SD.44UCZEaNENg--~B/Zmk9ZmlsbDtweW9mZj0wO3c9MjYwO2g9MTQ0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_recount_videos_784/269be9d3e44176acea34ee76e41d5f66",
   "link": "https://news.yahoo.com/gov-ron-desantis-r-fl-143609958.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2282,
+    3508,
+    2661
   ],
   "sentences": [
     "Governor Ron DeSantis (R-FL) sounded off during a press conference about Trevor Noahs jabs at him and the state of Florida during the White House Correspondents dinner on Saturday.",

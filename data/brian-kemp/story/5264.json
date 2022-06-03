@@ -5,14 +5,19 @@
   "headline": "After tornadoes strike the Southeast, Ga. residents recount the terror",
   "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXVNFMFV4QI6ZA2YECVBMNK7WQ.jpg&w=916",
   "link": "https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMi8wNC8wNi9wZW1icm9rZS1nZW9yZ2lhLXRvcm5hZG8tYWZ0ZXJtYXRoL9IBAA?oc=5/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mark Shavin",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    4523,
+    2672,
+    2900,
+    2910,
+    5093
   ],
   "sentences": [
     "Waters has worked for the sheriffs office for 28 years, long enough to remember a previous tornado in 1998.\nThe paths were a little different,? he said, but the same basic area, maybe a mile or so left or right of where it went last night.?\nLess than a quarter-mile from the courthouse, Marilee Hassani, 71, and her husband, Joseph, 69, live in a quaint gray home on South College Street.",

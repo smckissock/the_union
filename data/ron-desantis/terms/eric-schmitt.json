@@ -1,20 +1,20 @@
 [
   {
-    "id": 3975,
-    "mediaId": 65,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "Kelly Laco",
-    "title": "Lawsuit filed against Biden, top officials for 'colluding' with Big Tech to censor speech on Hunter, COVID",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4334,
     "mediaId": 65,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kelly Laco",
     "title": "Free speech concerns mount over DHS 'disinformation' board as lawmakers, critics weigh in",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3975,
+    "mediaId": 65,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Kelly Laco",
+    "title": "Lawsuit filed against Biden, top officials for 'colluding' with Big Tech to censor speech on Hunter, COVID",
+    "sentiment": "0"
   }
 ]

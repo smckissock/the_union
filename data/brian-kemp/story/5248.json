@@ -5,7 +5,7 @@
   "headline": "These States Have Launched Gas Tax 'Holidays' to Combat High Fuel Prices",
   "image": "https://www.cnet.com/a/img/resize/103ea519edc8fc12edc9523848c2ce4a023fdca7/2022/03/25/40526e78-18f0-485f-84cc-98ff6ebb29f0/gettyimages-1028143524.jpg?auto=webp&fit=crop&height=488&width=868",
   "link": "https://www.cnet.com/news/politics/gas-price-relief-which-states-are-cutting-taxes-or-giving-money-back/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNET",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,11 @@
   "authorUrl": "",
   "termIds": [
     661,
-    2095
+    773,
+    1394,
+    1796,
+    2095,
+    2782
   ],
   "sentences": [
     "There's also a question of how much a gas tax holiday really saves drivers: If the federal gas tax was suspended for the rest of 2022, according to Kiplinger, a motorist who drives 12,000 miles a year in a car that averages 25 miles per gallon would save about $70.",

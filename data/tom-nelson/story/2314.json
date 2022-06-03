@@ -5,7 +5,7 @@
   "headline": "Wisconsin Democrats search for strategy to unseat GOP Sen. Ron Johnson",
   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/01/2022-01-09T181837Z_1902241611_RC2UVR9S7Y0Y_RTRMADP_3_USA-SENATE-JOHNSON-1200x800.jpg",
   "link": "https://www.pbs.org/newshour/politics/wisconsin-democrats-search-for-strategy-to-unseat-gop-sen-ron-johnson",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "PBS NewsHour",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,16 @@
   "termIds": [
     741,
     802,
+    1112,
     1568,
-    2039
+    1925,
+    1968,
+    2039,
+    148,
+    428,
+    2771,
+    2793,
+    2972
   ],
   "sentences": [
     "He's given us enough grist for the mill.?\nREAD MORE: Pelosi to seek reelection as Democrats face tough 2022 midterms\nDemocrats intend to paint Johnson as a different man from the one voters elected in 2010, someone who morphed from an outsider businessman concerned about the national debt to, as Zepecki calls him, a conspiracy theory-fueled crank.?\nThey are hoping Johnson's most incendiary comments will turn off just enough of the moderate Republicans who deserted Trump in the Milwaukee suburbs and just enough of the roughly 7% of independent voters to tilt things their way.",

@@ -5,16 +5,25 @@
   "headline": "RNC votes to censure Cheney, Kinzinger over campaign against Trump",
   "image": "https://www.wnd.com/wp-content/uploads/2021/05/liz-cheney-2021-jpg.jpg",
   "link": "https://www.wnd.com/?p=4980094",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bob Unruh",
   "authorUrl": "https://www.wnd.com/author/runruh/",
   "termIds": [
+    1147,
+    1248,
+    1335,
     2171,
+    2214,
+    2465,
     3085,
-    3094
+    3094,
+    427,
+    428,
+    562,
+    2976
   ],
   "sentences": [
     "She simply called the Jan. 6, 2021, riot at the U.S. Capitol an \"insurrection,\" blamed it on President Trump, who had held a rally earlier in the day, concluded he was guilty, and insisted Congress remove him from office, even though his term already had expired.",

@@ -1,35 +1,80 @@
 [
   {
-    "id": 4248,
-    "mediaId": 223,
-    "date": "2022-00-02",
-    "sentence": "Or do you have faith in the proven leadership of Donald Trump, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Virginia Governor Glenn Youngkin and dozens of other Republicans who stand ready to swing the pendulum of America back to sanity in 2022.",
-    "author": "Tom Tradup",
-    "title": "Democrats Gleefully Bankrupting America",
-    "sentiment": "0.0"
-  },
-  {
     "id": 8084,
     "mediaId": 43,
-    "date": "2022-00-04",
+    "date": "3/4/2022 12:00:00 AM",
     "sentence": "Or to <span class='selected-term'>Ron DeSantis</span>, whos too busy anyway, directing embarrassing displays of public surliness at schoolchildren.",
     "author": "",
     "title": "Hitler, But Dumber: The Vladimir Putin Story",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 6386,
+    "mediaId": 195,
+    "date": "4/15/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Russia plots next move amid setbacks",
+    "sentiment": "0"
+  },
+  {
+    "id": 6300,
+    "mediaId": 43,
+    "date": "4/19/2022 12:00:00 AM",
+    "sentence": "The New Yorker: Satire from the Borowitz Report: DeSantis Warns That Math Makes Children Gay\nTALLAHASSEE (The Borowitz Report)Proposing a sweeping ban on math in Floridas classrooms, Governor <span class='selected-term'>Ron DeSantis</span> asserted that the latest research? indicates that math makes children gay.?\nFor years, liberals in the education mafia have brainwashed Americans into thinking that our children should learn to add, subtract, multiply, and divide,? he told reporters.",
+    "author": "",
+    "title": "for Bluesday, April 19th",
+    "sentiment": "0"
+  },
+  {
+    "id": 6267,
+    "mediaId": 43,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
+    "author": "",
+    "title": "Yes, Republicans really are moving us towards",
+    "sentiment": "0"
+  },
+  {
+    "id": 4914,
+    "mediaId": 43,
+    "date": "4/27/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "\"Try to Think What We Are Going to Do Ourselves\"",
+    "sentiment": "0"
+  },
+  {
+    "id": 4400,
+    "mediaId": 195,
+    "date": "4/29/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Dennis Aftergut",
+    "title": "Is Trump asking Putin for favors again?",
+    "sentiment": "0"
+  },
+  {
+    "id": 4248,
+    "mediaId": 223,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "Or do you have faith in the proven leadership of Donald Trump, Florida Governor <span class='selected-term'>Ron DeSantis</span>, Virginia Governor Glenn Youngkin and dozens of other Republicans who stand ready to swing the pendulum of America back to sanity in 2022.",
+    "author": "Tom Tradup",
+    "title": "Democrats Gleefully Bankrupting America",
+    "sentiment": "0"
   },
   {
     "id": 3967,
     "mediaId": 43,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "[]\nRubio, who was a favorite of corporate donors during his 2016 presidential bid, has recently called corporations the instrument of anti-American ideologies,? a view echoed by Florida Governor <span class='selected-term'>Ron DeSantis</span>, another potential GOP presidential contender.",
     "author": "",
     "title": "Overnight News Digest: Barricades erected around Supreme Court; Mariupol defenders make their stand",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3882,
     "mediaId": 136,
-    "date": "2022-00-07",
+    "date": "5/7/2022 12:00:00 AM",
     "sentence": "Colorado Governor Jared Polis has compared Florida Governor <span class='selected-term'>Ron DeSantis</span>' actions to Russian President Vladimir Putin as he pitches his state as a new home for the Walt Disney Company's Florida theme parks.",
     "author": "Darragh Roche",
     "title": "Colorado Governor Uses Putin Comparison in Pitch to Disney",
@@ -38,154 +83,73 @@
   {
     "id": 3882,
     "mediaId": 136,
-    "date": "2022-00-07",
+    "date": "5/7/2022 12:00:00 AM",
     "sentence": "Colorado Governor Jared Polis has compared Florida Governor <span class='selected-term'>Ron DeSantis</span>' actions to Russian President Vladimir Putin as he pitches his state as a new home for the Walt Disney Company's Florida theme parks.",
     "author": "Darragh Roche",
     "title": "Colorado Governor Uses Putin Comparison in Pitch to Disney",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3595,
     "mediaId": 129,
-    "date": "2022-00-14",
+    "date": "5/14/2022 12:00:00 AM",
     "sentence": "So its not clear that either the Biden administration or the Zelensky government would be wise to invest in a long-term strategy for a frozen conflict that requires sustained bipartisan support  and perhaps soon enough the backing of a Donald Trump or <span class='selected-term'>Ron DeSantis</span> administration.",
     "author": "",
     "title": "There Are Two Endgames in Ukraine. Both Carry Big Risks.",
     "sentiment": "0"
   },
   {
-    "id": 3595,
-    "mediaId": 129,
-    "date": "2022-00-14",
-    "sentence": "So its not clear that either the Biden administration or the Zelensky government would be wise to invest in a long-term strategy for a frozen conflict that requires sustained bipartisan support  and perhaps soon enough the backing of a Donald Trump or <span class='selected-term'>Ron DeSantis</span> administration.",
-    "author": "",
-    "title": "There Are Two Endgames in Ukraine. Both Carry Big Risks.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6386,
-    "mediaId": 195,
-    "date": "2022-00-15",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Russia plots next move amid setbacks",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3474,
     "mediaId": 223,
-    "date": "2022-00-18",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022",
     "author": "Sarah Arnold",
     "title": "DeSantis: Biden Will Plunge U.S. Into Recession as Gas Prices Soar",
     "sentiment": "0"
   },
   {
-    "id": 3474,
-    "mediaId": 223,
-    "date": "2022-00-18",
-    "sentence": " <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) May 12, 2022",
-    "author": "Sarah Arnold",
-    "title": "DeSantis: Biden Will Plunge U.S. Into Recession as Gas Prices Soar",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3489,
     "mediaId": 19,
-    "date": "2022-00-18",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Hannah Bleau",
     "title": "Ron DeSantis Knocks Gas Prices Under Biden: He Has Reduced Our Ability to Be Energy Independent",
     "sentiment": "0"
-  },
-  {
-    "id": 3489,
-    "mediaId": 19,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Ron DeSantis Knocks Gas Prices Under Biden: He Has Reduced Our Ability to Be Energy Independent",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6300,
-    "mediaId": 43,
-    "date": "2022-00-19",
-    "sentence": "The New Yorker: Satire from the Borowitz Report: DeSantis Warns That Math Makes Children Gay\nTALLAHASSEE (The Borowitz Report)Proposing a sweeping ban on math in Floridas classrooms, Governor <span class='selected-term'>Ron DeSantis</span> asserted that the latest research? indicates that math makes children gay.?\nFor years, liberals in the education mafia have brainwashed Americans into thinking that our children should learn to add, subtract, multiply, and divide,? he told reporters.",
-    "author": "",
-    "title": "for Bluesday, April 19th",
-    "sentiment": "0.0"
   },
   {
     "id": 7138,
     "mediaId": 558,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "In Florida, Governor <span class='selected-term'>Ron DeSantis</span> has moved to use the power of the state to for its stance on gay rights.",
     "author": "Andrew Gawthorpe",
     "title": "Conservatives want to make the US more like Hungary. A terrifying thought",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6267,
-    "mediaId": 43,
-    "date": "2022-00-21",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
-    "author": "",
-    "title": "Yes, Republicans really are moving us towards",
     "sentiment": "0"
-  },
-  {
-    "id": 6267,
-    "mediaId": 43,
-    "date": "2022-00-21",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span>\nOn Thursday the Florida legislature passed a bill cancelling Walt Disney Worlds special tax status in that state.",
-    "author": "",
-    "title": "Yes, Republicans really are moving us towards",
-    "sentiment": "0.0"
   },
   {
     "id": 7110,
     "mediaId": 195,
-    "date": "2022-00-21",
+    "date": "5/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Douglas MacKinnon",
     "title": "Trumps vice presidential running mate for 2024?",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7272,
     "mediaId": 223,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "If a Youngkin-type, or even a <span class='selected-term'>Ron DeSantis</span> runs and wins the presidency in 2024, these people will not stop.",
     "author": "Will Alexander",
     "title": "Squishy Republicans Want Trump to Go Away",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7294,
     "mediaId": 129,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "Bret: A decent strategy unless <span class='selected-term'>Ron DeSantis</span> is the nominee.",
     "author": "",
     "title": "The Depp-Heard Trial Isn't Even the Weirdest Thing About America Right Now",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4914,
-    "mediaId": 43,
-    "date": "2022-00-27",
-    "sentence": "",
-    "author": "",
-    "title": "\"Try to Think What We Are Going to Do Ourselves\"",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4400,
-    "mediaId": 195,
-    "date": "2022-00-29",
-    "sentence": "",
-    "author": "Dennis Aftergut",
-    "title": "Is Trump asking Putin for favors again?",
-    "sentiment": "0.0"
+    "sentiment": "0"
   }
 ]

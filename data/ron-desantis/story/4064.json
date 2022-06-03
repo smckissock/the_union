@@ -5,14 +5,17 @@
   "headline": "Florida school books get closer look as challenges continue",
   "image": "https://www.tampabay.com/resizer//6a6eD6Zb459zlvPzUMFQpQUPm3Q=/fit-in/900x506/smart/filters:fill(333):format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/YF3Z6BRUMIAT74C5XGHKT2YVV4.jpg",
   "link": "https://www.tampabay.com/news/education/2022/05/04/florida-school-books-get-closer-look-as-challenges-continue/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2661,
+    2871,
+    5037
   ],
   "sentences": [
     " Leon County School Board member Dee Dee Rasmussen resigned in the middle of her fourth term, citing health concerns and also noting the political pendulum has swung away from her, the Tallahassee Democrat reports.",

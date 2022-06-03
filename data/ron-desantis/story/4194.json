@@ -5,14 +5,21 @@
   "headline": "DeSantis accuses Disney of cozying up to CCP, making 'a fortune' without mentioning atrocities",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc987b04-6d5d-4148-867d-1a386f86b94b/e79ae65d-c4ca-4dfd-83f3-626e001e4433/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/desantis-accuses-disney-cozying-china-atrocities",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kelly Laco",
   "authorUrl": "https://www.foxnews.com/person/l/kelly-laco",
   "termIds": [
-    661
+    661,
+    2087,
+    112,
+    524,
+    611,
+    2661,
+    2863,
+    2945
   ],
   "sentences": [
     "Ron DeSantis and Disney continues as the governor slammed the company for profiting off of its relationship with Communist China, without condemning its human rights abuses, and warned that the country is \"flexing muscle\" over the Western Hemisphere in part due to President Biden's \"floundering\" leadership.",

@@ -1,29 +1,29 @@
 [
   {
-    "id": 8357,
-    "mediaId": 129,
-    "date": "2022-00-25",
-    "sentence": "The Michigan Bureau of Elections recommended on Monday that James Craig, a former Detroit police chief, and <span class='selected-term'>Perry Johnson</span>, a wealthy businessman, be excluded from the Aug. 2 primary, finding that neither candidate met the requirement of submitting signatures from at least 15,000 registered voters.",
-    "author": "",
-    "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",
-    "sentiment": "0.0"
-  },
-  {
     "id": 884,
     "mediaId": 43,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "Governors\n? MI-Gov: Republican Rep. Jack Bergman, whose 1st District covers the Upper Peninsula and northernmost portion of the Lower Peninsula, has switched his endorsement in the August GOP primary from former Detroit Police Chief James Craig to self-funding businessman <span class='selected-term'>Perry Johnson</span>.",
     "author": "",
     "title": "Morning Digest: Trump's man in Georgia keeps flogging election conspiracies as his campaign craters",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8357,
+    "mediaId": 129,
+    "date": "5/25/2022 12:00:00 AM",
+    "sentence": "The Michigan Bureau of Elections recommended on Monday that James Craig, a former Detroit police chief, and <span class='selected-term'>Perry Johnson</span>, a wealthy businessman, be excluded from the Aug. 2 primary, finding that neither candidate met the requirement of submitting signatures from at least 15,000 registered voters.",
+    "author": "",
+    "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",
+    "sentiment": "0"
   },
   {
     "id": 8441,
     "mediaId": 129,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "The five candidates, half of the party's field, were denied a spot on the Aug. 2 primary ballot by the Board of State Canvassers, including James Craig, a former Detroit police chief, and <span class='selected-term'>Perry Johnson</span>, a wealthy businessman.",
     "author": "",
     "title": "Republican Governors Lose Their Dread of Trump",
-    "sentiment": "0.0"
+    "sentiment": "0"
   }
 ]

@@ -5,14 +5,23 @@
   "headline": "Ex-Trump Adviser Takes Aim at Glenn Youngkin for SCOTUS Protest Response",
   "image": "https://d.newsweek.com/en/full/2034756/sebastian-gorka.webp?w=790&f=8eea9c9ac7f619b1bccd5577c399644d",
   "link": "https://www.newsweek.com/sebastian-gorka-glenn-youngkin-supreme-court-roe-protests-1705243",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Adam Staten",
   "authorUrl": "https://www.newsweek.com/authors/adam-staten",
   "termIds": [
-    661
+    661,
+    1110,
+    1147,
+    1758,
+    2058,
+    3831,
+    482,
+    539,
+    2661,
+    2953
   ],
   "sentences": [
     "Monday night, after a crowd of protesters was shown having gathered in front of what is reportedly Supreme Court Justice Samuel Alito's Virginia home, Youngkin, in response, posted on Twitter, \"We have been coordinating with @FairfaxCountyPD, VSPPIO, and federal authorities to ensure that there isn't violence.",

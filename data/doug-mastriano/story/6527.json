@@ -5,15 +5,25 @@
   "headline": "Pennsylvania's Republican Senate primary is likely headed for a recount with Trump adding to the chaos",
   "image": "https://i.insider.com/62866af30fdb180018cc3273?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/pennsylvania-senate-results-recount-oz-mccormick-primary-trump-vote-count-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Grace Panetta",
   "authorUrl": "https://www.businessinsider.com/author/grace-panetta",
   "termIds": [
+    1147,
     1896,
-    3102
+    2491,
+    3102,
+    4019,
+    428,
+    571,
+    2597,
+    2862,
+    3060,
+    4965,
+    5034
   ],
   "sentences": [
     "Adams\nAllegheny\nArmstrong\nBeaver\nBedford\nBerks\nBlair\nBradford\nBucks\nButler\nCambria\nCameron\nCarbon\nCentre\nChester\nClarion\nClearfield\nClinton\nColumbia\nCrawford\nPennsylvania US Senate Republican Primary\nCounty Results\narrow_drop_down\nCandidate\nVotes\nPercent\n Mehmet Oz\n 417,594\n 31.16%\n David McCormick\n 416,515\n 31.08%\n Kathy Barnette\n 330,021\n 24.62%\n Carla Sands\n 72,804\n 5.43%\n Jeff Bartos\n 66,362\n 4.95%\n Show More Candidates\n* = Incumbent\n 1,340,340 votes.",

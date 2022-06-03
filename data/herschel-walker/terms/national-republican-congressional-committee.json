@@ -1,20 +1,20 @@
 [
   {
-    "id": 4297,
-    "mediaId": 409,
-    "date": "2022-00-01",
-    "sentence": "They have both donated the legal maximum to Georigia GOP senatorial candidate <span class='selected-term'>Herschel Walker</span>, Florida congressional candidate Brady Duke and Florida Rep. Brian Mast, as well as large donations to the National Republican Congressional Committee and Valor PAC, a leadership PAC associated with Mast.",
-    "author": "Jim Geraghty",
-    "title": "The Disney Executive Who Donated $10 Million to Help Trump in 2020",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7651,
     "mediaId": 238,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion The 2022 midterms could make the GOP the most diverse it has ever been",
     "sentiment": "0.589"
+  },
+  {
+    "id": 4297,
+    "mediaId": 409,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "They have both donated the legal maximum to Georigia GOP senatorial candidate <span class='selected-term'>Herschel Walker</span>, Florida congressional candidate Brady Duke and Florida Rep. Brian Mast, as well as large donations to the National Republican Congressional Committee and Valor PAC, a leadership PAC associated with Mast.",
+    "author": "Jim Geraghty",
+    "title": "The Disney Executive Who Donated $10 Million to Help Trump in 2020",
+    "sentiment": "0"
   }
 ]

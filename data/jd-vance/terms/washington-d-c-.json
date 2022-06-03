@@ -1,71 +1,17 @@
 [
   {
-    "id": 5987,
-    "mediaId": 151,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "",
-    "title": "Biden races to achieve the near-impossible: A permanent point man on guns",
-    "sentiment": "0"
-  },
-  {
-    "id": 5785,
-    "mediaId": 98,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Biden previews midterm offensive as he attacks extreme MAGA Republicans in deficit speech",
-    "sentiment": "0"
-  },
-  {
-    "id": 5891,
-    "mediaId": 395,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Ex-NYPD Officer Convicted for Assaulting D.C. Cop During Jan. 6 Insurrection",
-    "sentiment": "0"
-  },
-  {
-    "id": 5606,
-    "mediaId": 25,
-    "date": "2022-00-10",
-    "sentence": "",
-    "author": "Aaron Navarro",
-    "title": "Republican Tom Reed resigns from Congress",
-    "sentiment": "0"
-  },
-  {
     "id": 7018,
     "mediaId": 124,
-    "date": "2022-00-16",
+    "date": "2/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
     "sentiment": "0"
   },
   {
-    "id": 3350,
-    "mediaId": 129,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "",
-    "title": "Buffalo Shooting Live Updates: Biden Arrives in City to Mourn Shooting Victims",
-    "sentiment": "0"
-  },
-  {
-    "id": 7155,
-    "mediaId": 136,
-    "date": "2022-00-21",
-    "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "Elise Stefanik, J.D. Vance 'Talking Like Nazis': Bill Maher",
-    "sentiment": "-0.918"
-  },
-  {
     "id": 7973,
     "mediaId": 124,
-    "date": "2022-00-22",
+    "date": "3/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "The GOP's bid to retake the Senate is encountering early struggles",
@@ -74,7 +20,7 @@
   {
     "id": 6141,
     "mediaId": 63,
-    "date": "2022-00-26",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "Zach Everson",
     "title": "Checks & Imbalances: Trumps D.C. Hotel By The Numbers",
@@ -83,7 +29,7 @@
   {
     "id": 6145,
     "mediaId": 124,
-    "date": "2022-00-26",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
@@ -92,10 +38,64 @@
   {
     "id": 6070,
     "mediaId": 237,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "Washington Examiner Staff",
     "title": "The Debrief: David Drucker takes a closer look at the 2022 GOP Ohio Senate race",
     "sentiment": "0"
+  },
+  {
+    "id": 5987,
+    "mediaId": 151,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Biden races to achieve the near-impossible: A permanent point man on guns",
+    "sentiment": "0"
+  },
+  {
+    "id": 5785,
+    "mediaId": 98,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Biden previews midterm offensive as he attacks extreme MAGA Republicans in deficit speech",
+    "sentiment": "0"
+  },
+  {
+    "id": 5891,
+    "mediaId": 395,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Ex-NYPD Officer Convicted for Assaulting D.C. Cop During Jan. 6 Insurrection",
+    "sentiment": "0"
+  },
+  {
+    "id": 5606,
+    "mediaId": 25,
+    "date": "5/10/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Aaron Navarro",
+    "title": "Republican Tom Reed resigns from Congress",
+    "sentiment": "0"
+  },
+  {
+    "id": 3350,
+    "mediaId": 129,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Buffalo Shooting Live Updates: Biden Arrives in City to Mourn Shooting Victims",
+    "sentiment": "0"
+  },
+  {
+    "id": 7155,
+    "mediaId": 136,
+    "date": "5/21/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "Elise Stefanik, J.D. Vance 'Talking Like Nazis': Bill Maher",
+    "sentiment": "-0.918"
   }
 ]

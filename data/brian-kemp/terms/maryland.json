@@ -1,8 +1,35 @@
 [
   {
+    "id": 1166,
+    "mediaId": 12,
+    "date": "3/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "Stacey Abrams, Brian Kemp and David Perdue each disclose net worth in millions",
+    "sentiment": "-0.387"
+  },
+  {
+    "id": 5436,
+    "mediaId": 25,
+    "date": "3/29/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Aimee Picchi",
+    "title": "Here's where drivers are seeing the biggest breaks on gas prices",
+    "sentiment": "0"
+  },
+  {
+    "id": 5394,
+    "mediaId": 43,
+    "date": "3/31/2022 12:00:00 AM",
+    "sentence": "Governors\n? GA-Gov: Incumbent <span class='selected-term'>Brian Kemp</span> is once again running a TV ad against his Trump-endorsed Republican primary foe, former Sen. David Perdue, by using footage of Trump attacking Americans who send jobs to China.",
+    "author": "",
+    "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP",
+    "sentiment": "0"
+  },
+  {
     "id": 5367,
     "mediaId": 32,
-    "date": "2022-00-01",
+    "date": "4/1/2022 12:00:00 AM",
     "sentence": "",
     "author": "Lorie Konish",
     "title": "How states aim to tackle high gas prices with tax holidays, rebates for residents",
@@ -11,7 +38,7 @@
   {
     "id": 5248,
     "mediaId": 648,
-    "date": "2022-00-08",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "Dan Avery",
     "title": "These States Have Launched Gas Tax 'Holidays' to Combat High Fuel Prices",
@@ -20,46 +47,37 @@
   {
     "id": 3385,
     "mediaId": 558,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tom LoBianco",
     "title": "Maryland governor tries to grab Reagan mantle with a play to 'exhausted majority'",
     "sentiment": "0"
   },
   {
-    "id": 1166,
-    "mediaId": 12,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "Stacey Abrams, Brian Kemp and David Perdue each disclose net worth in millions",
-    "sentiment": "-0.387"
-  },
-  {
     "id": 8509,
     "mediaId": 238,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Felicia Sonmez",
     "title": "Post Politics Now Biden to address Naval Academy graduates; Trump to speak at NRA convention",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
-    "id": 5436,
-    "mediaId": 25,
-    "date": "2022-00-29",
-    "sentence": "",
-    "author": "Aimee Picchi",
-    "title": "Here's where drivers are seeing the biggest breaks on gas prices",
-    "sentiment": "0.0"
+    "id": 8726,
+    "mediaId": 441,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Back in March, lawmakers in Maryland were looking to suspend the state's 37 cents-per-gallon gas tax for 30 days and Georgia's House of Representatives has passed a similar measure with the support of Governor <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Chunzi Xu",
+    "title": "New York Suspends the Gas Tax for Six Months as Pump Prices Soar",
+    "sentiment": "0"
   },
   {
-    "id": 5394,
-    "mediaId": 43,
-    "date": "2022-00-31",
-    "sentence": "Governors\n? GA-Gov: Incumbent <span class='selected-term'>Brian Kemp</span> is once again running a TV ad against his Trump-endorsed Republican primary foe, former Sen. David Perdue, by using footage of Trump attacking Americans who send jobs to China.",
-    "author": "",
-    "title": "Morning Digest: Our guide to Ohio's new congressional map, gerrymandered to benefit the GOP",
-    "sentiment": "0.0"
+    "id": 8729,
+    "mediaId": 136,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Georgia\nGovernor <span class='selected-term'>Brian Kemp</span> signed a new bill on March 18 that suspended the state's excise on the sale of motor fuels including gasoline, diesel and some other forms of fuel.",
+    "author": "Darragh Roche",
+    "title": "Which U.S. States Have Suspended Gas Taxes? Full List",
+    "sentiment": "0"
   }
 ]

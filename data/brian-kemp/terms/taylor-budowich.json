@@ -2,10 +2,19 @@
   {
     "id": 7501,
     "mediaId": 25,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "Since the 2020 election, former President Donald Trump has been eager to oust Georgia Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensperger for blocking efforts to overturn the 2020 election in the state.",
     "author": "Adam Brewster, Aaron Navarro",
     "title": "Georgia primary pits Pence-endorsed Brian Kemp against Trump-backed David Perdue",
     "sentiment": "-0.245"
+  },
+  {
+    "id": 8772,
+    "mediaId": 157,
+    "date": "5/30/2022 12:00:00 AM",
+    "sentence": "On Monday, Pence made his most emphatic break yet with the ex-president when he headlined a rally for Trump foe <span class='selected-term'>Brian Kemp</span> on the eve of the Georgia governor's landslide victory over a Trump-backed primary challenger.",
+    "author": "Agence France-Presse",
+    "title": "The comeback kid: ex-VP Pence steps out of Trump's shadow",
+    "sentiment": "0"
   }
 ]

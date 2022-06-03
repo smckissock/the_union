@@ -5,14 +5,19 @@
   "headline": "How Wrongful Arrests Based on AI Derailed 3 Men's Lives",
   "image": "https://media.wired.com/photos/6222a5af850ca1019a6d9e82/master/w_2240,c_limit/security-facial-ai.jpg",
   "link": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wired",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Khari Johnson",
   "authorUrl": "https://www.wired.com/author/khari-johnson",
   "termIds": [
-    1844
+    756,
+    1734,
+    1844,
+    618,
+    2645,
+    2861
   ],
   "sentences": [
     "Nobody ever asked me from any police department Where were you on the day of the crime?'?\nShannon Washburn, CEO of Shinola, says the company is dismayed? at Williams' treatment, adding none of our employees chose to participate in the case.?\nCraig later told the Detroit Board of Police Commissioners that police became aware of the mistake four days after Williams' arrest, when Bussa reviewed security camera footage and realized that the watch thief was a different person.",

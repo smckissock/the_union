@@ -5,14 +5,22 @@
   "headline": "Republicans are trying to exterminate Mickey Mouse. Does anyone care?",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/f2df42f/2147483647/strip/true/crop/3000x2000+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2Ff4%2F91574f3d4289bde3b707d21b2f9d%2Fmickey-mouse-copyright.jpg",
   "link": "https://www.latimes.com/business/story/2022-05-11/mickey-mouse-copyright-expiration-disney-under-attack-republicans",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Hugo MartÃ­n",
   "authorUrl": "https://www.latimes.com/people/hugo-martin",
   "termIds": [
-    661
+    661,
+    1448,
+    4084,
+    4367,
+    4464,
+    4879,
+    524,
+    3359,
+    2896
   ],
   "sentences": [
     "Its possible that Disney is protecting Mickey in another subtle way: The company began several years ago to insert snippets of the Steamboat Willie? cartoon at the opening logo for many modern Disney animations, including Tangled,? Frozen? and Moana.?\nIts a move that may establish the 1928 version of Mickey as a modern Disney logo or trademark, which would remain protected even if the copyright expires, said Victoria Schwartz, who teaches intellectual property law, copyright law and entertainment law at Pepperdine University.",

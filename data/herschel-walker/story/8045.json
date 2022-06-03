@@ -5,14 +5,20 @@
   "headline": "Herschel Walkers business record reveals creditor lawsuits, exaggerated claims",
   "image": "https://www.ajc.com/resizer/dGJ77FcnJZTVeNFe3P8IJc0VWco=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/I4ALYNSRO25OIDCDGUB3MSTG6U.jpg",
   "link": "https://www.ajc.com/news/investigations/herschel-walkers-business-record-reveals-creditor-lawsuits-exaggerated-claims/D3FRT4RA7NFKTN23423ENPUP7A/",
-  "sentiment": "0.0",
+  "sentiment": "0.728",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Bluestein",
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
-    815
+    815,
+    3880,
+    428,
+    600,
+    5658,
+    2672,
+    6050
   ],
   "sentences": [
     "Walker and various business partners have defaulted or fell behind in payments on at least eight loans totaling $9 million over the past two decades, according to an AJC review of hundreds of pages of court documents, Securities and Exchange Commission filings and other public records that detail these financial issues.",

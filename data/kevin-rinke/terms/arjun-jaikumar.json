@@ -1,38 +1,38 @@
 [
   {
-    "id": 923,
+    "id": 1025,
     "mediaId": 43,
-    "date": "2022-00-01",
-    "sentence": "? MI-Gov: The Detroit News reports that wealthy businessman <span class='selected-term'>Kevin Rinke</span> has launched a new $500,000 TV, radio, and digital buy ahead of the August Republican primary.",
+    "date": "1/12/2022 12:00:00 AM",
+    "sentence": "Gretchen Whitmer well ahead of four potential Republican foes:\n49-39 vs. former Detroit Police Chief James Craig\n50-33 vs. chiropractor Garrett Soldano\n50-33 vs. businessman <span class='selected-term'>Kevin Rinke</span>\n50-31 vs. conservative radio host Tudor Dixon\nPolling from reliable firms has been rare here so far.",
     "author": "",
-    "title": "Morning Digest: Why GOP leaders finally want to boot Madison Cawthorn (it's not really about orgies)",
-    "sentiment": "0.0"
+    "title": "Morning Digest: We're looking back on Harry Reid's long and storied career on the campaign trail",
+    "sentiment": "0"
   },
   {
     "id": 65,
     "mediaId": 43,
-    "date": "2022-00-02",
+    "date": "2/2/2022 12:00:00 AM",
     "sentence": "Wealthy businessman <span class='selected-term'>Kevin Rinke</span>, by contrast, raised a mere $5,000 from donors but self-funded $2 million, and his $1.5 million war chest was the largest of anyone running in the August GOP primary.",
     "author": "",
     "title": "Morning Digest: Democrat announces rematch against House Republican under fire for impeachment vote",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
-    "id": 1025,
+    "id": 923,
     "mediaId": 43,
-    "date": "2022-00-12",
-    "sentence": "Gretchen Whitmer well ahead of four potential Republican foes:\n49-39 vs. former Detroit Police Chief James Craig\n50-33 vs. chiropractor Garrett Soldano\n50-33 vs. businessman <span class='selected-term'>Kevin Rinke</span>\n50-31 vs. conservative radio host Tudor Dixon\nPolling from reliable firms has been rare here so far.",
+    "date": "4/1/2022 12:00:00 AM",
+    "sentence": "? MI-Gov: The Detroit News reports that wealthy businessman <span class='selected-term'>Kevin Rinke</span> has launched a new $500,000 TV, radio, and digital buy ahead of the August Republican primary.",
     "author": "",
-    "title": "Morning Digest: We're looking back on Harry Reid's long and storied career on the campaign trail",
-    "sentiment": "0.0"
+    "title": "Morning Digest: Why GOP leaders finally want to boot Madison Cawthorn (it's not really about orgies)",
+    "sentiment": "0"
   },
   {
     "id": 6,
     "mediaId": 43,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "The August primary also includes two wealthy businessmen, <span class='selected-term'>Kevin Rinke</span> and Perry Johnson.",
     "author": "",
     "title": "Morning Digest: Michigan Republican sends horrid",
-    "sentiment": "0.0"
+    "sentiment": "0"
   }
 ]

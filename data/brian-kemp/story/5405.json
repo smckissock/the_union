@@ -5,14 +5,19 @@
   "headline": "Georgia lawmakers gut controversial elections bill",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220330-georgia-ballots-mn-1130-e7a486.jpg",
   "link": "https://www.nbcnews.com/politics/georgia-lawmakers-gut-controversial-elections-bill-rcna22198",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    4795,
+    558,
+    571,
+    2672,
+    5022
   ],
   "sentences": [
     "One elections supervisor said during Mondays hearing that such proposals amounted merely to security theater.? Many expressed concern about the possibility of implementing even more changes to elections, while they continued to carry out the changes mandated by last years sweeping election law.",

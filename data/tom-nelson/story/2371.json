@@ -5,7 +5,7 @@
   "headline": "Johnson touts work with Milwaukee faith initiative in new ads",
   "image": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/article_images/johnsonron_012621_ap_susanwalsh_ronjohn-reelect.jpg?itok=81gu3Qac",
   "link": "https://thehill.com/homenews/campaign/597499-johnson-touts-work-with-milwaukee-faith-initiative-in-new-ads",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,13 @@
     741,
     802,
     1568,
-    2039
+    1925,
+    2039,
+    2473,
+    600,
+    2793,
+    2855,
+    2972
   ],
   "sentences": [
     "However, Johnson has a strong support base among the state's conservative grassroots, and the crowded Senate Democratic primary, which is set to take place in August, could leave the incumbent in a stronger position.",

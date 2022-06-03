@@ -1,20 +1,56 @@
 [
   {
-    "id": 3454,
-    "mediaId": 261,
-    "date": "2022-00-16",
-    "sentence": "Michael Brown of Stevensville, Byron Center businesswoman Donna Brandenburg, Farmington Hills Pastor <span class='selected-term'>Ralph Rebandt</span>, and Grand Haven financial adviser Michael Markey would not be onstage with their competitors.",
-    "author": "Paul Egan",
-    "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
-    "sentiment": "0.0"
-  },
-  {
     "id": 1006,
     "mediaId": 261,
-    "date": "2022-00-27",
+    "date": "1/27/2022 12:00:00 AM",
     "sentence": "Mike Brown; Kent County businesswoman Donna Brandenburg; Oakland County pastor <span class='selected-term'>Ralph Rebandt</span>; Ottawa County real estate agent Ryan Kelley; Livingston County evangelist and substitute teacher Bob Scott; Lansing businessman Evan Space; and Grand Rapids entrepreneur and U.S. Army veteran Austin Chenge.",
     "author": "Paul Egan",
     "title": "'Quality guru' Perry Johnson joins crowded Republican race for Michigan governor",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3454,
+    "mediaId": 261,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "Michael Brown of Stevensville, Byron Center businesswoman Donna Brandenburg, Farmington Hills Pastor <span class='selected-term'>Ralph Rebandt</span>, and Grand Haven financial adviser Michael Markey would not be onstage with their competitors.",
+    "author": "Paul Egan",
+    "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
+    "sentiment": "0"
+  },
+  {
+    "id": 8664,
+    "mediaId": 261,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "They include Norton Shores businesswoman Tudor Dixon, Ottawa County real estate agent Ryan Kelley, Farmington Hills pastor <span class='selected-term'>Ralph Rebandt</span>, Bloomfield Hills businessman Kevin Rinke and Kalamazoo chiropractor Garrett Soldano.",
+    "author": "Arpan Lobo",
+    "title": "Michigan Court of Appeals: Perry Johnson doesn't qualify for August primary ballot",
+    "sentiment": "0"
+  },
+  {
+    "id": 8656,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Joining Rinke onstage outside the Grand Hotel on Mackinac Island were Norton Shores businesswoman and conservative commentator Tudor Dixon, Oakland County pastor <span class='selected-term'>Ralph Rebandt</span> and Kalamazoo chiropractor Garrett Soldano.",
+    "author": "Dave Boucher",
+    "title": "Michigan GOP gubernatorial candidates eager for Donald Trump's endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 8659,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "The four invited candidates for the upcoming debate are Tudor Dixon, <span class='selected-term'>Ralph Rebandt</span>, Kevin Rinke and Garrett Soldano.",
+    "author": "Pavithra Rajesh",
+    "title": "Watch live: Michigan Republican gubernatorial debate at Mackinac",
+    "sentiment": "0"
+  },
+  {
+    "id": 8660,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "They include Norton Shores businesswoman Tudor Dixon, Ottawa County real estate agent Ryan Kelley, Farmington Hills pastor <span class='selected-term'>Ralph Rebandt</span>, Bloomfield Hills businessman Kevin Rinke and Kalamazoo chiropractor Garrett Soldano.",
+    "author": "Arpan Lobo",
+    "title": "James Craig loses bid to appear on primary ballot after Michigan court denies appeal",
+    "sentiment": "0"
   }
 ]

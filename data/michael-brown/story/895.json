@@ -5,14 +5,24 @@
   "headline": "Airbnb's open door for thugs and drugs",
   "image": "https://www.wnd.com/wp-content/uploads/2018/11/airbnb.jpg",
   "link": "https://www.wnd.com/2022/04/airbnbs-open-door-thugs-drugs/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Michelle Malkin",
   "authorUrl": "https://www.wnd.com/author/mmalkin/",
   "termIds": [
-    2171
+    2133,
+    2171,
+    8,
+    462,
+    2661,
+    2862,
+    2868,
+    2896,
+    2942,
+    2945,
+    2946
   ],
   "sentences": [
     "Airbnb (which I will henceforth refer to as Nightmarebnb) touts its myriad \"trust and safety\" measures, including \"risk scoring\" of every reservation using \"predictive analytics and machine learning to instantly evaluate hundreds of signals that help us flag and investigate suspicious activity before it happens\"; \"watchlist and background checks\" of hosts and guests; and \"safety workshops\" and \"scam prevention\" tools to provide \"a multi-layer defense strategy.\"",

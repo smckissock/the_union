@@ -5,14 +5,24 @@
   "headline": "Is Trump asking Putin for favors again?",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/04/trump_putin_helsinki_071718getty.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/opinion/campaign/3471426-is-trump-asking-putin-for-favors-again/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Dennis Aftergut",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1147,
+    1158,
+    2030,
+    2087,
+    2354,
+    346,
+    545,
+    2543,
+    2888,
+    2942
   ],
   "sentences": [
     "When moderator Chris Wallace asked Trump whether he would do so, Trump famously responded, Proud Boys, stand back and stand by,?\nThat alliterative sound bite sounded then like it reflected preparation and strategic intent, as if Trump were offering an embrace of extremists and preparing for them to back him up if he needed them after the election.",

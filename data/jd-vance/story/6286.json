@@ -5,14 +5,23 @@
   "headline": "J.D. Vance compared Trump to Hitler in unearthed message to former roommate",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-02/220210-trump-mn-1350-0927c0.jpg",
   "link": "https://www.msnbc.com/the-reidout/reidout-blog/jd-vance-trump-hitler-rcna24981",
-  "sentiment": "0",
+  "sentiment": "-0.948",
   "mediaOutlet": "MSNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ja'han Jones",
   "authorUrl": "https://www.msnbc.com/author/ja-jones-ncpn371241",
   "termIds": [
-    3103
+    919,
+    1147,
+    1801,
+    1930,
+    3103,
+    146,
+    428,
+    2672,
+    2845,
+    2945
   ],
   "sentences": [
     "On Monday, Democratic Georgia state Rep. Josh McLaurin, Vance's old college roommate, tweeted what he said was a message he received from Vance, who expressed concern that Trump might be Americas Hitler.?\nI go back and forth between thinking Trump might be a cynical asshole like Nixon who wouldnt be that bad (and might even prove useful) or that he might be Americas Hitler,? Vance wrote, according to McLaurin's tweet.",

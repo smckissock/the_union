@@ -5,14 +5,22 @@
   "headline": "Pennsylvania GOP Senate Primary Race Too Close to Call",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/mehmet-oz-election-night-2.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/pennsylvania-gop-senate-primary-race-too-close-to-call/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caroline Downey",
   "authorUrl": "https://www.nationalreview.com/author/caroline-downey/",
   "termIds": [
-    3102
+    1133,
+    1147,
+    1653,
+    1990,
+    3102,
+    146,
+    571,
+    2992,
+    2862
   ],
   "sentences": [
     "The Emmy Awardwinning host of the Dr. Oz Show entered the contest with the advantage of being a household name and a multimillionaire, but he came under fire for his somewhat tenuous ties to Pennsylvania, his connection to Turkey and its authoritarian leader, and his lack of experience in politics.",

@@ -5,14 +5,21 @@
   "headline": "Republicans Can Still Blow the 2022 Midterms",
   "image": "https://www.nationalreview.com/wp-content/uploads/2010/10/Christine-ODonnell-1.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/republicans-can-still-blow-the-2022-midterms/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Charles C. W. Cooke",
   "authorUrl": "https://www.nationalreview.com/author/charles-c-w-cooke/",
   "termIds": [
-    3102
+    1606,
+    1990,
+    2087,
+    2164,
+    3102,
+    5277,
+    5387,
+    428
   ],
   "sentences": [
     "I suspect that there is nothing that Republicans can do at this point to fail to win the House, and, because Joe Biden will be president until at least 2024, the size of their potential majority isnt as important it might otherwise be.",

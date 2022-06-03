@@ -1,116 +1,17 @@
 [
   {
-    "id": 68,
-    "mediaId": 163,
-    "date": "2022-00-01",
-    "sentence": "Scalise gave money in September to at least three House members who voted to impeach Trump: Peter Meijer of Michigan and <span class='selected-term'>Jaime Herrera Beutler</span> of Washington state - who are both facing Trump-endorsed challengers - as well as David Valadao of California.",
-    "author": "Alexandra Ulmer",
-    "title": "Republican U.S. lawmakers funnel money to colleagues who crossed Trump",
-    "sentiment": "0"
-  },
-  {
-    "id": 64,
-    "mediaId": 124,
-    "date": "2022-00-02",
-    "sentence": "And in Washington state, Rep. <span class='selected-term'>Jaime Herrera Beutler</span> out-raised her Trump-backed opponent, Joe Kent, bringing in about $422,000 compared to his roughly $297,000 during that same period.",
-    "author": "",
-    "title": "Republicans who impeached Trump outpace challengers in latest fundraising haul",
-    "sentiment": "0"
-  },
-  {
-    "id": 690,
-    "mediaId": 129,
-    "date": "2022-00-02",
-    "sentence": "Joe Kent, a Trump-backed Army Special Forces veteran prolific on social media and conservative talk shows, appeared to come closer to matching the fund-raising totals of his opponent, Representative <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, but still trailed her in both quarterly hauls and cash on hand.",
-    "author": "",
-    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2247,
-    "mediaId": 195,
-    "date": "2022-00-02",
-    "sentence": "Republican women's group Maggie's List has thrown its support behind Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) as part of its latest round of endorsements first obtained by The Hill on Wednesday.",
-    "author": "Julia Manchester",
-    "title": "GOP women's group endorses Herrera Beutler in primary race",
-    "sentiment": "0.154"
-  },
-  {
-    "id": 61,
-    "mediaId": 165,
-    "date": "2022-00-03",
-    "sentence": "Joe Kent, the Army Special Forces veteran running to unseat Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.), also couldn't match the incumbent's haul, although the that the gap is narrower ($297,000 for Kent and $422,000 for Butler in the fourth quarter) than some of the other races, perhaps due to his frequent appearances throughout right-wing media, including Steve Bannon's podcast.",
-    "author": "William Vaillancourt",
-    "title": "Republicans Who Voted to Impeach Trump Are Fundraising Laps Around Their MAGA Primary Opponents",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 106,
-    "mediaId": 98,
-    "date": "2022-00-03",
-    "sentence": "Kent picked up an early endorsement in his bid to oust Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, one of the 10 GOP members of Congress who voted for Trump's second impeachment.",
-    "author": "",
-    "title": "Tracking Trump's endorsements in the 2022 midterm election",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2234,
-    "mediaId": 21,
-    "date": "2022-00-03",
-    "sentence": "Kent is running against Republican Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, a 6-term lawmaker from southwestern Washington state who voted to impeach Trump in January 2021.",
-    "author": "Adam Wren",
-    "title": "Trump-endorsed Joe Kent, who's challenging Rep. Jaime Herrera Beutler in a Republican primary, violated federal law by improperly disclosing his personal finances",
-    "sentiment": "-0.879"
-  },
-  {
-    "id": 1,
-    "mediaId": 151,
-    "date": "2022-00-04",
-    "sentence": "Throughout the summer, Reps. Peter Meijer (R-Mich.), Dan Newhouse (R-Wash.) and <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.)  all of whom voted to impeach Trump  will face more conservative opponents backed by the former president.",
-    "author": "",
-    "title": "Are you going to cave? GOP primaries pit fighters against governing wing",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 1777,
-    "mediaId": 129,
-    "date": "2022-00-04",
-    "sentence": "But with his eye on supporting candidates Trump has attacked, Hogan has headlined  or will headline  fund-raisers for lawmakers like Senator Lisa Murkowski, Republican of Alaska, who voted to convict Trump on an impeachment charge; Representative <span class='selected-term'>Jaime Herrera Beutler</span>, Republican of Washington, who voted to impeach Trump; and Kemp, whom Trump has slammed as very weak.?\nHogan's advocacy organization has begun running ads for Representative David Valadao, Republican of California, who also voted to impeach Trump after Jan. 6.",
-    "author": "",
-    "title": "The Maryland governor, a rare Republican who speaks out publicly against Donald Trump, is trying to defend G.O.P. lawmakers targeted by the former president.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 23,
-    "mediaId": 195,
-    "date": "2022-00-05",
-    "sentence": "Army veteran Joe Kent got the Trump nod in a primary against Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.).",
-    "author": "Cristina Marcos",
-    "title": "Veteran lawmaker's exit has House GOP trending toward Trump",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 25,
-    "mediaId": 233,
-    "date": "2022-00-05",
-    "sentence": "Trump has also vowed revenge on the other GOP impeachment supporters: Rep. Tom Rice of South Carolina, <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, Dan Newhouse of Washington, Peter Meijer of Michigan and David Valadao of California.",
-    "author": "David Jackson",
-    "title": "Rep. Fred Upton - another Donald Trump Republican impeacher - announces his retirement",
-    "sentiment": "0.0"
-  },
-  {
     "id": 82,
     "mediaId": 21,
-    "date": "2022-00-05",
+    "date": "1/5/2022 12:00:00 AM",
     "sentence": "Two Washington State House Republicans who voted to impeach Trump, Rep. Dan Newhouse and Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, who has a Trump-endorsed primary challenger, are also seeking reelection on August 2.",
     "author": "Grace Panetta",
     "title": "A guide to the most important primary elections of the 2022 midterms, which will test Trump's influence over the GOP",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 84,
     "mediaId": 43,
-    "date": "2022-00-05",
+    "date": "1/5/2022 12:00:00 AM",
     "sentence": "So far, Trump has endorsed primary opponents for at least five of them, including Gonzalez (who's retiring), Reps. Liz Cheney of Wyoming, <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, and Peter Meijer and Fred Upton of Michigan, who serve neighboring districts on the west side of the state.",
     "author": "",
     "title": "Ten House Republicans voted to impeach Trump. Some then fell silent while others spoke up",
@@ -119,25 +20,259 @@
   {
     "id": 85,
     "mediaId": 129,
-    "date": "2022-00-05",
+    "date": "1/5/2022 12:00:00 AM",
     "sentence": "Representatives <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, Peter Meijer of Michigan and Fred Upton of Michigan have Trump-endorsed primary challengers on their heels and uncertain political futures.",
     "author": "",
     "title": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
     "sentiment": "0"
   },
   {
+    "id": 76,
+    "mediaId": 120,
+    "date": "1/17/2022 12:00:00 AM",
+    "sentence": "As for the rest of the contingent  Washington's <span class='selected-term'>Jaime Herrera Beutler</span>, Wyoming's Liz Cheney, Michigan's Peter Meijer, Washington's Dan Newhouse, South Carolina's Tom Rice, and California's David Valadao  each appear to be running for re-election this year.",
+    "author": "Steve Benen",
+    "title": "Another GOP member of the Impeachment 10 heads for the exits",
+    "sentiment": "0"
+  },
+  {
+    "id": 68,
+    "mediaId": 163,
+    "date": "2/1/2022 12:00:00 AM",
+    "sentence": "Scalise gave money in September to at least three House members who voted to impeach Trump: Peter Meijer of Michigan and <span class='selected-term'>Jaime Herrera Beutler</span> of Washington state - who are both facing Trump-endorsed challengers - as well as David Valadao of California.",
+    "author": "Alexandra Ulmer",
+    "title": "Republican U.S. lawmakers funnel money to colleagues who crossed Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 64,
+    "mediaId": 124,
+    "date": "2/2/2022 12:00:00 AM",
+    "sentence": "And in Washington state, Rep. <span class='selected-term'>Jaime Herrera Beutler</span> out-raised her Trump-backed opponent, Joe Kent, bringing in about $422,000 compared to his roughly $297,000 during that same period.",
+    "author": "",
+    "title": "Republicans who impeached Trump outpace challengers in latest fundraising haul",
+    "sentiment": "0"
+  },
+  {
+    "id": 690,
+    "mediaId": 129,
+    "date": "2/2/2022 12:00:00 AM",
+    "sentence": "Joe Kent, a Trump-backed Army Special Forces veteran prolific on social media and conservative talk shows, appeared to come closer to matching the fund-raising totals of his opponent, Representative <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, but still trailed her in both quarterly hauls and cash on hand.",
+    "author": "",
+    "title": "Republicans Who Voted to Impeach Trump Out-Raised Primary Rivals",
+    "sentiment": "0"
+  },
+  {
+    "id": 2247,
+    "mediaId": 195,
+    "date": "2/2/2022 12:00:00 AM",
+    "sentence": "Republican women's group Maggie's List has thrown its support behind Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) as part of its latest round of endorsements first obtained by The Hill on Wednesday.",
+    "author": "Julia Manchester",
+    "title": "GOP women's group endorses Herrera Beutler in primary race",
+    "sentiment": "0.154"
+  },
+  {
+    "id": 61,
+    "mediaId": 165,
+    "date": "2/3/2022 12:00:00 AM",
+    "sentence": "Joe Kent, the Army Special Forces veteran running to unseat Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.), also couldn't match the incumbent's haul, although the that the gap is narrower ($297,000 for Kent and $422,000 for Butler in the fourth quarter) than some of the other races, perhaps due to his frequent appearances throughout right-wing media, including Steve Bannon's podcast.",
+    "author": "William Vaillancourt",
+    "title": "Republicans Who Voted to Impeach Trump Are Fundraising Laps Around Their MAGA Primary Opponents",
+    "sentiment": "0"
+  },
+  {
+    "id": 2242,
+    "mediaId": 163,
+    "date": "2/14/2022 12:00:00 AM",
+    "sentence": "\"We need to have a full immigration moratorium,\" said Trump-endorsed Joe Kent, an Army veteran running in a Washington state primary against U.S. Representative <span class='selected-term'>Jaime Herrera Beutler</span>.",
+    "author": "Alexandra Ulmer",
+    "title": "U.S. Republicans try to out-Trump each other with tough border rhetoric ahead of election",
+    "sentiment": "0"
+  },
+  {
+    "id": 57,
+    "mediaId": 238,
+    "date": "2/17/2022 12:00:00 AM",
+    "sentence": "Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) has also drawn a Trump-backed challenger, political neophyte Joe Kent.",
+    "author": "",
+    "title": "Opinion: Republicans who voted to impeach Trump might be in less peril than people think",
+    "sentiment": "-0.232"
+  },
+  {
+    "id": 56,
+    "mediaId": 151,
+    "date": "2/20/2022 12:00:00 AM",
+    "sentence": "Against Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, he's backed Army veteran Joe Kent.",
+    "author": "",
+    "title": "Defiant GOP impeachment voters gear up for Trump-backed primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 52,
+    "mediaId": 129,
+    "date": "2/24/2022 12:00:00 AM",
+    "sentence": "There was probably a time when it made sense to have someone like Kevin McCarthy, but we need new leadership in the House,? said Joe Kent, a square-jawed former Special Forces officer who is trying to unseat Representative <span class='selected-term'>Jaime Herrera Beutler</span> in Washington, one of 10 Republicans who voted to impeach Mr. Trump after the Capitol attack.",
+    "author": "",
+    "title": "Courting G.O.P.'s Mainstream and Extreme, McCarthy Plots Rise to Speaker",
+    "sentiment": "0"
+  },
+  {
+    "id": 2236,
+    "mediaId": 151,
+    "date": "2/25/2022 12:00:00 AM",
+    "sentence": "Wins by some of the candidates challenging GOP members who voted to impeach Trump last year, like Reps. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) and Dan Newhouse (R-Wash.), could pad the numbers even more.",
+    "author": "",
+    "title": "The primary foreshadowing the future of the GOP",
+    "sentiment": "0"
+  },
+  {
+    "id": 2237,
+    "mediaId": 157,
+    "date": "2/25/2022 12:00:00 AM",
+    "sentence": "Wins by some of the candidates challenging GOP members who voted to impeach Trump last year, like Reps. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) and Dan Newhouse (R-Wash.), could pad the numbers even more,\" with GOP campaign advisor Doug Heye adding, \"The next speaker is going to have a hard time governing the House.\"",
+    "author": "Tom Boggioni",
+    "title": "Kevin McCarthy squaring off with far-right Republicans over pivotal House seat: report",
+    "sentiment": "0"
+  },
+  {
+    "id": 2234,
+    "mediaId": 21,
+    "date": "3/3/2022 12:00:00 AM",
+    "sentence": "Kent is running against Republican Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, a 6-term lawmaker from southwestern Washington state who voted to impeach Trump in January 2021.",
+    "author": "Adam Wren",
+    "title": "Trump-endorsed Joe Kent, who's challenging Rep. Jaime Herrera Beutler in a Republican primary, violated federal law by improperly disclosing his personal finances",
+    "sentiment": "-0.879"
+  },
+  {
+    "id": 2233,
+    "mediaId": 19,
+    "date": "3/7/2022 12:00:00 AM",
+    "sentence": "Republican Joe Kent is running on a populist platform for a seat in Congress, but first he must win his Washington state GOP primary against incumbent Rep. <span class='selected-term'>Jaime Herrera Beutler</span> and her corporate donors.",
+    "author": "Neil Munro",
+    "title": "Exclusive  Challenger Joe Kent: GOP Incumbent Is Totally Chamber of Commerce'",
+    "sentiment": "0"
+  },
+  {
+    "id": 38,
+    "mediaId": 237,
+    "date": "3/23/2022 12:00:00 AM",
+    "sentence": "That's nothing new  same thing happened last time.?\nTrump has come out against GOP Reps. Nancy Mace and Tom Rice of South Carolina, <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, and Peter Meijer of Michigan, among others.",
+    "author": "Juliegrace Brufke",
+    "title": "Kevin McCarthy not worried about Trump endorsements in GOP primaries",
+    "sentiment": "0"
+  },
+  {
+    "id": 37,
+    "mediaId": 157,
+    "date": "3/24/2022 12:00:00 AM",
+    "sentence": "\"McCarthy's vengeance against Cheney, however, does not extend to the other nine House Republicans who voted to impeach Trump... McCarthy noted he is backing the other incumbents such as Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, who is facing a Trump-backed primary challenger in Washington state, and Rep. David Valadao, a fellow California Republican and close McCarthy ally.",
+    "author": "Bob Brigham",
+    "title": "Kevin McCarthy is directly at odds' with Trump's revenge tour' against Republicans: report",
+    "sentiment": "-0.542"
+  },
+  {
+    "id": 295,
+    "mediaId": 33,
+    "date": "3/24/2022 12:00:00 AM",
+    "sentence": "McCarthy noted he is backing the other incumbents such as Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, who is facing a Trump-backed primary challenger in Washington state, and Rep. David Valadao, a fellow California Republican and close McCarthy ally.",
+    "author": "Melanie Zanona",
+    "title": "McCarthy calls endorsement of Cheney's primary foe a 'special case'",
+    "sentiment": "-0.542"
+  },
+  {
+    "id": 23,
+    "mediaId": 195,
+    "date": "4/5/2022 12:00:00 AM",
+    "sentence": "Army veteran Joe Kent got the Trump nod in a primary against Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.).",
+    "author": "Cristina Marcos",
+    "title": "Veteran lawmaker's exit has House GOP trending toward Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 25,
+    "mediaId": 233,
+    "date": "4/5/2022 12:00:00 AM",
+    "sentence": "Trump has also vowed revenge on the other GOP impeachment supporters: Rep. Tom Rice of South Carolina, <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, Dan Newhouse of Washington, Peter Meijer of Michigan and David Valadao of California.",
+    "author": "David Jackson",
+    "title": "Rep. Fred Upton - another Donald Trump Republican impeacher - announces his retirement",
+    "sentiment": "0"
+  },
+  {
     "id": 21,
     "mediaId": 120,
-    "date": "2022-00-06",
+    "date": "4/6/2022 12:00:00 AM",
     "sentence": "Recommended\nAs for the who's next? question, these are the other six members of the GOP's Impeachment 10 (in alphabetical order):\nWashington's <span class='selected-term'>Jaime Herrera Beutler</span> is running for re-election in a district in which her local Republican Party formally censured her for holding Trump accountable.",
     "author": "Steve Benen",
     "title": "What members of the House GOP's Impeachment 10 have in common",
     "sentiment": "-0.386"
   },
   {
+    "id": 2217,
+    "mediaId": 376,
+    "date": "4/12/2022 12:00:00 AM",
+    "sentence": "Races rated Solid Democratic\n1st District (Suzan DelBene, D)\n2nd District (Rick Larsen, D)\n6th District (Derek Kilmer, D)\n7th District (Pramila Jayapal, D)\n9th District (Adam Smith, D)\n10th District (Marilyn Strickland, D)\nRaces rated Solid Republican\n3rd District (<span class='selected-term'>Jaime Herrera Beutler</span>, R)\n4th District (Dan Newhouse, R)\n5th District (Cathy McMorris Rodgers, R)\nNathan L. Gonzales is an elections analyst for CQ Roll Call.",
+    "author": "",
+    "title": "New lines, interesting races in Washington state",
+    "sentiment": "0"
+  },
+  {
+    "id": 186,
+    "mediaId": 129,
+    "date": "4/17/2022 12:00:00 AM",
+    "sentence": "He's not a real big digital guy, so we had printouts,? said Joe Kent, who has since won Mr. Trump's backing for his effort to unseat Representative <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, one of the 10 Republican impeachment votes.",
+    "author": "",
+    "title": "Mar-a-Lago Machine: Trump as a Modern-Day Party Boss",
+    "sentiment": "0"
+  },
+  {
+    "id": 2214,
+    "mediaId": 21,
+    "date": "4/18/2022 12:00:00 AM",
+    "sentence": "Kent is running in a primary challenge against Republican Rep. <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, who was one of 10 House Republicans to vote for Trump's second impeachment.",
+    "author": "Jake Lahut",
+    "title": "Republican candidates seeking Trump's endorsement need to show him 'printouts' with 'big' fonts: 'He's not a real big digital guy'",
+    "sentiment": "-0.672"
+  },
+  {
+    "id": 9,
+    "mediaId": 43,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "Next up is southern Washington's 3rd District, where incumbent <span class='selected-term'>Jaime Herrera Beutler</span> took in $602,000 and finished with just over $2 million.",
+    "author": "",
+    "title": "House Republicans all lead their challengers in recent fundraising",
+    "sentiment": "0"
+  },
+  {
+    "id": 106,
+    "mediaId": 98,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "Kent picked up an early endorsement in his bid to oust Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, one of the 10 GOP members of Congress who voted for Trump's second impeachment.",
+    "author": "",
+    "title": "Tracking Trump's endorsements in the 2022 midterm election",
+    "sentiment": "0"
+  },
+  {
+    "id": 1,
+    "mediaId": 151,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "Throughout the summer, Reps. Peter Meijer (R-Mich.), Dan Newhouse (R-Wash.) and <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.)  all of whom voted to impeach Trump  will face more conservative opponents backed by the former president.",
+    "author": "",
+    "title": "Are you going to cave? GOP primaries pit fighters against governing wing",
+    "sentiment": "0"
+  },
+  {
+    "id": 1777,
+    "mediaId": 129,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "But with his eye on supporting candidates Trump has attacked, Hogan has headlined  or will headline  fund-raisers for lawmakers like Senator Lisa Murkowski, Republican of Alaska, who voted to convict Trump on an impeachment charge; Representative <span class='selected-term'>Jaime Herrera Beutler</span>, Republican of Washington, who voted to impeach Trump; and Kemp, whom Trump has slammed as very weak.?\nHogan's advocacy organization has begun running ads for Representative David Valadao, Republican of California, who also voted to impeach Trump after Jan. 6.",
+    "author": "",
+    "title": "The Maryland governor, a rare Republican who speaks out publicly against Donald Trump, is trying to defend G.O.P. lawmakers targeted by the former president.",
+    "sentiment": "0"
+  },
+  {
     "id": 1715,
     "mediaId": 98,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "We need to move on to solving problems for citizens,? said Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, the Republican facing a primary challenge from Kent.",
     "author": "DAVID KLEPPER and JEFF AMY",
     "title": "GOP works to get out the vote after calling elections rigged",
@@ -146,163 +281,28 @@
   {
     "id": 1725,
     "mediaId": 1576,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "We need to move on to solving problems for citizens,? said Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, the Republican from southwest Washington state facing a primary challenge this year from Kent.",
     "author": "",
     "title": "GOP works to get out the vote after calling elections rigged",
     "sentiment": "-0.317"
   },
   {
-    "id": 2233,
-    "mediaId": 19,
-    "date": "2022-00-07",
-    "sentence": "Republican Joe Kent is running on a populist platform for a seat in Congress, but first he must win his Washington state GOP primary against incumbent Rep. <span class='selected-term'>Jaime Herrera Beutler</span> and her corporate donors.",
-    "author": "Neil Munro",
-    "title": "Exclusive  Challenger Joe Kent: GOP Incumbent Is Totally Chamber of Commerce'",
-    "sentiment": "0"
-  },
-  {
-    "id": 2217,
-    "mediaId": 376,
-    "date": "2022-00-12",
-    "sentence": "Races rated Solid Democratic\n1st District (Suzan DelBene, D)\n2nd District (Rick Larsen, D)\n6th District (Derek Kilmer, D)\n7th District (Pramila Jayapal, D)\n9th District (Adam Smith, D)\n10th District (Marilyn Strickland, D)\nRaces rated Solid Republican\n3rd District (<span class='selected-term'>Jaime Herrera Beutler</span>, R)\n4th District (Dan Newhouse, R)\n5th District (Cathy McMorris Rodgers, R)\nNathan L. Gonzales is an elections analyst for CQ Roll Call.",
-    "author": "",
-    "title": "New lines, interesting races in Washington state",
-    "sentiment": "0"
-  },
-  {
     "id": 3123,
     "mediaId": 21,
-    "date": "2022-00-12",
+    "date": "5/12/2022 12:00:00 AM",
     "sentence": "Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, one of 10 House Republicans who voted to impeach Trump, cited what McCarthy told her about his conversation with the president in her statement explaining her vote.",
     "author": "Brent D. Griffiths",
     "title": "House Jan. 6 committee subpoenas Kevin McCarthy for his communications with Trump around time of the Capitol attack",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3301,
     "mediaId": 238,
-    "date": "2022-00-13",
+    "date": "5/13/2022 12:00:00 AM",
     "sentence": "A former Army Special Forces officer, Kent is running to replace Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (Wash.), one of 10 Republicans who voted to impeach Trump in the House.",
     "author": "Josh Dawsey",
     "title": "More Republicans are working to undermine Trump endorsements",
     "sentiment": "-0.798"
-  },
-  {
-    "id": 2242,
-    "mediaId": 163,
-    "date": "2022-00-14",
-    "sentence": "\"We need to have a full immigration moratorium,\" said Trump-endorsed Joe Kent, an Army veteran running in a Washington state primary against U.S. Representative <span class='selected-term'>Jaime Herrera Beutler</span>.",
-    "author": "Alexandra Ulmer",
-    "title": "U.S. Republicans try to out-Trump each other with tough border rhetoric ahead of election",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 57,
-    "mediaId": 238,
-    "date": "2022-00-17",
-    "sentence": "Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) has also drawn a Trump-backed challenger, political neophyte Joe Kent.",
-    "author": "",
-    "title": "Opinion: Republicans who voted to impeach Trump might be in less peril than people think",
-    "sentiment": "-0.232"
-  },
-  {
-    "id": 76,
-    "mediaId": 120,
-    "date": "2022-00-17",
-    "sentence": "As for the rest of the contingent  Washington's <span class='selected-term'>Jaime Herrera Beutler</span>, Wyoming's Liz Cheney, Michigan's Peter Meijer, Washington's Dan Newhouse, South Carolina's Tom Rice, and California's David Valadao  each appear to be running for re-election this year.",
-    "author": "Steve Benen",
-    "title": "Another GOP member of the Impeachment 10 heads for the exits",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 186,
-    "mediaId": 129,
-    "date": "2022-00-17",
-    "sentence": "He's not a real big digital guy, so we had printouts,? said Joe Kent, who has since won Mr. Trump's backing for his effort to unseat Representative <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, one of the 10 Republican impeachment votes.",
-    "author": "",
-    "title": "Mar-a-Lago Machine: Trump as a Modern-Day Party Boss",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2214,
-    "mediaId": 21,
-    "date": "2022-00-18",
-    "sentence": "Kent is running in a primary challenge against Republican Rep. <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, who was one of 10 House Republicans to vote for Trump's second impeachment.",
-    "author": "Jake Lahut",
-    "title": "Republican candidates seeking Trump's endorsement need to show him 'printouts' with 'big' fonts: 'He's not a real big digital guy'",
-    "sentiment": "-0.672"
-  },
-  {
-    "id": 56,
-    "mediaId": 151,
-    "date": "2022-00-20",
-    "sentence": "Against Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, he's backed Army veteran Joe Kent.",
-    "author": "",
-    "title": "Defiant GOP impeachment voters gear up for Trump-backed primaries",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 9,
-    "mediaId": 43,
-    "date": "2022-00-21",
-    "sentence": "Next up is southern Washington's 3rd District, where incumbent <span class='selected-term'>Jaime Herrera Beutler</span> took in $602,000 and finished with just over $2 million.",
-    "author": "",
-    "title": "House Republicans all lead their challengers in recent fundraising",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 38,
-    "mediaId": 237,
-    "date": "2022-00-23",
-    "sentence": "That's nothing new  same thing happened last time.?\nTrump has come out against GOP Reps. Nancy Mace and Tom Rice of South Carolina, <span class='selected-term'>Jaime Herrera Beutler</span> of Washington, and Peter Meijer of Michigan, among others.",
-    "author": "Juliegrace Brufke",
-    "title": "Kevin McCarthy not worried about Trump endorsements in GOP primaries",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 37,
-    "mediaId": 157,
-    "date": "2022-00-24",
-    "sentence": "\"McCarthy's vengeance against Cheney, however, does not extend to the other nine House Republicans who voted to impeach Trump... McCarthy noted he is backing the other incumbents such as Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, who is facing a Trump-backed primary challenger in Washington state, and Rep. David Valadao, a fellow California Republican and close McCarthy ally.",
-    "author": "Bob Brigham",
-    "title": "Kevin McCarthy is directly at odds' with Trump's revenge tour' against Republicans: report",
-    "sentiment": "-0.542"
-  },
-  {
-    "id": 52,
-    "mediaId": 129,
-    "date": "2022-00-24",
-    "sentence": "There was probably a time when it made sense to have someone like Kevin McCarthy, but we need new leadership in the House,? said Joe Kent, a square-jawed former Special Forces officer who is trying to unseat Representative <span class='selected-term'>Jaime Herrera Beutler</span> in Washington, one of 10 Republicans who voted to impeach Mr. Trump after the Capitol attack.",
-    "author": "",
-    "title": "Courting G.O.P.'s Mainstream and Extreme, McCarthy Plots Rise to Speaker",
-    "sentiment": "0"
-  },
-  {
-    "id": 295,
-    "mediaId": 33,
-    "date": "2022-00-24",
-    "sentence": "McCarthy noted he is backing the other incumbents such as Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, who is facing a Trump-backed primary challenger in Washington state, and Rep. David Valadao, a fellow California Republican and close McCarthy ally.",
-    "author": "Melanie Zanona",
-    "title": "McCarthy calls endorsement of Cheney's primary foe a 'special case'",
-    "sentiment": "-0.542"
-  },
-  {
-    "id": 2236,
-    "mediaId": 151,
-    "date": "2022-00-25",
-    "sentence": "Wins by some of the candidates challenging GOP members who voted to impeach Trump last year, like Reps. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) and Dan Newhouse (R-Wash.), could pad the numbers even more.",
-    "author": "",
-    "title": "The primary foreshadowing the future of the GOP",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2237,
-    "mediaId": 157,
-    "date": "2022-00-25",
-    "sentence": "Wins by some of the candidates challenging GOP members who voted to impeach Trump last year, like Reps. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) and Dan Newhouse (R-Wash.), could pad the numbers even more,\" with GOP campaign advisor Doug Heye adding, \"The next speaker is going to have a hard time governing the House.\"",
-    "author": "Tom Boggioni",
-    "title": "Kevin McCarthy squaring off with far-right Republicans over pivotal House seat: report",
-    "sentiment": "0.0"
   }
 ]

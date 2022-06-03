@@ -5,14 +5,21 @@
   "headline": "Judge announces hell block DeSantis Florida redistricting plan because its unconstitutional",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/8221c92/2147483647/strip/true/crop/4020x2680+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2Ffe%2F87f065744e43c6b40342fc95e0fd%2Fc783298e692f48778e49f34ce1360647",
   "link": "https://www.latimes.com/world-nation/story/2022-05-11/judge-blocks-desantis-florida-redistricting-plan",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Associated Press",
   "authorUrl": "https://www.latimes.com/people/associated-press",
   "termIds": [
-    661
+    661,
+    1587,
+    3804,
+    428,
+    571,
+    2661,
+    2926,
+    4991
   ],
   "sentences": [
     "We will undoubtedly be appealing his ruling and are confident the constitutional map enacted by the Florida legislature and signed into law passes legal muster.?\nSmith said that while the DeSantis map is more compact, the issue of allowing Black voters to choose their representatives is more important.",

@@ -5,7 +5,7 @@
   "headline": "Trump has only himself to blame for Kathy Barnette, Pennsylvania's terrifying new MAGA darling",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/05/kathy-barnette-0513221.jpg",
   "link": "https://www.salon.com/2022/05/13/has-only-himself-to-for-kathy-barnette-pennsylvanias-terrifying-new-maga-darling/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "https://www.salon.com/writer/amanda_marcotte",
   "termIds": [
     815,
-    2303
+    1147,
+    1158,
+    1765,
+    2303,
+    2342,
+    2491,
+    4027,
+    428,
+    571,
+    2862
   ],
   "sentences": [
     "People who are compelled by the idea that a person wouldn't be here if a woman had ended a pregnancy will likely find other potential roadblocks to giving birth, including preventing pregnancy via contraception or a woman's right to refuse sex, suspicious as well.",

@@ -5,14 +5,19 @@
   "headline": "Appeals court reinstates Florida political redistricting map",
   "image": "https://cdnph.upi.com/svc/sv/upi/3211653075945/2022/1/f3c3f89fe5c04d10e74e392efc24030c/Appeals-court-reinstates-Florida-political-redistricting-map.jpg",
   "link": "https://www.upi.com/Top_News/US/2022/05/20/florida-political-redistricting-map-reinstated-appeals-court/3211653075945/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "UPI",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Doug Cunningham",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3804,
+    478,
+    5201,
+    2661,
+    5039
   ],
   "sentences": [
     "\"Based on a preliminary review, the court has determined there is a high likelihood that the temporary injunction is unlawful, because by awarding a preliminary remedy to the appellees (the plaintiffs) on their claim, the order 'frustrated the status quo, rather than preserved it,'\" the appeals court said, quoting a legal precedent.",

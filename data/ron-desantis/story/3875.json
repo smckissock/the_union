@@ -5,14 +5,17 @@
   "headline": "DeSantis: Disney Does Not Run Florida",
   "image": "https://media.townhall.com/townhall/reu/ha/2022/55/26da936b-89b9-4db0-bc18-159f8ba63715.png",
   "link": "https://townhall.com/tipsheet/saraharnold/2022/05/07/desantis-disney-does-not-run-florida-n2606911",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah Arnold",
   "authorUrl": "https://townhall.com/tipsheet/saraharnold/",
   "termIds": [
-    661
+    661,
+    524,
+    3508,
+    2661
   ],
   "sentences": [
     "During a press conference, DeSantis vowed the woke company will not have its own government in Florida.? adding, the state will no longer subsidize Disneys corporate speech.? He made it very clear he is not bluffing.",

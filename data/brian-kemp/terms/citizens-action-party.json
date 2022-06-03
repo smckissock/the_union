@@ -2,10 +2,28 @@
   {
     "id": 5406,
     "mediaId": 237,
-    "date": "2022-00-30",
+    "date": "3/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "Andrew Kerr",
     "title": "Stacey Abrams dark money group hauled in $62 million following 2018 election loss",
     "sentiment": "0"
+  },
+  {
+    "id": 8911,
+    "mediaId": 136,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Former President Donald Trump's \"Save America\" political action committee (PAC) on Tuesday sent an email to subscribers that linked to an article that claims Governor <span class='selected-term'>Brian Kemp</span>'s victory in last week's Republican gubernatorial primary was the result of voter fraud.",
+    "author": "Jon Jackson",
+    "title": "Trump Pushes Claim That Brian Kemp's 50-Point Victory Was Fraud",
+    "sentiment": "-0.785"
+  },
+  {
+    "id": 8730,
+    "mediaId": 21,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Former President Donald Trump's political action committee (PAC) suggested, groundlessly, that Georgia Governor <span class='selected-term'>Brian Kemp</span> won his primary via fraud, returning to a familiar theme.",
+    "author": "Tom Porter",
+    "title": "Trump's PAC baselessly claims Brian Kemp's 52-point victory in Georgia governor primary was because of fraud",
+    "sentiment": "-0.868"
   }
 ]

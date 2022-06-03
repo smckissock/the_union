@@ -5,7 +5,7 @@
   "headline": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan",
   "image": "https://d.newsweek.com/en/full/2042764/geoff-duncan-dicusses-donald-trump-endorsements.webp?w=790&f=7cd8f96514b6dad893143f8ac7308dab",
   "link": "https://www.newsweek.com/trump-endorsement-more-matchbox-car-freight-train-geoff-duncan-1708941",
-  "sentiment": "0.0",
+  "sentiment": "-0.925",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,10 +14,17 @@
   "termIds": [
     815,
     821,
+    1147,
     2095,
+    2246,
     2303,
     3102,
-    3103
+    3103,
+    4325,
+    428,
+    501,
+    2672,
+    2834
   ],
   "sentences": [
     "As Tuesday's primary elections approach in Georgia, Trump appears poised to be delivered a major proxy defeat in the Republican Party's gubernatorial primary, where he endorsed former Senator David Perdue against incumbent GOP Governor Brian Kemp.",

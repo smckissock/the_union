@@ -5,7 +5,7 @@
   "headline": "Politically Georgia: David Perdue goes all in with Donald Trump",
   "image": "https://www.ajc.com/resizer/wFdWHm2eRFdgmB7JKxJtOqxE3zw=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/B2LMWAIEH5HAFM2FXTWT3LZFY4.jpeg",
   "link": "https://www.ajc.com/politics/politically-georgia-david-perdue-goes-all-in-with-donald-trump/6WI37V3GXVDZRBMUPAN5YITKRA/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,11 @@
   "authorUrl": "https://www.ajc.com/staff/patricia-murphy/",
   "termIds": [
     815,
-    2095
+    1147,
+    1951,
+    2095,
+    4325,
+    2672
   ],
   "sentences": [
     "In this episode of the Politically Georgia podcast, host Greg Bluestein and political insider Patricia Murphy break down the focus on Donald Trump, Stacey Abrams huge fundraising figures and the pressure on Republican Senate candidates not named Herschel Walker.",

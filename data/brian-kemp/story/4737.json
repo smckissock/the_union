@@ -5,14 +5,17 @@
   "headline": "What Georgians say about abortion and Roe v. Wade, according to polls",
   "image": "https://www.ajc.com/resizer/DjP0A6pqFHfTX6cEDN4sUZ2WrkA=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/4YHXZQDXUCF2HQTYBGZJOHG5CY.jpg",
   "link": "https://www.ajc.com/politics/what-georgians-say-about-abortion-and-roe-v-wade-according-to-polls/PCO2KCU47BCERDEF4FLGRFWVGQ/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Isaac Sabetai",
   "authorUrl": "https://www.ajc.com/staff/isaac-sabetai/",
   "termIds": [
-    2095
+    2095,
+    482,
+    501,
+    2672
   ],
   "sentences": [
     "The Atlanta Journal-Constitution regularly polls Georgia voters and asked about abortion when it was on the U.S. Supreme Court agenda and as state lawmakers were considering a bill to significantly curtail the procedure in 2019.",

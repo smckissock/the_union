@@ -2,19 +2,28 @@
   {
     "id": 7045,
     "mediaId": 65,
-    "date": "2022-00-14",
+    "date": "1/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Pennsylvania Republicans to draft bill to relocate migrants on Biden DHS flights to Delaware",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3431,
     "mediaId": 129,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "He said that he had been told before that he was the <span class='selected-term'>Ron DeSantis</span> before Ron DeSantis.",
     "author": "",
     "title": "Republican Chaos' in Pennsylvania Threatens to Upend the Midterms",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8696,
+    "mediaId": 129,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Lawyer who plotted to overturn Trumps 2020 loss recruits election deniers to watch over the vote.",
+    "sentiment": "0"
   }
 ]

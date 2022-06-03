@@ -5,14 +5,17 @@
   "headline": "El aborto en Florida: qu significan las leyes actuales para las personas que buscan abortar?",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220503112717-02-us-abortion-laws-story-tablet.jpg",
   "link": "https://cnnespanol.cnn.com/2022/05/05/aborto-en-florida-que-es-ilegal-bajo-las-politicas-estatales-orix/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Por CNN EspaÃ±ol",
   "authorUrl": "https://cnnespanol.cnn.com/author/cnn-espanol/",
   "termIds": [
-    661
+    661,
+    243,
+    400,
+    2661
   ],
   "sentences": [
     "Las nicas excepciones a esta regla son para vctimas de violacin, incesto, violencia domstica y trata de personas por lo que es necesario presentar un reporte policial, registro mdico u orden judicial, seala Planned Parenthood, una organizacin sin fines de lucro que brinda atencin de salud sexual y reproductiva, as como planificacin familiar y atencin ginecolgica.",

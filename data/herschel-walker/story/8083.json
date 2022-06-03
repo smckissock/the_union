@@ -5,7 +5,7 @@
   "headline": "Politically Georgia: Why Rivian has charged up the race for governor",
   "image": "https://www.ajc.com/resizer/25vskP5hRZprZvLvR79vbLrxfAc=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/2XFF77RWPWI3LCCE5ARHXRE6EU.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/politically-georgia-why-rivian-has-charged-up-the-race-for-governor/HUYQE6SB5VGD3FJMEJNYUHN22U/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,10 @@
   "authorUrl": "https://www.ajc.com/staff/patricia-murphy/",
   "termIds": [
     815,
-    2095
+    2095,
+    4325,
+    436,
+    2672
   ],
   "sentences": [
     "Plus, our team also discusses how key items of U.S. Sen. Raphael Warnocks agenda made it into the State of the Union and why Herschel Walker will not be joining U.S. Rep. Marjorie Taylor Greene on the campaign trail this weekend.",

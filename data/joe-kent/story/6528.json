@@ -5,14 +5,23 @@
   "headline": "The midterms are here. Critics say Facebook is already behind.",
   "image": "",
   "link": "https://www.washingtonpost.com/technology/2022/05/19/facebook-midterm-misinformation-strategy/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Naomi Nix",
   "authorUrl": "https://www.washingtonpost.com/people/naomi-nix/",
   "termIds": [
-    2006
+    1147,
+    2006,
+    2087,
+    5286,
+    177,
+    428,
+    539,
+    562,
+    571,
+    5176
   ],
   "sentences": [
     "They want the platforms to commit to increasing their staffing and content moderation practices in the period between Election Day and when the new members take office in 2023 to help ensure a peaceful transition.\nThe groups are also asking tech companies to prioritize removing posts that amplify the big lie that the 2020 election was stolen or glorify the Jan. 6 siege of the Capitol, particularly from political candidates and in fundraising advertisements, they wrote in their letter.",

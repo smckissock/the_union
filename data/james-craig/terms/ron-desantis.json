@@ -2,28 +2,28 @@
   {
     "id": 859,
     "mediaId": 195,
-    "date": "2022-00-01",
+    "date": "1/1/2022 12:00:00 AM",
     "sentence": "Whitmer is facing a cavalcade of possible Republican challengers, including former Detroit Police Chief <span class='selected-term'>James Craig</span> and conservative media personality Tudor Dixon, and her ability  or inability  to fend off her ultimate challenger will indicate how Democrats are able to rebut coronavirus-related criticism and compete in Rust Belt swing states like Michigan, Pennsylvania and Wisconsin.",
     "author": "Tal Axelrod",
     "title": "Eleven interesting races to watch in 2022",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 867,
-    "mediaId": 881,
-    "date": "2022-00-03",
-    "sentence": "Michigan Republican front-runner <span class='selected-term'>James Craig</span> has pledged to do whatever I can? to keep that law in place should he win the governorship.",
-    "author": "Cameron Joseph",
-    "title": "The 2022 elections could determine the fate of abortion access for years in a number of major swing states.",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 909,
     "mediaId": 136,
-    "date": "2022-00-12",
+    "date": "4/12/2022 12:00:00 AM",
     "sentence": "The leading candidate in Michigan's Republican primary, <span class='selected-term'>James Craig</span>, seems to have reversed his allyship to the LGBTQ community, saying he'd want a \"more aggressive\" version of Florida's controversial \"Don't Say Gay\" bill.",
     "author": "Katherine Fung",
     "title": "Former LGBT Ally Wants 'More Aggressive' 'Don't Say Gay' Bill in Michigan",
     "sentiment": "-0.628"
+  },
+  {
+    "id": 867,
+    "mediaId": 881,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "Michigan Republican front-runner <span class='selected-term'>James Craig</span> has pledged to do whatever I can? to keep that law in place should he win the governorship.",
+    "author": "Cameron Joseph",
+    "title": "The 2022 elections could determine the fate of abortion access for years in a number of major swing states.",
+    "sentiment": "0"
   }
 ]

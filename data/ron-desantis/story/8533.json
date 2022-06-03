@@ -5,14 +5,18 @@
   "headline": "Marco Rubio's anti-choice agenda is an assault on Floridians' freedoms | Column",
   "image": "https://www.tampabay.com/resizer//7IUy7cnd0Gu2IP66CZTiFqT5pbw=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/M4XCHIY7RRCX5I3O7SIOS7CDXY.jpg",
   "link": "https://www.tampabay.com/opinion/2022/05/28/marco-rubios-anti-choice-agenda-is-an-assault-on-floridians-freedoms-column/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Rachel Rapkin",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    971,
+    428,
+    6091,
+    2661
   ],
   "sentences": [
     "He doesn't support exceptions in abortion bans that would protect victims of rape or incest, and he's even introduced legislation that could throw doctors in jail for providing reproductive health care services that he wants to ban.",

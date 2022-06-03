@@ -5,14 +5,20 @@
   "headline": "Shapiro says he would welcome Biden to Pennsylvania amid gubernatorial race",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2020/10/shapirojosh_paag_102220msnbc.png?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/sunday-talk-shows/3497176-shapiro-says-he-would-welcome-biden-to-pennsylvania-amid-gubernatorial-race/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mychael Schnell",
   "authorUrl": "https://thehill.com/author/mychael-schnell/",
   "termIds": [
-    3102
+    1147,
+    1713,
+    2087,
+    2329,
+    3102,
+    392,
+    2862
   ],
   "sentences": [
     "But Im focused on running a race here in the Commonwealth of Pennsylvania, listening to the people of Washington County, not Washington, D.C. Thats my focus, running a race thats focused on meeting the needs of the good people in Pennsylvania,? he added.",

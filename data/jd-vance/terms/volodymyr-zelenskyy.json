@@ -1,89 +1,17 @@
 [
   {
-    "id": 6015,
-    "mediaId": 195,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?",
-    "sentiment": "0"
-  },
-  {
-    "id": 4022,
-    "mediaId": 157,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "Travis Gettys",
-    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
-    "sentiment": "0"
-  },
-  {
-    "id": 5616,
-    "mediaId": 129,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "Appease or Confront",
-    "sentiment": "0"
-  },
-  {
-    "id": 5576,
-    "mediaId": 238,
-    "date": "2022-00-11",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion Were in danger of losing our democracy, but most Americans are in denial",
-    "sentiment": "0"
-  },
-  {
-    "id": 5530,
-    "mediaId": 151,
-    "date": "2022-00-15",
-    "sentence": "",
-    "author": "",
-    "title": "McConnell takes on MAGA with Ukraine visit",
-    "sentiment": "0"
-  },
-  {
     "id": 6386,
     "mediaId": 195,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Russia plots next move amid setbacks",
     "sentiment": "0"
   },
   {
-    "id": 5493,
-    "mediaId": 129,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "",
-    "title": "Live Updates: Ukraine Gives Up Fighting at Mariupol Steel Plant",
-    "sentiment": "0"
-  },
-  {
-    "id": 5497,
-    "mediaId": 98,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "LISA MASCARO",
-    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine",
-    "sentiment": "0"
-  },
-  {
-    "id": 5499,
-    "mediaId": 129,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "",
-    "title": "McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid",
-    "sentiment": "0"
-  },
-  {
     "id": 6252,
     "mediaId": 129,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Bashing Joe Biden? Give the Guy a Break!",
@@ -92,16 +20,88 @@
   {
     "id": 6185,
     "mediaId": 209,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Grayson Quay",
     "title": "10 things you need to know today: April 24, 2022",
     "sentiment": "0"
   },
   {
+    "id": 6015,
+    "mediaId": 195,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Congress seeks Ukraine aid deal, but how?",
+    "sentiment": "0"
+  },
+  {
+    "id": 4022,
+    "mediaId": 157,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Travis Gettys",
+    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
+    "sentiment": "0"
+  },
+  {
+    "id": 5616,
+    "mediaId": 129,
+    "date": "5/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Appease or Confront",
+    "sentiment": "0"
+  },
+  {
+    "id": 5576,
+    "mediaId": 238,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion Were in danger of losing our democracy, but most Americans are in denial",
+    "sentiment": "0"
+  },
+  {
+    "id": 5530,
+    "mediaId": 151,
+    "date": "5/15/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "McConnell takes on MAGA with Ukraine visit",
+    "sentiment": "0"
+  },
+  {
+    "id": 5493,
+    "mediaId": 129,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Live Updates: Ukraine Gives Up Fighting at Mariupol Steel Plant",
+    "sentiment": "0"
+  },
+  {
+    "id": 5497,
+    "mediaId": 98,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "LISA MASCARO",
+    "title": "Echoing Trumps isolationism, some Republicans oppose more aid for Ukraine",
+    "sentiment": "0"
+  },
+  {
+    "id": 5499,
+    "mediaId": 129,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid",
+    "sentiment": "0"
+  },
+  {
     "id": 8563,
     "mediaId": 136,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jonathan Tobin",
     "title": "McConnell's Win on Ukraine Aid Isn't the End of GOP Foreign Policy Debate | Opinion",

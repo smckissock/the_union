@@ -5,7 +5,7 @@
   "headline": "G.O.P. Lawmakers Recast Abortion Stance, Wary of Voter Backlash",
   "image": "https://static01.nyt.com/images/2022/05/06/us/politics/06dc-abortion-gop-mcconnell/merlin_206337891_76418de9-1ded-4c72-95bb-d8513873c79a-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/06/us/politics/republicans-abortion.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "",
   "termIds": [
     661,
-    2095
+    1073,
+    1765,
+    2095,
+    4181,
+    146,
+    428,
+    482,
+    545
   ],
   "sentences": [
     "The figure is about 12 percent now, said Dr. Nisha Verma, a fellow at the college and a gynecologist in Washington, D.C.\nThe need for abortion will never go away,? Dr. Verma said, but, she added, Weve definitely seen that people have been able to take more control in their reproductive health.?\nAnother study in the Journal of the American Medical Association found a 21.6 percent jump in the use of such contraception in the months after the 2016 election of Mr. Trump, with his vows to install justices who would overturn Roe.",

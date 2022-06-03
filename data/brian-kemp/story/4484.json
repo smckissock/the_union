@@ -5,14 +5,23 @@
   "headline": "Primaries in Pennsylvania, elsewhere are a referendum on Trump & Biden",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8412507a-1c60-400c-ac7f-7d69c106ed17/b95696e9-0573-41f8-b539-5db8323e690f/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/opinion/primary-elections-pennsylvania-trump-biden-liz-peek",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Liz Peek",
   "authorUrl": "https://www.foxnews.com/person/p/liz-peek",
   "termIds": [
-    2095
+    1147,
+    1434,
+    1622,
+    2087,
+    2095,
+    2203,
+    2409,
+    4894,
+    584,
+    2862
   ],
   "sentences": [
     "For instance, in a match-up in the race for Secretary of State, where Trump has endorsed Jody Hice over incumbent Brad Raffensberger, who also refused to back Trumps claims about the Georgia election, Trumps support bumps up Hices lead by over 30 points.",

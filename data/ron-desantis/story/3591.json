@@ -5,14 +5,22 @@
   "headline": "A Glimpse of a Potential Post-Roe Future Through Texas Womens Stories",
   "image": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U4YPR4WS4QI6ZGMZKT7ZE7ECJE.jpg&w=1800",
   "link": "https://www.washingtonpost.com/magazine/interactive/2022/texas-women-abortion-stories/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4028,
+    3345,
+    2551,
+    2760,
+    2766,
+    2934,
+    2945,
+    5124
   ],
   "sentences": [
     "State legislation: As Republican-led states move to restrict abortion, The Post is tracking legislation across the country on 15-week bans, Texas-style bans, trigger laws and abortion pill bans, as well as Democratic-dominated states that are moving to protect abortion rights enshrined in Roe v. Wade.",

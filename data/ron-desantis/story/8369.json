@@ -5,14 +5,20 @@
   "headline": "Florida passes condo safety bill in wake of Surfside collapse",
   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2021/07/tragiccollapse2-1200x761.jpg",
   "link": "https://www.pbs.org/newshour/nation/florida-passes-condo-safety-bill-in-wake-of-surfside-collapse",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "PBS NewsHour",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Associated Press",
   "authorUrl": "https://www.pbs.org/newshour/author/associated-press",
   "termIds": [
-    661
+    661,
+    428,
+    2582,
+    2661,
+    2790,
+    2926,
+    5488
   ],
   "sentences": [
     "While some Democratic lawmakers complained that the special session on insurance didn't go far enough to help relieve homeowners, they did praise the addition of the condominium safety legislation.",

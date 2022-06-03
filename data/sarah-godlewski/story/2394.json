@@ -5,7 +5,7 @@
   "headline": "Democratic U.S. Senate candidate Alex Lasry pours in $1.55 million more into race, while Sarah Godlewski adds $750,000",
   "image": "https://www.gannett-cdn.com/presto/2021/07/30/PMJS/1f772750-7d6a-4cf5-ac41-874600ef627f-lasry_godlewski_barnes.jpg?crop=660,371,x0,y2&width=660&height=371&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/01/31/democrats-alex-lasry-sarah-godlewski-pour-big-money-into-senate-race/9288027002/",
-  "sentiment": "0.0",
+  "sentiment": "0.483",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,11 @@
     741,
     802,
     1568,
-    2039
+    1925,
+    2039,
+    2468,
+    146,
+    571
   ],
   "sentences": [
     "Lasry, on leave from his executive job with the Milwaukee Bucks, poured in another $1.55 million into the race during the final three months of 2021, while Godlewski added another $750,000, their campaigns said Monday.",

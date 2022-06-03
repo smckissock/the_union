@@ -2,10 +2,19 @@
   {
     "id": 2367,
     "mediaId": 151,
-    "date": "2022-00-14",
+    "date": "3/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "GOP Senate candidates thrash each other ahead of fight for majority",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8648,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Mandela Barnes (D) said Johnson and his gun lobby-funded colleagues are the reason we haven't been able to pass commonsense gun reform, while Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> said Doing nothing has resulted in one thing: more dead children and the people of Wisconsin are tired of having a do-nothing Senator in Washington.",
+    "author": "Julia Manchester",
+    "title": "Emboldened Democrats eye Ron Johnson amid new controversies",
+    "sentiment": "0"
   }
 ]

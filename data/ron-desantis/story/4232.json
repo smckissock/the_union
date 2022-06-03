@@ -5,14 +5,18 @@
   "headline": "Opinion All jokes aside: Biden grasps what the medias obligation should be",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/02/biden-whcd-remarks-emphasized-press-role-in-democracy/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1609,
+    2087,
+    2183,
+    4640
   ],
   "sentences": [
     "Biden reminded the media that the First Amendment comes with a very heavy obligation: to seek the truth as best you can  not to inflame or entertain but to illuminate and educate.? He acknowledged that there is incredible pressure? on journalists to deliver heat instead of shed light.?\nBiden shows true affection for the media as an institution, perhaps because he understands  better than click-focused editors, conflict-obsessed producers and snarky questioners seeking sound bites (not substantive answers)  that when it comes to defense of democracy, they are on the same side.",

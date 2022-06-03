@@ -1,56 +1,47 @@
 [
   {
-    "id": 3935,
-    "mediaId": 21,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Mia Jankowicz",
-    "title": "Gavin Newsom delivers scorching criticism of Democrats' response to protecting Roe v. Wade: 'Where the hell's my party?'",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3841,
-    "mediaId": 98,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
-    "sentiment": "0"
-  },
-  {
-    "id": 3841,
-    "mediaId": 98,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3490,
-    "mediaId": 19,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Warning Shot: DeSantis Plans to Use Funds to Bus Illegal Immigrants Dumped in Florida to Bidens Delaware",
-    "sentiment": "0"
-  },
-  {
-    "id": 3490,
-    "mediaId": 19,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Warning Shot: DeSantis Plans to Use Funds to Bus Illegal Immigrants Dumped in Florida to Bidens Delaware",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4398,
     "mediaId": 558,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "When Florida Governor <span class='selected-term'>Ron DeSantis</span> signed the Parental Rights in Education bill into law on March 28, Disney issued a statement saying it \"should never have passed\" and said that it should be repealed.",
     "author": "",
     "title": "UPDATE 2-Disney's corporate affairs head, Morrell, to leave company",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3935,
+    "mediaId": 21,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Mia Jankowicz",
+    "title": "Gavin Newsom delivers scorching criticism of Democrats' response to protecting Roe v. Wade: 'Where the hell's my party?'",
+    "sentiment": "0"
+  },
+  {
+    "id": 3841,
+    "mediaId": 98,
+    "date": "5/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Column: Is Gavin Newsom running for president? No, it just sounds like it",
+    "sentiment": "0"
+  },
+  {
+    "id": 3490,
+    "mediaId": 19,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Warning Shot: DeSantis Plans to Use Funds to Bus Illegal Immigrants Dumped in Florida to Bidens Delaware",
+    "sentiment": "0"
+  },
+  {
+    "id": 8820,
+    "mediaId": 19,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "In March, Florida Governor <span class='selected-term'>Ron DeSantis</span> (R) signed into law the Parental Rights in Education bill, which prohibits teachers from discussing sexuality and transgender ideology to children in kindergarten through third grade.",
+    "author": "Alana Mastrangelo",
+    "title": "CA Charter School Touts Proud Queer Asian-Latinx Educator Teaching Complexities of Intersectionality to 5-Year-Olds",
+    "sentiment": "0"
   }
 ]

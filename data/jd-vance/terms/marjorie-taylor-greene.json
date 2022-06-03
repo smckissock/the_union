@@ -1,62 +1,8 @@
 [
   {
-    "id": 6044,
-    "mediaId": 136,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "Fatma Khaled",
-    "title": "Greene 'Tired' of Candidates Like Mandel Who 'Learned to Speak MAGA'",
-    "sentiment": "0"
-  },
-  {
-    "id": 6055,
-    "mediaId": 25,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "",
-    "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
-    "sentiment": "0"
-  },
-  {
-    "id": 5997,
-    "mediaId": 169,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Jon Skolnik",
-    "title": "Marjorie Taylor Greene jumps in the middle of heated Ohio GOP primary race",
-    "sentiment": "0.958"
-  },
-  {
-    "id": 5965,
-    "mediaId": 157,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "David Edwards",
-    "title": "Watch: Reporter clashes with J.D. Vance for 'propagating and promoting white resentment'",
-    "sentiment": "0"
-  },
-  {
-    "id": 5872,
-    "mediaId": 157,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Sky Palma",
-    "title": "Matt Gaetz lashes out at the media after JD Vance leaves him out of victory speech",
-    "sentiment": "-0.634"
-  },
-  {
-    "id": 4022,
-    "mediaId": 157,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "Travis Gettys",
-    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
-    "sentiment": "0"
-  },
-  {
     "id": 6246,
     "mediaId": 238,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Mariana Alfaro",
     "title": "Leader McCarthy, Rep. Greene both have some explaining to do about Jan. 6",
@@ -65,7 +11,7 @@
   {
     "id": 6120,
     "mediaId": 195,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Gaetz, Greene to stump for Vance in Ohio ahead of GOP Senate primary",
@@ -74,10 +20,64 @@
   {
     "id": 6096,
     "mediaId": 195,
-    "date": "2022-00-28",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "Caroline Vakil",
     "title": "Josh Hawley, Charlie Kirk to stump for Vance in Ohio",
+    "sentiment": "0"
+  },
+  {
+    "id": 6044,
+    "mediaId": 136,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Fatma Khaled",
+    "title": "Greene 'Tired' of Candidates Like Mandel Who 'Learned to Speak MAGA'",
+    "sentiment": "0"
+  },
+  {
+    "id": 6055,
+    "mediaId": 25,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 5997,
+    "mediaId": 169,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Skolnik",
+    "title": "Marjorie Taylor Greene jumps in the middle of heated Ohio GOP primary race",
+    "sentiment": "0.958"
+  },
+  {
+    "id": 5965,
+    "mediaId": 157,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David Edwards",
+    "title": "Watch: Reporter clashes with J.D. Vance for 'propagating and promoting white resentment'",
+    "sentiment": "0"
+  },
+  {
+    "id": 5872,
+    "mediaId": 157,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Sky Palma",
+    "title": "Matt Gaetz lashes out at the media after JD Vance leaves him out of victory speech",
+    "sentiment": "-0.634"
+  },
+  {
+    "id": 4022,
+    "mediaId": 157,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Travis Gettys",
+    "title": "Morning Joe rips GOP 'freaks' in profane rant: 'What lies ahead if Trumpists keep winning?'",
     "sentiment": "0"
   }
 ]

@@ -5,14 +5,22 @@
   "headline": "Gay Republicans Slam 'Misguided' Attacks on Florida Law, Trans Bills",
   "image": "https://d.newsweek.com/en/full/2028842/donald-trump-rainbow-flag.webp?w=790&f=43bc7f6f1606e1cca3a338dbefe854d4",
   "link": "https://www.newsweek.com/gay-republicans-slam-misguided-attacks-florida-law-trans-bills-1702338",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jason Lemon",
   "authorUrl": "https://www.newsweek.com/authors/jason-lemon",
   "termIds": [
-    661
+    661,
+    979,
+    1147,
+    1491,
+    3910,
+    4267,
+    428,
+    2590,
+    2661
   ],
   "sentences": [
     "We likely won't know until parents start suing teachers under this law, and the courts establish what constitutes 'instruction' by a teacher vs. what is an organic conversation that acknowledges that gay and trans people exist in the worldand sometimes they are part of our families,\" Longwell, who has two sons with her wife, wrote for the Post.",

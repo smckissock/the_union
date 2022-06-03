@@ -5,7 +5,7 @@
   "headline": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
   "image": "https://www.gannett-cdn.com/presto/2022/02/24/PMJS/9e93b2cd-fc99-40ab-aeed-0914c64aff2e-barnes_nelson.jpg?width=660&height=415&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/02/24/tom-nelson-criticizes-mandela-barnes-democratic-u-s-senate-race/6912725001/",
-  "sentiment": "0.0",
+  "sentiment": "-0.684",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,12 @@
     741,
     802,
     1568,
-    2039
+    1925,
+    2039,
+    146,
+    318,
+    600,
+    2855
   ],
   "sentences": [
     "Mandela is the only candidate in the race who can beat Ron Johnson  and that's who he is running against.?\nBarnes has recently distanced himself from the Abolish ICE and defund police movements, despite past social media comments on those issues and support from groups that favor those left-wing proposals.",

@@ -5,14 +5,17 @@
   "headline": "Gov. Ron DeSantis says he would support law banning gender transition surgeries on children",
   "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTc1Mzc2OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY5MDYwOTM3OH0.1iugJ1-VtM3b1KxG65s3IcX4mK-u0WG8oPWF_yMW8WU/img.jpg?width=1245&quality=85&coordinates=0%2C0%2C0%2C248&height=700",
   "link": "https://www.theblaze.com/news/ron-desantis-gender-transition",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Blaze",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah Taylor",
   "authorUrl": "https://www.theblaze.com/u/sarahtaylor",
   "termIds": [
-    661
+    661,
+    4571,
+    3280,
+    2661
   ],
   "sentences": [
     "Further, \"encouraging mastectomy, ovariectomy, uterine extirpation, penile disablement, tracheal shave, the prescription of hormones which are out of line with the genetic make-up of the child, or puberty blockers, are all clinical practices which run an unacceptably high risk of doing harm.\"",

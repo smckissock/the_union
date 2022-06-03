@@ -5,16 +5,25 @@
   "headline": "House probe of Jan. 6 Capitol riot subpoenas Arizona GOP leader Kelli Ward, 5 others over alternate electors",
   "image": "https://image.cnbcfm.com/api/v1/image/107015841-1644959671988-gettyimages-1330464466-dsc_1601_2021072485522468.jpeg?v=1644959737&w=740&h=416",
   "link": "https://www.cnbc.com/2022/02/15/jan-6-capitol-riot-probe-subpoenas-arizona-gop-chair-kelli-ward-5-others-.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kevin Breuninger",
   "authorUrl": "",
   "termIds": [
+    1413,
+    2052,
+    2087,
     2171,
     3094,
-    3102
+    3102,
+    84,
+    428,
+    562,
+    3137,
+    2550,
+    2866
   ],
   "sentences": [
     "In a letter to Mastriano, Thompson wrote, we understand that you spoke with former President Trump about your post-election activities.?\nCNBC Politics\nRead more of CNBCs politics coverage:\nVote on Biden Fed picks delayed as GOP presses for answers on Raskins ties to firm\nPrince Andrew settles sex abuse lawsuit by Jeffrey Epstein victim Giuffre\nRemington to pay $73 million to families of Sandy Hook shooting victims\nThe other subpoenas were issued to Michael Roman and Gary Michael Brown, who led Election Day operations for Trumps 2020 campaign; Michigan GOP Chair Laura Cox; and Arizona State Representative Mark Finchem.",

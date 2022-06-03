@@ -5,14 +5,20 @@
   "headline": "Twitter users shocked by ridiculous TikTok of new disinformation czar singing: God help us",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e9d35a7-89c9-4e43-b200-bd6149c8e2a6/c18a64b4-538f-4374-a593-a32f205e8143/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/twitter-users-tiktok-disinformation-czar-singing-media",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Nikolas Lanum",
   "authorUrl": "https://www.foxnews.com/person/l/nikolas-lanum",
   "termIds": [
-    661
+    661,
+    2066,
+    2087,
+    4596,
+    4742,
+    3583,
+    2934
   ],
   "sentences": [
     "Jankowicz tweeted on Wednesday that she was \"Honored to be serving in the Biden Administration @DHSgov and helping shape our counter-disinformation efforts,\" after which interested users began digging into past tweets of the new board leader to discover more about the mysterious new segment of the Department of Homeland Security.",

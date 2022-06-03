@@ -5,14 +5,22 @@
   "headline": "Kemp defeats Perdue in Georgia, a major blow to Trump",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/04/article_images-kempbrian_120419_ap_elijah_nouvelage.jpeg?strip=1&w=640",
   "link": "https://thehill.com/news/campaign/3499808-kemp-defeats-perdue-in-georgia-delivering-loss-for-trump/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Max Greenwood",
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
-    2095
+    1147,
+    1951,
+    2087,
+    2095,
+    2230,
+    4325,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "Throughout his four years as governor, Kemp has aggressively pursued a deeply conservative agenda, signing into law a six-week abortion ban, imposing new limits on early voting and approving a constitutional carry law that allows Georgians to carry firearms without a permit.",

@@ -5,15 +5,24 @@
   "headline": "Trump-backed candidates win midterm nods",
   "image": "https://s.yimg.com/ny/api/res/1.2/lWdfqPalL42cS3_m3A1sbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/3X2Coed49dHWYQkBhbWo8Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aap.com.au/2ae1d97d243610972b47472c55d32794",
   "link": "https://au.news.yahoo.com/trump-backed-candidates-win-midterm-041024190.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
+    1147,
+    1770,
+    2087,
     2303,
-    3102
+    3102,
+    146,
+    393,
+    428,
+    562,
+    2834,
+    2862
   ],
   "sentences": [
     "Fetterman, a progressive Democrat whose victory over centrist US congressman Conor Lamb came just hours after he had a pacemaker implanted to address the irregular heart rhythms that caused the stroke, has said doctors expect a full recovery.",

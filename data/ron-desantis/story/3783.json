@@ -5,14 +5,18 @@
   "headline": "Floridas intellectual freedom survey divides college campuses",
   "image": "https://www.tampabay.com/resizer//ON7WCaa5TId_CnxgnkjC8JSiWI0=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/YYDAINSNTVENXBUOS3FATPZHYU.JPG",
   "link": "https://www.tampabay.com/news/education/2022/05/10/floridas-intellectual-freedom-survey-divides-college-campuses/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2661,
+    2790,
+    3070,
+    5120
   ],
   "sentences": [
     "HB 1557: Passage into law of a measure limiting instruction on sexual orientation and gender identity, which sponsors called the Parental Rights in Education bill, has some wondering which parents get their rights protected, the Washington Post reports.",

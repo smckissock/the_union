@@ -1,44 +1,17 @@
 [
   {
-    "id": 5811,
-    "mediaId": 187,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "David A. Graham",
-    "title": "The Art of the Dealer",
-    "sentiment": "0"
-  },
-  {
-    "id": 5636,
-    "mediaId": 238,
-    "date": "2022-00-07",
-    "sentence": "",
-    "author": "",
-    "title": "How 6 GOP candidates shifted their tones on stolen election claims",
-    "sentiment": "0"
-  },
-  {
     "id": 6440,
     "mediaId": 238,
-    "date": "2022-00-08",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits...",
     "sentiment": "0"
   },
   {
-    "id": 5622,
-    "mediaId": 129,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "How Trump Helped Transform Nebraska Into a Toxic Political Wasteland",
-    "sentiment": "0"
-  },
-  {
     "id": 6422,
     "mediaId": 129,
-    "date": "2022-00-12",
+    "date": "4/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "Neil Vigdor",
     "title": "Mark Zuckerberg Ends Election Grants",
@@ -47,10 +20,37 @@
   {
     "id": 6220,
     "mediaId": 238,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
+    "sentiment": "0"
+  },
+  {
+    "id": 5811,
+    "mediaId": 187,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David A. Graham",
+    "title": "The Art of the Dealer",
+    "sentiment": "0"
+  },
+  {
+    "id": 5636,
+    "mediaId": 238,
+    "date": "5/7/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "How 6 GOP candidates shifted their tones on stolen election claims",
+    "sentiment": "0"
+  },
+  {
+    "id": 5622,
+    "mediaId": 129,
+    "date": "5/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "How Trump Helped Transform Nebraska Into a Toxic Political Wasteland",
     "sentiment": "0"
   }
 ]

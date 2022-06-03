@@ -5,14 +5,22 @@
   "headline": "Floridas firewall against abortion restrictions is in peril",
   "image": "https://www.politico.com/dims4/default/e2cfdae/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F33%2Fa1%2F2ec7e64f48b3a9a5357246cd592c%2Fgettyimages-1397227865.jpg",
   "link": "https://www.politico.com/news/2022/05/22/florida-has-a-firewall-protecting-abortion-rights-desantis-supreme-court-could-change-that-00033884",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1147,
+    4706,
+    5506,
+    400,
+    478,
+    482,
+    2661,
+    2851
   ],
   "sentences": [
     "We can conceive of few more personal or private decisions concerning ones body that one can make in the course of a lifetime, except perhaps the decision of the terminally ill in their choice of whether to discontinue necessary medical treatment.?\nStemberger and others opposed to this decision, however, argue the court went beyond the meaning of the text of the privacy amendment and that legislators werent considering abortion rights when they placed it on the ballot.",

@@ -5,7 +5,7 @@
   "headline": "ANLISIS: Las primarias de mayo pondrn a prueba el toque de Trump como lder del Partido Republicano",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/200513094839-paul-manafort-file-2017-story-tablet.jpg",
   "link": "https://cnnespanol.cnn.com/2022/05/02/primarias-mayo-pondran-a-prueba-trump-lider-partido-republicano-trax/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,16 @@
   "authorUrl": "https://cnnespanol.cnn.com/author/maeve-reston/",
   "termIds": [
     815,
+    1115,
+    1147,
+    2087,
     2095,
-    2303
+    2303,
+    428,
+    562,
+    571,
+    2969,
+    6070
   ],
   "sentences": [
     "Los votantes en Alabama tambin acuden a las urnas el 24 de mayo, pero Trump ya no est directamente involucrado en las primarias republicanas para el Senado all despus de que rescindi su respaldo al representante republicano Mo Brooks, una vez uno de sus lugartenientes ms leales en el Capitolio, molesto tanto por la campaa agitada del congresista como por su afirmacin de que los votantes deberan dejar atrs las elecciones de 2020.",

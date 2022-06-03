@@ -5,14 +5,24 @@
   "headline": "Hillary Clinton Did It",
   "image": "https://images.wsj.net/im-549029?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/hillary-clinton-did-it-robby-mook-michael-sussmann-donald-trump-russia-collusion-alfa-bank-11653084709",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "The Editorial Board",
   "authorUrl": "https://www.wsj.com/news/author/editorial-board",
   "termIds": [
-    2095
+    1158,
+    1252,
+    2087,
+    2095,
+    3027,
+    4325,
+    5416,
+    156,
+    182,
+    523,
+    2888
   ],
   "sentences": [
     "Plus, Donald Trump recommends Mehmet Oz declare victory before all the votes have been counted in Pennsylvania, and the contest between Georgia Governor Brian Kemp and David Perdue enters the homestretch.Read Transcript\nAD\nLoading advertisement...\n00:00\n1x\nSubscribe\nApple Podcasts\nGoogle Podcasts\nSpotify\niHeartRadio\nTuneIn\nStitcher\nAmazon Alexa\nRSS\nProsecutors presented evidence this week that Mr. Sussmann worked with cyber-researchers and opposition-research firm Fusion GPS to produce the claims on behalf of the Clinton campaign, and to feed them to the FBI.",

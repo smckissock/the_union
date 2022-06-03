@@ -5,14 +5,23 @@
   "headline": "Herschel Walker clinches GOP Senate nomination in Georgia",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/094af8daa3e3450cbe1724f312dd8074.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/campaign/3499698-herschel-walker-clinches-gop-senate-nomination-in-georgia/",
-  "sentiment": "0.0",
+  "sentiment": "0.95",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Max Greenwood",
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
-    815
+    815,
+    1136,
+    1147,
+    2087,
+    146,
+    428,
+    571,
+    3241,
+    5621,
+    2672
   ],
   "sentences": [
     "The party is already defending the narrowest possible Senate majority, and, given President Bidens sagging approval ratings and a bevy of domestic political challenges, Republicans appear well within reach of reclaiming control of the upper chamber.",

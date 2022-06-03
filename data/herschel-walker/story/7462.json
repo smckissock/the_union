@@ -5,14 +5,21 @@
   "headline": "'He will not run the country': Putin's inner circle reportedly looking for his replacement",
   "image": "https://www.rawstory.com/media-library/sad-putin.jpg?id=29792021&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/vladimir-putin-2657378476/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Boggioni",
   "authorUrl": "https://www.rawstory.com/u/tom_boggioni",
   "termIds": [
-    815
+    815,
+    2030,
+    5761,
+    5792,
+    5829,
+    237,
+    2888,
+    2942
   ],
   "sentences": [
     "Another source told Meduza that the botched war with Ukraine has become a central concern, stating, \"The problems [in Russia due to the war] are already evident, and in the middle of the summer they will just come pouring down from all directions: transportation, medicine, even agriculture.",

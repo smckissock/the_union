@@ -1,20 +1,20 @@
 [
   {
-    "id": 866,
-    "mediaId": 675,
-    "date": "2022-00-03",
-    "sentence": "Walking the grounds reminiscing and at times wiping away tears, I thanked God that I was able to teach regularly alongside Dr. <span class='selected-term'>Michael Brown</span> in the Bible school that exploded almost overnight from a handful to over 1,100 students.",
-    "author": "Larry Tomczak",
-    "title": "Returning to the site of Brownsville Revival 20 years later",
-    "sentiment": "0.0"
-  },
-  {
     "id": 941,
     "mediaId": 65,
-    "date": "2022-00-28",
+    "date": "2/28/2022 12:00:00 AM",
     "sentence": "His latest film is \"What Killed <span class='selected-term'>Michael Brown</span>?\"",
     "author": "",
     "title": "Rooftop Revelations: Pastor Brooks reflects on his 100 days on the roof and God's timing",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 866,
+    "mediaId": 675,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "Walking the grounds reminiscing and at times wiping away tears, I thanked God that I was able to teach regularly alongside Dr. <span class='selected-term'>Michael Brown</span> in the Bible school that exploded almost overnight from a handful to over 1,100 students.",
+    "author": "Larry Tomczak",
+    "title": "Returning to the site of Brownsville Revival 20 years later",
+    "sentiment": "0"
   }
 ]

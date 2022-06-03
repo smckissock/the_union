@@ -5,7 +5,7 @@
   "headline": "Tamara Keith and Amy Walter on whats at stake in Georgias primary election",
   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/05/fullepisode-21-768x512.jpg",
   "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-whats-at-stake-in-georgias-primary-election",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "PBS NewsHour",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,15 @@
   "authorUrl": "https://www.pbs.org/newshour/author/newshourvideo",
   "termIds": [
     815,
+    1434,
+    1824,
     2095,
-    3102
+    2407,
+    3102,
+    4325,
+    5834,
+    2590,
+    2672
   ],
   "sentences": [
     "If they decide, instead, these candidates, I'm going to focus on the 2020 election being rigged, I'm going to focus on Donald Trump and showing my loyalty to Donald Trump, polling shows that that is a terrible decision, because independent voters overwhelmingly  just 24 percent of them say, yes, we want a candidate for  a Republican candidate for Congress who's going to focus on the 2020 election.",

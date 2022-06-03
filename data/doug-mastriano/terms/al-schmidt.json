@@ -2,10 +2,19 @@
   {
     "id": 6693,
     "mediaId": 157,
-    "date": "2022-00-18",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "During an interview on CNN, Schmidt said it would perilous to democracy if the state were to elect Trump-backed candidate <span class='selected-term'>Doug Mastriano</span> to be its next governor.",
     "author": "Brad Reed",
     "title": "'Really terrible scenario': Pennsylvania Republican raises alarm about his own party's nominee for governor",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8696,
+    "mediaId": 129,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "In Pennsylvania, <span class='selected-term'>Doug Mastriano</span>, a leading voice against certifying the 2020 election, won the primary for governor in a landslide last week  even as the partys old guard warned that he was too extreme to win in November.",
+    "author": "",
+    "title": "Lawyer who plotted to overturn Trumps 2020 loss recruits election deniers to watch over the vote.",
+    "sentiment": "0"
   }
 ]

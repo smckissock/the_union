@@ -5,14 +5,17 @@
   "headline": "Protesters gather at the Florida Supreme Court steps in support of abortion rights",
   "image": "https://www.rawstory.com/media-library/image.jpg?id=29759121&width=1200&coordinates=0%2C50%2C0%2C0&height=600",
   "link": "https://www.rawstory.com/protesters-gather-at-the-florida-supreme-court-steps-in-support-of-abortion-right/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    478,
+    482,
+    2926
   ],
   "sentences": [
     "Overheard at the rally, a protester said: Over 50 years ago, I had to travel out of state  cant believe were going back to this.?\nDelilah Pierre, an activist with a grassroots racial justice organization called the Tallahassee Community Action Committee, said that the potential overturning of Roe will lead to threats to other rights, including the rights to gay marriage and the right for transgender people to access medical care.",

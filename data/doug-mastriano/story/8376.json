@@ -5,7 +5,7 @@
   "headline": "POLITICO Playbook: Trumps new obsession",
   "image": "https://www.politico.com/dims4/default/5c5a2c9/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F1f%2F00%2F47b105c44c8ab96a0ccf9626c23b%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1240968474",
   "link": "https://www.politico.com/newsletters/playbook/2022/05/29/trumps-new-obsession-00035857",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,19 @@
   "authorUrl": "",
   "termIds": [
     815,
+    1147,
+    1248,
+    2169,
     3085,
     3094,
-    3102
+    3102,
+    3722,
+    403,
+    2621,
+    2706,
+    2804,
+    2816,
+    2976
   ],
   "sentences": [
     "After an hour of Trump delivering many familiar hits  on Russia, impeachment, Jan. 6, the 2020 election, how he told NATO members he would not defend them if they didnt pay, trade with China, CHUCK TODDS alleged lack of sleep, the relative merits of the journalists CHRIS WALLACE and his father MIKE, his conversations with the Taliban, the Durham investigation, and how, sadly, White House physician-turned-congressional candidate RONNY JACKSON knows Trumps body better than MELANIA does  Trump turned his attention to a newer obsession.",

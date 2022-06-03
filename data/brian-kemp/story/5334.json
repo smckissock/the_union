@@ -5,14 +5,20 @@
   "headline": "Gov. Kemp picks new district attorney, State Court judge for Columbus area",
   "image": "https://s.yimg.com/ny/api/res/1.2/juqafA1fb5NIGRaLUbO2Fw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUzMTtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/zqw6epQbvRlexIiui7qNGQ--~B/aD02MzE7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/columbus_ledger_enquirer_mcclatchy_articles_419/9f1132525a6088584de060fec3f9434f",
   "link": "https://ca.news.yahoo.com/gov-kemp-selects-district-attorney-015623786.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mark Rice",
   "authorUrl": "",
   "termIds": [
-    2095
+    1904,
+    2095,
+    2472,
+    4276,
+    4875,
+    2623,
+    2672
   ],
   "sentences": [
     "Besides Jackson and Temesgen, Kemp interviewed William Hocutt IV, a prosecutor who started in Troup County in 2006 and served as assistant district attorney here starting in 2010, and Terry, the chief assistant district attorney under Jones for the circuit since Kemp suspended Jones in October.",

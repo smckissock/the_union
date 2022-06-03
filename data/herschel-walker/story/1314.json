@@ -5,14 +5,23 @@
   "headline": "Herschel Walker says he doesn't support 'either' Kemp or Perdue",
   "image": "https://cdn.jwplayer.com/v2/media/KrpAHl9U/poster.jpg?width=640",
   "link": "https://thehill.com/homenews/campaign/595556-herschel-walker-says-he-doesnt-support-either-kemp-or-perdue",
-  "sentiment": "0.0",
+  "sentiment": "-0.412",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1147,
+    2095,
+    4325,
+    232,
+    415,
+    501,
+    590,
+    600,
+    2672
   ],
   "sentences": [
     "Brian Kemp (R) or former Sen. David Perdue (R) in the state's gubernatorial race, saying I'm mad at both of them.?\nWalker was asked at a University of North Georgia student gathering on Monday whom he supported in the Georgia governor's race.",

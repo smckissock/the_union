@@ -1,35 +1,8 @@
 [
   {
-    "id": 5761,
-    "mediaId": 151,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Crypto enters primary season with Ohio victories",
-    "sentiment": "0.747"
-  },
-  {
-    "id": 5634,
-    "mediaId": 195,
-    "date": "2022-00-07",
-    "sentence": "",
-    "author": "Niall Stanage",
-    "title": "The Memo: Trump, Biden allies crave 2024 rematch",
-    "sentiment": "0"
-  },
-  {
-    "id": 5620,
-    "mediaId": 129,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "Sometimes, History Goes Backward",
-    "sentiment": "0"
-  },
-  {
     "id": 6428,
     "mediaId": 98,
-    "date": "2022-00-12",
+    "date": "4/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jonah Goldberg",
     "title": "Column: Frances election shows how political parties can fade away",
@@ -38,16 +11,43 @@
   {
     "id": 6420,
     "mediaId": 302,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Frances election shows how political parties can fade away | Column",
     "sentiment": "0"
   },
   {
+    "id": 5761,
+    "mediaId": 151,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Crypto enters primary season with Ohio victories",
+    "sentiment": "0.747"
+  },
+  {
+    "id": 5634,
+    "mediaId": 195,
+    "date": "5/7/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Niall Stanage",
+    "title": "The Memo: Trump, Biden allies crave 2024 rematch",
+    "sentiment": "0"
+  },
+  {
+    "id": 5620,
+    "mediaId": 129,
+    "date": "5/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Sometimes, History Goes Backward",
+    "sentiment": "0"
+  },
+  {
     "id": 5519,
     "mediaId": 151,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Student loan fight heats up as Biden weighs decision",
@@ -56,7 +56,7 @@
   {
     "id": 5520,
     "mediaId": 21,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ayelet Sheffey",
     "title": "Donald Trump Jr. says Biden's student-loan forgiveness plans will force workers who didn't go 'to college to get drunk for four years' to pay for 'worthless gender study degrees'",
@@ -65,7 +65,7 @@
   {
     "id": 6575,
     "mediaId": 129,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Its Trumps Party, and Hell Lie if He Wants To",
@@ -74,7 +74,7 @@
   {
     "id": 7106,
     "mediaId": 129,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Democrats, the Midterm Jinx Is Not Inevitable",

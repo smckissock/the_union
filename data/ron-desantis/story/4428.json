@@ -5,14 +5,21 @@
   "headline": "What if only the informed were allowed to vote? | Letters",
   "image": "https://www.tampabay.com/resizer//G5GYFdfNPHouIgcxX19TGBcIv_M=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/LBK6ORXIDBQUHPMYNTS6S3UKQI.jpg",
   "link": "https://www.tampabay.com/opinion/2022/04/29/what-if-only-the-informed-were-allowed-to-vote-letters/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    724,
+    1147,
+    1451,
+    1761,
+    4304,
+    2661,
+    2959
   ],
   "sentences": [
     "Careful what you wish for\nColumnist Cal Thomas is floating ideas for a better-informed electorate, writing that only when it comes to voting can someone cast a ballot with no knowledge, or incorrect knowledge, about the candidates and issues.? What if only informed voters were allowed to vote?",

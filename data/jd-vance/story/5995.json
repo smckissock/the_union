@@ -5,14 +5,23 @@
   "headline": "Trump critic Matt Dolan catapults to second in eleventh-hour Ohio GOP Senate poll",
   "image": "https://mediadc.brightspotcdn.com/dims4/default/b6261b9/2147483647/strip/true/crop/3000x1575+0+212/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F20%2F4d%2Ff5be1f3d4b09b10198a09614ba7c%2Fap22077086538000.jpg",
   "link": "https://www.washingtonexaminer.com/news/trump-critic-matt-dolan-catapults-to-second-in-11th-hour-ohio-gop-senate-poll",
-  "sentiment": "0",
+  "sentiment": "0.483",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ryan King",
   "authorUrl": "https://www.washingtonexaminer.com/author/ryan-king",
   "termIds": [
-    3103
+    1147,
+    1710,
+    1801,
+    2027,
+    3103,
+    4736,
+    379,
+    428,
+    571,
+    2845
   ],
   "sentences": [
     "New polling from the conservative Trafalgar Group released one day before the primary pegs Dolan in second place with 22%, marking a striking ascension for a candidate who has polled in fourth and fifth place for much of a race that has been long dominated by rivals embracing former President Donald Trump.",

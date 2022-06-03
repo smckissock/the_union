@@ -5,14 +5,23 @@
   "headline": "Western Democracy is Stronger than We Thought: Saturday's Good News",
   "image": "https://images.dailykos.com/images/1042017/story_image/snow-drops.jpg?1645836115",
   "link": "https://www.dailykos.com/story/2022/3/12/2084627/-Western-Democracy-is-Stronger-than-We-Thought-Saturday-s-Good-News",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1310,
+    2030,
+    5905,
+    5946,
+    5572,
+    2887,
+    2888,
+    2942,
+    6054
   ],
   "sentences": [
     "A recent study revealed that Russian money has corrupted British politics; now we are beginning to learn just how much of it has done the same in the U.S. A piece today in the Washington Post by Peter Whoriskey explained that, according to the Anti-Corruption Data Collective, oligarchs associated with Putin have donated millions of dollars to U.S. philanthropies, museums, and universities since Putin rose to power, using their money to buy access to elite circles.",

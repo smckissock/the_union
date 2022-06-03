@@ -5,14 +5,22 @@
   "headline": "DeSantis Culture War With Disney Sees Lawsuit by Florida Trio Thrown Out",
   "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_pNTgUurTB4/v0/800x-1.jpg",
   "link": "https://www.bloomberg.com/news/articles/2022-05-11/florida-lawsuit-against-desantis-over-disney-fight-is-thrown-out",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Bloomberg.com",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katia Porzecanski",
   "authorUrl": "https://www.bloomberg.com/authors/AQlzPWIh6gY/katia-porzecanski",
   "termIds": [
-    661
+    661,
+    4508,
+    428,
+    524,
+    611,
+    3612,
+    2661,
+    2788,
+    5109
   ],
   "sentences": [
     "DeSantis, a Republican and potential 2024 presidential candidate, signed a law in April that will dissolve the Reedy Creek Improvement District unless there is further legislative action, after Disney announced its opposition to the states new parental rights law that restricts classroom instruction on sexual orientation and gender identity.",

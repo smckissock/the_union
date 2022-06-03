@@ -5,14 +5,23 @@
   "headline": "\"JP, right? JD Mandel?\": Trump can't seem to remember who he endorsed in Ohio's GOP Senate primary",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/05/jd-vance-donald-trump-0502221.jpg",
   "link": "https://www.salon.com/2022/05/02/jp-right-jd-mandel-cant-seem-to-remember-he-endorsed-in-ohios-senate-primary/",
-  "sentiment": "0",
+  "sentiment": "0.463",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jon Skolnik",
   "authorUrl": "https://www.salon.com/writer/jon-skolnik",
   "termIds": [
-    3103
+    946,
+    1053,
+    1147,
+    1801,
+    2087,
+    3103,
+    428,
+    571,
+    2845,
+    4998
   ],
   "sentences": [
     "RELATED: \"Go f**k yourself\": Trump and Don Jr. war with top GOP donor who bought ads opposing his candidate\nDays before that endorsement, a Georgia House lawmaker revealed that, in 2016, Vance had regarded Trump \"America's Hitler.\"",

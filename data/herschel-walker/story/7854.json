@@ -5,14 +5,22 @@
   "headline": "Turns Out Herschel Walker, Who Questioned How Evolution Is Possible, Repeatedly Lied About His Academic Record",
   "image": "https://www.rollingstone.com/wp-content/uploads/2022/04/herschel-walker-02-2022.jpg?resize=1800,1200&w=1200",
   "link": "https://www.rollingstone.com/politics/politics-news/herschel-walker-lied-academic-achievements-georgia-1331380/",
-  "sentiment": "0.0",
+  "sentiment": "-0.824",
   "mediaOutlet": "Rolling Stone",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "William Vaillancourt",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1136,
+    106,
+    501,
+    571,
+    584,
+    2555,
+    2672,
+    2945
   ],
   "sentences": [
     "There is not a single voter in Georgia who believes that whether Herschel graduated at the top of his class or as Valedictorian 40 years ago has any bearing on his ability to be a great United States Senator, Mallory Blount, Walkers communications director, told CNN.",

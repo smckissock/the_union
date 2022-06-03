@@ -5,14 +5,22 @@
   "headline": "Florida teachers sue to block reopening of public schools",
   "image": "https://twt-thumbs.washtimes.com/media/image/2020/07/19/virus_outbreak_florida_08464_c0-352-1757-1376_s885x516.jpg?25378636d4e7485cb15ac8827b5f15a24eb246d4",
   "link": "https://www.washingtontimes.com/news/2020/jul/20/florida-again-reports-more-than-10000-new-coronavi/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "CURT ANDERSON",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4800,
+    43,
+    3279,
+    2661,
+    2788,
+    2851,
+    2926,
+    5138
   ],
   "sentences": [
     "The order, he said in a statement, did not order any new directives regarding the requirements of schools to be open,? adding that it simply created new innovative options for families to have the choice to decide what works best for the health and safety of their student and family.?\nDeSantis was at OneBlood to encourage people who had been infected with the virus and recovered to donate blood plasma that can be used in the treatment of hospitalized patients with COVID-19.",

@@ -5,14 +5,19 @@
   "headline": "Hyundai's first all-EV factory in the US will be in Georgia",
   "image": "https://s.yimg.com/ny/api/res/1.2/klwHUb.L51mZP1DkOqDUUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-05/f5e00590-d877-11ec-bbbb-5990af2d7ebd",
   "link": "https://sg.news.yahoo.com/hyundai-ev-factory-us-georgia-213034691.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jon Fingas",
   "authorUrl": "https://www.yahoo.com/author/jon-fingas",
   "termIds": [
-    2095
+    2095,
+    2986,
+    2990,
+    2672,
+    2900,
+    2945
   ],
   "sentences": [
     "This represents a major commitment to EVs, however, and suggests Hyundai is racing to compete with Tesla, Rivian, Volkswagen and other brands expanding their electric car production in the country.",

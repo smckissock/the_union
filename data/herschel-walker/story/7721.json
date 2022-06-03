@@ -5,7 +5,7 @@
   "headline": "Checks And Imbalances: The Reporter's Notebook Edition",
   "image": "https://imageio.forbes.com/specials-images/imageserve/625defac93e452fcfca2adc7/0x0.jpg?format=jpg&crop=2110,1187,x0,y0,safe&width=1200",
   "link": "https://www.forbes.com/sites/zacheverson/2022/04/19/checks-and-imbalances-the-reporters-notebook-edition/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Forbes",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "https://www.forbes.com/sites/zacheverson/",
   "termIds": [
     815,
-    2303
+    979,
+    1147,
+    1385,
+    1577,
+    2303,
+    2349,
+    5725,
+    101,
+    183,
+    2590,
+    2934
   ],
   "sentences": [
     "Stitt at Mar-a-Lago (KTUL News Channel 8)\nJared Kushner Flaunted His Influence With Saudi Arabia, Russia in Pitch to Investors (The Intercept)\nEditors Picks\nDocumented Obtains List of 2020 Donors to Ginni Thomas Group That Supported Trumps Attempted Coup (Documented)\nRussian Legislator and Two Staff Members Charged with Conspiring to Have U.S. Citizen Act as an Illegal Agent of the Russian Government in the United States (Department of Justice)\nJamie Dimon, other JP Morgan executives donated to centrist Democrat Kyrsten Sinema (CNBC)\nManchin visits Alberta as the Canadian province ramps up US lobbying amid energy crisis (OpenSecrets)\nFollowing a Campaign Legal complaint, the FEC penalized two LLCs for funneling $200K in secret funds to a super PAC and the super PAC for accepting the illegal funds.",

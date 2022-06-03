@@ -5,7 +5,7 @@
   "headline": "The Ron DeSantis Dog That Hasnt Barked Yet",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/03/ron-desantis-1.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/the-ron-desantis-dog-that-hasnt-barked-yet/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://www.nationalreview.com/author/dan-mclaughlin/",
   "termIds": [
     661,
-    2095
+    1147,
+    1434,
+    1951,
+    2095,
+    4325,
+    428,
+    2661,
+    2672
   ],
   "sentences": [
     "One of the big stories of 2022, the outcome of which will become clearer over the next two months, is Donald Trumps frantic effort to prove his continuing relevance and power within the Republican party by endorsing Republican candidates in primary elections.",

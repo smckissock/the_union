@@ -5,7 +5,7 @@
   "headline": "David Perdue caps his campaign for Georgia governor with a racist remark against Stacey Abrams and a Trump tele-rally",
   "image": "https://i.insider.com/628b8426b0a8be001860088f?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-rallies-for-david-perdue-georgia-primary-brian-kemp-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "https://www.businessinsider.com/author/warren-rojas",
   "termIds": [
     815,
-    2095
+    1136,
+    1147,
+    1434,
+    1951,
+    2087,
+    2095,
+    2203,
+    4325,
+    2624,
+    2672
   ],
   "sentences": [
     "On Monday, Perdue also took a racist jab at Abrams\n\"When she told Black farmers, 'You don't need to be on the farm,' and she told Black workers in hospitality and all this, 'You don't need to be'  she is demeaning her own race when it comes to that,\" he told attendees at a campaign stop in Dunwoody, Georgia, about Abrams, who is a Black woman.",

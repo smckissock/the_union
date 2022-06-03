@@ -5,14 +5,24 @@
   "headline": "Pennsylvania GOP Senate race appears to be headed for a recount",
   "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTgyMjc5OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcwMzkyOTA3Mn0.jsXd6tkz4WSj2xFJhZG64a8CObIvUwlXsBGxmPbo6RI/img.jpg?width=1245&quality=85&coordinates=0%2C0%2C0%2C107&height=700",
   "link": "https://www.theblaze.com/news/pennsylvania-senate-race-oz-mccormick",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Blaze",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Chris Pandolfo",
   "authorUrl": "https://www.theblaze.com/u/christopherpandolfo",
   "termIds": [
-    3102
+    943,
+    1147,
+    1770,
+    2491,
+    3102,
+    428,
+    517,
+    539,
+    571,
+    2992,
+    2862
   ],
   "sentences": [
     "TV celebrity Dr. Mehmet Oz and former hedge fund CEO David McCormick are separated by fewer than 2,000 votes with more than 1.3 million ballots cast in the highly contested campaign to succeed retiring Sen. Pat Toomey (R-Pa.).",

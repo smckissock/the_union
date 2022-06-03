@@ -2,16 +2,16 @@
   {
     "id": 3387,
     "mediaId": 195,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Seven primary races to watch on Tuesday",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4456,
     "mediaId": 238,
-    "date": "2022-00-19",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Greg Sargent",
     "title": "Opinion Trumps alarming GOP primary wins demand a serious response",
@@ -20,7 +20,7 @@
   {
     "id": 6575,
     "mediaId": 129,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "Its not sufficient  David Perdue, a former senator, looks like hes going to lose to the incumbent governor of Georgia, <span class='selected-term'>Brian Kemp</span>, in next weeks primary, despite his support for the big lie?  but it makes a difference.",
     "author": "",
     "title": "Its Trumps Party, and Hell Lie if He Wants To",
@@ -29,10 +29,19 @@
   {
     "id": 8472,
     "mediaId": 129,
-    "date": "2022-00-26",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "Yet Oz has refrained, as have other Trump picks like the former senator David Perdue, who lost in a landslide in Georgia to the incumbent governor, <span class='selected-term'>Brian Kemp</span>.",
     "author": "",
     "title": "The G.O.P. Has Gone Even Farther to the Right Than I Expected': Three Writers Talk About the Midterms",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8911,
+    "mediaId": 136,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Former President Donald Trump's \"Save America\" political action committee (PAC) on Tuesday sent an email to subscribers that linked to an article that claims Governor <span class='selected-term'>Brian Kemp</span>'s victory in last week's Republican gubernatorial primary was the result of voter fraud.",
+    "author": "Jon Jackson",
+    "title": "Trump Pushes Claim That Brian Kemp's 50-Point Victory Was Fraud",
+    "sentiment": "-0.785"
   }
 ]

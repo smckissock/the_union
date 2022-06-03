@@ -2,10 +2,37 @@
   {
     "id": 917,
     "mediaId": 157,
-    "date": "2022-00-07",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "There are 12 Republicans running for the GOP nomination in the August primary, including chiropractor Garrett Soldano, right-wing commentator Tudor Dixon, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businessman Perry Johnson and businessman Kevin Rinke.",
     "author": "Allison R. Donahue",
     "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8663,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The Wednesday ruling means Johnson cannot appear on the Aug. 2 primary ballot, and it probably does not bode well for the other would-be candidates  including former Detroit police chief <span class='selected-term'>James Craig</span> and businessman Michael Markey  who had filed similar legal challenges to try to continue their campaigns.",
+    "author": "Amy B Wang",
+    "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
+    "sentiment": "-0.946"
+  },
+  {
+    "id": 8670,
+    "mediaId": 157,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Johnson had sought the decision after the Board of State Canvassers deadlocked last week along party lines on a recommendation by state election officials that he, along with former Detroit Police Chief <span class='selected-term'>James Craig</span>, Michigan State Police Capt.",
+    "author": "Jon King",
+    "title": "Michigan 'quality guru' Perry Johnson remains off August primary ballot after unanimous court ruling",
+    "sentiment": "0"
+  },
+  {
+    "id": 8660,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Arpan Lobo",
+    "title": "James Craig loses bid to appear on primary ballot after Michigan court denies appeal",
+    "sentiment": "0"
   }
 ]

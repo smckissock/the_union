@@ -5,14 +5,18 @@
   "headline": "AP reporter mocks Founding Fathers over possible end to Roe v. Wade: 'Wish we had some founding mothers'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36564d94-5a0a-481f-9026-4802e7a96ff6/d5b83cfa-dcfd-47d6-9b2c-8ee97e810a07/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/associated-press-reporter-founding-fathers-roe-v-wade-mothers",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brandon Gillespie",
   "authorUrl": "https://www.foxnews.com/person/g/brandon-gillespie",
   "termIds": [
-    661
+    661,
+    1889,
+    4050,
+    4557,
+    482
   ],
   "sentences": [
     "Ron DeSantis, who previously criticized Farrington for a heavily scrutinized story last summer that implied the governor was promoting the drug Regeneron to fight the coronavirus because a Chicago-based hedge fund that donated to a political committee that supported him also owned shares of the company.",

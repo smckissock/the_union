@@ -5,7 +5,7 @@
   "headline": "Midterm updates | Arkansas Sanders mourns Texas victims",
   "image": "https://www.bostonherald.com/wp-content/uploads/2022/05/Election_2022_Georgia_72604-3.jpg?w=1569",
   "link": "https://www.bostonherald.com/2022/05/24/midterm-updates-arkansas-sanders-mourns-texas-victims/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Boston Herald",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "https://www.bostonherald.com/author/associated-press/",
   "termIds": [
     815,
-    2095
+    896,
+    1136,
+    1147,
+    2095,
+    5814,
+    571,
+    2551,
+    2672,
+    2760,
+    2934
   ],
   "sentences": [
     "HERES WHAT YOU SHOULD KNOW:\n Kemp wins Georgia GOP governors race in stinging rebuke of Trump\n 2022 midterms: What to watch in Georgia, Texas, elsewhere\n Georgia US Senate race will pit Warnock against Walker\n Georgia Secretary of State Raffensperger faces Trump ally\n Rep. Marjorie Taylor Greene wins GOP primary in test of her divisive politics\n Unopposed Stacey Abrams still a target in Republican primary\n Ex-Trump press secretary Sarah Sanders wins GOP bid for Arkansas governor\nFollow all AP stories on the midterm elections at https://apnews.com/hub/2022-midterm-elections.",

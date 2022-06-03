@@ -5,14 +5,24 @@
   "headline": "Vance calls for GOP unity after major comeback in Ohio Senate primary",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6514ada2-cc90-49ff-b070-02e64e69bcd3/4c963aeb-d89e-4071-a54c-19c0b62a5ede/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/vance-campaign-speech-republican-party-unity",
-  "sentiment": "0",
+  "sentiment": "0.703",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tyler Olson",
   "authorUrl": "https://www.foxnews.com/person/o/tyler-olson",
   "termIds": [
-    3103
+    781,
+    946,
+    1801,
+    2027,
+    2466,
+    3103,
+    380,
+    428,
+    571,
+    2609,
+    2845
   ],
   "sentences": [
     "\"We're going to do battle against an establishment left that thinks that people's jobs, that thinks that people's values, that thinks that people's basic livelihoods and sense of dignity in their own country is not something worth protecting,\" Vance told supporters in his victory speech at the Duke Energy Convention Center in downtown Cincinnati.",

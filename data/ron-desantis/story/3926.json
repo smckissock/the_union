@@ -5,14 +5,16 @@
   "headline": "Pansexual Teacher Fired for Discussing Sexual Orientation with Students",
   "image": "https://media.townhall.com/townhall/reu/ha/2018/300/51f7a374-c681-4fc6-9bee-3facf6b3ed5b.jpg",
   "link": "https://townhall.com/tipsheet/madelineleesman/2022/05/06/pansexual-teacher-fired-for-discussing-sexual-orientation-with-students-n2606770",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Madeline Leesman",
   "authorUrl": "https://townhall.com/tipsheet/madelineleesman/",
   "termIds": [
-    661
+    661,
+    43,
+    2661
   ],
   "sentences": [
     "Scott reportedly had her students create flags representing their sexuality or gender identity, ranging from transgender and non-binary to gay.? The flags were hung on her classroom door before school officials asked Scott to remove the flags and toss them.",

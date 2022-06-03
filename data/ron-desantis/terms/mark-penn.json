@@ -2,19 +2,28 @@
   {
     "id": 4046,
     "mediaId": 65,
-    "date": "2022-00-04",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "Fox News Staff",
     "title": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4046,
     "mediaId": 65,
-    "date": "2022-00-04",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "Fox News Staff",
     "title": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
     "sentiment": "0.781"
+  },
+  {
+    "id": 8861,
+    "mediaId": 223,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Byron York",
+    "title": "A 2024 Trump-Biden Death Match?",
+    "sentiment": "0"
   }
 ]

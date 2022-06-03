@@ -5,14 +5,24 @@
   "headline": "Ron Johnson Takes Heat for Linking School Shootings to 'Wokeness'",
   "image": "https://d.newsweek.com/en/full/2047649/johnson-criticized-linking-shootings-wokeness.webp?w=790&f=3b93e9544a48fc3e3d9256676932a553",
   "link": "https://www.newsweek.com/ron-johnson-takes-heat-linking-school-shootings-wokeness-1711136",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Xander Landen",
   "authorUrl": "https://www.newsweek.com/authors/xander-landen",
   "termIds": [
-    661
+    661,
+    728,
+    1968,
+    2214,
+    3965,
+    562,
+    3214,
+    2703,
+    2972,
+    5482,
+    6069
   ],
   "sentences": [
     "Democratic Wisconsin Governor Tony Evers called the senator's comments \"breathtaking\" on Friday according to the Wisconsin State Journal and pointed to a 2019 poll from Marquette University Law School that found 80 percent of Wisconsin residents support expanded background checks for gun sales.",

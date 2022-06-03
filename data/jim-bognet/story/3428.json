@@ -5,7 +5,7 @@
   "headline": "House primaries to watch Tuesday: Madison Cawthorn faces several challengers and more",
   "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/16/b2d3c5f3-800d-4183-aaff-3654ab28699b/thumbnail/620x413/03efc97b1ee0769ed500a8695edc8840/gettyimages-1239877513.jpg",
   "link": "https://www.cbsnews.com/news/house-primaries-2022-05-17-north-carolina-pennsylvania-oregon-madison-cawthorn/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "cbs news",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,10 +14,16 @@
   "termIds": [
     641,
     821,
+    1147,
+    1335,
+    1609,
     2303,
+    2341,
     3101,
     3104,
-    5168
+    5168,
+    562,
+    2834
   ],
   "sentences": [
     "She was getting engaged\n House primaries to watch Tuesday: Madison Cawthorn faces several challengers and more\n 2022 primaries: The statewide races to watch Tuesday\n Sen. Chris Van Hollen hospitalized after suffering \"minor stroke\" during speech\n John Fetterman, Pennsylvania lieutenant governor running for Senate, suffers stroke\n More\nIn:\nPennsylvania\nNorth Carolina\noregon\n Aaron Navarro\nAaron Navarro is an associate producer for the political unit at CBS News, focusing on House and gubernatorial campaigns as well as the census and redistricting.",

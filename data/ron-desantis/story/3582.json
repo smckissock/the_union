@@ -5,14 +5,16 @@
   "headline": "Judge blocks DeSantis redistricting plan; state appeals",
   "image": "",
   "link": "https://news.yahoo.com/judge-blocks-desantis-redistricting-plan-170427089.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Associated Press",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    428,
+    2661
   ],
   "sentences": [
     "This Court finds that a narrow remedy  one that addresses only the diminishment discussed in this order  is the most appropriate.?\nSmith ordered that a map drawn by a Harvard professor who testified for the plaintiffs should be used, but the states appeal keeps the DeSantis map in place.",

@@ -5,14 +5,23 @@
   "headline": "Democrats' Chances of Winning the Senate just Rose to 51.5%, the Highest since Virginia. Here's why:",
   "image": "https://images.dailykos.com/images/799107/story_image/AP_20042747699616.jpg?1588261592",
   "link": "https://www.dailykos.com/story/2022/1/5/2072807/-Democrats-Chances-of-Winning-the-Senate-just-Rose-to-51-5-the-Highest-since-Virginia-Here-s-why",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    886,
+    1119,
+    1147,
+    1469,
+    1765,
+    5930,
+    146,
+    571,
+    2953
   ],
   "sentences": [
     "I run a Senate Forecast at RacetotheWH, and Democrats chances of holding on to the majority just rose to their highest level, 51.5%, since the New Jersey and Virginia elections last November.",

@@ -5,14 +5,19 @@
   "headline": "Column: Republican denial will add to the droughts body count",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/a951bb0/2147483647/strip/true/crop/3000x2250+0+0/resize/840x630!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbc%2F2fcc7e3c40548a0a1a2e44f482c6%2Fimg-6279.jpg",
   "link": "https://www.latimes.com/opinion/story/2022-05-05/barrel-body-lake-mead-drought-climate-change-southwest-politics",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "LZ Granderson",
   "authorUrl": "https://www.latimes.com/people/lz-granderson",
   "termIds": [
-    661
+    661,
+    2361,
+    4593,
+    428,
+    2751,
+    2787
   ],
   "sentences": [
     "Despite all of that, and the 99.9% consensus in the science community that the burning of fossil fuel is driving the rise in global temperatures, a 2021 analysis from the Center for American Progress identified 109 representatives and 30 senators who refuse to acknowledge the scientific evidence of human-caused climate change.?\nThese are the people we are depending on to steer the Southwest through its driest period since Vikings roamed the seas.",

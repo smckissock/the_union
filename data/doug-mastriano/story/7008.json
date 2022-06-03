@@ -5,14 +5,21 @@
   "headline": "Inside the chaotic GOP primary for governor in Pennsylvania",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-02/220227-lou-barletta-jm-1500-e7a69a.jpg",
   "link": "https://www.nbcnews.com/politics/elections/chaotic-gop-primary-governor-pennsylvania-rcna17837",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1147,
+    1282,
+    1713,
+    2087,
+    3102,
+    5385,
+    428,
+    2862
   ],
   "sentences": [
     "\"And with the forest of TV ads already being run by Senate candidates in Pennsylvania, it's not likely that any candidate for governor will be able to make an impact just by putting up a few trees on TV,\" said Murtaugh, who was the communications director for Trumps re-election campaign.",

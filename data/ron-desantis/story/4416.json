@@ -5,14 +5,21 @@
   "headline": "Florida Supreme Court justice is retiring, opening door for another DeSantis nominee",
   "image": "https://s.yimg.com/ny/api/res/1.2/0RJ8DzVCistnP6GS5QsceQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM5NztjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/dhIPJka9PWoGPfdBAmtVcQ--~B/aD02NDI7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/miami_herald_mcclatchy_975/23b766a2c9834afe9e6b03beed730408",
   "link": "https://news.yahoo.com/florida-supreme-court-justice-retiring-181252684.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jim Saunders",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2305,
+    4186,
+    4316,
+    4668,
+    478,
+    2661,
+    2851
   ],
   "sentences": [
     "One of the greatest joys of my 35-year legal career has been and continues to be the ability to work alongside a bench and Bar filled with extraordinary individuals who work tirelessly to assure that the citizens we serve are well-served by our system of justice.? Lawson, 60, wrote in a retirement letter to DeSantis.",

@@ -6,7 +6,7 @@
     "sentence": "",
     "author": "Jake Lahut",
     "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
-    "sentiment": "0"
+    "sentiment": "0.402"
   },
   {
     "id": 736,
@@ -15,7 +15,7 @@
     "sentence": "",
     "author": "Jake Lahut",
     "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
-    "sentiment": "0"
+    "sentiment": "0.655"
   },
   {
     "id": 6246,
@@ -42,7 +42,7 @@
     "sentence": "",
     "author": "",
     "title": "Opinion The bottom line in Ohio? Trump wins.",
-    "sentiment": "0"
+    "sentiment": "-0.485"
   },
   {
     "id": 3301,
@@ -132,6 +132,15 @@
     "sentence": "",
     "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
     "title": "At the Races: Divisions on display",
+    "sentiment": "0"
+  },
+  {
+    "id": 8612,
+    "mediaId": 238,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion Has Trump lost his hold on the GOP? Hardly.",
     "sentiment": "0"
   }
 ]

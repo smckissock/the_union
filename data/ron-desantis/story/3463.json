@@ -5,14 +5,21 @@
   "headline": "HHS Guidance on Trans Pharmacology Raises More Questions Than It Answers | Opinion",
   "image": "https://d.newsweek.com/en/full/2039484/rachel-levine.webp?w=790&f=a413b0dbc48473460c527547c15e17e4",
   "link": "https://www.newsweek.com/hhs-guidance-trans-pharmacology-raises-more-questions-it-answers-opinion-1707076",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2087,
+    2153,
+    196,
+    3462,
+    3463,
+    3607,
+    2945
   ],
   "sentences": [
     "It raised concerns over the manner the guidance was developed, noting its inadequate literature review, biased recommendations that do not acknowledge the low quality of evidence it relies upon, failure to consult a range of viewssuch as those for whom \"gender-affirming\" care was not beneficialand failure to identify or acknowledge alternative treatments.",

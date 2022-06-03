@@ -5,14 +5,18 @@
   "headline": "How Michigan's Ballooning DEI Bureaucracy Stifled Speech and Divided the Campus",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/02/university-michigan-campus.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/how-michigans-ballooning-dei-bureaucracy-stifled-speech-and-divided-campus/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ryan Mills",
   "authorUrl": "https://www.nationalreview.com/author/ryan-mills/",
   "termIds": [
-    2171
+    2171,
+    474,
+    587,
+    2545,
+    2791
   ],
   "sentences": [
     "Last March, the Students of Color Liberation Front  a partnership of more than a half dozen campus racial-justice groups  released a 20-page list of anti-racist demands? from U-M leaders, including: decolonizing U-M's pedagogies and campus; divesting from companies that violate Palestinian human rights; ending all university-sponsored trips to Israel; declaring Indigenous People's Day a U-M holiday; cutting ties with the local police department and federal immigration agencies; and, of course, serving locally sourced, Arab-owned-brand hummus in the dining halls.",

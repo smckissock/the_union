@@ -2,37 +2,37 @@
   {
     "id": 88,
     "mediaId": 151,
-    "date": "2022-00-01",
+    "date": "1/1/2022 12:00:00 AM",
     "sentence": " Rep. <span class='selected-term'>Peter Meijer</span> (R-Mich.)  Fiona Hill  Barton Gellman.",
     "author": "",
     "title": "POLITICO Playbook: Welcome to 2022",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 32,
-    "mediaId": 261,
-    "date": "2022-00-02",
-    "sentence": "Expect most of those locally who have been endorsed by Trump to be in attendance, though it's only certain that two others are speaking  U.S. Rep. Lisa McClain, R-Bruce Township, who represents the area where the rally is being held, and John Gibbs, a former Trump administration official who is running for the Republican nomination against U.S. Rep. <span class='selected-term'>Peter Meijer</span>, R-Grand Rapids, who also voted to impeach Trump.",
-    "author": "Todd Spangler",
-    "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 42,
-    "mediaId": 129,
-    "date": "2022-00-15",
-    "sentence": "It's grounding,? said Representative <span class='selected-term'>Peter Meijer</span>, Republican of Michigan, who was once an intelligence analyst in Afghanistan and now faces a challenger on his right endorsed by former President Donald J. Trump.",
-    "author": "",
-    "title": "Ukraine War Shifts the Agenda in Congress, Empowering the Center",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 55,
     "mediaId": 151,
-    "date": "2022-00-20",
+    "date": "2/20/2022 12:00:00 AM",
     "sentence": "Others, like Michigan's <span class='selected-term'>PETER MEIJER</span> and FRED UPTON, face Trump-backed candidates with steep uphill odds in new districts.",
     "author": "",
     "title": "POLITICO Playbook: Harris declares unity,' while Zelenskyy accuses appeasement'",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 42,
+    "mediaId": 129,
+    "date": "3/15/2022 12:00:00 AM",
+    "sentence": "It's grounding,? said Representative <span class='selected-term'>Peter Meijer</span>, Republican of Michigan, who was once an intelligence analyst in Afghanistan and now faces a challenger on his right endorsed by former President Donald J. Trump.",
+    "author": "",
+    "title": "Ukraine War Shifts the Agenda in Congress, Empowering the Center",
+    "sentiment": "0"
+  },
+  {
+    "id": 32,
+    "mediaId": 261,
+    "date": "4/2/2022 12:00:00 AM",
+    "sentence": "Expect most of those locally who have been endorsed by Trump to be in attendance, though it's only certain that two others are speaking  U.S. Rep. Lisa McClain, R-Bruce Township, who represents the area where the rally is being held, and John Gibbs, a former Trump administration official who is running for the Republican nomination against U.S. Rep. <span class='selected-term'>Peter Meijer</span>, R-Grand Rapids, who also voted to impeach Trump.",
+    "author": "Todd Spangler",
+    "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know",
+    "sentiment": "0"
   }
 ]

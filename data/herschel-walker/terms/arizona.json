@@ -1,8 +1,71 @@
 [
   {
+    "id": 8268,
+    "mediaId": 33,
+    "date": "1/19/2022 12:00:00 AM",
+    "sentence": "Warnock, chosen by voters in a special election, is on the ballot again this year in a high-profile race that could pit him against Trump's choice for the Republican nomination, the former football star <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Fredreka Schouten",
+    "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
+    "sentiment": "0"
+  },
+  {
+    "id": 8186,
+    "mediaId": 19,
+    "date": "2/6/2022 12:00:00 AM",
+    "sentence": "He will likely be facing off against former pro-football player and prominent Trump supporter <span class='selected-term'>Herschel Walker</span> in a state that Biden won narrowly in 2020.",
+    "author": "Paul Bois",
+    "title": "Vulnerable Democrats Distance from Joe Biden Ahead of Midterms",
+    "sentiment": "0"
+  },
+  {
+    "id": 8174,
+    "mediaId": 237,
+    "date": "2/9/2022 12:00:00 AM",
+    "sentence": "McConnell also likes what he sees at the outset in Georgia and Nevada, where he is backing <span class='selected-term'>Herschel Walker</span> and Adam Laxalt, respectively.",
+    "author": "David M. Drucker",
+    "title": "'The worst of Joe Biden will be over': McConnell pitches voters on GOP Senate",
+    "sentiment": "0"
+  },
+  {
+    "id": 8148,
+    "mediaId": 178,
+    "date": "2/12/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Shane Goldmacher and Eric Lipton New York Times",
+    "title": "Selling Trump: A profitable post-presidency like no other",
+    "sentiment": "0"
+  },
+  {
+    "id": 8149,
+    "mediaId": 129,
+    "date": "2/12/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Selling Trump: A Profitable Post-Presidency Like No Other",
+    "sentiment": "0"
+  },
+  {
+    "id": 8076,
+    "mediaId": 1576,
+    "date": "3/7/2022 12:00:00 AM",
+    "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
+    "author": "",
+    "title": "GOP stumbles, weak fundraising in Ga. and other states threaten path to Senate control",
+    "sentiment": "0"
+  },
+  {
+    "id": 6153,
+    "mediaId": 187,
+    "date": "4/25/2022 12:00:00 AM",
+    "sentence": "The likely GOP nominee in Georgia, <span class='selected-term'>Herschel Walker</span>, is a former NFL star with his own stormy past.",
+    "author": "Russell Berman",
+    "title": "Mitch McConnells Nightmare Scenario",
+    "sentiment": "0"
+  },
+  {
     "id": 7608,
     "mediaId": 12,
-    "date": "2022-00-04",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "If <span class='selected-term'>Herschel Walker</span> wins Georgias U.S. Senate seat, he would become the most prominent elected official in the nation who has struggled openly with a mental illness.",
     "author": "Shannon McCaffrey",
     "title": "Herschel Walkers mental health battle raises questions about treatment",
@@ -11,43 +74,16 @@
   {
     "id": 7593,
     "mediaId": 136,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "In Georgia, leading Republican Senate candidate and former football star <span class='selected-term'>Herschel Walker</span> has spoken out repeatedly about rising gas prices and inflation.",
     "author": "Daniel Bush",
     "title": "Democrats Campaigning in Swing States Are Reckoning With Biden's Economy",
     "sentiment": "0.296"
   },
   {
-    "id": 8186,
-    "mediaId": 19,
-    "date": "2022-00-06",
-    "sentence": "He will likely be facing off against former pro-football player and prominent Trump supporter <span class='selected-term'>Herschel Walker</span> in a state that Biden won narrowly in 2020.",
-    "author": "Paul Bois",
-    "title": "Vulnerable Democrats Distance from Joe Biden Ahead of Midterms",
-    "sentiment": "0"
-  },
-  {
-    "id": 8076,
-    "mediaId": 1576,
-    "date": "2022-00-07",
-    "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
-    "author": "",
-    "title": "GOP stumbles, weak fundraising in Ga. and other states threaten path to Senate control",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8174,
-    "mediaId": 237,
-    "date": "2022-00-09",
-    "sentence": "McConnell also likes what he sees at the outset in Georgia and Nevada, where he is backing <span class='selected-term'>Herschel Walker</span> and Adam Laxalt, respectively.",
-    "author": "David M. Drucker",
-    "title": "'The worst of Joe Biden will be over': McConnell pitches voters on GOP Senate",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3793,
     "mediaId": 376,
-    "date": "2022-00-10",
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "Trump-endorsed former NFL player <span class='selected-term'>Herschel Walker</span> has emerged as Warnocks likely November opponent, but first he has to win a bruising May 24 primary.",
     "author": "Kate Ackley\nStephanie Akin\nNiels Lesniewski\nMary Ellen McIntire",
     "title": "These 10 senators are most vulnerable six months from Election Day",
@@ -56,91 +92,73 @@
   {
     "id": 7571,
     "mediaId": 195,
-    "date": "2022-00-12",
+    "date": "5/12/2022 12:00:00 AM",
     "sentence": "Warnock is likely to face former NFL running back <span class='selected-term'>Herschel Walker</span> (R) in the fall.",
     "author": "Reid Wilson",
     "title": "Republicans reserve $53M in TV ads in bid to win Senate",
     "sentiment": "0"
   },
   {
-    "id": 8148,
-    "mediaId": 178,
-    "date": "2022-00-12",
-    "sentence": "",
-    "author": "Shane Goldmacher and Eric Lipton New York Times",
-    "title": "Selling Trump: A profitable post-presidency like no other",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8149,
-    "mediaId": 129,
-    "date": "2022-00-12",
-    "sentence": "",
-    "author": "",
-    "title": "Selling Trump: A Profitable Post-Presidency Like No Other",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4489,
     "mediaId": 157,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "Vance in Ohio, <span class='selected-term'>Herschel Walker</span> in Georgia and Mehmet Oz in Pennsylvania -- in races around the country, and the \"Morning Joe\" host said they're unlikely to win Democratic votes and might not excite enough Republican voters.",
     "author": "Travis Gettys",
     "title": "'McConnell's worst nightmare': Morning Joe says Trump's 'bonkers' base is pushing for unelectable candidates",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8268,
-    "mediaId": 33,
-    "date": "2022-00-19",
-    "sentence": "Warnock, chosen by voters in a special election, is on the ballot again this year in a high-profile race that could pit him against Trump's choice for the Republican nomination, the former football star <span class='selected-term'>Herschel Walker</span>.",
-    "author": "Fredreka Schouten",
-    "title": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7466,
     "mediaId": 157,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "NOW WATCH: <span class='selected-term'>Herschel Walker</span> argues with reporter Trump 'never said' election was stolen\nHerschel Walker argues with reporter Trump 'never said' election was stolen\nStories Chosen For You",
     "author": "Sarah K. Burris",
     "title": "Appeals court rules insurrectionists can be barred from political office",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6153,
-    "mediaId": 187,
-    "date": "2022-00-25",
-    "sentence": "The likely GOP nominee in Georgia, <span class='selected-term'>Herschel Walker</span>, is a former NFL star with his own stormy past.",
-    "author": "Russell Berman",
-    "title": "Mitch McConnells Nightmare Scenario",
     "sentiment": "0"
   },
   {
     "id": 8404,
     "mediaId": 376,
-    "date": "2022-00-26",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "Shop talk: Stephen Lawson\nLawson, CEO of Battleground Strategies, served as deputy campaign manager for former GOP Sen. Kelly Loeffler of Georgia in 2020 and currently is spokesman for a SuperPAC supporting this years nominee, <span class='selected-term'>Herschel Walker</span>, who faces Democratic Sen. Raphael Warnock.",
     "author": "Kate Ackley\nMary Ellen McIntire\nStephanie Akin",
     "title": "At the Races: Divisions on display",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8426,
     "mediaId": 881,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "- Georgia GOP Senate nominee <span class='selected-term'>Herschel Walker</span>, asked about Donald Trump's assertions that the 2020 election was stolen\nTrainWEC  Wisconsin's bid to be the swing-state king of stolen-election destruction continues.",
     "author": "Todd Zwillich",
     "title": "Trump's Candidates Took a Beating in GeorgiaBut Don't Get Too Excited",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8590,
     "mediaId": 151,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "While <span class='selected-term'>Herschel Walker</span> easily won the Republican nomination in Georgia on Tuesday, GOP candidates in Arizona, Nevada and New Hampshire are still battling through contested primaries.",
     "author": "",
     "title": "The gun debate roadblock you might not expect: Swing states",
+    "sentiment": "0"
+  },
+  {
+    "id": 8918,
+    "mediaId": 136,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Georgia\nThe contest between Senator Raphael Warnock and former football star <span class='selected-term'>Herschel Walker</span> is looking to be one of the closest watched in the midterms.",
+    "author": "Jason Lemon",
+    "title": "Republicans' Chances of Beating Democrats for Control of Senate in Midterms",
+    "sentiment": "0.448"
+  },
+  {
+    "id": 8920,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "It's a nuanced message at best, one Democratic strategist said of the incumbent senator who is up for reelection this year in a competitive race against Republican <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Amie Parnes",
+    "title": "Haunted Democrats fear gun control measures could cost them in midterms",
     "sentiment": "0"
   }
 ]

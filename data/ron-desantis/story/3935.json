@@ -5,14 +5,20 @@
   "headline": "Gavin Newsom delivers scorching criticism of Democrats' response to protecting Roe v. Wade: 'Where the hell's my party?'",
   "image": "https://i.insider.com/6274e88494a2c10018ee3d07?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/roe-wade-leak-gavin-newsom-slams-democrats-lackluster-response-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mia Jankowicz",
   "authorUrl": "https://www.businessinsider.com/author/mia-jankowicz",
   "termIds": [
-    661
+    661,
+    1394,
+    146,
+    400,
+    2590,
+    2764,
+    2934
   ],
   "sentences": [
     "House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer spoke out soon after the leak, calling the draft opinion an \"abomination\" and one of the \"worst and most damaging decisions in modern history.\"",

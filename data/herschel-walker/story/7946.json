@@ -5,14 +5,20 @@
   "headline": "Biden demands Dr. Oz, Herschel Walker step down amid Senate runs",
   "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fb8fb9c-5c51-4902-aa1b-6ec0d08bbc2b/b53a3a68-1a4d-4577-b16b-df11f1d5bfc2/1280x720/match/931/524/image.jpg?ve=1&tl=1",
   "link": "https://www.foxnews.com/politics/biden-demands-dr-oz-herschel-walker-step-down-amid-senate-runs",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1147,
+    1653,
+    2087,
+    571,
+    2672,
+    2862
   ],
   "sentences": [
     "President Biden requested that two members of the President's Council on Sports, Fitness & Nutrition, who were appointed by former President Trump, either step down or face termination amid their U.S. Senate runs in Georgia and Pennsylvania.",

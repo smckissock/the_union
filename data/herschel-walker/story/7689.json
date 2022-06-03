@@ -5,14 +5,24 @@
   "headline": "Melissa Clarks Saturday Recipe",
   "image": "https://static01.nyt.com/images/2022/04/23/multimedia/23themorning-ambriefing-web/23themorning-ambriefing-web-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/04/23/briefing/melissa-clark-recipe-of-the-week.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1609,
+    3789,
+    5691,
+    5723,
+    5863,
+    5563,
+    2575,
+    2645,
+    2813,
+    6062
   ],
   "sentences": [
     "A public parks vision: Frederick Law Olmsted, born 200 years ago this month, is behind many of Americas most enduring public spaces: Central Park in Manhattan; the Emerald Necklace in Boston; Belle Isle in Detroit; Mountain View Cemetery in Oakland, Calif. Olmsted saw access to vast green space as a democratic ideal.",

@@ -5,14 +5,22 @@
   "headline": "Keeler: Russell Wilson isnt Herschel Walker. Broncos arent 1989 Vikings. Anybody who says George Paton got robbed is full of it.",
   "image": "https://www.denverpost.com/wp-content/uploads/2022/03/SP02BRONXSUPERBOWL1HC_7961X.jpg?w=1573",
   "link": "https://www.denverpost.com/2022/03/14/russell-wilson-john-elway-denver-broncos-seattle-seahawks-nfl-super-bowl/",
-  "sentiment": "0.0",
+  "sentiment": "-0.763",
   "mediaOutlet": "The Denver Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sean Keeler",
   "authorUrl": "https://www.denverpost.com/author/sean-keeler/",
   "termIds": [
-    815
+    815,
+    5718,
+    5788,
+    6006,
+    5570,
+    5580,
+    5603,
+    5613,
+    5617
   ],
   "sentences": [
     "DangerRuss is walking into a locker room full of young, talented, cost-controlled weapons  Tim Patrick (28), Courtland Sutton (26), Albert Okwuegbunam (23), Jerry Jeudy (22), KJ Hamler (22), Javonte Williams (21)  who wont stay young and cost-controlled forever.",

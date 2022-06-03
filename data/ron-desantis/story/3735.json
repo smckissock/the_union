@@ -5,14 +5,20 @@
   "headline": "Republicans block contentious Senate abortion rights vote",
   "image": "https://www.rawstory.com/media-library/mitch-mcconnell.jpg?id=26045156&width=1200&coordinates=0%2C31%2C0%2C32&height=600",
   "link": "https://www.rawstory.com/republicans-block-contentious-senate-abortion-rights-vote/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Agence France-Presse",
   "authorUrl": "https://www.rawstory.com/u/agence_france-presse",
   "termIds": [
-    661
+    661,
+    3929,
+    4047,
+    4357,
+    146,
+    428,
+    571
   ],
   "sentences": [
     "House GOP Leader Kevin McCarthy of California could be facing legal exposure if he ignores a subpoena from the House Select Committee Investigating the Jan. 6 Attack on the U.S. Capitol and it is established that he had knowledge Donald Trump committed a crime, a former federal prosecutor explained on MSNBC on Thursday.",

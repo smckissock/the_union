@@ -5,14 +5,22 @@
   "headline": "Stacey Abrams now a millionaire as she aims to take governor's office",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76cb62a9-ab3f-4f32-b60d-c342801e1385/c14f96c0-1714-44c7-abaf-6b174f9a80ee/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/stacey-abrams-now-a-millionaire",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Julia Musto",
   "authorUrl": "https://www.foxnews.com/person/m/julia-musto",
   "termIds": [
-    2095
+    1147,
+    1951,
+    2095,
+    4167,
+    43,
+    265,
+    2555,
+    2672,
+    4920
   ],
   "sentences": [
     "And because I had three years where I was in the private sector, I leveraged all three years, and in that time, Ive done my best to not only be successful personally, but to do what I can to help Georgians.\"",

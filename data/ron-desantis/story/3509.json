@@ -5,14 +5,20 @@
   "headline": "Some Md. parents argue a new health curriculum is unfit for young students",
   "image": "",
   "link": "https://www.washingtonpost.com/education/2022/05/17/maryland-schools-health-framework-gender/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Nicole Asbury",
   "authorUrl": "https://www.washingtonpost.com/people/nicole-asbury/",
   "termIds": [
-    661
+    661,
+    1012,
+    3419,
+    2661,
+    2669,
+    2782,
+    2953
   ],
   "sentences": [
     "Under the guidance, prekindergarten students, for example, are taught to recognize and respect that people express themselves in different ways.? It further advises school systems to teach kindergartners how to recognize a range of ways people express their identity and gender.?\nWhile parents can opt their children out of the lessons if theyre in fourth grade or above, prekindergarten to third-grade students arent given an opt-out option, according to the framework.",

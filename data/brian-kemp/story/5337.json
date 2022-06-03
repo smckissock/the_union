@@ -5,14 +5,17 @@
   "headline": "Gov. Kemp to sign Georgias mental health bill Monday",
   "image": "https://www.ajc.com/resizer/sOtGJl0fP3SamsnA4THOGdROpGg=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/GIQ4MUU35AMKME5TZGUCHT237M.jpg",
   "link": "https://www.ajc.com/politics/gov-kemp-to-sign-georgias-mental-heath-bill-monday/IOGFGVQ5R5F23MHK3RM4J5XNBM/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Maya T. Prabhu",
   "authorUrl": "https://www.ajc.com/staff/maya-t-prabhu/",
   "termIds": [
-    2095
+    1178,
+    2095,
+    2672,
+    4988
   ],
   "sentences": [
     "Under the new law, set to go into effect July 1, the state would enforce a federal law that requires parity? in health coverage, forgive student loans for mental health providers who work in underserved areas of the state and take other steps to improve care.",

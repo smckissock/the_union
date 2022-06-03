@@ -2,16 +2,16 @@
   {
     "id": 5346,
     "mediaId": 223,
-    "date": "2022-00-02",
+    "date": "4/2/2022 12:00:00 AM",
     "sentence": "",
     "author": "Rebecca Downs",
     "title": "More Big Tech Censorship: RNC Video of Interview with Donald Trump Removed from YouTube",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4485,
     "mediaId": 323,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "Cameron McWhirter",
     "title": "The Stonehenge of America Still Has Visitors Asking, What Is This Place?",
@@ -20,10 +20,19 @@
   {
     "id": 6582,
     "mediaId": 323,
-    "date": "2022-00-19",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "In the state of Georgia, thanks to <span class='selected-term'>Brian Kemp</span>, our elections were absolutely stolen.",
     "author": "Kimberley A. Strassel",
     "title": "The Limits of Stop the Steal",
     "sentiment": "0.612"
+  },
+  {
+    "id": 8729,
+    "mediaId": 136,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Georgia\nGovernor <span class='selected-term'>Brian Kemp</span> signed a new bill on March 18 that suspended the state's excise on the sale of motor fuels including gasoline, diesel and some other forms of fuel.",
+    "author": "Darragh Roche",
+    "title": "Which U.S. States Have Suspended Gas Taxes? Full List",
+    "sentiment": "0"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": 1175,
     "mediaId": 237,
-    "date": "2022-00-17",
+    "date": "3/17/2022 12:00:00 AM",
     "sentence": "Just In...\nFew politicians have drawn as much ire from opposite corners of the political spectrum as <span class='selected-term'>Brian Kemp</span>, the forever embattled Georgia governor seeking a second term in office this year.",
     "author": "Haisten Willis",
     "title": "The many trials of Brian Kemp",
@@ -11,10 +11,19 @@
   {
     "id": 7093,
     "mediaId": 409,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "They should renominate <span class='selected-term'>Brian Kemp</span> for a second term as governor.",
     "author": "The Editors",
     "title": "Yes on Kemp, No on Greene",
     "sentiment": "-0.635"
+  },
+  {
+    "id": 8758,
+    "mediaId": 223,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Salena Zito",
+    "title": "Ignoring the Noise and Running on Good Governing Are the Biggest Lessons of Georgia",
+    "sentiment": "0"
   }
 ]

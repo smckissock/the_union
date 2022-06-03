@@ -5,7 +5,7 @@
   "headline": "Kemp beats Perdue in Georgia governor primary, striking most significant blow to Trump's endorsement power yet",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f76e70c3-9f82-449e-b312-26cbc01e0174/bec4298b-92e0-45c1-9467-aa93c00a6af4/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/georgia-primary-election-brian-kemp-david-perdue-trump-endorsement",
-  "sentiment": "0.0",
+  "sentiment": "0.448",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "",
   "termIds": [
     815,
-    2095
+    1147,
+    1434,
+    1951,
+    2095,
+    4325,
+    146,
+    428,
+    2617,
+    2672
   ],
   "sentences": [
     "The most high-profile candidate Trump endorsed is former college and pro-football legend Herschel Walker, who easily captured the GOP nomination on his way to battling Democratic Sen. Raphael Warnock in a blockbuster general election showdown that could decide whether Republicans win back the Senate majority.",

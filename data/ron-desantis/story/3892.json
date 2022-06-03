@@ -5,14 +5,21 @@
   "headline": "Teenagers Views of the News",
   "image": "https://static01.nyt.com/images/2022/05/07/opinion/07Lstudent1/07Lstudent1-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/05/07/opinion/letters/high-school-student-letters.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3821,
+    3106,
+    3179,
+    3196,
+    3279,
+    3606,
+    2661
   ],
   "sentences": [
     "Claudia Rose Perkis, 17\n12th grade, Academic Magnet High School, Charleston, S.C.\nTo the Editor:\nRe Quandary Over Tips: How Much Is Enough?? (Food, April 20):\nA few weeks ago, our high schools Ethics Bowl team sat in a room in Chapel Hill, N.C., at the National High School Ethics Bowl championship  a competition where teams deliver presentations on ethical dilemmas and field questions from a panel of judges.",

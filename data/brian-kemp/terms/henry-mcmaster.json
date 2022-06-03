@@ -2,10 +2,19 @@
   {
     "id": 5066,
     "mediaId": 19,
-    "date": "2022-00-20",
+    "date": "4/20/2022 12:00:00 AM",
     "sentence": "The pact is signed by the following governors:\nGovernors Doug Ducey (AZ), Greg Abbott (TX), Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), Ron DeSantis (FL), <span class='selected-term'>Brian Kemp</span> (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",
     "author": "Bob Price",
     "title": "26 Governors Mobilize Against Migration Chaos at Border",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8745,
+    "mediaId": 18,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Republicans eager to reopen economy; Democrats more cautious",
+    "sentiment": "0.295"
   }
 ]

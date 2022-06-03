@@ -5,14 +5,23 @@
   "headline": "Trump says JD Vance best suited to win the election, warns of Tim Ryans campaign bank account",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/trumpdonald_vancejd_050222ap-joe-maiorana_split_ohio-gop.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3475585-trump-says-jd-vance-best-suited-to-win-the-election-warns-of-tim-ryans-war-chest/",
-  "sentiment": "0",
+  "sentiment": "0.788",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caroline Vakil",
   "authorUrl": "https://thehill.com/author/caroline-vakil/",
   "termIds": [
-    3103
+    781,
+    1147,
+    1213,
+    1448,
+    1801,
+    3103,
+    428,
+    571,
+    3593,
+    2845
   ],
   "sentences": [
     "is best suited to win the election,? Trump said, referring to the other Beckeye State Republican Senate challengers, during an interview with The Bruce Hooley Show.?\nItll probably be Ryan, and Ryan is going to have a lot of money, and I dont think hes a great candidate, but I think hes going to have 50, 60 million dollars to spend and thats a lot of money,? he added, referring to whom he believed Vance, if he won, would be challenging.",

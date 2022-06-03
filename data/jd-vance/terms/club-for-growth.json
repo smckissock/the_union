@@ -1,26 +1,8 @@
 [
   {
-    "id": 5573,
-    "mediaId": 129,
-    "date": "2022-00-11",
-    "sentence": "",
-    "author": "",
-    "title": "Club for Growth Starts Ad Blitz for Kathy Barnette in Pennsylvania Senate Primary",
-    "sentiment": "0"
-  },
-  {
-    "id": 3363,
-    "mediaId": 238,
-    "date": "2022-00-16",
-    "sentence": "",
-    "author": "Isaac Arnsdorf",
-    "title": "How Trump's pact with the Club for Growth turned into a grudge match",
-    "sentiment": "0"
-  },
-  {
     "id": 5034,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Brad Reed",
     "title": "Trump sent profane text message to Club for Growth after it continued bashing candidate he endorsed: Maggie Haberman",
@@ -29,7 +11,7 @@
   {
     "id": 6259,
     "mediaId": 19,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jordan Dixon-Hamilton",
     "title": "Trump Team Slams Club for Growth for Not Following Trumps Endorsement of J.D. Vance",
@@ -38,7 +20,7 @@
   {
     "id": 6263,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Bob Brigham",
     "title": "Club for Growth rejects Trump Jrs ultimatum as GOP civil war intensifies",
@@ -47,7 +29,7 @@
   {
     "id": 6147,
     "mediaId": 129,
-    "date": "2022-00-26",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
@@ -56,7 +38,7 @@
   {
     "id": 6149,
     "mediaId": 129,
-    "date": "2022-00-26",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group",
@@ -65,10 +47,28 @@
   {
     "id": 6138,
     "mediaId": 157,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Timothy Evans",
     "title": "Republican candidates left reeling after Club for Growth chief gets cast out of Trump World: report",
     "sentiment": "-0.463"
+  },
+  {
+    "id": 5573,
+    "mediaId": 129,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Club for Growth Starts Ad Blitz for Kathy Barnette in Pennsylvania Senate Primary",
+    "sentiment": "0"
+  },
+  {
+    "id": 3363,
+    "mediaId": 238,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Isaac Arnsdorf",
+    "title": "How Trump's pact with the Club for Growth turned into a grudge match",
+    "sentiment": "0"
   }
 ]

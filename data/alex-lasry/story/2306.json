@@ -5,7 +5,7 @@
   "headline": "Marquette Poll shows Mandela Barnes, Alex Lasry in tight Democratic U.S. Senate race in Wisconsin",
   "image": "https://www.gannett-cdn.com/presto/2021/12/22/PMJS/28ff4308-72a5-4567-89a2-779e348950da-senate_dems.jpg?width=660&height=500&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/04/27/marquette-poll-shows-tight-u-s-senate-primary-between-barnes-lasry/9554859002/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,15 @@
   "termIds": [
     741,
     802,
+    1360,
+    1490,
     1568,
-    2039
+    2039,
+    2468,
+    146,
+    571,
+    2965,
+    2972
   ],
   "sentences": [
     "More:With no evidence, Rebecca Kleefisch, Wisconsin candidate for governor, says 2020 election was 'rigged'\nMost people  64% of Republicans and 50% of Democrats  hadn't heard enough about the Republican-led probe of the 2020 election in Wisconsin, which is headed up by former state Supreme Court Justice Michael Gableman.",

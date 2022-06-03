@@ -5,7 +5,7 @@
   "headline": "Twelve months that moved the Democratic Party left of Biden",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2022_09/3538053/220301-hero-joe-biden-ew-917p.jpg",
   "link": "https://www.nbcnews.com/politics/meet-the-press/twelve-months-moved-democratic-party-left-biden-n1290759",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "",
   "termIds": [
     741,
-    2039
+    2039,
+    2087,
+    2322,
+    2389,
+    2525,
+    146,
+    2558,
+    2888,
+    2934,
+    2942,
+    2959
   ],
   "sentences": [
     "'Fund the police': Biden discusses efforts to address crime prevention\nMarch 1, 202202:17\nBack when Democratic presidential candidates called to decriminalize border crossings: My plan also includes getting rid of Section 1325 of the Immigration and Nationality Act, to go back to the way we used to treat this when somebody comes across the border, not to criminalize desperation, to treat that as a civil violation.",

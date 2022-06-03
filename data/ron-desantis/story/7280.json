@@ -5,14 +5,23 @@
   "headline": "Bad ideas for fixing the internet have gone viral",
   "image": "https://chorus.stimg.co/23577510/merlin_67238976.jpg?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=1",
   "link": "https://www.startribune.com/bad-ideas-for-fixing-the-internet-have-gone-viral/600175564/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Farhad Manjoo New York Times",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2250,
+    4059,
+    5530,
+    428,
+    524,
+    539,
+    2661,
+    2934,
+    4938
   ],
   "sentences": [
     "Set aside for a minute that the left and right disagree on what exactly are the dangers posed by social media: The left generally argues that companies like Facebook and Twitter aren't doing enough to root out misinformation, extremism and hate on their platforms, while the right insists that tech companies are going so overboard in their content decisions that they're suppressing conservative political views.",

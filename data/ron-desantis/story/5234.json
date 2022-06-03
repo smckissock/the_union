@@ -5,7 +5,7 @@
   "headline": "Ron DeSantis says if Stacey Abrams wins election it will create a Florida-Georgia 'cold war'",
   "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3df92c92-c872-43e2-9c05-cb68285919df/6e1e571f-b512-4353-8820-f4d97fe42110/1280x720/match/931/524/image.jpg?ve=1&tl=1",
   "link": "https://www.foxnews.com/politics/ron-desantis-stacey-abrams-wins-election-florida-georgia-cold-war",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,12 @@
   "authorUrl": "",
   "termIds": [
     661,
-    2095
+    1951,
+    2095,
+    146,
+    428,
+    2661,
+    2672
   ],
   "sentences": [
     "\"If Stacey Abrams is elected governor of Georgia, I just want to be honest, that will be a cold war between Florida and Georgia,\" DeSantis said at a press conference about infrastructure, according to The Hill.",

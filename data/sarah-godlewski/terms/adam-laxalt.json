@@ -1,29 +1,29 @@
 [
   {
+    "id": 2300,
+    "mediaId": 195,
+    "date": "4/29/2022 12:00:00 AM",
+    "sentence": "Mandela Barnes (D), state Treasurer <span class='selected-term'>Sarah Godlewski</span> (D), Milwaukee Bucks vice president Alex Lasry (D), Outagamie County Executive Tom Nelson (D) and nonprofit executive Steven Olikara (D), among others.",
+    "author": "Reid Wilson",
+    "title": "Democrats reserve $33 million in fall advertising in fight for Senate",
+    "sentiment": "0"
+  },
+  {
     "id": 3289,
     "mediaId": 151,
-    "date": "2022-00-07",
+    "date": "5/7/2022 12:00:00 AM",
     "sentence": "That stands in stark contrast to one of his prospective opponents, <span class='selected-term'>Sarah Godlewski</span>, the Wisconsin state treasurer who sought to break out of a crowded Democratic Senate primary by pouncing on the issue as soon as news broke Monday night.",
     "author": "",
     "title": "Threat to Roe puts GOP on defense in 2022 battlegrounds",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3200,
     "mediaId": 65,
-    "date": "2022-00-08",
+    "date": "5/8/2022 12:00:00 AM",
     "sentence": "Wisconsin state treasurer <span class='selected-term'>Sarah Godlewski</span>, who's running to challenge GOP Sen. Ron Johnson, traveled to the Supreme Court to shoot what appears to be the first Senate campaign ad since the news broke.",
     "author": "Paul Steinhauser",
     "title": "Overturning Roe v. Wade may not change 'basic contours' of election that favors GOP: Analysts",
     "sentiment": "0"
-  },
-  {
-    "id": 2300,
-    "mediaId": 195,
-    "date": "2022-00-29",
-    "sentence": "Mandela Barnes (D), state Treasurer <span class='selected-term'>Sarah Godlewski</span> (D), Milwaukee Bucks vice president Alex Lasry (D), Outagamie County Executive Tom Nelson (D) and nonprofit executive Steven Olikara (D), among others.",
-    "author": "Reid Wilson",
-    "title": "Democrats reserve $33 million in fall advertising in fight for Senate",
-    "sentiment": "0.0"
   }
 ]

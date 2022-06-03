@@ -5,14 +5,20 @@
   "headline": "Disneys $500 Million Roller Coaster Underscores Deep Ties to Florida",
   "image": "https://s.yimg.com/ny/api/res/1.2/xbfc9nVLO4Y2popwk1rO7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU2MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/zTu5EfNj4TtFgiItGXPiqg--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/48e45574ec8a951ceaae061362649e28",
   "link": "https://ca.news.yahoo.com/disney-500-million-roller-coaster-130000486.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Christopher Palmeri",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    524,
+    611,
+    3245,
+    3395,
+    2661,
+    2851
   ],
   "sentences": [
     "Most Read from Bloomberg\nStarting May 27, riders on the indoor Guardians of the Galaxy: Cosmic Rewind will climb into a four-seat cockpit that turns 360 degrees and travels up to 60 miles an hour, immersing guests in a story about Star-Lord, Groot and other characters from the Marvel franchise.",

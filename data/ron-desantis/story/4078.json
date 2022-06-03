@@ -5,14 +5,23 @@
   "headline": "DeSantis takes a dig at Twitter as lawmakers encourage Elon Musk to move HQ to Florida: 'Importing some tech company from San Francisco has not been high on our list'",
   "image": "https://i.insider.com/627083a940473e0018a19f78?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/desantis-takes-dig-at-elon-musk-discouraging-twitter-hq-moving-to-florida-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Taiyler Simone Mitchell",
   "authorUrl": "https://www.businessinsider.com/author/taiyler-s-mitchell",
   "termIds": [
-    661
+    661,
+    2517,
+    4129,
+    4793,
+    78,
+    539,
+    2661,
+    2851,
+    2896,
+    2934
   ],
   "sentences": [
     "At a press conference Monday, DeSantis said the company will bring between $15 and $20 million in profit to the state when Musk is officially the owner of the platform due to the state's investment in Twitter.",

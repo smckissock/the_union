@@ -5,14 +5,20 @@
   "headline": "More autopsies needed to explain COVID vaccine deaths",
   "image": "https://www.wnd.com/wp-content/uploads/2017/02/covered_corpse.jpg",
   "link": "https://www.wnd.com/2022/02/autopsies-needed-explain-covid-vaccine-deaths/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joel S. Hirschhorn",
   "authorUrl": "https://www.wnd.com/author/jhirschhorn/",
   "termIds": [
-    2171
+    974,
+    2171,
+    91,
+    395,
+    2578,
+    2674,
+    2912
   ],
   "sentences": [
     "The rates of myocarditis cases were highest after the second vaccination dose in adolescent males aged 12 to 15 years (70.7 per million doses of the [Pfizer] vaccine), in adolescent males aged 16 to 17 years (105.9 per million doses of the [Pfizer] vaccine), and in young men aged 18 to 24 years (52.4 and 56.3 per million doses of the [Pfizer] vaccine and the [Moderna] vaccine, respectively).",

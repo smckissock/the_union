@@ -5,14 +5,22 @@
   "headline": "Biden requests Mehmet Oz and Herschel Walker resign from presidential council or be terminated",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220323170811-oz-walker-split-exlarge-169.jpg",
   "link": "https://www.cnn.com/2022/03/23/politics/biden-requests-resignations-mehmet-oz-and-herschel-walker/index.html",
-  "sentiment": "0.0",
+  "sentiment": "-0.208",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Donald Judd and Maegan Vazquez",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1136,
+    1147,
+    1462,
+    1653,
+    2087,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "The official said letters to Oz and Walker were sent Wednesday requesting their resignations by 6 p.m.\nWalker, the current front-runner for the GOP nomination to take on Democratic Sen. Raphael Warnock in Georgia, said Thursday that he would not be resigning.",

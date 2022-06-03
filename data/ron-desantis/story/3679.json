@@ -5,14 +5,22 @@
   "headline": "DeSantis-Appointed Judge Blocks His 'Unconstitutional' Redistricting Map",
   "image": "https://d.newsweek.com/en/full/2035950/desantis.webp?w=790&f=8460f45a039d403fd97c5ff301693d6d",
   "link": "https://www.newsweek.com/desantis-appointed-judge-blocks-his-unconstitutional-redistricting-map-1705836",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Patricia McKnight",
   "authorUrl": "https://www.newsweek.com/authors/patricia-mcknight",
   "termIds": [
-    661
+    661,
+    1058,
+    3804,
+    146,
+    428,
+    571,
+    2661,
+    2945,
+    5039
   ],
   "sentences": [
     "\"I am finding that the enacted map is unconstitutional under the Fair District Amendment ... because it diminishes African Americans' ability to elect the representative of their choice,\" Smith said during a court hearing conducted via Zoom on Wednesday, according to the Florida Phoenix.",

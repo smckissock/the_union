@@ -5,14 +5,22 @@
   "headline": "Biden and Democrats caught flat-footed and without a plan for the possible end of Roe v. Wade",
   "image": "https://i.insider.com/627414baa6a880001827c06e?width=1000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/democrats-specifics-abortion-roe-v-wade-scotus-leak-opinion-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Warren Rojas",
   "authorUrl": "https://www.businessinsider.com/author/warren-rojas",
   "termIds": [
-    815
+    815,
+    1253,
+    1341,
+    2087,
+    2343,
+    2411,
+    2505,
+    146,
+    571
   ],
   "sentences": [
     "Michael Reynolds/Pool via AP\nSenate Democrats offer outrage, but not policy\nBiden's Secretary of Health and Human Services, Xavier Becerra, appeared before a Senate committee on Wednesday and did not offer new specifics for how his agency  which oversees programs like Title IX and can issue policies on coverage for reproductive care  would act if the Supreme Court strikes down Roe v. Wade in the coming weeks.",

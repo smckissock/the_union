@@ -2,10 +2,19 @@
   {
     "id": 6983,
     "mediaId": 675,
-    "date": "2022-00-24",
+    "date": "3/24/2022 12:00:00 AM",
     "sentence": "U.S. Sen. Ron Johnson of Wisconsin and Pennsylvania State Sen. <span class='selected-term'>Doug Mastriano</span> met with members of the convoy to talk about their goals.",
     "author": "Michael Letts",
     "title": "Do D.C. Democrats fear the convoy truckers?",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8687,
+    "mediaId": 234,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Elsewhere in conservative bullshit re: guns, on Wednesday, <span class='selected-term'>Doug Mastriano</span>, the Pennsylvania GOP nominee for governor, shared and doubled down on a 2018 video of him likening gun control to the policies of Adolf Hitler.",
+    "author": "Bess Levin",
+    "title": "Republican Congressman Blames Mass Shootings on Women Having Rights",
+    "sentiment": "0"
   }
 ]

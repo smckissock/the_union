@@ -5,13 +5,15 @@
   "headline": "It's February: Did you abandon your New Year's Resolutions yet?",
   "image": "https://www.wnd.com/wp-content/uploads/2021/01/sparkler-fireworks-celebration-new-years-eve-pixabay.jpg",
   "link": "https://www.wnd.com/?p=4979318",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Larry Tomczak",
   "authorUrl": "https://www.wnd.com/author/ltomczak/",
   "termIds": [
+    1749,
+    2028,
     2171
   ],
   "sentences": [

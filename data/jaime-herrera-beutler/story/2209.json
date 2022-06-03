@@ -5,14 +5,23 @@
   "headline": "Meghan McCain on Jan. 6 Consequences: 'I'll Believe It When I See It'",
   "image": "https://d.newsweek.com/en/full/2024614/meghan-mccain-donald-trump.webp?w=790&f=6f5dcf9c213bc8beab5cad03e0de2103",
   "link": "https://www.newsweek.com/meghan-mccain-january-6-consequences-donald-trump-interview-capitol-1700098",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ryan Smith",
   "authorUrl": "https://www.newsweek.com/authors/ryan-smith",
   "termIds": [
-    2125
+    1147,
+    1609,
+    1943,
+    1975,
+    2087,
+    2125,
+    2354,
+    2440,
+    2590,
+    2888
   ],
   "sentences": [
     "The supporters' attack came directly after Trump told them at a nearby Washington, D.C. rally to walk to the Capitol and \"fight like hell\" to save their country, following his stream of misinformation about the 2020 election results.",

@@ -1,17 +1,44 @@
 [
   {
-    "id": 7857,
-    "mediaId": 124,
-    "date": "2022-00-01",
-    "sentence": "Georgia Senate: Two super PACs backing GOP Senate candidates Gary Black and Latham Saddler are planning seven-figure ad buys attacking Republican frontrunner <span class='selected-term'>Herschel Walker</span> ahead of the May 24 primary, in an attempt to force Walker into a primary runoff, Politico reports.",
-    "author": "",
-    "title": "For all of Bidens troubles, hes still more popular than Trump in the NBC News poll",
-    "sentiment": "0.0"
+    "id": 1321,
+    "mediaId": 12,
+    "date": "2/22/2022 12:00:00 AM",
+    "sentence": "I can promise you <span class='selected-term'>Herschel Walker</span> is going to be in this race.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Herschel Walker hits weak' U.S. leadership in Russia crisis",
+    "sentiment": "-0.689"
+  },
+  {
+    "id": 1317,
+    "mediaId": 12,
+    "date": "2/23/2022 12:00:00 AM",
+    "sentence": "We told you Tuesday that <span class='selected-term'>Herschel Walker</span> blasted the Biden administration's weak? response to the unfolding Russian invasion of the Ukraine during another stop in Dahlonega.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Herschel Walker: I don't support either' Brian Kemp or David Perdue",
+    "sentiment": "-0.243"
+  },
+  {
+    "id": 8106,
+    "mediaId": 12,
+    "date": "2/25/2022 12:00:00 AM",
+    "sentence": "Former U.S. Sen. David Perdue said Russia wouldnt have invaded its neighbor if Trump was still president and Senate candidate <span class='selected-term'>Herschel Walker</span> faulted Bidens disastrous foreign policy  and Americans themselves.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Trump candidates in Georgia split from pro-Putin rhetoric",
+    "sentiment": "0"
+  },
+  {
+    "id": 8108,
+    "mediaId": 12,
+    "date": "2/25/2022 12:00:00 AM",
+    "sentence": "The fundraiser was for House and Senate candidates, including <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Patricia Murphy",
+    "title": "OPINION: The good, the bad, and the un-American in the response to the Ukraine crisis",
+    "sentiment": "0"
   },
   {
     "id": 8097,
     "mediaId": 12,
-    "date": "2022-00-01",
+    "date": "3/1/2022 12:00:00 AM",
     "sentence": "U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> pulled out of a weekend event organized by U.S. Rep. Marjorie Taylor Greene after she spoke at a white nationalist rally where attendees cheered Russias invasion of Ukraine and chanted Vladimir Putins name.",
     "author": "Greg Bluestein",
     "title": "Walker wont go to Marjorie Taylor Greene event after she spoke at pro-Putin rally",
@@ -20,16 +47,16 @@
   {
     "id": 8098,
     "mediaId": 12,
-    "date": "2022-00-01",
+    "date": "3/1/2022 12:00:00 AM",
     "sentence": "We wont be surprised if his dad schedules a trip to Georgia in the next few weeks to tout the five-candidate slate hes backing, a group that also includes Senate candidate <span class='selected-term'>Herschel Walker</span>.",
     "author": "Tia Mitchell",
     "title": "The Jolt: Marjorie Taylor Greene to deliver America First response to Biden speech",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8100,
     "mediaId": 157,
-    "date": "2022-00-01",
+    "date": "3/1/2022 12:00:00 AM",
     "sentence": "U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> pulled out of an upcoming event organized by Georgia GOP Rep. Marjorie Taylor -- who's come under fire for speaking at an event hosted by white nationalists who praised Russian President Vladimir Putin's invasion of Ukraine, The Atlanta Journal Constitution reports.",
     "author": "Sky Palma",
     "title": "Marjorie Taylor Greene suffers more blowback as GOP Senate hopeful pulls out of her event",
@@ -38,34 +65,25 @@
   {
     "id": 8084,
     "mediaId": 43,
-    "date": "2022-00-04",
+    "date": "3/4/2022 12:00:00 AM",
     "sentence": "), and in Missouri, everybodys flirting with the profoundly disturbing Eric Greitens, all while <span class='selected-term'>Herschel Walker</span> remains functionally unopposed, history of domestic abuse be damned, apparently.",
     "author": "",
     "title": "Hitler, But Dumber: The Vladimir Putin Story",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7794,
-    "mediaId": 209,
-    "date": "2022-00-12",
-    "sentence": "Donald Trump has \"racked up quite a roster of endorsees: Dr. Oz, <span class='selected-term'>Herschel Walker</span>, Sarah Palin  his goal is to turn Congress into The Celebrity Apprentice,\" Kimmel said.",
-    "author": "Peter Weber",
-    "title": "Late night hosts explore Russia's sanctions pains, Don Jr.'s election texts, Trump's Dr. Oz nod",
-    "sentiment": "0.253"
+    "sentiment": "0"
   },
   {
     "id": 8038,
     "mediaId": 43,
-    "date": "2022-00-12",
+    "date": "3/12/2022 12:00:00 AM",
     "sentence": "x\nx\nNew revelations about <span class='selected-term'>Herschel Walker</span> show how Democrats could hold the Senate\nHerschel Walkers candidacy for the U.S. Senate in Georgia is built on celebrity, but when hes out on the campaign trail, hes as likely to offer his success as a businessman as a qualification to serve in Washington as he is to reminisce about his days as a football star.",
     "author": "",
     "title": "Western Democracy is Stronger than We Thought: Saturday's Good News",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8028,
     "mediaId": 234,
-    "date": "2022-00-15",
+    "date": "3/15/2022 12:00:00 AM",
     "sentence": "Per HuffPost:\nRepublican Senate candidate <span class='selected-term'>Herschel Walker</span> cast doubt on the theory of evolution in recent remarks, saying the fact that apes and humans coexist disproves accepted science.",
     "author": "Bess Levin",
     "title": "Eric Trump: Putin Was Pants-Pissingly Terrified of My Dad, O.K.?",
@@ -74,70 +92,79 @@
   {
     "id": 8029,
     "mediaId": 43,
-    "date": "2022-00-15",
+    "date": "3/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "for the Ides of March",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8030,
     "mediaId": 43,
-    "date": "2022-00-15",
+    "date": "3/15/2022 12:00:00 AM",
     "sentence": "Seems would-be Senator <span class='selected-term'>Herschel Walker</span> finally arrived, a few decades late, to the long-ago debunked if evolution is real why are there still apes CHECKMATE LIBTARD PRIMATES party, and Im looking forward to next week, when he blows the lid off Robert Byrds misspent youth.",
     "author": "",
     "title": "In Putins Russia, War Crimes Commit YOU!",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7997,
     "mediaId": 124,
-    "date": "2022-00-17",
+    "date": "3/17/2022 12:00:00 AM",
     "sentence": "A brutal Senate primary is heating up in Georgia, where Republican Gary Blacks campaign dropped opposition research about primary opponent <span class='selected-term'>Herschel Walker</span> (former President Donald Trumps pick), highlighting a lengthy list of allegations of domestic assault, threats and violence.",
     "author": "",
     "title": "Day 22 into Russia's invasion of Ukraine: A glimmer of hope and a devastating reality",
     "sentiment": "-0.953"
   },
   {
-    "id": 1321,
-    "mediaId": 12,
-    "date": "2022-00-22",
-    "sentence": "I can promise you <span class='selected-term'>Herschel Walker</span> is going to be in this race.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Herschel Walker hits weak' U.S. leadership in Russia crisis",
-    "sentiment": "-0.689"
-  },
-  {
     "id": 7977,
     "mediaId": 238,
-    "date": "2022-00-22",
+    "date": "3/22/2022 12:00:00 AM",
     "sentence": "He also endorsed <span class='selected-term'>Herschel Walker</span> for Georgias Senate primary, despite serious questions about his business background and alleged history of violent behavior.",
     "author": "",
     "title": "Opinion: Donald Trump has gone from cult leader to weather vane",
     "sentiment": "-0.796"
   },
   {
-    "id": 1317,
-    "mediaId": 12,
-    "date": "2022-00-23",
-    "sentence": "We told you Tuesday that <span class='selected-term'>Herschel Walker</span> blasted the Biden administration's weak? response to the unfolding Russian invasion of the Ukraine during another stop in Dahlonega.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Herschel Walker: I don't support either' Brian Kemp or David Perdue",
-    "sentiment": "-0.243"
+    "id": 7885,
+    "mediaId": 151,
+    "date": "3/27/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
+    "sentiment": "0"
+  },
+  {
+    "id": 7857,
+    "mediaId": 124,
+    "date": "4/1/2022 12:00:00 AM",
+    "sentence": "Georgia Senate: Two super PACs backing GOP Senate candidates Gary Black and Latham Saddler are planning seven-figure ad buys attacking Republican frontrunner <span class='selected-term'>Herschel Walker</span> ahead of the May 24 primary, in an attempt to force Walker into a primary runoff, Politico reports.",
+    "author": "",
+    "title": "For all of Bidens troubles, hes still more popular than Trump in the NBC News poll",
+    "sentiment": "0"
+  },
+  {
+    "id": 7794,
+    "mediaId": 209,
+    "date": "4/12/2022 12:00:00 AM",
+    "sentence": "Donald Trump has \"racked up quite a roster of endorsees: Dr. Oz, <span class='selected-term'>Herschel Walker</span>, Sarah Palin  his goal is to turn Congress into The Celebrity Apprentice,\" Kimmel said.",
+    "author": "Peter Weber",
+    "title": "Late night hosts explore Russia's sanctions pains, Don Jr.'s election texts, Trump's Dr. Oz nod",
+    "sentiment": "0.253"
   },
   {
     "id": 7488,
     "mediaId": 151,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "PAPER TRAIL  <span class='selected-term'>Herschel Walker</span>s ties to veterans program face scrutiny, by the Associated Press Brian Slodysko and Jeff Amy: Herschel Walker, the football legend and leading Republican Senate candidate in Georgia, often boasts of his work helping service members and veterans struggling with mental health.",
     "author": "",
     "title": "7 big 2022 midterm questions to answer this week",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7434,
     "mediaId": 409,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "Less controversial yet, perhaps, more important to Republicans is the U.S. Senate primary, where former professional football player <span class='selected-term'>Herschel Walker</span> has dominated the field with an average of 65 percent support across all major polls.",
     "author": "Arjun Singh",
     "title": "Trumps Hold Over GOP Electorate to Be Tested in Closely Watched Primaries",
@@ -146,43 +173,16 @@
   {
     "id": 7462,
     "mediaId": 157,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "NOW WATCH: <span class='selected-term'>Herschel Walker</span> argues with reporter Trump 'never said' election was stolen\nStories Chosen For You",
     "author": "Tom Boggioni",
     "title": "'He will not run the country': Putin's inner circle reportedly looking for his replacement",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8106,
-    "mediaId": 12,
-    "date": "2022-00-25",
-    "sentence": "Former U.S. Sen. David Perdue said Russia wouldnt have invaded its neighbor if Trump was still president and Senate candidate <span class='selected-term'>Herschel Walker</span> faulted Bidens disastrous foreign policy  and Americans themselves.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: Trump candidates in Georgia split from pro-Putin rhetoric",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8108,
-    "mediaId": 12,
-    "date": "2022-00-25",
-    "sentence": "The fundraiser was for House and Senate candidates, including <span class='selected-term'>Herschel Walker</span>.",
-    "author": "Patricia Murphy",
-    "title": "OPINION: The good, the bad, and the un-American in the response to the Ukraine crisis",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7885,
-    "mediaId": 151,
-    "date": "2022-00-27",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8562,
     "mediaId": 195,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "Georgia's Raphael Warnock, the pastor at Martin Luther King's church, has proven an effective Senator and fund-raiser; his opponent, former Georgia football great <span class='selected-term'>Herschel Walker</span> has been embroiled in personal controversies, shows little grasp of issues and has been caught in lies.",
     "author": "Albert Hunt",
     "title": "Better candidates may not be enough for Democrats to retain the Senate",

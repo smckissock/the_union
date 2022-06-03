@@ -5,14 +5,18 @@
   "headline": "Chris Christie sends message to Dems: Follow Obama's advice, tell this story to voters",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b305c7a-864b-47ca-8f38-ab9d3765fabd/8743efbb-59f4-4d47-b885-29e5998888fa/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/democrats-obama-advice-midterms-governor-chris-christie",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Fox News Staff",
   "authorUrl": "https://www.foxnews.com/person/s/fox-news-staff",
   "termIds": [
-    2095
+    761,
+    2095,
+    2429,
+    146,
+    428
   ],
   "sentences": [
     "Here's the story they have to tell: $5 a gallon gasoline, runaway inflation at the supermarket, critical race theory in the classroom, the crime on the streets that is rampant in America's cities, a porous border that people are pouring over now and pouring even more if they continue to change policy and revoke Title 42.",

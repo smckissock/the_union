@@ -5,14 +5,19 @@
   "headline": "Georgia legislative session ends with last-minute flurry of tax-cut, gender bills",
   "image": "https://www.ajc.com/resizer/Pqzcx08f9i8QQEE7WhXFdblpPRg=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/RS4N4BOS7ONEKKUPYKOL4AOI4E.JPG",
   "link": "https://www.ajc.com/politics/georgia-legislative-session-ends-with-last-minute-flurry-of-tax-cut-gender-bills/I4I5DHK2SRB5DJ22F5ZBOLG5PY/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mark Niesse",
   "authorUrl": "https://www.ajc.com/staff/mark-niesse/",
   "termIds": [
-    2095
+    734,
+    1178,
+    2095,
+    2246,
+    571,
+    2672
   ],
   "sentences": [
     "The final few hours had a little bit of everything typical of the last day of a session: plenty of waiting around for deals to be made; strategizing between leaders of the Republican majority; slapping one bill onto another; lobbyists crowding around screens in the halls watching the proceedings; and lawmakers voting quickly on measures described only by a bill number, minus discussion of any content.",

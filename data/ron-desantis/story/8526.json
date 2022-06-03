@@ -5,14 +5,24 @@
   "headline": "What Lia Thomas Could Mean for Women's Elite Sports",
   "image": "https://static01.nyt.com/images/2022/05/23/us/00swimmer-trans09/merlin_204182745_56bfb8e4-3714-4049-be1a-4554df77c980-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/29/us/lia-thomas-women-sports.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    812,
+    2250,
+    4130,
+    6168,
+    257,
+    6126,
+    6144,
+    2555,
+    2661,
+    2946
   ],
   "sentences": [
     "The battle over whether to let female transgender athletes compete in women's elite sports has reached an angry pitch, a collision of competing principles: The hard-fought-for right of women to compete in high school, college and pro sports versus a swelling movement to allow transgender athletes to compete in their chosen gender identities.",

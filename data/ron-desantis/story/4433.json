@@ -5,14 +5,21 @@
   "headline": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
   "image": "https://d.newsweek.com/en/full/2028137/desantis-disney.webp?w=790&f=691acdc507d843703118886e5255c9f8",
   "link": "https://www.newsweek.com/ron-desantis-disney-taxes-reedy-creek-1702043",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ewan Palmer",
   "authorUrl": "https://www.newsweek.com/authors/ewan-palmer",
   "termIds": [
-    661
+    661,
+    718,
+    524,
+    611,
+    2661,
+    2849,
+    2851,
+    5082
   ],
   "sentences": [
     "In a statement to shareholders, Reedy Creek Improvement District said the plan to dissolve the law permitting Disney to run as its own self-governing authority will not work as the 1967 legislation included a pledge by the state of Florida that it would not \"impair the rights or remedies\" of the holders until all its debts are cleared.",

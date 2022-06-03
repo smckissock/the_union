@@ -2,10 +2,19 @@
   {
     "id": 6796,
     "mediaId": 157,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Matthew Chapman",
     "title": "Pa. Senate GOP candidate Kathy Barnette photographed marching toward Capitol with Proud Boys on Jan. 6",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8626,
+    "mediaId": 238,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "That candidate is <span class='selected-term'>Doug Mastriano</span>, a right-wing Trump supporter who was present at the Capitol on Jan. 6, 2021, when violence first erupted.",
+    "author": "Philip Bump",
+    "title": "What's the far right trying to build power for?",
+    "sentiment": "0"
   }
 ]

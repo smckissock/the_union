@@ -5,14 +5,21 @@
   "headline": "'Too far right: Former adviser slams Trump's endorsement of PA's Mastriano",
   "image": "https://www.rawstory.com/media-library/image.jpg?id=29804387&width=1200&coordinates=0%2C21%2C0%2C51&height=600",
   "link": "https://www.rawstory.com/donald-trump-mastriano/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Boggioni",
   "authorUrl": "https://www.rawstory.com/u/tom_boggioni",
   "termIds": [
-    3102
+    1147,
+    1760,
+    1990,
+    3102,
+    4776,
+    5391,
+    5446,
+    2862
   ],
   "sentences": [
     "Donald Trump's endorsement of controversial lawmaker Doug Mastriano to be the Republicans Party's nominee to be the next governor of Pennsylvania got off to a rough start just moments after he made his choice known through his spokesperson on Twitter.",

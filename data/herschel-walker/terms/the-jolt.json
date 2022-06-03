@@ -1,38 +1,38 @@
 [
   {
-    "id": 5366,
-    "mediaId": 12,
-    "date": "2022-00-01",
-    "sentence": "You can even tell your smart speaker to play Politically Georgia podcast.?\nWeve uncovered audio of Republican Senate candidate <span class='selected-term'>Herschel Walker</span>s speech to a private closed-door fundraiser in Texas earlier this month where he makes broad statements about climate change.",
-    "author": "Tia Mitchell",
-    "title": "The Jolt: See Sonny Perdues resume for his new $524,000 job as chancellor",
-    "sentiment": "0.0"
-  },
-  {
     "id": 8342,
     "mediaId": 12,
-    "date": "2022-00-03",
+    "date": "1/3/2022 12:00:00 AM",
     "sentence": "U.S. Senate candidate <span class='selected-term'>Herschel Walker</span> has spent the opening months on the campaign trail speaking mostly to conservative media outlets that offered him friendly questions.",
     "author": "Tia Mitchell",
     "title": "The Jolt: The Cobb homage to treason planned for Jan. 6",
     "sentiment": "0"
   },
   {
+    "id": 8255,
+    "mediaId": 12,
+    "date": "1/24/2022 12:00:00 AM",
+    "sentence": "Senate candidate <span class='selected-term'>Herschel Walker</span> is holding mostly closed-door events in Georgia, while collecting lucrative fees for private speeches mostly outside of the state.",
+    "author": "Tia Mitchell",
+    "title": "The Jolt: Internal poll shows voter support for Buckhead cityhood down",
+    "sentiment": "0"
+  },
+  {
     "id": 1317,
     "mediaId": 12,
-    "date": "2022-00-23",
+    "date": "2/23/2022 12:00:00 AM",
     "sentence": "We told you Tuesday that <span class='selected-term'>Herschel Walker</span> blasted the Biden administration's weak? response to the unfolding Russian invasion of the Ukraine during another stop in Dahlonega.",
     "author": "Tia Mitchell",
     "title": "The Jolt: Herschel Walker: I don't support either' Brian Kemp or David Perdue",
     "sentiment": "-0.243"
   },
   {
-    "id": 8255,
+    "id": 5366,
     "mediaId": 12,
-    "date": "2022-00-24",
-    "sentence": "Senate candidate <span class='selected-term'>Herschel Walker</span> is holding mostly closed-door events in Georgia, while collecting lucrative fees for private speeches mostly outside of the state.",
+    "date": "4/1/2022 12:00:00 AM",
+    "sentence": "You can even tell your smart speaker to play Politically Georgia podcast.?\nWeve uncovered audio of Republican Senate candidate <span class='selected-term'>Herschel Walker</span>s speech to a private closed-door fundraiser in Texas earlier this month where he makes broad statements about climate change.",
     "author": "Tia Mitchell",
-    "title": "The Jolt: Internal poll shows voter support for Buckhead cityhood down",
-    "sentiment": "0.0"
+    "title": "The Jolt: See Sonny Perdues resume for his new $524,000 job as chancellor",
+    "sentiment": "0"
   }
 ]

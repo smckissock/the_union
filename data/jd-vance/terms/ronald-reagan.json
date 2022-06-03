@@ -1,62 +1,8 @@
 [
   {
-    "id": 3966,
-    "mediaId": 129,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "",
-    "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It.",
-    "sentiment": "0"
-  },
-  {
-    "id": 5652,
-    "mediaId": 147,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "",
-    "title": "Brooks and Tumulty on Roe v. Wade, culture wars and Trumps impact on the midterms",
-    "sentiment": "0"
-  },
-  {
-    "id": 3382,
-    "mediaId": 129,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "",
-    "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
-    "sentiment": "0"
-  },
-  {
-    "id": 5505,
-    "mediaId": 157,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "Alex Henderson",
-    "title": "Economist Paul Krugman explains why MAGAs paranoid mindset has overtaken the GOP",
-    "sentiment": "0"
-  },
-  {
-    "id": 5470,
-    "mediaId": 132,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "Jonathan Bernstein",
-    "title": "GOP voters aren't Trump zombies",
-    "sentiment": "0.431"
-  },
-  {
-    "id": 6571,
-    "mediaId": 151,
-    "date": "2022-00-20",
-    "sentence": "",
-    "author": "",
-    "title": "Trumps Alternate Reality Hits a New Crazy Note with Dr. Oz",
-    "sentiment": "0"
-  },
-  {
     "id": 6225,
     "mediaId": 195,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Will Marshall",
     "title": "Trump party blames America first",
@@ -65,7 +11,7 @@
   {
     "id": 6162,
     "mediaId": 129,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "The Awful Advent of Reactionary Chic",
@@ -74,10 +20,64 @@
   {
     "id": 6101,
     "mediaId": 237,
-    "date": "2022-00-28",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "David M. Drucker",
     "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
+    "sentiment": "0"
+  },
+  {
+    "id": 3966,
+    "mediaId": 129,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It.",
+    "sentiment": "0"
+  },
+  {
+    "id": 5652,
+    "mediaId": 147,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Brooks and Tumulty on Roe v. Wade, culture wars and Trumps impact on the midterms",
+    "sentiment": "0"
+  },
+  {
+    "id": 3382,
+    "mediaId": 129,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
+    "sentiment": "0"
+  },
+  {
+    "id": 5505,
+    "mediaId": 157,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Alex Henderson",
+    "title": "Economist Paul Krugman explains why MAGAs paranoid mindset has overtaken the GOP",
+    "sentiment": "0"
+  },
+  {
+    "id": 5470,
+    "mediaId": 132,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jonathan Bernstein",
+    "title": "GOP voters aren't Trump zombies",
+    "sentiment": "0.431"
+  },
+  {
+    "id": 6571,
+    "mediaId": 151,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Trumps Alternate Reality Hits a New Crazy Note with Dr. Oz",
     "sentiment": "0"
   }
 ]

@@ -5,14 +5,20 @@
   "headline": "Judge blocks voting map favored by Florida Gov. Ron DeSantis",
   "image": "",
   "link": "https://www.washingtonpost.com/nation/2022/05/11/florida-redistricting-desantis/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lori Rozsa",
   "authorUrl": "https://www.washingtonpost.com/people/lori-rozsa/",
   "termIds": [
-    661
+    661,
+    1587,
+    1839,
+    146,
+    478,
+    2661,
+    5107
   ],
   "sentences": [
     "We look forward to defending it.?\nMatthew Isbell, a Democratic redistricting expert in Florida, said he expects DeSantis and state officials will take their time in filing an appeal, hoping to run out the clock? and get so close to elections that judges will be leery of changing the maps.",

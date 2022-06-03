@@ -5,7 +5,7 @@
   "headline": "GOP governor stings top 2024 contenders as he hints at presidential run",
   "image": "https://mediadc.brightspotcdn.com/dims4/default/7790b64/2147483647/strip/true/crop/2290x1202+0+61/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fb8%2F2e%2F7d9bd24a4aa4b75f20a8fec70674%2Fap22121641430270.jpg",
   "link": "https://www.washingtonexaminer.com/politics/gop-governor-stings-top-2024-contenders-as-he-hints-at-presidential-run",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "",
   "termIds": [
     661,
-    3094
+    1147,
+    1231,
+    1434,
+    2329,
+    3094,
+    428,
+    524,
+    2661
   ],
   "sentences": [
     "Hutchinson pointed back to the Republican Partys conservative roots, saying he doesnt think the government should be punitive against private businesses because we disagree with them.?\n\"To me, that's the old Republican principle of having restrained government,? he said.",

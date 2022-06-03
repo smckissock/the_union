@@ -5,14 +5,17 @@
   "headline": "From the GNR Newsroom: Its the Monday Good News Roundup OVERSTUFFED EDITION",
   "image": "https://images.dailykos.com/images/1042973/story_image/640field.jpg?1646020720",
   "link": "https://www.dailykos.com/story/2022/5/9/2096856/-From-the-GNR-Newsroom-Its-the-Monday-Good-News-Roundup-OVERSTUFFED-EDITION",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    200,
+    3504,
+    5108
   ],
   "sentences": [
     "No reason the same tactic can't be applied in this case; sure, some asshole in the governor's mansion wants to put women in jail for miscarriages, but city council passing an ordinance that stops the PD from pursuing abortion-related matters unless *there is literally no other crime they could investigate instead*, or the county commissioners ordering the county jails not to hold anyone for those charges, or the chancellors of the state college system deciding campus police cannot interfere with anyone distributing pamphlets about how to get medical care safely, will put major sticks in the governor's wheels.",

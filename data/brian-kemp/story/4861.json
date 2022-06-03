@@ -5,14 +5,20 @@
   "headline": "Pharmacies in most states can't administer covid vaccines to babies and toddlers",
   "image": "https://newsletter-imgs.s3.amazonaws.com/prod/the-202s/secondary/health.svg",
   "link": "https://www.washingtonpost.com/politics/2022/05/02/pharmacies-most-states-cant-administer-covid-vaccines-babies-toddlers/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1147,
+    1460,
+    2087,
+    2095,
+    4734,
+    196,
+    2672
   ],
   "sentences": [
     "The enrollment of them has gone pretty well, and then from there, a lot of states have really started to look at how can they expand beyond just the VFC providers,? said Marcus Plescia, the chief medical officer of the Association of State and Territorial Health Officials.",

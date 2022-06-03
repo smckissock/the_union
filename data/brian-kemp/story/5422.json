@@ -5,14 +5,21 @@
   "headline": "Georgia fines Anthem/Blue Cross $5 million for consumer violations",
   "image": "https://www.ajc.com/resizer/4rWzhpNb96PwpbzRbEOosAyl4S4=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/LSHOUWCUUD3NFT3RVLZRMFBBYI.jpg",
   "link": "https://www.ajc.com/news/coronavirus/georgia-fines-anthemblue-cross-5-million-for-consumer-violations/ETD323PBO5C6JJO4DILDKICOQ4/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ariel Hart",
   "authorUrl": "https://www.ajc.com/staff/ariel-hart/",
   "termIds": [
-    2095
+    807,
+    2095,
+    4046,
+    3135,
+    3155,
+    3655,
+    2617,
+    2672
   ],
   "sentences": [
     "Asked by a reporter whether Georgians should be able to rely on Anthems original provider list as if it were a contract, Hawkins said that backing that up with law would have the state meddling in a companys contract language, and Thats something that is a free market we try to stay away from.?\nThe fine levied Tuesday cites problems with the Anthem/Blue Cross database that went on for years, with complaints starting to ratchet up in 2015.",

@@ -981,15 +981,6 @@
     "sentiment": null
   },
   {
-    "id": 3326,
-    "mediaId": 157,
-    "date": "5/13/2022 12:00:00 AM",
-    "sentence": "But the GOP's frontrunner for governor in Pennsylvania's crowded May 17 primary field, state Sen. <span class='selected-term'>Doug Mastriano</span>, is an entirely different Republican: a man of deep religious and political convictions who, if he wins the nomination and the general election, could be problematic for Americans who do not want elected officials to impose their personal beliefs on the wider public, whether the topic is abortion, vaccines, denying election results, or calling on God's help to seize political power.",
-    "author": "",
-    "title": "Another extreme wing of the Republican Party is emerging  and it's not all Trump",
-    "sentiment": null
-  },
-  {
     "id": 5549,
     "mediaId": 129,
     "date": "5/13/2022 12:00:00 AM",
@@ -1005,6 +996,15 @@
     "sentence": "On Friday, Axios reported that former President Donald Trump is considering giving an endorsement of <span class='selected-term'>Doug Mastriano</span> for governor of Pennsylvania.",
     "author": "Matthew Chapman",
     "title": "Democrats are 'salivating': Trump considers backing pro-QAnon Capitol riot witness for PA governor",
+    "sentiment": null
+  },
+  {
+    "id": 3326,
+    "mediaId": 157,
+    "date": "5/13/2022 12:00:00 AM",
+    "sentence": "But the GOP's frontrunner for governor in Pennsylvania's crowded May 17 primary field, state Sen. <span class='selected-term'>Doug Mastriano</span>, is an entirely different Republican: a man of deep religious and political convictions who, if he wins the nomination and the general election, could be problematic for Americans who do not want elected officials to impose their personal beliefs on the wider public, whether the topic is abortion, vaccines, denying election results, or calling on God's help to seize political power.",
+    "author": "",
+    "title": "Another extreme wing of the Republican Party is emerging  and it's not all Trump",
     "sentiment": null
   },
   {
@@ -1935,15 +1935,6 @@
     "sentiment": null
   },
   {
-    "id": 6706,
-    "mediaId": 188,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "In the state's gubernatorial contest, Democratic Attorney General Josh Shapiro will face Republican State Sen. <span class='selected-term'>Doug Mastriano</span>.",
-    "author": "Chris Pandolfo",
-    "title": "Pennsylvania GOP Senate race appears to be headed for a recount",
-    "sentiment": null
-  },
-  {
     "id": 6689,
     "mediaId": 178,
     "date": "5/18/2022 12:00:00 AM",
@@ -1959,6 +1950,15 @@
     "sentence": "___\nHARRISBURG, Pa.  <span class='selected-term'>Doug Mastriano</span> has won the Republican nomination for Pennsylvania governor, overcoming an eleventh-hour push by the state's GOP political establishment to consolidate support around an alternative in the crowded primary.",
     "author": "The Associated Press Associated Press",
     "title": "Midterm updates | Idaho Gov. Little defeats Trump-backed foe",
+    "sentiment": null
+  },
+  {
+    "id": 6706,
+    "mediaId": 188,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "In the state's gubernatorial contest, Democratic Attorney General Josh Shapiro will face Republican State Sen. <span class='selected-term'>Doug Mastriano</span>.",
+    "author": "Chris Pandolfo",
+    "title": "Pennsylvania GOP Senate race appears to be headed for a recount",
     "sentiment": null
   },
   {
@@ -2007,6 +2007,15 @@
     "sentiment": null
   },
   {
+    "id": 5476,
+    "mediaId": 238,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "Trump-endorsed state Sen. <span class='selected-term'>Doug Mastriano</span> also won the nomination for Pennsylvania governor, but he was already well on track to victory before Trump backed him in recent days.",
+    "author": "Aaron Blake",
+    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
+    "sentiment": null
+  },
+  {
     "id": 6705,
     "mediaId": 238,
     "date": "5/18/2022 12:00:00 AM",
@@ -2022,15 +2031,6 @@
     "sentence": "Second, the nominee he backed for governor, <span class='selected-term'>Doug Mastriano</span>, won the primary and if he wins the election in November, Mastriano would have considerable influence over how the state's presidential election results are handled in 2024 when Trump may be on the ballot as our colleague's Rosalind S. Helderman, Isaac Arnsdorf and Josh Dawsey explain.",
     "author": "Theodoric Meyer",
     "title": "Trump uses Pa. primary to continue effort to undermine electoral system",
-    "sentiment": null
-  },
-  {
-    "id": 5476,
-    "mediaId": 238,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "Trump-endorsed state Sen. <span class='selected-term'>Doug Mastriano</span> also won the nomination for Pennsylvania governor, but he was already well on track to victory before Trump backed him in recent days.",
-    "author": "Aaron Blake",
-    "title": "6 takeaways from primaries in Pennsylvania, North Carolina and more",
     "sentiment": null
   },
   {
@@ -2610,15 +2610,6 @@
     "sentiment": null
   },
   {
-    "id": 6608,
-    "mediaId": 234,
-    "date": "5/19/2022 12:00:00 AM",
-    "sentence": "It helped Pennsylvanias <span class='selected-term'>Doug Mastriano</span> claim a double-digit victory in his Republican gubernatorial race.",
-    "author": "Eric Lutz",
-    "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
-    "sentiment": null
-  },
-  {
     "id": 6603,
     "mediaId": 188,
     "date": "5/19/2022 12:00:00 AM",
@@ -2628,12 +2619,12 @@
     "sentiment": null
   },
   {
-    "id": 6599,
-    "mediaId": 157,
+    "id": 6608,
+    "mediaId": 234,
     "date": "5/19/2022 12:00:00 AM",
-    "sentence": "Former President Donald Trump privately trashed Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> before changing his mind last week and endorsing his gubernatorial campaign, throwing the state's Republican Party into turmoil.",
-    "author": "Travis Gettys",
-    "title": "Trump 'wearing out his welcome' with Pennsylvania GOP over his endorsements of 'difficult' candidates: report",
+    "sentence": "It helped Pennsylvanias <span class='selected-term'>Doug Mastriano</span> claim a double-digit victory in his Republican gubernatorial race.",
+    "author": "Eric Lutz",
+    "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
     "sentiment": null
   },
   {
@@ -2643,6 +2634,15 @@
     "sentence": "And in Pennsylvanias GOP race for governor, Trumps endorsed candidate, the far-right <span class='selected-term'>Doug Mastriano</span>, easily won the nomination  though he was already well ahead in the polls when Trump weighed in just days before the primary.",
     "author": "Associated Press",
     "title": "Biden invokes Defense Production Act for baby formula shortage",
+    "sentiment": null
+  },
+  {
+    "id": 6599,
+    "mediaId": 157,
+    "date": "5/19/2022 12:00:00 AM",
+    "sentence": "Former President Donald Trump privately trashed Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> before changing his mind last week and endorsing his gubernatorial campaign, throwing the state's Republican Party into turmoil.",
+    "author": "Travis Gettys",
+    "title": "Trump 'wearing out his welcome' with Pennsylvania GOP over his endorsements of 'difficult' candidates: report",
     "sentiment": null
   },
   {
@@ -3362,7 +3362,7 @@
     "date": "5/28/2022 12:00:00 AM",
     "sentence": "17(<span class='selected-term'>Doug Mastriano</span>)\n12711\n(Janice McGeachin)(Madison Cawthorn)2021\n\n(Andrew Whitehead)",
     "author": "",
-    "title": " ",
+    "title": "",
     "sentiment": null
   },
   {
@@ -3390,6 +3390,213 @@
     "sentence": "Most recently, this trend was on display in <span class='selected-term'>DOUG MASTRIANO</span>s victory in the Pennsylvania GOP gubernatorial primary (though he rejects the label).",
     "author": "",
     "title": "POLITICO Playbook: Trumps new obsession",
+    "sentiment": null
+  },
+  {
+    "id": 8642,
+    "mediaId": 129,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Another prominent election denier is <span class='selected-term'>Doug Mastriano</span>, a state senator who used doubts about the 2020 election to propel his political rise.",
+    "author": "",
+    "title": "They Insisted the 2020 Election Was Tainted. Their 2022 Primary Wins? Not So Much.",
+    "sentiment": null
+  },
+  {
+    "id": 8706,
+    "mediaId": 157,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "State Sen. <span class='selected-term'>Doug Mastriano</span> took part in the Jan. 6, 2021, \"Stop the Steal\" rally and went to the U.S. Capitol afterward, and his ideology can be summed up as Christian nationalism -- so it's not surprising that he has spoken at events hosted by the apocalyptic \"Rod of Iron Ministries\" founded by the Rev.",
+    "author": "Travis Gettys",
+    "title": "Gun-worshiping MAGA 'cult' moves closer into GOP mainstream with Pennsylvania primary win: historian",
+    "sentiment": null
+  },
+  {
+    "id": 8618,
+    "mediaId": 178,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "That was probably the case in Pennsylvania, where some Democrats openly encouraged their base to vote for the Republican candidate for governor, <span class='selected-term'>Doug Mastriano</span>, whose extreme views they felt made him more beatable in November.",
+    "author": "STEVE PEOPLES and AARON KESSLER Associated Press",
+    "title": "Some Democrats voting in GOP primaries to block Trump picks",
+    "sentiment": null
+  },
+  {
+    "id": 8617,
+    "mediaId": 1576,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "That was probably the case in Pennsylvania, where some Democrats openly encouraged their base to vote for the Republican candidate for governor, <span class='selected-term'>Doug Mastriano</span>, whose extreme views they felt made him more beatable in November.",
+    "author": "",
+    "title": "Thousands of Democrats voted in GOP primaries to block Trump picks in Georgia",
+    "sentiment": null
+  },
+  {
+    "id": 8614,
+    "mediaId": 132,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "That was probably the case in Pennsylvania, where some Democrats openly encouraged their base to vote for the Republican candidate for governor, <span class='selected-term'>Doug Mastriano</span>, whose extreme views they felt made him more beatable in November.",
+    "author": "",
+    "title": "Some Democrats voting in GOP contests to block Trump picks",
+    "sentiment": null
+  },
+  {
+    "id": 8613,
+    "mediaId": 943,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "That was probably the case in Pennsylvania, where some Democrats openly encouraged their base to vote for the Republican candidate for governor, <span class='selected-term'>Doug Mastriano</span>, whose extreme views they felt made him more beatable in November.",
+    "author": "Associated Press",
+    "title": "Some Democrats voting in GOP primaries to block Trump picks",
+    "sentiment": null
+  },
+  {
+    "id": 8696,
+    "mediaId": 129,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "In Pennsylvania, <span class='selected-term'>Doug Mastriano</span>, a leading voice against certifying the 2020 election, won the primary for governor in a landslide last week  even as the partys old guard warned that he was too extreme to win in November.",
+    "author": "",
+    "title": "Lawyer who plotted to overturn Trumps 2020 loss recruits election deniers to watch over the vote.",
+    "sentiment": null
+  },
+  {
+    "id": 8609,
+    "mediaId": 1460,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "That was probably the case in Pennsylvania, where some Democrats openly encouraged their base to vote for the Republican candidate for governor, <span class='selected-term'>Doug Mastriano</span>, whose extreme views they felt made him more beatable in November.",
+    "author": "Associated Press",
+    "title": "Some Democrats voting in GOP primaries to block Trump picks",
+    "sentiment": null
+  },
+  {
+    "id": 8608,
+    "mediaId": 193,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "That was probably the case in Pennsylvania, where some Democrats openly encouraged their base to vote for the Republican candidate for governor, <span class='selected-term'>Doug Mastriano</span>, whose extreme views they felt made him more beatable in November.",
+    "author": "Aaron Kessler",
+    "title": "Some Democrats voting in GOP primaries to block Trump picks",
+    "sentiment": null
+  },
+  {
+    "id": 8692,
+    "mediaId": 675,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Titled \"Christian nationalism on the rise in some GOP campaigns,\" the article Sunday featured the remarks of <span class='selected-term'>Doug Mastriano</span> during a victory celebration after he won the Republican primary in Pennsylvanias gubernatorial race last week.",
+    "author": "Art Moore",
+    "title": "News-media giant warns of rise of 'white Christian nationalism'",
+    "sentiment": null
+  },
+  {
+    "id": 8607,
+    "mediaId": 21,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "That was probably the case in Pennsylvania, where some Democrats openly encouraged their base to vote for the Republican candidate for governor, <span class='selected-term'>Doug Mastriano</span>, whose extreme views they felt made him more beatable in November.",
+    "author": "Steve Peoples and Aaron Kessler",
+    "title": "Some Democrat voters are participating in Republican primaries in an attempt to block Trump-endorsed candidates",
+    "sentiment": null
+  },
+  {
+    "id": 8688,
+    "mediaId": 234,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "But it is only one such threat: From anti-voting legislation enacted on the basis of Trumps lies to a gubernatorial candidate in Pennsylvanias <span class='selected-term'>Doug Mastriano</span> who has indicated he would not respect election results, Republicans are building on the former presidents 2020 efforts to overturn his loss.",
+    "author": "Eric Lutz",
+    "title": "Steve Bannon's Election-Takeover Dream Is Starting to Take Shape",
+    "sentiment": null
+  },
+  {
+    "id": 8689,
+    "mediaId": 234,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "In Pennsylvania, gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>one of the ex-presidents biggest election-denial supporterssaw his victory as completely legit.",
+    "author": "Bess Levin",
+    "title": "The GOPs New Election Rule: Voter Fraud Is Only Real When We Lose to Democrats",
+    "sentiment": null
+  },
+  {
+    "id": 8687,
+    "mediaId": 234,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Elsewhere in conservative bullshit re: guns, on Wednesday, <span class='selected-term'>Doug Mastriano</span>, the Pennsylvania GOP nominee for governor, shared and doubled down on a 2018 video of him likening gun control to the policies of Adolf Hitler.",
+    "author": "Bess Levin",
+    "title": "Republican Congressman Blames Mass Shootings on Women Having Rights",
+    "sentiment": null
+  },
+  {
+    "id": 8686,
+    "mediaId": 157,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Pennsylvania gubernatorial candidate <span class='selected-term'>Doug Mastriano</span> has turned over evidence to the House Select Committee, including documents showing his arrangements for buses carrying to Donald Trump supporters to Washington, D.C., on Jan. 6, 2021.",
+    "author": "Travis Gettys",
+    "title": "Far-right GOP candidate Doug Mastriano turns over documents and receipts to Jan. 6 committee",
+    "sentiment": null
+  },
+  {
+    "id": 8683,
+    "mediaId": 65,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "In response to that move, two Republicans  GOP gubernatorial nominee <span class='selected-term'>Doug Mastriano</span> and state Sen. Scott Hutchinson  introduced a bill to slash energy production regulations and withdraw Pennsylvania from the Regional Greenhouse Gas Initiative (RGGI).",
+    "author": "",
+    "title": "Newt Gingrich blasts Pennsylvania Democrats' entry in 'green' energy initiative",
+    "sentiment": null
+  },
+  {
+    "id": 8682,
+    "mediaId": 151,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Receipts provided to the Jan. 6 panel confirm that Mastrianos campaign committee, Friends of <span class='selected-term'>Doug Mastriano</span>, paid $3,354 to a charter bus company in late December 2020, as the progressive news site The American Independent has noted.",
+    "author": "",
+    "title": "Pa. GOP gubernatorial nominee shares documents with Jan. 6 panel, agrees to interview",
+    "sentiment": null
+  },
+  {
+    "id": 8681,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Rebecca Beitsch",
+    "title": "Mastriano agrees to interview with Jan. 6 panel",
+    "sentiment": null
+  },
+  {
+    "id": 8626,
+    "mediaId": 238,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "That candidate is <span class='selected-term'>Doug Mastriano</span>, a right-wing Trump supporter who was present at the Capitol on Jan. 6, 2021, when violence first erupted.",
+    "author": "Philip Bump",
+    "title": "What's the far right trying to build power for?",
+    "sentiment": null
+  },
+  {
+    "id": 8679,
+    "mediaId": 147,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "HARRISBURG, Pa. (AP)  Pennsylvanias Republican nominee for governor, <span class='selected-term'>Doug Mastriano</span>, has offered to sit for an interview with the congressional committee investigating the Jan. 6 attack on the U.S. Capitol and was interviewed by FBI agents last year about it, his lawyer said Thursday.",
+    "author": "Farnoush Amiri",
+    "title": "Republican nominee for PA governor Doug Mastriano willing to talk to Jan. 6 committee",
+    "sentiment": null
+  },
+  {
+    "id": 8677,
+    "mediaId": 65,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Tom Wolf's entry into the RGGI cap-and-trade pact and blunt federal restrictions -- with GOP gubernatorial nominee <span class='selected-term'>Doug Mastriano</span> and State Sen. Scott Hutchinson, R-Oil City, drafting a bill to fend off such repercussions.",
+    "author": "",
+    "title": "Biden economic adviser heralds 'strong' recovery, blames Putin for much of energy-sector inflation",
+    "sentiment": null
+  },
+  {
+    "id": 8676,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Mastriano agrees to interview with Jan. 6 panel\n<span class='selected-term'>Doug Mastriano</span>, Pennsylvanias Republican gubernatorial nominee, will testify before the committee investigating the Jan. 6, 2021, attack on the Capitol about his role aiding the Trump campaign in challenging the results of the 2020 presidential election.",
+    "author": "Jordan Williams",
+    "title": "Defense & National Security  Biden, Harris huddle with NATO head",
+    "sentiment": null
+  },
+  {
+    "id": 8674,
+    "mediaId": 195,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "The Hill: Pennsylvania state Sen. <span class='selected-term'>Doug Mastriano</span> (R) agrees to an interview with the Jan. 6 House investigative panel.",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Biden challenges GOP to act on guns",
     "sentiment": null
   }
 ]

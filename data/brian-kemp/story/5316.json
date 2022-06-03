@@ -5,14 +5,20 @@
   "headline": "Stacey Abrams now a millionaire as she aims to take governor's office",
   "image": "https://s.yimg.com/ny/api/res/1.2/WnM0DUFjWdLTwaH0kyZVmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM5NztjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/3dO5tY8aRsqjt1pbn834IQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fox_news_text_979/69df7d74bf200ba3f93093f09e437e67",
   "link": "https://news.yahoo.com/stacey-abrams-now-millionaire-she-165440746.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1147,
+    2095,
+    4167,
+    43,
+    265,
+    2555,
+    2672
   ],
   "sentences": [
     "And because I had three years where I was in the private sector, I leveraged all three years, and in that time, Ive done my best to not only be successful personally, but to do what I can to help Georgians.\"",

@@ -5,14 +5,18 @@
   "headline": "Florida prepares to resume manatee rescue efforts this winter",
   "image": "https://www.tampabay.com/resizer//F9jFBqdZMLI1BmE2TJJgvaBFEKY=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/CXGBYDWHARAEDFCYKV42KH3T6Q.jpg",
   "link": "https://www.tampabay.com/news/environment/2022/05/04/florida-prepares-for-winter-manatee-rescue-efforts/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3283,
+    3290,
+    3614,
+    2671
   ],
   "sentences": [
     "After providing more than 200,000 pounds of lettuce to starving manatees because of depleted seagrass beds in state waters, Florida Fish and Wildlife Conservation Commission Executive Director Eric Sutton said Tuesday efforts are already underway to prepare for next winter.",

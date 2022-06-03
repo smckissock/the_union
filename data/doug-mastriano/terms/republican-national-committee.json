@@ -2,10 +2,19 @@
   {
     "id": 6872,
     "mediaId": 157,
-    "date": "2022-00-11",
+    "date": "5/11/2022 12:00:00 AM",
     "sentence": "Last week when the presumptive [Democratic] nominee, Josh Shapiro, and the State Democratic Party used campaign resources to assist the candidacy of <span class='selected-term'>Doug Mastriano</span> in the Republican primary, it raised concerns among the campaigns.",
     "author": "Meaghan Ellis",
     "title": "Pennsylvania GOP scrambling behind closed doors to ensure Trump-backed candidate loses",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8688,
+    "mediaId": 234,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "But it is only one such threat: From anti-voting legislation enacted on the basis of Trumps lies to a gubernatorial candidate in Pennsylvanias <span class='selected-term'>Doug Mastriano</span> who has indicated he would not respect election results, Republicans are building on the former presidents 2020 efforts to overturn his loss.",
+    "author": "Eric Lutz",
+    "title": "Steve Bannon's Election-Takeover Dream Is Starting to Take Shape",
+    "sentiment": "0"
   }
 ]

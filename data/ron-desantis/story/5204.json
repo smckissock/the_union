@@ -5,7 +5,7 @@
   "headline": "Texas conservatives have gone rogue, paying Big Lie lackeys to investigate citizens for voter fraud",
   "image": "https://images.dailykos.com/images/1058399/story_image/GettyImages-1230398370.jpg?1649780677",
   "link": "https://www.dailykos.com/story/2022/4/12/2091551/-Texas-conservatives-have-gone-rogue-paying-Big-Lie-lackeys-to-investigate-citizens-for-voter-fraud",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "/users/rebekah sager",
   "termIds": [
     661,
-    2095
+    2095,
+    4829,
+    122,
+    2692,
+    2703,
+    2738,
+    2767,
+    2934
   ],
   "sentences": [
     "Gilda Daniels, litigation director for the Advancement Project and author of Uncounted: The Crisis of Voter Suppression in America tells The Appeal, Whether its an armed police officer patrolling a polling place or just having a police car with lights blaring in front of a polling place, all can serve as a form of voter intimidation and certainly can have a chilling effect, particularly in Black and brown communities.?\nAnthony Gutierrez, executive director of Common Cause Texas, tells the Bolts the possibilities are kind of endless for how that could go really badly? when someone is hired to investigate based on beliefs of a stolen election.",

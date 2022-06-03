@@ -2,10 +2,46 @@
   {
     "id": 917,
     "mediaId": 157,
-    "date": "2022-00-07",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "There are 12 Republicans running for the GOP nomination in the August primary, including chiropractor Garrett Soldano, right-wing commentator Tudor Dixon, former Detroit Police Chief James Craig, businessman <span class='selected-term'>Perry Johnson</span> and businessman Kevin Rinke.",
     "author": "Allison R. Donahue",
     "title": "Whitmer files suit to enshrine abortion rights, asks Michigan Supreme Court to take the case",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8662,
+    "mediaId": 195,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The browser does not support the specified video codec\n<span class='selected-term'>Perry Johnson</span>, a Republican candidate for governor in Michigan, lost a bid on Wednesday to get placed on the primary ballot after a court ruled he used fraudulent signatures on a petition to qualify for the race.",
+    "author": "Brad Dress",
+    "title": "Republican candidate in Michigan governor race loses bid to get placed on primary ballot",
+    "sentiment": "0"
+  },
+  {
+    "id": 8663,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The Michigan Court of Appeals has unanimously rejected a legal challenge from <span class='selected-term'>Perry Johnson</span>, a former leading GOP candidate for Michigan governor, who was one of five Republicans disqualified from the ballot because of invalid signatures on their nominating petitions.",
+    "author": "Amy B Wang",
+    "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
+    "sentiment": "0"
+  },
+  {
+    "id": 8670,
+    "mediaId": 157,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The Michigan Court of Appeals unanimously denied a request from businessman <span class='selected-term'>Perry Johnson</span> to provide him a path back onto the ballot.",
+    "author": "Jon King",
+    "title": "Michigan 'quality guru' Perry Johnson remains off August primary ballot after unanimous court ruling",
+    "sentiment": "0"
+  },
+  {
+    "id": 8660,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "The Court of Claims decision mirrors Wednesday rulings from the Michigan Court of Appeals, which denied similar appeals from GOP gubernatorial hopefuls Oakland County businessman <span class='selected-term'>Perry Johnson</span> and Grand Haven financial adviser Michael Markey.",
+    "author": "Arpan Lobo",
+    "title": "James Craig loses bid to appear on primary ballot after Michigan court denies appeal",
+    "sentiment": "-0.592"
   }
 ]

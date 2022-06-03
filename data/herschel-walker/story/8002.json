@@ -5,14 +5,20 @@
   "headline": "Republicans worry about pro-Trump Senate candidate's history of domestic violence",
   "image": "https://www.rawstory.com/media-library/trump-backed-candidate-herschel-walker-may-not-be-the-financial-success-he-claims-report.jpg?id=29524210&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/herschel-walker-2656976108/",
-  "sentiment": "0.0",
+  "sentiment": "-0.929",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Chapman",
   "authorUrl": "https://www.rawstory.com/u/matthew_chapman",
   "termIds": [
-    815
+    815,
+    1136,
+    1147,
+    1312,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "On Thursday, POLITICO Playbook reported that Herschel Walker, the former football star running for Senate in Georgia with the endorsement of former President Donald Trump, is now facing attacks from his primary challenger, state Agriculture Commissioner Gary Black, over his history of domestic violence  and it has some GOP strategists privately scared about his viability in the general election.",

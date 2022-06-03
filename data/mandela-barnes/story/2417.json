@@ -5,14 +5,24 @@
   "headline": "Opinion: These maps show where Democrats are losing ground in the fight for Senate control",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/01/12/senate-democratic-control-senate-maps-analysis/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2039
+    815,
+    886,
+    1136,
+    1253,
+    1469,
+    1486,
+    2039,
+    2087,
+    146,
+    571,
+    2953
   ],
   "sentences": [
     "In late 2021, only 32 percent of registered Pennsylvania voters said Biden was doing an excellent? or good? job  a 12-point slide since June  and 47 percent said he's doing a poor job.? Any of these Republicans could make this race close  or win it  by tying Fetterman or Lamb to Biden.",

@@ -5,7 +5,7 @@
   "headline": "Overnight News Digest: Russia attempts to grind Ukraine down; Sec. Clinton warns of fascism in US",
   "image": "https://images.dailykos.com/images/724510/story_image/ond-trainwreck1.jpg?1570215182",
   "link": "https://www.dailykos.com/story/2022/4/27/2094466/-Overnight-News-Digest-Russia-attempts-to-grind-Ukraine-down-Sec-Clinton-warns-of-fascism-in-US",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "",
   "termIds": [
     661,
-    3102
+    3102,
+    5256,
+    5310,
+    5404,
+    5405,
+    5240,
+    2870,
+    2888,
+    2942
   ],
   "sentences": [
     "The Daily Beast\nPutins Stooges: He May Nuke Us All but We Are Ready to Die\nRussian President Vladimir Putin ominously warned on Wednesday that if any other country intervenes in Ukraine, Russia will respond with instruments nobody else can boast of, and we will use them if we have to.?\nIn recent days, Russian state media has been hyping up the same rhetoric, bombarding audiences with jarring declarations that World War III is imminent.",

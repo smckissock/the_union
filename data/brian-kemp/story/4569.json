@@ -5,14 +5,18 @@
   "headline": "New Georgia law requires recess, but has several exceptions",
   "image": "https://www.wabe.org/app/uploads/2022/05/AP22131794637489-336x189.jpg",
   "link": "https://www.wabe.org/new-georgia-law-requires-recess-but-has-several-exceptions/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    4180,
+    501,
+    2672,
+    5068
   ],
   "sentences": [
     "It is time for our students to get moving and learn how to play with each other again,? state Rep. Demetrius Douglas, the Stockbridge Democrat and former Georgia football player who sponsored the bill, told WSB-TV.",

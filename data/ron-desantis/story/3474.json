@@ -5,14 +5,19 @@
   "headline": "DeSantis: Biden Will Plunge U.S. Into Recession as Gas Prices Soar",
   "image": "https://media.townhall.com/townhall/reu/ha/2022/131/0941311b-69c0-4151-986b-109fbce78851.jpg",
   "link": "https://townhall.com/tipsheet/saraharnold/2022/05/18/gas-prices-cross-4-in-every-state-for-first-time-n2607469",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah Arnold",
   "authorUrl": "https://townhall.com/tipsheet/saraharnold/",
   "termIds": [
-    661
+    661,
+    2030,
+    2087,
+    3120,
+    2661,
+    2945
   ],
   "sentences": [
     "So its going up and you know, theyre not doing energy in the United States now, they say they want to get money oil from [President Nicolas] Maduro in Venezuela, which all thats gonna do is just line his pockets and actually, itll help Russia.?\nHe called the move absurd? despite Bidens hypocritical warnings of Russia and its president Vladimir Putin.",

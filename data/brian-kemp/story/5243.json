@@ -5,7 +5,7 @@
   "headline": "10 things you need to know today: April 9, 2022",
   "image": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-desktop@1/v1649508663/GettyImages-1239012828.jpg",
   "link": "https://theweek.com/us/1012362/10-things-you-need-to-know-today-april-9-2022",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Week",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "https://theweek.com/authors/grayson-quay",
   "termIds": [
     661,
-    2095
+    1039,
+    1053,
+    2095,
+    2310,
+    2465,
+    2515,
+    4606,
+    2661,
+    2857,
+    2888,
+    2942
   ],
   "sentences": [
     "Donald Trump Jr. proposed ways to overturn the 2020 election, Russian missile strike on train station kills at least 52 civilians, and more\nDonald Trump Jr. was proposing ways to overturn the 2020 election early on, per text\nTexts obtained by CNN reveal that Donald Trump Jr. texted former White House Chief of Staff Mark Meadows two days after the 2020 presidential election, before results were finalized, and laid out strategies for keeping his father in power.",

@@ -5,14 +5,21 @@
   "headline": "On race, Herschel Walkers offer of absolution divides Georgia voters.",
   "image": "",
   "link": "https://www.nytimes.com/live/2022/05/20/us/primary-elections-midterm-georgia",
-  "sentiment": "0.0",
+  "sentiment": "0.634",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1136,
+    1147,
+    6002,
+    6021,
+    571,
+    2672,
+    2770
   ],
   "sentences": [
     "Senator Bernie Sanders, the progressive former presidential candidate who rose to prominence in part by denouncing the influence of wealthy interests in politics, has a new target in his sights: the American Israel Public Affairs Committee and its affiliated super PAC, which is spending heavily in Democratic primaries for the first time this year.",

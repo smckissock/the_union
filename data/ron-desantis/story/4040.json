@@ -5,14 +5,22 @@
   "headline": "Abortion fight puts spotlight on governors",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/scotus_abortion_050322gn7_lead.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3477220-abortion-fight-puts-spotlight-on-governors/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Reid Wilson",
   "authorUrl": "https://thehill.com/author/reid-wilson/",
   "termIds": [
-    661
+    661,
+    864,
+    1864,
+    2069,
+    4140,
+    145,
+    482,
+    571,
+    2972
   ],
   "sentences": [
     "But it has increased pressure to an even greater degree on Democrats and Republicans vying to win governors mansions and state legislative chambers across the country, where the outcomes of this Novembers midterm elections will determine just how far abortion rights advocates and opponents can advance their positions in the coming years.",

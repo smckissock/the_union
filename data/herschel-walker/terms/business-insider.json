@@ -2,7 +2,7 @@
   {
     "id": 7543,
     "mediaId": 169,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "Meaghan Ellis",
     "title": "Herschel Walker left out millions in his financial report",
@@ -11,10 +11,19 @@
   {
     "id": 7511,
     "mediaId": 21,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "Following a campaign event on Wednesday, Georgia GOP candidate for Senate <span class='selected-term'>Herschel Walker</span> said he supports a total abortion ban with no exception for rape, incest, or the health of the mother.",
     "author": "Katherine Tangalakis-Lippert",
     "title": "Trump-endorsed Senate candidate Herschel Walker supports a total abortion ban: 'there's no exception in my mind'",
     "sentiment": "0.455"
+  },
+  {
+    "id": 8928,
+    "mediaId": 21,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Megan Varner/Getty Images\n<span class='selected-term'>Herschel Walker</span> said he's \"mad\" at former President Trump for comments about his Georgia Senate run.",
+    "author": "John L. Dorman",
+    "title": "Herschel Walker says he's 'mad' that Trump is 'taking credit' for his decision to run in the Georgia Senate race",
+    "sentiment": "-0.371"
   }
 ]

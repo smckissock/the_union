@@ -5,7 +5,7 @@
   "headline": "The Disney Executive Who Donated $10 Million to Help Trump in 2020",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/04/mickey-mouse-disney-world-2003.jpg?w=1200",
   "link": "https://www.nationalreview.com/corner/the-disney-executive-who-donated-10-million-to-help-trump-in-2020/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://www.nationalreview.com/author/jim-geraghty/",
   "termIds": [
     661,
-    815
+    815,
+    1147,
+    4478,
+    337,
+    405,
+    524,
+    3115,
+    2661
   ],
   "sentences": [
     "They have both donated the legal maximum to Georigia GOP senatorial candidate Herschel Walker, Florida congressional candidate Brady Duke and Florida Rep. Brian Mast, as well as large donations to the National Republican Congressional Committee and Valor PAC, a leadership PAC associated with Mast.",

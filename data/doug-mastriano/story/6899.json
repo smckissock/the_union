@@ -5,14 +5,22 @@
   "headline": "Pennsylvania Republicans to Trump: Notice me",
   "image": "https://www.politico.com/dims4/default/1b95118/2147483647/legacy_thumbnail/1200x799%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F1c%2F31%2Feaa6f59c489981ff4bcf1f8a05b2%2F220506-donald-trump-ap.jpg",
   "link": "https://www.politico.com/news/2022/05/06/pennsylvania-republican-rally-trump-00030802",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1147,
+    1282,
+    1653,
+    3019,
+    3102,
+    428,
+    571,
+    2682,
+    2862
   ],
   "sentences": [
     "Prior to showing up at the rally, those aspiring to be Pennsylvanias next governor have traveled to Mar-a-Lago, hired Trumpworld consultants, and claimed the mantle of America First.?\nAt the end of the day, a Trump endorsement could get you a few points and that might be all you need [in a crowded primary].",

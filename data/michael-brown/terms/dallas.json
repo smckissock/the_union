@@ -2,10 +2,19 @@
   {
     "id": 1020,
     "mediaId": 238,
-    "date": "2022-00-14",
+    "date": "1/14/2022 12:00:00 AM",
     "sentence": "She switched to grass-roots organizing after the police killing of <span class='selected-term'>Michael Brown</span> in Ferguson, Mo.",
     "author": "",
     "title": "Still looking for a Black mecca,' the new Great Migration",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8672,
+    "mediaId": 675,
+    "date": "5/30/2022 12:00:00 AM",
+    "sentence": "Politics\nWorld\nU.S.\nHealth\nEducation\nFaith\nDiversions\nMORE COMMENTARY\nBarbara Simpson\nDaniel Joseph\n<span class='selected-term'>Michael Brown</span>\nRead all of today's COMMENTARY...\nNew Section",
+    "author": "WND News Services",
+    "title": "About those claims there's a wave of 'white supremacist' murders",
+    "sentiment": "0"
   }
 ]

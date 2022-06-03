@@ -1,44 +1,8 @@
 [
   {
-    "id": 2375,
-    "mediaId": 21,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Kayla Epstein",
-    "title": "These 9 Senate races hold the key to who will control Joe Biden's agenda after the midterm elections in November",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2371,
-    "mediaId": 195,
-    "date": "2022-00-09",
-    "sentence": "State Treasurer <span class='selected-term'>Sarah Godlewski</span> received three percent support, according to the poll.",
-    "author": "Julia Manchester",
-    "title": "Johnson touts work with Milwaukee faith initiative in new ads",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 339,
-    "mediaId": 151,
-    "date": "2022-00-14",
-    "sentence": "Two lawsuits were filed on Friday that asked separate courts to take over the redistricting process and draw new maps for the state's 28 congressional districts.?\n Ohio Supreme Court rules that Ohio Redistricting Commission must respond to revised League of Women Voters of Ohio complaint by Tuesday,? by Kaylee Remington, Cleveland Plain Dealer: The Ohio Supreme Court has set a 4 p.m. Tuesday deadline for the Ohio Redistricting Commission to respond to new arguments from the League of Women Voters of Ohio and others that its latest congressional redistricting maps unconstitutionally favor the Republican Party.?\nAS SEEN ON TV\n Wisconsin Democrat <span class='selected-term'>Sarah Godlewski</span> released the first ad of her Senate campaign.",
-    "author": "STEPHANIE MURRAY",
-    "title": "Biden hits the fundraising circuit",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2368,
-    "mediaId": 367,
-    "date": "2022-00-14",
-    "sentence": "Democrat <span class='selected-term'>Sarah Godlewski</span> is going up Monday with her first broadcast and cable TV ad buy in her bid to claim the party's U.S. Senate nomination.",
-    "author": "Bill Glauber",
-    "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson",
-    "sentiment": "0.234"
-  },
-  {
     "id": 2387,
     "mediaId": 367,
-    "date": "2022-00-21",
+    "date": "2/21/2022 12:00:00 AM",
     "sentence": "State Treasurer <span class='selected-term'>Sarah Godlewski</span> said cash bail should remain in place for violent crimes or dangerous, repeat offenders.",
     "author": "Daniel Bice",
     "title": "Bice: U.S. Senate candidate Mandela Barnes favors eliminating cash bail nationally, aide says",
@@ -47,7 +11,7 @@
   {
     "id": 2386,
     "mediaId": 367,
-    "date": "2022-00-23",
+    "date": "2/23/2022 12:00:00 AM",
     "sentence": "Mandela Barnes, state Treasurer <span class='selected-term'>Sarah Godlewski</span>, Outagamie County Executive Tom Nelson and Alex Lasry, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
     "title": "Gillian Battino expected to leave Democratic U.S. Senate race and announce run for state treasurer",
@@ -56,10 +20,46 @@
   {
     "id": 2385,
     "mediaId": 367,
-    "date": "2022-00-24",
+    "date": "2/24/2022 12:00:00 AM",
     "sentence": "Nelson is trying to provide a contrast in the race against top contenders Barnes, state Treasurer <span class='selected-term'>Sarah Godlewski</span> and Alex Lasry, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
     "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 2375,
+    "mediaId": 21,
+    "date": "3/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Kayla Epstein",
+    "title": "These 9 Senate races hold the key to who will control Joe Biden's agenda after the midterm elections in November",
+    "sentiment": "0"
+  },
+  {
+    "id": 2371,
+    "mediaId": 195,
+    "date": "3/9/2022 12:00:00 AM",
+    "sentence": "State Treasurer <span class='selected-term'>Sarah Godlewski</span> received three percent support, according to the poll.",
+    "author": "Julia Manchester",
+    "title": "Johnson touts work with Milwaukee faith initiative in new ads",
+    "sentiment": "0"
+  },
+  {
+    "id": 339,
+    "mediaId": 151,
+    "date": "3/14/2022 12:00:00 AM",
+    "sentence": "Two lawsuits were filed on Friday that asked separate courts to take over the redistricting process and draw new maps for the state's 28 congressional districts.?\n Ohio Supreme Court rules that Ohio Redistricting Commission must respond to revised League of Women Voters of Ohio complaint by Tuesday,? by Kaylee Remington, Cleveland Plain Dealer: The Ohio Supreme Court has set a 4 p.m. Tuesday deadline for the Ohio Redistricting Commission to respond to new arguments from the League of Women Voters of Ohio and others that its latest congressional redistricting maps unconstitutionally favor the Republican Party.?\nAS SEEN ON TV\n Wisconsin Democrat <span class='selected-term'>Sarah Godlewski</span> released the first ad of her Senate campaign.",
+    "author": "STEPHANIE MURRAY",
+    "title": "Biden hits the fundraising circuit",
+    "sentiment": "0"
+  },
+  {
+    "id": 2368,
+    "mediaId": 367,
+    "date": "3/14/2022 12:00:00 AM",
+    "sentence": "Democrat <span class='selected-term'>Sarah Godlewski</span> is going up Monday with her first broadcast and cable TV ad buy in her bid to claim the party's U.S. Senate nomination.",
+    "author": "Bill Glauber",
+    "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson",
+    "sentiment": "0.234"
   }
 ]

@@ -5,15 +5,23 @@
   "headline": "Primary voters head to polls in Pennsylvania, North Carolina and 3 other states: Heres what to watch",
   "image": "https://www.chicagotribune.com/resizer/kA_IxHGciC8klYOWl75IVPhnzvY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/5ANG65MKAVSMS6BC6VOSADIAU4.jpg",
   "link": "https://www.chicagotribune.com/nation-world/ct-aud-nw-pennsylvania-north-carolina-primary-20220517-yqeb6k55nbfcjcpv3ngzxwglsa-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Chicago Tribune",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "WILL WEISSERT",
   "authorUrl": "",
   "termIds": [
+    729,
+    1147,
+    1404,
+    1770,
+    1990,
     2303,
-    3102
+    3102,
+    428,
+    2834,
+    2862
   ],
   "sentences": [
     "Hes made Trumps lies about widespread electoral fraud costing him the presidency a centerpiece of his campaign  and has even been subpoenaed by the House committee investigating the Capitol riot following his efforts to name a slate of alternate Electoral College electors in Trumps favor.",

@@ -5,14 +5,16 @@
   "headline": "Gwinnett County school employees to receive bonuses",
   "image": "https://www.ajc.com/resizer/-xKWiVdYyREnt-QL2feQ4rCNWj4=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/W2RIKEPNBCWJTB3IWCYPBHRURA.jpg",
   "link": "https://www.ajc.com/education/gwinnett-county-school-employees-to-receive-bonuses/DDKT2XWHBNEEHADZE7J4QJ4M34/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Josh Reyes",
   "authorUrl": "https://www.ajc.com/staff/josh-reyes/",
   "termIds": [
-    2095
+    2095,
+    2686,
+    5002
   ],
   "sentences": [
     "Our district appreciates this gesture from the state and felt it appropriate to extend this thank you to all of our employees for their hard work and dedication to each and every one of our students,? Watts said in a news release.",

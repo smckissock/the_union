@@ -5,7 +5,7 @@
   "headline": "Trump Reportedly Backing J.D. Vance In Ohio Senate RaceLatest Test Of Dubious Endorsement Power",
   "image": "https://imageio.forbes.com/specials-images/imageserve/6258703bb32fe50edc015a7d/Senate-2022-Ohio-Vance/0x0.jpg?fit=crop&format=jpg&crop=3896,2191,x0,y102,safe",
   "link": "https://www.forbes.com/sites/nicholasreimann/2022/04/14/trump-reportedly-backing-jd-vance-in-ohio-senate-race-latest-test-of-dubious-endorsement-power/",
-  "sentiment": "0.0",
+  "sentiment": "-0.679",
   "mediaOutlet": "Forbes",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,15 @@
   "authorUrl": "https://www.forbes.com/sites/nicholasreimann/",
   "termIds": [
     815,
+    1054,
+    1147,
+    1801,
     2095,
-    3103
+    3103,
+    380,
+    571,
+    2672,
+    2845
   ],
   "sentences": [
     "The book, which some thought explained Appalachia's shift from a Democratic to a Republican stronghold, has since been examined as an explainer for Trump's overwhelming support among working class white voters who believe social welfare programs undermine personal responsibility.",

@@ -1,35 +1,8 @@
 [
   {
-    "id": 5965,
-    "mediaId": 157,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "David Edwards",
-    "title": "Watch: Reporter clashes with J.D. Vance for 'propagating and promoting white resentment'",
-    "sentiment": "0"
-  },
-  {
-    "id": 5826,
-    "mediaId": 124,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Democrats nominate Tim Ryan in Ohios key Senate race, NBC News projects",
-    "sentiment": "0"
-  },
-  {
-    "id": 5835,
-    "mediaId": 157,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Sarah K. Burris",
-    "title": "'This is the Republican Party': NBC reporter says Ohio results show GOP's shift toward MAGA extremism",
-    "sentiment": "0.642"
-  },
-  {
     "id": 6411,
     "mediaId": 209,
-    "date": "2022-00-14",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "Brigid Kennedy",
     "title": "Trump reportedly expected to endorse J.D. Vance in Ohio Senate race",
@@ -38,7 +11,7 @@
   {
     "id": 6414,
     "mediaId": 157,
-    "date": "2022-00-14",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "Bob Brigham",
     "title": "Ohio Republicans scramble to stop Trump from officially endorsing JD Vance",
@@ -47,7 +20,7 @@
   {
     "id": 6365,
     "mediaId": 120,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ja'han Jones",
     "title": "J.D. Vance wins Trumps endorsement after months of groveling",
@@ -56,10 +29,37 @@
   {
     "id": 6107,
     "mediaId": 120,
-    "date": "2022-00-28",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "Hayes Brown",
     "title": "If Biden has a student loan forgiveness plan, now is the time announce it",
     "sentiment": "0"
+  },
+  {
+    "id": 5965,
+    "mediaId": 157,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David Edwards",
+    "title": "Watch: Reporter clashes with J.D. Vance for 'propagating and promoting white resentment'",
+    "sentiment": "0"
+  },
+  {
+    "id": 5826,
+    "mediaId": 124,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Democrats nominate Tim Ryan in Ohios key Senate race, NBC News projects",
+    "sentiment": "0"
+  },
+  {
+    "id": 5835,
+    "mediaId": 157,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Sarah K. Burris",
+    "title": "'This is the Republican Party': NBC reporter says Ohio results show GOP's shift toward MAGA extremism",
+    "sentiment": "0.642"
   }
 ]

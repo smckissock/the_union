@@ -1,35 +1,17 @@
 [
   {
-    "id": 7639,
-    "mediaId": 558,
-    "date": "2022-00-01",
-    "sentence": "ATLANTA (AP)  <span class='selected-term'>Herschel Walker</span> is expected to skip a second debate against his Republican rivals for a crucial U.S. Senate seat on Tuesday after missing the first one.",
-    "author": "SUDHIN THANAWALA",
-    "title": "Herschel Walker, other candidates test skipping debates",
-    "sentiment": "-0.908"
-  },
-  {
     "id": 8207,
     "mediaId": 43,
-    "date": "2022-00-01",
+    "date": "2/1/2022 12:00:00 AM",
     "sentence": "Trump-backed Georgia Republican Senate candidate <span class='selected-term'>Herschel Walker</span> raised almost $5.4 million in the past three months and has about the same amount in the bank.",
     "author": "",
     "title": "candidates are getting 'crushed' in early fundraising: report",
     "sentiment": "0.468"
   },
   {
-    "id": 7634,
-    "mediaId": 1576,
-    "date": "2022-00-02",
-    "sentence": "And on Tuesday, <span class='selected-term'>Herschel Walker</span> is expected to miss a second debate against his Republican rivals for a crucial U.S. Senate seat after skipping the first one.",
-    "author": "",
-    "title": "Candidates test skipping debates without upsetting voters",
-    "sentiment": "-0.755"
-  },
-  {
     "id": 7800,
     "mediaId": 195,
-    "date": "2022-00-11",
+    "date": "4/11/2022 12:00:00 AM",
     "sentence": "In Pennsylvania, Trump recently endorsed former television host Mehmet Oz (R) to replace retiring Sen. Pat Toomey (R)\nHe also is backing former football star <span class='selected-term'>Herschel Walker</span> (R) in the Georgia race against Sen. Raphael Warnock (D).",
     "author": "Elizabeth Crisp",
     "title": "Trump approval ratings still strong in key battleground states: poll",
@@ -38,19 +20,37 @@
   {
     "id": 7802,
     "mediaId": 136,
-    "date": "2022-00-11",
+    "date": "4/11/2022 12:00:00 AM",
     "sentence": "The former president's political power will be tested in the Peach State as two of his picks for office differ in the polls: former football star <span class='selected-term'>Herschel Walker</span> is dominating the Republican field for Senate while David Perdue is behind in the gubernatorial primary.",
     "author": "Alexandra Hutzler",
     "title": "Trump Hugely Popular in States With Key Senate Races",
     "sentiment": "-0.155"
   },
   {
+    "id": 7639,
+    "mediaId": 558,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "ATLANTA (AP)  <span class='selected-term'>Herschel Walker</span> is expected to skip a second debate against his Republican rivals for a crucial U.S. Senate seat on Tuesday after missing the first one.",
+    "author": "SUDHIN THANAWALA",
+    "title": "Herschel Walker, other candidates test skipping debates",
+    "sentiment": "-0.908"
+  },
+  {
+    "id": 7634,
+    "mediaId": 1576,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "And on Tuesday, <span class='selected-term'>Herschel Walker</span> is expected to miss a second debate against his Republican rivals for a crucial U.S. Senate seat after skipping the first one.",
+    "author": "",
+    "title": "Candidates test skipping debates without upsetting voters",
+    "sentiment": "-0.755"
+  },
+  {
     "id": 8472,
     "mediaId": 129,
-    "date": "2022-00-26",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "BRUNI: Thoughts on <span class='selected-term'>Herschel Walker</span> (potentially) in the Senate, in five words or less.",
     "author": "",
     "title": "The G.O.P. Has Gone Even Farther to the Right Than I Expected': Three Writers Talk About the Midterms",
-    "sentiment": "0.0"
+    "sentiment": "0"
   }
 ]

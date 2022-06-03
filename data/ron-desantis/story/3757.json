@@ -5,14 +5,21 @@
   "headline": "DeSantis mandates lessons on communism for high school students",
   "image": "",
   "link": "https://www.washingtonpost.com/education/2022/05/10/florida-victims-of-communism-day/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    771,
+    4401,
+    4440,
+    4570,
+    4681,
+    4885,
+    2661
   ],
   "sentences": [
     "Beginning in the 2023-2024 school year, high school students enrolled in the United States Government class required by s. 1003.4282 must receive at least 45 minutes of instruction on Victims of Communism Day? on topics such as Mao Zedong and the Cultural Revolution, Joseph Stalin and the Soviet System, Fidel Castro and the Cuban Revolution, Vladimir Lenin and the Russian Revolution, Pol Pot and the Khmer Rouge, and Nicols Maduro and the Chavismo movement, and how victims suffered under these regimes through suppression of speech, poverty, starvation, migration, and systemic lethal violence.",

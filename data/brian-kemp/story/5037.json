@@ -5,14 +5,21 @@
   "headline": "Crazytown: Former senator aghast Marjorie Taylor Greene has more power than Kevin McCarthy and Mitch McConnell",
   "image": "https://www.rawstory.com/media-library/marjorie-taylor-greene.png?id=27403045&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/marjorie-taylor-greene-crazytown/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bob Brigham",
   "authorUrl": "https://www.rawstory.com/u/bob_brigham",
   "termIds": [
-    2095
+    1017,
+    1609,
+    1765,
+    2071,
+    2095,
+    327,
+    414,
+    428
   ],
   "sentences": [
     "QAnon-promoting Rep. Marjorie Taylor Greene (R-GA) may not even sit on a single congressional committee, but the first-term Republican has more political power than GOP Leader Kevin McCarthy (R-CA), an MSNBC analyst argued on Thursday.",

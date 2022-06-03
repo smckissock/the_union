@@ -5,7 +5,7 @@
   "headline": "Florida lawmaker says abortion bans help sex-trafficking victims escape",
   "image": "",
   "link": "https://www.washingtonpost.com/nation/2022/05/03/florida-senator-abortion-sex-trafficking/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,12 @@
   "authorUrl": "",
   "termIds": [
     661,
-    2298
+    885,
+    2298,
+    4155,
+    2661,
+    2789,
+    2791
   ],
   "sentences": [
     "In January, Garrett Soldano, a Michigan gubernatorial candidate, told a podcast host that rape victims shouldnt have abortions because the baby inside them may be the next president.?\nAnother lawmaker said last month that a baby born after a rape could be an opportunity? for the victim.",

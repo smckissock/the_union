@@ -5,14 +5,19 @@
   "headline": "Judge strikes down Florida governors unconstitutional election map",
   "image": "https://s.yimg.com/ny/api/res/1.2/6YLSegQXzXHp28im6Kgb6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3NjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/DuUoeZjXh2AK8Ukl5q_nTQ--~B/aD02MDA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/theguardian_763/5997b99656bb76ca48c4cdbc5b5ac7c3",
   "link": "https://sg.news.yahoo.com/judge-strikes-down-florida-governor-175614248.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sam Levine",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1587,
+    428,
+    2661,
+    2724,
+    2926
   ],
   "sentences": [
     "Blow to Ron DeSantis as judge says new congressional districts made it harder for Black voters to elect their preferred candidates\nA state judge struck down new congressional districts in north Florida on Wednesday, saying that Governor Ron DeSantis, who drew the lines, had made it harder for Black voters to elect the candidate of their choice.",

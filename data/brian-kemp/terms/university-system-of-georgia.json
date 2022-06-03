@@ -1,8 +1,17 @@
 [
   {
+    "id": 5415,
+    "mediaId": 12,
+    "date": "3/30/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Maureen Downey",
+    "title": "Opinion: Part-time faculty at Georgia colleges deserve better pay",
+    "sentiment": "0"
+  },
+  {
     "id": 5186,
     "mediaId": 1576,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Public college costs to fall in Georgia as fee goes away",
@@ -11,7 +20,7 @@
   {
     "id": 5030,
     "mediaId": 12,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Eric Stirgus",
     "title": "Sonny Perdue says Georgia must sell value of college degree",
@@ -20,19 +29,10 @@
   {
     "id": 7072,
     "mediaId": 129,
-    "date": "2022-00-21",
+    "date": "5/21/2022 12:00:00 AM",
     "sentence": "I am with David all the way because <span class='selected-term'>Brian Kemp</span> was the WORST governor in the Country on Election Integrity!? Mr. Trump insisted Friday on his Truth Social messaging platform.",
     "author": "",
     "title": "Perdue Had Trump. In Georgia, Kemp Had Everything Else.",
-    "sentiment": "0"
-  },
-  {
-    "id": 5415,
-    "mediaId": 12,
-    "date": "2022-00-30",
-    "sentence": "",
-    "author": "Maureen Downey",
-    "title": "Opinion: Part-time faculty at Georgia colleges deserve better pay",
     "sentiment": "0"
   }
 ]

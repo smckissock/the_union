@@ -5,14 +5,22 @@
   "headline": "GOP candidates spent $400K at Mar-A-Lago asking for Trumps endorsement",
   "image": "https://www.rawstory.com/media-library/trump-lied-about-election-fraud-and-his-supporters-gave-him-150-million-report.jpg?id=24720150&width=1200&coordinates=0%2C15%2C0%2C15&height=600",
   "link": "https://www.rawstory.com/trump-mar-a-lago-2657381989/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Travis Gettys",
   "authorUrl": "https://www.rawstory.com/u/travis_gettys",
   "termIds": [
-    815
+    815,
+    896,
+    1147,
+    2087,
+    2279,
+    4325,
+    5677,
+    296,
+    428
   ],
   "sentences": [
     "Federal and state campaign records show the GOP candidates backed by the former president spent tens of thousands of dollars at the private club, and Georgia Senate candidate Herschel Walker spent nearly $200,000 there so far during the election cycle, including a payment of more than $135,000 in December and about $65,000 last month, reported CNBC.",

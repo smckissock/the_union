@@ -5,14 +5,19 @@
   "headline": "Utilities push back against growth of rooftop solar panels",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1120w,f_auto,q_auto:best/rockcms/2022-05/220502-mississippi-solar-panels-mn-1415-3486bf.jpg",
   "link": "https://www.nbcnews.com/news/us-news/rooftop-solar-panels-utilities-rcna26726",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jon Schuppe",
   "authorUrl": "https://www.nbcnews.com/author/jon-schuppe-ncpn75216",
   "termIds": [
-    661
+    661,
+    4589,
+    4707,
+    3416,
+    2661,
+    5004
   ],
   "sentences": [
     "Sign Up\nThis site is protected by recaptcha Privacy Policy | Terms of Service\nRooftop solar is not economic for the majority of customers, and any efforts of the Commission to artificially enhance these economics will be financially shouldered by the non-participating customers,? Mississippi Power said in a February filing.",

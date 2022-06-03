@@ -5,14 +5,23 @@
   "headline": "Trump Blasts Failures of Biden Admin, Campaigns for Vance at Ohio Rally",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/04/donald-trump-ohio-vance.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/trump-blasts-failures-of-biden-admin-campaigns-for-vance-at-ohio-rally/",
-  "sentiment": "0",
+  "sentiment": "-0.432",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caroline Downey",
   "authorUrl": "https://www.nationalreview.com/author/caroline-downey/",
   "termIds": [
-    3103
+    1054,
+    1147,
+    1801,
+    2087,
+    3103,
+    424,
+    545,
+    571,
+    2845,
+    2945
   ],
   "sentences": [
     "But, ladies and gentlemen, the thing that Trump revealed more than any policy achievement is that we are living in an incredibly corrupt country.?\nTrump acknowledged that Vance was a late convert to his camp but said in a recent statement that he believes he is the best bet to win the Senate race in Ohio and advance the America First agenda in Congress.",

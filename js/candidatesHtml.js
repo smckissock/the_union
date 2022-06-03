@@ -42,16 +42,9 @@ export class CandidatesHtml {
 
     stateHtml(state) {
         let html =
-            // `<tr>
-            //     <th class="big-text" colspan="1">${state.name}</th>
-            //     <th class="light-text">Primary ${state.races[0].primaryDate}</th>
-            //     <th class="light-text">All Stories</th>
-            //     <th class="light-text">Local Stories</th>
-            // </tr>`;
-
             `<tr>
                 <th class="big-text" colspan="3">${state.name}</th>
-                <th class="light-text">All Stories</th>
+                <th class="light-text">National Stories</th>
                 <th class="light-text">Local Stories</th>
             </tr>`;
         return html + self.racesHtml(state.races);

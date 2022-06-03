@@ -5,7 +5,7 @@
   "headline": "Georgia Republicans Pass Bill To Allow State Police To Investigate Voter Fraud Claims",
   "image": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1600/dd66ec81b7378c1b0ecc6e2873630588.jpg",
   "link": "https://www.theroot.com/georgia-republicans-pass-bill-to-allow-state-police-to-1848756663",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Root",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,13 @@
   "authorUrl": "https://www.theroot.com/author/murjanirawls",
   "termIds": [
     1646,
-    2095
+    2095,
+    2203,
+    215,
+    428,
+    571,
+    2661,
+    2672
   ],
   "sentences": [
     "Executive director of the Georgia chapter of the watchdog group Common Cause, Aunna Dennis, says this is a waste of taxpayer money.?\nDennis said, If the Bureau is now entrusted with investigating anything that could create doubt about our elections  we suggest they start, first, by investigating those who have been profiting by creating such doubt.?\nSo many different groups and partisan extremists have been working to undermine confidence in Georgias elections,? Dennis said in a statement.",

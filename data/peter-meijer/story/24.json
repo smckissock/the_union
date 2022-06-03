@@ -5,15 +5,25 @@
   "headline": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
   "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3HB3PEPVPFFALADUBQKNHNWWDQ.jpg&w=916",
   "link": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDIyLzA0LzA1L2dvcC1yZXAtdXB0b24td2hvLXZvdGVkLWltcGVhY2gtdHJ1bXAtd2lsbC1ub3Qtc2Vlay1yZWVsZWN0aW9uL9IBAA?oc=5/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Amy B Wang",
   "authorUrl": "https://www.washingtonpost.com/people/amy-b-wang/",
   "termIds": [
+    1147,
+    1614,
     1901,
-    3094
+    1983,
+    2087,
+    2429,
+    3094,
+    146,
+    428,
+    545,
+    562,
+    2791
   ],
   "sentences": [
     "On Tuesday, he cited his work on the infrastructure bill as another one of his achievements, noting that it had passed 69-30 in the Senate but then hit the rocks here in the House, barely surviving Trump's opposition despite his call for a proposal twice as expensive with no pay-fors.?\nBecause of redistricting in Michigan, a new map forced Upton into the same seat as Rep. Bill Huizenga, a pro-Trump Republican.",

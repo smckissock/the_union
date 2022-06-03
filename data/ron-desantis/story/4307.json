@@ -5,14 +5,15 @@
   "headline": "Ukrainian president is a true leader; mass shootings need attention | READER COMMENTARY",
   "image": "https://www.baltimoresun.com/resizer/DdcjhLKzJyfIKJd9csj6n2V7wVU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTNTSG4XRPJ3J5MPFBJ7HACD24.jpg",
   "link": "https://www.baltimoresun.com/maryland/carroll/opinion/cc-op-letters-may1-20220501-grtdufpvjfb2ngwxgrglca4lju-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Baltimore Sun",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2945
   ],
   "sentences": [
     "We have a former President the subject of more ongoing litigation and criminal investigations than the sum total of all of the elected officials in American history.",

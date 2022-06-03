@@ -5,7 +5,7 @@
   "headline": "It's starting to occur to Trump that some of his endorsements have proven subpar",
   "image": "https://images.dailykos.com/images/1002620/story_image/GettyImages-1235504857.jpg?1635519867",
   "link": "https://www.dailykos.com/story/2022/1/21/2076058/-Starting-to-occur-to-Trump-that-some-of-his-endorsements-have-proven-subpar",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     815,
-    3103
+    1147,
+    1148,
+    2137,
+    2379,
+    3103,
+    403,
+    428,
+    571,
+    2672,
+    2834
   ],
   "sentences": [
     "In fact, Trump started getting cold feet after he endorsed alleged wife beater Sean Parnell for the open Pennsylvania Senate seat at the urging of his son, Don Jr. Parnell finally bowed out of the race last November after he lost custody rights over his kids.",

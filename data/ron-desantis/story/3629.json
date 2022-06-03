@@ -5,14 +5,18 @@
   "headline": "Ron DeSantis: Joe Bidens Actions Show He Doesnt Care About Rising Gas Prices",
   "image": "https://media.breitbart.com/media/2022/03/I-Did-That-Biden-Sticker-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/13/ron-desantis-joe-bidens-actions-show-he-doesnt-care-about-rising-gas-prices/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Hannah Bleau",
   "authorUrl": "https://www.breitbart.com/author/hannah-bleau/",
   "termIds": [
-    661
+    661,
+    1147,
+    2087,
+    2661,
+    2945
   ],
   "sentences": [
     "Cook Inlet lease sale would not proceed due to insufficient industry interest,? a spokesperson for the Interior Department said this week, adding that the lease sales in the Gulf will not proceed due to contradictory court rulings on the leases?:\nWhen the president first took office in 2021, he signed an executive order freezing all new oil and gas leasing on federal lands only to have it struck down by Judge James Cain, a Trump appointee.",

@@ -2,37 +2,37 @@
   {
     "id": 4296,
     "mediaId": 65,
-    "date": "2022-00-01",
+    "date": "5/1/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "We must remember my uncle Dr. Martin Luther King's wisdom about race amid all the noisy debates",
     "sentiment": "0"
   },
   {
-    "id": 4296,
-    "mediaId": 65,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "",
-    "title": "We must remember my uncle Dr. Martin Luther King's wisdom about race amid all the noisy debates",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4139,
     "mediaId": 124,
-    "date": "2022-00-03",
+    "date": "5/3/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Black churches urged to fight anti-LGBTQ state laws",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3793,
     "mediaId": 376,
-    "date": "2022-00-10",
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kate Ackley\nStephanie Akin\nNiels Lesniewski\nMary Ellen McIntire",
     "title": "These 10 senators are most vulnerable six months from Election Day",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8806,
+    "mediaId": 881,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "In Florida, Governor <span class='selected-term'>Ron DeSantis</span> appointed Ester Byrd, a prominent Moms for Liberty member, to Floridas Board of Education.",
+    "author": "Claire Woodcock",
+    "title": "Moms for Liberty has allied with Republicans across the U.S. to change what public school libraries are allowed to offer.",
+    "sentiment": "0"
   }
 ]

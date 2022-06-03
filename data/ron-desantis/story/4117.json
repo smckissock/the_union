@@ -5,14 +5,22 @@
   "headline": "Hillary Clinton mocked for maskless Met Gala photos while being doted on by masked staff",
   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/05/1862/1048/2022-05-03T033216Z_596781537_HP1EI5309TPE9_RTRMADP_3_FASHION-MET-GALA.jpg?ve=1&tl=1",
   "link": "https://www.foxnews.com/media/hillary-clinton-mocked-maskless-met-gala-photos-while-being-doted-masked-staff",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1158,
+    3843,
+    4049,
+    4473,
+    539,
+    3408,
+    2826,
+    2945
   ],
   "sentences": [
     "The failed presidential candidate was all smiles, posing for the camera without wearing a mask, while a masked African American gentleman  who appeared to be one of the events staff  doted on her, adjusting her dress.",

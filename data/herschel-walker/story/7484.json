@@ -5,7 +5,7 @@
   "headline": "What time do polls close in Georgia, Texas?",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2018/08/primaries081418_hillillustration_0.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/state-watch/3498203-what-time-do-polls-close-in-georgia-texas/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "https://thehill.com/author/rachel-scully/",
   "termIds": [
     815,
-    2095
+    984,
+    1951,
+    2095,
+    2150,
+    4325,
+    2537,
+    2672,
+    2862,
+    2934
   ],
   "sentences": [
     "Alabama: 7 a.m.  7 p.m. local time\nArkansas: 7:30 a.m.  7:30 p.m. local time\nGeorgia: 7 a.m.  7 p.m. local time\nTexas: 7 a.m.  7 p.m. local time\nThe Hill has removed its comment section, as there are many other forums for readers to participate in the conversation.",

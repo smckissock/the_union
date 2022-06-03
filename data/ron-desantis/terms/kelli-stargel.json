@@ -2,28 +2,46 @@
   {
     "id": 3542,
     "mediaId": 302,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Romy Ellenbogen",
     "title": "Kelli Stargel announces run for Floridas open 15th Congressional District",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3553,
     "mediaId": 151,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": " School censorship mars end of Florida school year, LGBTQ advocates say,? by Orlando Sentinels Skyler Swisher\n Disney edges out <span class='selected-term'>Ron DeSantis</span> in popularity poll,? by Florida Politics A.G. Gancarski\nMEET THE NEW BOSS DeSantis taps Byrd as secretary of state,? by POLITICOs Matt Dixon: Beyond voting with Gov.",
     "author": "",
     "title": "Crist gives another jumbled response on abortion",
     "sentiment": "0"
   },
   {
-    "id": 3553,
+    "id": 8787,
     "mediaId": 151,
-    "date": "2022-00-16",
-    "sentence": " School censorship mars end of Florida school year, LGBTQ advocates say,? by Orlando Sentinels Skyler Swisher\n Disney edges out <span class='selected-term'>Ron DeSantis</span> in popularity poll,? by Florida Politics A.G. Gancarski\nMEET THE NEW BOSS DeSantis taps Byrd as secretary of state,? by POLITICOs Matt Dixon: Beyond voting with Gov.",
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "How about <span class='selected-term'>Ron DeSantis</span>, Americas governor, said Simpson, echoing the nickname conservatives across the country have bestowed upon Floridas governor.",
     "author": "",
-    "title": "Crist gives another jumbled response on abortion",
-    "sentiment": "0.0"
+    "title": "'Just the way it goes': DeSantis axes $3B from Legislature's budget in front of Republican leaders",
+    "sentiment": "-0.313"
+  },
+  {
+    "id": 8787,
+    "mediaId": 151,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "How about <span class='selected-term'>Ron DeSantis</span>, Americas governor, said Simpson, echoing the nickname conservatives across the country have bestowed upon Floridas governor.",
+    "author": "",
+    "title": "'Just the way it goes': DeSantis axes $3B from Legislature's budget in front of Republican leaders",
+    "sentiment": "0"
+  },
+  {
+    "id": 8793,
+    "mediaId": 302,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Lawrence Mower",
+    "title": "DeSantis cuts GOP priorities as he approves $110B budget",
+    "sentiment": "0"
   }
 ]

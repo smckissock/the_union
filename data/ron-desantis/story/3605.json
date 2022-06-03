@@ -5,14 +5,21 @@
   "headline": "DeSantis appeals Florida judge's order blocking his redistricting map",
   "image": "https://www.politico.com/dims4/default/ca77353/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F1a%2Fa3%2Fc8390fdc4f1a8d9eeb1dd0b75695%2Fap22129653055697.jpg",
   "link": "https://www.politico.com/news/2022/05/13/florida-redistricting-case-desantis-00032483",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1587,
+    4701,
+    428,
+    2661,
+    2724,
+    2788,
+    2926
   ],
   "sentences": [
     "Qualifying for Floridas primary starts on June 13, with the primary scheduled for Aug. 23.\nAllowing the automatic stay to remain in place would almost certainly result in irreparable harm to Plaintiffs and countless other Florida voters, who may be forced  simply as a result of the delay following from the stay  to vote under an unconstitutional map, which operates to diminish the political power of Black voters in North Florida in particular,? read the motion, penned by attorney Frederick S. Wermuth.",

@@ -5,14 +5,22 @@
   "headline": "GOP governor predicts Trump's grip on party will finally end this year: 'The people he's endorsing are going to lose'",
   "image": "https://www.rawstory.com/media-library/maryland-gov-larry-hogan.jpg?id=29753531&width=1200&coordinates=0%2C7%2C0%2C233&height=600",
   "link": "https://www.rawstory.com/trump-2024-2657254696/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Timothy Evans",
   "authorUrl": "https://www.rawstory.com/u/timothyevans",
   "termIds": [
-    661
+    661,
+    1147,
+    1796,
+    54,
+    428,
+    3508,
+    2590,
+    2661,
+    2782
   ],
   "sentences": [
     "After this year's midterms, he told Axios, \"People will not be nearly as afraid and won't feel like it's a requirement to pair with what Trump's saying or need his endorsement to win an election because, I think, most of the people that he's endorsing are going to lose.\"",

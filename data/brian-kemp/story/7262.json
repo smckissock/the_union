@@ -5,14 +5,22 @@
   "headline": "Report: State Legislatures Have Become a Linchpin of Trumps Attack on Free and Fair Elections",
   "image": "https://media.vanityfair.com/photos/628a6e4404663672575dda4d/master/w_2240,c_limit/Donald-Trump.jpg",
   "link": "https://www.vanityfair.com/news/2022/05/state-legislatures-linchpin-of-trumps-attack-on-free-and-fair-elections",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Vanity Fair",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1147,
+    2087,
+    2095,
+    428,
+    517,
+    525,
+    2550,
+    2672,
+    2945
   ],
   "sentences": [
     "Unwilling to accept his loss to Joe Biden, Trump continues to claim that the 2020 election results were ridden with widespread fraud, a lie debunked by his own Justice Department and numerous recounts and audits that is now widely accepted as fact among Republican lawmakers, turning statehouses into hotbeds of conspiratorial thinking and specious legal theories,? the Times reports.",

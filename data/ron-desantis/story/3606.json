@@ -5,14 +5,20 @@
   "headline": "DeSantis names conservative lawmaker Cord Byrd as Florida elections chief",
   "image": "https://www.tampabay.com/resizer//6phoy81xRtlJFmNKOhx_sov25-Y=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/RSUBURG7RCILVDUUAHVJSPMGFM.jpg",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/13/desantis-names-conservative-lawmaker-cord-byrd-as-florida-elections-chief/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lawrence Mower",
   "authorUrl": "https://www.tampabay.com/author/lawrence-mower",
   "termIds": [
-    661
+    661,
+    4048,
+    428,
+    3288,
+    2661,
+    2926,
+    5012
   ],
   "sentences": [
     "I look forward to his successes ensuring Floridas elections remain safe, secure and well-administered.?\nByrd, 51, said in a statement that he will make sure Florida continues to have secure elections and that we protect the freedom of our citizens in the face of big-tech censorship and ever-growing cybersecurity threats.?\nThe Friday announcement comes a day after Secretary of State Laurel Lee, a former federal prosecutor and Hillsborough County judge, announced she was leaving the office on Monday.",

@@ -5,14 +5,16 @@
   "headline": "A year later, Kemp touts success of states Crime Suppression Unit",
   "image": "https://www.ajc.com/resizer/Ei8SLfddw76kzV5LCZhnLG8iKIc=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/UM67CJXIVNDKROPQUHZTQUBCM4.jpg",
   "link": "https://www.ajc.com/news/crime/a-year-later-kemp-touts-success-of-states-crime-suppression-unit/JK2AEDCGZFAXZC7B6VFQGHNABQ/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Shaddi Abusaid",
   "authorUrl": "https://www.ajc.com/staff/shaddi-abusaid/",
   "termIds": [
-    2095
+    2095,
+    2555,
+    2672
   ],
   "sentences": [
     "Brian Kemp said the states multi-agency Crime Suppression Unit was responsible for:\n- 23,600 traffic stops\n- 588 DUI stops\n-213 drug arrests\n-572 pursuits\n-Nearly 1,300 vehicle impounds\n-Nearly 16,000 citations\n-451 fugitive arrests, 26 of whom were murder suspects\n-The seizure of 342 stolen or missing weapons\n- The recovery of 312 stolen vehicles valued at nearly $6.5 million",

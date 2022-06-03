@@ -5,7 +5,7 @@
   "headline": "Opinion: Wisconsin's Tom Nelson reminds Democrats how populists should sound",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/04/17/tom-nelson-wisconsin-senate-populist-that-democrat-need/",
-  "sentiment": "0.0",
+  "sentiment": "0.255",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "",
   "termIds": [
     741,
-    1568
+    1158,
+    1568,
+    146,
+    245,
+    571,
+    2548,
+    2796,
+    2855,
+    2972
   ],
   "sentences": [
     "He thinks federal labor laws need modernizing, starting with the Protecting the Right to Organize Act, and he sees high morale? around the country as a spate of union organizing wins demonstrate that unions are alive and well.? He pointed out with delight that he just visited his local drive-through Starbucks, which recently organized.",

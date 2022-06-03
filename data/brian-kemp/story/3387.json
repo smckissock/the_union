@@ -5,7 +5,7 @@
   "headline": "Seven primary races to watch on Tuesday",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/voting_pa_050222ap-matt-rourke_seven-primaries.jpeg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3487798-seven-primary-races-to-watch-on-tuesday/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,19 @@
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
     821,
+    1147,
+    1404,
+    1622,
+    1713,
+    1990,
     2095,
+    2226,
     2303,
-    3102
+    3102,
+    4019,
+    146,
+    428,
+    2834
   ],
   "sentences": [
     "Here are seven races to watch on Tuesday:\nPennsylvanias GOP Senate primary\nThe Republican race for the nomination to succeed retiring Sen. Pat Toomey (R-Pa.) is set to test whether Trumps endorsement will be enough to propel celebrity physician Mehmet Oz, a first-time candidate and relatively recent arrival to Pennsylvania, over the finish line.",

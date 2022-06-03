@@ -5,7 +5,7 @@
   "headline": "Barnes raises over $1 million in final quarter of 2021",
   "image": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/article_images/mandelabarnes.jpeg?itok=tJiXIlWv",
   "link": "https://thehill.com/homenews/campaign/590279-barnes-raises-over-1-million-in-final-quarter-of-2021",
-  "sentiment": "0.0",
+  "sentiment": "0.296",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,13 @@
   "termIds": [
     741,
     802,
+    874,
     1568,
-    2039
+    1925,
+    2039,
+    571,
+    2855,
+    2972
   ],
   "sentences": [
     "Less than 6 months into his campaign, there's no question that Mandela Barnes has built the largest grassroots coalition and is poised to defeat Ron Johnson once and for all,? said Barnes' campaign manager Kory Kozloski.",

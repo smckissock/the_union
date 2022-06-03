@@ -1,44 +1,8 @@
 [
   {
-    "id": 7629,
-    "mediaId": 237,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Asher Notheis",
-    "title": "Herschel Walker will skip second primary debate in Georgia Senate race",
-    "sentiment": "-0.72"
-  },
-  {
-    "id": 8044,
-    "mediaId": 305,
-    "date": "2022-00-11",
-    "sentence": "Sen. Ralph Warnock is also seeking to win a six-term and Republican <span class='selected-term'>Herschel Walker</span> is unfortunately still trying.",
-    "author": "Kalyn Womack",
-    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7783,
-    "mediaId": 19,
-    "date": "2022-00-13",
-    "sentence": "Republican <span class='selected-term'>Herschel Walker</span> holds a five-point lead over incumbent Sen. Raphael Warnock (D-GA) in a hypothetical matchup for Georgias U.S. Senate seat, according to a recent poll.",
-    "author": "Jacob Bliss",
-    "title": "Poll: Republican Herschel Walker Shows 5-Point Lead over Democrat Sen. Raphael Warnock",
-    "sentiment": "0"
-  },
-  {
-    "id": 8025,
-    "mediaId": 43,
-    "date": "2022-00-15",
-    "sentence": "Whenever Georgia needed somebody to speak up for their businesses, they called <span class='selected-term'>Herschel Walker</span>, he told supporters at a recent rally in Dahlonega.",
-    "author": "",
-    "title": "Herschel Walker (R), \"If evolution is true, why are there still apes? Think about it.",
-    "sentiment": "-0.676"
-  },
-  {
     "id": 8262,
     "mediaId": 12,
-    "date": "2022-00-20",
+    "date": "1/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "Greg Bluestein",
     "title": "Walker has limited public campaign stops, but hes profited from private events",
@@ -47,25 +11,61 @@
   {
     "id": 8218,
     "mediaId": 12,
-    "date": "2022-00-28",
+    "date": "1/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "Greg Bluestein",
     "title": "Bidens sagging approval could haunt Georgia Democrats",
     "sentiment": "-0.851"
   },
   {
+    "id": 8044,
+    "mediaId": 305,
+    "date": "3/11/2022 12:00:00 AM",
+    "sentence": "Sen. Ralph Warnock is also seeking to win a six-term and Republican <span class='selected-term'>Herschel Walker</span> is unfortunately still trying.",
+    "author": "Kalyn Womack",
+    "title": "Guess Whos Back: Stacey Abrams Qualifies for 2022 Georgia Governor Race",
+    "sentiment": "0"
+  },
+  {
+    "id": 8025,
+    "mediaId": 43,
+    "date": "3/15/2022 12:00:00 AM",
+    "sentence": "Whenever Georgia needed somebody to speak up for their businesses, they called <span class='selected-term'>Herschel Walker</span>, he told supporters at a recent rally in Dahlonega.",
+    "author": "",
+    "title": "Herschel Walker (R), \"If evolution is true, why are there still apes? Think about it.",
+    "sentiment": "-0.676"
+  },
+  {
     "id": 7878,
     "mediaId": 43,
-    "date": "2022-00-29",
+    "date": "3/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Watch Herschel Walker's (R) Embarrassingly Idiotic Gaffe About Critical Race Theory",
     "sentiment": "-0.82"
   },
   {
+    "id": 7783,
+    "mediaId": 19,
+    "date": "4/13/2022 12:00:00 AM",
+    "sentence": "Republican <span class='selected-term'>Herschel Walker</span> holds a five-point lead over incumbent Sen. Raphael Warnock (D-GA) in a hypothetical matchup for Georgias U.S. Senate seat, according to a recent poll.",
+    "author": "Jacob Bliss",
+    "title": "Poll: Republican Herschel Walker Shows 5-Point Lead over Democrat Sen. Raphael Warnock",
+    "sentiment": "0"
+  },
+  {
+    "id": 7629,
+    "mediaId": 237,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Asher Notheis",
+    "title": "Herschel Walker will skip second primary debate in Georgia Senate race",
+    "sentiment": "-0.72"
+  },
+  {
     "id": 8579,
     "mediaId": 151,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "Only in Georgia, it was incumbent Sen. Raphael Warnock who issued the call Thursday for three televised debates, as soon as his fall Senate election match-up with <span class='selected-term'>Herschel Walker</span> was set.",
     "author": "",
     "title": "He doesn't speak in beautiful syntax: GOP bets the Senate that Walker is ready for prime time",

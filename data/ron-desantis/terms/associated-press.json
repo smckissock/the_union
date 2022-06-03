@@ -1,62 +1,17 @@
 [
   {
-    "id": 3926,
-    "mediaId": 223,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Madeline Leesman",
-    "title": "Pansexual Teacher Fired for Discussing Sexual Orientation with Students",
-    "sentiment": "0"
-  },
-  {
-    "id": 3926,
-    "mediaId": 223,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Madeline Leesman",
-    "title": "Pansexual Teacher Fired for Discussing Sexual Orientation with Students",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3481,
-    "mediaId": 305,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "Murjani Rawls",
-    "title": "Desantis Signs Bill Banning Protests Outside of Residences",
-    "sentiment": "0"
-  },
-  {
-    "id": 3481,
-    "mediaId": 305,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "Murjani Rawls",
-    "title": "Desantis Signs Bill Banning Protests Outside of Residences",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4370,
     "mediaId": 65,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Deroy Murdock",
     "title": "Black success demolishes the left's '2+2 = racism' lie",
     "sentiment": "0"
-  },
-  {
-    "id": 4370,
-    "mediaId": 65,
-    "date": "2022-00-29",
-    "sentence": "",
-    "author": "Deroy Murdock",
-    "title": "Black success demolishes the left's '2+2 = racism' lie",
-    "sentiment": "0.0"
   },
   {
     "id": 4453,
     "mediaId": 239,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "CURT ANDERSON",
     "title": "Florida teachers sue to block reopening of public schools",
@@ -65,10 +20,37 @@
   {
     "id": 4453,
     "mediaId": 239,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "CURT ANDERSON",
     "title": "Florida teachers sue to block reopening of public schools",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3926,
+    "mediaId": 223,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Madeline Leesman",
+    "title": "Pansexual Teacher Fired for Discussing Sexual Orientation with Students",
+    "sentiment": "0"
+  },
+  {
+    "id": 3481,
+    "mediaId": 305,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Murjani Rawls",
+    "title": "Desantis Signs Bill Banning Protests Outside of Residences",
+    "sentiment": "0"
+  },
+  {
+    "id": 8874,
+    "mediaId": 18,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "The Latest: India announces easing of lockdown restrictions",
+    "sentiment": "0"
   }
 ]

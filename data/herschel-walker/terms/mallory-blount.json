@@ -1,8 +1,26 @@
 [
   {
+    "id": 8262,
+    "mediaId": 12,
+    "date": "1/20/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "Walker has limited public campaign stops, but hes profited from private events",
+    "sentiment": "0.21"
+  },
+  {
+    "id": 8163,
+    "mediaId": 178,
+    "date": "2/11/2022 12:00:00 AM",
+    "sentence": "\"It is time for <span class='selected-term'>Herschel Walker</span> to enter through the front door, make himself available to the public and have the press do interviews that test your knowledge and skills and answer the many questions that everyone has,\" Black said Friday, saying Walker needs to talk about his policy positions as well as his past.",
+    "author": "JEFF AMY Associated Press",
+    "title": "Walker's past could let Warnock keep Senate seat, rivals say",
+    "sentiment": "-0.966"
+  },
+  {
     "id": 7821,
     "mediaId": 65,
-    "date": "2022-00-08",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "A campaign staffer for former NFL star <span class='selected-term'>Herschel Walker</span>, who is running as a Republican for a Senate seat in Georgia, posted a photo with Clarence Thomas on Friday afternoon marking the first time Thomas has been seen since being released from a hospital on March 25 following an undisclosed illness.",
     "author": "Andrew Mark Miller",
     "title": "Clarence Thomas publicly spotted for first time since being hospitalized",
@@ -11,43 +29,25 @@
   {
     "id": 7824,
     "mediaId": 188,
-    "date": "2022-00-08",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "Remarking on a photo of <span class='selected-term'>Herschel Walker</span> and Supreme Court Justice Clarence Thomas, Democratic Rep. Mondaire Jones of New York asked whether Thomas will recuse himself from any cases that emerge from the Peach State's 2022 Senate election contest.",
     "author": "Alex Nitzberg",
     "title": "'I think the court has crossed the rubicon': Sen. Chris Murphy sounds alarm over photo of Supreme Court Justice Clarence Thomas with US Senate candidate Herschel Walker",
     "sentiment": "0"
   },
   {
-    "id": 8163,
-    "mediaId": 178,
-    "date": "2022-00-11",
-    "sentence": "\"It is time for <span class='selected-term'>Herschel Walker</span> to enter through the front door, make himself available to the public and have the press do interviews that test your knowledge and skills and answer the many questions that everyone has,\" Black said Friday, saying Walker needs to talk about his policy positions as well as his past.",
-    "author": "JEFF AMY Associated Press",
-    "title": "Walker's past could let Warnock keep Senate seat, rivals say",
-    "sentiment": "-0.966"
-  },
-  {
     "id": 7753,
     "mediaId": 129,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "Its a horrible problem; hell never be elected, and thats the educational process were going through right now, Gary Black, Georgias agriculture commissioner, said of domestic violence and assault allegations leveled at <span class='selected-term'>Herschel Walker</span>, his Trump-backed Republican rival to take on Democratic Senator Raphael Warnock in November.",
     "author": "",
     "title": "As G.O.P. Candidates Face Accusations, Rivals Tread Carefully",
     "sentiment": "-0.761"
   },
   {
-    "id": 8262,
-    "mediaId": 12,
-    "date": "2022-00-20",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "Walker has limited public campaign stops, but hes profited from private events",
-    "sentiment": "0.21"
-  },
-  {
     "id": 7509,
     "mediaId": 1576,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "There are still kids who will wear <span class='selected-term'>Herschel Walker</span>s football jerseys some 40 years after he played for the University of Georgia.",
     "author": "",
     "title": "Herschel Walker's ties to veterans program face scrutiny",

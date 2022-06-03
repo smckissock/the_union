@@ -5,14 +5,22 @@
   "headline": "Reprehensible: Oz condemns GOP opponents tweet on Islam",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/f99545a092f74da5bebd3f43209a9cf8.jpg?w=2560&h=1440&crop=1",
   "link": "https://thehill.com/news/campaign/3488709-reprehensible-oz-condemns-gop-opponents-tweet-on-islam/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1653,
+    2491,
+    3102,
+    428,
+    539,
+    571,
+    2862,
+    2865,
+    5003
   ],
   "sentences": [
     "In an interview, he took issue with a 2015 tweet from Barnette in which she wrote that Pedophilia is a Cornerstone of Islam.?\nOz, who would be the nations first Muslim senator, described the comments as disqualifying.?\nIts reprehensible that she would tweet out something that is defamatory to an entire religion,? Oz told The Associated Press.",

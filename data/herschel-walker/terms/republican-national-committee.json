@@ -1,44 +1,26 @@
 [
   {
-    "id": 7639,
-    "mediaId": 558,
-    "date": "2022-00-01",
-    "sentence": "ATLANTA (AP)  <span class='selected-term'>Herschel Walker</span> is expected to skip a second debate against his Republican rivals for a crucial U.S. Senate seat on Tuesday after missing the first one.",
-    "author": "SUDHIN THANAWALA",
-    "title": "Herschel Walker, other candidates test skipping debates",
-    "sentiment": "-0.908"
-  },
-  {
-    "id": 7629,
-    "mediaId": 237,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Asher Notheis",
-    "title": "Herschel Walker will skip second primary debate in Georgia Senate race",
-    "sentiment": "-0.72"
-  },
-  {
-    "id": 7634,
-    "mediaId": 1576,
-    "date": "2022-00-02",
-    "sentence": "And on Tuesday, <span class='selected-term'>Herschel Walker</span> is expected to miss a second debate against his Republican rivals for a crucial U.S. Senate seat after skipping the first one.",
-    "author": "",
-    "title": "Candidates test skipping debates without upsetting voters",
-    "sentiment": "-0.755"
-  },
-  {
     "id": 8042,
     "mediaId": 238,
-    "date": "2022-00-11",
+    "date": "3/11/2022 12:00:00 AM",
     "sentence": "The Washington Post asked Save America to provide winners for other contests it has held, which included meeting the president at a rally in South Carolina this weekend, meeting Trump at his palatial Florida club last year, playing golf with Trump and Georgia Senate candidate <span class='selected-term'>Herschel Walker</span> in Palm Beach, or receiving commemorative memorabilia  such as a football signed by Trump and Walker, a College Football Hall of Famer.",
     "author": "",
     "title": "Trump touted a contest for small-dollar donors to dine with him in New Orleans. But no winner met him.",
     "sentiment": "0"
   },
   {
+    "id": 7976,
+    "mediaId": 675,
+    "date": "3/22/2022 12:00:00 AM",
+    "sentence": "In the Senate, black Republicans like <span class='selected-term'>Herschel Walker</span> and Richard Irvin are competing in GOP primaries to challenge incumbent Democrats.",
+    "author": "WND News Services",
+    "title": "GOP steps up recruitment efforts for black candidates and voters",
+    "sentiment": "0"
+  },
+  {
     "id": 7745,
     "mediaId": 305,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "Senate candidate <span class='selected-term'>Herschel Walker</span> skipped the first major Republican debate with less than a month until early voting begins in the Georgia primariesmostly sticking to controlled appearances and rallies.",
     "author": "Murjani Rawls",
     "title": "The Republican National Committee's Decision to Withdraw From Future Debates Is No Big Surprise",
@@ -47,7 +29,7 @@
   {
     "id": 7733,
     "mediaId": 238,
-    "date": "2022-00-17",
+    "date": "4/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Who's giving to Trump's super PAC",
@@ -56,19 +38,37 @@
   {
     "id": 6253,
     "mediaId": 136,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "Mehmet Oz in Pennsylvania's Senate Republican primary and <span class='selected-term'>Herschel Walker</span> in the Georgia Senate race.",
     "author": "Robert Reich",
     "title": "We're Running Out of Time to Hold Trump Accountable | Opinion",
     "sentiment": "0.423"
   },
   {
-    "id": 7976,
-    "mediaId": 675,
-    "date": "2022-00-22",
-    "sentence": "In the Senate, black Republicans like <span class='selected-term'>Herschel Walker</span> and Richard Irvin are competing in GOP primaries to challenge incumbent Democrats.",
-    "author": "WND News Services",
-    "title": "GOP steps up recruitment efforts for black candidates and voters",
-    "sentiment": "0"
+    "id": 7639,
+    "mediaId": 558,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "ATLANTA (AP)  <span class='selected-term'>Herschel Walker</span> is expected to skip a second debate against his Republican rivals for a crucial U.S. Senate seat on Tuesday after missing the first one.",
+    "author": "SUDHIN THANAWALA",
+    "title": "Herschel Walker, other candidates test skipping debates",
+    "sentiment": "-0.908"
+  },
+  {
+    "id": 7629,
+    "mediaId": 237,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Asher Notheis",
+    "title": "Herschel Walker will skip second primary debate in Georgia Senate race",
+    "sentiment": "-0.72"
+  },
+  {
+    "id": 7634,
+    "mediaId": 1576,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "And on Tuesday, <span class='selected-term'>Herschel Walker</span> is expected to miss a second debate against his Republican rivals for a crucial U.S. Senate seat after skipping the first one.",
+    "author": "",
+    "title": "Candidates test skipping debates without upsetting voters",
+    "sentiment": "-0.755"
   }
 ]

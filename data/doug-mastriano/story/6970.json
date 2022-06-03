@@ -5,14 +5,23 @@
   "headline": "'Whiplash-inducing': Trump is 'still sowing chaos' in Pennsylvania GOP politics",
   "image": "https://www.rawstory.com/media-library/donald-trump.jpg?id=29673990&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/trump-pennsylvania-republicans/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bob Brigham",
   "authorUrl": "https://www.rawstory.com/u/bob_brigham",
   "termIds": [
-    3102
+    718,
+    1133,
+    1147,
+    1282,
+    1997,
+    3102,
+    146,
+    428,
+    2992,
+    2862
   ],
   "sentences": [
     "In Pennsylvanias race for governor, some Republican insiders worry the crowded field could enable someone like Mastriano  a leading election denier who many in the GOP see as a deeply flawed general election candidate  to win the nomination with only a fraction of the vote.\"",

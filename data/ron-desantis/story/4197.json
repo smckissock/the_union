@@ -5,14 +5,23 @@
   "headline": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers",
   "image": "https://d.newsweek.com/en/full/2029350/disney-world-self-governance-consequences.webp?w=790&f=5d139b29e3d474f2bc3744057c8bc6d3",
   "link": "https://www.newsweek.com/dissolving-disney-government-creates-dire-situation-1702663",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Thomas Kika",
   "authorUrl": "https://www.newsweek.com/authors/thomas-kika",
   "termIds": [
-    661
+    661,
+    4243,
+    4286,
+    4558,
+    524,
+    3292,
+    2661,
+    2849,
+    5082,
+    5109
   ],
   "sentences": [
     "Stewart was joined at the press conference by fellow Democrats State Senator Victor Torres and State Senator Randolph Bracy, who represent portions of Orange and Osceola counties that could potentially be impacted by the dissolution of Reedy Creek, which the lawmakers branded as \"harebrained.\"",

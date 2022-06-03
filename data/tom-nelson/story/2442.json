@@ -5,7 +5,7 @@
   "headline": "Biden gives Democrats the anti-Trump speech they've been waiting for",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2022_01/3528431/220106-analysis-joe-biden-ew-619p.jpg",
   "link": "https://www.nbcnews.com/politics/white-house/biden-gives-democrats-anti-trump-speech-they-ve-been-waiting-n1287141",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,16 @@
   "authorUrl": "",
   "termIds": [
     741,
+    765,
     802,
+    1147,
     1568,
-    2039
+    2039,
+    2052,
+    2087,
+    146,
+    2945,
+    2972
   ],
   "sentences": [
     "In a forceful speech roundly described as his most powerful since he took office, Biden pinned responsibility for the horrors of the Jan. 6 Capitol attack on Trump, painting him as a sore loser whose inability to embrace the truth of his defeat only deepened the political chasm dividing Americans.",

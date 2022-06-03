@@ -5,14 +5,23 @@
   "headline": "Georgia Poll: Brian Kemp Holds 38-Point Lead over David Perdue",
   "image": "https://media.breitbart.com/media/2022/02/GettyImages-1058497456-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/06/georgia-poll-brian-kemp-holds-38-point-lead-over-david-perdue/",
-  "sentiment": "0.0",
+  "sentiment": "0.177",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ashley Oliver",
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
-    2095
+    815,
+    1147,
+    1951,
+    2095,
+    4325,
+    40,
+    428,
+    501,
+    571,
+    2672
   ],
   "sentences": [
     "The president has rallied and fundraised for Perdue, and as recently as this week  at a tele-rally  warned that Georgia Republicans' favored U.S. Senate candidate, former football star Herschel Walker, could face added challenges in his race against Democrat incumbent Sen. Raphael Warnock should Kemp be the gubernatorial nominee.",

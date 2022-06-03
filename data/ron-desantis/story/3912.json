@@ -5,14 +5,18 @@
   "headline": "Sales tax holidays, gas tax exemption: whats in the tax package DeSantis just signed",
   "image": "https://www.tampabay.com/resizer//cB_0TjyG51WvKK5cCKiCaEh2O8I=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/TYT5VM4R4NGVPP7IHTGT7UAWUI.JPG",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/06/sales-tax-holidays-gas-tax-exemption-whats-in-the-tax-package-desantis-just-signed/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lawrence Mower",
   "authorUrl": "https://www.tampabay.com/author/lawrence-mower",
   "termIds": [
-    661
+    661,
+    3812,
+    3282,
+    2661,
+    2926
   ],
   "sentences": [
     "Disaster preparedness supplies: May 28  June 10, 2022\nThe states annual two-week disaster preparedness tax holiday continues this year, with a slew of items exempt from state and county sales taxes, including:\nFlashlights and lanterns worth $40 or less\nA package of batteries worth $50 or less\nCoolers worth $60 or less\nPortable generators worth $1,000 or less\nVarious pet supplies\n3. Freedom Week sales tax holiday: July 1  July 7, 2022\nFor a week, tickets to live sporting and music events, movies, museums, state parks and festivals will be tax-free.",

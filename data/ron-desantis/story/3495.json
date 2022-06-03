@@ -5,14 +5,17 @@
   "headline": "Florida Student Fighting 'Don't Say Gay' Law Can't Run for Class President",
   "image": "https://d.newsweek.com/en/full/2039729/florida-student-fighting-dont-say-gay-bill.webp?w=790&f=3361dec82427921a3561b1317995ff45",
   "link": "https://www.newsweek.com/florida-student-fighting-dont-say-gay-law-cant-run-class-president-1707607",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Fatma Khaled",
   "authorUrl": "https://www.newsweek.com/authors/fatma-khaled",
   "termIds": [
-    661
+    661,
+    4185,
+    3271,
+    2661
   ],
   "sentences": [
     "The Florida high school student on Tuesday also continued to defend his stance against the bill and said that the protests organized at his school in March saw \"more than 500 students gathered to call on Florida lawmakers to stop policing our education for political gain.\"",

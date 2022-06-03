@@ -5,14 +5,16 @@
   "headline": "Disneys Clash With Florida Has CEOs on Alert",
   "image": "https://images.wsj.net/im-532489/social",
   "link": "https://www.wsj.com/articles/disneys-clash-with-florida-has-ceos-on-alert-11651440367",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Emily Glazer",
   "authorUrl": "https://www.wsj.com/news/author/emily-glazer",
   "termIds": [
-    661
+    661,
+    524,
+    2661
   ],
   "sentences": [
     "Ron DeSantis has alarmed leaders across the corporate sphere, according to executives and their advisers, and heightened the challenges for chief executive officers navigating charged topics.",

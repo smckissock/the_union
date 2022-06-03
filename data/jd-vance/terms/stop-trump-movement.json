@@ -1,17 +1,8 @@
 [
   {
-    "id": 6042,
-    "mediaId": 19,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Matthew Boyle",
-    "title": "Swamp Establishment, Donor Class Rush into Ohio to Try to Stop Trump-Backed J.D. Vance",
-    "sentiment": "0"
-  },
-  {
     "id": 6230,
     "mediaId": 136,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Zoe Strozewski",
     "title": "Ohio Republicans Urge Trump Rally Boycott Over 'Terrible' Vance Endorsement",
@@ -20,7 +11,7 @@
   {
     "id": 6235,
     "mediaId": 169,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Igor Derysh",
     "title": "Go f**k yourself: Trump and Don Jr. war with top GOP donor who bought ads opposing his candidate",
@@ -29,10 +20,28 @@
   {
     "id": 6201,
     "mediaId": 136,
-    "date": "2022-00-23",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Alexandra Hutzler",
     "title": "How to Watch Trump Ohio Rally: Time, Live Stream for GOP Event",
     "sentiment": "-0.378"
+  },
+  {
+    "id": 6042,
+    "mediaId": 19,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Matthew Boyle",
+    "title": "Swamp Establishment, Donor Class Rush into Ohio to Try to Stop Trump-Backed J.D. Vance",
+    "sentiment": "0"
+  },
+  {
+    "id": 8612,
+    "mediaId": 238,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion Has Trump lost his hold on the GOP? Hardly.",
+    "sentiment": "0"
   }
 ]

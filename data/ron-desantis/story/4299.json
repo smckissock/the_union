@@ -5,14 +5,23 @@
   "headline": "Florida lost 70,000 people to Covid. Its still not prepared for the next wave.",
   "image": "https://www.politico.com/dims4/default/4cf32a9/2147483647/legacy_thumbnail/1200x799%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Faa%2Fcf%2F68faf19147f4a40b874ffa0bf3bc%2F20220501-floridatesting-getty-773.jpg",
   "link": "https://www.politico.com/news/2022/05/01/florida-lost-70-000-people-to-covid-its-still-not-prepared-for-the-next-wave-00029091",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    895,
+    3750,
+    4341,
+    4703,
+    3285,
+    2582,
+    2661,
+    5020,
+    5138
   ],
   "sentences": [
     "A health care worker prepares to administer a Covid-19 test in North Miami, Fla. | Joe Raedle/Getty Images\nBy Arek Sarkissian\n 05/01/2022 07:01 AM EDT\nTALLAHASSEE, Fla.  As Covid infections begin creeping up again across the country, current and former health officials in Florida are warning that the state remains woefully underprepared to handle the next wave of the pandemic.",

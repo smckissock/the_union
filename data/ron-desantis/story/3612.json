@@ -5,14 +5,23 @@
   "headline": "The Baby Formula Crisis",
   "image": "",
   "link": "https://www.nytimes.com/2022/05/13/briefing/baby-formula-shortage-us-economy.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1147,
+    2107,
+    2250,
+    2465,
+    4516,
+    4537,
+    4846,
+    4853,
+    3528
   ],
   "sentences": [
     "As my colleague Amanda Morris, who has been reporting on the shortage, says: Most of the parents I spoke with around the country who were feeling the impact of this the hardest were ones that either had limited resources or time, or ones whose babies had allergies or disabilities that severely limited their choices.?\nF.D.A.",

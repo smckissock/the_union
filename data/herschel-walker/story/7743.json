@@ -5,14 +5,22 @@
   "headline": "Herschel Walkers campaign raises $5.5M for Senate bid",
   "image": "https://www.ajc.com/resizer/qh8U6w-B4I9Hwn9kRtroy1BWCxs=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/7FY5WK3WKXZR3ZTF4POK3O6BYU.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/herschel-walkers-campaign-raises-55m-for-senate-bid/SYH4V27JENDAVDQ27Z6B23WTPA/",
-  "sentiment": "0.0",
+  "sentiment": "-0.614",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Bluestein",
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
-    815
+    815,
+    1136,
+    1147,
+    1312,
+    1765,
+    428,
+    571,
+    2672,
+    2945
   ],
   "sentences": [
     "Walkers sky-high name recognition has helped him remain atop the GOP polls despite new scrutiny into his past, including reports that have detailed violence incidents against women, a pattern of exaggerating his business record and falsehoods about his academic experience.",

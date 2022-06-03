@@ -5,14 +5,23 @@
   "headline": "Former GOP senator likely billed taxpayers for her private jet  while claiming it would save them money: report",
   "image": "https://www.rawstory.com/media-library/kelly-loeffler-asks-donald-trump-s-supporters-for-money-on-parler-and-it-massively-backfires.jpg?id=24815970&width=1200&coordinates=0%2C33%2C0%2C34&height=600",
   "link": "https://www.rawstory.com/kelly-loeffler-jet/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Chapman",
   "authorUrl": "https://www.rawstory.com/u/matthew_chapman",
   "termIds": [
-    2095
+    1131,
+    2095,
+    2493,
+    4192,
+    4633,
+    227,
+    428,
+    571,
+    3360,
+    2672
   ],
   "sentences": [
     "It is theoretically possible that this arrangement saved taxpayers money  but it likely did the opposite, according to the report: \"The 2017 Trump tax cuts created astounding loopholes for executive jet owners, effectively turning private aircraft into flying tax shelters.",

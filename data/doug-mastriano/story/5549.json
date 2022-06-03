@@ -5,15 +5,25 @@
   "headline": "Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up",
   "image": "https://static01.nyt.com/images/2022/05/13/multimedia/13onpolitics-barnette/13onpolitics-barnette-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/05/13/us/politics/fox-news-barnette-oz-pennsylvania.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
+    683,
+    718,
+    1110,
+    1148,
+    1839,
     3102,
-    3103
+    3103,
+    4616,
+    4673,
+    199,
+    200,
+    2862
   ],
   "sentences": [
     "When an Inquirer reporter showed up at a campaign event in Lancaster County last month, two security guards asked him to leave,? the Inquirer reporters Juliana Feliciano Reyes and Andrew Seidman wrote in an article on May 4. A printout of his photograph and those of other journalists was visible at the check-in desk.?\nA porous media-campaign barrier\nFox opinion hosts enjoy a high degree of autonomy, leading at times to a blurring of journalistic and campaign roles that would be anathema at many other outfits  including the networks archrival, CNN, which fired Chris Cuomo last year as the scope of his entanglement with his brother, former Gov.",

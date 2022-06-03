@@ -5,14 +5,21 @@
   "headline": "Many Republicans think Doug Mastriano is 'a threat to democracy' and secretly 'pray Dems win': Ex-Ted Cruz aide",
   "image": "https://www.rawstory.com/media-library/image.jpg?id=29821080&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/republicans-hate-doug-mastriano/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah K. Burris",
   "authorUrl": "https://www.rawstory.com/u/sarah_k_burris",
   "termIds": [
-    3102
+    1147,
+    1710,
+    1729,
+    1990,
+    3102,
+    146,
+    428,
+    2862
   ],
   "sentences": [
     "Commenting further on Twitter, Carpenter claimed that many Republicans \"will look you in the face, tell you Mastriano is an awful threat to democracy, and do absolutely nothing to stop him,\" even as they secretly \"pray Dems win.\"",

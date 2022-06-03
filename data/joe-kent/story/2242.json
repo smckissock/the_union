@@ -5,15 +5,23 @@
   "headline": "U.S. Republicans try to out-Trump each other with tough border rhetoric ahead of election",
   "image": "https://www.reuters.com/resizer/_mGys1tiizaFmF8IL9ZdMSwVmPs=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CHP62V6KOZPLTMFDHC4KRRHNCY.jpg",
   "link": "https://www.reuters.com/world/us/us-republicans-try-out-trump-each-other-with-tough-border-rhetoric-ahead-2022-02-14/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Reuters",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Alexandra Ulmer",
   "authorUrl": "https://www.reuters.com/authors/alexandra-ulmer/",
   "termIds": [
+    1147,
+    1172,
     2006,
-    2125
+    2087,
+    2125,
+    2217,
+    2379,
+    428,
+    2550,
+    2945
   ],
   "sentences": [
     "Nonetheless, NumbersUSA, a hawkish advocacy group that pushes for lower levels of immigration, said it had received more responses than usual to an election-year survey it conducts among candidates to rate them on their hardline immigration stances - suggesting candidates are eager to establish their Trump-esque credentials.",

@@ -5,15 +5,25 @@
   "headline": "Poll: Joe Biden's Approval Rating Is 36 Percent, Impacting Battleground States",
   "image": "https://media.breitbart.com/media/2022/03/joe-biden-polls-number-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/03/21/poll-joe-bidens-approval-rating-is-36-percent-impacting-battleground-states/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Wendell HusebÃ¸",
   "authorUrl": "https://www.breitbart.com/author/whusebo/",
   "termIds": [
+    815,
+    886,
+    1119,
+    1147,
     1646,
-    1844
+    1844,
+    1951,
+    2087,
+    4325,
+    571,
+    2595,
+    2672
   ],
   "sentences": [
     "Sen. Catherine Cortez Masto (D-NV) will have a tough time defending her seat against likely Republican and Trump endorsed challenger Adam Laxalt with Biden's approval numbers so low.",

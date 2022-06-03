@@ -5,14 +5,21 @@
   "headline": "'It's A Cult': Mike Huckabee Accused of Indoctrinating Kids With Trump Book",
   "image": "https://d.newsweek.com/en/full/2030801/mike-huckabee-trump-book.webp?w=790&f=acde76d6a255d366d64e3b3e9b9ab053",
   "link": "https://www.newsweek.com/mike-huckabee-trump-book-guide-commercial-1703318",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ewan Palmer",
   "authorUrl": "https://www.newsweek.com/authors/ewan-palmer",
   "termIds": [
-    661
+    661,
+    912,
+    1147,
+    1527,
+    3914,
+    3202,
+    2661,
+    2945
   ],
   "sentences": [
     "On Tuesday, an ad for The Kids Guide to President Trump, which is part of a series of \"The Kids Guide\" books, magazines and videos operated by Huckabee's EverBright Media, was featured on Fox News and shared on Twitter by journalist Aaron Rupar.",

@@ -5,7 +5,7 @@
   "headline": "MSNBC's Joy Reid praises Mitt Romney: At least he has a soul and won't degrade himself",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a61c2e9-2fb2-40e5-bfde-53f86d492a60/fc351e0f-40b7-4c7c-9937-1e34aefa438c/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/joy-reid-mitt-romney-soul",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,12 @@
   "authorUrl": "https://www.foxnews.com/person/k/lindsay-kornick",
   "termIds": [
     815,
-    2303
+    2303,
+    2465,
+    4715,
+    5851,
+    327,
+    428
   ],
   "sentences": [
     "Going around with Mitt Romney and his Secret Service detail through the affected areas of New Jersey would actually cause more problems and wouldnt help at all.\"",

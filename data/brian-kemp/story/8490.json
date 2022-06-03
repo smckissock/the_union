@@ -5,14 +5,23 @@
   "headline": "Republicans grow more aggressive in openly defying Trump",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/kempbrian_pencemike_052722ap-john-bazemore_charles-krupa_gop-aggressive.jpeg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3504347-republicans-grow-more-aggressive-in-openly-defying-trump/",
-  "sentiment": "0.0",
+  "sentiment": "-0.475",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Max Greenwood",
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
-    2095
+    1147,
+    1434,
+    2087,
+    2095,
+    2136,
+    2409,
+    4325,
+    4807,
+    428,
+    2672
   ],
   "sentences": [
     "The consultant said that Trumps singular focus on his 2020 electoral loss to President Biden may be creating an opening for other prospective White House hopefuls, who see an opportunity to sell themselves to voters as adherents of Trumps so-called America first political movement, but without the baggage of the former president.",

@@ -5,7 +5,7 @@
   "headline": "The Jolt: Prepare for surprises this week in Georgia politics",
   "image": "https://www.ajc.com/resizer/_KwEj3S8kufx4yuKTukq_se-7EE=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/FV4BWGOG4EXFWLZNUSQNWW2TYI.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-prepare-for-surprises-this-week-in-georgia-politics/43F5DV4AINCTXDTJCSGW6XQ7IM/",
-  "sentiment": "0.0",
+  "sentiment": "-0.391",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
     815,
-    2095
+    1178,
+    1368,
+    1419,
+    1839,
+    2095,
+    2355,
+    4325,
+    2672,
+    2942
   ],
   "sentences": [
     "Those economic sanctions, of course, will be felt here in the U.S.\nWith gas prices already nearing record levels, there is concern that additional limits on energy imports could send the price at the pump soaring even higher  and fuel more GOP attacks against Bidens administration.",

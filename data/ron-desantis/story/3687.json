@@ -5,14 +5,17 @@
   "headline": "Florida Congressional Map Blocked on Racial Grounds",
   "image": "",
   "link": "https://www.wsj.com/articles/florida-congressional-map-blocked-on-racial-grounds-11652296560",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Arian Campo-Flores",
   "authorUrl": "https://www.wsj.com/news/author/arian-campo-flores",
   "termIds": [
-    661
+    661,
+    428,
+    2661,
+    2926
   ],
   "sentences": [
     "I am finding that the enacted map is unconstitutionalbecause it diminishes African-Americans ability to elect the representative of their choice,? said Judge J. Layne Smith of the Second Judicial Circuit in Tallahassee during a video hearing on Wednesday.",

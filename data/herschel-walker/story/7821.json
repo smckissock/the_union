@@ -5,14 +5,23 @@
   "headline": "Clarence Thomas publicly spotted for first time since being hospitalized",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3df92c92-c872-43e2-9c05-cb68285919df/6e1e571f-b512-4353-8820-f4d97fe42110/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/clarence-thomas-publicly-spotted-for-first-time-since-being-released-from-hospital",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Andrew Mark Miller",
   "authorUrl": "https://www.foxnews.com/person/m/andrew-mark-miller",
   "termIds": [
-    815
+    812,
+    815,
+    827,
+    4819,
+    5811,
+    5973,
+    482,
+    5594,
+    5605,
+    2672
   ],
   "sentences": [
     "A campaign staffer for former NFL star Herschel Walker, who is running as a Republican for a Senate seat in Georgia, posted a photo with Clarence Thomas on Friday afternoon marking the first time Thomas has been seen since being released from a hospital on March 25 following an undisclosed illness.",

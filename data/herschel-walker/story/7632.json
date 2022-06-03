@@ -5,14 +5,22 @@
   "headline": "Trump rallies support for Nebraska candidate, insisting he's 'innocent' of sexual assault",
   "image": "https://images.dailykos.com/images/1065008/story_image/GettyImages-1394862913.jpg?1651506674",
   "link": "https://www.dailykos.com/story/2022/5/2/2095274/-Trump-s-closing-pitch-to-Nebraska-voters-Accused-serial-groper-is-a-very-good-man",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Laura Clawson",
   "authorUrl": "/users/laura clawson",
   "termIds": [
-    815
+    815,
+    1147,
+    1839,
+    1902,
+    2136,
+    2470,
+    3010,
+    428,
+    2816
   ],
   "sentences": [
     "And in addition to the Thomas-Trump-Kavanaugh list Herbster was so eager to associate himself with, Trumps endorsements include Herschel Walker, a U.S. Senate candidate in Georgia who has been accused of threatening the lives of two women, as well as Sean Parnell, who ended his U.S. Senate campaign in Pennsylvania last year amid domestic abuse allegations, and Roy Moore, a 2017 candidate for U.S. Senate in Alabama who was accused by two women of initiating unwanted sexual encounters when Moore was in his 30s and they were 16 and 14, as The Washington Post summarizes.",

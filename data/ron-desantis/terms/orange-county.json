@@ -1,242 +1,26 @@
 [
   {
-    "id": 4306,
-    "mediaId": 1067,
-    "date": "2022-00-01",
-    "sentence": "Gov.<span class='selected-term'>Ron DeSantis</span> has been on a rampage, ramming through a barrage of legislation on culture war issues that are nothing more than buzzwords.",
-    "author": "",
-    "title": "DeSantis shouldnt alienate GOP centrists | Letters",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4306,
-    "mediaId": 1067,
-    "date": "2022-00-01",
-    "sentence": "Gov.<span class='selected-term'>Ron DeSantis</span> has been on a rampage, ramming through a barrage of legislation on culture war issues that are nothing more than buzzwords.",
-    "author": "",
-    "title": "DeSantis shouldnt alienate GOP centrists | Letters",
-    "sentiment": "0.177"
-  },
-  {
-    "id": 4186,
-    "mediaId": 1067,
-    "date": "2022-00-02",
-    "sentence": "No mencion al gobernador de Florida, <span class='selected-term'>Ron DeSantis</span>, un republicano cuya oposicin vocal a los mandatos de uso de mscaras faciales y vacunacin contra el COVID-19 a menudo estaba en desacuerdo con las opiniones personales de Pino y las del alcalde del condado de Orange, Jerry Demings, un demcrata y su nuevo jefe.",
-    "author": "Orlando Sentinel Staff",
-    "title": "Como jefe de Servicios de Salud del Condado de Orange, Ral Pino espera trabajar bien con el estado",
-    "sentiment": "0"
-  },
-  {
-    "id": 4186,
-    "mediaId": 1067,
-    "date": "2022-00-02",
-    "sentence": "No mencion al gobernador de Florida, <span class='selected-term'>Ron DeSantis</span>, un republicano cuya oposicin vocal a los mandatos de uso de mscaras faciales y vacunacin contra el COVID-19 a menudo estaba en desacuerdo con las opiniones personales de Pino y las del alcalde del condado de Orange, Jerry Demings, un demcrata y su nuevo jefe.",
-    "author": "Orlando Sentinel Staff",
-    "title": "Como jefe de Servicios de Salud del Condado de Orange, Ral Pino espera trabajar bien con el estado",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4196,
-    "mediaId": 1067,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Stephen Hudak",
-    "title": "As head of Orange County Health Services, Raul Pino hopes to work well with state",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4197,
-    "mediaId": 136,
-    "date": "2022-00-02",
-    "sentence": "Calling Governor <span class='selected-term'>Ron DeSantis</span>' plan to dissolve Disney's self-governance district \"harebrained,\" a trio of Democratic Florida lawmakers spoke out against the move Monday, saying it could lead to higher taxes for the counties where Walt Disney World is located.",
-    "author": "Thomas Kika",
-    "title": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers",
-    "sentiment": "0"
-  },
-  {
-    "id": 4197,
-    "mediaId": 136,
-    "date": "2022-00-02",
-    "sentence": "Calling Governor <span class='selected-term'>Ron DeSantis</span>' plan to dissolve Disney's self-governance district \"harebrained,\" a trio of Democratic Florida lawmakers spoke out against the move Monday, saying it could lead to higher taxes for the counties where Walt Disney World is located.",
-    "author": "Thomas Kika",
-    "title": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4270,
-    "mediaId": 19,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "David Ng",
-    "title": "HBOs John Oliver: Disney Should Pay More Taxes but Not Because of Dipsh*t DeSantis",
-    "sentiment": "0"
-  },
-  {
-    "id": 4270,
-    "mediaId": 19,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "David Ng",
-    "title": "HBOs John Oliver: Disney Should Pay More Taxes but Not Because of Dipsh*t DeSantis",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4037,
-    "mediaId": 1067,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Skyler Swisher",
-    "title": "U.S. Senate candidate leads first lawsuit challenging dissolution of Disney Worlds Reedy Creek",
-    "sentiment": "0"
-  },
-  {
-    "id": 4037,
-    "mediaId": 1067,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Skyler Swisher",
-    "title": "U.S. Senate candidate leads first lawsuit challenging dissolution of Disney Worlds Reedy Creek",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4052,
-    "mediaId": 98,
-    "date": "2022-00-04",
-    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
-    "author": "Ryan Faughnder",
-    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
-    "sentiment": "0"
-  },
-  {
-    "id": 4052,
-    "mediaId": 98,
-    "date": "2022-00-04",
-    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
-    "author": "Ryan Faughnder",
-    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4004,
-    "mediaId": 239,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "Susan Ferrechio",
-    "title": "Florida residents sue to block state from dissolving Disneys special tax district",
-    "sentiment": "0"
-  },
-  {
-    "id": 4004,
-    "mediaId": 239,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "Susan Ferrechio",
-    "title": "Florida residents sue to block state from dissolving Disneys special tax district",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3782,
-    "mediaId": 238,
-    "date": "2022-00-10",
-    "sentence": "",
-    "author": "",
-    "title": "Va. school board delays vote on telling parents how students self-identify",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3737,
-    "mediaId": 1390,
-    "date": "2022-00-11",
-    "sentence": "",
-    "author": "Tyler O'Neil",
-    "title": "DeSantis notches legal win in battle over law revoking Disney's special tax district",
-    "sentiment": "0"
-  },
-  {
-    "id": 3737,
-    "mediaId": 1390,
-    "date": "2022-00-11",
-    "sentence": "",
-    "author": "Tyler O'Neil",
-    "title": "DeSantis notches legal win in battle over law revoking Disney's special tax district",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3674,
-    "mediaId": 19,
-    "date": "2022-00-12",
-    "sentence": "The case is Michael Foronda v. <span class='selected-term'>Ron DeSantis</span> in the U.S. District Court for the Southern District of Florida.",
-    "author": "Sean Moran",
-    "title": "DeSantis Win: Judge Dismisses Lawsuit Challenging Floridas Law to Dissolve Disneys Special District",
-    "sentiment": "0"
-  },
-  {
-    "id": 3674,
-    "mediaId": 19,
-    "date": "2022-00-12",
-    "sentence": "The case is Michael Foronda v. <span class='selected-term'>Ron DeSantis</span> in the U.S. District Court for the Southern District of Florida.",
-    "author": "Sean Moran",
-    "title": "DeSantis Win: Judge Dismisses Lawsuit Challenging Floridas Law to Dissolve Disneys Special District",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3562,
-    "mediaId": 98,
-    "date": "2022-00-16",
-    "sentence": "The most intriguing politician in the Republican Party is <span class='selected-term'>Ron DeSantis</span>, an uncharismatic governor whos trying to make the GOPs culture war appealing to suburban mothers, writes Washington columnist Doyle McManus.",
-    "author": "",
-    "title": "Todays Headlines: Churchgoers hogtied gunman after deadly Laguna Woods shooting",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3573,
-    "mediaId": 1164,
-    "date": "2022-00-16",
-    "sentence": "",
-    "author": "Don Jacobson",
-    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
-    "sentiment": "0"
-  },
-  {
-    "id": 3573,
-    "mediaId": 1164,
-    "date": "2022-00-16",
-    "sentence": "",
-    "author": "Don Jacobson",
-    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4389,
     "mediaId": 195,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kelsey Carolan",
     "title": "Disney says Florida cant dissolve special district without paying $1B debt",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4411,
-    "mediaId": 558,
-    "date": "2022-00-29",
-    "sentence": "",
-    "author": "Colin Lodewick",
-    "title": "The Disney fiasco could have ominous consequences for Floridas government, major credit agency warns",
     "sentiment": "0"
   },
   {
     "id": 4411,
     "mediaId": 558,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Colin Lodewick",
     "title": "The Disney fiasco could have ominous consequences for Floridas government, major credit agency warns",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4433,
     "mediaId": 136,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
     "author": "Ewan Palmer",
     "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
@@ -245,46 +29,154 @@
   {
     "id": 4433,
     "mediaId": 136,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> has denied that stripping Disney of its special privileges and tax breaks will mean local residents will have to foot a billion-dollar bill instead.",
     "author": "Ewan Palmer",
     "title": "Ron DeSantis Denies Florida Taxpayers Will Pay Off Disney's $1bn Debts",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4448,
     "mediaId": 558,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "This law, I see as an effort to take away the years that weve put in trying to make this a better place for kids so they dont have to grow up like I grew up, where I thought I was all alone and then I barely made it through high school.?\nFloridas teachers, students, and LGBTQ community are continuing to speak out against the bill that was signed by right-wing Trump-supporting governor <span class='selected-term'>Ron DeSantis</span> last month.",
     "author": "Michael Sainato",
     "title": "Hurtful and insulting: Florida teachers react to the dont say gay bill",
     "sentiment": "0"
   },
   {
-    "id": 4448,
-    "mediaId": 558,
-    "date": "2022-00-29",
-    "sentence": "This law, I see as an effort to take away the years that weve put in trying to make this a better place for kids so they dont have to grow up like I grew up, where I thought I was all alone and then I barely made it through high school.?\nFloridas teachers, students, and LGBTQ community are continuing to speak out against the bill that was signed by right-wing Trump-supporting governor <span class='selected-term'>Ron DeSantis</span> last month.",
-    "author": "Michael Sainato",
-    "title": "Hurtful and insulting: Florida teachers react to the dont say gay bill",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4449,
     "mediaId": 302,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Disney special district dispute could weaken other Florida government bonds, Fitch Ratings warns",
     "sentiment": "0"
   },
   {
-    "id": 4449,
-    "mediaId": 302,
-    "date": "2022-00-29",
+    "id": 4306,
+    "mediaId": 1067,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "Gov.<span class='selected-term'>Ron DeSantis</span> has been on a rampage, ramming through a barrage of legislation on culture war issues that are nothing more than buzzwords.",
+    "author": "",
+    "title": "DeSantis shouldnt alienate GOP centrists | Letters",
+    "sentiment": "0"
+  },
+  {
+    "id": 4306,
+    "mediaId": 1067,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "Gov.<span class='selected-term'>Ron DeSantis</span> has been on a rampage, ramming through a barrage of legislation on culture war issues that are nothing more than buzzwords.",
+    "author": "",
+    "title": "DeSantis shouldnt alienate GOP centrists | Letters",
+    "sentiment": "0.177"
+  },
+  {
+    "id": 4186,
+    "mediaId": 1067,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "No mencion al gobernador de Florida, <span class='selected-term'>Ron DeSantis</span>, un republicano cuya oposicin vocal a los mandatos de uso de mscaras faciales y vacunacin contra el COVID-19 a menudo estaba en desacuerdo con las opiniones personales de Pino y las del alcalde del condado de Orange, Jerry Demings, un demcrata y su nuevo jefe.",
+    "author": "Orlando Sentinel Staff",
+    "title": "Como jefe de Servicios de Salud del Condado de Orange, Ral Pino espera trabajar bien con el estado",
+    "sentiment": "0"
+  },
+  {
+    "id": 4196,
+    "mediaId": 1067,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Stephen Hudak",
+    "title": "As head of Orange County Health Services, Raul Pino hopes to work well with state",
+    "sentiment": "0"
+  },
+  {
+    "id": 4197,
+    "mediaId": 136,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "Calling Governor <span class='selected-term'>Ron DeSantis</span>' plan to dissolve Disney's self-governance district \"harebrained,\" a trio of Democratic Florida lawmakers spoke out against the move Monday, saying it could lead to higher taxes for the counties where Walt Disney World is located.",
+    "author": "Thomas Kika",
+    "title": "Dissolving Disney Government Creates 'Dire' Situation: Florida Lawmakers",
+    "sentiment": "0"
+  },
+  {
+    "id": 4270,
+    "mediaId": 19,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David Ng",
+    "title": "HBOs John Oliver: Disney Should Pay More Taxes but Not Because of Dipsh*t DeSantis",
+    "sentiment": "0"
+  },
+  {
+    "id": 4037,
+    "mediaId": 1067,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Skyler Swisher",
+    "title": "U.S. Senate candidate leads first lawsuit challenging dissolution of Disney Worlds Reedy Creek",
+    "sentiment": "0"
+  },
+  {
+    "id": 4052,
+    "mediaId": 98,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "A handful of Florida residents are suing the state and its Republican governor, <span class='selected-term'>Ron DeSantis</span>, over the decision to dissolve Walt Disney Co.'s special self-governing district near Orlando, saying the move will saddle them with the companys $1-billion debt burden.",
+    "author": "Ryan Faughnder",
+    "title": "Disney Florida fallout: Taxpayers sue DeSantis for axing companys special tax status",
+    "sentiment": "0"
+  },
+  {
+    "id": 4004,
+    "mediaId": 239,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Susan Ferrechio",
+    "title": "Florida residents sue to block state from dissolving Disneys special tax district",
+    "sentiment": "0"
+  },
+  {
+    "id": 3782,
+    "mediaId": 238,
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
-    "title": "Disney special district dispute could weaken other Florida government bonds, Fitch Ratings warns",
-    "sentiment": "0.0"
+    "title": "Va. school board delays vote on telling parents how students self-identify",
+    "sentiment": "0"
+  },
+  {
+    "id": 3737,
+    "mediaId": 1390,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Tyler O'Neil",
+    "title": "DeSantis notches legal win in battle over law revoking Disney's special tax district",
+    "sentiment": "0"
+  },
+  {
+    "id": 3674,
+    "mediaId": 19,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "The case is Michael Foronda v. <span class='selected-term'>Ron DeSantis</span> in the U.S. District Court for the Southern District of Florida.",
+    "author": "Sean Moran",
+    "title": "DeSantis Win: Judge Dismisses Lawsuit Challenging Floridas Law to Dissolve Disneys Special District",
+    "sentiment": "0"
+  },
+  {
+    "id": 3562,
+    "mediaId": 98,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "The most intriguing politician in the Republican Party is <span class='selected-term'>Ron DeSantis</span>, an uncharismatic governor whos trying to make the GOPs culture war appealing to suburban mothers, writes Washington columnist Doyle McManus.",
+    "author": "",
+    "title": "Todays Headlines: Churchgoers hogtied gunman after deadly Laguna Woods shooting",
+    "sentiment": "0"
+  },
+  {
+    "id": 3573,
+    "mediaId": 1164,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Don Jacobson",
+    "title": "DeSantis hints state of Fla. will take control of dissolved Disney district",
+    "sentiment": "0"
   }
 ]

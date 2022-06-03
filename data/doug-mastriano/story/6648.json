@@ -5,15 +5,22 @@
   "headline": "High-profile candidates endorsed by Trump lost their primaries, showing the limits of his power over the party",
   "image": "https://i.insider.com/6284c1211aa29100196a29d9?width=1000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-primary-candidate-defeats-show-limits-of-endorsement-power-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Porter",
   "authorUrl": "https://www.businessinsider.com/author/tom-porter",
   "termIds": [
+    943,
+    1147,
+    1653,
+    1903,
+    1990,
     2303,
-    3102
+    3102,
+    428,
+    2862
   ],
   "sentences": [
     "In North Carolina, Trump-endorsed candidate Ted Budd won the US Senate primary and will face Cheri Beasley, the first black woman to serve as chief justice of the state supreme court, in what is expected to be a competitive race.",

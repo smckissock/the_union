@@ -1,29 +1,38 @@
 [
   {
-    "id": 3293,
-    "mediaId": 261,
-    "date": "2022-00-12",
-    "sentence": "But that means Tudor Dixon, <span class='selected-term'>Michael Brown</span>, Donna Brandenburg, Ralph Rebandt and Michael Markey won't be onstage with their competitors.",
-    "author": "Dave Boucher",
-    "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
-    "sentiment": "0.0"
-  },
-  {
     "id": 6472,
     "mediaId": 178,
-    "date": "2022-00-15",
+    "date": "2/15/2022 12:00:00 AM",
     "sentence": "The individuals subpoenaed include Michael Roman and Gary <span class='selected-term'>Michael Brown</span>, who served as directors for Trump's 2020 reelection campaign.",
     "author": "FARNOUSH AMIRI",
     "title": "Jan. 6 panel subpoenas 6 more in fake GOP electors scheme",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3293,
+    "mediaId": 261,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "But that means Tudor Dixon, <span class='selected-term'>Michael Brown</span>, Donna Brandenburg, Ralph Rebandt and Michael Markey won't be onstage with their competitors.",
+    "author": "Dave Boucher",
+    "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
+    "sentiment": "0"
   },
   {
     "id": 7301,
     "mediaId": 98,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "Bureau staff also determined that three other lesser-known GOP candidates  Donna Brandenburg, <span class='selected-term'>Michael Brown</span> and Michael Markey  did not turn in enough valid signatures.",
     "author": "DAVID EGGERT",
     "title": "Primary problem: Michigan GOP governor candidates short signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8655,
+    "mediaId": 157,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
     "sentiment": "0"
   }
 ]

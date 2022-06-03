@@ -1,8 +1,17 @@
 [
   {
+    "id": 6354,
+    "mediaId": 209,
+    "date": "4/16/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Grayson Quay",
+    "title": "10 things you need to know today: April 16, 2022",
+    "sentiment": "-0.571"
+  },
+  {
     "id": 5853,
     "mediaId": 395,
-    "date": "2022-00-04",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Report: Israel Is Holding 600 Palestinians Without Charge or Trial",
@@ -11,19 +20,10 @@
   {
     "id": 5525,
     "mediaId": 129,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "The Little Red Boxes Making a Mockery of Campaign Finance Laws",
     "sentiment": "0.633"
-  },
-  {
-    "id": 6354,
-    "mediaId": 209,
-    "date": "2022-00-16",
-    "sentence": "",
-    "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 16, 2022",
-    "sentiment": "-0.571"
   }
 ]

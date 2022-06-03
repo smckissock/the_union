@@ -5,14 +5,23 @@
   "headline": "Raphael Warnock's Chances of Beating Herschel Walker, According to Polls",
   "image": "https://d.newsweek.com/en/full/2036435/warnock-v-walker.webp?w=790&f=5647711549ca447df11aa894a65c0c7d",
   "link": "https://www.newsweek.com/raphael-warnocks-chances-beating-herschel-walker-according-polls-1706021",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jason Lemon",
   "authorUrl": "https://www.newsweek.com/authors/jason-lemon",
   "termIds": [
-    815
+    815,
+    1131,
+    1136,
+    1147,
+    146,
+    227,
+    428,
+    501,
+    571,
+    2672
   ],
   "sentences": [
     "A survey conducted by The Atlanta Journal-Constitution in April had the former NFL player with nearly two-thirds of Republican voters' support, while all his opponents were in the single digits.",

@@ -5,7 +5,7 @@
   "headline": "Primary takeaways: Election denier wins, bad behavior dooms Cawthorn",
   "image": "https://www.tampabay.com/resizer//X4EQpbIoEesZTIKh07wUL0opTfE=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/SJOVMIO3V3Y4HWX3NDQBEZM7VE.jpg",
   "link": "https://www.tampabay.com/news/nation-world/2022/05/18/primary-takeaways-election-denier-wins-bad-behavior-dooms-cawthorn/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,17 @@
   "authorUrl": "https://www.tampabay.com/author/associated-press",
   "termIds": [
     821,
+    1106,
+    1147,
+    1713,
     2095,
     2303,
-    3102
+    3102,
+    428,
+    571,
+    2672,
+    2834,
+    2862
   ],
   "sentences": [
     "Takeaways from Tuesdays primaries in Pennsylvania, North Carolina, Kentucky, Idaho and Oregon:\nTrump wins some, loses some\nThe former president entered the primary season on a high after JD Vance, his endorsed candidate in Ohios hypercompetitive GOP Senate contest, shot from third to first.",

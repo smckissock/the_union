@@ -5,14 +5,20 @@
   "headline": "Herschel Walker cites Michael Jackson's 'Man in the Mirror' to call for more oil drilling",
   "image": "https://www.rawstory.com/media-library/herschel-walker.jpg?id=29662500&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/herschel-walker-michael-jackson/",
-  "sentiment": "0.0",
+  "sentiment": "-0.469",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "David Edwards",
   "authorUrl": "https://www.rawstory.com/u/david_edwards",
   "termIds": [
-    815
+    815,
+    2004,
+    2087,
+    4453,
+    428,
+    2672,
+    2945
   ],
   "sentences": [
     "You know, this country -- this is one of the most environmental drilling countries in the world but, yet, we're walking on all the resources we have underneath our feet.\"",

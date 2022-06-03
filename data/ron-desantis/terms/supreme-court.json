@@ -2,28 +2,46 @@
   {
     "id": 3519,
     "mediaId": 21,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
     "author": "Hannah Getahun",
     "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
     "sentiment": "0"
   },
   {
-    "id": 3519,
-    "mediaId": 21,
-    "date": "2022-00-17",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> signed a bill into law on Monday that will soon make it unlawful to picket outside of homes in Florida.",
-    "author": "Hannah Getahun",
-    "title": "Ron DeSantis signed a law banning protests outside of homes and called abortion protesters 'unruly mobs'",
-    "sentiment": "0.0"
-  },
-  {
     "id": 8531,
     "mediaId": 302,
-    "date": "2022-00-28",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "17 hopefuls vie for Florida Supreme Court opening",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8841,
+    "mediaId": 943,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "El gobernador republicano <span class='selected-term'>Ron DeSantis</span> promulg en abril la prohibicin de abortar despus de las 15 semanas de embarazo, parte de un creciente movimiento conservador para restringir el acceso al procedimiento despus de que en un borrador de opinin de la Corte Suprema que fue filtrado se sealara que el mximo tribunal confirmara una ley de Mississippi que prohbe los abortos despus de las 15 semanas.",
+    "author": "ANTHONY IZAGUIRRE",
+    "title": "Impugnan ley de Florida que restringe los abortos",
+    "sentiment": "0"
+  },
+  {
+    "id": 8795,
+    "mediaId": 151,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Supreme Court locks in DeSantis-backed redistricting map",
+    "sentiment": "-0.629"
+  },
+  {
+    "id": 8795,
+    "mediaId": 151,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Supreme Court locks in DeSantis-backed redistricting map",
+    "sentiment": "0"
   }
 ]

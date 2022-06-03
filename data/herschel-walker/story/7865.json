@@ -5,14 +5,17 @@
   "headline": "Scandal-plagued MAGA candidate Herschel Walker 'repeatedly misrepresented his academic credentials': report",
   "image": "https://www.rawstory.com/media-library/trump-backed-candidate-herschel-walker-may-not-be-the-financial-success-he-claims-report.jpg?id=29524210&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/herschel-walker-2657079583/",
-  "sentiment": "0.0",
+  "sentiment": "-0.951",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brad Reed",
   "authorUrl": "https://www.rawstory.com/u/brad_reed",
   "termIds": [
-    815
+    815,
+    584,
+    5654,
+    2672
   ],
   "sentences": [
     "The most glaring falsehood that CNN found is that Walker has repeatedly falsely claimed that he graduated in the top one percent of his class at the University of Georgia, when the reality is that he never actually graduated from the University of Georgia at all.",

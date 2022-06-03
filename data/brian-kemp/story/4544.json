@@ -5,14 +5,18 @@
   "headline": "Trump spokesperson: Babies would have formula if 'our rightful president' was in the White House",
   "image": "https://www.rawstory.com/media-library/liz-harrington.jpg?id=29797862&width=1200&coordinates=0%2C31%2C0%2C19&height=600",
   "link": "https://www.rawstory.com/liz-harrington-baby-formula/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "David Edwards",
   "authorUrl": "https://www.rawstory.com/u/david_edwards",
   "termIds": [
-    2095
+    1147,
+    2087,
+    2095,
+    4325,
+    2945
   ],
   "sentences": [
     "Former President Donald Trump's spokesperson falsely suggested on Thursday that the United States has a baby formula shortage because the 2020 presidential election was stolen.",

@@ -5,14 +5,24 @@
   "headline": "Trump Defied by Rally-Goers Booing, Turning Backs on Mehmet Oz",
   "image": "https://d.newsweek.com/en/full/2033278/dr-oz-trump.webp?w=790&f=65e4506362a3e6ea535c2cc79353a7fc",
   "link": "https://www.newsweek.com/trump-defied-rally-goers-booing-turning-backs-mehmet-oz-1704511",
-  "sentiment": "0",
+  "sentiment": "0.666",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jason Lemon",
   "authorUrl": "https://www.newsweek.com/authors/jason-lemon",
   "termIds": [
-    3103
+    718,
+    1147,
+    1237,
+    1653,
+    1801,
+    2409,
+    2491,
+    3103,
+    571,
+    2845,
+    2862
   ],
   "sentences": [
     "\"The conservative Trumpers are very upset over his endorsement, and they cannot understand it,\" Arnold McClure, the GOP chair in rural Huntingdon County, where Trump won about 75 percent of the vote in the last presidential election, told the Associated Press last month.",

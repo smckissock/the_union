@@ -5,14 +5,23 @@
   "headline": "Brad Raffensperger Sides With Judge, Keeps Marjorie Taylor Greene on Ballot",
   "image": "https://d.newsweek.com/en/full/2033043/brad-raffensperger-marjorie-taylor-greene.webp?w=790&f=6b9c9781a78b040bc87c27ab253cef67",
   "link": "https://www.newsweek.com/brad-raffensperger-marjorie-taylor-greene-revenge-trump-1700245",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Zoe Strozewski",
   "authorUrl": "https://www.newsweek.com/authors/zoe-strozewski",
   "termIds": [
-    2095
+    883,
+    1147,
+    1604,
+    2087,
+    2095,
+    2203,
+    2279,
+    545,
+    562,
+    2672
   ],
   "sentences": [
     "She said she was forced to cancel visits with her grandchildren at her home over fears that someone would act on those threats, and that her family had to go into hiding for almost a week in late November after intruders broke into her widowed daughter-in-law's home, according to Reuters.",

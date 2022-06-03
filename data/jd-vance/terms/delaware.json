@@ -1,17 +1,8 @@
 [
   {
-    "id": 6024,
-    "mediaId": 25,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Adam Brewster",
-    "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
-    "sentiment": "0.362"
-  },
-  {
     "id": 6416,
     "mediaId": 136,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Aila Slisco",
     "title": "With GOP Candidates Vying for His Backing, Donald Trump Plans Rally in Ohio",
@@ -20,7 +11,7 @@
   {
     "id": 6307,
     "mediaId": 124,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Trump Jr. to campaign with J.D. Vance in Ohio following father's endorsement",
@@ -29,7 +20,7 @@
   {
     "id": 6189,
     "mediaId": 65,
-    "date": "2022-00-23",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kyle Morris",
     "title": "Former President Trump addresses supporters at Ohio rally",
@@ -38,7 +29,7 @@
   {
     "id": 6192,
     "mediaId": 237,
-    "date": "2022-00-23",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kate Scanlon",
     "title": "Mike Gibbons optimistic after Trump endorses rival: We havent changed our plans",
@@ -47,7 +38,7 @@
   {
     "id": 6212,
     "mediaId": 19,
-    "date": "2022-00-23",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ethan Letkeman",
     "title": "Watch Live: Donald Trump Holds Save America Rally in Delaware, Ohio",
@@ -56,7 +47,7 @@
   {
     "id": 6216,
     "mediaId": 157,
-    "date": "2022-00-23",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "'Booing is entirely appropriate!': Ohio conservative group urging disruption at Trump rally",
@@ -65,7 +56,7 @@
   {
     "id": 6171,
     "mediaId": 165,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jack Crosbie",
     "title": "Trump Squeezes In J.D. Vance Endorsement Between Rants About Water Pressure in Ohio",
@@ -74,7 +65,7 @@
   {
     "id": 6177,
     "mediaId": 558,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tom LoBianco",
     "title": "Trump pushes Vance for Senate in Ohio, but supporters are more excited for cowboy governor candidate",
@@ -83,7 +74,7 @@
   {
     "id": 6178,
     "mediaId": 21,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Hannah Getahun",
     "title": "Trump acknowledged JD Vance's past comments disparaging him but has 'put that aside'",
@@ -92,7 +83,7 @@
   {
     "id": 6180,
     "mediaId": 21,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Hannah Getahun",
     "title": "Trump said he took a cognitive test because he didn't 'like being called stupid'",
@@ -101,7 +92,7 @@
   {
     "id": 6181,
     "mediaId": 165,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ryan Bort",
     "title": "Trump Rambles About Toilets Not Flushing During Ohio Rally  Oh, and Also: Hijacking Americas Election Systems",
@@ -110,7 +101,7 @@
   {
     "id": 6182,
     "mediaId": 136,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Scott McDonald",
     "title": "Trump Says J.D. Vance 'Said Some Bad Sh*t About Me' During His Endorsement",
@@ -119,7 +110,7 @@
   {
     "id": 6186,
     "mediaId": 19,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kristina Wong",
     "title": "J.D.! J.D.! J.D.!: Ohio Rally-Goers Cheer Trump-Endorsed Senate Candidate J.D. Vance",
@@ -128,10 +119,19 @@
   {
     "id": 6124,
     "mediaId": 238,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion Once the toast of liberal parties, J.D. Vance has gone full MAGA",
     "sentiment": "0"
+  },
+  {
+    "id": 6024,
+    "mediaId": 25,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Adam Brewster",
+    "title": "Ohio primary voters head to polls in first test of Trump's influence in GOP midterms",
+    "sentiment": "0.362"
   }
 ]

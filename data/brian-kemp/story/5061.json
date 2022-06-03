@@ -5,7 +5,7 @@
   "headline": "GOP Governors Launch 'Strike Force' to Combat Biden Border Crisis",
   "image": "https://media.townhall.com/townhall/reu/ha/2021/342/25b97a6d-3865-4b46-8851-cdec5081a270.JPG",
   "link": "https://townhall.com/tipsheet/spencerbrown/2022/04/20/gop-governors-launch-strike-force-to-combat-biden-border-crisis-n2606070",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "https://townhall.com/tipsheet/spencerbrown/",
   "termIds": [
     661,
-    2095
+    819,
+    1231,
+    1284,
+    1523,
+    2087,
+    2095,
+    2136,
+    2326,
+    428,
+    3594
   ],
   "sentences": [
     "The Strike Force includes Governors Kay Ivey (AL), Mike Dunleavy (AK), Asa Hutchinson (AR), Ron DeSantis (FL), Brian Kemp (GA), Brad Little (ID), Eric Holcomb (IN), Kim Reynolds (IA), Larry Hogan (MD), Tate Reeves (MS), Mike Parson (MO), Greg Gianforte (MT), Pete Ricketts (NE), Chris Sununu (NH), Doug Burgum (ND), Mike DeWine (OH), Kevin Stitt (OK), Henry McMaster (SC), Kristi Noem (SD), Bill Lee (TN), Spencer Cox (UT), Glenn Youngkin (VA), Jim Justice (WV), and Mark Gordon (WY).",

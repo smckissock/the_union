@@ -2,19 +2,37 @@
   {
     "id": 4376,
     "mediaId": 558,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jeff Deal",
     "title": "DeSantis says hell bring constitutional carry to Florida before he leaves office",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4376,
     "mediaId": 558,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jeff Deal",
     "title": "DeSantis says hell bring constitutional carry to Florida before he leaves office",
     "sentiment": "0.415"
+  },
+  {
+    "id": 8775,
+    "mediaId": 136,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "A ticketed event on Thursday hosted by conservative political commentator Dave Rubin and starring Florida Governor <span class='selected-term'>Ron DeSantis</span> was suddenly interrupted by gun control activists who tried to draw the governor's attention over the issue of gun safety.",
+    "author": "Giulia Carbonaro",
+    "title": "Ron DeSantis Event Disrupted by Florida Gun Control Activists",
+    "sentiment": "-0.95"
+  },
+  {
+    "id": 8775,
+    "mediaId": 136,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "A ticketed event on Thursday hosted by conservative political commentator Dave Rubin and starring Florida Governor <span class='selected-term'>Ron DeSantis</span> was suddenly interrupted by gun control activists who tried to draw the governor's attention over the issue of gun safety.",
+    "author": "Giulia Carbonaro",
+    "title": "Ron DeSantis Event Disrupted by Florida Gun Control Activists",
+    "sentiment": "0"
   }
 ]

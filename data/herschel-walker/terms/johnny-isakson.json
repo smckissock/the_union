@@ -1,62 +1,8 @@
 [
   {
-    "id": 7818,
-    "mediaId": 195,
-    "date": "2022-00-09",
-    "sentence": "Warnock is anticipated to run against former football star <span class='selected-term'>Herschel Walker</span> in a race that will see millions of dollars spent on the campaign trail to gain even the slightest edge.",
-    "author": "Tal Axelrod",
-    "title": "Warnock grapples with strong headwinds in Georgia",
-    "sentiment": "0.428"
-  },
-  {
-    "id": 7778,
-    "mediaId": 558,
-    "date": "2022-00-13",
-    "sentence": "Despite a flurry of bad press and complaints from his primary competitors that hes avoiding the campaign trail, <span class='selected-term'>Herschel Walker</span> is the leading Republican contender in the race to face the Democratic incumbent, Raphael Warnock, in this falls key Georgia Senate race.",
-    "author": "Christopher Wilson",
-    "title": "Republican rivals try to topple Georgia football star Herschel Walker in key Senate race",
-    "sentiment": "-0.791"
-  },
-  {
-    "id": 7766,
-    "mediaId": 195,
-    "date": "2022-00-14",
-    "sentence": "That bank account is anticipated to be a key advantage in his bid this year for a full term against likely GOP nominee <span class='selected-term'>Herschel Walker</span>, the former NFL star.",
-    "author": "Tal Axelrod",
-    "title": "Warnock raises $13.6 million in first quarter of 2022",
-    "sentiment": "0"
-  },
-  {
-    "id": 7772,
-    "mediaId": 239,
-    "date": "2022-00-14",
-    "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
-    "author": "Jeff Amy",
-    "title": "Georgias Sen. Warnock raises $13.6M in 2022s first quarter",
-    "sentiment": "0.908"
-  },
-  {
-    "id": 7773,
-    "mediaId": 1576,
-    "date": "2022-00-14",
-    "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
-    "author": "",
-    "title": "Georgia's Sen. Warnock raises $13.6M in 2022's first quarter",
-    "sentiment": "0.927"
-  },
-  {
-    "id": 7436,
-    "mediaId": 441,
-    "date": "2022-00-24",
-    "sentence": "Former University of Georgia football legend <span class='selected-term'>Herschel Walker</span>, 60, is backed by Trump and is running far ahead of any other GOP primary contender despite participating in no debates and avoiding the news media.",
-    "author": "Margaret Newkirk",
-    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries",
-    "sentiment": "0.769"
-  },
-  {
     "id": 8239,
     "mediaId": 32,
-    "date": "2022-00-26",
+    "date": "1/26/2022 12:00:00 AM",
     "sentence": "He will ultimately face one of his Republican challengers, including retired football player <span class='selected-term'>Herschel Walker</span> and former Trump administration official Latham Saddler.",
     "author": "Thomas Franck",
     "title": "Democrats bid to keep the Senate will involve plans to fight inflation and promises for a renewed agenda",
@@ -65,10 +11,64 @@
   {
     "id": 8230,
     "mediaId": 19,
-    "date": "2022-00-27",
+    "date": "1/27/2022 12:00:00 AM",
     "sentence": "In the poll, 872 registered Georgia voters were asked: If the election were held today and the candidates for U.S. Senate were Democrat Raphael Warnock and Republican <span class='selected-term'>Herschel Walker</span>, who would you vote for?",
     "author": "Warner Todd Huston",
     "title": "Poll: Herschel Walker Holds 3-Point lead over Warnock in Georgia Senate Race",
     "sentiment": "0"
+  },
+  {
+    "id": 7818,
+    "mediaId": 195,
+    "date": "4/9/2022 12:00:00 AM",
+    "sentence": "Warnock is anticipated to run against former football star <span class='selected-term'>Herschel Walker</span> in a race that will see millions of dollars spent on the campaign trail to gain even the slightest edge.",
+    "author": "Tal Axelrod",
+    "title": "Warnock grapples with strong headwinds in Georgia",
+    "sentiment": "0.428"
+  },
+  {
+    "id": 7778,
+    "mediaId": 558,
+    "date": "4/13/2022 12:00:00 AM",
+    "sentence": "Despite a flurry of bad press and complaints from his primary competitors that hes avoiding the campaign trail, <span class='selected-term'>Herschel Walker</span> is the leading Republican contender in the race to face the Democratic incumbent, Raphael Warnock, in this falls key Georgia Senate race.",
+    "author": "Christopher Wilson",
+    "title": "Republican rivals try to topple Georgia football star Herschel Walker in key Senate race",
+    "sentiment": "-0.791"
+  },
+  {
+    "id": 7766,
+    "mediaId": 195,
+    "date": "4/14/2022 12:00:00 AM",
+    "sentence": "That bank account is anticipated to be a key advantage in his bid this year for a full term against likely GOP nominee <span class='selected-term'>Herschel Walker</span>, the former NFL star.",
+    "author": "Tal Axelrod",
+    "title": "Warnock raises $13.6 million in first quarter of 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 7772,
+    "mediaId": 239,
+    "date": "4/14/2022 12:00:00 AM",
+    "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
+    "author": "Jeff Amy",
+    "title": "Georgias Sen. Warnock raises $13.6M in 2022s first quarter",
+    "sentiment": "0.908"
+  },
+  {
+    "id": 7773,
+    "mediaId": 1576,
+    "date": "4/14/2022 12:00:00 AM",
+    "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
+    "author": "",
+    "title": "Georgia's Sen. Warnock raises $13.6M in 2022's first quarter",
+    "sentiment": "0.927"
+  },
+  {
+    "id": 7436,
+    "mediaId": 441,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "Former University of Georgia football legend <span class='selected-term'>Herschel Walker</span>, 60, is backed by Trump and is running far ahead of any other GOP primary contender despite participating in no debates and avoiding the news media.",
+    "author": "Margaret Newkirk",
+    "title": "Here Are the Key Races to Watch in Georgias Tuesday Primaries",
+    "sentiment": "0.769"
   }
 ]

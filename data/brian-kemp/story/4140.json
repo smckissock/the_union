@@ -5,7 +5,7 @@
   "headline": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say",
   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/05/1862/1048/BT-thumb-scotus.jpg?ve=1&tl=1",
   "link": "https://www.foxnews.com/us/landmark-abortion-ruling-to-be-struck-down-high-prices-here-to-stay-experts-say",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,16 @@
   "authorUrl": "",
   "termIds": [
     661,
+    683,
+    718,
+    1304,
     1646,
-    2095
+    2095,
+    3942,
+    3949,
+    4325,
+    4425,
+    199
   ],
   "sentences": [
     "- SEAN HANNITY\nFOLLOW FOX NEWS ON SOCIAL MEDIA\nYouTube\nSIGN UP FOR OUR NEWSLETTERS\nFox News Opinion\nFox News Lifestyle\nDOWNLOAD OUR APPS\nWATCH FOX NEWS ONLINE\nFox News Go\nThis edition of Fox News First was compiled by Fox News' Jack Durschlag.",

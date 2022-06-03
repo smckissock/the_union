@@ -5,7 +5,7 @@
   "headline": "The Memo: Trump faces critical popularity test in Georgia",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/trumpdonald_perduedavid_051922ap-joe-maiorana_john-bazemore_split_trump-georgia.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/administration/3495125-the-memo-trump-faces-critical-popularity-test-in-georgia/",
-  "sentiment": "0.0",
+  "sentiment": "0.693",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,10 +13,18 @@
   "authorUrl": "https://thehill.com/author/niall-stanage/",
   "termIds": [
     815,
+    1147,
+    2087,
     2095,
+    2203,
+    2279,
     2303,
     3102,
-    3103
+    3103,
+    4325,
+    428,
+    2672,
+    2834
   ],
   "sentences": [
     "Raffensperger is, however, mounting a strong fight and has accused Hice of lying about our election process.\nThe Peach State has been vexing territory for Trump, where he lost to Biden by about 12,000 votes out of around five million cast for the two main candidates.",

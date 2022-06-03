@@ -5,14 +5,21 @@
   "headline": "Trump endorses Hillbilly Elegy author J.D. Vance in Ohio Senate primary",
   "image": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-continuous-scroll-mobile@1/v1650120243/GettyImages-1239925725.jpg",
   "link": "https://theweek.com/2022-election/1012639/trump-endorses-hillbilly-elegy-author-jd-vance-in-ohio-senate-primary",
-  "sentiment": "0",
+  "sentiment": "0.588",
   "mediaOutlet": "The Week",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Grayson Quay",
   "authorUrl": "https://theweek.com/authors/grayson-quay",
   "termIds": [
-    3103
+    946,
+    1147,
+    1801,
+    3103,
+    380,
+    428,
+    571,
+    2845
   ],
   "sentences": [
     "Vance (@JDVance1) April 15, 2022\nA Trafalgar Group poll conducted before the endorsement was announced had Vance trailing former Ohio Treasurer Josh Mandel  who is also aggressively courting Trump's base  by five points.",

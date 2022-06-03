@@ -5,14 +5,21 @@
   "headline": "California Versus Florida, a Covid Reckoning",
   "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXU01KMaiznA/v1/1200x901.jpg",
   "link": "https://www.bloomberg.com/opinion/articles/2022-05-07/california-versus-florida-a-covid-reckoning",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Bloomberg.com",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Justin Fox",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1394,
+    3842,
+    4391,
+    4566,
+    582,
+    2590,
+    2661
   ],
   "sentences": [
     "Thats very close, and in a recent National Bureau of Economic Research working paper Kerpen, fellow conservative activist Stephen Moore and University of Chicago economist Casey Mulligan make a bunch of other adjustments (for pre-existing health conditions and several economic and social factors) that bump Floridas overall pandemic performance? up to 6th best in the nation and Californias down to 47th.",

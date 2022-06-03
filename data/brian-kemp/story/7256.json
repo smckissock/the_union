@@ -5,14 +5,24 @@
   "headline": "Biden Urges Hyundai, Samsung to Embrace Union Workers",
   "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5WzFzFblJ80/v0/1200x800.jpg",
   "link": "https://www.bloomberg.com/news/articles/2022-05-22/biden-urges-hyundai-samsung-to-embrace-union-workers",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Bloomberg.com",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jennifer Jacobs",
   "authorUrl": "",
   "termIds": [
-    2095
+    1147,
+    2087,
+    2095,
+    4325,
+    5279,
+    76,
+    2985,
+    5503,
+    2537,
+    2672,
+    2945
   ],
   "sentences": [
     "Chung said Hyundai would invest an additional $5 billion through 2025 to collaborate with American enterprises in diverse technologies, such as robotics, urban air mobility, autonomous driving and AI.?\nGeorgias Republican Governor Brian Kemp -- who faces former Senator David Perdue in Tuesdays GOP primary -- has backed hefty incentives to lure automotive companies.",

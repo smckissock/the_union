@@ -5,14 +5,21 @@
   "headline": "Disney CEO Bob Chapek's missteps have entertainment insiders speculating about how he can keep his job and who might replace him if he doesn't",
   "image": "https://i.insider.com/627ab524f669c800196ea362?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/disney-ceo-chapek-missteps-florida-who-might-replace-him-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Claire Atkinson",
   "authorUrl": "https://www.businessinsider.com/author/claire-atkinson",
   "termIds": [
-    661
+    661,
+    1241,
+    4332,
+    4599,
+    524,
+    611,
+    3230,
+    2700
   ],
   "sentences": [
     "Kristina Schake, Disney's executive vice president, Global Communications, shared a statement with Insider saying, \"In his nearly three decades at Disney, Bob has been a steady, trusted leader who has consistently helped guide the company through historic successes and unique challenges, whether at the studio, leading our parks and consumer products, or now as CEO.",

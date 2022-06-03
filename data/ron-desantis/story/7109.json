@@ -5,7 +5,7 @@
   "headline": "Ginni Thomas emails deepen her involvement in 2020 election",
   "image": "https://www.tampabay.com/resizer//bQtrBfGaQQ4ITY-XVVga2K3F3zM=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/MWXBWJBSC6PW3VGD2HF7RJXWWQ.jpg",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/21/ginni-thomas-emails-deepen-her-involvement-in-2020-election/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "https://www.tampabay.com/author/associated-press",
   "termIds": [
     661,
-    3094
+    812,
+    827,
+    1147,
+    1248,
+    1600,
+    2087,
+    2214,
+    2406,
+    3094,
+    556,
+    2550
   ],
   "sentences": [
     "Theyre going to have to give up that lifetime investment of their home and put it on the market because now their premium is higher than their mortgage payment.?\nThe proposed legislation would create an exemption in the states building code, so that roofs that are more than 25% damaged but already comply with the 2007 building code may be repaired instead of being required to be replaced.",

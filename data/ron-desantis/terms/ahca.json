@@ -2,10 +2,46 @@
   {
     "id": 7274,
     "mediaId": 65,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Florida suspends abortion clinic after hospitalizations",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8789,
+    "mediaId": 302,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Medicaid agency targets transgender treatments",
+    "sentiment": "0"
+  },
+  {
+    "id": 8797,
+    "mediaId": 558,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis moves to ban transition care for transgender youths, Medicaid recipients",
+    "sentiment": "0"
+  },
+  {
+    "id": 8803,
+    "mediaId": 65,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Hannah Grossman",
+    "title": "Florida Medicaid moves against transgender therapies coverage, calls it 'experimental'",
+    "sentiment": "0"
+  },
+  {
+    "id": 8774,
+    "mediaId": 195,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis seeks to block transgender youths from transition-related therapies",
+    "sentiment": "0"
   }
 ]

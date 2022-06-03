@@ -1,74 +1,47 @@
 [
   {
-    "id": 3992,
-    "mediaId": 237,
-    "date": "2022-00-05",
+    "id": 5243,
+    "mediaId": 209,
+    "date": "4/9/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Paul Bedard",
-    "title": "2024 Shock: Biden 36%, Trump 50%",
+    "author": "Grayson Quay",
+    "title": "10 things you need to know today: April 9, 2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 4331,
+    "mediaId": 63,
+    "date": "4/30/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Anna Kaplan",
+    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
+    "sentiment": "0"
+  },
+  {
+    "id": 4333,
+    "mediaId": 124,
+    "date": "4/30/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
     "sentiment": "0"
   },
   {
     "id": 3992,
     "mediaId": 237,
-    "date": "2022-00-05",
+    "date": "5/5/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Bedard",
     "title": "2024 Shock: Biden 36%, Trump 50%",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5243,
-    "mediaId": 209,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "Grayson Quay",
-    "title": "10 things you need to know today: April 9, 2022",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3612,
     "mediaId": 129,
-    "date": "2022-00-13",
+    "date": "5/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "The Baby Formula Crisis",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4331,
-    "mediaId": 63,
-    "date": "2022-00-30",
-    "sentence": "",
-    "author": "Anna Kaplan",
-    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
     "sentiment": "0"
-  },
-  {
-    "id": 4331,
-    "mediaId": 63,
-    "date": "2022-00-30",
-    "sentence": "",
-    "author": "Anna Kaplan",
-    "title": "White House Said To Eye Income Caps For Student Loan Forgiveness",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4333,
-    "mediaId": 124,
-    "date": "2022-00-30",
-    "sentence": "",
-    "author": "",
-    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
-    "sentiment": "0"
-  },
-  {
-    "id": 4333,
-    "mediaId": 124,
-    "date": "2022-00-30",
-    "sentence": "",
-    "author": "",
-    "title": "Elon Musks no good, very bad meme shows how out of touch he is with political reality",
-    "sentiment": "0.0"
   }
 ]

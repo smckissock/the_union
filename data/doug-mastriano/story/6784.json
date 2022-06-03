@@ -5,14 +5,21 @@
   "headline": "Republican Senate candidate Kathy Barnette marched alongside a Proud Boy on January 6: report",
   "image": "https://i.insider.com/62826e479147a30018b48a93?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/kathy-barnette-january-6-photos-pennsylvania-senate-republican-primary-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brent D. Griffiths",
   "authorUrl": "https://www.businessinsider.com/author/brent-d-griffiths",
   "termIds": [
-    3102
+    1147,
+    2087,
+    2491,
+    3102,
+    428,
+    571,
+    2862,
+    5492
   ],
   "sentences": [
     "A fringe, far-right group, federal prosecutors have alleged that multiple members of the hate group conspired to obstruct Congress from formally declaring Joe Biden as the winner of the 2020 presidential election.",

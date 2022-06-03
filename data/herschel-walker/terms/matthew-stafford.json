@@ -1,20 +1,20 @@
 [
   {
-    "id": 7647,
-    "mediaId": 178,
-    "date": "2022-00-01",
-    "sentence": "But anyone in these parts old enough to remember the name <span class='selected-term'>Herschel Walker</span> knows not to dismiss Jimmy's strategy when it comes to the NFL draft.",
-    "author": "Mark Craig",
-    "title": "Annual first-round feeding frenzy on quarterbacks doesn't materialize  and rightfully so",
-    "sentiment": "0.0"
-  },
-  {
     "id": 8143,
     "mediaId": 178,
-    "date": "2022-00-14",
+    "date": "2/14/2022 12:00:00 AM",
     "sentence": "Remember the <span class='selected-term'>Herschel Walker</span> trade?",
     "author": "",
     "title": "Winning the Super Bowl showed Rams made all the right moves",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 7647,
+    "mediaId": 178,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "But anyone in these parts old enough to remember the name <span class='selected-term'>Herschel Walker</span> knows not to dismiss Jimmy's strategy when it comes to the NFL draft.",
+    "author": "Mark Craig",
+    "title": "Annual first-round feeding frenzy on quarterbacks doesn't materialize  and rightfully so",
+    "sentiment": "0"
   }
 ]

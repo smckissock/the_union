@@ -5,14 +5,24 @@
   "headline": "Pennsylvania State Senator Proposes Fee for Remittances",
   "image": "https://www.fairus.org/sites/default/files/styles/staff_card_photo/public/images/staff/david-jaroslav-headshot_1.jpg?h=4578afae&itok=r8fJc_L2",
   "link": "https://www.fairus.org/legislation/state-and-local-legislation/societal-impact/pennsylvania-state-senator-proposes-fee",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FAIR",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1625,
+    1990,
+    3102,
+    5349,
+    5365,
+    5376,
+    393,
+    571,
+    3542,
+    2862,
+    2945
   ],
   "sentences": [
     "SB 1158 would:\nImpose a 2% fee on each transaction sent to someone outside the United States, capped at $5,000;\nRequire money transmitters to provide the transaction fees they collect on a quarterly basis to the states Department of Banking and Securities; and\nDirect all the fee revenue to be deposited in the states Property Tax Relief Fund, to be used to specifically to defray residential homeowners property taxes and residential tenants rental costs.",

@@ -5,7 +5,7 @@
   "headline": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",
   "image": "https://static01.nyt.com/images/2019/06/25/reader-center/author-reid-epstein/9e877853d8234217b58e5762253aa771-thumbLarge.png",
   "link": "https://www.nytimes.com/live/2022/05/25/us/georgia-primary-election-midterms",
-  "sentiment": "0.0",
+  "sentiment": "-0.952",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,12 +13,18 @@
   "authorUrl": "",
   "termIds": [
     651,
+    727,
     815,
+    984,
+    1147,
     1844,
     2095,
+    2203,
     2303,
+    2376,
     3102,
-    3103
+    3103,
+    2672
   ],
   "sentences": [
     "Ms. Britt, Mr. Brooks and a third leading candidate, Mike Durant, a military contractor, did not agree to debate, so voter impressions were shaped to an unusual degree by ads, many of which were funded by super-PACs and outside groups\nThe race between Representative Henry Cuellar, a Democrat who opposes abortion rights, and his progressive challenger, Jessica Cisneros, an immigration attorney, appeared too close to call as of 1 a.m. Eastern time on Wednesday (results are being updated in real-time here).",

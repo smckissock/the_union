@@ -5,14 +5,16 @@
   "headline": "DeSantis signs bill creating resiliency office to address flooding, sea-level rise",
   "image": "https://www.tampabay.com/resizer//dtcveQ1U8kGHyI4dNAKvW6zsBYI=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/FXKGJSGJLUI6TMRBPAY4DVT77I.jpg",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/04/desantis-signs-bill-creating-resiliency-office-to-address-flooding-sea-level-rise/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3124,
+    3401
   ],
   "sentences": [
     "Along with shifting the office to be more directly under DeSantis control, the new law will require a resilience action plan for the state highway system, a prioritized list of resilience projects that would include costs and timelines, and a database that would identify such things as medical centers, utilities, emergency operation centers and airports that would be threatened by rising sea levels.",

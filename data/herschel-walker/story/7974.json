@@ -5,14 +5,18 @@
   "headline": "How the GOP Can Make Long-Term Gains with Black and Hispanic Voters | Opinion",
   "image": "https://d.newsweek.com/en/full/2004539/black-voters-matter.webp?w=790&f=5ae497559502d57f100cc3f2baf191a9",
   "link": "https://www.newsweek.com/how-gop-can-make-long-term-gains-black-hispanic-voters-opinion-1689624",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1527,
+    146,
+    428,
+    2934
   ],
   "sentences": [
     "But one of the most remarkable developments is that a significant chunk of Black and Latino voters appear to be gravitating toward the Republican Partya trend attributable to the fact that many minority voters are becoming increasingly dissatisfied with the Democratic Party, which has done little to keep its promises in exchange for the loyalty its politicians have enjoyed for decades.",

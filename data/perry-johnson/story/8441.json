@@ -5,7 +5,7 @@
   "headline": "Republican Governors Lose Their Dread of Trump",
   "image": "",
   "link": "https://www.nytimes.com/live/2022/05/27/us/midterms-primary-election",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,17 @@
   "authorUrl": "",
   "termIds": [
     651,
+    761,
+    1147,
+    1284,
+    1765,
+    1796,
     1844,
-    2095
+    2095,
+    2113,
+    2136,
+    428,
+    2672
   ],
   "sentences": [
     "In March 2021, the Federal Election Commission clarified, in response to a request from the Republican Senate and House campaign arms, that hiring bona fide, legitimate, professional personal security personnel against threats arising from the members' status as officeholders is a permissible use of campaign funds.",

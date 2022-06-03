@@ -6,7 +6,7 @@
     "sentence": "",
     "author": "Nicholas Reimann",
     "title": "Trump Reportedly Backing J.D. Vance In Ohio Senate RaceLatest Test Of Dubious Endorsement Power",
-    "sentiment": "0"
+    "sentiment": "-0.467"
   },
   {
     "id": 5133,
@@ -15,7 +15,16 @@
     "sentence": "",
     "author": "",
     "title": "Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio",
-    "sentiment": "0"
+    "sentiment": "0.556"
+  },
+  {
+    "id": 2050,
+    "mediaId": 234,
+    "date": "4/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Trump's Endorsement of J.D. Vance Worries Advisers Who Fear He's Backing Losers",
+    "sentiment": "-0.457"
   },
   {
     "id": 5091,
@@ -51,7 +60,34 @@
     "sentence": "",
     "author": "Andrew Stanton",
     "title": "Donald Trump's 'Emotional' Endorsements Will 'Backfire': Chris Christie",
+    "sentiment": "-0.951"
+  },
+  {
+    "id": 6145,
+    "mediaId": 124,
+    "date": "4/26/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
     "sentiment": "0"
+  },
+  {
+    "id": 1797,
+    "mediaId": 239,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Susan Ferrechio",
+    "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement",
+    "sentiment": "0.16"
+  },
+  {
+    "id": 1767,
+    "mediaId": 136,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Jackson",
+    "title": "J.D. Vance Wins Ohio Primary in Crucial Test of Trump's Power",
+    "sentiment": "0.84"
   },
   {
     "id": 5844,
@@ -177,7 +213,7 @@
     "sentence": "",
     "author": "",
     "title": "What Donald Trump Didnt Count On in Georgia",
-    "sentiment": "0"
+    "sentiment": "0.519"
   },
   {
     "id": 7326,
@@ -312,6 +348,33 @@
     "sentence": "",
     "author": "",
     "title": "Trump's Primary Losses Puncture His Invincibility",
+    "sentiment": "0"
+  },
+  {
+    "id": 8612,
+    "mediaId": 238,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion Has Trump lost his hold on the GOP? Hardly.",
+    "sentiment": "0"
+  },
+  {
+    "id": 8696,
+    "mediaId": 129,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Lawyer who plotted to overturn Trumps 2020 loss recruits election deniers to watch over the vote.",
+    "sentiment": "0"
+  },
+  {
+    "id": 8911,
+    "mediaId": 136,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Jackson",
+    "title": "Trump Pushes Claim That Brian Kemp's 50-Point Victory Was Fraud",
     "sentiment": "0"
   }
 ]

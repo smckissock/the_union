@@ -5,14 +5,21 @@
   "headline": "Judge says he'll block Gov. Ron DeSantis' redistricting plan",
   "image": "https://s.yimg.com/ny/api/res/1.2/JGpZw3JfjuwkJHmKTgFt_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTQ3MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/lr_Xvo5z_gJKxJoYrhKCbA--~B/aD0yNjgwO3c9NDAyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/97a177e9034ab89cecc4bcca7cc8b345",
   "link": "https://news.yahoo.com/judge-announces-hell-block-desantis-170828909.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1587,
+    3804,
+    428,
+    562,
+    571,
+    2661,
+    2926
   ],
   "sentences": [
     "We will undoubtedly be appealing his ruling and are confident the constitutional map enacted by the Florida legislature and signed into law passes legal muster.?\nThe governors office drew up a map , and which it said abided by both the state and federal constitutions.",

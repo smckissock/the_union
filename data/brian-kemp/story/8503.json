@@ -5,15 +5,22 @@
   "headline": "Brooks and Capehart on the tragedy in Uvalde and Georgias primary elections",
   "image": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/placeholder.jpg",
   "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-the-tragedy-in-uvalde-and-georgias-primary-elections",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "PBS NewsHour",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
+    795,
+    1915,
+    1970,
     2095,
-    3103
+    3103,
+    5525,
+    2672,
+    2934,
+    6069
   ],
   "sentences": [
     "New York Times columnist David Brooks and Washington Post associate editor Jonathan Capehart join Judy Woodruff to discuss the week in politics, including the potential for meaningful changes to federal gun regulations after the unspeakable tragedy at an elementary school in Uvalde, Texas, and former President Trump's influence on primary races in Georgia and elsewhere.",

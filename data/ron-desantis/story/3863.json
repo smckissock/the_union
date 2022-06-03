@@ -5,14 +5,19 @@
   "headline": "Transcript: Former Attorney General Eric Holder on \"Face the Nation,\" May 8, 2022",
   "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/08/6bbd372b-f657-4279-b36d-d80f11aeabd9/thumbnail/140x90g2/fa8bc4482ccb748fdb7d326a7ae96fb4/pelosi1.jpg",
   "link": "https://www.cbsnews.com/news/eric-holder-transcript-face-the-nation-05-08-2022/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "cbs news",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1452,
+    4431,
+    2661,
+    2782,
+    2826
   ],
   "sentences": [
     "And yet we've brought a lot of lawsuits, successfully brought a lot of lawsuits in order to make sure that the process is done in a fair way and so that the American people actually pick their representatives as opposed to politicians choosing their voters and so sue to blue, that's what they say when you're winning in court, which is what we have done at a whole bunch of levels.",

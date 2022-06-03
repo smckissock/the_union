@@ -5,14 +5,19 @@
   "headline": "Georgians Closer to Carrying Concealed Guns Without License",
   "image": "https://d.newsweek.com/en/full/2013677/handgun-nra-convention.webp?w=790&f=1ebeb887749b9c0072893bec3b242347",
   "link": "https://www.newsweek.com/georgians-closer-carrying-concealed-guns-without-license-1694393",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jake Thomas",
   "authorUrl": "https://www.newsweek.com/authors/jake-thomas",
   "termIds": [
-    2095
+    674,
+    2095,
+    74,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "Gun safety advocates argued the bill would add to violence and make the work of law enforcement more dangerous, while proponents argued restrictions infringed on the Second Amendment rights of responsible gun owners.",

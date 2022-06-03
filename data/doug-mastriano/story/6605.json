@@ -5,17 +5,25 @@
   "headline": "Trump may hold off on more endorsements for coming primaries, advisers say",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220519100111-donald-trump-file-051422-exlarge-169.jpg",
   "link": "https://www.cnn.com/2022/05/19/politics/trump-endorsement-risk-pennsylvania/index.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Gabby Orr",
   "authorUrl": "https://www.cnn.com/profiles/gabby-orr",
   "termIds": [
+    1147,
     2095,
     2303,
+    2491,
+    2524,
     3102,
-    3103
+    3103,
+    4325,
+    428,
+    571,
+    2550,
+    2862
   ],
   "sentences": [
     "A loss for Oz in Pennsylvania would not only add another blot to Trump's endorsement record -- even as he claimed Wednesday to have had a \"spectacular\" primary night -- but advisers say it will also make the former President reluctant to wade into other contentious primaries in Alabama, Arizona and Missouri unless and until a clear front-runner emerges.",

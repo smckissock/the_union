@@ -5,7 +5,7 @@
   "headline": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
   "image": "",
   "link": "https://www.washingtonexaminer.com/opinion/washington-secrets/mtg-backs-robby-starbuck-ortagus-not-worthy-of-trump-support",
-  "sentiment": "0.0",
+  "sentiment": "0.437",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     815,
-    3103
+    1147,
+    1801,
+    1816,
+    2087,
+    3103,
+    122,
+    571,
+    2707,
+    2834,
+    2932
   ],
   "sentences": [
     "Awkward as it may appear because Trump and Greene are very close, she told Secrets that Ortagus was not worthy of the former presidents support because she had offered support for the incoming Biden administration on social media, though she has been sharply critical of the presidents recent policies.",

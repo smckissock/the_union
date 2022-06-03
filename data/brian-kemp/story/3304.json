@@ -5,14 +5,22 @@
   "headline": "Mike Pence to Campaign for Brian Kemp in Georgia",
   "image": "https://www.nationalreview.com/wp-content/uploads/2020/12/Mike-Pence-2.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/mike-pence-to-campaign-for-brian-kemp-in-georgia/",
-  "sentiment": "0.0",
+  "sentiment": "0.715",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jack Butler",
   "authorUrl": "https://www.nationalreview.com/author/jack-butler/",
   "termIds": [
-    2095
+    1131,
+    1147,
+    1284,
+    1434,
+    2095,
+    2230,
+    4325,
+    428,
+    2672
   ],
   "sentences": [
     "In a late-March article for National Review, Pence outlined a Freedom Agenda? and argued that we cannot afford to take our eyes off the task in front of us, or to be distracted by grievances of the past.?\nIt appears fairly evident that Pence has ambitions for himself that draw from his time as vice president but are constrained neither by that period nor by the man with whom he served.",

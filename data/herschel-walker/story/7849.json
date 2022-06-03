@@ -5,14 +5,21 @@
   "headline": "GOP Senate candidate Herschel Walker lied about his college achievements",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/04/gettyimages-1239537466.jpg",
   "link": "https://www.salon.com/2022/04/02/senate-candidate-herschel-walker-lied-about-his-college-achievements/",
-  "sentiment": "0.0",
+  "sentiment": "0.743",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kelly McClure",
   "authorUrl": "https://www.salon.com/writer/kelly-mcclure",
   "termIds": [
-    815
+    815,
+    1147,
+    428,
+    571,
+    584,
+    2554,
+    2555,
+    2672
   ],
   "sentences": [
     "Although any mention of collegiate achievements has since been scrubbed from Walker's campaign media sometime between December and January, it's unclear why the claim was made in the first place, or why there have been instances as recent as 2017 when the claim has been made.",

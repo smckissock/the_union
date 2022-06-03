@@ -5,14 +5,21 @@
   "headline": "Half of Trump's 2016 Ohio RNC delegates call Vance endorsement 'betrayal,' ask him to 'reconsider'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/485d771c-d755-4689-adc8-657c39624153/232b78e4-8200-43c0-9f39-8f573dcec65b/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/trump-rnc-delegates-vance-betrayal",
-  "sentiment": "0",
+  "sentiment": "0.302",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tyler Olson",
   "authorUrl": "https://www.foxnews.com/person/o/tyler-olson",
   "termIds": [
-    3103
+    1147,
+    1801,
+    2208,
+    2221,
+    2466,
+    3103,
+    428,
+    2845
   ],
   "sentences": [
     "OHIO REPUBLICAN CENTRAL COMMITTEE, MANY COUNTY GOP CHAIRS URGE TRUMP NOT TO ENDORSE CANDIDATE IN SENATE RACE\nIn his endorsement released last week, however, Trump acknowledged Vance's past comments and says he believes the candidate's had a change of heart.",

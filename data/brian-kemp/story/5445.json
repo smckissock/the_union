@@ -5,14 +5,15 @@
   "headline": "Employees in Cobb County School District to receive $2,000 bonuses",
   "image": "https://www.ajc.com/resizer/RVluAMcUtdzFj6odkmEa7_S0yN8=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/SA77DB2VY5JJQ5Y64CCGZM47IQ.jpg",
   "link": "https://www.ajc.com/education/employees-in-cobb-county-school-district-to-receive-2000-bonuses/FX42NAEWJVHUNNWMMX7BBNRLI4/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Cassidy Alexander",
   "authorUrl": "https://www.ajc.com/staff/cassidy-alexander/",
   "termIds": [
-    2095
+    2095,
+    4953
   ],
   "sentences": [
     "So we felt that it was appropriate to go ahead and expand that to all permanent staff.?\nEarlier this year, the Cobb County School District offered two retention bonuses to bus drivers and two to food service workers.",

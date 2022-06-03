@@ -1,35 +1,8 @@
 [
   {
-    "id": 5515,
-    "mediaId": 323,
-    "date": "2022-00-16",
-    "sentence": "",
-    "author": "Gerard Baker",
-    "title": "GOP Fails to Find a Sober Populism in Pennsylvania",
-    "sentiment": "0"
-  },
-  {
-    "id": 5463,
-    "mediaId": 136,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "Maura Currie",
-    "title": "Steve Schmidt Discusses Violent Extremism, the GOP and John McCain",
-    "sentiment": "0"
-  },
-  {
-    "id": 6571,
-    "mediaId": 151,
-    "date": "2022-00-20",
-    "sentence": "",
-    "author": "",
-    "title": "Trumps Alternate Reality Hits a New Crazy Note with Dr. Oz",
-    "sentiment": "0"
-  },
-  {
     "id": 6240,
     "mediaId": 136,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jake Thomas",
     "title": "The Day After Supporting J.D. Vance in Ohio, Trump Jr. Lashes out at Mandel",
@@ -38,10 +11,37 @@
   {
     "id": 6082,
     "mediaId": 169,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Heather Digby Parton",
     "title": "Trump's puppets: McConnell and McCarthy have lost all control",
+    "sentiment": "0"
+  },
+  {
+    "id": 5515,
+    "mediaId": 323,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Gerard Baker",
+    "title": "GOP Fails to Find a Sober Populism in Pennsylvania",
+    "sentiment": "0"
+  },
+  {
+    "id": 5463,
+    "mediaId": 136,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Maura Currie",
+    "title": "Steve Schmidt Discusses Violent Extremism, the GOP and John McCain",
+    "sentiment": "0"
+  },
+  {
+    "id": 6571,
+    "mediaId": 151,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Trumps Alternate Reality Hits a New Crazy Note with Dr. Oz",
     "sentiment": "0"
   }
 ]

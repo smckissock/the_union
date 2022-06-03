@@ -5,7 +5,7 @@
   "headline": "In his first TV ads, U.S. Senate candidate Mandela Barnes focuses on milk, beef and millionaires",
   "image": "https://www.gannett-cdn.com/presto/2022/05/17/PMJS/13353911-b9ca-467b-bbdc-b6efd50c9c5f-Screenshot_89.png?width=1320&height=744&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/05/18/mandela-barnes-ad-focuses-milk-beef-and-millionaires/9812296002/",
-  "sentiment": "0.0",
+  "sentiment": "0.417",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,11 @@
     741,
     802,
     1568,
-    2039
+    2039,
+    2468,
+    146,
+    428,
+    571
   ],
   "sentences": [
     "The Barnes campaign said this was the first spot in a multi-million dollar advertising campaign beginning in Milwaukee on broadcast, cable and digital and expanding throughout the state ahead of the Aug. 9 Democratic primary.",

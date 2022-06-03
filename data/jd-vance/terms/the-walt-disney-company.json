@@ -1,26 +1,8 @@
 [
   {
-    "id": 4316,
-    "mediaId": 129,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "",
-    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
-    "sentiment": "0"
-  },
-  {
-    "id": 4218,
-    "mediaId": 238,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "",
-    "title": "Opinion A conservative Christian quietly battles against right-wing hysteria",
-    "sentiment": "0"
-  },
-  {
     "id": 6447,
     "mediaId": 169,
-    "date": "2022-00-07",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "Amanda Marcotte",
     "title": "Boycotting Disney and Oreos: The red flags that MAGA is a cult",
@@ -29,25 +11,16 @@
   {
     "id": 6451,
     "mediaId": 157,
-    "date": "2022-00-07",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "Amanda Marcotte",
     "title": "Trump's MAGA movement is a cult  and here's the proof",
     "sentiment": "0"
   },
   {
-    "id": 3527,
-    "mediaId": 98,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "Ryan Faughnder",
-    "title": "Netflixs message to employees and woke Hollywoods retreat",
-    "sentiment": "0"
-  },
-  {
     "id": 6251,
     "mediaId": 238,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
@@ -56,7 +29,7 @@
   {
     "id": 6267,
     "mediaId": 43,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Yes, Republicans really are moving us towards",
@@ -65,10 +38,37 @@
   {
     "id": 6220,
     "mediaId": 238,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
+    "sentiment": "0"
+  },
+  {
+    "id": 4316,
+    "mediaId": 129,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "The Party of Big Business Is Getting More Anti-Conservative by the Day",
+    "sentiment": "0"
+  },
+  {
+    "id": 4218,
+    "mediaId": 238,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Opinion A conservative Christian quietly battles against right-wing hysteria",
+    "sentiment": "0"
+  },
+  {
+    "id": 3527,
+    "mediaId": 98,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Ryan Faughnder",
+    "title": "Netflixs message to employees and woke Hollywoods retreat",
     "sentiment": "0"
   }
 ]

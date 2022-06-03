@@ -5,14 +5,23 @@
   "headline": "How the Broncos were able to keep the Russell Wilson trade with Seahawks a secret",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/83ccca5/2147483647/strip/true/crop/5242x3555+0+0/resize/840x570!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2Ff9%2F7865d8444d9da9f3f4171eca384c%2Fbroncos-wilson-football-49095.jpg",
   "link": "https://www.latimes.com/sports/story/2022-03-16/seahawks-broncos-trade-russell-wilson-secret",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sam Farmer",
   "authorUrl": "https://www.latimes.com/people/sam-farmer",
   "termIds": [
-    815
+    815,
+    5706,
+    5718,
+    5742,
+    5845,
+    5860,
+    6010,
+    449,
+    5580,
+    5592
   ],
   "sentences": [
     "For the quarterback, the club put together a 10-page booklet that discussed the history, alumni and traditions of the Broncos, had pictures of everyone in the organization, and outlined the charity opportunities in Denver, in keeping with Wilsons career-long dedication to Seattle Childrens Hospital.",

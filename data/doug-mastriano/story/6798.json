@@ -5,14 +5,18 @@
   "headline": "Doug Mastriano aide uncovered as Jan. 6 protestor after he blocks press from weekend campaign event",
   "image": "https://www.rawstory.com/media-library/trump-backers-look-to-last-stand-protest-on-january-6.jpg?id=25062534&width=1200&coordinates=0%2C51%2C0%2C51&height=600",
   "link": "https://www.rawstory.com/doug-mastriano-aide-january-6/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah K. Burris",
   "authorUrl": "https://www.rawstory.com/u/sarah_k_burris",
   "termIds": [
-    3102
+    943,
+    1990,
+    3102,
+    428,
+    571
   ],
   "sentences": [
     "The report by NBC News explained that they combed through aide Grant Clarkson's social media and photos and videos from the Jan. 6 attack on the U.S. Capitol and were able to make a clear match.",

@@ -2,46 +2,46 @@
   {
     "id": 3876,
     "mediaId": 302,
-    "date": "2022-00-07",
+    "date": "5/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "William March",
     "title": "Republican Jay Collins to switch congressional races",
     "sentiment": "0"
   },
   {
-    "id": 3876,
-    "mediaId": 302,
-    "date": "2022-00-07",
-    "sentence": "",
-    "author": "William March",
-    "title": "Republican Jay Collins to switch congressional races",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3636,
     "mediaId": 302,
-    "date": "2022-00-12",
+    "date": "5/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "Lawrence Mower",
     "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run",
     "sentiment": "0"
-  },
-  {
-    "id": 3636,
-    "mediaId": 302,
-    "date": "2022-00-12",
-    "sentence": "",
-    "author": "Lawrence Mower",
-    "title": "Florida Secretary of State Laurel Lee to resign, eyes congressional run",
-    "sentiment": "0.0"
   },
   {
     "id": 3542,
     "mediaId": 302,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Romy Ellenbogen",
     "title": "Kelli Stargel announces run for Floridas open 15th Congressional District",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8787,
+    "mediaId": 151,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "How about <span class='selected-term'>Ron DeSantis</span>, Americas governor, said Simpson, echoing the nickname conservatives across the country have bestowed upon Floridas governor.",
+    "author": "",
+    "title": "'Just the way it goes': DeSantis axes $3B from Legislature's budget in front of Republican leaders",
+    "sentiment": "-0.313"
+  },
+  {
+    "id": 8787,
+    "mediaId": 151,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "How about <span class='selected-term'>Ron DeSantis</span>, Americas governor, said Simpson, echoing the nickname conservatives across the country have bestowed upon Floridas governor.",
+    "author": "",
+    "title": "'Just the way it goes': DeSantis axes $3B from Legislature's budget in front of Republican leaders",
+    "sentiment": "0"
   }
 ]

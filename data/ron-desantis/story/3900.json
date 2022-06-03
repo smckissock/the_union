@@ -5,14 +5,19 @@
   "headline": "Appeals court reinstates Floridas disputed voting law",
   "image": "https://www.tampabay.com/resizer//Zrx0no5eiSpnO9te5cU5M5F6_WE=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/LX7ZS3WEWMI6TKTRIBWI6S7HAY.jpg",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/06/appeals-court-reinstates-floridas-disputed-voting-law/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lawrence Mower",
   "authorUrl": "https://www.tampabay.com/author/lawrence-mower",
   "termIds": [
-    661
+    661,
+    879,
+    3708,
+    3758,
+    2661,
+    2926
   ],
   "sentences": [
     "Claiming they were combatting voter fraud, they passed numerous changes to the states voting laws, including:\nLimiting the use of ballot drop boxes to early voting hours, unless theyre in a supervisors office, and requiring the boxes to be attended at all times;\nRequiring third-party groups to issue a warning when trying to register voters, including telling voters that their registration application might not be turned in before the voter registration deadline or within the required 14 days.",

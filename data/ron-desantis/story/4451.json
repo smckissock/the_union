@@ -5,14 +5,23 @@
   "headline": "DeSantis delivers a roundhouse blow to Disney",
   "image": "https://twt-thumbs.washtimes.com/media/image/2022/03/29/gender_identity-florida_74789_c0-0-3000-1749_s885x516.jpg?c2c33a25126af0f645fb1cd1d2c7d2d5cfb4844c",
   "link": "https://www.washingtontimes.com/news/2022/may/1/desantis-delivers-a-roundhouse-blow-to-disney/",
-  "sentiment": "0.0",
+  "sentiment": "0.828",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Robert Knight",
   "authorUrl": "https://www.washingtontimes.com/staff/robert-knight/",
   "termIds": [
-    661
+    661,
+    1154,
+    2087,
+    4156,
+    146,
+    428,
+    524,
+    3311,
+    2661,
+    2851
   ],
   "sentences": [
     "Prodded by Mr. DeSantis, the Republican-dominated legislature passed the Parental Rights in Education Act, which bars schools from introducing kids in kindergarten through third grade to gender identity? and sexual orientation.?\nPressed by LGBTQ activists inside and outside, the Walt Disney Company management denounced the bill and promised to double down on pushing homosexuality and transgenderism in every Disney product and venue.",

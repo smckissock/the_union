@@ -5,7 +5,7 @@
   "headline": "Johnson raises $7.1 million in first quarter",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/03/johnsonron_031522gn_lead.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/campaign/3269500-johnson-raises-7-1-million-in-first-quarter/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,13 @@
     741,
     802,
     1568,
-    2039
+    1925,
+    1968,
+    2039,
+    298,
+    317,
+    571,
+    2972
   ],
   "sentences": [
     "He is using these resources to counter the lies and distortions of multiple Democrat candidates, liberal dark money groups, and biased media,? Johnson's communications director, Jake Wilkins, said in a statement on Friday.",

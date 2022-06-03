@@ -5,14 +5,19 @@
   "headline": "Disney is no more political now than Walt himself was | Letters",
   "image": "https://www.tampabay.com/resizer//maNNGydKasQTTCHowqZq_NkEZFk=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/YOSMWMCKA6O4YCBQGPEZ63MMKY.jpg",
   "link": "https://www.tampabay.com/opinion/2022/05/03/disney-is-no-more-political-now-than-walt-himself-was-letters/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4015,
+    4304,
+    4464,
+    524,
+    2661
   ],
   "sentences": [
     "Many other people have expressed to us that the current Disney leadership should follow the vision and example of Walt Disney in his dream to have Disney be the magic Kingdom? and not engage in politics that will lead to tarnishing the Disney brand.",

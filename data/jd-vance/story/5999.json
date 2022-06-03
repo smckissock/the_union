@@ -5,14 +5,23 @@
   "headline": "Matt Dolan Gains Ground Ahead of Ohio Primary in Threat to Trump's Power",
   "image": "https://d.newsweek.com/en/full/2029245/matt-dolan-surges-ohio-gop-primary.webp?w=790&f=4ba10d3434979fa0883cf972d30e322a",
   "link": "https://www.newsweek.com/ohio-senate-republican-primary-matt-dolan-jd-vance-donald-trump-endorsement-1702599",
-  "sentiment": "0",
+  "sentiment": "-0.695",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Andrew Stanton",
   "authorUrl": "https://www.newsweek.com/authors/andrew-stanton",
   "termIds": [
-    3103
+    781,
+    946,
+    1147,
+    1801,
+    2027,
+    3103,
+    428,
+    2536,
+    2614,
+    2845
   ],
   "sentences": [
     "Meanwhile, Representative Tim Ryan, who represents a district containing Youngstown and parts of Akron, appears to be the favorite to win the Democratic primary and will likely face off against the GOP primary winner.",

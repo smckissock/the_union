@@ -5,14 +5,18 @@
   "headline": "After Florida passes bill, LGBTQ parents ask: Which parents rights?",
   "image": "",
   "link": "https://www.washingtonpost.com/nation/2022/05/09/lgbtq-parents-dont-say-gay/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3890,
+    4309,
+    3202,
+    2661
   ],
   "sentences": [
     "We always talk in our family about how families are created in all different ways  and its essential that we respect everybodys identity and support them in those decisions,? said Resnick, 37, of Oakland, Calif.\nResnick said that when different kinds of families, including LGBTQ families, are discussed in the classroom, it helps children in those families feel included.",

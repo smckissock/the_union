@@ -5,15 +5,22 @@
   "headline": "Democrats seek to win over Ukrainian Americans by portraying GOP as soft on Russia",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/04/ukraine-protest-miami_030522_getty_ukraine-voters.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/campaign/3262822-democrats-seek-to-win-over-ukrainian-americans-by-portraying-gop-as-soft-on-russia/",
-  "sentiment": "0",
+  "sentiment": "-0.313",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Julia Manchester",
   "authorUrl": "https://thehill.com/author/julia-manchester/",
   "termIds": [
+    1801,
     2303,
-    3103
+    3103,
+    142,
+    146,
+    428,
+    3457,
+    2888,
+    2942
   ],
   "sentences": [
     "After six House Republicans voted against a bill directing the government to collect evidence related to war crimes and other atrocities committed during the full-scale Russian invasion of Ukraine,? the Democratic Congressional Campaign Commission (DCCC) tweeted that The GOPs Pro-Putin faction is anti-democratic.?\nPrior to that, Rep. Madison Cawthorn (R-N.C.) faced backlash for calling Ukrainian President Volodymyr Zelensky a thug.? Democrats and his Republican colleagues immediately slammed the remarks.",

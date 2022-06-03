@@ -2,19 +2,37 @@
   {
     "id": 5204,
     "mediaId": 43,
-    "date": "2022-00-12",
+    "date": "4/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "Rebekah Sager",
     "title": "Texas conservatives have gone rogue, paying Big Lie lackeys to investigate citizens for voter fraud",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8530,
     "mediaId": 136,
-    "date": "2022-00-28",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> has targeted Disney with legislation in recent months after the company opposed what critics dubbed as the \"Don't Say Gay\" bill.",
     "author": "Xander Landen",
     "title": "Ron Johnson Takes Heat for Linking School Shootings to 'Wokeness'",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8860,
+    "mediaId": 223,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Its soft, and if <span class='selected-term'>Ron DeSantis</span> was not setting a potent example it would be even softer.",
+    "author": "Kurt Schlichter",
+    "title": "Texas Soft",
+    "sentiment": "-0.34"
+  },
+  {
+    "id": 8860,
+    "mediaId": 223,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Its soft, and if <span class='selected-term'>Ron DeSantis</span> was not setting a potent example it would be even softer.",
+    "author": "Kurt Schlichter",
+    "title": "Texas Soft",
+    "sentiment": "0"
   }
 ]

@@ -5,7 +5,7 @@
   "headline": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
   "image": "https://s.yimg.com/ny/api/res/1.2/Ar07CH0RJiOlXNLUPcf0Eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTQ3MztjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/hmWJJtku9VPf1oRp5W3z2w--~B/aD0zNjQ1O3c9NTQzNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/d08ef15f142200c13c109f97018619ff",
   "link": "https://news.yahoo.com/takeaways-election-denier-wins-bad-035611859.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     821,
-    3102
+    1147,
+    1404,
+    1801,
+    2226,
+    3102,
+    571,
+    2738,
+    2834,
+    2845,
+    2862
   ],
   "sentences": [
     "Takeaways from Tuesday's primaries in Pennsylvania, North Carolina, Kentucky, Idaho and Oregon:\nTRUMP WINS SOME, LOSES SOME\nThe former president entered the primary season on a high after JD Vance, his endorsed candidate in Ohio's hypercompetitive GOP Senate contest, shot from third to first.",

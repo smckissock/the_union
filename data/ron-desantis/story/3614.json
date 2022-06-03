@@ -5,14 +5,18 @@
   "headline": "Attack on Florida's Scrutiny of Textbooks is More CRT Gaslighting | Opinion",
   "image": "https://d.newsweek.com/en/full/2036786/ron-desantis.webp?w=790&f=80eae123b51bb8e5fe404c3492bcc68d",
   "link": "https://www.newsweek.com/attack-floridas-scrutiny-textbooks-more-crt-gaslighting-opinion-1706195",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jonathan Tobin",
   "authorUrl": "https://www.newsweek.com/authors/jonathan-tobin",
   "termIds": [
-    661
+    661,
+    3988,
+    4327,
+    3279,
+    2661
   ],
   "sentences": [
     "Yet what remains most frustrating about this discussion is that woke educators and the journalists who provide cover for them remain so inured to the critique of American society implicit in these concepts that they dismiss those who point out inappropriate material as reactionaries seeking to defend white supremacy.",

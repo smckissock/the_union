@@ -1,47 +1,56 @@
 [
   {
-    "id": 5582,
-    "mediaId": 129,
-    "date": "2022-00-11",
-    "sentence": "With less than a week until the states primary election on Tuesday, polls show that State Senator <span class='selected-term'>Doug Mastriano</span>  one of the states central figures in the former presidents efforts to overturn the 2020 election  has emerged as the clear front-runner in the G.O.P.",
-    "author": "",
-    "title": "Hard-Liners Gain in Pennsylvania G.O.P. Races, Worrying Both Parties",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7018,
     "mediaId": 124,
-    "date": "2022-00-16",
+    "date": "2/16/2022 12:00:00 AM",
     "sentence": "The Jan. 6 committee has issued six new subpoenas related to the push to appoint alternate electors,? including Arizona Republican Party Chair Kelli Ward, Pennsylvania Republican State Sen. <span class='selected-term'>Doug Mastriano</span>, who is running for governor, and Arizona GOP Secretary of State candidate Mark FInchem.",
     "author": "",
     "title": "In Ukraine, Biden faces a crisis with little political benefit back home",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 5582,
+    "mediaId": 129,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "With less than a week until the states primary election on Tuesday, polls show that State Senator <span class='selected-term'>Doug Mastriano</span>  one of the states central figures in the former presidents efforts to overturn the 2020 election  has emerged as the clear front-runner in the G.O.P.",
+    "author": "",
+    "title": "Hard-Liners Gain in Pennsylvania G.O.P. Races, Worrying Both Parties",
+    "sentiment": "0"
   },
   {
     "id": 5500,
     "mediaId": 151,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "And Trump, on Saturday weighed in with a last-minute endorsement in the governors race, picking <span class='selected-term'>Doug Mastriano</span>, the candidate who is publicly backing and campaigning with Barnette.",
     "author": "",
     "title": "Trump works overtime to push Dr. Oz over the finish line",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 5501,
     "mediaId": 151,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "And Trump, on Saturday weighed in with a last-minute endorsement in the governors race, picking <span class='selected-term'>Doug Mastriano</span>, the candidate who is publicly backing and campaigning with Barnette.",
     "author": "",
     "title": "Trump works overtime to push Dr. Oz over the finish line",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7351,
     "mediaId": 223,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "The governor's race between Democrat and current Attorney General Josh Shapiro and Republican state Sen. <span class='selected-term'>Doug Mastriano</span> is the only major race in the state that heavily favors the Democrats.",
     "author": "Salena Zito",
     "title": "The Conservative Populist Coalition Has Grown in Pennsylvania. What That Means Going Forward Is Important",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8677,
+    "mediaId": 65,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Tom Wolf's entry into the RGGI cap-and-trade pact and blunt federal restrictions -- with GOP gubernatorial nominee <span class='selected-term'>Doug Mastriano</span> and State Sen. Scott Hutchinson, R-Oil City, drafting a bill to fend off such repercussions.",
+    "author": "",
+    "title": "Biden economic adviser heralds 'strong' recovery, blames Putin for much of energy-sector inflation",
+    "sentiment": "0"
   }
 ]

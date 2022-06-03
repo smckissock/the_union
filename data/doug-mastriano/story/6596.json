@@ -5,16 +5,24 @@
   "headline": "Republican election deniers make gains in primary contests",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/mastrianodoug_051822_ap-Carolyn-Kaster_electiondeniers.jpeg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/state-watch/3492972-republican-election-deniers-make-gains-in-primary-contests/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Reid Wilson",
   "authorUrl": "https://thehill.com/author/reid-wilson/",
   "termIds": [
+    800,
     821,
+    1237,
+    2131,
     2303,
-    3102
+    3032,
+    3102,
+    428,
+    571,
+    2706,
+    2834
   ],
   "sentences": [
     "He didnt join the lawsuit because he agreed with Democrat across the country that governors could change election laws without the consent of the peoples representatives.?\nRepublican voters in North Carolina nominated Rep. Ted Budd (R) as their candidate for a U.S. Senate seat held by retiring Sen. Richard Burr (R); Budd was among the Republicans who voted against certifying the 2020 election results.",

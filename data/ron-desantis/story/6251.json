@@ -5,7 +5,7 @@
   "headline": "Opinion: Ron DeSantiss war on Disney points to an ominous GOP future",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/04/21/desantis-war-on-disney-gop-future/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     661,
-    3103
+    1801,
+    3103,
+    3793,
+    428,
+    524,
+    3314,
+    3508,
+    2661,
+    2851,
+    5109
   ],
   "sentences": [
     "Vance told Vanity Fair that he envisions a kind of de-Baathification? or a de-woke-ification? of the institutions of the left.?\nVance, whos running for Senate in Ohio in the New Right nationalist vein, said that if Donald Trump is elected president, he should fire every single midlevel bureaucrat? and every civil servant in the administrative state,? and replace them with our people.?\nIts worth taking this seriously.",

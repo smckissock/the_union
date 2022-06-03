@@ -1,38 +1,38 @@
 [
   {
-    "id": 69,
-    "mediaId": 323,
-    "date": "2022-00-01",
-    "sentence": "My only hope is to live and help my children get to a better place.'?\n  Fahima, an Afghan mother with three teenagers now living illegally in Pakistan\nRep. <span class='selected-term'>Peter Meijer</span> (R., Mich.) said there was a tremendous amount of confusion? about which path Afghans should try to reach the U.S. We know there are these other programs that can take years.",
-    "author": "Michelle Hackman",
-    "title": "Thousands of Afghans Face Narrow Path to Gain Entry to U.S.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 25,
-    "mediaId": 233,
-    "date": "2022-00-05",
-    "sentence": "Trump has also vowed revenge on the other GOP impeachment supporters: Rep. Tom Rice of South Carolina, Jaime Herrera Beutler of Washington, Dan Newhouse of Washington, <span class='selected-term'>Peter Meijer</span> of Michigan and David Valadao of California.",
-    "author": "David Jackson",
-    "title": "Rep. Fred Upton - another Donald Trump Republican impeacher - announces his retirement",
-    "sentiment": "0.0"
-  },
-  {
     "id": 81,
     "mediaId": 25,
-    "date": "2022-00-06",
+    "date": "1/6/2022 12:00:00 AM",
     "sentence": "Four other congressional candidates also attended Trump's rally: Audra Johnson, who's challenging Republican <span class='selected-term'>Peter Meijer</span> in Michigan's 3rd District, Annie Black in Nevada's 4th District, Jo Rae Perkins, a Republican Senate candidate in Oregon linked to the QAnon conspiracy group and Colorado State Representative Ron Hanks, who's running for Colorado's U.S. Senate seat.",
     "author": "Aaron Navarro",
     "title": "Over 30 people who rallied in Washington on January 6, 2021 are running for state and federal offices",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 69,
+    "mediaId": 323,
+    "date": "2/1/2022 12:00:00 AM",
+    "sentence": "My only hope is to live and help my children get to a better place.'?\n  Fahima, an Afghan mother with three teenagers now living illegally in Pakistan\nRep. <span class='selected-term'>Peter Meijer</span> (R., Mich.) said there was a tremendous amount of confusion? about which path Afghans should try to reach the U.S. We know there are these other programs that can take years.",
+    "author": "Michelle Hackman",
+    "title": "Thousands of Afghans Face Narrow Path to Gain Entry to U.S.",
+    "sentiment": "0"
   },
   {
     "id": 52,
     "mediaId": 129,
-    "date": "2022-00-24",
+    "date": "2/24/2022 12:00:00 AM",
     "sentence": "Leader McCarthy is very astute, sharp and savvy,? said Representative <span class='selected-term'>Peter Meijer</span> of Michigan, another of the 10 Republicans who voted to impeach Mr. Trump.",
     "author": "",
     "title": "Courting G.O.P.'s Mainstream and Extreme, McCarthy Plots Rise to Speaker",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 25,
+    "mediaId": 233,
+    "date": "4/5/2022 12:00:00 AM",
+    "sentence": "Trump has also vowed revenge on the other GOP impeachment supporters: Rep. Tom Rice of South Carolina, Jaime Herrera Beutler of Washington, Dan Newhouse of Washington, <span class='selected-term'>Peter Meijer</span> of Michigan and David Valadao of California.",
+    "author": "David Jackson",
+    "title": "Rep. Fred Upton - another Donald Trump Republican impeacher - announces his retirement",
+    "sentiment": "0"
   }
 ]

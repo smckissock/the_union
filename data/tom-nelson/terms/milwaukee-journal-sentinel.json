@@ -1,26 +1,17 @@
 [
   {
-    "id": 2332,
-    "mediaId": 238,
-    "date": "2022-00-13",
-    "sentence": "Meanwhile, <span class='selected-term'>Tom Nelson</span>, the county executive for rural Outagamie County and former state assemblyman, has been called a scrappy? underdog.",
-    "author": "",
-    "title": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race",
-    "sentiment": "0.275"
-  },
-  {
     "id": 2409,
     "mediaId": 178,
-    "date": "2022-00-19",
+    "date": "1/19/2022 12:00:00 AM",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Milwaukee Bucks executive Alex Lasry and Outagamie County Executive <span class='selected-term'>Tom Nelson</span>.",
     "author": "Associated Press",
     "title": "Democratic Senate candidate files election lawsuits",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2386,
     "mediaId": 367,
-    "date": "2022-00-23",
+    "date": "2/23/2022 12:00:00 AM",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> and Alex Lasry, on leave from his executive job with the Milwaukee Bucks.",
     "author": "Bill Glauber",
     "title": "Gillian Battino expected to leave Democratic U.S. Senate race and announce run for state treasurer",
@@ -29,19 +20,37 @@
   {
     "id": 2385,
     "mediaId": 367,
-    "date": "2022-00-24",
+    "date": "2/24/2022 12:00:00 AM",
     "sentence": "But this week, Outagamie County Executive <span class='selected-term'>Tom Nelson</span> turned his sights on the perceived Democratic front runner, Lt. Gov.",
     "author": "Bill Glauber",
     "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
     "sentiment": "-0.889"
   },
   {
+    "id": 2332,
+    "mediaId": 238,
+    "date": "4/13/2022 12:00:00 AM",
+    "sentence": "Meanwhile, <span class='selected-term'>Tom Nelson</span>, the county executive for rural Outagamie County and former state assemblyman, has been called a scrappy? underdog.",
+    "author": "",
+    "title": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race",
+    "sentiment": "0.275"
+  },
+  {
     "id": 2301,
     "mediaId": 367,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "April 28: <span class='selected-term'>Tom Nelson</span> claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution\nOutagamie County Executive Tom Nelson gained an endorsement Thursday from a key liberal group, the Bernie Sanders-inspired Our Wisconsin Revolution.",
     "author": "Bill Glauber",
     "title": "Wisconsin U.S. Senate election updates: Tom Nelson claims endorsement from Bernie Sanders-linked Our Wisconsin Revolution",
     "sentiment": "0.663"
+  },
+  {
+    "id": 8648,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> said Johnson is bearing false witness when he refuses to name the cause of these mass tragedies.",
+    "author": "Julia Manchester",
+    "title": "Emboldened Democrats eye Ron Johnson amid new controversies",
+    "sentiment": "0"
   }
 ]

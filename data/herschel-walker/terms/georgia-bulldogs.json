@@ -2,7 +2,7 @@
   {
     "id": 8324,
     "mediaId": 12,
-    "date": "2022-00-09",
+    "date": "1/9/2022 12:00:00 AM",
     "sentence": "And <span class='selected-term'>Herschel Walker</span> is not walking through that door, fans.",
     "author": "Steve Hummer",
     "title": "Champion 1980 Bulldogs have waited long enough for company",
@@ -11,28 +11,28 @@
   {
     "id": 8303,
     "mediaId": 25,
-    "date": "2022-00-11",
+    "date": "1/11/2022 12:00:00 AM",
     "sentence": "The Bulldogs hadn't won a national title since freshman <span class='selected-term'>Herschel Walker</span> led them there in 1980.",
     "author": "",
     "title": "Georgia Bulldogs win first national title since 1980",
     "sentiment": "0"
   },
   {
+    "id": 8215,
+    "mediaId": 12,
+    "date": "1/28/2022 12:00:00 AM",
+    "sentence": "Oh, and a tailback named <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Chip Towers",
+    "title": "Belief makes Georgia Bulldogs a threat to win it all again",
+    "sentiment": "0"
+  },
+  {
     "id": 7429,
     "mediaId": 21,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "Appling\nAtkinson\nBacon\nBaker\nBaldwin\nBanks\nBarrow\nBartow\nBen Hill\nBerrien\nBibb\nBleckley\nBrantley\nBrooks\nBryan\nBulloch\nBurke\nButts\nCalhoun\nCamden\nGeorgia US Senate Republican Primary\nCounty Results\narrow_drop_down\nCandidate\nVotes\nPercent\n Gary Black\n 0\n 0%\n Josh Clark\n 0\n 0%\n Kelvin King\n 0\n 0%\n Latham Saddler\n 0\n 0%\n <span class='selected-term'>Herschel Walker</span>\n 0\n 0%\n Show More Candidates\n* = Incumbent\n 0 votes.",
     "author": "Grace Panetta",
     "title": "RESULTS: Trump-backed Herschel Walker vies for the GOP nomination for Senate in Georgia",
     "sentiment": "0.818"
-  },
-  {
-    "id": 8215,
-    "mediaId": 12,
-    "date": "2022-00-28",
-    "sentence": "Oh, and a tailback named <span class='selected-term'>Herschel Walker</span>.",
-    "author": "Chip Towers",
-    "title": "Belief makes Georgia Bulldogs a threat to win it all again",
-    "sentiment": "0.0"
   }
 ]

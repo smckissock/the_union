@@ -5,14 +5,24 @@
   "headline": "Stefanik says becoming a mother made her 'more effective leader,' says moms in Congress 'on a mission'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da36811e-2629-43c4-aa88-b0d3ab585a9b/0d84e5b0-da65-4918-9876-a32ba30066ec/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/stefanik-motherhood-leadership-moms-in-congress",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brooke Singman",
   "authorUrl": "https://www.foxnews.com/person/s/brooke-singman",
   "termIds": [
-    5168
+    1095,
+    1154,
+    2216,
+    5168,
+    200,
+    277,
+    422,
+    428,
+    562,
+    2661,
+    2872
   ],
   "sentences": [
     "Stefanik also offered her endorsement to April Becker, a small business owner and lawyer for Nevadas 3rd Congressional District; Lisa Scheller, a small business owner, for Pennsylvanias 7th Congressional District; Monica De La Cruz, a small business owner, for Texas 15th Congressional District; and Jeanine Lawson, vice chair of the Virginia Railway Express Operations Board and chair of the Innovation Owners Association Board of Directors, for Virginia's 10th Congressional District.",

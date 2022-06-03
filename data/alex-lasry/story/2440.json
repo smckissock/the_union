@@ -5,7 +5,7 @@
   "headline": "U.S. Sen. Ron Johnson poised to announce run for a third term as early as next week, according to sources",
   "image": "https://www.gannett-cdn.com/presto/2021/10/31/PMJS/f7d6b38e-3112-4ad8-8bf6-018d26c18241-MJS_Johnson_3.jpg?width=1320&height=1216&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/2022/01/07/wisconsin-u-s-sen-ron-johnson-set-announce-run-third-term/9134003002/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,16 @@
   "termIds": [
     741,
     802,
+    1112,
+    1372,
     1568,
-    2039
+    1925,
+    1968,
+    2039,
+    2272,
+    146,
+    571,
+    2945
   ],
   "sentences": [
     "In a statement, Barnes claimed that \"the only people cheering Johnson's decision are the wealthy special interests and big donors who have made a killing during his time in Washington,\" and added that Johnson \"has made clear that he's corrupt, out of touch with Wisconsinites and can't be trusted.\"",

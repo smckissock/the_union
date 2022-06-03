@@ -5,14 +5,22 @@
   "headline": "Trump accidentally endorses JD Vance opponent Josh Mandel after bragging about his dementia test scores",
   "image": "https://www.rawstory.com/media-library/josh-mandel-and-j-d-vance.jpg?id=29187985&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/trump-jd-vance-josh-mandel/",
-  "sentiment": "0",
+  "sentiment": "-0.226",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah K. Burris",
   "authorUrl": "https://www.rawstory.com/u/sarah_k_burris",
   "termIds": [
-    3103
+    882,
+    946,
+    1147,
+    1801,
+    2087,
+    2131,
+    3103,
+    2725,
+    2845
   ],
   "sentences": [
     "Just moments after bragging about his high scores on a dementia test and mocking President Joe Biden's stutter, former President Donald Trump accidentally endorsed the wrong Ohio candidate for the U.S. Senate.",

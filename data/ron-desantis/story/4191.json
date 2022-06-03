@@ -5,14 +5,19 @@
   "headline": "Florida to dedicate $30 million to saving manatees amid die-off",
   "image": "https://www.tampabay.com/resizer//Jc8tqDbRcucpqwBng1CSr0fPmO0=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/2TBCEDRRJJGITGSUZ4OB3ZSOW4.jpg",
   "link": "https://www.tampabay.com/news/environment/2022/05/02/florida-to-dedicate-30-million-to-saving-manatees-amid-die-off/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4577,
+    4852,
+    3160,
+    3283,
+    2661
   ],
   "sentences": [
     "Delta called it an unfortunate situation.?\nIn an emailed statement, Delta spokeswoman Catherine Morrow told The Associated Press on Friday that that the airline was made aware of the shipment situation ... and quickly engaged the appropriate internal teams to assess the situation.",

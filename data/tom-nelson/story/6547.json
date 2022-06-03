@@ -5,7 +5,7 @@
   "headline": "Ron Johnson unifies Republicans at state convention as they remain split over issues and other candidates",
   "image": "https://www.gannett-cdn.com/presto/2022/05/21/PMJS/a1d83dc1-3c36-4cad-a779-1b71742e08d7-MJS__05212022_JOHNSON___Wisgop_EC006979.jpg?width=1320&height=752&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/05/21/ron-johnson-unifies-republicans-wisconsin-party-convention/9870627002/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,16 @@
   "termIds": [
     741,
     802,
+    855,
     1568,
-    2039
+    1608,
+    1925,
+    2039,
+    2087,
+    2145,
+    428,
+    571,
+    2972
   ],
   "sentences": [
     "More:Republican schism over the 2020 election spills over as Speaker Vos spends a day traveling state to manage party divisions\nRepublicans who control the Legislature have also been divided on whether to bring themselves into what's known as an extraordinary session so the state Senate can fire John Tate, the chairman of the Parole Commission appointed by Evers.",

@@ -5,14 +5,20 @@
   "headline": "Georgia is becoming Trump's 'Achilles' heel' as he fails to exert political influence on the state: analysis",
   "image": "https://www.rawstory.com/media-library/donald-trump-afp.jpg?id=26975607&width=1200&coordinates=0%2C94%2C0%2C94&height=600",
   "link": "https://www.rawstory.com/trump-georgia-2657319264/",
-  "sentiment": "0.0",
+  "sentiment": "-0.511",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Chapman",
   "authorUrl": "https://www.rawstory.com/u/matthew_chapman",
   "termIds": [
-    2095
+    1147,
+    1434,
+    2095,
+    4325,
+    571,
+    2555,
+    2672
   ],
   "sentences": [
     "\"Then, Georgia emerged as the focal point of Trump's unfounded claims of voter fraud, as he pushed state officials to overturn the election results  actions that are now under investigation by an Atlanta-area district attorney.",

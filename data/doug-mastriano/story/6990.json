@@ -5,14 +5,20 @@
   "headline": "Evangelical Christians are politicizing the Jewish story of Esther",
   "image": "",
   "link": "https://www.washingtonpost.com/outlook/2022/03/15/purim-esther-christian-jewish/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1147,
+    3102,
+    5306,
+    5398,
+    5442,
+    524,
+    2716
   ],
   "sentences": [
     "In a 2019 interview with the Christian Broadcasting Network in Jerusalem, Pompeo was asked whether Trump was raised for such a time as this, just like Queen Esther, to help save the Jewish people from the Iranian menace??\nEsther is, according to Jo Carruthers, a professor at Lancaster University in Great Britain, a character type that can be applied at will.? This malleability dates back to antiquity, when the original Hebrew book, also known as the Masoretic Text and probably written in the 4th century B.C., was later amended to include religious elements obviously absent from the original version.",

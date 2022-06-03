@@ -5,14 +5,18 @@
   "headline": "Disneys Head of Corporate Affairs Leaves Company Amid Dust-Up With Florida",
   "image": "https://sts3.wsj.net/iweb/images/wsj-logo-big-black.svg",
   "link": "https://www.wsj.com/articles/disneys-head-of-corporate-affairs-departs-after-less-than-four-months-11651266797",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Robbie Whelan",
   "authorUrl": "https://www.wsj.com/news/author/robbie-whelan",
   "termIds": [
-    661
+    661,
+    1241,
+    4704,
+    524,
+    2661
   ],
   "sentences": [
     "Walt Disney Co. DIS -3.17% said Geoff Morrell, its head of corporate affairs and a top lieutenant to Chief Executive Bob Chapek, is leaving the company after less than four months on the job.",

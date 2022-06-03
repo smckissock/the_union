@@ -2,10 +2,64 @@
   {
     "id": 5051,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "Kevin McCarthy saved Trump from political 'extinction' -- and some Republicans secretly resent him\nNOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Brad Reed",
     "title": "Kevin McCarthy saved Trump from 'political extinction' -- and many Republicans secretly resent him: NYT reporter",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8608,
+    "mediaId": 193,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Aaron Kessler",
+    "title": "Some Democrats voting in GOP primaries to block Trump picks",
+    "sentiment": "-0.549"
+  },
+  {
+    "id": 8609,
+    "mediaId": 1460,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Some Democrats voting in GOP primaries to block Trump picks",
+    "sentiment": "-0.507"
+  },
+  {
+    "id": 8613,
+    "mediaId": 943,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Associated Press",
+    "title": "Some Democrats voting in GOP primaries to block Trump picks",
+    "sentiment": "-0.524"
+  },
+  {
+    "id": 8614,
+    "mediaId": 132,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Some Democrats voting in GOP contests to block Trump picks",
+    "sentiment": "-0.644"
+  },
+  {
+    "id": 8617,
+    "mediaId": 1576,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Thousands of Democrats voted in GOP primaries to block Trump picks in Georgia",
+    "sentiment": "-0.666"
+  },
+  {
+    "id": 8618,
+    "mediaId": 178,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "STEVE PEOPLES and AARON KESSLER Associated Press",
+    "title": "Some Democrats voting in GOP primaries to block Trump picks",
+    "sentiment": "-0.694"
   }
 ]

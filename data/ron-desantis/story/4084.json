@@ -5,14 +5,21 @@
   "headline": "Biden Just Walked Into a Student-Debt Trap",
   "image": "https://cdn.theatlantic.com/thumbor/zN8mXXcpxUMgBDbYtDUTt4-QM7Y=/0x0:2500x1406/1952x1098/media/img/mt/2022/05/GettyImages_1235769285/original.jpg",
   "link": "https://www.theatlantic.com/ideas/archive/2022/05/biden-student-loan-forgiveness-popularity/629752/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Atlantic",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "David Frum",
   "authorUrl": "https://www.theatlantic.com/author/david-frum/",
   "termIds": [
-    661
+    661,
+    704,
+    1147,
+    2087,
+    2429,
+    3715,
+    427,
+    517
   ],
   "sentences": [
     "But at the same time, the Democrats lost ground in Congressin great part because they failed to win over enough non-college-educated voters, rural voters, and Latino voters, some portion of whom were surely alienated by the progressive themes of 2020.",

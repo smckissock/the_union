@@ -5,14 +5,22 @@
   "headline": "Abortion Debate Puts Corporate Initiatives in the Spotlight",
   "image": "https://images.wsj.net/im-537071?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/abortion-debate-puts-corporate-initiatives-in-the-spotlight-11651687778",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mengqi Sun",
   "authorUrl": "https://www.wsj.com/news/author/mengqi-sun",
   "termIds": [
-    661
+    661,
+    827,
+    4007,
+    4074,
+    4435,
+    482,
+    3552,
+    3631,
+    2661
   ],
   "sentences": [
     "Photo: Eric Lee for The Wall Street Journal\nA Texas law passed last year that barred abortions in the state after about six weeks of pregnancy extended liability not just to abortion clinics and doctors, but to those who aid and abet an abortion, such as transportation providers or insurance companies.",

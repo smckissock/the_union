@@ -5,7 +5,7 @@
   "headline": "Trump tells Perdue tele-rally that Republicans will bomb in Georgia if Brian Kemp is re-nominated",
   "image": "https://www.rawstory.com/media-library/georgia-gov-brian-kemp.png?id=27361036&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/trump-perdue/",
-  "sentiment": "0.0",
+  "sentiment": "-0.883",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://www.rawstory.com/u/matthew_chapman",
   "termIds": [
     815,
-    2095
+    895,
+    1011,
+    1147,
+    1951,
+    2095,
+    4325,
+    428,
+    571
   ],
   "sentences": [
     "And if theyre not voting for Brian Kemp, theyre not going to be able to vote for Herschel Walker.?\nPer Bluestein, Kemp is fighting back, saying in a new statement, \"Governor Kemp is laser-focused on uniting Republicans on May 24th to make sure Stacey Abrams is never our governor or the next president.\"",

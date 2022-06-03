@@ -5,14 +5,23 @@
   "headline": "A Pennsylvania Election Storm Brews Again, This Time in a G.O.P. Primary",
   "image": "https://static01.nyt.com/images/2022/05/19/multimedia/19onpolitics-votecount/19onpolitics-votecount-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/19/us/politics/pennsylvania-election-mccormick-oz.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1147,
+    2087,
+    2409,
+    2491,
+    5700,
+    5760,
+    5959,
+    428,
+    2862
   ],
   "sentences": [
     "The committee said it had obtained communications that showed his involvement in a coordinated strategy to contact Republican members of state legislatures in certain states that former President Trump had lost and urge them to reclaim their authority by sending an alternate slate of electors.",

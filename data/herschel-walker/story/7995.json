@@ -5,14 +5,20 @@
   "headline": "Herschel Walker appeared to question in vitro fertilization, too",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220317-MB-Herschel-Walker-jg-4a42b3.jpg",
   "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/herschel-walker-appeared-question-vitro-fertilization-rcna20446",
-  "sentiment": "0.0",
+  "sentiment": "-0.957",
   "mediaOutlet": "MSNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Steve Benen",
   "authorUrl": "https://www.msnbc.com/author/steve-benen-ncpn433601",
   "termIds": [
-    815
+    815,
+    1136,
+    2087,
+    2419,
+    428,
+    525,
+    2945
   ],
   "sentences": [
     "When the Post sought comment from the Walker campaign, a spokesperson for the Republican said, The country is unraveling thanks to Raphael Warnock and Joe Biden and the media wants to talk about Herschel in church on a Sunday morning.",

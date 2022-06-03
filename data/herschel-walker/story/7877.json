@@ -5,7 +5,7 @@
   "headline": "The Jolt: Lawmakers rush to finish favorite bills before time runs out",
   "image": "https://www.ajc.com/resizer/5UDuxWfXuiqTXiSsBDA67QHi74A=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/SZKUJPM4LKTSEDUAMJ4M3254SI.JPG",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-lawmakers-rush-to-finish-favorite-bills-before-time-runs-out/K562XGZRTZA2ZEP7NBC74O5ISI/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
     815,
-    2095
+    1101,
+    1147,
+    1178,
+    1951,
+    2095,
+    571,
+    2672,
+    6047
   ],
   "sentences": [
     "Our colleague Mark Niesse reports that Secretary of State Brad Raffensperger called for the review in an attempt to bolster a legislative effort to pass a new constitutional amendment permanently banning noncitizen voting, a practice that is nonexistent already in Georgia but is allowed for local elections in New York City and a handful of other cities.",

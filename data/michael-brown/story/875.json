@@ -5,14 +5,17 @@
   "headline": "Employment tribunal says school discriminated against pastor-caretaker",
   "image": "https://www.wnd.com/wp-content/uploads/2021/07/gay-pride-LBBT-balloons-Pixabay.jpg",
   "link": "https://www.wnd.com/?p=5001872",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "WND Staff",
   "authorUrl": "https://www.wnd.com/author/wndstaff/",
   "termIds": [
-    2171
+    867,
+    2171,
+    96,
+    97
   ],
   "sentences": [
     "The judge added, \"To curtail the claimant's freedom of speech outside of work which is an important part of his role as a Christian minister and thus part of freedom to practice his religion must be done with some exercise of caution and only in the clearest cases where the rights of others are being damaged should the school intervene to prevent the claimant from preaching.",

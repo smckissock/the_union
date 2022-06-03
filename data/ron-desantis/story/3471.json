@@ -5,7 +5,7 @@
   "headline": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
   "image": "https://d.newsweek.com/en/full/2040318/trump-trumpism-desantis-barnette.webp?w=790&f=86b13030071cd11cd6ea9d6ae0960b7c",
   "link": "https://www.newsweek.com/trumpism-moving-beyond-trump-thats-good-news-ron-desantis-1707478",
-  "sentiment": "0.0",
+  "sentiment": "0.281",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,16 @@
   "authorUrl": "https://www.newsweek.com/authors/katherine-fung",
   "termIds": [
     661,
+    879,
+    946,
+    1147,
+    1653,
+    1839,
     2303,
-    3103
+    2491,
+    3103,
+    4545,
+    571
   ],
   "sentences": [
     "But no MAGA candidate proved to be as much of a threat to Trump's pick than conservative commentator Kathy Barnette, who gained late momentum in one of the most expensive and most watched primaries of this midterms cycleand who has said that \"MAGA does not belong to President Trump.\"",

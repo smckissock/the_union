@@ -5,14 +5,23 @@
   "headline": "Florida Democrats pledge $15 million to mobilize voters, unify party",
   "image": "https://www.tampabay.com/resizer//UJZHlopQJhgB0mk83xtZDDEEjH4=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/5FMAIXS36RA23EBFXMUJSFURQY.JPG",
   "link": "https://www.tampabay.com/news/florida-politics/elections/2022/05/11/florida-democrats-pledge-15-million-to-mobilize-voters-unify-party/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1451,
+    1572,
+    1761,
+    3992,
+    3993,
+    4090,
+    428,
+    3277,
+    2661
   ],
   "sentences": [
     "On Wednesday, the Democrats announced a push they said will meet these challenges with a new strategy that makes history.?\nAs part of a new campaign called Blue Shift Florida,? Democrats pledged to spend $15 million to accomplish a series of goals, including hiring around 200 organizers, registering voters, increasing the partys presence throughout the state by opening approximately 80 offices, and converting election-year efforts into year-round operations.",

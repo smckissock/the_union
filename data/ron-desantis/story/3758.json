@@ -5,7 +5,7 @@
   "headline": "Trump's South Carolina donors vet DeSantis",
   "image": "https://www.politico.com/dims4/default/763e62e/2147483647/legacy_thumbnail/1200x878%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F31%2F9c%2F758acb7548f490a075db128a4459%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1240289796",
   "link": "https://www.politico.com/news/2022/05/10/trumps-south-carolina-donors-vet-desantis-00031514",
-  "sentiment": "0.0",
+  "sentiment": "0.337",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "",
   "termIds": [
     661,
-    815
+    815,
+    1141,
+    1147,
+    4342,
+    428,
+    2590,
+    2661,
+    2672,
+    2910
   ],
   "sentences": [
     "Florida went through a brief pandemic lockdown but opened much faster than most states, and the DeSantis administration went to court to fight local mask and vaccine mandates  efforts that quickly endeared him to Republicans nationally, who started dubbing him Americas Governor.?\nMost recently, DeSantis picked a fight with the Walt Disney Co. after the company opposed legislation he championed banning classroom discussion of sexual orientation or gender identity in kindergarten through third grade.",

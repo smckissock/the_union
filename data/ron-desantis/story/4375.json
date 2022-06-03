@@ -5,14 +5,22 @@
   "headline": "American parents are generally fine with whats being taught in school",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/04/29/american-parents-are-generally-fine-with-whats-being-taught-school/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1758,
+    2087,
+    146,
+    199,
+    200,
+    428,
+    2661,
+    2953
   ],
   "sentences": [
     "For all of the time and energy spent discussing these subjects, though, and for all of the intonations from elected officials about how theyre responding to the concerns of parents in their districts or states, new polling conducted by Ipsos for NPR reveals something interesting.",

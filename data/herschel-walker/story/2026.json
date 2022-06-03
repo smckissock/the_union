@@ -5,14 +5,23 @@
   "headline": "Georgia Senate race: Herschel Walker lands endorsement of leading anti-abortion group",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f8af956-91ae-42ea-922b-3fe8806f0eeb/39440d72-2168-4e0b-9bd1-bbd8cde75458/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/georgia-senate-race-herschel-walker-endorsement-leading-anti-abortion-group",
-  "sentiment": "0.0",
+  "sentiment": "0.853",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Steinhauser",
   "authorUrl": "https://www.foxnews.com/person/s/paul-steinhauser",
   "termIds": [
-    815
+    644,
+    815,
+    1131,
+    1136,
+    2095,
+    146,
+    232,
+    342,
+    571,
+    2672
   ],
   "sentences": [
     "WALKER'S HAUL: FIRST TIME SENATE CANDIDATE'S FEROCIOUS FUNDRAISING\nWalker, a former professional and college football star running back who won a Heisman Trophy and helped propel the University of Georgia to a national championship, is the clear front-runner in next month's GOP Senate primary, thanks to his high name recognition in the Peach State and the endorsement he received from former President Donald Trump after announcing his candidacy last summer.",

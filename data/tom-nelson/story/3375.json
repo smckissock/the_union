@@ -5,7 +5,7 @@
   "headline": "Senate primaries to watch",
   "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6LUACR7H5ESLKPB3FNVYFQ66U.jpg",
   "link": "https://www.washingtonpost.com/politics/interactive/2022/primaries-to-watch-midterms-2022/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,22 @@
   "authorUrl": "",
   "termIds": [
     741,
+    798,
     802,
+    886,
+    1133,
+    1147,
     1568,
+    1622,
     1901,
     2039,
     2095,
     2125,
     2303,
-    3094
+    3094,
+    562,
+    571,
+    2707
   ],
   "sentences": [
     "While the race is largely on ideological lines, it is clouded by a current House Ethics Committee investigation into Newman following allegations that she offered a senior staff position to prevent an opponent from challenging her in the 2020 primary.",

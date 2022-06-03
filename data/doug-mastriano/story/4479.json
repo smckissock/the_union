@@ -5,7 +5,7 @@
   "headline": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
   "image": "https://www.wabe.org/app/uploads/2022/05/AP22138078558097-1-336x189.jpg",
   "link": "https://www.wabe.org/takeaways-election-denier-wins-bad-behavior-dooms-cawthorn/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,17 @@
   "authorUrl": "",
   "termIds": [
     821,
+    1106,
+    1147,
+    1713,
+    1903,
+    1990,
     2095,
     2303,
-    3102
+    3102,
+    428,
+    2834,
+    2862
   ],
   "sentences": [
     "Takeaways from Tuesdays primaries in Pennsylvania, North Carolina, Kentucky, Idaho and Oregon:\nTrump wins some, loses some\nThe former president entered the primary season on a high after JD Vance, his endorsed candidate in Ohios hypercompetitive GOP Senate contest, shot from third to first.",

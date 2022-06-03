@@ -2,46 +2,82 @@
   {
     "id": 4120,
     "mediaId": 195,
-    "date": "2022-00-03",
+    "date": "5/3/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kimberly Wehle",
     "title": "SCOTUS leaked abortion opinion is rooted in a time women had no rights",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4131,
     "mediaId": 558,
-    "date": "2022-00-03",
+    "date": "5/3/2022 12:00:00 AM",
     "sentence": "When outrage by employees and others finally prompted the company to take a stand, its reversal only for Florida's brutish Republican governor, <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Michael Hiltzik",
     "title": "Column: Corporations left California for lower taxes and fewer regulations. Will abortion rights bring them back?",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4132,
     "mediaId": 98,
-    "date": "2022-00-03",
+    "date": "5/3/2022 12:00:00 AM",
     "sentence": "When outrage by employees and others finally prompted the company to take a stand, its reversal only made it a convenient target for Floridas brutish Republican governor, <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Michael Hiltzik",
     "title": "Column: Corporations left California for lower taxes and fewer regulations. Will abortion rights bring them back?",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4154,
     "mediaId": 718,
-    "date": "2022-00-03",
+    "date": "5/3/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jesse Jackson",
     "title": "Gun violence rises as access to guns rises",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3860,
     "mediaId": 558,
-    "date": "2022-00-08",
+    "date": "5/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Utilities push back against growth of rooftop solar panels",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8833,
+    "mediaId": 147,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Anthony Izaguirre",
+    "title": "Florida abortion restriction law challenged with lawsuit",
+    "sentiment": "0"
+  },
+  {
+    "id": 8839,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Ann E. Marimow",
+    "title": "Florida abortion providers seek to block states new 15-week ban",
+    "sentiment": "0"
+  },
+  {
+    "id": 8841,
+    "mediaId": 943,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "El gobernador republicano <span class='selected-term'>Ron DeSantis</span> promulg en abril la prohibicin de abortar despus de las 15 semanas de embarazo, parte de un creciente movimiento conservador para restringir el acceso al procedimiento despus de que en un borrador de opinin de la Corte Suprema que fue filtrado se sealara que el mximo tribunal confirmara una ley de Mississippi que prohbe los abortos despus de las 15 semanas.",
+    "author": "ANTHONY IZAGUIRRE",
+    "title": "Impugnan ley de Florida que restringe los abortos",
+    "sentiment": "0"
+  },
+  {
+    "id": 8807,
+    "mediaId": 223,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Madeline Leesman",
+    "title": "Pro-Abortion Organizations Will Challenge Floridas 15-Week Abortion Law",
+    "sentiment": "0"
   }
 ]

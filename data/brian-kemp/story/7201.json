@@ -5,7 +5,7 @@
   "headline": "Here's Who Donald Trump Has Endorsed in Next Week's Primary Elections",
   "image": "https://d.newsweek.com/en/full/2042717/former-us-president-donald-trump-speaks.webp?w=790&f=44f96a7abe26bd094534ecdeb405b3dc",
   "link": "https://www.newsweek.com/who-donald-trump-endorsed-this-week-primary-elections-may-2022-1708913",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,18 @@
   "authorUrl": "https://www.newsweek.com/authors/khaleda-rahman",
   "termIds": [
     815,
+    896,
+    1147,
+    1708,
+    2049,
     2095,
-    2303
+    2203,
+    2303,
+    2475,
+    5527,
+    5531,
+    428,
+    2672
   ],
   "sentences": [
     "Paxton, who has been under the cloud of an FBI investigation into claims he abused his office to benefit a wealthy donor and is also awaiting trial on state securities fraud charges, faces a run-off election against Texas Land Commissioner George P. Bush on May 24 after failing to reach the 50 percent threshold in a primary contest earlier this year.",

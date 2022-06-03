@@ -5,14 +5,20 @@
   "headline": "Florida wants to avoid critical race theory and social justice in social studies texts",
   "image": "https://www.politico.com/dims4/default/7e2fd24/2147483647/legacy_thumbnail/1200x799%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F65%2F2b%2F1e1231ad408caafd5eb0221ce47b%2F20200527-textbooks-getty-773.jpg",
   "link": "https://www.politico.com/news/2022/05/20/florida-critical-race-theory-social-justice-social-studies-00034104",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4059,
+    517,
+    3279,
+    3286,
+    5208,
+    2661
   ],
   "sentences": [
     "Ron DeSantis, who made a major push to prohibit schools and companies from leveling guilt or blame at students and employees based on race or sex, taking aim at lessons over issues like white privilege.? To that end, the guidance to publishers notes that possible critical race theory components could include making someone feel discomfort, guilt, anguish, or any other form of psychological distress on account of his or her race, color, sex, or national origin.?\nAdditionally, the Florida Department of Education wants to avoid references to social justice? in its textbooks and gave publishers a few examples to help guide them.",

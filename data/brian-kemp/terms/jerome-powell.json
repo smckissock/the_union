@@ -2,10 +2,19 @@
   {
     "id": 3305,
     "mediaId": 195,
-    "date": "2022-00-13",
+    "date": "5/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Cate Martel",
     "title": "The Hill's 12:30 Report  Elon Musk's Twitter deal hits snag",
+    "sentiment": "0"
+  },
+  {
+    "id": 8741,
+    "mediaId": 195,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Max Greenwood",
+    "title": "Campaign Report  Biden confronts his most serious midterm issue",
     "sentiment": "0"
   }
 ]

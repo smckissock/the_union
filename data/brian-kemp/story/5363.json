@@ -5,14 +5,17 @@
   "headline": "Georgia lawmakers pass parents bill of rights advocated by Kemp",
   "image": "https://www.ajc.com/resizer/GUZuQlo_lnugbR0eOpBKi1TIxyY=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/AMSSNWC36X6VR4NS5GYEADT2GA.jpg",
   "link": "https://www.ajc.com/education/georgia-lawmakers-pass-parents-bill-of-rights-advocated-by-kemp/HN4WLWDRHJGBVOMAFGV2HNWRBM/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ty Tagami",
   "authorUrl": "https://www.ajc.com/staff/ty-tagami/",
   "termIds": [
-    2095
+    2095,
+    219,
+    2672,
+    5091
   ],
   "sentences": [
     "Melissa Jackson, state president of the group No Left Turn in Education, said supplemental materials are the crux of our problem.? She said in an interview that most recent parental complaints shes heard were about rogue teachers bringing in supplemental resources.?",

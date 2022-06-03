@@ -2,10 +2,19 @@
   {
     "id": 5241,
     "mediaId": 1576,
-    "date": "2022-00-09",
+    "date": "4/9/2022 12:00:00 AM",
     "sentence": "Georgians are feeling a little bit of relief after Governor <span class='selected-term'>Brian Kemp</span> signed a law suspending Georgias motor fuel tax through the end of May.",
     "author": "",
     "title": "Georgians now feeling some relief at the pump after gas tax suspension",
+    "sentiment": "0"
+  },
+  {
+    "id": 8763,
+    "mediaId": 25,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Georgia\nOn March 18, Georgia Governor <span class='selected-term'>Brian Kemp</span> signed a bill to temporarily suspend the state's excise tax on motor fuel sales.",
+    "author": "Sarah Ewall-Wice",
+    "title": "New York joins growing number of states attempting to provide relief at the pump",
     "sentiment": "0"
   }
 ]

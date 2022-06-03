@@ -5,14 +5,20 @@
   "headline": "Fulton County parents drop mask lawsuit against school district",
   "image": "https://www.ajc.com/resizer/cFswJgdUSYHE6fhejVwCgwLBuUg=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/L4IA5OKIJRHHRLUFFU5NROBZRY.jpg",
   "link": "https://www.ajc.com/education/fulton-county-parents-drop-mask-lawsuit-against-school-district/32DFQZDIPFAQBGKZ3RWCXGXLCI/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Vanessa McCray",
   "authorUrl": "https://www.ajc.com/staff/vanessa-mccray/",
   "termIds": [
-    2095
+    2095,
+    3986,
+    217,
+    501,
+    3350,
+    2555,
+    2670
   ],
   "sentences": [
     "We are grateful for the legislatures attention to the importance of parental choice on this very important issue.?\nThe district consented to the cases dismissal, according to court documents.",

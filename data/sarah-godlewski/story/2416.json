@@ -5,16 +5,22 @@
   "headline": "Booker endorses Mandela Barnes in Wisconsin Senate race",
   "image": "https://cdn.jwplayer.com/v2/media/pmw70L9k/poster.jpg?width=640",
   "link": "https://thehill.com/homenews/campaign/589137-booker-endorses-mandela-barnes-in-wisconsin-senate-race",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mychael Schnell",
   "authorUrl": "https://thehill.com/author/mychael-schnell",
   "termIds": [
+    704,
     741,
     802,
-    2039
+    1333,
+    1916,
+    1925,
+    2039,
+    571,
+    2972
   ],
   "sentences": [
     "From helping to lead Wisconsin's recovery efforts from the pandemic, championing economic development for rural and urban communities, and bringing people together to find solutions to the climate crisis, Mandela stands up for Wisconsin's working families,? Booker wrote.",

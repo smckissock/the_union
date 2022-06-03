@@ -5,14 +5,21 @@
   "headline": "Pa. GOP governor hopeful Mastriano wrote thesis warning of left-wing Hitlerian Putsch",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/mastrianodoug_051822_ap-Carolyn-Kaster_electiondeniers.jpeg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3496019-pa-gop-governor-hopeful-mastriano-wrote-thesis-warning-of-left-wing-hitlerian-putsch/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lexi Lonas",
   "authorUrl": "https://thehill.com/author/lexi-lonas/",
   "termIds": [
-    3102
+    1990,
+    3102,
+    5374,
+    428,
+    542,
+    5171,
+    2862,
+    2945
   ],
   "sentences": [
     "The assault? on the miltiary, according to Mastriano, began with the insertion of homosexuality into the military.?\nThe paper was posted on a website affiliated with the Department of Defense, although the paper said its content does not represent the views of the U.S. government.",

@@ -5,14 +5,19 @@
   "headline": "\"We Will Save Democracy\"",
   "image": "https://images.dailykos.com/images/704794/story_image/22443868_sOptimized.jpg?1565194464",
   "link": "https://www.dailykos.com/story/2022/3/2/2081988/--We-Will-Save-Democracy-Good-News-Roundup-March-2-SOTU-edition",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1765,
+    2087,
+    2128,
+    525,
+    2945
   ],
   "sentences": [
     "Extend foreclosure and eviction moratoriums\nBiden directed key agencies, including the Centers for Disease Control and Prevention; the Department of Veterans Affairs; the Department of Agriculture; the Department of Housing and Urban Development; and the Federal Housing Finance Agency to extend the current pause on federal evictions and foreclosures\nBiden extends eviction ban amid fears of 'horrific crisis'\nThe Biden administration unveiled a raft of measures to prevent people who lost income during the pandemic from losing their homes on Thursday, including by extending nationwide eviction and foreclosure bans until July 31.",

@@ -5,14 +5,19 @@
   "headline": "Warnocks ex-wife takes legal action over child custody",
   "image": "https://www.ajc.com/resizer/8JHVi5Z12XyvpdHoIjE7XXeQrJc=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/M3MO4MWMIREB7IPIZEGA3IDMX4.jpg",
   "link": "https://www.ajc.com/politics/warnocks-ex-wife-takes-legal-action-over-child-custody/UNI2QB7HQ5CVJMIIYSBGWD37FQ/",
-  "sentiment": "0.0",
+  "sentiment": "-0.375",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Bluestein",
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
-    815
+    815,
+    1136,
+    501,
+    571,
+    2555,
+    2672
   ],
   "sentences": [
     "She claimed a substantial change of circumstances regarding the welfare of the children after Warnocks victory, and she alleged in the filing that her ex-husband hasnt reimbursed her for some child care costs that she incurred during time hes scheduled to be with the kids.",

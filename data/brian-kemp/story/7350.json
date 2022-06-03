@@ -5,7 +5,7 @@
   "headline": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
   "image": "",
   "link": "https://www.nytimes.com/live/2022/05/24/us/election-georgia-primary-texas",
-  "sentiment": "0.0",
+  "sentiment": "-0.762",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,10 +14,18 @@
   "termIds": [
     815,
     821,
+    1147,
+    1154,
+    1951,
     2095,
+    2203,
     2303,
     3102,
-    3103
+    3103,
+    4325,
+    2537,
+    2551,
+    2672
   ],
   "sentences": [
     "Also running in the primary are Meagan Hanson, a former state legislator; Paulette Smith, a recording artist turned beautician and the mother of Josh Smith, a former Atlanta Hawks basketball player; Suzi Voyles, a former president of the Georgia Federation of Republican Women; Blake Harbin, who runs a mortgage lending company; and Mallory Staples, Byron Gatewood and Eugene Yu, all of whom are small business owners.",

@@ -5,14 +5,23 @@
   "headline": "Pennsylvania gubernatorial candidate gets private sit-down with Trump at CPAC; will seek endorsement",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/309b9fd2-5461-4691-b86b-bc2ecf94ea32/0b3fa509-2204-4bdb-b6d4-11fe833ce335/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/pennsylvania-gubernatorial-candidate-dave-white-trump-cpac",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Teny Sahakian",
   "authorUrl": "https://www.foxnews.com/person/s/teny-sahakian",
   "termIds": [
-    3102
+    1147,
+    1990,
+    1997,
+    3102,
+    5294,
+    128,
+    428,
+    2851,
+    2862,
+    2945
   ],
   "sentences": [
     "ORLANDO  Dave White, a Republican candidate for Pennsylvania governor, revealed exclusively to Fox News that he will sit down with former President Trump at the Conservative Political Action Conference (CPAC) to ask for his endorsement.",

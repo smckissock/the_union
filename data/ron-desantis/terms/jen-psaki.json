@@ -1,119 +1,92 @@
 [
   {
-    "id": 4045,
-    "mediaId": 237,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Haisten Willis",
-    "title": "White House accuses 'MAGA' Republicans of waging war on Mickey Mouse",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3976,
-    "mediaId": 223,
-    "date": "2022-00-05",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> recently gave a speech where he declared that \"the student debt that is out there, almost 60% of it is graduate school debt.\"",
-    "author": "Brad Slager",
-    "title": "Fact-Checker's Own Website Proves DeSantis Accurate in 'Mostly False' Entry",
-    "sentiment": "0"
-  },
-  {
-    "id": 3976,
-    "mediaId": 223,
-    "date": "2022-00-05",
-    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> recently gave a speech where he declared that \"the student debt that is out there, almost 60% of it is graduate school debt.\"",
-    "author": "Brad Slager",
-    "title": "Fact-Checker's Own Website Proves DeSantis Accurate in 'Mostly False' Entry",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3883,
-    "mediaId": 237,
-    "date": "2022-00-07",
-    "sentence": "",
-    "author": "Washington Examiner Staff",
-    "title": "'Ultra-MAGA agenda': Quotes of the Week",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3891,
-    "mediaId": 209,
-    "date": "2022-00-07",
-    "sentence": "",
-    "author": "Brigid Kennedy",
-    "title": "Texas Gov. Greg Abbott has a controversial plan for the southern border. Is it working?",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3799,
-    "mediaId": 19,
-    "date": "2022-00-10",
-    "sentence": "",
-    "author": "Jordan Dixon-Hamilton",
-    "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3723,
-    "mediaId": 65,
-    "date": "2022-00-11",
-    "sentence": "",
-    "author": "",
-    "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3518,
-    "mediaId": 136,
-    "date": "2022-00-17",
-    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Jake Thomas",
-    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
-    "sentiment": "0"
-  },
-  {
-    "id": 3518,
-    "mediaId": 136,
-    "date": "2022-00-17",
-    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "Jake Thomas",
-    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4382,
     "mediaId": 675,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
     "author": "WND News Services",
     "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
     "sentiment": "0"
-  },
-  {
-    "id": 4382,
-    "mediaId": 675,
-    "date": "2022-00-29",
-    "sentence": "pic.twitter.com/fSnU2gk97x\n <span class='selected-term'>Ron DeSantis</span> (@GovRonDeSantis) April 29, 2022\nYou cannot have a Ministry of Truth in this country.",
-    "author": "WND News Services",
-    "title": "DeSantis declares war on Biden's 'Ministry of Truth'",
-    "sentiment": "0.0"
   },
   {
     "id": 6094,
     "mediaId": 43,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "Another stupid stunt (actually rescues DeSantis)\nx\nBREAKING: Disney hits back HARD at <span class='selected-term'>Ron DeSantis</span> and the GOP  says that Florida can't legally dissolve its self-governing district unless the state pays off the district's $1 billion debts due to a pledge in the original 1967 law.",
     "author": "",
     "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4327,
     "mediaId": 18,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "Joe Battenfeld",
     "title": "Battenfeld: Bidens Ministry of Truth sparks mockery, fears",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 4045,
+    "mediaId": 237,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Haisten Willis",
+    "title": "White House accuses 'MAGA' Republicans of waging war on Mickey Mouse",
+    "sentiment": "0"
+  },
+  {
+    "id": 3976,
+    "mediaId": 223,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "Governor <span class='selected-term'>Ron DeSantis</span> recently gave a speech where he declared that \"the student debt that is out there, almost 60% of it is graduate school debt.\"",
+    "author": "Brad Slager",
+    "title": "Fact-Checker's Own Website Proves DeSantis Accurate in 'Mostly False' Entry",
+    "sentiment": "0"
+  },
+  {
+    "id": 3883,
+    "mediaId": 237,
+    "date": "5/7/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Washington Examiner Staff",
+    "title": "'Ultra-MAGA agenda': Quotes of the Week",
+    "sentiment": "0"
+  },
+  {
+    "id": 3891,
+    "mediaId": 209,
+    "date": "5/7/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Brigid Kennedy",
+    "title": "Texas Gov. Greg Abbott has a controversial plan for the southern border. Is it working?",
+    "sentiment": "0"
+  },
+  {
+    "id": 3799,
+    "mediaId": 19,
+    "date": "5/10/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jordan Dixon-Hamilton",
+    "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
+    "sentiment": "0"
+  },
+  {
+    "id": 3723,
+    "mediaId": 65,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Tucker: Karine Jean-Pierre is furious at America, despite her ample privilege",
+    "sentiment": "0"
+  },
+  {
+    "id": 3518,
+    "mediaId": 136,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "Florida protesters who picket outside a person's private home could face jail time and fines under a bill signed by Governor <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "Jake Thomas",
+    "title": "Ron DeSantis Signs Law Making it Illegal to Protest Outside a Private Home",
+    "sentiment": "0"
   }
 ]

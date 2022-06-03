@@ -5,14 +5,23 @@
   "headline": "Why Did It Take the GOP So Long to Panic About Herschel Walker?",
   "image": "https://d.newsweek.com/en/full/2043360/donald-trump-herschel-walker.webp?w=790&f=2fb9d3e25ab18b57d93d68c15bde1e8f",
   "link": "https://www.newsweek.com/why-did-it-take-gop-so-long-panic-about-herschel-walker-1709248",
-  "sentiment": "0.0",
+  "sentiment": "-0.465",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bill Powell",
   "authorUrl": "https://www.newsweek.com/authors/bill-powell-0",
   "termIds": [
-    815
+    815,
+    1136,
+    1147,
+    1312,
+    101,
+    338,
+    428,
+    571,
+    5618,
+    2672
   ],
   "sentences": [
     "But whether Walker's popularity with Republican primary voters will be enough in November, to flip a seat the GOP is counting on to regain control of the Senate, will be decided by a larger electorate who less than a year and a half ago ousted two Republican incumbent senators in favor of Democratic challengers.",

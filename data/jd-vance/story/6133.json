@@ -5,14 +5,23 @@
   "headline": "Vance leads Senate GOP primary field in Ohio: poll",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/04/vancejd_032922ap-paul-vernon_vance.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3467162-vance-leads-senate-gop-primary-field-in-ohio-poll/",
-  "sentiment": "0",
+  "sentiment": "0.861",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tal Axelrod",
   "authorUrl": "https://thehill.com/author/tal-axelrod/",
   "termIds": [
-    3103
+    946,
+    1053,
+    1801,
+    2027,
+    2466,
+    3103,
+    379,
+    428,
+    571,
+    2845
   ],
   "sentences": [
     "Observers questioned whether Trumps backers would be cool to Vance over critical comments he made in 2016 about the real estate moguls White House bid, but Trump sought to tamp down any lingering disgruntlement in his endorsement.",

@@ -5,14 +5,20 @@
   "headline": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
   "image": "https://static01.nyt.com/images/2022/05/12/nyregion/00jewishmuseum2/merlin_149393901_e88ffabe-1aa3-4394-ac50-588d7042a824-superJumbo.jpg?quality=75&auto=webp",
   "link": "https://www.nytimes.com/2022/05/13/nyregion/desantis-jewish-museum-tikvah.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Liam Stack",
   "authorUrl": "https://www.nytimes.com/by/liam-stack",
   "termIds": [
-    661
+    661,
+    1154,
+    2186,
+    4244,
+    4302,
+    3426,
+    2661
   ],
   "sentences": [
     "The fact is that no contract with the Tikvah Fund was ever signed for this rental event to be held at the museum, and no deposit was ever made.?\nThe museum had never signed the contract, but a negotiation between the two parties had been underway, according to the Tivkah Fund, which said that there had been a series of emails discussing the event and the museums $23,000 rental fee before it was announced that Mr. DeSantis would be joining the lineup.",

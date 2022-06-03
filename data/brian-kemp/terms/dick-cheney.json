@@ -2,7 +2,7 @@
   {
     "id": 3366,
     "mediaId": 136,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "Former President George W. Bush is reported to be attending a fundraiser in support of Georgia governor <span class='selected-term'>Brian Kemp</span> in another example of recent and longtime enemies of Donald Trump publicly rallying against the MAGA president's endorsed candidate, David Perdue.",
     "author": "Ewan Palmer",
     "title": "Donald Trump's Enemies Flock to Brian Kemp in Bid to Thwart MAGA Surge",
@@ -11,10 +11,19 @@
   {
     "id": 8374,
     "mediaId": 238,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Josh Dawsey",
     "title": "After losses in Ga., Trump sets sights on ousting Liz Cheney in Wyo.",
+    "sentiment": "0"
+  },
+  {
+    "id": 8770,
+    "mediaId": 157,
+    "date": "5/30/2022 12:00:00 AM",
+    "sentence": "\"<span class='selected-term'>Brian Kemp</span> never once criticized Trump for saying the election was stolen,\" said CNN's Ryan Nobles.",
+    "author": "Matthew Chapman",
+    "title": "Trump is 'regrouping' in Wyoming because he has a 'huge problem' if he can't take out Liz Cheney: analyst",
     "sentiment": "0"
   }
 ]

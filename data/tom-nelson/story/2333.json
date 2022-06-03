@@ -5,7 +5,7 @@
   "headline": "Democrats battle to knock out Sen. Ron Johnson in tough election year",
   "image": "https://twt-thumbs.washtimes.com/media/image/2022/03/14/election_2022_wisconsin_republicans_11517_c0-206-6000-3704_s885x516.jpg?9ea217e2706d6a5c242f97724a752c3c11759cfa",
   "link": "https://www.washingtontimes.com/news/2022/apr/13/democrats-battle-knock-out-sen-ron-johnson-tough-e/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,16 @@
   "termIds": [
     741,
     802,
+    1147,
     1568,
-    2039
+    1925,
+    2039,
+    2087,
+    2418,
+    2429,
+    146,
+    2793,
+    2972
   ],
   "sentences": [
     "The Wisconsin Republican is facing a tidal wave of Democratic challengers seeking to defeat the GOP firebrand, citing their irreconcilable disagreements over the Jan. 6, 2021 riot at the U.S. Capitol, his leadership of the Senate Homeland Security Committee, and his oft-repeated doubts about the integrity of the 2020 election.",

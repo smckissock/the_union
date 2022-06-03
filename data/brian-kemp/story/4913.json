@@ -5,14 +5,20 @@
   "headline": "Wisconsin meat snack firm to build 800-worker plant in Perry",
   "image": "https://www.ajc.com/resizer/psyLSxW9d0f4Srv4TSSPZFZwiAY=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/HXS2XDQE5JETZIFGQEOA4T2Y4Y.jfif",
   "link": "https://www.ajc.com/news/georgia-news/wisconsin-meat-snack-firm-to-build-800-worker-plant-in-perry/6DDZIQHAHNGZZDGNKUMCDSHMII/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Michael E. Kanell",
   "authorUrl": "https://www.ajc.com/staff/michael-e-kanell/",
   "termIds": [
-    2095
+    2095,
+    3175,
+    3317,
+    2674,
+    2972,
+    4932,
+    5014
   ],
   "sentences": [
     "The promised investment came after negotiation with state officials, as well as those of the county, city, public schools and the Central Georgia Technical College, with the ultimate goal of bringing quality jobs to our citizens,? according to a statement by Ben Hulbert, chair of the countys development authority.",

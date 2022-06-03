@@ -5,14 +5,21 @@
   "headline": "30 people called to testify in Georgia's Trump investigation have refused",
   "image": "https://www.rawstory.com/media-library/trump-bashed-gop-s-brian-kemp-at-lie-filled-rally-hours-after-governor-refused-to-overturn-georgia-s-election-results.jpg?id=24814905&width=1200&coordinates=0%2C15%2C0%2C15&height=600",
   "link": "https://www.rawstory.com/trump-georgia-fraud-case-witnesses/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sarah K. Burris",
   "authorUrl": "https://www.rawstory.com/u/sarah_k_burris",
   "termIds": [
-    2095
+    1147,
+    1223,
+    2095,
+    2203,
+    428,
+    501,
+    2670,
+    2672
   ],
   "sentences": [
     "Willis said witnesses should ideally begin appearing before the grand jury by June 1.\nI dont want anyone to say oh, shes doing this because she wants to influence the outcome of this upcoming election,? Willis told reporters.. The people will decide the outcome of this upcoming election.",

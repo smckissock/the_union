@@ -5,14 +5,18 @@
   "headline": "DeSantis hits back at Biden's book burning comment: We want education, not indoctrination",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b805c02-ed71-4719-bcf9-fc0a8e4bfc2e/f8bab782-ba87-4874-9b22-742099070738/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/ron-desantis-biden-math-book-education-indoctrination-florida",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Nikolas Lanum",
   "authorUrl": "https://www.foxnews.com/person/l/nikolas-lanum",
   "termIds": [
-    661
+    661,
+    718,
+    2087,
+    2661,
+    2851
   ],
   "sentences": [
     "INGRAHAM: RON DESANTIS HAS TAKEN ON THE LEFT MORE AGGRESSIVELY THAN ANY GOVERNOR IN MODERN MEMORY\nDeSantis added that his administration believes parents have a \"fundamental role\" in their childrens upbringing and education while Biden and his administration believe parents should \"butt out\" so schools can indoctrinate \"what they think your kid should learn or believe.\"",

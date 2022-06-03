@@ -5,14 +5,23 @@
   "headline": "The 2022 elections could determine the fate of abortion access for years in a number of major swing states.",
   "image": "https://video-images.vice.com/articles/6271421856f07d00947c82b3/lede/1651589876465-abortion-roe-v-wade-protest.png?crop=1xw:0.8433xh;0xw,0.096xh&resize=20:*",
   "link": "https://www.vice.com/en/article/5dgxzb/states-that-will-ban-abortion",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Vice",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Cameron Joseph",
   "authorUrl": "https://www.vice.com/en/contributor/cameron-joseph",
   "termIds": [
-    1844
+    661,
+    1761,
+    1844,
+    2095,
+    2326,
+    428,
+    482,
+    2550,
+    2672,
+    2791
   ],
   "sentences": [
     "Kari Lake, the Republican front-runner to replace Ducey, has called for Arizona to pass a carbon copy? of the law in Texas, which effectively bans abortion at six weeks, while Karrin Taylor Robson, the GOP establishment's favored candidate, has called the Texas law a victory for life.?\nArizona also has a law on the books from 1901a decade before it became a statethat calls for prison time for anyone who assists in an abortion, though it's unclear whether that law could be applied now.",

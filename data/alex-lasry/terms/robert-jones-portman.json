@@ -1,20 +1,20 @@
 [
   {
-    "id": 2298,
-    "mediaId": 237,
-    "date": "2022-00-02",
-    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; <span class='selected-term'>Alex Lasry</span>, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and Tom Nelson, current Outagamie County executive.",
-    "author": "Salena Zito",
-    "title": "The tea leaves in Wisconsin look promising for Republicans",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2343,
     "mediaId": 65,
-    "date": "2022-00-30",
+    "date": "3/30/2022 12:00:00 AM",
     "sentence": "One of those Democrats was Senate candidate <span class='selected-term'>Alex Lasry</span> of Wisconsin, who in a January commercial pledged to \"stand up to China.\"",
     "author": "",
     "title": "The Senate candidate who spotlights 'It is us versus China' in a new ad is a Democrat",
+    "sentiment": "0"
+  },
+  {
+    "id": 2298,
+    "mediaId": 237,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "Among the candidates are Mandela Barnes, the current lieutenant governor; <span class='selected-term'>Alex Lasry</span>, son to a part-owner of the Milwaukee Bucks; Sarah Godlewski, current state treasurer; and Tom Nelson, current Outagamie County executive.",
+    "author": "Salena Zito",
+    "title": "The tea leaves in Wisconsin look promising for Republicans",
     "sentiment": "0"
   }
 ]

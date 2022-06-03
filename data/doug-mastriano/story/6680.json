@@ -5,14 +5,24 @@
   "headline": "Fetterman takes Pennsylvania Dem Senate nomination despite stroke, as GOP race too close to call",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17a67769-5ca1-42ec-afd7-fe6a99ece3e0/359092d5-6d6f-436c-bd50-203ea7220c93/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/polls-close-pennsylvanias-senate-gubernatorial-primary",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Steinhauser",
   "authorUrl": "",
   "termIds": [
-    3102
+    704,
+    1154,
+    1253,
+    1622,
+    1770,
+    1990,
+    3102,
+    428,
+    562,
+    571,
+    2862
   ],
   "sentences": [
     "CLICK HERE TO GET THE FOX NEWS APP\nThe Oz and McCormick campaigns and outside super PACs backing the two contenders since the beginning of the year have spent tens of millions of dollars to run TV, digital and radio ads attacking each other over their conservative credentials and over key issues, making the GOP the most expensive in the nation so far this cycle.",

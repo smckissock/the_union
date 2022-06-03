@@ -5,14 +5,24 @@
   "headline": "Wisconsin GOP Sen. Johnson hauls in $7.1 million over the past three months for his reelection bid",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adde457c-6aa5-4b5c-9603-f9f0bf3a220a/660b3aa6-cd65-49cb-bb7d-2827530385cf/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/wisconsins-johnson-hauls-in-7-1-million-the-past-three-months-for-his-senate-reelection-bid",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Steinhauser",
   "authorUrl": "",
   "termIds": [
-    2039
+    1112,
+    1925,
+    1968,
+    2039,
+    2087,
+    146,
+    338,
+    428,
+    431,
+    571,
+    2972
   ],
   "sentences": [
     "Johnson stirred controversy last year by questioning COVID-19 vaccines, seemingly downplaying the effects of climate change, and asserting that he never felt threatened by the rioters that stormed the U.S. Capitol on Jan. 6, 2021 as they attempted to disrupt congressional certification of President Biden's Electoral College victory over Trump.",

@@ -288,21 +288,21 @@
     "sentiment": null
   },
   {
-    "id": 6472,
-    "mediaId": 178,
-    "date": "2/15/2022 12:00:00 AM",
-    "sentence": "The individuals subpoenaed include Michael Roman and Gary <span class='selected-term'>Michael Brown</span>, who served as directors for Trump's 2020 reelection campaign.",
-    "author": "FARNOUSH AMIRI",
-    "title": "Jan. 6 panel subpoenas 6 more in fake GOP electors scheme",
-    "sentiment": null
-  },
-  {
     "id": 7031,
     "mediaId": 25,
     "date": "2/15/2022 12:00:00 AM",
     "sentence": "Matt York / AP\nThompson said that Michael Roman and Gary <span class='selected-term'>Michael Brown</span>, director and deputy director of the Trump campaign's Election Day operations, helped coordinate campaign staffers' efforts in the scheme.",
     "author": "Zak Hudak",
     "title": "January 6 committee subpoenas others tied to false elector scheme",
+    "sentiment": null
+  },
+  {
+    "id": 6472,
+    "mediaId": 178,
+    "date": "2/15/2022 12:00:00 AM",
+    "sentence": "The individuals subpoenaed include Michael Roman and Gary <span class='selected-term'>Michael Brown</span>, who served as directors for Trump's 2020 reelection campaign.",
+    "author": "FARNOUSH AMIRI",
+    "title": "Jan. 6 panel subpoenas 6 more in fake GOP electors scheme",
     "sentiment": null
   },
   {
@@ -1050,6 +1050,60 @@
     "sentence": "Politics\nCommentary\nLt. Col. James Zumwalt\nJoseph Farah\nPatrice Lewis\nCraige McMillan\nRead all of today's COMMENTARY...\nU.S.\nWorld\nMoney\nHealth\nEducation\nFaith\nDiversions\nMORE COMMENTARY\nBarbara Simpson\nDaniel Joseph\n<span class='selected-term'>Michael Brown</span>\nRead all of today's COMMENTARY...\nNew Section",
     "author": "Art Moore",
     "title": "Study undermines alarm about asymptomatic COVID spread",
+    "sentiment": null
+  },
+  {
+    "id": 8673,
+    "mediaId": 943,
+    "date": "5/30/2022 12:00:00 AM",
+    "sentence": "Formerly a staunch Democrat, Hubbard said she became a Republican in 2014, after a police officer shot and killed a young Black man, <span class='selected-term'>Michael Brown</span>, in Ferguson, Missouri, sparking protests and condemnation of police brutality against Black people.",
+    "author": "Clare Spaulding",
+    "title": "GOP candidates running for U.S. Sen. Tammy Duckworth's seat face pick your poison dilemma' in blue Illinois",
+    "sentiment": null
+  },
+  {
+    "id": 8672,
+    "mediaId": 675,
+    "date": "5/30/2022 12:00:00 AM",
+    "sentence": "Politics\nWorld\nU.S.\nHealth\nEducation\nFaith\nDiversions\nMORE COMMENTARY\nBarbara Simpson\nDaniel Joseph\n<span class='selected-term'>Michael Brown</span>\nRead all of today's COMMENTARY...\nNew Section",
+    "author": "WND News Services",
+    "title": "About those claims there's a wave of 'white supremacist' murders",
+    "sentiment": null
+  },
+  {
+    "id": 8670,
+    "mediaId": 157,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon King",
+    "title": "Michigan 'quality guru' Perry Johnson remains off August primary ballot after unanimous court ruling",
+    "sentiment": null
+  },
+  {
+    "id": 8668,
+    "mediaId": 261,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Arpan Lobo",
+    "title": "Disqualified Republican governor hopefuls battle it out in court",
+    "sentiment": null
+  },
+  {
+    "id": 8663,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Those deemed ineligible included Johnson, Craig, Markey, Donna Brandenburg and <span class='selected-term'>Michael Brown</span>, who immediately withdrew from the governor's race.",
+    "author": "Amy B Wang",
+    "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
+    "sentiment": null
+  },
+  {
+    "id": 8655,
+    "mediaId": 157,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
     "sentiment": null
   }
 ]

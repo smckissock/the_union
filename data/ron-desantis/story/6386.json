@@ -5,7 +5,7 @@
   "headline": "The Hills Morning Report  Russia plots next move amid setbacks",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/04/MR_russianship_091108_ap_ukraine-war.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/morning-report/3269391-the-hills-morning-report-russia-plots-next-move-amid-setbacks/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "https://thehill.com/author/alexis-simendinger/",
   "termIds": [
     661,
-    3103
+    766,
+    992,
+    1115,
+    1501,
+    2030,
+    2286,
+    2367,
+    3103,
+    3768,
+    3139,
+    2888
   ],
   "sentences": [
     "gExpert puzzlers this week: Daniel Bachhuber, Blair Marasco, Candi Cee, Mary Anne McEnery, Howard McKeon, Shane Doucet, Ki Harvey, Randall S. Patrick, Richard Baznik, Terry Pflaumer, Harry Strulovici, Jonathan Scheff, Patrick Kavanagh, Stanley Wasser, John Donato, Kathleen A. Kovalik, Dan Fazio, Pam Manges, David E. Letostak, Lou Tisler, Pat Piper, Robert Bradley, Paul Harris, Len Jones, Ben Woodruff, Luther Berg, Joan Domingues, Jaina Mehta, Steve James and Jack Barshay.",

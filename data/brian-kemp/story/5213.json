@@ -5,14 +5,17 @@
   "headline": "Georgia elections chief asks for investigation into noncitizen voting",
   "image": "https://www.ajc.com/resizer/08modMWK_UCzvjrzXXXkZukaRVg=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/IBXPJTKUAKO74UROA6WEEKUAPM.jpg",
   "link": "https://www.ajc.com/politics/georgia-elections-chief-asks-for-investigation-into-noncitizen-voting/GTNHTB6OKBGA7F3K2HADFWG2TU/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Shannon McCaffrey",
   "authorUrl": "https://www.ajc.com/staff/shannon-mccaffrey/",
   "termIds": [
-    2095
+    2095,
+    2203,
+    179,
+    2672
   ],
   "sentences": [
     "Raffensperger, who is up for reelection this year, announced the move at a state Capitol news conference while, less than one mile away, a trial kicked off in federal court to determine whether Georgias election laws kept voters from casting ballots in 2018 and 2002 elections.",

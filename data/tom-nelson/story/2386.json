@@ -5,7 +5,7 @@
   "headline": "Gillian Battino expected to leave Democratic U.S. Senate race and announce run for state treasurer",
   "image": "https://www.gannett-cdn.com/presto/2021/05/05/PMJS/bbedfcdc-ef82-4f65-b2f8-6e2e71340bbf-Headshot_V2.2-PNG.png?crop=1025,1403,x1043,y183&width=600&height=822&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/02/23/gillian-battino-expected-drop-senate-bid-run-state-treasurer/6909520001/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,12 @@
     741,
     802,
     1568,
-    2039
+    2039,
+    146,
+    318,
+    600,
+    2966,
+    2972
   ],
   "sentences": [
     "More:Mandela Barnes raises $1.23 million during last 3 months of 2021 in Wisconsin U.S. Senate race\nIn joining the state treasurer race, Battino is expected to build on what she learned on the campaign trail over the past year, with voters raising concerns about such issues as rural broadband, health care and financial insecurity.",

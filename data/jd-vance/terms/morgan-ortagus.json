@@ -1,47 +1,47 @@
 [
   {
-    "id": 5759,
-    "mediaId": 124,
-    "date": "2022-00-04",
+    "id": 8225,
+    "mediaId": 237,
+    "date": "1/27/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Allan Smith",
-    "title": "Inside the GOP effort to scrub a Trump-backed candidate from Tennessee's ballot",
-    "sentiment": "0"
+    "author": "Paul Bedard",
+    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
+    "sentiment": "0.374"
   },
   {
     "id": 16,
     "mediaId": 558,
-    "date": "2022-00-16",
+    "date": "4/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ben Werschkul",
     "title": "Business resumes of J.D. Vance and other Trump-backed candidates",
     "sentiment": "0.623"
   },
   {
-    "id": 5466,
-    "mediaId": 129,
-    "date": "2022-00-18",
-    "sentence": "",
-    "author": "",
-    "title": "Primaries Show Limits, and Depths, of Trumps Power Over G.O.P. Base",
-    "sentiment": "0"
-  },
-  {
     "id": 6278,
     "mediaId": 124,
-    "date": "2022-00-20",
+    "date": "4/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Trump-backed House candidate removed from ballot by Tenn. Republicans",
     "sentiment": "0"
   },
   {
-    "id": 8225,
-    "mediaId": 237,
-    "date": "2022-00-27",
+    "id": 5759,
+    "mediaId": 124,
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Paul Bedard",
-    "title": "Marjorie Taylor Greene backs Robby Starbuck, Ortagus not worthy of Trump support",
-    "sentiment": "0.374"
+    "author": "Allan Smith",
+    "title": "Inside the GOP effort to scrub a Trump-backed candidate from Tennessee's ballot",
+    "sentiment": "0"
+  },
+  {
+    "id": 5466,
+    "mediaId": 129,
+    "date": "5/18/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Primaries Show Limits, and Depths, of Trumps Power Over G.O.P. Base",
+    "sentiment": "0"
   }
 ]

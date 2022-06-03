@@ -5,7 +5,7 @@
   "headline": "Pompeo endorses Rep. Ronny Jackson for reelection in Texas",
   "image": "https://cdn.brid.tv/live/partners/19383/snapshot/977623_sd_1647960312.jpg",
   "link": "https://www.washingtonexaminer.com/news/campaigns/pompeo-endorses-rep-ronny-jackson-for-reelection-in-texas",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "https://www.washingtonexaminer.com/author/virginia-aabram",
   "termIds": [
     661,
-    815
+    815,
+    1147,
+    2087,
+    2169,
+    2409,
+    146,
+    428,
+    562,
+    2661,
+    2934
   ],
   "sentences": [
     "Former Secretary of State Mike Pompeo has endorsed a Republican congressman who first attained national prominence as former President Donald Trump's White House physician for reelection to Congress, adding to his roster of endorsements for the 2022 midterm elections.",

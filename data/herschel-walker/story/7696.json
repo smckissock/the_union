@@ -5,14 +5,20 @@
   "headline": "Opinion: What the parade of GOP sexual misconduct allegations really tells us",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/04/21/what-parade-gop-sexual-misconduct-allegations-really-tells-us/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1448,
+    1631,
+    2136,
+    2137,
+    2365,
+    428
   ],
   "sentences": [
     "In Missouri, some Republicans are terrified that disgraced former governor Eric Greitens, who has been accused of physical abuse by both his ex-wife and a woman with whom he had an extramarital affair (he denies the allegations), might win the partys nomination for Senate.",

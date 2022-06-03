@@ -5,14 +5,19 @@
   "headline": "A closer look at Floridas rejected math textbooks",
   "image": "https://www.tampabay.com/resizer//qkEdEPgNL9EphRzGlVXWy3MO1lw=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/KKPHRBQDGZHH3P324E4QICMP6E.jpg",
   "link": "https://www.tampabay.com/news/education/2022/04/29/a-closer-look-at-floridas-rejected-math-textbooks/?itm_source=parsely-api",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3149,
+    3223,
+    3522,
+    2661,
+    4976
   ],
   "sentences": [
     "It also takes a swipe at climate change deniers: To deny that such pollution will have any impact on the environment seems as nave as believing that cigarette smoke will not harm your lungs.?\nThe same chapter ventures into Americas debate over guns, saying The chance of dying from a gunshot is 30 times higher in the United States than in England.?\nThe passage then notes that guns and racial issues dominated the debate leading up to the 2016 presidential election.",

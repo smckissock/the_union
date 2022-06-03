@@ -5,14 +5,22 @@
   "headline": "Mike Pence and top Republicans flock to Georgia to defeat Trump's candidate in key primary",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/05/brian-kemp-mike-pence-0513221.jpg",
   "link": "https://www.salon.com/2022/05/13/mike-pence-and-top-flock-to-georgia-to-defeat-candidate-in-key-primary/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jon Skolnik",
   "authorUrl": "https://www.salon.com/writer/jon-skolnik",
   "termIds": [
-    2095
+    1035,
+    1147,
+    1284,
+    1434,
+    2095,
+    2136,
+    2623,
+    2672,
+    2934
   ],
   "sentences": [
     "Throughout Kemp's campaign, Trump has repeatedly questioned his Republican bonafides, largely because the governor rebuffed the former governor's attempt to overturn the 2020 election in Georgia, a battleground state that Trump narrowly lost.",

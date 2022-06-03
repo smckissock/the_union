@@ -5,14 +5,23 @@
   "headline": "Fox News Poll: McCormick tops Dr. Oz in Pennsylvania GOP senate primary poll",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/496f0650-1d8b-4193-b9c3-1a2bee20f7a1/2904d5e1-7580-4d85-8001-0ba1679ff215/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/mccormick-tops-dr-oz-pennsylvania-gop-senate-primary",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Dana Blanton",
   "authorUrl": "https://www.foxnews.com/person/b/dana-blanton",
   "termIds": [
-    3102
+    943,
+    1653,
+    2491,
+    3102,
+    146,
+    200,
+    428,
+    600,
+    2992,
+    2862
   ],
   "sentences": [
     "Conducted March 2-6, 2022 under the joint direction of Beacon Research (D) and Shaw & Company Research (R), this Fox News Poll includes telephone interviews (landline and cellphone) with live interviewers among 960 Pennsylvania Republican primary voters and has an overall margin of sampling error of plus or minus three percentage points.",

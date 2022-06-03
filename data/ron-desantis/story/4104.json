@@ -5,14 +5,22 @@
   "headline": "Louisiana Lawmakers Kill Dont Say Gay Bill Banning Teachers From Discussing Gender Identity",
   "image": "https://imageio.forbes.com/specials-images/imageserve/62719b1599f29198ea41d642/XGR-Tax-Session/0x0.jpg?fit=crop&format=jpg&crop=2837,1595,x0,y263,safe",
   "link": "https://www.forbes.com/sites/nicholasreimann/2022/05/03/louisiana-lawmakers-kill-dont-say-gay-bill-banning-teachers-from-discussing-gender-identity/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Forbes",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Nicholas Reimann",
   "authorUrl": "https://www.forbes.com/sites/nicholasreimann/",
   "termIds": [
-    661
+    661,
+    4603,
+    4733,
+    3202,
+    2537,
+    2661,
+    2672,
+    2710,
+    2766
   ],
   "sentences": [
     "The wording of the bill drew widespread criticism, since banning the discussion of gender identity would appear to make it illegal for teachers to ask students to refer to them by gender-related titles like \"Mr.,\" \"Ms.\" or \"Mrs.\"\nBill author Rep. Dodie Horton (R) claimed at Tuesday's Education Committee meeting that was not the bill's intention, but lawmakers struck down an amendment that would have removed the line about teachers discussing gender identity before ultimately killing the bill.",

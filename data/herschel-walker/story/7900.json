@@ -5,14 +5,22 @@
   "headline": "Single most dangerous time: Trump blasts climate change, CRT, and KBJ",
   "image": "https://cdn.brid.tv/live/partners/19383/snapshot/978609_sd_1648059563.jpg",
   "link": "https://www.washingtonexaminer.com/watch-single-most-dangerous-time-trump-blasts-climate-change-crt-and-kbj",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Heather Hamilton",
   "authorUrl": "https://www.washingtonexaminer.com/author/heather-hamilton",
   "termIds": [
-    815
+    815,
+    1147,
+    6000,
+    2555,
+    2624,
+    2672,
+    2834,
+    2942,
+    2945
   ],
   "sentences": [
     "The former commander in chief went on to send a warning to America's greatest geopolitical foes, noting that the United States has the greatest nuclear power  something he credited to himself, arguing he rebuilt the nation's military defenses during his time in the Oval Office.",

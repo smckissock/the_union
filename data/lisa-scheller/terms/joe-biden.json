@@ -1,38 +1,38 @@
 [
   {
-    "id": 3427,
-    "mediaId": 376,
-    "date": "2022-00-16",
-    "sentence": "Wild is likely facing a rematch with <span class='selected-term'>Lisa Scheller</span>, a businesswoman and former Lehigh County Commissioner who lost in 2020 by 4 percentage points.",
-    "author": "Kate Ackley\nMary Ellen McIntire",
-    "title": "These 3 House members' reelection bids could end Tuesday",
-    "sentiment": "0.0"
-  },
-  {
     "id": 6503,
     "mediaId": 43,
-    "date": "2022-00-17",
+    "date": "3/17/2022 12:00:00 AM",
     "sentence": "? PA-07: Democratic Rep. Susan Wild faces a rematch against 2020 Republican nominee <span class='selected-term'>Lisa Scheller</span>, a former Lehigh County commissioner and wealthy businessman who held her to a surprisingly small 52-48 victory as Biden was taking the old 7th by a similar 52-47 margin.",
     "author": "",
     "title": "Morning Digest: This swing seat in Pittsburgh suburbs went blue in 2018, but will it stay that way?",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7330,
-    "mediaId": 65,
-    "date": "2022-00-23",
-    "sentence": "FIRST ON FOX: <span class='selected-term'>Lisa Scheller</span> highlights that \"America's the land of opportunity and second chances and that's my story.\"",
-    "author": "Paul Steinhauser",
-    "title": "House GOP reelection arm spotlights candidate running in key swing district who overcame drug addiction",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 6502,
     "mediaId": 376,
-    "date": "2022-00-31",
+    "date": "3/31/2022 12:00:00 AM",
     "sentence": "Republican <span class='selected-term'>Lisa Scheller</span>, who lost to Wild last cycle, is back for a rematch and is considered one of the GOPs top candidates in the country.",
     "author": "Nathan L. Gonzales",
     "title": "Race ratings show Republicans positioned for pickups in Pennsylvania",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3427,
+    "mediaId": 376,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "Wild is likely facing a rematch with <span class='selected-term'>Lisa Scheller</span>, a businesswoman and former Lehigh County Commissioner who lost in 2020 by 4 percentage points.",
+    "author": "Kate Ackley\nMary Ellen McIntire",
+    "title": "These 3 House members' reelection bids could end Tuesday",
+    "sentiment": "0"
+  },
+  {
+    "id": 7330,
+    "mediaId": 65,
+    "date": "5/23/2022 12:00:00 AM",
+    "sentence": "FIRST ON FOX: <span class='selected-term'>Lisa Scheller</span> highlights that \"America's the land of opportunity and second chances and that's my story.\"",
+    "author": "Paul Steinhauser",
+    "title": "House GOP reelection arm spotlights candidate running in key swing district who overcame drug addiction",
+    "sentiment": "0"
   }
 ]

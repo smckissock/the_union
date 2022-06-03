@@ -5,14 +5,22 @@
   "headline": "J.D. Vance's Book Sales Got Bigger Boost from Trump Than Netflix",
   "image": "https://d.newsweek.com/en/full/2031183/j-d-vance.webp?w=790&f=e2a38d3320441ae96404a5a938fae052",
   "link": "https://www.newsweek.com/jd-vances-book-sales-got-bigger-boost-trump-netflix-1703484",
-  "sentiment": "0",
+  "sentiment": "0.934",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Rob Minto",
   "authorUrl": "",
   "termIds": [
-    3103
+    1147,
+    1793,
+    1801,
+    3103,
+    3847,
+    4889,
+    13,
+    351,
+    2945
   ],
   "sentences": [
     "Currently, the book is ranked 170 on Amazon in the overall books list for the U.S., but is number one in several categories including 'Poverty,' 'Sociology of Rural Areas,' and 'Sociology of Class.'",

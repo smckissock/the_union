@@ -5,14 +5,24 @@
   "headline": "Two Democratic Congresswomen, One Redrawn Georgia District",
   "image": "https://static01.nyt.com/images/2022/05/20/multimedia/00pol-mcbath-bordeaux-photo01/00pol-mcbath-bordeaux-photo01-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    704,
+    727,
+    1101,
+    1147,
+    1158,
+    2095,
+    2376,
+    146,
+    571,
+    2555,
+    2672
   ],
   "sentences": [
     "Pro-McBath advertising highlights her work on gun violence prevention and her experience with tragedy, in spots run by her campaign and by supportive outside groups, including two groups associated with former Mayor Michael R. Bloomberg of New York: Independence USA PAC, his personal super PAC, and the political arm of Everytown for Gun Safety, a group Ms. McBath has worked for.",

@@ -5,14 +5,25 @@
   "headline": "21% of deaths reported to VAERS after COVID vaccine occurred within 48 hours",
   "image": "https://www.wnd.com/wp-content/uploads/2021/01/vaccine-vaccination-medicine-doctor-Pixabay-copyright-free-image.jpg",
   "link": "https://www.wnd.com/2022/04/21-deaths-reported-vaers-covid-vaccine-occurred-within-48-hours/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "WND News Services",
   "authorUrl": "https://www.wnd.com/author/wndnewsservices/",
   "termIds": [
-    2171
+    699,
+    773,
+    1426,
+    1614,
+    1849,
+    2087,
+    2171,
+    2277,
+    91,
+    146,
+    358,
+    2791
   ],
   "sentences": [
     "(NOQ REPORT)  The Centers for Disease Control and Prevention (CDC) today released new data showing a total of 1,237,647 reports of adverse events following COVID vaccines were submitted between Dec. 14, 2020, and April 15, 2022, to the Vaccine Adverse Event Reporting System (VAERS).",

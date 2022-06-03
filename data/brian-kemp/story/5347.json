@@ -5,14 +5,24 @@
   "headline": "Mark Zuckerberg Involved in Significant 2020 Election Interference, New Documentary Exposes",
   "image": "https://media.townhall.com/townhall/reu/ha/2019/291/4fd92eaa-e1f0-4ae6-ab09-2b56fe1e7fa3.png",
   "link": "https://townhall.com/tipsheet/rebeccadowns/2022/04/02/mark-zuckerberg-involved-in-significant-2020-election-interference-new-documentar-n2605409",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Rebecca Downs",
   "authorUrl": "https://townhall.com/tipsheet/rebeccadowns/",
   "termIds": [
-    2095
+    1101,
+    1170,
+    1506,
+    2087,
+    2095,
+    2348,
+    3950,
+    4136,
+    4434,
+    265,
+    2550
   ],
   "sentences": [
     "More importantly, though, is that a press release for the documentary notes that the documentary relies \"on the 990 forms non-profit groups must file with the Internal Revenue Service,\" and \"traces the river of cash flowing from the Chan Zuckerberg Initiative to a pair of 501(c)(3) non-profit organizations, the Center for Tech and Civic Life (CTCL) and the Center for Election Innovation and Research (CEIR).",

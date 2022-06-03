@@ -5,14 +5,22 @@
   "headline": "Michigan's DeVos family throws its support behind Tudor Dixon for governor",
   "image": "https://www.gannett-cdn.com/-mm-/52b01365712dccf3181e49ad690fdbf505ae5887/c=273-84-2720-1467/local/-/media/2018/06/30/DetroitFreeP/DetroitFreePress/636659874182297094-AP-17038828269051.jpg?width=2447&height=1383&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.freep.com/story/news/politics/elections/2022/05/23/devos-tudor-dixon-michigan-governor/9890524002/",
-  "sentiment": "0.0",
+  "sentiment": "0.235",
   "mediaOutlet": "Detroit Free Press",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Egan",
   "authorUrl": "https://www.freep.com/staff/2646657001/paul-egan/",
   "termIds": [
-    2002
+    1838,
+    2002,
+    5506,
+    5544,
+    307,
+    308,
+    428,
+    2645,
+    2791
   ],
   "sentences": [
     "President Joe Biden won Michigan by about 154,000 votes, and despite numerous claims and court challenges by Trump and others, there has been no credible evidence of fraud or other irregularities that would come anywhere close to overturning that result.",

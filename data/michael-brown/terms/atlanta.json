@@ -1,29 +1,29 @@
 [
   {
+    "id": 1020,
+    "mediaId": 238,
+    "date": "1/14/2022 12:00:00 AM",
+    "sentence": "She switched to grass-roots organizing after the police killing of <span class='selected-term'>Michael Brown</span> in Ferguson, Mo.",
+    "author": "",
+    "title": "Still looking for a Black mecca,' the new Great Migration",
+    "sentiment": "0"
+  },
+  {
     "id": 7032,
     "mediaId": 675,
-    "date": "2022-00-13",
+    "date": "2/13/2022 12:00:00 AM",
     "sentence": "Politics\nFaith\nDiversions\nMoney\nEducation\nWorld\nHealth\nMORE COMMENTARY\n<span class='selected-term'>Michael Brown</span>\nDaniel Joseph\nRead all of today's COMMENTARY...\nNew Section",
     "author": "WND News Services",
     "title": "The mystery of the migrant kids",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7033,
     "mediaId": 675,
-    "date": "2022-00-13",
+    "date": "2/13/2022 12:00:00 AM",
     "sentence": "Faith\nWorld\nPolitics\nEducation\nMoney\nHealth\nMORE COMMENTARY\n<span class='selected-term'>Michael Brown</span>\nDaniel Joseph\nRead all of today's COMMENTARY...\nNew Section",
     "author": "WND News Services",
     "title": "The mystery of the migrant kids",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 1020,
-    "mediaId": 238,
-    "date": "2022-00-14",
-    "sentence": "She switched to grass-roots organizing after the police killing of <span class='selected-term'>Michael Brown</span> in Ferguson, Mo.",
-    "author": "",
-    "title": "Still looking for a Black mecca,' the new Great Migration",
-    "sentiment": "0.0"
+    "sentiment": "0"
   }
 ]

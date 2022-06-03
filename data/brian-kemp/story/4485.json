@@ -5,15 +5,23 @@
   "headline": "The Stonehenge of America Still Has Visitors Asking, What Is This Place?",
   "image": "https://images.wsj.net/im-545320/?width=700&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/stonehenge-of-america-georgia-tourists-11652801123",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Cameron McWhirter",
   "authorUrl": "https://www.wsj.com/news/author/cameron-mcwhirter",
   "termIds": [
+    1648,
     2095,
-    3082
+    3082,
+    4325,
+    4490,
+    2672,
+    2945,
+    2953,
+    4974,
+    4975
   ],
   "sentences": [
     "Her publicly announced pledge to destroy the Georgia Guidestones? is the latest bout of wearying publicity for Elbert County and a roadside attraction the local Chamber of Commerce generously dubs the Stonehenge of America.?\nSet on a low hill about 7 miles outside of this town of 4,300, the cluster of monoliths is much smaller than the United Kingdoms Stonehenge and dont have quite the same bucket-list appeal (or a gift shop).",

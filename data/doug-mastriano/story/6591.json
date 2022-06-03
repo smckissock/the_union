@@ -5,14 +5,22 @@
   "headline": "Dr. Oz Defies Trump, for Once",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/oz1.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/dr-oz-defies-trump-for-once/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Arjun Singh",
   "authorUrl": "",
   "termIds": [
-    3102
+    1147,
+    1653,
+    1770,
+    1990,
+    2491,
+    3102,
+    146,
+    428,
+    571
   ],
   "sentences": [
     "It would divide the party over the Senate race  a critical midterm election to ensure a Senate GOP majority  as it faces a united state Democratic Party, which overwhelmingly supports Lieutenant Governor John Fettermans candidacy.",

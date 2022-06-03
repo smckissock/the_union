@@ -5,14 +5,17 @@
   "headline": "'Growing Pains' actor considers public school teachings 'inaccurate and the immoral'",
   "image": "https://images.dailykos.com/images/1064662/story_image/Actor_Kirk_Cameron.jpeg?1651410800",
   "link": "https://www.dailykos.com/story/2022/5/1/2095085/-In-video-reeking-of-privilege-Kirk-Cameron-says-public-school-system-is-public-enemy-number-one",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3845,
+    2799,
+    2932
   ],
   "sentences": [
     "RELATED STORIES:\nRepublican governor signs cruel 'Don't Say Gay' bill into law and sets a dangerous precedent\nTennessee Republicans deem Ruby Bridges' story critical race theory in effort to ban it in schools\nFrom 'critical race theory' to 'grooming,' the real Republican agenda is ending public education\nArchitect of 'critical race theory' panic previews the next wave of attacks on public education\nThis is a short blurb about Daily Kos.",

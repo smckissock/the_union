@@ -5,14 +5,17 @@
   "headline": "Blackburn: We Should Increase Federal Penalties for Fentanyl Trafficking",
   "image": "https://media.breitbart.com/media/2020/07/Senator-Marsha-Blackburn-Capitol-Feb-3-2020-Getty-640x335.jpg",
   "link": "https://www.breitbart.com/clips/2022/05/20/blackburn-we-should-increase-federal-penalties-for-fentanyl-trafficking/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ian Hanchett",
   "authorUrl": "https://www.breitbart.com/author/ian-hanchett/",
   "termIds": [
-    661
+    661,
+    2498,
+    5321,
+    2661
   ],
   "sentences": [
     "Ron DeSantis discussing enhanced punishment for fentanyl trafficking that Florida has put in place, host Harris Faulkner asked, Could we do that at the federal level??\nBlackburn responded, We should be.",

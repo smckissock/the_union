@@ -5,7 +5,7 @@
   "headline": "Jared Kushner and Donald Trump Probably Wont Be Splitting a Milkshake With Two Straws Any Time Soon",
   "image": "https://media.vanityfair.com/photos/62474db878feebfc24e83115/master/w_2240,c_limit/1208986986",
   "link": "https://www.vanityfair.com/news/2022/04/jared-kushner-january-6-committee-meeting",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Vanity Fair",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,7 +14,15 @@
   "termIds": [
     661,
     815,
-    3094
+    1039,
+    1147,
+    1434,
+    1477,
+    1839,
+    2240,
+    2406,
+    3094,
+    482
   ],
   "sentences": [
     "Then Their Colleagues Were Killed in Ukraine\n The Life and Confessions of Mob Chef David Ruggerio\n Kremlin Keeps Blurring Its Red Line Around Nuclear War\n Calls for Recusals, Resignations, and Even Impeachment: Democrats Escalate Ethics Campaign Around Clarence Thomas\n Two Ukrainian AP Journalists Capture the Most Devastating Moments of War\n Trump: If I Was President Id Threaten to Drop a Nuclear Bomb on Russia\n What Will Dems Do If Biden Doesnt Run?",

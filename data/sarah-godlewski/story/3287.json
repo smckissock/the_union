@@ -5,14 +5,22 @@
   "headline": "Democrats see leaked Supreme Court ruling as potential game changer",
   "image": "https://content.rollcall.com/wp-content/uploads/2022/05/hassan.jpg?fit=1240,698",
   "link": "https://www.rollcall.com/2022/05/11/12abortionpolitics/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Roll Call",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jessie Hellmann\nSandhya Raman",
   "authorUrl": "https://www.rollcall.com/author/jessie-hellmann/",
   "termIds": [
-    802
+    802,
+    815,
+    886,
+    991,
+    1136,
+    1341,
+    146,
+    482,
+    2672
   ],
   "sentences": [
     "National Republican Senatorial Committee Chairman Rick Scott, R-Fla., said the group has conducted polling and focus groups to provide candidates with ammunition to fight back.\nThe NRSC plans to message on inflation, immigration, crime, and energy issues and pointed to an internal poll showing voters favor Republicans when asked if they would support a Democrat who supports abortion up until the point of birth, indicating a line of attack they plan to use against their opponents.",

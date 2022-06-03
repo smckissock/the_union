@@ -5,14 +5,15 @@
   "headline": "Pay raise arrives for Georgia state employees, teachers",
   "image": "https://www.wabe.org/app/uploads/2021/11/Scottweb2-336x189.jpg",
   "link": "https://www.wabe.org/pay-raise-arrives-for-georgia-state-employees-teachers/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    2672
   ],
   "sentences": [
     "For both teachers and other state employees, bonuses are supposed to be converted into regular pay raises beginning July 1, under the 2023 state budget that lawmakers are scheduled to finish by Monday.",

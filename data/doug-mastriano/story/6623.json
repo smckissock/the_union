@@ -5,14 +5,23 @@
   "headline": "Opinion After the Pennsylvania primary, the threat to U.S. democracy rises",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/18/pennsylvania-governor-primary-doug-mastriano-win-threatens-democracy/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Editorial Board",
   "authorUrl": "https://www.washingtonpost.com/opinions/the-posts-view/",
   "termIds": [
-    3102
+    1147,
+    1653,
+    1990,
+    2087,
+    3102,
+    146,
+    393,
+    550,
+    2862,
+    2945
   ],
   "sentences": [
     "Most eyes Tuesday night were on the marquee primary race of this midterm election cycle  the cliffhanger Pennsylvania Senate race featuring the Trump-endorsed talk show host Mehmet Oz, the results of which could determine which party holds the Senate next year.",

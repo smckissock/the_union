@@ -5,14 +5,20 @@
   "headline": "Ron DeSantis signs $1.2 billion in tax breaks for Floridians to fight 'Bidenflation headwinds,' though Biden's stimulus will help pay for it",
   "image": "https://i.insider.com/62755d3094a2c10018ee59b2?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/lots-of-tax-breaks-coming-to-florida-thanks-to-desantis-and-biden-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0.407",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kimberly Leonard",
   "authorUrl": "https://www.businessinsider.com/author/kimberly-leonard",
   "termIds": [
-    661
+    661,
+    1147,
+    1335,
+    2087,
+    428,
+    2661,
+    5077
   ],
   "sentences": [
     "10 tax breaks on the horizon in Florida\nStates all over the country have been unexpectedly flooded with cash not just from the COVID stimulus but also after they took in far more revenue than they expected during the COVID-19 pandemic.",

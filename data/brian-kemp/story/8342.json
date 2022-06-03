@@ -5,7 +5,7 @@
   "headline": "The Jolt: The Cobb homage to treason planned for Jan. 6",
   "image": "https://www.ajc.com/resizer/wsuB_xVsOdsmTz3G82sLAhTQNZE=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/OVFUA2XDR2MHJ3NWGRD4IVART4.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-the-cobb-homage-to-treason-planned-for-jan-6/XT4JPF4SYZEUZNUKQ6M62REGLE/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
     815,
-    2095
+    1147,
+    2095,
+    2419,
+    513,
+    545,
+    2617,
+    2661,
+    2672,
+    2934
   ],
   "sentences": [
     "It will conclude with a candlelight vigil for the J6 Patriots  the shorthand that extremists have created for the rioters who sought to overthrow the government, including at least 30 who are being held in a D.C. jail without bond awaiting court dates for the most serious crimes that day.",

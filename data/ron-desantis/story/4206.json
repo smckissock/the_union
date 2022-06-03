@@ -5,14 +5,22 @@
   "headline": "In Florida, Social-Emotional Learning + Math = Rejection",
   "image": "https://static01.nyt.com/images/2022/04/30/opinion/30krugman-inyt/merlin_206091093_49b8a0c0-10aa-425a-a8da-01a6cc00da93-superJumbo.jpg?quality=75&auto=webp",
   "link": "https://www.nytimes.com/2022/05/02/opinion/letters/florida-math-textbooks.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3881,
+    3635,
+    2661,
+    2674,
+    2888,
+    2942,
+    2944,
+    4925
   ],
   "sentences": [
     "Claudia Miriam Reed\nMcMinnville, Ore.\nProlonging the Inevitable in Ukraine\nTo the Editor:\nRe The Arsenal of Democracy Once Again,? by Paul Krugman (column, April 29):\nMr. Krugman argues that just as Britain, with the aid of American armaments through the Lend-Lease Act, set the stage for Germanys defeat in World War II, Ukraine can defeat Russia.",

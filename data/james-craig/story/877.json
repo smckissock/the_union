@@ -5,7 +5,7 @@
   "headline": "Michigan Democrats accuse GOP candidates of using forged signatures to get on ballot",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-04/220429-one-time-use-James-Craig-ew-354p-eeb754.jpg",
   "link": "https://www.nbcnews.com/politics/elections/michigan-democrats-accuse-gop-candidates-using-forged-signatures-get-b-rcna26697",
-  "sentiment": "0.0",
+  "sentiment": "-0.919",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,16 @@
   "authorUrl": "",
   "termIds": [
     651,
+    773,
+    1802,
     1844,
-    2002
+    1906,
+    2002,
+    146,
+    307,
+    428,
+    2645,
+    2791
   ],
   "sentences": [
     "In a trio of complaints filed this week, attorneys working with the state Democratic Party said they found problems with the nominating petitions filed by former Detroit police chief James Craig, businessman Perry Johnson and conservative commentator Tudor Dixon  enough to disqualify all three from the Aug. 2 primary, they argue.",

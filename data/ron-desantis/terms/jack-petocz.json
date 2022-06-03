@@ -2,19 +2,28 @@
   {
     "id": 3495,
     "mediaId": 136,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "He said that the decision followed his school suspension that came after organizing a mass protest against the state's Parental Rights in Education law, dubbed as the \"Don't Say Gay\" law that was signed into law by Governor <span class='selected-term'>Ron DeSantis</span> in late March.",
     "author": "Fatma Khaled",
     "title": "Florida Student Fighting 'Don't Say Gay' Law Can't Run for Class President",
     "sentiment": "0"
   },
   {
-    "id": 3495,
+    "id": 8775,
     "mediaId": 136,
-    "date": "2022-00-17",
-    "sentence": "He said that the decision followed his school suspension that came after organizing a mass protest against the state's Parental Rights in Education law, dubbed as the \"Don't Say Gay\" law that was signed into law by Governor <span class='selected-term'>Ron DeSantis</span> in late March.",
-    "author": "Fatma Khaled",
-    "title": "Florida Student Fighting 'Don't Say Gay' Law Can't Run for Class President",
-    "sentiment": "0.0"
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "A ticketed event on Thursday hosted by conservative political commentator Dave Rubin and starring Florida Governor <span class='selected-term'>Ron DeSantis</span> was suddenly interrupted by gun control activists who tried to draw the governor's attention over the issue of gun safety.",
+    "author": "Giulia Carbonaro",
+    "title": "Ron DeSantis Event Disrupted by Florida Gun Control Activists",
+    "sentiment": "-0.95"
+  },
+  {
+    "id": 8775,
+    "mediaId": 136,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "A ticketed event on Thursday hosted by conservative political commentator Dave Rubin and starring Florida Governor <span class='selected-term'>Ron DeSantis</span> was suddenly interrupted by gun control activists who tried to draw the governor's attention over the issue of gun safety.",
+    "author": "Giulia Carbonaro",
+    "title": "Ron DeSantis Event Disrupted by Florida Gun Control Activists",
+    "sentiment": "0"
   }
 ]

@@ -5,14 +5,20 @@
   "headline": "Georgia Sees Record Number of Early Votes from Minorities",
   "image": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1600/354ed0562874eb3480095c8010a91b66.jpg",
   "link": "https://www.theroot.com/georgia-sees-record-number-of-early-votes-from-minoriti-1848956470",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Root",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kalyn Womack",
   "authorUrl": "https://www.theroot.com/author/kalynwomack",
   "termIds": [
-    815
+    815,
+    1147,
+    1951,
+    2087,
+    340,
+    428,
+    2672
   ],
   "sentences": [
     "Now that Stacey Abrams is back in the race to triumph her loss in the gubernatorial primary in 2018 and Herschel Walker is taking a stab at the Senate race following his glorification of former President Trump, more people seem to be interested in participating in the election.",

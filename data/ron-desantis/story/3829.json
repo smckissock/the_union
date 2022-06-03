@@ -5,14 +5,21 @@
   "headline": "As 'Don't Say Gay' and similar bills take hold, LGBTQ youths feel they're 'getting crushed'",
   "image": "https://www.gannett-cdn.com/presto/2022/03/11/USAT/e9956511-952f-4715-a07a-e9a17cfa716e-USATSI_17855281.jpg?crop=4433,2494,x0,y154&width=3200&height=1801&format=pjpg&auto=webp",
   "link": "https://www.usatoday.com/story/news/education/2022/05/09/dont-say-gay-lgbtq-youth-reaction/7398468001/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "USA Today",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Cady Stanton",
   "authorUrl": "https://www.usatoday.com/staff/7936351002/cady-stanton/",
   "termIds": [
-    661
+    661,
+    3984,
+    4118,
+    3202,
+    3307,
+    3308,
+    2550,
+    2661
   ],
   "sentences": [
     "'There's not a lot you can do, especially as a kid'\nAn Ohio bill, HB 616, is closest in language to Floridas Dont Say Gay? legislation, and it includes a ban on instructional materials and curriculum on sexual orientation or gender identity,? in addition to bans on instruction around critical race theory, which is not taught in K-12 schools, and intersectionality.",

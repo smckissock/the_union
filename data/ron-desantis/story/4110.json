@@ -5,14 +5,17 @@
   "headline": "Why Disney Stock Fell 19% in April",
   "image": "https://s.yimg.com/ny/api/res/1.2/raCZ3vuQGEU744XqzZKltw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM5NjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/o7ZnqEMaq.1818Dz2rR0nQ--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/876cbcd518f64dd7af6ae4264d63a71e",
   "link": "https://www.yahoo.com/news/m/73ea93f6-8a77-3c9b-b741-c5472d2d2a73/why-disney-stock-fell-19-in.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jeremy Bowman",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    524,
+    611,
+    2661
   ],
   "sentences": [
     "Among them were a disastrous first-quarter earnings report from streaming rival Netflix (NASDAQ: NFLX), a broader pullback on the market on concerns about inflation and a potential recession, and a brewing political backlash in Florida where Gov.",

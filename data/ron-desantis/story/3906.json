@@ -5,14 +5,18 @@
   "headline": "DeSantis signs $1.2B tax-break package targeting gas, diapers, kids' clothing",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ec38373-26fc-434e-8b9e-409a09e1a33d/7c6c62ff-96c8-43ed-a09f-65e0f313519e/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/desantis-signs-tax-break-package-gas-diapers-kids-clothing",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ron DeSantis",
   "authorUrl": "https://www.foxnews.com/category/person/ron-desantis",
   "termIds": [
-    661
+    661,
+    2087,
+    3288,
+    2661,
+    5077
   ],
   "sentences": [
     "\"During this sales tax exemption period, tax is not due on the retail sales of impact-resistant doors, impact-resistant garage doors, and impact-resistant windows for commercial or noncommercial use,\" the Department of Revenue announced.",

@@ -5,7 +5,7 @@
   "headline": "Employees of Pabst Theater Group in Milwaukee are trying to form a union",
   "image": "https://www.gannett-cdn.com/presto/2020/04/01/PMJS/07f8e699-dd40-442e-9eac-d2e341669ca0-MJS_Coronavirus_TheatreMarquees_news_zh_1_of_8.jpg?width=1320&height=1000&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/entertainment/music/2022/04/12/milwaukee-pabst-theater-group-employees-trying-form-union/7275375001/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,13 @@
   "authorUrl": "https://www.jsonline.com/staff/2646642001/piet-levy/",
   "termIds": [
     741,
-    2039
+    2039,
+    2296,
+    317,
+    318,
+    2771,
+    2793,
+    2972
   ],
   "sentences": [
     "Talks stalled when the pandemic shut down the Pabst Theater Group venues in March 2020, but they have intensified in the past six months, Rickman said, once the Pabst began hosting shows again at the Pabst Theater, Riverside Theater, Turner Hall Ballroom and the Back Room at Colectivo Coffee.",

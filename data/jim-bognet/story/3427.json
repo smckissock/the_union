@@ -5,7 +5,7 @@
   "headline": "These 3 House members' reelection bids could end Tuesday",
   "image": "https://content.rollcall.com/wp-content/uploads/2022/05/SIMPSON-CAWTHORN-SCHRADER.jpg?fit=1240,698",
   "link": "https://www.rollcall.com/2022/05/16/these-3-house-members-reelection-bids-could-end-tuesday/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Roll Call",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,17 @@
   "authorUrl": "https://www.rollcall.com/author/kate-ackley/",
   "termIds": [
     821,
+    999,
+    1147,
+    2087,
     2303,
+    2341,
     3104,
-    5168
+    3936,
+    5168,
+    146,
+    562,
+    2834
   ],
   "sentences": [
     "Cawthorn, who got former President Donald Trump's complete and total? endorsement over a year ago, has faced several controversies in the past few weeks, including being stopped trying to carry a gun through an airport checkpoint and telling a podcast that fellow lawmakers did cocaine and participated in orgies.",

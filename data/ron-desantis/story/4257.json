@@ -5,14 +5,17 @@
   "headline": "Republican warns DeSantis that there will be 'hell to pay' if he runs against Trump in 2024",
   "image": "https://www.rawstory.com/media-library/image.jpg?id=29748855&width=1200&coordinates=0%2C0%2C0%2C30&height=600",
   "link": "https://www.rawstory.com/trump-desantis-2024-2657249228/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Timothy Evans",
   "authorUrl": "https://www.rawstory.com/u/timothyevans",
   "termIds": [
-    661
+    661,
+    1147,
+    428,
+    2661
   ],
   "sentences": [
     "\"Trump insiders have been discussing plans to have Trump announce his White House plans in early January, making it more difficult for a newly re-elected governor like DeSantis to announce a presidential bid without coming into direct confrontation with Trump.,\" NBC reports.",

@@ -5,14 +5,20 @@
   "headline": "How Pa. GOP gov pick could turn election lies into action",
   "image": "https://s.yimg.com/ny/api/res/1.2/4tS_tSAXv4zH8gqFdauwIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTQ3MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/Q9iYDdwsubQ4vZHE.xCjWg--~B/aD0yODg1O3c9NDMyODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/d39c8eb754568b2ca48b7bc217b00678",
   "link": "https://news.yahoo.com/pa-gop-gov-pick-could-195244126.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1990,
+    3102,
+    5330,
+    146,
+    428,
+    2862,
+    5003
   ],
   "sentences": [
     "While he would have to contend with a Legislature that may not go along with his plans, he would still have significant authority over elections because Pennsylvania is one of the few states where governors have the power to appoint the secretary of state.",

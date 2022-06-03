@@ -5,14 +5,22 @@
   "headline": "Abortion rights: how a governors veto can protect womens freedoms",
   "image": "https://s.yimg.com/ny/api/res/1.2/deG8EQNkglUjtda5hjGINA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3NjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/MFwxdid1QcSL7UbOKD3dVA--~B/aD02MDA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/theguardian_763/784f5398100e35c89d428cbf71bce513",
   "link": "https://sg.news.yahoo.com/abortion-rights-governor-veto-protect-070053602.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joan E Greve",
   "authorUrl": "",
   "termIds": [
-    3102
+    1713,
+    3102,
+    5265,
+    143,
+    428,
+    2732,
+    2791,
+    2862,
+    2945
   ],
   "sentences": [
     "The likely end of Roe has raised the stakes in gubernatorial races with candidates stressing on the urgency of the moment\nIf the US supreme court follows through with its initial decision to overturn Roe v Wade next month, 26 states are certain or likely to ban abortion.",

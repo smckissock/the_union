@@ -5,14 +5,16 @@
   "headline": "Florida teacher says she was fired after discussing pansexual identity with middle school students",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e1e6642-9a99-4d35-8462-76703f1eeb8d/53998d0d-232c-4599-b159-bb815e1b8744/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/florida-teacher-says-fired-after-discussing-pansexual-identity-with-students",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Hannah Grossman",
   "authorUrl": "https://www.foxnews.com/person/g/hannah-grossman",
   "termIds": [
-    661
+    661,
+    2661,
+    5117
   ],
   "sentences": [
     "The bill that critics dubbed, \"Don't Say Gay\" bill, states \"classroom instruction by school personnel or third parties on sexual orientation or gender identity may not occur in kindergarten through grade 3 or in a manner that is not age-appropriate or developmentally appropriate for students in accordance with state standards.\"",

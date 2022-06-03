@@ -5,14 +5,17 @@
   "headline": "Think for yourself is letter of the month | Letters",
   "image": "https://www.tampabay.com/resizer//2UfuN6xlvllVd5I8eH2xK2cqoCw=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/PWOL3JFTORHGXC3NUYAFYGVM74.jpg",
   "link": "https://www.tampabay.com/opinion/2022/05/08/think-for-yourself-is-letter-of-the-month-letters/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3737,
+    2661,
+    5048
   ],
   "sentences": [
     "Rather than trying to shield kids from subjects such as slavery (and societies role in its historical effects even today) or any one of a dozen ideas, I encourage parents to have their kids seek out information from many sources.",

@@ -5,7 +5,7 @@
   "headline": "Cawthorns loss highlights Trumps waning influence but election deniers win big in GOP primaries",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/03/madison-cawthorn-0304221.jpg",
   "link": "https://www.salon.com/2022/05/18/cawthorns-loss-highlights-trumps-waning-influence-but-deniers-win-big-in-primaries/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,14 @@
   "authorUrl": "https://www.salon.com/writer/igor-derysh",
   "termIds": [
     821,
+    1147,
+    1404,
+    1878,
+    2087,
+    2213,
     2303,
-    3102
+    3102,
+    428
   ],
   "sentences": [
     "Cawthorn faced a growing number of personal scandals amid attacks from both the left and Republicans in his own party, including Sen. Thom Tillis, R-N.C. Trump begged voters to give Cawthorn a \"second chance\" despite \"some foolish mistakes\" but Cawthorn ultimately narrowly lost the race, trailing Edwards by just over 1,300 votes with 95% of ballots counted.",

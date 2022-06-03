@@ -5,14 +5,23 @@
   "headline": "Justice Clarence Thomas meets with Georgia GOP Senate hopeful Herschel Walker",
   "image": "https://mediadc.brightspotcdn.com/dims4/default/6d4e3dc/2147483647/strip/true/crop/1138x597+0+66/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fb6%2F1c%2Fc8f61ad64ca8a48d9982cab0c831%2Fscreen-shot-2022-04-08-at-3.35.13%20PM.png",
   "link": "https://www.washingtonexaminer.com/policy/courts/justice-clarence-thomas-meets-with-georgia-gop-senate-hopeful-herschel-walker",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kaelan Deese",
   "authorUrl": "https://www.washingtonexaminer.com/author/kaelan-deese",
   "termIds": [
-    815
+    812,
+    815,
+    1147,
+    2087,
+    2406,
+    146,
+    227,
+    482,
+    571,
+    5595
   ],
   "sentences": [
     "The revelation of the most senior justice's spouse communicating with former President Donald Trump's administration personnel prompted some Democratic lawmakers to call on Thomas to recuse himself from cases related to the Jan. 6, 2021, riot at the U.S. Capitol, cases surrounding future 2024 elections, and even calls for him to step down or be impeached.",

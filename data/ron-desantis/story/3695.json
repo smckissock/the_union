@@ -5,14 +5,22 @@
   "headline": "Disney+ avoids streaming slump for now, adding 8 million subscribers",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/e0e346c/2147483647/strip/true/crop/1787x1183+0+0/resize/840x556!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2Fe3%2Fed196456455abb2892f3284d82e9%2Fdisney-new-ceo-75057.jpg",
   "link": "https://www.latimes.com/entertainment-arts/business/story/2022-05-11/disney-avoids-streaming-slump-for-now-adding-8-million-subscribers",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ryan FaughnderStaff Writer",
   "authorUrl": "https://www.latimes.com/people/ryan-faughnder",
   "termIds": [
-    661
+    661,
+    1241,
+    351,
+    524,
+    611,
+    3229,
+    3249,
+    3349,
+    2851
   ],
   "sentences": [
     "At the same time, Disney has spent the last two months at the center of a political firestorm because of its response to Floridas Parental Rights in Education law, which bans classroom instruction of sexual orientation and gender identity in kindergarten through third grade.",

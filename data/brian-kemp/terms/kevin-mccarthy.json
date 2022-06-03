@@ -2,70 +2,43 @@
   {
     "id": 8097,
     "mediaId": 12,
-    "date": "2022-00-01",
+    "date": "3/1/2022 12:00:00 AM",
     "sentence": "",
     "author": "Greg Bluestein",
     "title": "Walker wont go to Marjorie Taylor Greene event after she spoke at pro-Putin rally",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 5260,
     "mediaId": 129,
-    "date": "2022-00-07",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3301,
-    "mediaId": 238,
-    "date": "2022-00-13",
-    "sentence": "That tells you all you need to know about what you are getting Georgia  just a continuation of bad elections and a real RINO if you vote for <span class='selected-term'>Brian Kemp</span>, Trump wrote on his social network.",
-    "author": "Josh Dawsey",
-    "title": "More Republicans are working to undermine Trump endorsements",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3379,
-    "mediaId": 136,
-    "date": "2022-00-14",
-    "sentence": "But Pence, who has increasingly shown a willingness to buck his relationship with Trump in the past several months, is now throwing his weight behind Georgia's incumbent Republican Governor <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Jason Lemon",
-    "title": "Trump Heads to Texas Rally as Allies Face Subpoenas, Pence Clash Ramps Up",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4483,
-    "mediaId": 238,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "Henry Olsen",
-    "title": "Opinion Republicans have only themselves to blame for unelectable big lie candidates",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 5037,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Bob Brigham",
     "title": "Crazytown: Former senator aghast Marjorie Taylor Greene has more power than Kevin McCarthy and Mitch McConnell",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 5051,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "Kevin McCarthy saved Trump from political 'extinction' -- and some Republicans secretly resent him\nNOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Brad Reed",
     "title": "Kevin McCarthy saved Trump from 'political extinction' -- and many Republicans secretly resent him: NYT reporter",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 1984,
     "mediaId": 12,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
@@ -74,16 +47,43 @@
   {
     "id": 4953,
     "mediaId": 323,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "Gerard Baker",
     "title": "GOP Leaders Remain Shackled to Donald Trump",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3301,
+    "mediaId": 238,
+    "date": "5/13/2022 12:00:00 AM",
+    "sentence": "That tells you all you need to know about what you are getting Georgia  just a continuation of bad elections and a real RINO if you vote for <span class='selected-term'>Brian Kemp</span>, Trump wrote on his social network.",
+    "author": "Josh Dawsey",
+    "title": "More Republicans are working to undermine Trump endorsements",
+    "sentiment": "0"
+  },
+  {
+    "id": 3379,
+    "mediaId": 136,
+    "date": "5/14/2022 12:00:00 AM",
+    "sentence": "But Pence, who has increasingly shown a willingness to buck his relationship with Trump in the past several months, is now throwing his weight behind Georgia's incumbent Republican Governor <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Jason Lemon",
+    "title": "Trump Heads to Texas Rally as Allies Face Subpoenas, Pence Clash Ramps Up",
+    "sentiment": "0"
+  },
+  {
+    "id": 4483,
+    "mediaId": 238,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Henry Olsen",
+    "title": "Opinion Republicans have only themselves to blame for unelectable big lie candidates",
+    "sentiment": "0"
   },
   {
     "id": 8399,
     "mediaId": 151,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "As Cheney files for reelection, poll from rival group shows her trailing badly",
@@ -92,10 +92,19 @@
   {
     "id": 8463,
     "mediaId": 195,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Dennis Aftergut",
     "title": "Rays of a much-needed, principled GOP shine through",
+    "sentiment": "0"
+  },
+  {
+    "id": 8770,
+    "mediaId": 157,
+    "date": "5/30/2022 12:00:00 AM",
+    "sentence": "\"<span class='selected-term'>Brian Kemp</span> never once criticized Trump for saying the election was stolen,\" said CNN's Ryan Nobles.",
+    "author": "Matthew Chapman",
+    "title": "Trump is 'regrouping' in Wyoming because he has a 'huge problem' if he can't take out Liz Cheney: analyst",
     "sentiment": "0"
   }
 ]

@@ -5,17 +5,22 @@
   "headline": "Poll: Republicans Face Uphill Battle to Unseat Michigan Democrat Gov. Gretchen Whitmer",
   "image": "https://media.breitbart.com/media/2020/04/gretchen-whitmer-ap-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/01/12/poll-republicans-face-uphill-battle-to-unseat-michigan-democrat-gov-gretchen-whitmer/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ashley Oliver",
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
+    773,
     1844,
     2002,
     2298,
-    3075
+    3075,
+    146,
+    428,
+    599,
+    2791
   ],
   "sentences": [
     "Subscribers can read our latest overview: https://t.co/os8xZ3nB8x pic.twitter.com/wrS4JDIg7v\n Jessica Taylor (@JessicaTaylor) December 3, 2021\nThe poll also surveyed respondents to gauge their name recognition of the more than ten Republican candidates hoping to challenge Whitmer.",

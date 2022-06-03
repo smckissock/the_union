@@ -5,14 +5,23 @@
   "headline": "Live Updates: Supreme Court Weighs Future Role and Final Word on Abortion",
   "image": "https://static01.nyt.com/images/2022/05/04/world/04abortion-scotus-live-topper-1/04abortion-scotus-live-topper-1-square640.jpg",
   "link": "https://www.nytimes.com/live/2022/05/04/us/roe-v-wade-supreme-court-abortion",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    820,
+    827,
+    1070,
+    1097,
+    1546,
+    2058,
+    3837,
+    482,
+    2945
   ],
   "sentences": [
     "They note that attitudes about the pregnancy of unmarried women have changed drastically; that federal and state laws ban discrimination on the basis of pregnancy, that leave for pregnancy and childbirth are now guaranteed by law in many cases; that the costs of medical care associated with pregnancy are covered by insurance or government assistance; that states have increasingly adopted safe haven laws, which generally allow women to drop off babies anonymously; and that a woman who puts her newborn up for adoption today has little reason to fear that the baby will not find a suitable home,? he wrote.",

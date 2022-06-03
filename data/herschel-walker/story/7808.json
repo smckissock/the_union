@@ -5,14 +5,18 @@
   "headline": "Herschel Walker lied about things that could easily be found out. Why do people do that?",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220323-hershel-walker-2021-ac-1016p-d03c80.jpg",
   "link": "https://www.nbcnews.com/think/opinion/herschel-walkers-fiction-people-lie-disprovable-things-rcna23667",
-  "sentiment": "0.0",
+  "sentiment": "-0.513",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    5826,
+    6016,
+    5577,
+    2945
   ],
   "sentences": [
     "The psychologist Paul Ekman, a specialist in decoding facial expressions and the inspiration for the series Lie to Me, writes on his website that avoiding punishment is the primary motivator for lying, but that protecting ourselves or others from harm, maintaining privacy, and avoiding embarrassment are other common reasons that we lie.",

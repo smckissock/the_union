@@ -5,14 +5,18 @@
   "headline": "DeSantis calls Supreme Court leak a 'judicial insurrection'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/654ba007-10f1-4124-94da-d85092005872/5bb0d289-5445-4a00-9c67-1af03ca61a39/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/desantis-supreme-court-leak-judicial-insurrection",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jessica Chasmar",
   "authorUrl": "https://www.foxnews.com/person/c/jessica-chasmar",
   "termIds": [
-    661
+    661,
+    827,
+    482,
+    2661,
+    4986
   ],
   "sentences": [
     "Supreme Court Chief Justice John Roberts announced Tuesday that he has called upon the Supreme Court marshal to investigate the leak of U.S. Supreme Court Justice Samuel Alito's majority opinion to revoke the landmark 1973 case in its ruling on Dobbs v. Jackson Womens Health Organization.",

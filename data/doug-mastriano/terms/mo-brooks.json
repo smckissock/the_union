@@ -2,10 +2,19 @@
   {
     "id": 8473,
     "mediaId": 157,
-    "date": "2022-00-26",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "Vance in Ohio and <span class='selected-term'>Doug Mastriano</span> in Pennsylvania, but the intra-party conflicts sparked by Trump's endorsements of unpopular loyalists has made GOP heavyweights more willing to challenge the twice-impeached former president, reported Politico.",
     "author": "Travis Gettys",
     "title": "Republicans talk trash about Trump as endorsements flop",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8689,
+    "mediaId": 234,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "In Pennsylvania, gubernatorial candidate <span class='selected-term'>Doug Mastriano</span>one of the ex-presidents biggest election-denial supporterssaw his victory as completely legit.",
+    "author": "Bess Levin",
+    "title": "The GOPs New Election Rule: Voter Fraud Is Only Real When We Lose to Democrats",
+    "sentiment": "0"
   }
 ]

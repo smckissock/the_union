@@ -5,14 +5,20 @@
   "headline": "State Senate leader Jake Corman to stay in PA governors race, citing Trumps encouragement",
   "image": "https://s.yimg.com/ny/api/res/1.2/mJCiRxOCw2M152GeT6h0Yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzMTtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/NizQVkv9i3lLcX9OO70V7Q--~B/aD03NDk7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/state_college_centre_daily_times_mcclatchy_articles_878/6723b14d53461efc1fef7c9b7131e9ad",
   "link": "https://ca.news.yahoo.com/reports-state-sen-jake-corman-181026467.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Halie Kines",
   "authorUrl": "",
   "termIds": [
-    3102
+    1147,
+    1997,
+    3019,
+    3102,
+    571,
+    5186,
+    2862
   ],
   "sentences": [
     "Just before 5 p.m., he released a statement noting that two developments Tuesday led him to decide to continue his campaign: President Trumps statement on the race and my conversation directly with the president.",

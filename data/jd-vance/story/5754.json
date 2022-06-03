@@ -5,14 +5,21 @@
   "headline": "J.D. Vance projected to win GOP Senate primary in Ohio",
   "image": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-continuous-scroll-mobile@1/v1651629420/GettyImages-1240386551.jpg",
   "link": "https://theweek.com/ohio/1013223/jd-vance-projected-to-win-gop-senate-primary-in-ohio",
-  "sentiment": "0",
+  "sentiment": "0.657",
   "mediaOutlet": "The Week",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Catherine Garcia",
   "authorUrl": "https://theweek.com/authors/catherine-garcia",
   "termIds": [
-    3103
+    781,
+    946,
+    1147,
+    1801,
+    3103,
+    428,
+    571,
+    2845
   ],
   "sentences": [
     "Vance, a venture capitalist and author of the memoir Hillbilly Elegy, won the Republican Senate primary in Ohio on Tuesday night, NBC News, The New York Times, and The Associated Press project.",

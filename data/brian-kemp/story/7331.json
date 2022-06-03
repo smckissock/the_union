@@ -5,18 +5,26 @@
   "headline": "Kemp, Raffensperger win in blow to Trump and his false election claims",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/24/trump-georgia-kemp-perdue/",
-  "sentiment": "0.0",
+  "sentiment": "-0.458",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "David Weigel",
   "authorUrl": "https://www.washingtonpost.com/people/david-weigel/",
   "termIds": [
+    727,
     815,
+    1147,
+    1459,
+    2087,
     2095,
+    2203,
+    2376,
     3085,
     3094,
-    3103
+    3103,
+    4325,
+    2672
   ],
   "sentences": [
     "And while many Democrats have long railed against Trump's baseless rhetoric, some powerful Republicans saw the Georgia primary as a potential inflection point that could shift the party away from re-litigating the last election and blunt Trump's efforts to turn many primaries into score-settling affairs over 2020 and attempts to install loyalists pledging fealty in future elections.",

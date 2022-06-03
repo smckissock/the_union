@@ -1,65 +1,83 @@
 [
   {
-    "id": 3293,
-    "mediaId": 261,
-    "date": "2022-00-12",
-    "sentence": "More:Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says\nCandidates James Craig, <span class='selected-term'>Perry Johnson</span>, Ryan Kelley, Kevin Rinke and Garrett Soldano made the cut, according to a news release.",
-    "author": "Dave Boucher",
-    "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
-    "sentiment": "-0.512"
-  },
-  {
     "id": 899,
     "mediaId": 261,
-    "date": "2022-00-19",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "Mike Brown, of Stevensville, who submitted 21,837 signatures last Tuesday;\nNorton Shores businesswoman Tudor Dixon, who submitted 29,735 signatures Tuesday;\nOakland County \"quality guru\" and businessman <span class='selected-term'>Perry Johnson</span>, who submitted close to 23,000 signatures Tuesday;\nOttawa County real estate agent Ryan Kelley, who filed 20,100 signatures last Wednesday;\nGrand Haven financial adviser Michael Markey, who submitted 21,862 signatures March 18;\nFarmington Hills pastor Ralph Rebandt, who turned in 16,342 signatures last Tuesday;\nBloomfield Hills businessman Kevin Rinke, who filed 21,000 signatures on Monday, and\nKalamazoo chiropractor Garrett Soldano, who was the first to turn in his petition, when he submitted 20,200 signatures Jan. 19.",
     "author": "Paul Egan",
     "title": "Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says",
     "sentiment": "0"
   },
   {
-    "id": 7301,
-    "mediaId": 98,
-    "date": "2022-00-23",
-    "sentence": "The recommendations immediately transformed the race in the battleground state and dealt a major blow to former Detroit Police Chief James Craig, who has led in polling despite campaign problems, and businessman <span class='selected-term'>Perry Johnson</span>, who has spent millions of his own money to run.",
-    "author": "DAVID EGGERT",
-    "title": "Primary problem: Michigan GOP governor candidates short signatures",
-    "sentiment": "0.0"
-  },
-  {
     "id": 881,
     "mediaId": 261,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "The challenges against former Detroit Police Chief James Craig, conservative commentator Tudor Dixon and Oakland County businessman <span class='selected-term'>Perry Johnson</span> could threaten their candidacies if successful.",
     "author": "Clara Hendrickson",
     "title": "Michigan GOP candidates hoping to unseat Whitmer face challenges to nominating petitions",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3293,
+    "mediaId": 261,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "More:Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says\nCandidates James Craig, <span class='selected-term'>Perry Johnson</span>, Ryan Kelley, Kevin Rinke and Garrett Soldano made the cut, according to a news release.",
+    "author": "Dave Boucher",
+    "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
+    "sentiment": "-0.512"
+  },
+  {
+    "id": 7301,
+    "mediaId": 98,
+    "date": "5/23/2022 12:00:00 AM",
+    "sentence": "The recommendations immediately transformed the race in the battleground state and dealt a major blow to former Detroit Police Chief James Craig, who has led in polling despite campaign problems, and businessman <span class='selected-term'>Perry Johnson</span>, who has spent millions of his own money to run.",
+    "author": "DAVID EGGERT",
+    "title": "Primary problem: Michigan GOP governor candidates short signatures",
+    "sentiment": "0"
   },
   {
     "id": 8433,
     "mediaId": 169,
-    "date": "2022-00-28",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "The Michigan Bureau of Elections released a report on Monday recommending that leading Republican gubernatorial candidates James Craig and <span class='selected-term'>Perry Johnson</span>, as well as three others, be disqualified from the ballot after submitting too many fake petition signatures.",
     "author": "Igor Derysh",
     "title": "Embarrassing: Even Republicans fume at Michigan GOP for defending candidates busted for fraud",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8435,
     "mediaId": 157,
-    "date": "2022-00-28",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "The Michigan Bureau of Elections released a report on Monday recommending that leading Republican gubernatorial candidates James Craig and <span class='selected-term'>Perry Johnson</span>, as well as three others, be disqualified from the ballot after submitting too many fake petition signatures.",
     "author": "Igor Derysh",
     "title": "GOP election lawyer accuses Michigan Republicans of 'despicable abuse'",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8432,
     "mediaId": 261,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "Craig's suit, filed with the Michigan Court of Claims, is the second lawsuit filed following Oakland County businessman, <span class='selected-term'>Perry Johnson</span>, who filed Friday.",
     "author": "Paul Egan",
     "title": "Former Detroit Police Chief James Craig files lawsuit over removal from August ballot",
     "sentiment": "-0.622"
+  },
+  {
+    "id": 8656,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Courts have rejected similar arguments from <span class='selected-term'>Perry Johnson</span> and Michael Markey.",
+    "author": "Dave Boucher",
+    "title": "Michigan GOP gubernatorial candidates eager for Donald Trump's endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 8655,
+    "mediaId": 157,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "Five candidates  financial adviser Michael Markey, former Detroit Police Chief James Craig, businesswoman Donna Brandenburg, self-described quality guru <span class='selected-term'>Perry Johnson</span> and Michigan State Police Capt.",
+    "author": "",
+    "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
   }
 ]

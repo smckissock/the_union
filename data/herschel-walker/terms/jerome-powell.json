@@ -2,10 +2,19 @@
   {
     "id": 7575,
     "mediaId": 19,
-    "date": "2022-00-12",
+    "date": "5/12/2022 12:00:00 AM",
     "sentence": "It appears Republicans plan to spend the most, $9.5 million, on Warnock, who could face Republican <span class='selected-term'>Herschel Walker</span> (R) in the general election.",
     "author": "Hannah Bleau",
     "title": "NRSC to Drop $53 Million in TV Ads to Retake Senate Majority",
+    "sentiment": "0"
+  },
+  {
+    "id": 8741,
+    "mediaId": 195,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Warnock, who won in a special election in 2021, is running for a full term of his own this year against former football star <span class='selected-term'>Herschel Walker</span>, and former state House Minority Leader Stacey Abrams is trying to unseat Gov.",
+    "author": "Max Greenwood",
+    "title": "Campaign Report  Biden confronts his most serious midterm issue",
     "sentiment": "0"
   }
 ]

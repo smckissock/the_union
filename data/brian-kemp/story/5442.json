@@ -5,14 +5,16 @@
   "headline": "Gas prices remain stubbornly high, but at least they've stabilized",
   "image": "https://s.yimg.com/ny/api/res/1.2/qkfH661zuh7uE_Zs.TTq0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/G4ntEUV9yR5_8Ya6rpXedg--~B/aD00NTA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/autoblog_50/3a4d62e94065bf0ec56fa72982dd6889",
   "link": "https://ph.news.yahoo.com/gas-prices-remain-stubbornly-high-193200165.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Rasa",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    3120,
+    2672
   ],
   "sentences": [
     "And with oil prices refusing to fall, the price at the pump is likewise meeting resistance at dropping further.?\nAccording to the federal Energy Information Administration (EIA), Americans' thirst for petroleum has declined  but only slightly.",

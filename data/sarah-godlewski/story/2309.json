@@ -5,17 +5,25 @@
   "headline": "The most interesting Democratic primaries of 2022",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/04/21/democrat-2022-primary-elections/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
+    704,
     741,
     802,
+    1154,
     1568,
-    2039
+    1770,
+    2039,
+    2087,
+    2186,
+    2192,
+    2834,
+    2934
   ],
   "sentences": [
     "The top candidates are playing to their firsts: Democrats could elect Nida Allam, the first Muslim woman elected to public office in the state, or Clay Aiken, the former American Idol? contestant who has run for Congress once before and says he wants to be the South's first openly gay congressman.",

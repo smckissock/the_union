@@ -5,14 +5,24 @@
   "headline": "Trump Further Alienates Pennsylvania GOP by Backing Mastriano for Governor",
   "image": "https://d.newsweek.com/en/full/2037831/donald-trump-endorses-doug-mastriano.webp?w=790&f=0031c0139a5e90f0043784256ffa9165",
   "link": "https://www.newsweek.com/trump-further-alienates-pennsylvania-gop-backing-mastriano-governor-1706672",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Andrew Stanton",
   "authorUrl": "https://www.newsweek.com/authors/andrew-stanton",
   "termIds": [
-    3102
+    1147,
+    1282,
+    1726,
+    1967,
+    1990,
+    2087,
+    3102,
+    146,
+    428,
+    2992,
+    2862
   ],
   "sentences": [
     "His endorsement could potentially sway some undecided GOP voters, but it could also alienate party leaders who have coalesced around former Congressman Lou Barletta, who has won the backing of former Pennsylvania Senator Rick Santorum, as well as congressmen Fred Keller and Dan Meuser.",

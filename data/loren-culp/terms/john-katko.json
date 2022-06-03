@@ -1,38 +1,38 @@
 [
   {
+    "id": 2285,
+    "mediaId": 33,
+    "date": "2/10/2022 12:00:00 AM",
+    "sentence": "In Washington state, Trump endorsed the candidacy of former gubernatorial candidate <span class='selected-term'>Loren Culp</span>, a Republican who is running against GOP Rep. Dan Newhouse in the state's 4th District.",
+    "author": "Chris Cillizza",
+    "title": "Two more Republicans just went on Donald Trump's hit list",
+    "sentiment": "0"
+  },
+  {
     "id": 23,
     "mediaId": 195,
-    "date": "2022-00-05",
+    "date": "4/5/2022 12:00:00 AM",
     "sentence": "In Rep. Dan Newhouse's (R-Wash.) district, Trump endorsed retired police chief <span class='selected-term'>Loren Culp</span>.",
     "author": "Cristina Marcos",
     "title": "Veteran lawmaker's exit has House GOP trending toward Trump",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2272,
     "mediaId": 157,
-    "date": "2022-00-09",
+    "date": "4/9/2022 12:00:00 AM",
     "sentence": "You funny.https://twitter.com/Sessler/status/1512558618746359811\\u00a0\\u2026\n Dee Snider\\ud83c\\uddfa\\ud83c\\uddf8 (@Dee Snider\\ud83c\\uddfa\\ud83c\\uddf8) 1649488354\nDonald Trump has endorsed <span class='selected-term'>Loren Culp</span> in the race.",
     "author": "Bob Brigham",
     "title": "'Twisted Sister' represents 'traditional, conservative' values: GOP candidate",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2285,
-    "mediaId": 33,
-    "date": "2022-00-10",
-    "sentence": "In Washington state, Trump endorsed the candidacy of former gubernatorial candidate <span class='selected-term'>Loren Culp</span>, a Republican who is running against GOP Rep. Dan Newhouse in the state's 4th District.",
-    "author": "Chris Cillizza",
-    "title": "Two more Republicans just went on Donald Trump's hit list",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2217,
     "mediaId": 376,
-    "date": "2022-00-12",
+    "date": "4/12/2022 12:00:00 AM",
     "sentence": "Trump endorsed 2020 GOP gubernatorial nominee <span class='selected-term'>Loren Culp</span>, who refused to concede that race despite losing by 13.5 points to Democratic Gov.",
     "author": "",
     "title": "New lines, interesting races in Washington state",
-    "sentiment": "0.0"
+    "sentiment": "0"
   }
 ]

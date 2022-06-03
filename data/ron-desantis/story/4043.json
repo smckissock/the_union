@@ -5,14 +5,21 @@
   "headline": "New MSNBC host gets defensive when reporter suggests she might give Jill Biden softball interview",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6505461-3eb3-4c8c-96f1-87f8c472f84a/2ddacdd1-aecf-42fa-852d-cc2be2269847/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/new-msnbc-host-gets-defensive-when-reporter-suggests-she-might-give-jill-biden-softball-interview",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Hanna Panreck",
   "authorUrl": "https://www.foxnews.com/person/p/hanna-panreck",
   "termIds": [
-    661
+    661,
+    895,
+    915,
+    1958,
+    3840,
+    4709,
+    327,
+    3373
   ],
   "sentences": [
     "Symone Sanders, a new MSNBC host and the former senior advisor and chief spokesperson for Vice President Kamala Harris, responded on Wednesday to Politico White House correspondent and West-Wing Playbook writer Alex Thompson, who wondered if her upcoming appearance with the First Lady would be a \"softball interview.\"",

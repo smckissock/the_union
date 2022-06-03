@@ -2,7 +2,7 @@
   {
     "id": 8588,
     "mediaId": 238,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "The beneficiaries of the couples political contributions include at least one candidate who emerged victorious in Tuesdays primary contests, <span class='selected-term'>Herschel Walker</span>.",
     "author": "Isaac Stanley-Becker",
     "title": "Maker of rifle in Texas massacre is deep-pocketed GOP donor",
@@ -11,10 +11,19 @@
   {
     "id": 8595,
     "mediaId": 157,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "One of the couple's beneficiaries is Trump-endorsed former football star <span class='selected-term'>Herschel Walker</span>, who is running for Georgia Senate.",
     "author": "Sky Palma",
     "title": "Owners of company that manufactures gun used in Uvalde school shooting are prolific GOP donors: report",
+    "sentiment": "0"
+  },
+  {
+    "id": 8926,
+    "mediaId": 238,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "In Georgia, Josh Clark, a Republican Senate candidate who recently lost the primary to former football star <span class='selected-term'>Herschel Walker</span>, said in March that he planned to give away an AR-15 every week until the election.",
+    "author": "Colby Itkowitz",
+    "title": "Guns are all over GOP ads and social media, prompting some criticism",
     "sentiment": "0"
   }
 ]

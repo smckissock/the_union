@@ -5,7 +5,7 @@
   "headline": "Threat to Roe puts GOP on defense in 2022 battlegrounds",
   "image": "https://www.politico.com/dims4/default/21efea8/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff0%2F23%2F852ed6d742889bdc23a438786ec8%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1240289533",
   "link": "https://www.politico.com/news/2022/05/07/gop-steers-clear-of-roe-in-2022-battlegrounds-00030880",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "",
   "termIds": [
     741,
-    802
+    802,
+    852,
+    1837,
+    2087,
+    3048,
+    146,
+    428,
+    571,
+    2751,
+    2818,
+    2819
   ],
   "sentences": [
     "I think this is going to be an important issue that women in the suburbs are going to be looking for.\nBrandon Scholz, former executive director of the Wisconsin Republican Party, said my black helicopter theory is that inside the court somebody [who] liked Democrats or liberals or whoever, were the ones who leaked it, because theyre getting the most benefit out of this.\nRepublican voters were already energized to go to the polls, Scholz said, whereas Democrats have been struggling to excite the base.",

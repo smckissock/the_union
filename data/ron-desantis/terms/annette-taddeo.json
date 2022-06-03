@@ -1,251 +1,8 @@
 [
   {
-    "id": 4234,
-    "mediaId": 151,
-    "date": "2022-00-02",
-    "sentence": " Another 2024 poll shows <span class='selected-term'>Ron DeSantis</span> in pole position if Donald Trump doesnt run,? by Florida Politics A.G. Gancarski\n  Charlie Crist says Miramar Mayor Wayne Messam certainly would be on my shortlist for lieutenant governor,? by Sun-Sentinels Anthony Man\n Behind enemy lines: Nikki Fried makes anti-Ron DeSantis case on Fox News,? by Florida Politics A.G. Gancarski\n Florida Congresswoman Val Demings makes campaign stop in Pensacola,? by WEAR-TV\n  Bryan Avila to run for state Senate District 39, leaving Miami-Dade commission race,? by Florida Politics Kelly Hayes\nMAPMAKER, MAPMAKER\nAS REDISTRICTING TURNS  Voting rights groups who had previously filed a federal lawsuit over congressional redistricting contend a new map pushed into law by Gov.",
-    "author": "",
-    "title": "Florida Democrats' steep climb in governor's race",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4102,
-    "mediaId": 302,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "",
-    "title": "Florida Democrats vow to protect abortion rights after leaked Supreme Court draft on Roe",
-    "sentiment": "0"
-  },
-  {
-    "id": 4102,
-    "mediaId": 302,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "",
-    "title": "Florida Democrats vow to protect abortion rights after leaked Supreme Court draft on Roe",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4146,
-    "mediaId": 151,
-    "date": "2022-00-03",
-    "sentence": "| Joe Raedle/Getty Images\nBy Matt Dixon\n 05/03/2022 04:31 AM EDT\nTALLAHASSEE, Fla.  Florida Democrats are increasingly worried that the candidates trying to unseat <span class='selected-term'>Ron DeSantis</span> cant stop the popular Republican governor from winning re-election as the GOP solidifies its hold on the states political infrastructure.",
-    "author": "",
-    "title": "DeSantis seems unstoppable: Florida Dems worry they cant beat the governor",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4146,
-    "mediaId": 151,
-    "date": "2022-00-03",
-    "sentence": "| Joe Raedle/Getty Images\nBy Matt Dixon\n 05/03/2022 04:31 AM EDT\nTALLAHASSEE, Fla.  Florida Democrats are increasingly worried that the candidates trying to unseat <span class='selected-term'>Ron DeSantis</span> cant stop the popular Republican governor from winning re-election as the GOP solidifies its hold on the states political infrastructure.",
-    "author": "",
-    "title": "DeSantis seems unstoppable: Florida Dems worry they cant beat the governor",
-    "sentiment": "0.331"
-  },
-  {
-    "id": 4038,
-    "mediaId": 302,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Charlie Crist hones message a year into campaign trail for Florida governor",
-    "sentiment": "0"
-  },
-  {
-    "id": 4038,
-    "mediaId": 302,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Charlie Crist hones message a year into campaign trail for Florida governor",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4050,
-    "mediaId": 65,
-    "date": "2022-00-04",
-    "sentence": "\"Spanish-speaking Hispanics in Florida and across the country are moving towards Governor <span class='selected-term'>Ron DeSantis</span> because of his emphasis on economic opportunity, education, public safety, and other family-focused policies,\" the campaign argued.",
-    "author": "Paul Steinhauser",
-    "title": "Florida's DeSantis announces massive initial ad reservation with focus on Hispanic voters, in re-election run",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4050,
-    "mediaId": 65,
-    "date": "2022-00-04",
-    "sentence": "\"Spanish-speaking Hispanics in Florida and across the country are moving towards Governor <span class='selected-term'>Ron DeSantis</span> because of his emphasis on economic opportunity, education, public safety, and other family-focused policies,\" the campaign argued.",
-    "author": "Paul Steinhauser",
-    "title": "Florida's DeSantis announces massive initial ad reservation with focus on Hispanic voters, in re-election run",
-    "sentiment": "0.699"
-  },
-  {
-    "id": 4092,
-    "mediaId": 19,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Hannah Bleau",
-    "title": "Charlie Crist Runaway Leader of Democrat Gubernatorial Race in Florida",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3803,
-    "mediaId": 19,
-    "date": "2022-00-10",
-    "sentence": "A stunning $135.8 million came from Friends of <span class='selected-term'>Ron DeSantis</span>, his independent political committee, and the remainder stems from his official reelection campaign:\nFlorida Governor Fundraising: May\n1.",
-    "author": "Hannah Bleau",
-    "title": "Democrat Opponents Fail to Come Close to Ron DeSantiss $143 Million War Chest",
-    "sentiment": "-0.427"
-  },
-  {
-    "id": 3803,
-    "mediaId": 19,
-    "date": "2022-00-10",
-    "sentence": "A stunning $135.8 million came from Friends of <span class='selected-term'>Ron DeSantis</span>, his independent political committee, and the remainder stems from his official reelection campaign:\nFlorida Governor Fundraising: May\n1.",
-    "author": "Hannah Bleau",
-    "title": "Democrat Opponents Fail to Come Close to Ron DeSantiss $143 Million War Chest",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3681,
-    "mediaId": 302,
-    "date": "2022-00-11",
-    "sentence": "",
-    "author": "",
-    "title": "Florida Democrats pledge $15 million to mobilize voters, unify party",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3697,
-    "mediaId": 302,
-    "date": "2022-00-11",
-    "sentence": "TALLAHASSEE  The three leading Democratic candidates in the Florida governors race U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
-    "author": "Kirby Wilson",
-    "title": "Florida Democrats struggle to find spotlight in race against DeSantis",
-    "sentiment": "-0.351"
-  },
-  {
-    "id": 3697,
-    "mediaId": 302,
-    "date": "2022-00-11",
-    "sentence": "TALLAHASSEE  The three leading Democratic candidates in the Florida governors race U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
-    "author": "Kirby Wilson",
-    "title": "Florida Democrats struggle to find spotlight in race against DeSantis",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3724,
-    "mediaId": 65,
-    "date": "2022-00-11",
-    "sentence": "The total included $2.297 million raised by his reelection campaign and $8.156 million brought in by Friends of <span class='selected-term'>Ron DeSantis</span>, his political committee.",
-    "author": "Paul Steinhauser",
-    "title": "Florida Gov. Ron DeSantis sets a new monthly fundraising record as he runs for re-election",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3724,
-    "mediaId": 65,
-    "date": "2022-00-11",
-    "sentence": "The total included $2.297 million raised by his reelection campaign and $8.156 million brought in by Friends of <span class='selected-term'>Ron DeSantis</span>, his political committee.",
-    "author": "Paul Steinhauser",
-    "title": "Florida Gov. Ron DeSantis sets a new monthly fundraising record as he runs for re-election",
-    "sentiment": "0.665"
-  },
-  {
-    "id": 3648,
-    "mediaId": 151,
-    "date": "2022-00-12",
-    "sentence": "CAMPAIGN MODE\nTHE SHAPE IM IN  Florida Democrats struggle to find spotlight in race against DeSantis,? by Tampa Bay Times Kirby Wilson and Romy Ellenbogen: The three leading Democratic candidates in the Florida governors race  U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
-    "author": "",
-    "title": "Taddeo insists she's staying in Florida's governor's race",
-    "sentiment": "-0.694"
-  },
-  {
-    "id": 3648,
-    "mediaId": 151,
-    "date": "2022-00-12",
-    "sentence": "CAMPAIGN MODE\nTHE SHAPE IM IN  Florida Democrats struggle to find spotlight in race against DeSantis,? by Tampa Bay Times Kirby Wilson and Romy Ellenbogen: The three leading Democratic candidates in the Florida governors race  U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
-    "author": "",
-    "title": "Taddeo insists she's staying in Florida's governor's race",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3665,
-    "mediaId": 157,
-    "date": "2022-00-12",
-    "sentence": "Just last week, the <span class='selected-term'>Ron DeSantis</span> Prize Patrol popped up at the Jacksonville Zoo.",
-    "author": "Craig Pittman",
-    "title": "New algae blooms expose Florida Gov. DeSantis failure to fix pollution",
-    "sentiment": "-0.501"
-  },
-  {
-    "id": 3665,
-    "mediaId": 157,
-    "date": "2022-00-12",
-    "sentence": "Just last week, the <span class='selected-term'>Ron DeSantis</span> Prize Patrol popped up at the Jacksonville Zoo.",
-    "author": "Craig Pittman",
-    "title": "New algae blooms expose Florida Gov. DeSantis failure to fix pollution",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3530,
-    "mediaId": 34,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "Brett Wilkins",
-    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes",
-    "sentiment": "-0.493"
-  },
-  {
-    "id": 3530,
-    "mediaId": 34,
-    "date": "2022-00-17",
-    "sentence": "",
-    "author": "Brett Wilkins",
-    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8542,
-    "mediaId": 302,
-    "date": "2022-00-27",
-    "sentence": "",
-    "author": "",
-    "title": "Charlie Crist's flawed debate strategy must change | A Sun Sentinel editorial",
-    "sentiment": "0"
-  },
-  {
-    "id": 8542,
-    "mediaId": 302,
-    "date": "2022-00-27",
-    "sentence": "",
-    "author": "",
-    "title": "Charlie Crist's flawed debate strategy must change | A Sun Sentinel editorial",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8522,
-    "mediaId": 302,
-    "date": "2022-00-29",
-    "sentence": "And so when that happens, other opponents may take shots, but our shots need to be directed at the real problem we're all having in Florida, and his name is <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "",
-    "title": "Democratic candidates for Florida governor debate, but focus on DeSantis",
-    "sentiment": "-0.243"
-  },
-  {
-    "id": 8522,
-    "mediaId": 302,
-    "date": "2022-00-29",
-    "sentence": "And so when that happens, other opponents may take shots, but our shots need to be directed at the real problem we're all having in Florida, and his name is <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "",
-    "title": "Democratic candidates for Florida governor debate, but focus on DeSantis",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4340,
     "mediaId": 1067,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "Steven Lemongello",
     "title": "Crist, Fried, Taddeo slam DeSantis, go easy on each other at Orlando forum",
@@ -254,10 +11,226 @@
   {
     "id": 4340,
     "mediaId": 1067,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "Steven Lemongello",
     "title": "Crist, Fried, Taddeo slam DeSantis, go easy on each other at Orlando forum",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 4234,
+    "mediaId": 151,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": " Another 2024 poll shows <span class='selected-term'>Ron DeSantis</span> in pole position if Donald Trump doesnt run,? by Florida Politics A.G. Gancarski\n  Charlie Crist says Miramar Mayor Wayne Messam certainly would be on my shortlist for lieutenant governor,? by Sun-Sentinels Anthony Man\n Behind enemy lines: Nikki Fried makes anti-Ron DeSantis case on Fox News,? by Florida Politics A.G. Gancarski\n Florida Congresswoman Val Demings makes campaign stop in Pensacola,? by WEAR-TV\n  Bryan Avila to run for state Senate District 39, leaving Miami-Dade commission race,? by Florida Politics Kelly Hayes\nMAPMAKER, MAPMAKER\nAS REDISTRICTING TURNS  Voting rights groups who had previously filed a federal lawsuit over congressional redistricting contend a new map pushed into law by Gov.",
+    "author": "",
+    "title": "Florida Democrats' steep climb in governor's race",
+    "sentiment": "0"
+  },
+  {
+    "id": 4102,
+    "mediaId": 302,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Democrats vow to protect abortion rights after leaked Supreme Court draft on Roe",
+    "sentiment": "0"
+  },
+  {
+    "id": 4146,
+    "mediaId": 151,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "| Joe Raedle/Getty Images\nBy Matt Dixon\n 05/03/2022 04:31 AM EDT\nTALLAHASSEE, Fla.  Florida Democrats are increasingly worried that the candidates trying to unseat <span class='selected-term'>Ron DeSantis</span> cant stop the popular Republican governor from winning re-election as the GOP solidifies its hold on the states political infrastructure.",
+    "author": "",
+    "title": "DeSantis seems unstoppable: Florida Dems worry they cant beat the governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 4146,
+    "mediaId": 151,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "| Joe Raedle/Getty Images\nBy Matt Dixon\n 05/03/2022 04:31 AM EDT\nTALLAHASSEE, Fla.  Florida Democrats are increasingly worried that the candidates trying to unseat <span class='selected-term'>Ron DeSantis</span> cant stop the popular Republican governor from winning re-election as the GOP solidifies its hold on the states political infrastructure.",
+    "author": "",
+    "title": "DeSantis seems unstoppable: Florida Dems worry they cant beat the governor",
+    "sentiment": "0.331"
+  },
+  {
+    "id": 4038,
+    "mediaId": 302,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Charlie Crist hones message a year into campaign trail for Florida governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 4050,
+    "mediaId": 65,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "\"Spanish-speaking Hispanics in Florida and across the country are moving towards Governor <span class='selected-term'>Ron DeSantis</span> because of his emphasis on economic opportunity, education, public safety, and other family-focused policies,\" the campaign argued.",
+    "author": "Paul Steinhauser",
+    "title": "Florida's DeSantis announces massive initial ad reservation with focus on Hispanic voters, in re-election run",
+    "sentiment": "0"
+  },
+  {
+    "id": 4050,
+    "mediaId": 65,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "\"Spanish-speaking Hispanics in Florida and across the country are moving towards Governor <span class='selected-term'>Ron DeSantis</span> because of his emphasis on economic opportunity, education, public safety, and other family-focused policies,\" the campaign argued.",
+    "author": "Paul Steinhauser",
+    "title": "Florida's DeSantis announces massive initial ad reservation with focus on Hispanic voters, in re-election run",
+    "sentiment": "0.699"
+  },
+  {
+    "id": 4092,
+    "mediaId": 19,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Charlie Crist Runaway Leader of Democrat Gubernatorial Race in Florida",
+    "sentiment": "0"
+  },
+  {
+    "id": 3803,
+    "mediaId": 19,
+    "date": "5/10/2022 12:00:00 AM",
+    "sentence": "A stunning $135.8 million came from Friends of <span class='selected-term'>Ron DeSantis</span>, his independent political committee, and the remainder stems from his official reelection campaign:\nFlorida Governor Fundraising: May\n1.",
+    "author": "Hannah Bleau",
+    "title": "Democrat Opponents Fail to Come Close to Ron DeSantiss $143 Million War Chest",
+    "sentiment": "-0.427"
+  },
+  {
+    "id": 3803,
+    "mediaId": 19,
+    "date": "5/10/2022 12:00:00 AM",
+    "sentence": "A stunning $135.8 million came from Friends of <span class='selected-term'>Ron DeSantis</span>, his independent political committee, and the remainder stems from his official reelection campaign:\nFlorida Governor Fundraising: May\n1.",
+    "author": "Hannah Bleau",
+    "title": "Democrat Opponents Fail to Come Close to Ron DeSantiss $143 Million War Chest",
+    "sentiment": "0"
+  },
+  {
+    "id": 3681,
+    "mediaId": 302,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Florida Democrats pledge $15 million to mobilize voters, unify party",
+    "sentiment": "0"
+  },
+  {
+    "id": 3697,
+    "mediaId": 302,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "TALLAHASSEE  The three leading Democratic candidates in the Florida governors race U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
+    "author": "Kirby Wilson",
+    "title": "Florida Democrats struggle to find spotlight in race against DeSantis",
+    "sentiment": "-0.351"
+  },
+  {
+    "id": 3697,
+    "mediaId": 302,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "TALLAHASSEE  The three leading Democratic candidates in the Florida governors race U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
+    "author": "Kirby Wilson",
+    "title": "Florida Democrats struggle to find spotlight in race against DeSantis",
+    "sentiment": "0"
+  },
+  {
+    "id": 3724,
+    "mediaId": 65,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "The total included $2.297 million raised by his reelection campaign and $8.156 million brought in by Friends of <span class='selected-term'>Ron DeSantis</span>, his political committee.",
+    "author": "Paul Steinhauser",
+    "title": "Florida Gov. Ron DeSantis sets a new monthly fundraising record as he runs for re-election",
+    "sentiment": "0"
+  },
+  {
+    "id": 3724,
+    "mediaId": 65,
+    "date": "5/11/2022 12:00:00 AM",
+    "sentence": "The total included $2.297 million raised by his reelection campaign and $8.156 million brought in by Friends of <span class='selected-term'>Ron DeSantis</span>, his political committee.",
+    "author": "Paul Steinhauser",
+    "title": "Florida Gov. Ron DeSantis sets a new monthly fundraising record as he runs for re-election",
+    "sentiment": "0.665"
+  },
+  {
+    "id": 3648,
+    "mediaId": 151,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "CAMPAIGN MODE\nTHE SHAPE IM IN  Florida Democrats struggle to find spotlight in race against DeSantis,? by Tampa Bay Times Kirby Wilson and Romy Ellenbogen: The three leading Democratic candidates in the Florida governors race  U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
+    "author": "",
+    "title": "Taddeo insists she's staying in Florida's governor's race",
+    "sentiment": "-0.694"
+  },
+  {
+    "id": 3648,
+    "mediaId": 151,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "CAMPAIGN MODE\nTHE SHAPE IM IN  Florida Democrats struggle to find spotlight in race against DeSantis,? by Tampa Bay Times Kirby Wilson and Romy Ellenbogen: The three leading Democratic candidates in the Florida governors race  U.S. Rep. Charlie Crist, Agriculture Commissioner Nikki Fried and state Sen. Annette Taddeo  have a <span class='selected-term'>Ron DeSantis</span> problem.",
+    "author": "",
+    "title": "Taddeo insists she's staying in Florida's governor's race",
+    "sentiment": "0"
+  },
+  {
+    "id": 3665,
+    "mediaId": 157,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "Just last week, the <span class='selected-term'>Ron DeSantis</span> Prize Patrol popped up at the Jacksonville Zoo.",
+    "author": "Craig Pittman",
+    "title": "New algae blooms expose Florida Gov. DeSantis failure to fix pollution",
+    "sentiment": "-0.501"
+  },
+  {
+    "id": 3665,
+    "mediaId": 157,
+    "date": "5/12/2022 12:00:00 AM",
+    "sentence": "Just last week, the <span class='selected-term'>Ron DeSantis</span> Prize Patrol popped up at the Jacksonville Zoo.",
+    "author": "Craig Pittman",
+    "title": "New algae blooms expose Florida Gov. DeSantis failure to fix pollution",
+    "sentiment": "0"
+  },
+  {
+    "id": 3530,
+    "mediaId": 34,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Brett Wilkins",
+    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes",
+    "sentiment": "-0.493"
+  },
+  {
+    "id": 3530,
+    "mediaId": 34,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Brett Wilkins",
+    "title": "Progressives Vow to Fight as DeSantis Signs Bill Banning Protests at Florida Homes",
+    "sentiment": "0"
+  },
+  {
+    "id": 8542,
+    "mediaId": 302,
+    "date": "5/27/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Charlie Crist's flawed debate strategy must change | A Sun Sentinel editorial",
+    "sentiment": "0"
+  },
+  {
+    "id": 8522,
+    "mediaId": 302,
+    "date": "5/29/2022 12:00:00 AM",
+    "sentence": "And so when that happens, other opponents may take shots, but our shots need to be directed at the real problem we're all having in Florida, and his name is <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Democratic candidates for Florida governor debate, but focus on DeSantis",
+    "sentiment": "-0.243"
+  },
+  {
+    "id": 8522,
+    "mediaId": 302,
+    "date": "5/29/2022 12:00:00 AM",
+    "sentence": "And so when that happens, other opponents may take shots, but our shots need to be directed at the real problem we're all having in Florida, and his name is <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Democratic candidates for Florida governor debate, but focus on DeSantis",
+    "sentiment": "0"
   }
 ]

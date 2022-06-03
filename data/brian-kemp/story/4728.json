@@ -5,14 +5,23 @@
   "headline": "States Move to Restrict or Protect Abortion Rights After Leak of Draft Opinion Overturning Roe v. Wade",
   "image": "https://images.wsj.net/im-537000/?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/states-move-to-restrict-or-protect-abortion-rights-after-leak-of-draft-opinion-overturning-roe-v-wade-11651608822",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jennifer Calfas",
   "authorUrl": "https://www.wsj.com/news/author/jennifer-calfas",
   "termIds": [
-    2095
+    827,
+    1523,
+    2095,
+    2186,
+    3778,
+    4394,
+    482,
+    2621,
+    2911,
+    2951
   ],
   "sentences": [
     "Kristi Noem, a Republican, tweeted Tuesday that she would immediately call for a special session if Roe is overturned to save lives and guarantee that every unborn child has a right to life in South Dakota.? In Alabama, a legislative leader promised quick action to quickly end abortion within our borders.?\nTop Democratic lawmakers in New York and California, meanwhile, said they would push to amend their state constitutions to cement existing laws that protect abortion rights.",

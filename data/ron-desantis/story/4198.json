@@ -5,14 +5,18 @@
   "headline": "DeSantis slams WHCA and calls Trevor Noah's claim about him during dinner a 'lie'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15236b35-71f3-4726-ac9d-d77d4bbf110e/d7f2528d-0fd8-4f20-86bd-176d95d98962/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/desantis-wh-correspondents-trevor-noah-that-is-a-lie",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ronn Blitzer",
   "authorUrl": "https://www.foxnews.com/person/b/ronn-blitzer",
   "termIds": [
-    661
+    661,
+    1147,
+    2282,
+    3656,
+    2661
   ],
   "sentences": [
     "During another joke in which he compared DeSantis to former President Donald Trump, Noah again turned in the same direction and, as if speaking directly to DeSantis, said, \"Youre smarter than him, youre slicker than him, you can walk down ramps.\"",

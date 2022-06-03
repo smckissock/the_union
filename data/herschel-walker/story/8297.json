@@ -5,14 +5,23 @@
   "headline": "Mighty Georgia runs down Bama to claim its long-sought championship",
   "image": "https://www.ajc.com/resizer/BvcM9xqIOoz-kMtclGlTjDhMruc=/fit-in/720x480/cloudfront-us-east-1.images.arcpublishing.com/ajc/KSPZKVLJRJYDYMWNITIAZGDNOI.JPG",
   "link": "https://www.ajc.com/sports/mark-bradley-blog/mighty-georgia-runs-down-bama-to-win-its-long-sought-championship/EO6X4LNRIBDGFG4LTNMVOFRTDU/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mark Bradley",
   "authorUrl": "https://www.ajc.com/staff/mark-bradley/",
   "termIds": [
-    815
+    815,
+    2235,
+    5724,
+    5822,
+    5871,
+    6011,
+    5589,
+    2537,
+    2555,
+    2672
   ],
   "sentences": [
     "This game also saw Georgia win with the elements that had conjured up an unbeaten regular season  by running the ball late, by letting Bennett make just enough throws and, not incidentally, by defending with the usual focused fury.",

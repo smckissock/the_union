@@ -5,7 +5,7 @@
   "headline": "Brian Kemp Crushes David Perdue",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/david-perdue.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/brian-kemp-crushes-david-perdue/",
-  "sentiment": "0.0",
+  "sentiment": "0.589",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,10 @@
   "authorUrl": "https://www.nationalreview.com/author/dan-mclaughlin/",
   "termIds": [
     815,
-    2095
+    2095,
+    4325,
+    2672,
+    2934
   ],
   "sentences": [
     "Donald Trump staked a huge amount of his personal prestige and influence on toppling Kemp purely out of spite over Trumps loss of Georgia in 2020, and while the jury is still out in some of the other Georgia Republican primaries, common sense and Kemps conservative record have triumphed tonight over the most debased forms of Trump sycophancy.",

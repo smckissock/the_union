@@ -5,14 +5,24 @@
   "headline": "Throwing Away Pennsylvania",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/Oz-and-Trump.jpg?w=1592",
   "link": "https://www.nationalreview.com/2022/05/throwing-away-pennsylvania/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "The Editors",
   "authorUrl": "https://www.nationalreview.com/author/the-editors/",
   "termIds": [
-    3102
+    943,
+    1147,
+    1606,
+    1990,
+    3102,
+    5277,
+    146,
+    428,
+    489,
+    571,
+    2862
   ],
   "sentences": [
     "Top Stories\nKathy Barnette, a little-known right-wing commentator running what had been a long-shot Senate campaign, has surged near the top of the multi-candidate field, pulling basically even with Mehmet Oz, the TV doctor endorsed by Trump.",

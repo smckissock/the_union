@@ -1,20 +1,20 @@
 [
   {
-    "id": 6489,
-    "mediaId": 43,
-    "date": "2022-00-06",
-    "sentence": "MO-Sen: Trudy Busch Valentine (D) ($55,000 buy)\nNC-Sen: Club for Growth - anti-Pat McCrory (R)\nGA-07: Carolyn Bourdeaux (D-inc)\nMN-01: Jennifer Carnahan (R)\nPA-08: <span class='selected-term'>Jim Bognet</span> (R)\nThis is a short blurb about Daily Kos.",
-    "author": "",
-    "title": "Daily Kos Elections Live Digest: 5/6",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5023,
     "mediaId": 43,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "? PA-08: 2020 Republican nominee <span class='selected-term'>Jim Bognet</span> has launched the first ad for his rematch against Democratic Rep. Matt Cartwright, and he quickly makes it clear what kind of campaign he'll be running when he opens, \"In 2020, President Trump endorsed me for Congress.",
     "author": "",
     "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 6489,
+    "mediaId": 43,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "MO-Sen: Trudy Busch Valentine (D) ($55,000 buy)\nNC-Sen: Club for Growth - anti-Pat McCrory (R)\nGA-07: Carolyn Bourdeaux (D-inc)\nMN-01: Jennifer Carnahan (R)\nPA-08: <span class='selected-term'>Jim Bognet</span> (R)\nThis is a short blurb about Daily Kos.",
+    "author": "",
+    "title": "Daily Kos Elections Live Digest: 5/6",
+    "sentiment": "0"
   }
 ]

@@ -5,14 +5,18 @@
   "headline": "Ron DeSantis Is Being Incoherent on Inflation",
   "image": "https://static01.nyt.com/images/2022/05/11/opinion/11coy-image/11coy-image-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/11/opinion/inflation-tax-cuts-desantis.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2087,
+    4228,
+    76,
+    2661
   ],
   "sentences": [
     "These findings suggest analysts need to distinguish between rank-and-file workers and professional, managerial and executive employees when they study the incidence of the corporate tax.?\nQuote of the day\nMost people work just hard enough not to get fired and get paid just enough money not to quit.?\n George Carlin, Brain Droppings? (1997)",

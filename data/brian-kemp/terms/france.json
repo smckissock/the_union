@@ -2,10 +2,19 @@
   {
     "id": 7249,
     "mediaId": 129,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Frances Ransom",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8746,
+    "mediaId": 18,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "I (or @VP) never gave Governor <span class='selected-term'>Brian Kemp</span> an OK on those few businesses outside of the Guidelines.",
+    "author": "Associated Press",
+    "title": "Georgia businesses reopen cautiously amid coronavirus worry",
+    "sentiment": "-0.455"
   }
 ]

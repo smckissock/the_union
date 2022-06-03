@@ -5,14 +5,18 @@
   "headline": "Incumbent Kemp Takes Comfortable Lead over Perdue Days ahead of Georgia Gubernatorial Election: Poll",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/kemp.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/incumbent-kemp-takes-comfortable-lead-over-perdue-days-ahead-of-georgia-gubernatorial-election-poll/",
-  "sentiment": "0.0",
+  "sentiment": "0.496",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Zachary Evans",
   "authorUrl": "https://www.nationalreview.com/author/zachary-evans/",
   "termIds": [
-    2095
+    2095,
+    4325,
+    428,
+    2555,
+    2672
   ],
   "sentences": [
     "In announcing a run for governor, Perdue said Kemp caved to [Stacey] Abrams and cost us two Senate seats, the Senate majority, and gave Joe Biden free rein.?\nMeanwhile, former vice president Mike Pence has backed Kemp and will join the incumbent governor for a campaign rally on May 23, the day before the primary.",

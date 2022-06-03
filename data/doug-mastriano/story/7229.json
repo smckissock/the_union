@@ -5,15 +5,25 @@
   "headline": "My Lunch With President Biden",
   "image": "https://static01.nyt.com/images/2022/05/23/opinion/22friedman1/merlin_205765677_b5458489-a0f2-4bc0-91ae-78840e61b8ee-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/22/opinion/biden-trump-republicans-democrats.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
+    1147,
+    1609,
+    1990,
+    2030,
+    2087,
     3102,
-    3103
+    3103,
+    4819,
+    2593,
+    2658,
+    2674,
+    2942
   ],
   "sentences": [
     "What I felt afterward was this: For all you knuckleheads on Fox who say that Biden cant put two sentences together, heres a news flash: He just put NATO together, Europe together and the whole Western alliance together  stretching from Canada up to Finland and all the way to Japan  to help Ukraine protect its fledgling democracy from Vladimir Putins fascist assault.",

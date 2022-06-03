@@ -2,28 +2,37 @@
   {
     "id": 6766,
     "mediaId": 157,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "\"There is no one in Pennsylvania who has done more, or fought harder, for Election Integrity than State Senator <span class='selected-term'>Doug Mastriano</span>,\" Trump said in his endorsement.",
     "author": "Bob Brigham",
     "title": "Trump-endorsed Jan. 6 protestor Doug Mastriano secures Pa. nomination",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8416,
     "mediaId": 98,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "PITTSBURGH \nThe victory party took on the feel of an evangelical worship service after <span class='selected-term'>Doug Mastriano</span> won Pennsylvania's Republican gubernatorial primary this month.",
     "author": "PETER SMITH and DEEPA BHARATH",
     "title": "Christian nationalism on the rise in some GOP campaigns",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8417,
     "mediaId": 178,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "PITTSBURGH  The victory party took on the feel of an evangelical worship service after <span class='selected-term'>Doug Mastriano</span> won Pennsylvania's Republican gubernatorial primary this month.",
     "author": "Peter Smith and Deepa Bharath Associated Press",
     "title": "Christian nationalism on the rise in some GOP campaigns",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8679,
+    "mediaId": 147,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "HARRISBURG, Pa. (AP)  Pennsylvanias Republican nominee for governor, <span class='selected-term'>Doug Mastriano</span>, has offered to sit for an interview with the congressional committee investigating the Jan. 6 attack on the U.S. Capitol and was interviewed by FBI agents last year about it, his lawyer said Thursday.",
+    "author": "Farnoush Amiri",
+    "title": "Republican nominee for PA governor Doug Mastriano willing to talk to Jan. 6 committee",
+    "sentiment": "0"
   }
 ]

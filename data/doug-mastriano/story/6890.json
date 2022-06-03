@@ -5,14 +5,18 @@
   "headline": "Right-wing Gab CEO fears that Trump has been compromised",
   "image": "https://www.rawstory.com/media-library/image.jpg?id=29777760&width=1200&coordinates=0%2C8%2C0%2C42&height=600",
   "link": "https://www.rawstory.com/trump-gab/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sky Palma",
   "authorUrl": "https://www.rawstory.com/u/sky_palma",
   "termIds": [
-    3102
+    1147,
+    1576,
+    3102,
+    5191,
+    2862
   ],
   "sentences": [
     "In a post to his own social media platform, the CEO of Gab cited Dinesh D'Souza's new movie \"2000 Mules,\" which claims to prove \"widespread, coordinated voter fraud in the 2020 election,\" saying that it shows the state of Pennsylvania was \"one of the worst in terms of rigging\" the election.",

@@ -5,14 +5,21 @@
   "headline": "Another Capitol riot participant is cooperating with the Jan. 6 committee. She's reasoning that her cooperation should earn her a reduced sentence.",
   "image": "https://www.politico.com/interactives/uploads/image-service/2022/4/14/616c2f1dfc-1200.jpeg",
   "link": "https://www.politico.com/minutes/congress/04-14-2022/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2039
+    779,
+    1147,
+    1925,
+    2039,
+    2087,
+    2163,
+    2414,
+    84
   ],
   "sentences": [
     "[Investigator] Sean Quinn stated his appreciation for her candor and honesty.?\nSeeking a reduced sentence: Shaner said Krzywicki's interview with the panel was important to show her genuine remorse and to help her as well as our nation to make sense of what occurred that heartbreaking day.?\nWhat Krzywicki did: Prosecutors say Krzywicki and her mother, Jean Lavin, arrived in Washington too late to see Donald Trump's speech but meandered with the crowd until they reached the Capitol.",

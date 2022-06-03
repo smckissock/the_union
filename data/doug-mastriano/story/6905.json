@@ -5,14 +5,18 @@
   "headline": "Protective order against lieutenant gov candidate tossed",
   "image": "https://twt-thumbs.washtimes.com/media/image/2022/05/06/img_1834_55239_c0-171-2349-1540_s885x516.jpg?6f706d12c5ea813788e6c52e36ef4f01efba56ad",
   "link": "https://www.washingtontimes.com/news/2022/may/6/protective-order-against-lieutenant-gov-candidate-/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Michael Rubinkam",
   "authorUrl": "",
   "termIds": [
-    3102
+    1990,
+    3102,
+    5396,
+    428,
+    2862
   ],
   "sentences": [
     "Without offering evidence, he accused Rolling Stone magazine, which first published word of the April 26 protection-from-abuse order, of being closely involved with a series of phone calls made to police from out-of-state in which false police reports were made against me at my home.? Rolling Stone has said it stands by its story.",

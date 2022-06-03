@@ -5,7 +5,7 @@
   "headline": "Plans to close all but one polling place in a rural Georgia county reverberate through a battleground state",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220118122838-georgia-voter-sticker-exlarge-169.jpg",
   "link": "https://www.cnn.com/2022/01/19/politics/poll-closures-rural-lincoln-county-georgia/index.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "https://www.cnn.com/profiles/fredreka-schouten",
   "termIds": [
     815,
-    2095
+    1147,
+    1350,
+    2095,
+    5701,
+    146,
+    220,
+    2550,
+    2556,
+    2672,
+    2758
   ],
   "sentences": [
     "\"What's happening in Georgia with the dismantling of these county election boards is an extreme example of the national trend in Republican-controlled states to undermine local election officials,\" said Jonathan Diaz, senior legal counsel for voting rights at the nonpartisan Campaign Legal Center, which advocates for broad access to the ballot.",

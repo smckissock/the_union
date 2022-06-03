@@ -5,14 +5,24 @@
   "headline": "In Arizona, a Swing State Swings to the Far Right",
   "image": "https://static01.nyt.com/images/2022/04/08/us/politics/00pol-arizona-Kari/merlin_205043214_4a5b2cc5-6954-483b-93b1-6133a902debb-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/05/us/politics/arizona-midterms-swing.html",
-  "sentiment": "0",
+  "sentiment": "0.665",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3103
+    1082,
+    1147,
+    1284,
+    1801,
+    2087,
+    3103,
+    2550,
+    2777,
+    2866,
+    4954,
+    5125
   ],
   "sentences": [
     "We need some people with a backbone to stand up for this country  we had our election stolen,? Ms. Lake said in an interview after the Cochise County event in March, adding, I dont know if its a winning issue, but its a winning issue when it comes to saving this country.?\nRepublicans in many states have grown increasingly tired of the Stop the Steal movement and the push by Mr. Trump to reward election deniers and punish those who accept President Bidens victory.",

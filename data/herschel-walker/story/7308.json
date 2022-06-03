@@ -5,7 +5,7 @@
   "headline": "Five things to watch in the Georgia, Alabama primaries",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/brooksmo_010621_ap-Jacquelyn-Martin_tuesday-primaries.jpeg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3498349-five-things-to-watch-in-the-georgia-alabama-primaries/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
     815,
-    2095
+    1147,
+    1459,
+    2087,
+    2095,
+    2203,
+    428,
+    2537,
+    2672,
+    2934
   ],
   "sentences": [
     "While the states primary between Kemp and Perdue has largely been predicated on the same issue  Trumps false claims of election fraud  a win in the secretary of states race would put the former president on track to install a loyalist at the top rung of Georgias elections system.",

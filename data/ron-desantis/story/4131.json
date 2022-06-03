@@ -5,14 +5,19 @@
   "headline": "Column: Corporations left California for lower taxes and fewer regulations. Will abortion rights bring them back?",
   "image": "https://s.yimg.com/ny/api/res/1.2/7ltZark2MTs8TyE2RKQfpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/b1gZMaLu4B_wK.rnTmSwgQ--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/c154e1204e48624931189bafc4050738",
   "link": "https://finance.yahoo.com/news/column-corporations-left-california-lower-190609019.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Michael Hiltzik",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2517,
+    2590,
+    2661,
+    2798,
+    2934
   ],
   "sentences": [
     "Walt Disney Co., which long had proudly trumpeted its support for LGBTQ employees and customers, set a new standard for corporate cowardice by initially remaining publicly silent on Florida's bill suppressing the teaching of gender issues in public schools, which was known by critics as the \"Don't Say Gay\" bill.",

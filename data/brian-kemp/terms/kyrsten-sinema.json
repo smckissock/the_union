@@ -1,20 +1,29 @@
 [
   {
-    "id": 7507,
-    "mediaId": 238,
-    "date": "2022-00-23",
-    "sentence": "",
-    "author": "Theodoric Meyer",
-    "title": "Tuesday's primary fights could be the latest sign of Blue Dogs' waning influence",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7885,
     "mediaId": 151,
-    "date": "2022-00-27",
+    "date": "3/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 7507,
+    "mediaId": 238,
+    "date": "5/23/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Theodoric Meyer",
+    "title": "Tuesday's primary fights could be the latest sign of Blue Dogs' waning influence",
+    "sentiment": "0"
+  },
+  {
+    "id": 8710,
+    "mediaId": 34,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Brett Wilkins",
+    "title": "'Let Us Finally Do Something': Biden Pleads for Gun Control Amid Mass Shooting Surge",
+    "sentiment": "0"
   }
 ]

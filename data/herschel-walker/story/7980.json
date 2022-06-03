@@ -5,14 +5,22 @@
   "headline": "Ex-Wife of Eric Greitens, Senate Candidate in Missouri, Accuses Him of Abuse",
   "image": "https://static01.nyt.com/images/2022/03/21/us/politics/21pol-greitens-1/21pol-greitens-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/03/21/us/politics/missouri-eric-greitens-wife.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    904,
+    1147,
+    1448,
+    2365,
+    428,
+    571,
+    5669,
+    2799
   ],
   "sentences": [
     "Prior to our divorce, during an argument in late April 2018, Eric knocked me down and confiscated my cellphone, wallet and keys so that I was unable to call for help or extricate myself and our children from our home, wrote Dr. Greitens, who has two young sons with Mr. Greitens and whose divorce from him became final in May 2020.",

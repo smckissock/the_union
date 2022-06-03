@@ -5,7 +5,7 @@
   "headline": "Candidates confirmed for 2022 election in Georgia as qualifying ends",
   "image": "https://www.wabe.org/app/uploads/2022/03/AP101028044572-336x189.jpg",
   "link": "https://www.wabe.org/candidates-for-2022-election-in-georgia-confirmed-as-qualifying-ends/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,10 +13,19 @@
   "authorUrl": "",
   "termIds": [
     815,
+    1274,
     1664,
+    1776,
     1896,
     2095,
-    3082
+    2438,
+    3082,
+    5727,
+    5846,
+    5886,
+    5934,
+    5982,
+    2672
   ],
   "sentences": [
     "Heres a look at candidates who signed up to run for statewide and congressional district offices:\nUNITED STATES SENATE\nDemocrats: Raphael Warnock (incumbent), Tamara Johnson-Shealey.",

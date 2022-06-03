@@ -5,14 +5,16 @@
   "headline": "Clarence Thomas is a politician, says Lawrence O'Donnell last night",
   "image": "https://images.dailykos.com/images/1048422/story_image/AP20301738400354.jpg?1647278436",
   "link": "https://www.dailykos.com/story/2022/4/13/2091718/-Clarence-Thomas-is-a-politician-says-Lawrence-O-Donnell-last-night",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    812,
+    815,
+    6023
   ],
   "sentences": [
     "He gave these reasons:\nThomas posed with Herschel Walker, a Republican candidate trying to run against Democrat Senator Raphael Warnock.",

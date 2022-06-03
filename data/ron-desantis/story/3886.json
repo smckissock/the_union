@@ -5,14 +5,22 @@
   "headline": "Trump Lawsuit Against Twitter, Jack Dorsey Tossed by California Judge",
   "image": "https://d.newsweek.com/en/full/2033198/donald-trump-rally.webp?w=790&f=cddd574536649447b3073e8b600721e8",
   "link": "https://www.newsweek.com/trump-lawsuit-against-twitter-jack-dorsey-tossed-california-judge-1704479",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jake Thomas",
   "authorUrl": "https://www.newsweek.com/authors/jake-thomas",
   "termIds": [
-    661
+    661,
+    1147,
+    2394,
+    4419,
+    153,
+    177,
+    539,
+    2590,
+    2661
   ],
   "sentences": [
     "The lawsuit attempted to use Florida's Stop Social Media Censorship Act, a bill signed by Florida Governor Ron DeSantis last year that gives residents the right to sue social media companies that enforce their community standards unevenly.",

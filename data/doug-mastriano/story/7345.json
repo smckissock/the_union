@@ -5,7 +5,7 @@
   "headline": "Takeaways: Trump's big primary defeat; scandals for the win",
   "image": "https://www.wabe.org/app/uploads/2022/05/Untitled-design-336x189.jpg",
   "link": "https://www.wabe.org/takeaways-trumps-big-primary-defeat-scandals-for-the-win/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,9 +14,16 @@
   "termIds": [
     661,
     815,
+    1147,
+    1434,
+    1951,
     2095,
+    2203,
     2303,
-    3102
+    3102,
+    4325,
+    2537,
+    2672
   ],
   "sentences": [
     "Trump has scored some primary victories with election deniers  most significantly last week in Pennsylvania, when Republican voters there chose his preferred gubernatorial candidate Doug Mastriano, who said he wouldn't have certified Biden's 2020 win of the state.",

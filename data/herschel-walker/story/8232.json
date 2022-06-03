@@ -5,14 +5,20 @@
   "headline": "Georgia Poll: Football Legend Herschel Walker Leads Democrat Raphael Warnock in Tight Senate Race",
   "image": "https://media.breitbart.com/media/2022/01/GettyImages-1235507269-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/01/27/georgia-poll-football-legend-herschel-walker-leads-democrat-raphael-warnock-tight-senate-race/",
-  "sentiment": "0.0",
+  "sentiment": "0.45",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ashley Oliver",
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
-    815
+    815,
+    1147,
+    146,
+    428,
+    571,
+    2555,
+    2672
   ],
   "sentences": [
     "In terms of demographics in the race between Walker and Warnock, Walker received the majority of support from respondents with less formal education, while Warnock received the majority of support from respondents with a college degree or higher.",

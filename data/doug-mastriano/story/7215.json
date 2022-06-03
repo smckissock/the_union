@@ -5,14 +5,23 @@
   "headline": "Pennsylvania Democratic gubernatorial nominee Josh Shapiro blasts GOP opponent Doug Mastriano as 'dangerous' and 'extreme'",
   "image": "https://i.insider.com/628a8e8cb0a8be00185ff8d9?width=1000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/shapiro-blasts-mastriano-pennsylvania-gubernatorial-election-trump-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John L. Dorman",
   "authorUrl": "https://www.businessinsider.com/author/john-l-dorman",
   "termIds": [
-    3102
+    1147,
+    1713,
+    1990,
+    2329,
+    3102,
+    78,
+    146,
+    392,
+    428,
+    2862
   ],
   "sentences": [
     "Mastriano  who has been a huge proponent of former President Donald Trump's debunked election claims and has pledged to take the swing state in a deeply conservative direction  was endorsed by the former president earlier this month.",

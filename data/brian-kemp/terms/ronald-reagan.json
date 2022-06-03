@@ -2,7 +2,7 @@
   {
     "id": 3385,
     "mediaId": 558,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tom LoBianco",
     "title": "Maryland governor tries to grab Reagan mantle with a play to 'exhausted majority'",
@@ -11,7 +11,7 @@
   {
     "id": 3382,
     "mediaId": 129,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "The Ohio and Pennsylvania Republicans were mostly taking their cues from Mr. Trump in their Senate primaries; by contrast, the Georgia Republicans were more inclined to buck Mr. Trump and stick with their incumbent Republican governor, <span class='selected-term'>Brian Kemp</span>, whom the former president is trying to oust in next weeks primary.",
     "author": "",
     "title": "10 Republican Voters in Swing States on Trumps Hold on the Party",
@@ -20,10 +20,19 @@
   {
     "id": 3506,
     "mediaId": 238,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "Hugh Hewitt",
     "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8730,
+    "mediaId": 21,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Former President Donald Trump's political action committee (PAC) suggested, groundlessly, that Georgia Governor <span class='selected-term'>Brian Kemp</span> won his primary via fraud, returning to a familiar theme.",
+    "author": "Tom Porter",
+    "title": "Trump's PAC baselessly claims Brian Kemp's 52-point victory in Georgia governor primary was because of fraud",
+    "sentiment": "-0.868"
   }
 ]

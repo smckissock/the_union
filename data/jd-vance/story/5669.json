@@ -5,14 +5,21 @@
   "headline": "JD Vance campaign fires back at Politico Playbook: They're acting like Tim Ryan's 'PR team'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55872886-eece-4bb3-b9ff-7d6d32aafc9a/cbf45f57-c2b4-4525-9ed5-b143a63e56a8/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/jd-vance-campaign-politico-playbook",
-  "sentiment": "0",
+  "sentiment": "-0.574",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3103
+    781,
+    1013,
+    1437,
+    1801,
+    2490,
+    3103,
+    403,
+    2845
   ],
   "sentences": [
     "Playbook later provided an update, which read, \"In response to Playbook after the item was published, the Vance campaign said that most of the information in the book has already been reported by other outlets during the primary campaign.\"\nVan Kirk told Fox News Digital, \"Playbook may as well be on the Tim Ryan campaign payroll since they are acting like his PR team - covering our campaign in a journalistically unethical way, while conveniently providing no coverage on Tim Ryan's extremist comments from last night endorsing late-term abortion, without any restrictions.\"",

@@ -5,14 +5,23 @@
   "headline": "Senate GOP to primary voters: Dont screw it up",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/04/mcconnellmitch_032619sr3_lead.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/senate/3472104-senate-gop-to-primary-voters-dont-screw-it-up/",
-  "sentiment": "0",
+  "sentiment": "0.682",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jordain Carney",
   "authorUrl": "https://thehill.com/author/jordain-carney/",
   "termIds": [
-    3103
+    1147,
+    1671,
+    1765,
+    1801,
+    2182,
+    2365,
+    3103,
+    423,
+    428,
+    571
   ],
   "sentences": [
     "With primaries set to kick off in earnest this week, Republican senators are warning that the party could still screw up what they view as an advantageous political environment, with President Biden stuck in a polling slump and voters feeling restless, depending on who comes out on top in the states that will determine which party wins control of the Senate in the midterm elections.",

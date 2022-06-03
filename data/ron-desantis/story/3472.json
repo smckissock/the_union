@@ -5,14 +5,22 @@
   "headline": "Nikole Hannah-Jones, others advocate for critical race theory in wake of Buffalo shooting",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f486ddd0-48e7-469d-8c11-f15e51467107/221e45d4-8d09-4019-acfa-25d7f50602a6/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/nikole-hannah-jones-buffalo-shooting-critical-race-theory",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Taylor Penley",
   "authorUrl": "https://www.foxnews.com/person/p/taylor-penley",
   "termIds": [
-    661
+    661,
+    2347,
+    4079,
+    4527,
+    4868,
+    539,
+    3214,
+    2945,
+    4938
   ],
   "sentences": [
     "But amid the crisis, critics are making calls for various actions to combat the lack of \"anti-racist\" education they view as a rampant problem plaguing America while preventing similar violence in the future, including a slew of progressives who equated Republicans with White supremacists and blamed them for allegedly pushing the \"Great Replacement Theory\" while using Saturday's tragedy to necessitate teaching critical race theory in American schools.",

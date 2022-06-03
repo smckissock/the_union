@@ -2,37 +2,37 @@
   {
     "id": 71,
     "mediaId": 43,
-    "date": "2022-00-01",
+    "date": "2/1/2022 12:00:00 AM",
     "sentence": "The incumbent was one of the 10 House Republicans who voted to impeach Donald Trump, and Trump is backing conservative commentator <span class='selected-term'>John Gibbs</span>' bid to deny Meijer renomination in the August primary.",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 2/1",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7,
-    "mediaId": 43,
-    "date": "2022-00-22",
-    "sentence": "Friday, Apr 22, 2022  11:30:12 AM Pacific Daylight Time  Jeff Singer\nMI-03: Rep. Peter Meijer, who was one of the 10 House Republicans to vote to impeach Trump, faces primary opposition from conservative commentator <span class='selected-term'>John Gibbs</span>, who is Trump's endorsed candidate.",
-    "author": "",
-    "title": "Daily Kos Elections Live Digest: 4/22",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 54,
     "mediaId": 43,
-    "date": "2022-00-22",
+    "date": "2/22/2022 12:00:00 AM",
     "sentence": "? MI-03: The Democratic group EMILY's List has released a mid-January survey from Impact Research arguing that Rep. Peter Meijer is in real danger of losing his August Republican primary to conservative commentator <span class='selected-term'>John Gibbs</span>.",
     "author": "",
     "title": "Morning Digest: An old scandal resurfaces for Texas attorney general one week ahead of GOP primary",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 7,
+    "mediaId": 43,
+    "date": "4/22/2022 12:00:00 AM",
+    "sentence": "Friday, Apr 22, 2022  11:30:12 AM Pacific Daylight Time  Jeff Singer\nMI-03: Rep. Peter Meijer, who was one of the 10 House Republicans to vote to impeach Trump, faces primary opposition from conservative commentator <span class='selected-term'>John Gibbs</span>, who is Trump's endorsed candidate.",
+    "author": "",
+    "title": "Daily Kos Elections Live Digest: 4/22",
+    "sentiment": "0"
   },
   {
     "id": 6,
     "mediaId": 43,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "? MI-03: Rep. Peter Meijer, who was one of the 10 House Republicans to vote to impeach Trump, faces primary opposition from conservative commentator <span class='selected-term'>John Gibbs</span>, who is Trump's endorsed candidate.",
     "author": "",
     "title": "Morning Digest: Michigan Republican sends horrid",
-    "sentiment": "0.0"
+    "sentiment": "0"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": 4246,
     "mediaId": 558,
-    "date": "2022-00-02",
+    "date": "5/2/2022 12:00:00 AM",
     "sentence": "",
     "author": "Mary Ellen Klas",
     "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
@@ -11,19 +11,28 @@
   {
     "id": 4246,
     "mediaId": 558,
-    "date": "2022-00-02",
+    "date": "5/2/2022 12:00:00 AM",
     "sentence": "",
     "author": "Mary Ellen Klas",
     "title": "Time for a Disney do-over? DeSantis lobs solar bomb. Redistricting musical chairs begin",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3473,
     "mediaId": 302,
-    "date": "2022-00-18",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Clerk sues Pinellas County for spending on election lawsuit",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8854,
+    "mediaId": 302,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Florida school safety bill on DeSantis desk focuses on mental health",
+    "sentiment": "0"
   }
 ]

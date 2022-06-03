@@ -5,14 +5,23 @@
   "headline": "J.D. Vance gets Trump bounce in Ohio Senate race: poll",
   "image": "https://twt-thumbs.washtimes.com/media/image/2022/03/28/election_2022-senate-ohio-russia_deals_95247_c0-241-5760-3599_s885x516.jpg?e942c72aa26afc8104bfcfead01a46ac0f832101",
   "link": "https://www.washingtontimes.com/news/2022/apr/21/jd-vance-gets-trump-bounce-ohio-senate-race-poll/",
-  "sentiment": "0",
+  "sentiment": "0.549",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Seth McLaughlin",
   "authorUrl": "https://www.washingtontimes.com/staff/seth-mclaughlin/",
   "termIds": [
-    3103
+    946,
+    1147,
+    1801,
+    2027,
+    2208,
+    2466,
+    3103,
+    380,
+    571,
+    2845
   ],
   "sentences": [
     "Mr. Vance is the preferred pick of 25% of likely Republican primary voters, followed by former state treasurer Josh Mandel (18%), businessman Mike Gibbons (13%), former sate GOP Chair Jane Timken (11%) and state Sen. Matt Dolan (9%).",

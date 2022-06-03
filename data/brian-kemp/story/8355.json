@@ -5,15 +5,22 @@
   "headline": "Georgia deals critical blow to Trump's kingmaker status",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/trumpdonald_010920_ap-Evan-Vucci_trump.jpeg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3501677-georgia-deals-critical-blow-to-trumps-kingmaker-status/",
-  "sentiment": "0.0",
+  "sentiment": "-0.43",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Max Greenwood",
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
+    1147,
+    1438,
+    1513,
     2095,
-    2303
+    2203,
+    2279,
+    2303,
+    4325,
+    2672
   ],
   "sentences": [
     "Keith Naughton, a veteran Republican strategist, said that while there have always been limitations when it comes to national political figures' abilities to influence state elections, Trump remained an exception for years because of his vise-like grip over the GOP and its conservative voter base.",

@@ -5,14 +5,21 @@
   "headline": "Ron DeSantis banned from NY Museum of Jewish Heritage ahead of speaking role at the facility: report",
   "image": "https://www.rawstory.com/media-library/ron-desantis.jpg?id=29746597&width=1200&coordinates=0%2C22%2C0%2C22&height=600",
   "link": "https://www.rawstory.com/desantis-banned-jewish-museum/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Chapman",
   "authorUrl": "https://www.rawstory.com/u/matthew_chapman",
   "termIds": [
-    661
+    661,
+    4302,
+    3426,
+    3584,
+    2661,
+    2721,
+    2851,
+    2945
   ],
   "sentences": [
     "\"We know things are bad when a Jewish institution  in this case, a museum whose purpose is to keep Jewish heritage alive by remembering the Holocaust  turns on its own and tries to make a virtue of its own intolerance,\" they wrote, arguing that Florida is experiencing a \"remarkable Jewish renaissance\" they thought DeSantis could offer some perspective on.",

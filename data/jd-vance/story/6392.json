@@ -5,14 +5,22 @@
   "headline": "Donald Trump Endorses Populist J.D. Vance in Ohio Republican Senate Primary Race",
   "image": "https://media.breitbart.com/media/2022/04/AP21183828334156-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/15/trump-endorses-populist-j-d-vance-in-ohio-republican-senate-primary-race/",
-  "sentiment": "0",
+  "sentiment": "0.748",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John Binder",
   "authorUrl": "https://www.breitbart.com/author/john-binder/",
   "termIds": [
-    3103
+    781,
+    1147,
+    1801,
+    3103,
+    146,
+    379,
+    428,
+    571,
+    2845
   ],
   "sentences": [
     "Vance, who has laid out an aggressive agenda, is campaigning on ending welfare for illegal immigration, reducing legal immigration levels, imposing fierce tariffs on China-made products, breaking up big tech conglomerates with antitrust maneuvers and legislation, as well as reshoring manufacturing back to the United States, and banning Critical Race Theory (CRT), among other policy prescriptions.",

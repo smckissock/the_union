@@ -5,14 +5,21 @@
   "headline": "After 2020, a candidate conceding an election is no longer a sure thing",
   "image": "https://www.wabe.org/app/uploads/news/npr-stories/ap21316694870926_custom-14a3cdc96653a6ab84d830351bd56ccceb63a98c-336x189.jpg",
   "link": "https://www.wabe.org/after-2020-a-candidate-conceding-an-election-is-no-longer-a-sure-thing/",
-  "sentiment": "0.0",
+  "sentiment": "-0.558",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1147,
+    1474,
+    1486,
+    1516,
+    1951,
+    2095,
+    2672,
+    2820
   ],
   "sentences": [
     "But Matt Masterson, who oversaw election security efforts within the Department of Homeland Securitys Cybersecurity and Infrastructure Security Agency leading up to Election Day 2020, says he expects more candidates to push the boundaries on concessions in 2022, since Trump faced so few consequences for not conceding in 2020.\nI think we have to assume that in some cases, hopefully not many cases, but the incentive structure suggests that perhaps in more and more cases, the loser will not accept [defeat],? Masterson says.",

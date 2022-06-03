@@ -5,7 +5,7 @@
   "headline": "Georgia set to test Trump's US voter fraud 'Big Lie'",
   "image": "https://www.rawstory.com/media-library/david-perdue-and-donald-trump.jpg?id=28328612&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/georgia-set-to-test-trump-s-us-voter-fraud-big-lie/",
-  "sentiment": "0.0",
+  "sentiment": "-0.569",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://www.rawstory.com/u/agence_france-presse",
   "termIds": [
     815,
-    2095
+    1147,
+    1434,
+    2087,
+    2095,
+    4325,
+    2617,
+    2672,
+    2945
   ],
   "sentences": [
     "Four other states -- Texas, Arkansas, Alabama and Minnesota -- are also picking contenders for November's midterm elections, which will decide which party controls the US Senate and House of Representatives for the remainder of President Joe Biden's first term.",

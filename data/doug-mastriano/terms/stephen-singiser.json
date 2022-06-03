@@ -1,20 +1,20 @@
 [
   {
-    "id": 6503,
-    "mediaId": 43,
-    "date": "2022-00-17",
-    "sentence": "A recent poll for Fox found the GOP primary very wide open with former Rep. Lou Barletta, who badly lost the 2018 Senate race to Democratic incumbent Bob Casey, posting a tiny 19-18 edge over state Sen. <span class='selected-term'>Doug Mastriano</span>, an ardent election denier who was filmed on Jan. 6 apparently passing breached barricades at the Capitol.",
-    "author": "",
-    "title": "Morning Digest: This swing seat in Pittsburgh suburbs went blue in 2018, but will it stay that way?",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7011,
     "mediaId": 43,
-    "date": "2022-00-23",
+    "date": "2/23/2022 12:00:00 AM",
     "sentence": "? PA-Gov: State Sen. <span class='selected-term'>Doug Mastriano</span> on Monday night released a very amended campaign financial disclosure report, which came hours after the Philadelphia Inquirer wrote that the Republican's original document \"left some GOP insiders scratching their heads  and raised questions about whether his campaign is following the rules.\"",
     "author": "",
     "title": "Morning Digest: Orange County D.A. accused of weighing victims' race in possible death penalty case",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 6503,
+    "mediaId": 43,
+    "date": "3/17/2022 12:00:00 AM",
+    "sentence": "A recent poll for Fox found the GOP primary very wide open with former Rep. Lou Barletta, who badly lost the 2018 Senate race to Democratic incumbent Bob Casey, posting a tiny 19-18 edge over state Sen. <span class='selected-term'>Doug Mastriano</span>, an ardent election denier who was filmed on Jan. 6 apparently passing breached barricades at the Capitol.",
+    "author": "",
+    "title": "Morning Digest: This swing seat in Pittsburgh suburbs went blue in 2018, but will it stay that way?",
+    "sentiment": "0"
   }
 ]

@@ -5,14 +5,18 @@
   "headline": "JD Vance: Slime Ball Karl Rove One of My Biggest Enemies in This Primary",
   "image": "https://media.breitbart.com/media/2022/04/jd-vance-filephoto-apr2021-skidmore-flickr-640x335.jpg",
   "link": "https://www.breitbart.com/clips/2022/05/05/jd-vance-slime-ball-karl-rove-one-of-my-biggest-enemies-in-this-primary/",
-  "sentiment": "0",
+  "sentiment": "-0.32",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jeff Poor",
   "authorUrl": "https://www.breitbart.com/author/jeffrey-poor/",
   "termIds": [
-    3103
+    667,
+    1801,
+    3103,
+    200,
+    428
   ],
   "sentences": [
     "I mean, look, if you think of some my biggest enemies in this primary, you know, the slime ball Karl Rove who shipped a lot of American jobs overseas, got rich in the process, and also sent a lot of Americans to die in stupid conflicts,? he said.",

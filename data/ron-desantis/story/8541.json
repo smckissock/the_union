@@ -5,14 +5,21 @@
   "headline": "How Police Response Times Compare in School Shootings Since Columbine",
   "image": "https://d.newsweek.com/en/full/2047388/uvalde-school-shooting.webp?w=790&f=3c23e8a14f41a01f1704f866d7f43ac0",
   "link": "https://www.newsweek.com/how-police-response-times-compare-school-shootings-since-columbine-1711038",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Impelli",
   "authorUrl": "https://www.newsweek.com/authors/matthew-impelli",
   "termIds": [
-    661
+    661,
+    6174,
+    297,
+    6099,
+    6103,
+    6134,
+    2626,
+    6244
   ],
   "sentences": [
     "Following the timeline laid out by McCraw, Newsweek looked into the time it took police to respond to other school shootings, including Columbine, the 2012 Sandy Hook shooting in Connecticut and the 2018 Marjory Stoneman Douglas High School shooting in Parkland, Florida.",

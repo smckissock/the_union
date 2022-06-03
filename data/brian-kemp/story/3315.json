@@ -5,14 +5,24 @@
   "headline": "How Overturning Roe Could Backfire for Republicans",
   "image": "https://static01.nyt.com/images/2022/05/12/us/12roe-backfire05/merlin_206549985_3b8b1815-93f4-4679-9e90-dcc3a166bd0a-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/13/us/roe-overturned-women-republican-voters.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    773,
+    1073,
+    1689,
+    2058,
+    2087,
+    2095,
+    428,
+    482,
+    2555,
+    2586,
+    2945
   ],
   "sentences": [
     "We've never been in a situation like this,? Ms. Matthews said, adding, We are in a situation where abortion rights are now being threatened in a way they haven't been in nearly 50 years.?\nVoters, she added, were likely to see six-week abortion bans like Georgia's as well outside the mainstream.?\nNational Republicans have attempted to mute the political impact of Roe by urging their candidates to focus on unpopular elements of the Democratic Party's position on abortion, shifting the focus from the hard-line views of the right and making Democrats defend their opposition to most limits on abortion.",

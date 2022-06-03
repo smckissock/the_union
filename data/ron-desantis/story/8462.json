@@ -5,7 +5,7 @@
   "headline": "Republican primaries offer look into future of Trumpism without Trump",
   "image": "https://s.yimg.com/ny/api/res/1.2/Z9tD_EOcmfIiLPtRC3UlEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/fFx2KHrsisN1RvBeZXluHQ--~B/aD0wO3c9MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/theguardian_763/083413349d0ed636785a9eb22dda0190",
   "link": "https://sg.news.yahoo.com/republican-primaries-offer-look-future-060025154.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "",
   "termIds": [
     661,
-    3102
+    896,
+    1147,
+    1434,
+    1710,
+    2087,
+    3102,
+    6179,
+    2672,
+    2834,
+    2862,
+    2945
   ],
   "sentences": [
     "Maga's identity crisis comes as Biden and other Democratic leaders seek to brand their opponents as Ultra-Maga Republicans in the hope that labelling the entire party as extremist will be more effective in the midterms than a singular focus on Trump (though he and his supporters have embraced Ultra-Maga and fundraising emails).",

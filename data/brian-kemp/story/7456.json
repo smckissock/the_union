@@ -5,14 +5,24 @@
   "headline": "Trump threw Georgia GOP into turmoil  and things could get bumpier after the primary: report",
   "image": "https://www.rawstory.com/media-library/donald-trump-points-and-shouts-at-what-he-calls-the-dishonest-media-during-a-speech-shutterstock-com.jpg?id=29693112&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/georgia-republican-primary/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Travis Gettys",
   "authorUrl": "https://www.rawstory.com/u/travis_gettys",
   "termIds": [
-    2095
+    815,
+    1147,
+    1312,
+    2095,
+    2247,
+    4325,
+    5759,
+    227,
+    428,
+    571,
+    584
   ],
   "sentences": [
     "I dont think that these Trump-endorsed candidates are going to show up at a unity rally, if they lose,\" said one person working with several GOP candidates, \"and I dont think [Attorney General] Chris Carr and Brad Raffensperger are going to show up at something like that, if they were to lose.\"",

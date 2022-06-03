@@ -5,14 +5,19 @@
   "headline": "WATCH: Dr. Oz responds to Bidens request that he resign from fitness council",
   "image": "https://cdn.brid.tv/live/partners/19383/snapshot/978609_sd_1648059563.jpg",
   "link": "https://www.washingtonexaminer.com/news/watch-dr-oz-responds-to-bidens-request-that-he-resign-from-fitness-council",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Heather Hamilton",
   "authorUrl": "https://www.washingtonexaminer.com/author/heather-hamilton",
   "termIds": [
-    815
+    815,
+    1304,
+    1653,
+    2087,
+    428,
+    571
   ],
   "sentences": [
     "Famous TV doctor-turned-Republican Senate candidate Dr. Mehmet Oz responded to President Joe Biden's request that he resign from the Presidents Council on Sports, Fitness, and Nutrition Wednesday, adding that the president should instead seek another doctors resignation.",

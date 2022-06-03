@@ -5,14 +5,18 @@
   "headline": "What you need to know about the future of abortion in Florida",
   "image": "https://www.tampabay.com/resizer//ZfuhwToffMkxsNzEsr_em54mvaE=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/QTQVUU6MPFENFBD2VQS4BGTZMU.jpg",
   "link": "https://www.tampabay.com/news/health/2022/05/04/what-you-need-to-know-about-the-future-of-abortion-in-florida/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ian Hodgson",
   "authorUrl": "https://www.tampabay.com/author/ian-hodgson",
   "termIds": [
-    661
+    661,
+    243,
+    482,
+    2661,
+    2945
   ],
   "sentences": [
     "However, state law allows third-trimester abortions in cases in which the pregnant persons life could be at risk, or in which the pregnant person risks irreversible physical impairment of a major bodily function.?\nWhat will change under the new 15-week abortion ban passed by Florida lawmakers?",

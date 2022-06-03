@@ -1,17 +1,8 @@
 [
   {
-    "id": 2,
-    "mediaId": 163,
-    "date": "2022-00-01",
-    "sentence": "* Versus U.S. Representative <span class='selected-term'>Jaime Herrera Beutler</span>\n* Aug 2 Republican primary for Washington's 3rd congressional district\nFormer special forces officer Joe Kent has campaigned with far right U.S. representative Matt Gaetz of Florida and told Oregon Public Broadcasting he held a social media strategy call with white nationalist Nicholas Fuentes, though he said he disagreed with Fuentes' \"ethno-nationalism.\"",
-    "author": "Reuters",
-    "title": "Factbox: Trump's endorsement power faces test in key elections",
-    "sentiment": "0.0"
-  },
-  {
     "id": 64,
     "mediaId": 124,
-    "date": "2022-00-02",
+    "date": "2/2/2022 12:00:00 AM",
     "sentence": "And in Washington state, Rep. <span class='selected-term'>Jaime Herrera Beutler</span> out-raised her Trump-backed opponent, Joe Kent, bringing in about $422,000 compared to his roughly $297,000 during that same period.",
     "author": "",
     "title": "Republicans who impeached Trump outpace challengers in latest fundraising haul",
@@ -20,7 +11,7 @@
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "2022-00-02",
+    "date": "2/2/2022 12:00:00 AM",
     "sentence": "Republican women's group Maggie's List has thrown its support behind Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.) as part of its latest round of endorsements first obtained by The Hill on Wednesday.",
     "author": "Julia Manchester",
     "title": "GOP women's group endorses Herrera Beutler in primary race",
@@ -29,10 +20,19 @@
   {
     "id": 56,
     "mediaId": 151,
-    "date": "2022-00-20",
+    "date": "2/20/2022 12:00:00 AM",
     "sentence": "Against Rep. <span class='selected-term'>Jaime Herrera Beutler</span>, he's backed Army veteran Joe Kent.",
     "author": "",
     "title": "Defiant GOP impeachment voters gear up for Trump-backed primaries",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 2,
+    "mediaId": 163,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "* Versus U.S. Representative <span class='selected-term'>Jaime Herrera Beutler</span>\n* Aug 2 Republican primary for Washington's 3rd congressional district\nFormer special forces officer Joe Kent has campaigned with far right U.S. representative Matt Gaetz of Florida and told Oregon Public Broadcasting he held a social media strategy call with white nationalist Nicholas Fuentes, though he said he disagreed with Fuentes' \"ethno-nationalism.\"",
+    "author": "Reuters",
+    "title": "Factbox: Trump's endorsement power faces test in key elections",
+    "sentiment": "0"
   }
 ]

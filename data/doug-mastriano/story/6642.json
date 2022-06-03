@@ -5,7 +5,7 @@
   "headline": "Five Key Takeaways From Primary Election Results",
   "image": "",
   "link": "https://www.newsweek.com/five-key-takeaways-primary-election-results-2022-1707724",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,18 @@
   "authorUrl": "https://www.newsweek.com/authors/darragh-roche",
   "termIds": [
     821,
+    999,
+    1078,
+    1147,
+    1990,
+    2087,
     2303,
-    3102
+    3102,
+    545,
+    562,
+    571,
+    2834,
+    2862
   ],
   "sentences": [
     "Trump's Support Not Enough to Save Cawthorn\nRepublican Representative Madison Cawthorn conceded defeat in the GOP primary for North Carolina's 11th congressional district after losing to state Senator Chuck Edwards in what may be the biggest upset of the primary season so far.",

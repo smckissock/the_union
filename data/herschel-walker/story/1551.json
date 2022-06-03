@@ -5,14 +5,22 @@
   "headline": "Trump-backed Herschel Walker reports hauling in nearly $10M since launching GOP Senate bid in Georgia",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b8ac482-93ca-48e6-ac6a-216a93c94a15/8feaae12-1762-4e6c-a1f0-a0c0774c43b1/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/georgia-senate-race-herschel-walker-10-million-fundraising",
-  "sentiment": "0.0",
+  "sentiment": "0.906",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Steinhauser",
   "authorUrl": "https://www.foxnews.com/person/s/paul-steinhauser",
   "termIds": [
-    815
+    815,
+    1136,
+    1147,
+    160,
+    428,
+    571,
+    584,
+    2672,
+    2834
   ],
   "sentences": [
     "SENATE GOP REELECTION ARM TARGETS VULNERABLE SENATE DEMOCRATS FOR GIVING STIMULUS CHECKS TO PRISONERS\nWalker is considered the clear front-runner in the GOP primary, thanks to his high name recognition in the Peach State and the endorsement he received from former President Donald Trump - who for months encouraged Walker to run and who remains very popular and influential among Republican voters in Georgia and across the country.",

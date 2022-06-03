@@ -5,7 +5,7 @@
   "headline": "Democrats look to defy political headwinds in Georgia",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/warnockraphael_abramsstacey_052022_GN_getty_uphill_georgia.jpeg?strip=1&w=640",
   "link": "https://thehill.com/news/campaign/3496102-democrats-look-to-defy-political-headwinds-in-georgia/",
-  "sentiment": "0.0",
+  "sentiment": "-0.724",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
     815,
-    2095
+    1136,
+    1147,
+    1951,
+    2087,
+    2095,
+    146,
+    571,
+    2672
   ],
   "sentences": [
     "On Friday, the Georgia Democratic Party unveiled a new ad accusing Kemp of lifting COVID-19 related restrictions too quickly and making it easier for criminals to carry handguns  just to pander to the far right.?\nDemocrats also argue that, if Kemp wins the nomination, he could struggle to galvanize the support of Trump loyalists, potentially jeopardizing his chances of winning a second term in November.",

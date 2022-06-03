@@ -5,14 +5,15 @@
   "headline": "Two anti-Everglades bills deserve DeSantis vetoes | Editorial",
   "image": "https://www.orlandosentinel.com/resizer/gDc6vynimwTnQwHYcOyz0lAZCFI=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZJMYPYYZ7NCBLOFCUKTXC2ZGVA.jpg",
   "link": "https://www.orlandosentinel.com/opinion/editorials/os-op-edit-water-bills-desantis-veto-fl-20220506-ckct3nqcufgrpevfpyovmgo4ti-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Orlando Sentinel",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    5127
   ],
   "sentences": [
     "With good reason, we called it the worst environmental bill in state history.?\nThe bill would essentially have forced the South Florida Water Management District, the lead state agency on Everglades restoration, to make Lake Okeechobee a private reservoir for farmers in the Everglades Agricultural Area.",

@@ -5,14 +5,22 @@
   "headline": "Here are the Trump-backed candidates who won the Nebraska and West Virginia primaries",
   "image": "https://www.politico.com/dims4/default/97692eb/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb5%2F3f%2Fcaa83d034ae993d7556518793cc2%2Fap22122820468477.jpg",
   "link": "https://www.politico.com/news/2022/05/10/trump-endorsed-candidates-that-won-nebraska-west-virginia-primaries-00031530",
-  "sentiment": "0",
+  "sentiment": "0.24",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3103
+    733,
+    1147,
+    1801,
+    2510,
+    3103,
+    2710,
+    2816,
+    2845,
+    2969
   ],
   "sentences": [
     "| Kenneth Ferriera/Lincoln Journal Star via AP, File\nBy Marissa Martinez\n 05/10/2022 11:48 PM EDT\nAll 22 of Donald Trumps endorsed candidates in Indiana and Ohio came away with the Republican nomination last week.",

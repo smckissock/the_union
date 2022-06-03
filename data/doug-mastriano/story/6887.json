@@ -5,14 +5,22 @@
   "headline": "Leading GOP candidate for Pennsylvania governor opposes health exceptions for abortion",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/05/doug-mastriano-0509221.jpg",
   "link": "https://www.salon.com/2022/05/09/leading-candidate-for-pennsylvania-governor-opposes-health-exceptions-for-abortion/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jon Skolnik",
   "authorUrl": "https://www.salon.com/writer/jon-skolnik",
   "termIds": [
-    3102
+    1282,
+    1625,
+    1997,
+    3012,
+    3102,
+    385,
+    428,
+    2551,
+    2862
   ],
   "sentences": [
     "In a questionnaire made by the Pro-Life Coalition of Pennsylvania, candidates Bill McSwain, Lou Barletta reportedly indicated that they support a total ban on abortion, except in the case of rape, incest, and medical emergencies, according to Oregon Public Broadcasting.",

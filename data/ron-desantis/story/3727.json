@@ -5,14 +5,17 @@
   "headline": "Disputes over school anti-racism policies, 'critical race theory' move to courts",
   "image": "https://cdnph.upi.com/svc/sv/upi_com/2681652273901/2022/1/1ed9bd1948899e8280fccc52de32e9ec/Disputes-over-school-anti-racism-policies-critical-race-theory-move-to-courts.jpg",
   "link": "https://www.upi.com/Top_News/US/2022/05/11/schools-critical-race-theory-anti-racism-courts/2681652273901/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "UPI",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Pamela Manson",
   "authorUrl": "https://www.upi.com/author/Pamela-Manson/",
   "termIds": [
-    661
+    661,
+    4686,
+    3111,
+    3113
   ],
   "sentences": [
     "In Virginia, a judge has thrown out a lawsuit in which parents sought to block schools from teaching lessons they viewed as efforts to indoctrinate students in critical race theory, but the legal battle continues\nFive families sued the Albemarle County Public Schools alleging its anti-racism policy and middle school curriculum treat students differently based on their race and religion -- a violation of their constitutional rights.",

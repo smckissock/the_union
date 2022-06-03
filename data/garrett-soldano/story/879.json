@@ -5,14 +5,24 @@
   "headline": "Ohio Republican sees pregnancy after rape as an opportunity'",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-04/220428-MB-Jean-Schmidt-jg-copy-3a6051.jpg",
   "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/ohio-republican-sees-pregnancy-rape-opportunity-rcna26483",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "MSNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Steve Benen",
   "authorUrl": "https://www.msnbc.com/author/steve-benen-ncpn433601",
   "termIds": [
-    2298
+    885,
+    906,
+    1414,
+    2298,
+    2342,
+    146,
+    428,
+    504,
+    517,
+    545,
+    2845
   ],
   "sentences": [
     "Just because you have emotional scars doesn't give you the right to take the life.?\nAs longtime readers may recall, it was 10 years ago  right around the time Schmidt lost her primary  when Republican Todd Akin famously declared, If it's a legitimate rape, the female body has ways to try to shut that whole thing down.? The Missourian was, of course, in a competitive U.S. Senate race at the time.",

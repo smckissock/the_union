@@ -5,14 +5,21 @@
   "headline": "The Supreme Court abortion leak has already transformed politics all over America",
   "image": "https://www.i.cdn.cnn.com/.a/2.294.0/assets/video_pinned_white_bg.jpg",
   "link": "https://www.cnn.com/2022/05/10/politics/supreme-court-abortion-politics-mcconnell/index.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Stephen Collinson",
   "authorUrl": "https://www.cnn.com/profiles/stephen-collinson",
   "termIds": [
-    3102
+    1341,
+    1713,
+    1765,
+    2145,
+    3102,
+    146,
+    571,
+    2945
   ],
   "sentences": [
     "Asked on Monday if he would put an abortion ban on the Senate floor under a possible GOP majority next Congress, McConnell didn't directly answer, instead pointing to his floor remarks where he said he would \"never support smashing the legislative filibuster on this issue or any other.\"",

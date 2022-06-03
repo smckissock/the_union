@@ -5,14 +5,22 @@
   "headline": "Off the charts': Virus hot spots grow in middle America",
   "image": "https://www.bostonherald.com/wp-content/uploads/2020/03/APTOPIX_Virus_Outbreak_Romania_63942-1-1.jpg?w=1569",
   "link": "https://www.bostonherald.com/2020/03/28/u-s-hotspots-grow-as-virus-cases-surpass-620000-globally/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Boston Herald",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Associated Press",
   "authorUrl": "https://www.bostonherald.com/author/associated-press/",
   "termIds": [
-    661
+    661,
+    2192,
+    6192,
+    275,
+    2645,
+    2766,
+    2825,
+    6234,
+    6237
   ],
   "sentences": [
     "As President Donald Trump made his way to Norfolk, Virginia, to see off a U.S. Navy medical ship sent to New York City to help, he suggested imposing some kind of quarantine for New York and parts of New Jersey and Connecticut, all hit hard by the coronavirus.",

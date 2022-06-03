@@ -1,35 +1,8 @@
 [
   {
-    "id": 5700,
-    "mediaId": 233,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "",
-    "title": "Karine Jean-Pierre to become first Black White House press secretary",
-    "sentiment": "0"
-  },
-  {
-    "id": 5654,
-    "mediaId": 32,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Thomas Franck",
-    "title": "Pass the damn bill: Biden demands chips legislation to counter China tech rise",
-    "sentiment": "0"
-  },
-  {
-    "id": 5656,
-    "mediaId": 112,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Victor Reklaitis",
-    "title": "Tim Ryan, Democrats Senate nominee in Ohio, skips Bidens events in the Cincinnati area",
-    "sentiment": "0"
-  },
-  {
     "id": 6436,
     "mediaId": 19,
-    "date": "2022-00-09",
+    "date": "4/9/2022 12:00:00 AM",
     "sentence": "",
     "author": "James P. Pinkerton",
     "title": "Pinkerton: David vs. Goliath  Five Takeaways from the Amazon Workers Victory Over Union-Busting Billionaire Bezos",
@@ -38,7 +11,7 @@
   {
     "id": 6293,
     "mediaId": 151,
-    "date": "2022-00-19",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: White House wonders: To mask, or not to mask?",
@@ -47,10 +20,37 @@
   {
     "id": 6094,
     "mediaId": 43,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Good News Roundup for Friday, April 29, 2022: Hope vs. Hopelessness",
+    "sentiment": "0"
+  },
+  {
+    "id": 5700,
+    "mediaId": 233,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Karine Jean-Pierre to become first Black White House press secretary",
+    "sentiment": "0"
+  },
+  {
+    "id": 5654,
+    "mediaId": 32,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Thomas Franck",
+    "title": "Pass the damn bill: Biden demands chips legislation to counter China tech rise",
+    "sentiment": "0"
+  },
+  {
+    "id": 5656,
+    "mediaId": 112,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Victor Reklaitis",
+    "title": "Tim Ryan, Democrats Senate nominee in Ohio, skips Bidens events in the Cincinnati area",
     "sentiment": "0"
   }
 ]

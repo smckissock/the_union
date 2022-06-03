@@ -5,14 +5,23 @@
   "headline": "McConnell told Republican senators they've 'got to stay focused on Georgia' immediately after Trump told them that he could overturn the 2020 presidential election: book",
   "image": "https://i.insider.com/625707879c862b00181aa6ba?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/mcconnell-republicans-stay-focused-on-georgia-trump-overturn-2020-election-2022-4",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bryan Metzger",
   "authorUrl": "https://www.businessinsider.com/author/bryan-metzger",
   "termIds": [
-    2095
+    1131,
+    1147,
+    1311,
+    1668,
+    1765,
+    2087,
+    2095,
+    4325,
+    428,
+    2672
   ],
   "sentences": [
     "Even as then-Senate Majority Leader Mitch McConnell avoided discussing his concerns about former President Donald Trump's baseless claims about the 2020 presidential election being stolen or fraudulent, he privately worried that Trump would cost their party control of the Senate by derailing two Georgia Republicans' run-off campaigns.",

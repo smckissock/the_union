@@ -5,14 +5,23 @@
   "headline": "Republican Who Said Elon Musk is African-American Faces Georgia Runoff",
   "image": "https://d.newsweek.com/en/full/2044862/vernon-jones-georgia-runoff.webp?w=790&f=0139533136bb14ab5ccaf6278cd88a7b",
   "link": "https://www.newsweek.com/republican-who-said-elon-musk-african-american-faces-georgia-runoff-1709844",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Fung",
   "authorUrl": "https://www.newsweek.com/authors/katherine-fung",
   "termIds": [
-    2095
+    1147,
+    1507,
+    2095,
+    2336,
+    2355,
+    2517,
+    146,
+    428,
+    562,
+    2672
   ],
   "sentences": [
     "That same month, the GOP candidate claimed that Democratic Congresswoman Ilhan Omar hates Christians after she posted a video of a worship leader playing a religious song on the guitar and signing during a flight, with the caption: \"I think my family and I should have a prayer session next time I am on a plane.",

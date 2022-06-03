@@ -1,53 +1,44 @@
 [
   {
-    "id": 4726,
-    "mediaId": 233,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Jordan Mendoza",
-    "title": "Here's what US governors said after bombshell Supreme Court abortion opinion leaked",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4733,
-    "mediaId": 675,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Art Moore",
-    "title": "These 26 states likely would restrict abortion if Roe overturned",
-    "sentiment": "0"
-  },
-  {
     "id": 1462,
     "mediaId": 19,
-    "date": "2022-00-07",
+    "date": "2/7/2022 12:00:00 AM",
     "sentence": "What is even worse is that this is a classroom in <span class='selected-term'>Brian Kemp</span>'s Georgia, not New York or California.",
     "author": "Matthew Boyle",
     "title": "Exclusive David Perdue Slams Stacey Abrams and Brian Kemp in Unmask Our Kids' Ad",
     "sentiment": "-0.504"
   },
   {
+    "id": 5436,
+    "mediaId": 25,
+    "date": "3/29/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Aimee Picchi",
+    "title": "Here's where drivers are seeing the biggest breaks on gas prices",
+    "sentiment": "0"
+  },
+  {
+    "id": 5391,
+    "mediaId": 33,
+    "date": "3/31/2022 12:00:00 AM",
+    "sentence": "En Georgia, el gobernador republicano <span class='selected-term'>Brian Kemp</span>, quien enfrenta una de las carreras de reeleccin ms duras del pas, firm un proyecto de ley que otorgar reembolsos de impuestos de US$ 250 a $ 500 a los georgianos, una medida que varios de sus rivales criticaron como politiquera de ao electoral.",
+    "author": "Kevin Liptak",
+    "title": "Biden considera liberar 1 milln de barriles de petrleo por da de reservas estratgicas",
+    "sentiment": "0"
+  },
+  {
     "id": 5238,
     "mediaId": 558,
-    "date": "2022-00-09",
+    "date": "4/9/2022 12:00:00 AM",
     "sentence": "A former state representative and a successful author, she ran for governor in 2018 and lost narrowly to <span class='selected-term'>Brian Kemp</span>, refusing to concede while protesting his role as secretary of state in controlling his own election.",
     "author": "Martin Pengelly",
     "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4575,
-    "mediaId": 223,
-    "date": "2022-00-10",
-    "sentence": "",
-    "author": "Matt Vespa",
-    "title": "What a Woman Found Walking Her Dog Should Spark More Questions About Election Integrity",
     "sentiment": "0"
   },
   {
     "id": 5105,
     "mediaId": 209,
-    "date": "2022-00-17",
+    "date": "4/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "The Week Staff",
     "title": "Putting more guns on the street",
@@ -56,82 +47,91 @@
   {
     "id": 5086,
     "mediaId": 12,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "J. Scott Trubey",
     "title": "Rivian CEO reportedly warns about supply chain issues",
     "sentiment": "0"
   },
   {
-    "id": 7080,
-    "mediaId": 223,
-    "date": "2022-00-20",
-    "sentence": "It's as if Brent is oblivious to Glenn Younkin winning without Trump and <span class='selected-term'>Brian Kemp</span> excelling in spite of his rift with the man.",
-    "author": "Brad Slager",
-    "title": "The Press Is Actively Changing the Language to Push Its Abortion Agenda",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5033,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "NOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Matthew Chapman",
     "title": "California MAGA candidate claims God will commit voter fraud on her behalf to help her win",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 1984,
     "mediaId": 12,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
     "sentiment": "0.522"
   },
   {
+    "id": 4953,
+    "mediaId": 323,
+    "date": "4/25/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Gerard Baker",
+    "title": "GOP Leaders Remain Shackled to Donald Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 4726,
+    "mediaId": 233,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jordan Mendoza",
+    "title": "Here's what US governors said after bombshell Supreme Court abortion opinion leaked",
+    "sentiment": "0"
+  },
+  {
+    "id": 4733,
+    "mediaId": 675,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Art Moore",
+    "title": "These 26 states likely would restrict abortion if Roe overturned",
+    "sentiment": "0"
+  },
+  {
+    "id": 4575,
+    "mediaId": 223,
+    "date": "5/10/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Matt Vespa",
+    "title": "What a Woman Found Walking Her Dog Should Spark More Questions About Election Integrity",
+    "sentiment": "0"
+  },
+  {
+    "id": 7080,
+    "mediaId": 223,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "It's as if Brent is oblivious to Glenn Younkin winning without Trump and <span class='selected-term'>Brian Kemp</span> excelling in spite of his rift with the man.",
+    "author": "Brad Slager",
+    "title": "The Press Is Actively Changing the Language to Push Its Abortion Agenda",
+    "sentiment": "0"
+  },
+  {
     "id": 7481,
     "mediaId": 147,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "Read the Full Transcript\nWilliam Brangham:\nThis election in Georgia has also revealed a high-profile disagreement between Donald Trump, who we saw endorsing David Perdue for governor, and his former vice president, Mike Pence, who is backing current Governor <span class='selected-term'>Brian Kemp</span>, and is holding a rally for him tonight.",
     "author": "PBS NewsHour",
     "title": "Tamara Keith and Amy Walter on whats at stake in Georgias primary election",
     "sentiment": "0.801"
   },
   {
-    "id": 4953,
-    "mediaId": 323,
-    "date": "2022-00-25",
-    "sentence": "",
-    "author": "Gerard Baker",
-    "title": "GOP Leaders Remain Shackled to Donald Trump",
-    "sentiment": "0.0"
-  },
-  {
     "id": 8515,
     "mediaId": 1576,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "'I'll still teach the same way,' Atlanta teacher says despite new 'divisive concepts' law",
-    "sentiment": "0"
-  },
-  {
-    "id": 5436,
-    "mediaId": 25,
-    "date": "2022-00-29",
-    "sentence": "",
-    "author": "Aimee Picchi",
-    "title": "Here's where drivers are seeing the biggest breaks on gas prices",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5391,
-    "mediaId": 33,
-    "date": "2022-00-31",
-    "sentence": "En Georgia, el gobernador republicano <span class='selected-term'>Brian Kemp</span>, quien enfrenta una de las carreras de reeleccin ms duras del pas, firm un proyecto de ley que otorgar reembolsos de impuestos de US$ 250 a $ 500 a los georgianos, una medida que varios de sus rivales criticaron como politiquera de ao electoral.",
-    "author": "Kevin Liptak",
-    "title": "Biden considera liberar 1 milln de barriles de petrleo por da de reservas estratgicas",
     "sentiment": "0"
   }
 ]

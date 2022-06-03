@@ -5,14 +5,23 @@
   "headline": "Fight for Senate majority looms one year after Dems won Georgia",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8a13f28-800b-4d0a-8e21-d609bbb344e5/d013c04e-fec9-4dea-9e5a-d77a43b9f37e/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/fight-senate-majority-looms-year-dems-won-georgia",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caitlin McFall",
   "authorUrl": "https://www.foxnews.com/person/m/caitlin-mcfall",
   "termIds": [
-    815
+    815,
+    1133,
+    1147,
+    1158,
+    1174,
+    1765,
+    2087,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "SOME DEMOCRATIC OPERATIVES KEEP TARGETING TRUMP EVEN AFTER VIRGINIA ELECTION SETBACKS\n\"Im going to need all the help I can get in order to keep my seat at the table so I can continue to fight for things that matter in our country,\" Sen. Raphael Warnock said in a video posted Wednesday.",

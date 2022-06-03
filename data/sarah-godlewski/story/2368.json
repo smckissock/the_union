@@ -5,7 +5,7 @@
   "headline": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson",
   "image": "https://www.gannett-cdn.com/presto/2022/02/02/PMJS/a5029251-e341-4259-9ae1-d772ad986a7c-godlewski_sarah.jpg?crop=1224,1710,x2171,y610&width=600&height=840&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/2022/03/14/democrat-sarah-godlewski-releases-her-first-tv-ad-u-s-senate-bid/7028344001/",
-  "sentiment": "0.0",
+  "sentiment": "0.234",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,12 @@
     741,
     802,
     1568,
-    2039
+    1925,
+    2039,
+    146,
+    428,
+    600,
+    2855
   ],
   "sentences": [
     "In the 30-second ad, Godlewski mentions her role as state Treasurer while taking a swipe at Republican U.S. Sen. Ron Johnson, who is running for a third term,\n\"Dairy farms disappearing, prices up, COVID still not gone,\" Godlewski says in the ad.",

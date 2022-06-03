@@ -78,7 +78,7 @@ let storyHtml = null;
 let listingHtml = null;
 let candidatesHtml = null;
 
-let updateDate = new Date("2022/5/30"); 
+let updateDate = new Date("2022/6/3"); 
 
 let initialLoad = true;
 

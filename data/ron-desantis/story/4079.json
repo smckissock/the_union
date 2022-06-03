@@ -5,14 +5,23 @@
   "headline": "Yelp and Meta's Sandberg respond to draft opinion that would strike down Roe v. Wade",
   "image": "https://external-sjc3-1.xx.fbcdn.net/safe_image.php?w=476&h=249&url=https%3A%2F%2Fstatic.politico.com%2F4b%2F58%2F77a8d5284444b8f04a334e8ef660%2F20220311-abortion-getty-773.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&ext=emg0&_nc_oe=7008d&_nc_sid=06c271&_nc_o2e=1&ccb=3-6&_nc_hash=AQG6HvOGxfbeIZk7",
   "link": "https://www.nbcnews.com/business/consumer/roe-v-wade-abortion-tech-companies-respond-to-supreme-court-rcna27167",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2058,
+    4319,
+    4864,
+    177,
+    482,
+    3515,
+    3666,
+    2934,
+    2945
   ],
   "sentences": [
     "Yelp said in a statement that overturning Roe would jeopardize the human rights of millions of women who stand to lose the liberty to make decisions over their own bodies.?\nMeta, formerly known as Facebook, did not comment on the leak, but the companys chief operating officer, Sheryl Sandberg, said the opinions publication represented a scary day for women all across our country.?\nSheryl Sandberg\n9 hours ago\nThis is a scary day for women all across our country.",

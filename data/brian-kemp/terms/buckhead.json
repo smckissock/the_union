@@ -2,25 +2,16 @@
   {
     "id": 1620,
     "mediaId": 12,
-    "date": "2022-00-13",
+    "date": "1/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Greg Bluestein",
     "title": "The Jolt: Brian Kemp says no more election law changes this year",
     "sentiment": "0"
   },
   {
-    "id": 3315,
-    "mediaId": 129,
-    "date": "2022-00-13",
-    "sentence": "",
-    "author": "",
-    "title": "How Overturning Roe Could Backfire for Republicans",
-    "sentiment": "0.0"
-  },
-  {
     "id": 1334,
     "mediaId": 19,
-    "date": "2022-00-19",
+    "date": "2/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ashley Oliver",
     "title": "Exclusive  Gov. Brian Kemp Urges Buckhead City Debate: Atlanta Mayor Needs to Feel Pressure' on Crime",
@@ -29,10 +20,19 @@
   {
     "id": 1306,
     "mediaId": 19,
-    "date": "2022-00-26",
+    "date": "2/26/2022 12:00:00 AM",
     "sentence": "In Trump's statement on Saturday, the former president took aim at Kemp for the dormant Buckhead bill, and also singled out Ralston, Duncan, and three specific state senators:\nRINOs like Governor <span class='selected-term'>Brian Kemp</span>, the man responsible, along with his puppet master Mitch McConnell, for the loss of two Senate Seats and 2020 Presidential Vote, Lt.",
     "author": "Ashley Oliver",
     "title": "Trump Backs Georgia's Buckhead Bill, Bashes RINOs like Gov. Brian Kemp': They Don't Deliver'",
     "sentiment": "-0.422"
+  },
+  {
+    "id": 3315,
+    "mediaId": 129,
+    "date": "5/13/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "How Overturning Roe Could Backfire for Republicans",
+    "sentiment": "0"
   }
 ]

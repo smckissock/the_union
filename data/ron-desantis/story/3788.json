@@ -5,14 +5,18 @@
   "headline": "Florida teachers cant say gay, but they are required to teach about the victims of communism.",
   "image": "https://video-images.vice.com/articles/627a7cbbfe92e50094d498c0/lede/1652194745395-gettyimages-1240290409.jpeg?crop=1xw:0.8427xh;0xw,0.054xh&resize=20:*",
   "link": "https://www.vice.com/en/article/4awz8m/florida-victims-of-communism-day",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Vice",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Blest",
   "authorUrl": "https://www.vice.com/en/contributor/paul-blest",
   "termIds": [
-    661
+    661,
+    1398,
+    2661,
+    2788,
+    2945
   ],
   "sentences": [
     "Through HB 395 and the funding announced today, we are guaranteeing that the history of those who fled communist regimes and their experiences are preserved and not forgotten by our students.?\nWhile its fashionable in some circles to whitewash the history of communism, Florida will stand for truth and remain as a beachhead for freedom,? said DeSantis, who signed a bill last year eliminating drivers liability for hitting protesters with their cars, and in 2019 signed a bill restricting the right of former felony offenders to vote less than a year after voters overwhelmingly approved it as a constitutional amendment.",

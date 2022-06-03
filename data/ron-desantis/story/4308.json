@@ -5,14 +5,22 @@
   "headline": "Trevor Noah Bashes Biden, Dems, Media and GOP: Here's Everything He Said",
   "image": "https://d.newsweek.com/en/full/2029022/joe-biden-trevor-noah.webp?w=790&f=c420d54129fd9ae42a0d3fe5e5f4b030",
   "link": "https://www.newsweek.com/trevor-noah-bashes-biden-dems-fox-news-gop-heres-everything-he-said-1702478",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Scott McDonald",
   "authorUrl": "https://www.newsweek.com/authors/scott-mcdonald",
   "termIds": [
-    661
+    661,
+    683,
+    906,
+    2087,
+    2250,
+    2282,
+    2429,
+    4262,
+    428
   ],
   "sentences": [
     "He also ridiculed CNN, Chris Cuomo, MSNBC, Florida Governor Ron DeSantis, Texas Governor Greg Abbott, Republicans in general, newsmaking Democrats in general and, well, pretty much everyone he could within an allotted time frame.",

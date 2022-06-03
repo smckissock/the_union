@@ -5,14 +5,18 @@
   "headline": "Give peace a chance in America's culture wars",
   "image": "https://cdn.newsday.com/ace/c:ZjkzNjRhZjgtYzA1ZS00:YTZlZDQ4/preview/1280",
   "link": "https://www.newsday.com/opinion/commentary/america-culture-wars-sal4dd34",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsday",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lynn Schmidt",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1241,
+    3751,
+    2945,
+    5109
   ],
   "sentences": [
     "In March, Floridas Republican governor, Ron DeSantis, signed the Parental Rights in Education Bill,? which reinforces parents rights to make decisions regarding the upbringing of their children.? The bill prohibits classroom instruction on sexual orientation or gender identity in kindergarten through third grade and prohibits instruction that is not age appropriate for students and requires school districts to adopt procedures for notifying parents if there is a change in services from the school regarding a childs mental, emotional or physical health or well-being.",

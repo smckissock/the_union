@@ -5,14 +5,20 @@
   "headline": "Democrats look to abortion-rights threat to boost midterm election prospects",
   "image": "https://www.reuters.com/resizer/7y0gvOznsml62wCG0HVCrqRxWGs=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A4MZGXHI5BKAXAVCWQCJ5L56WQ.jpg",
   "link": "https://www.reuters.com/world/us/democrats-look-abortion-rights-threat-boost-midterm-election-prospects-2022-05-03/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Reuters",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "James Oliphant",
   "authorUrl": "https://www.reuters.com/authors/james-oliphant/",
   "termIds": [
-    2095
+    773,
+    781,
+    2087,
+    2095,
+    146,
+    331,
+    428
   ],
   "sentences": [
     "Alongside other abortion rights groups Planned Parenthood Action Fund and Emily's List it has announced a $150 million investment in spending on the midterm elections, mostly in swing states and states that will be pivotal to preserving abortion access across the country.",

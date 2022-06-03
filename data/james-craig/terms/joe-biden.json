@@ -1,65 +1,74 @@
 [
   {
-    "id": 32,
-    "mediaId": 261,
-    "date": "2022-00-02",
-    "sentence": "That includes former Detroit Police Chief <span class='selected-term'>James Craig</span>, Oakland County businessman Perry Johnson, Norton Shores businesswoman Tudor Dixon, Ottawa County real estate agent Ryan Kelley, Oakland County pastor Ralph Rebandt, Livingston County evangelist Bob Scott, and Grand Rapids businesswoman Donna Brandenburg.",
-    "author": "Todd Spangler",
-    "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 868,
-    "mediaId": 129,
-    "date": "2022-00-03",
-    "sentence": "",
+    "id": 1011,
+    "mediaId": 43,
+    "date": "1/25/2022 12:00:00 AM",
+    "sentence": "Gretchen Whitmer defeating one of her Republican opponents, former Detroit Police Chief <span class='selected-term'>James Craig</span>, 46-41, which is an improvement from her 45-44 edge in the firm's August survey.",
     "author": "",
-    "title": "Ready for the Midterm Primary Elections? Here's What to Know.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 869,
-    "mediaId": 129,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "",
-    "title": "Ready for the Midterm Primary Elections? Here's What to Know.",
-    "sentiment": "0.0"
+    "title": "they offer a difficult landscape for Democrats",
+    "sentiment": "0"
   },
   {
     "id": 929,
     "mediaId": 19,
-    "date": "2022-00-21",
+    "date": "3/21/2022 12:00:00 AM",
     "sentence": "Gretchen Whitmer (D) is looking to defend herself against many Republican challengers, including frontrunner <span class='selected-term'>James Craig</span>, who was a strong supporter of the trucker convoys.",
     "author": "Wendell HusebÃ¸",
     "title": "Poll: Joe Biden's Approval Rating Is 36 Percent, Impacting Battleground States",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 32,
+    "mediaId": 261,
+    "date": "4/2/2022 12:00:00 AM",
+    "sentence": "That includes former Detroit Police Chief <span class='selected-term'>James Craig</span>, Oakland County businessman Perry Johnson, Norton Shores businesswoman Tudor Dixon, Ottawa County real estate agent Ryan Kelley, Oakland County pastor Ralph Rebandt, Livingston County evangelist Bob Scott, and Grand Rapids businesswoman Donna Brandenburg.",
+    "author": "Todd Spangler",
+    "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know",
+    "sentiment": "0"
   },
   {
     "id": 7,
     "mediaId": 43,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "The few polls that have been released show former Detroit Police Chief <span class='selected-term'>James Craig</span> as Team Red's frontrunner, but he's had to deal with several major campaign shakeups: Craig, most notably, parted ways with his first campaign manager in December, and his second left last month.",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 4/22",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 868,
+    "mediaId": 129,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Ready for the Midterm Primary Elections? Here's What to Know.",
+    "sentiment": "0"
+  },
+  {
+    "id": 869,
+    "mediaId": 129,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Ready for the Midterm Primary Elections? Here's What to Know.",
+    "sentiment": "0"
   },
   {
     "id": 7473,
     "mediaId": 157,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "Brown, as well as financial adviser Michael Markey, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businesswoman Donna Brandenburg and self-described quality guru Perry Johnson, all had signatures that the bureau recommended to be deemed insufficient as many were fraudulent.",
     "author": "",
     "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
     "sentiment": "-0.403"
   },
   {
-    "id": 1011,
-    "mediaId": 43,
-    "date": "2022-00-25",
-    "sentence": "Gretchen Whitmer defeating one of her Republican opponents, former Detroit Police Chief <span class='selected-term'>James Craig</span>, 46-41, which is an improvement from her 45-44 edge in the firm's August survey.",
-    "author": "",
-    "title": "they offer a difficult landscape for Democrats",
-    "sentiment": "0.0"
+    "id": 8657,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "More:<span class='selected-term'>James Craig</span> loses bid to appear on primary ballot after Michigan court denies appeal\nMore:Whitmer 'optimistic' on gun reform, but key Dem says 'full of s---' GOP won't act\nAllegations of voter fraud in Michigan\nPoliticians aligned with former President Donald Trump have consistently raised the specter of voter fraud to explain how Trump could have lost the state to Joe Biden by more than 154,000 votes in the 2020 presidential race after winning it in 2016.",
+    "author": "Lou Jacobson and Clara Hendrickson",
+    "title": "Kevin Rinke ad falsely claims 'dead people always vote Democrat'",
+    "sentiment": "-0.812"
   }
 ]

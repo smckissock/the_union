@@ -5,14 +5,19 @@
   "headline": "Appeals court temporarily reinstates Florida voting law",
   "image": "https://cdnph.upi.com/svc/sv/upi/9771651877761/2022/1/ba44d50f57086464e273e4a2d507e2ce/Appeals-court-temporarily-reinstates-Florida-voting-law.jpg",
   "link": "https://www.upi.com/Top_News/US/2022/05/06/appeals-court-temporarily-reinstates-florida-unconstitutional-voting-law/9771651877761/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "UPI",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Adam Schrader",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    879,
+    553,
+    3288,
+    3601,
+    2661
   ],
   "sentences": [
     "\"And although the district court satisfied itself that its injunction -- including the requirement that the state preclear new voting rules -- was not too draconian, we are reminded that 'even seemingly innocuous late-in the-day judicial alterations to state election laws can interfere with the administration of an election and cause unanticipated consequences,\" the panel wrote, citing Kavanaugh.",

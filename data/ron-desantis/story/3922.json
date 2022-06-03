@@ -5,14 +5,16 @@
   "headline": "Will Cain on 'Fox & Friends': DeSantis has 'changed the equation' for woke corporations",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc80cdb1-96fb-4e05-810a-1b88b3caa7f4/872355b9-c12d-4253-80dc-f81ae2751889/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/florida-desantis-disney-woke-corporations-will-cain",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Fox News Staff",
   "authorUrl": "https://www.foxnews.com/person/s/fox-news-staff",
   "termIds": [
-    661
+    661,
+    4410,
+    2661
   ],
   "sentences": [
     "And if they want to get involved in the politics of those particular states, I don't think they should plan on filming movies in Texas or in Georgia and getting favorable tax breaks.",

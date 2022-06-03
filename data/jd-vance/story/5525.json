@@ -5,14 +5,24 @@
   "headline": "The Little Red Boxes Making a Mockery of Campaign Finance Laws",
   "image": "https://static01.nyt.com/images/2022/05/11/lens/00pol-redbox-schrader-negative/00pol-redbox-schrader-negative-superJumbo.jpg?quality=75&auto=webp",
   "link": "https://www.nytimes.com/2022/05/16/us/politics/red-boxes-campaign-finance-democrats.html",
-  "sentiment": "0",
+  "sentiment": "0.633",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3103
+    999,
+    1459,
+    1801,
+    1809,
+    2232,
+    3103,
+    562,
+    2650,
+    2721,
+    2834,
+    2850
   ],
   "sentences": [
     "His opponent, Ms. McLeod-Skinner, said in a statement, How can our party credibly argue that we will get big money out of politics in November with candidates like Schrader on the ballot??\nShe has her own red box, seeking television ads in Portland about Mr. Schraders contributions and votes, along with mailers targeting women especially? in Multnomah, Clackamas and Deschutes counties.?\nBut so far, the pro-Schrader side has vastly outspent Ms. McLeod-Skinners allies: nearly $2.1 million to around $275,000, as of Friday.",

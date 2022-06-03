@@ -5,14 +5,20 @@
   "headline": "U.S. appeals court reinstates Florida voting limits that judge had deemed discriminatory",
   "image": "https://www.reuters.com/resizer/GIGNaQIjzulRH9ALCVSOuDupirA=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NVHKWRUL7ZOMXDAFAGPXDE4HJE.jpg",
   "link": "https://www.reuters.com/legal/government/us-appeals-court-reinstates-florida-voting-limits-that-judge-had-deemed-2022-05-06/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Reuters",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joseph Ax",
   "authorUrl": "https://www.reuters.com/authors/joseph-ax/",
   "termIds": [
-    661
+    661,
+    879,
+    428,
+    3601,
+    2661,
+    2926,
+    2945
   ],
   "sentences": [
     "NEW YORK, May 6 (Reuters) - A federal appeals court on Friday reinstated Florida's new Republican-backed voting restrictions, overruling a judge's decision that several provisions such as limits on ballot drop boxes were racially discriminatory.",

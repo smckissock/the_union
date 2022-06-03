@@ -5,14 +5,21 @@
   "headline": "Nazi Flags Waved Outside Disney World Entrance On Busy Holiday Weekend",
   "image": "https://d.newsweek.com/en/full/2033743/disney-world-nazi-flags.webp?w=790&f=396dcec4af3a76f4a40a2a9a76396923",
   "link": "https://www.newsweek.com/nazi-flags-waved-outside-disney-world-entrance-busy-holiday-weekend-1704813",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Thomas Kika",
   "authorUrl": "https://www.newsweek.com/authors/thomas-kika",
   "termIds": [
-    661
+    661,
+    1572,
+    524,
+    611,
+    3228,
+    3571,
+    2661,
+    2851
   ],
   "sentences": [
     "DeSantis' attempt to target Disney's special governance zone, the Reedy Creek Improvement District, has drawn major criticism from both citizens and Florida lawmakers, who claim the act would leave taxpayers on the hook for paying the company's outstanding debts.",

@@ -1,8 +1,26 @@
 [
   {
+    "id": 7885,
+    "mediaId": 151,
+    "date": "3/27/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
+    "sentiment": "0"
+  },
+  {
+    "id": 4841,
+    "mediaId": 33,
+    "date": "4/29/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jamie Gangel",
+    "title": "CNN Exclusive: New text messages reveal Fox's Hannity advising Trump White House and seeking direction",
+    "sentiment": "0"
+  },
+  {
     "id": 4580,
     "mediaId": 223,
-    "date": "2022-00-10",
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "\"Fox News was racist before #coronavirus, they are racist during coronavirus, and Fox News will be racist after the coronavirus\" @JoyAnnReid #AMJoy #MSNBC #SundayMorning pic.twitter.com/0oOQWqkSE8\n Karine Jean-Pierre (@K_JeanPierre) March 15, 2020\nStolen emails, stolen drone, stolen election .....welcome to the world of #unpresidented Trump https://t.co/NI7vqPV6cu\n Karine Jean-Pierre (@K_JeanPierre) December 18, 2016\nReminder: <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.https://t.co/ZIKGTd6U1v\n Karine Jean-Pierre (@K_JeanPierre) April 2, 2020\nAs Guy stated, all this coming from the administration that promised to unite the country.",
     "author": "Leah Barkoukis",
     "title": "Biden's New Press Secretary Had Some Interesting Things to Say About Fox News",
@@ -11,16 +29,16 @@
   {
     "id": 4586,
     "mediaId": 188,
-    "date": "2022-00-10",
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "She also faces questions over other controversial statements she's made, including a false assertion that the 2018 gubernatorial election in Georgia was \"stolen\" by Republican <span class='selected-term'>Brian Kemp</span>.",
     "author": "Chris Pandolfo",
     "title": "Biden's incoming press secretary Karine Jean-Pierre called Fox News 'racist'",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4563,
     "mediaId": 65,
-    "date": "2022-00-11",
+    "date": "5/11/2022 12:00:00 AM",
     "sentence": "Back on April 2nd, 2020, she tweeted \"Reminder <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.\"",
     "author": "Greg Gutfeld",
     "title": "Greg Gutfeld: Karine Jean-Pierre's tweets matter",
@@ -29,7 +47,7 @@
   {
     "id": 4467,
     "mediaId": 195,
-    "date": "2022-00-18",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Monique Beals",
     "title": "Kemp holding large lead over Perdue in Georgia governor race: Fox News poll",
@@ -38,7 +56,7 @@
   {
     "id": 4470,
     "mediaId": 65,
-    "date": "2022-00-18",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Fox News Poll: Georgias GOP primary race for governor sees Kemp holding wide lead over Perdue",
@@ -47,7 +65,7 @@
   {
     "id": 7085,
     "mediaId": 136,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "A new poll shows Georgia Governor <span class='selected-term'>Brian Kemp</span> enjoys a huge lead over his Republican challenger, former Senator David Perdue, ahead of the primary that's due to take place on May 24.",
     "author": "Darragh Roche",
     "title": "Pence-Backed Kemp Pulls Away From Trump-Endorsed Perdue: GA Primary Poll",
@@ -56,28 +74,10 @@
   {
     "id": 7098,
     "mediaId": 157,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "\"We're a few days from some big primaries including in Georgia, where the former President Donald Trump has worked hard, really hard, to defeat incumbent Republican Governor <span class='selected-term'>Brian Kemp</span>,\" said anchor John Berman.",
     "author": "Matthew Chapman",
     "title": "Trump is about to 'get embarrassed' in Georgia GOP primary: CNN election analyst",
     "sentiment": "-0.168"
-  },
-  {
-    "id": 7885,
-    "mediaId": 151,
-    "date": "2022-00-27",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4841,
-    "mediaId": 33,
-    "date": "2022-00-29",
-    "sentence": "",
-    "author": "Jamie Gangel",
-    "title": "CNN Exclusive: New text messages reveal Fox's Hannity advising Trump White House and seeking direction",
-    "sentiment": "0.0"
   }
 ]

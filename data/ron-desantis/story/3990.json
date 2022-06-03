@@ -5,14 +5,17 @@
   "headline": "Florida jobless claims remain low amid DeSantis warnings",
   "image": "https://www.orlandosentinel.com/resizer/hVEeh0eNfhgvudDBWLLR3LAbTBo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/B3IKKPPOCK6M27NAMJVRRZESXQ.jpg",
   "link": "https://www.orlandosentinel.com/politics/os-ne-florida-jobless-claims-050522-20220505-noqelqgvorf6vm7j33qfdgznii-story.html?outputType=amp",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Orlando Sentinel",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jim Turner",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2661,
+    2926,
+    4987
   ],
   "sentences": [
     "But when you have the inflation headwinds, when you have the Fed raising interest rates, when you have some of the other things that are happening in the markets, there is a possibility of seeing a downturn,? DeSantis said Tuesday during an appearance in Fort Myers Beach.",

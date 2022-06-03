@@ -5,14 +5,18 @@
   "headline": "At a Campaign Rally, Trump Mocked a Congressman's Name",
   "image": "https://www.motherjones.com/wp-content/uploads/2022/04/Trump-04032022.jpg",
   "link": "https://www.motherjones.com/mojo-wire/2022/04/at-a-campaign-rally-trump-mocked-a-congressmans-name/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Mother Jones",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Stephanie Mencimer",
   "authorUrl": "https://www.motherjones.com/author/stephanie-mencimer/",
   "termIds": [
-    1901
+    1147,
+    1901,
+    428,
+    562,
+    2645
   ],
   "sentences": [
     "Meijer is also a household name in Michigan that adorns a beloved local chain of supermarkets that have, among other things, given away millions of dollars worth of free prescription drugs to treat diabetes and heart disease, as well as antibiotics and prenatal vitamins, the sort of meaningful philanthropy the Trump family has never even contemplated.",

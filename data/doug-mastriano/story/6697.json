@@ -5,7 +5,7 @@
   "headline": "Takeaways from Tuesday's primaries",
   "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/05/17/58cc0071-2c75-4de6-b154-bc2e8c349fb3/thumbnail/140x90/87192e32bbb02ccbc5033c9f9ede79df/ap22136758155495.jpg",
   "link": "https://www.cbsnews.com/news/gakeaways-primaries-2022-05-17-trump-pennsylvania-election-results/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "cbs news",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,16 @@
   "authorUrl": "",
   "termIds": [
     821,
+    1106,
+    1147,
     2303,
-    3102
+    2341,
+    2491,
+    3102,
+    571,
+    2706,
+    2834,
+    2862
   ],
   "sentences": [
     "2022 Midterm Elections\n More\n Takeaways from Tuesday's primaries\n Pennsylvania, North Carolina, Kentucky, Idaho and Oregon primary results\n Madison Cawthorn, Trump-backed incumbent congressman, loses primary\n Kathy Barnette's campaign believes photos of her on Jan. 6 are genuine\n A congresswoman thought she was filming an ad.",

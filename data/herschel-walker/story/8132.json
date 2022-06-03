@@ -5,14 +5,19 @@
   "headline": "Sen. Raphael Warnock proposes slashing gas, drug, and shipping costs to beat inflation ahead of a midterm challenge from MAGA",
   "image": "https://i.insider.com/620e7797462ff20019c57e33?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/raphael-warnock-midterms-inflation-gas-tax-prescription-drugs-2022-2",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Warren Rojas",
   "authorUrl": "https://www.businessinsider.com/author/warren-rojas",
   "termIds": [
-    815
+    815,
+    141,
+    146,
+    600,
+    2672,
+    2959
   ],
   "sentences": [
     "The freshman lawmaker, who is on the ballot in Georgia this fall in a closely-contested presidential swing state, proposed pouncing on the rising prices Americans are faced with when filling up their vehicles, picking up groceries, or adding basic necessities to online orders.",

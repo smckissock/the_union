@@ -2,10 +2,19 @@
   {
     "id": 2321,
     "mediaId": 195,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> trailed at 5 percent, and Godlewski came in at 3 percent support.",
     "author": "Julia Manchester",
     "title": "Johnson raises $7.1 million in first quarter",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8648,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Outagamie County Executive <span class='selected-term'>Tom Nelson</span> said Johnson is bearing false witness when he refuses to name the cause of these mass tragedies.",
+    "author": "Julia Manchester",
+    "title": "Emboldened Democrats eye Ron Johnson amid new controversies",
+    "sentiment": "0"
   }
 ]

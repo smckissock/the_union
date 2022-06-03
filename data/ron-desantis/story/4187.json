@@ -5,14 +5,22 @@
   "headline": "Factbox-Restrictions vs protections: How U.S. states are taking sides on abortion",
   "image": "https://s.yimg.com/uu/api/res/1.2/7jdqgGyLxr0VqK0_FjkNhA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/23d5fc52bbf54edb6dfdd3a4775b617c",
   "link": "https://news.yahoo.com/factbox-restrictions-vs-protections-u-035941570.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Gabriella Borter",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1284,
+    1903,
+    2048,
+    2064,
+    428,
+    482,
+    2706,
+    2945
   ],
   "sentences": [
     "By Gabriella Borter\n(Reuters) - If the U.S. Supreme Court votes to overturn the Roe v. Wade decision that legalized abortion nationwide, conservative states will have more confidence that their new limits on abortion will stand while liberal states will feel more urgency to protect and expand abortion rights.",

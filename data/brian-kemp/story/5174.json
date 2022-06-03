@@ -5,14 +5,19 @@
   "headline": "Top Georgia transportation official leaves for the private sector",
   "image": "https://www.ajc.com/resizer/FalVVY2LhqX5mpaU5gk2F4Zmzbk=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/ARFSL2S22IC2LJUA2SBFLSATKY.jpg",
   "link": "https://www.ajc.com/politics/top-georgia-transportation-official-leaves-for-the-private-sector/P7EWNKIJ6NAUVPO3FPXGTLFSSE/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "David Wickert",
   "authorUrl": "https://www.ajc.com/staff/david-wickert/",
   "termIds": [
-    2095
+    2095,
+    3321,
+    3332,
+    3533,
+    2672,
+    2834
   ],
   "sentences": [
     "Chris Tomlinson is executive director of three Georgia transportation agencies  the State Road and Tollway Authority (SRTA), the Georgia Regional Transportation Authority (GRTA) and the Atlanta-Region Transit Link Authority (the ATL Board).",

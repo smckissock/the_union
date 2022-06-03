@@ -5,14 +5,19 @@
   "headline": "DeSantis-appointed judge says his map is an unconstitutional assault on Black voting power",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/01/ron-desantis-0118221.jpg",
   "link": "https://www.salon.com/2022/05/12/desantis-appointed-says-his-map-is-an-unconstitutional-on-black-voting-power/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Igor Derysh",
   "authorUrl": "https://www.salon.com/writer/igor-derysh",
   "termIds": [
-    661
+    661,
+    1058,
+    1587,
+    4802,
+    428,
+    2661
   ],
   "sentences": [
     "\"No matter how they repeatedly tried to justify themselves, it should come as no surprise to the Governor and this Republican-led legislature that the map is a violation of Florida's Fair Districts amendments and the U.S. constitution,\" state Rep. Kelly Skidmore, the top Democrat on the redistricting subcommittee, told CNN.",

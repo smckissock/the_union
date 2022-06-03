@@ -5,14 +5,22 @@
   "headline": "Opinion Georgias primary turnout shows Bidens falsehoods",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/27/georgia-primary-turnout-exposes-falsehood-in-biden-claims/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Marc A. Thiessen",
   "authorUrl": "https://www.washingtonpost.com/people/marc-a-thiessen/",
   "termIds": [
-    2095
+    1147,
+    1735,
+    1883,
+    2087,
+    2095,
+    6216,
+    428,
+    2555,
+    2672
   ],
   "sentences": [
     "It mandated the use of drop boxes for the first time and expanded the forms of acceptable voter identification to include a utility bill, bank statement, government check or paycheck, or even the last four digits of the voters Social Security number.",

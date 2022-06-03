@@ -5,14 +5,22 @@
   "headline": "Herschel Walker Denies Trump Ever Said Election Was 'Stolen'",
   "image": "https://d.newsweek.com/en/full/2044429/trump-hasnt-claimed-stolen-election-herschel-walker.webp?w=790&f=097f1f49804fe5268e9bb6edc5405508",
   "link": "https://www.newsweek.com/herschel-walker-donald-trump-voter-fraud-claims-1709674",
-  "sentiment": "0.0",
+  "sentiment": "-0.845",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Andrew Stanton",
   "authorUrl": "https://www.newsweek.com/authors/andrew-stanton",
   "termIds": [
-    815
+    815,
+    1147,
+    1951,
+    2087,
+    6018,
+    146,
+    571,
+    2555,
+    2672
   ],
   "sentences": [
     "His election fraud claims resulted in pushes for audits in swing states, which upheld President Joe Biden's victory, as well as the violent riot at the United States Capitol on January 6, 2021, when a large group of Trump supporters attempted to block the certification of the Electoral College votes.",

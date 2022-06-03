@@ -5,7 +5,7 @@
   "headline": "Perdue kicks off his Stop Stacey campaign with a promise of an election fraud police force",
   "image": "https://images.dailykos.com/images/1032932/story_image/GettyImages-1230240126.jpg?1643736630",
   "link": "https://www.dailykos.com/story/2022/2/1/2077964/-Perdue-kicks-off-Black-History-Month-by-trying-to-stop-the-first-Black-woman-from-becoming-governor",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,12 @@
   "authorUrl": "/users/rebekah sager",
   "termIds": [
     815,
-    2095
+    1136,
+    1951,
+    2095,
+    4325,
+    215,
+    2672
   ],
   "sentences": [
     "Gubernatorial candidate David Perdue (R-GA)\nToday kicks off the shortest month of the year, Chinese New Year, and Black History Month, so what better day for a racist Republican Southerner such as Georgia gubernatorial candidate David Perdue to kick off his campaign tour, titled Stop Stacey, aimed at preventing Stacey Abrams from being elected the states first-ever Black woman governor.",

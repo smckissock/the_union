@@ -2,10 +2,19 @@
   {
     "id": 2443,
     "mediaId": 65,
-    "date": "2022-00-05",
+    "date": "1/5/2022 12:00:00 AM",
     "sentence": "Mandela Barnes, state Treasurer Sarah Godlewski, and Outagamie County Executive <span class='selected-term'>Tom Nelson</span> also have highlighted their push to scrap the filibuster.",
     "author": "Paul Steinhauser",
     "title": "Democratic Senate candidates put changing the filibuster front and center",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8652,
+    "mediaId": 195,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Likewise, Outagamie County Executive <span class='selected-term'>Tom Nelson</span>, who is also seeking the Democratic Senate nomination in Wisconsin, has also called for a ban.",
+    "author": "Max Greenwood",
+    "title": "Democratic Senate hopefuls take cautious tack on assault weapons ban",
+    "sentiment": "0"
   }
 ]

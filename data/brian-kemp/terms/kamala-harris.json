@@ -1,29 +1,38 @@
 [
   {
+    "id": 1527,
+    "mediaId": 65,
+    "date": "1/28/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Kyle Morris",
+    "title": "Stacey Abrams trails Brian Kemp, David Perdue for Georgia governor, new poll shows",
+    "sentiment": "-0.228"
+  },
+  {
+    "id": 5226,
+    "mediaId": 558,
+    "date": "4/10/2022 12:00:00 AM",
+    "sentence": "Abrams, a Democrat, is now turning her sights to the 2022 governor's race after losing the same race in 2018 to Republican <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Sam DiSalvo",
+    "title": "How Rich Are Biden, Trump and These Other Potential 2024 Presidential Candidates?",
+    "sentiment": "0"
+  },
+  {
     "id": 4797,
     "mediaId": 157,
-    "date": "2022-00-02",
+    "date": "5/2/2022 12:00:00 AM",
     "sentence": "And if theyre not voting for <span class='selected-term'>Brian Kemp</span>, theyre not going to be able to vote for Herschel Walker.?\nPer Bluestein, Kemp is fighting back, saying in a new statement, \"Governor Kemp is laser-focused on uniting Republicans on May 24th to make sure Stacey Abrams is never our governor or the next president.\"",
     "author": "Matthew Chapman",
     "title": "Trump tells Perdue tele-rally that Republicans will bomb in Georgia if Brian Kemp is re-nominated",
     "sentiment": "-0.883"
   },
   {
-    "id": 5226,
-    "mediaId": 558,
-    "date": "2022-00-10",
-    "sentence": "Abrams, a Democrat, is now turning her sights to the 2022 governor's race after losing the same race in 2018 to Republican <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Sam DiSalvo",
-    "title": "How Rich Are Biden, Trump and These Other Potential 2024 Presidential Candidates?",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 1527,
-    "mediaId": 65,
-    "date": "2022-00-28",
+    "id": 8741,
+    "mediaId": 195,
+    "date": "5/31/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Kyle Morris",
-    "title": "Stacey Abrams trails Brian Kemp, David Perdue for Georgia governor, new poll shows",
-    "sentiment": "-0.228"
+    "author": "Max Greenwood",
+    "title": "Campaign Report  Biden confronts his most serious midterm issue",
+    "sentiment": "0"
   }
 ]

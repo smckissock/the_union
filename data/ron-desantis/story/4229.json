@@ -5,14 +5,18 @@
   "headline": "DeSantiss attack on Disney will likely fail  and thats probably OK with him",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/01/desantisron_trumpdonald_01722ap-chris-o-meara_getty_split_desantis-trump.jpeg?w=980&h=551&crop=1",
   "link": "https://thehill.com/opinion/campaign/3473539-desantiss-attack-on-disney-will-likely-fail-and-thats-probably-ok-with-him/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Stuart Shapiro",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1147,
+    524,
+    611,
+    2661
   ],
   "sentences": [
     "Central to these attacks has been the passage of a bill by the Florida legislature to revoke Disney Worlds designation as a special tax district, which had given Disney effective control of the geographic area around Disney World.",

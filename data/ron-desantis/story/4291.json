@@ -5,14 +5,19 @@
   "headline": "GOP Governor Hutchinson Blasts DeSantis Over Disney Fight in Florida",
   "image": "https://d.newsweek.com/en/full/2029052/asa-hutchinson.webp?w=790&f=0c7db0ed9658394cdf2f4bbfbeb38ec0",
   "link": "https://www.newsweek.com/gop-governor-hutchinson-blasts-desantis-over-disney-fight-florida-1702503",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Natalie Colarossi",
   "authorUrl": "https://www.newsweek.com/authors/natalie-colarossi",
   "termIds": [
-    661
+    661,
+    1231,
+    428,
+    524,
+    2551,
+    2661
   ],
   "sentences": [
     "Last week, the Florida governor revoked a 55-year agreement with Disney that gave it special privileges and tax breaks in the state after the company voiced opposition to HB 1557, which critics have unofficially named the \"Don't Say Gay\" bill.",

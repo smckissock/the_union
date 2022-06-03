@@ -5,14 +5,19 @@
   "headline": "Yelp, other companies take stance on abortion rights with travel benefit",
   "image": "https://www.reuters.com/resizer/LPltZ9AjIPCZnoReSbKlxpRyhjk=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5RMZHR3UVFNPZFDLJMTPWITXTI.jpg",
   "link": "https://www.reuters.com/legal/legalindustry/yelp-other-companies-take-stance-abortion-rights-with-travel-benefit-2022-05-06/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Reuters",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Arriana McLymore",
   "authorUrl": "https://www.reuters.com/authors/arriana-mclymore/",
   "termIds": [
-    661
+    661,
+    4586,
+    3183,
+    3666,
+    2846,
+    2934
   ],
   "sentences": [
     "Florida Governor Ron DeSantis, a rising star in the Republican party, signed a bill in April stripping Disney of self-governing authority at its Orlando-area parks in retaliation for its opposition to a new state law that limits the teaching of LGBTQ issues in schools.",

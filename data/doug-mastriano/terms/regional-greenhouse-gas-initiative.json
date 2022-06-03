@@ -2,10 +2,19 @@
   {
     "id": 6947,
     "mediaId": 43,
-    "date": "2022-00-26",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "One of them is State Sen. <span class='selected-term'>Doug Mastriano</span>, a Trump-loving guy who attended the Jan. 6 insurrection at the Capitol in Washington last year.",
     "author": "",
     "title": "Is Pennsylvania a Dead State Walking?",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8683,
+    "mediaId": 65,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "In response to that move, two Republicans  GOP gubernatorial nominee <span class='selected-term'>Doug Mastriano</span> and state Sen. Scott Hutchinson  introduced a bill to slash energy production regulations and withdraw Pennsylvania from the Regional Greenhouse Gas Initiative (RGGI).",
+    "author": "",
+    "title": "Newt Gingrich blasts Pennsylvania Democrats' entry in 'green' energy initiative",
+    "sentiment": "0"
   }
 ]

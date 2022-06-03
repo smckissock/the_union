@@ -2,46 +2,46 @@
   {
     "id": 73,
     "mediaId": 43,
-    "date": "2022-00-01",
+    "date": "2/1/2022 12:00:00 AM",
     "sentence": "And in Washington state, Rep. Jaime Herrera Beutler out-raised her Trump-backed opponent, <span class='selected-term'>Joe Kent</span>, bringing in about $422,000 compared to his roughly $297,000 during that same period.",
     "author": "",
     "title": "Overnight News Digest February 1, 2022",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2223,
-    "mediaId": 151,
-    "date": "2022-00-01",
-    "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
-    "author": "",
-    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2247,
     "mediaId": 195,
-    "date": "2022-00-02",
+    "date": "2/2/2022 12:00:00 AM",
     "sentence": "Trump has endorsed <span class='selected-term'>Joe Kent</span>, one of Herrera Beutler's Republican primary challengers in Washington's 3rd Congressional District.",
     "author": "Julia Manchester",
     "title": "GOP women's group endorses Herrera Beutler in primary race",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 52,
     "mediaId": 129,
-    "date": "2022-00-24",
+    "date": "2/24/2022 12:00:00 AM",
     "sentence": "There was probably a time when it made sense to have someone like Kevin McCarthy, but we need new leadership in the House,? said <span class='selected-term'>Joe Kent</span>, a square-jawed former Special Forces officer who is trying to unseat Representative Jaime Herrera Beutler in Washington, one of 10 Republicans who voted to impeach Mr. Trump after the Capitol attack.",
     "author": "",
     "title": "Courting G.O.P.'s Mainstream and Extreme, McCarthy Plots Rise to Speaker",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2238,
     "mediaId": 43,
-    "date": "2022-00-25",
+    "date": "2/25/2022 12:00:00 AM",
     "sentence": "These chyrons appeared during Carlson's show, accompanying Carlson's statements prior to and during his colloquy with his guest, <span class='selected-term'>Joe Kent</span>a Donald Trump-endorsed zealot currently attempting to unseat Washington Rep. Jaime Herrera Butler.",
     "author": "",
     "title": "America now has its own 'Fifth Column,' and its name is Fox News",
     "sentiment": "-0.373"
+  },
+  {
+    "id": 2223,
+    "mediaId": 151,
+    "date": "4/1/2022 12:00:00 AM",
+    "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
+    "author": "",
+    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
+    "sentiment": "0"
   }
 ]

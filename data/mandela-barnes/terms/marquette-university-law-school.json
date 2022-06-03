@@ -2,7 +2,7 @@
   {
     "id": 2449,
     "mediaId": 43,
-    "date": "2022-00-01",
+    "date": "1/1/2022 12:00:00 AM",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
     "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
@@ -11,10 +11,19 @@
   {
     "id": 2321,
     "mediaId": 195,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Julia Manchester",
     "title": "Johnson raises $7.1 million in first quarter",
+    "sentiment": "0"
+  },
+  {
+    "id": 8648,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Emboldened Democrats eye Ron Johnson amid new controversies",
     "sentiment": "0"
   }
 ]

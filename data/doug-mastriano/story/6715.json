@@ -5,14 +5,24 @@
   "headline": "Trump-backed Mastriano wins GOP Pennsylvania governor nod",
   "image": "https://cdn.newsday.com/ace/c:N2NkNDA0NTktYTMxNi00:YThkZjA0/landscape/1280",
   "link": "https://www.newsday.com/news/nation/doug-mastriano-pennsylvania-governor-nomination-a4tpi3ha",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsday",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1147,
+    1625,
+    1713,
+    1990,
+    2087,
+    3102,
+    428,
+    2862,
+    5003,
+    5466,
+    5479
   ],
   "sentences": [
     "Shapiros campaign, meanwhile, closed the primary campaign by running a TV ad portraying Mastriano as extreme and saying that if Mastriano wins, its a win for what Donald Trump stands for.?\nMastriano has insisted to supporters that he is not extreme and that his platforms  including eliminating mail-in voting, expanding gun rights, banning abortion and banishing school property taxes  enjoy broad support.",

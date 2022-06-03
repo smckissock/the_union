@@ -5,14 +5,23 @@
   "headline": "Trump endorses Mastriano for Pennsylvania governor",
   "image": "https://www.politico.com/dims4/default/888247c/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F5c%2Fa1%2Ff6666ce04fd9aa043cce4eff6784%2Felection-2022-pennsylvania-governor-74377.jpg",
   "link": "https://www.politico.com/news/2022/05/14/trump-endorses-mastriano-pennsylvania-governor-00032538",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    943,
+    1147,
+    1148,
+    1713,
+    1990,
+    1997,
+    3102,
+    5294,
+    393,
+    2862
   ],
   "sentences": [
     "The prospect of Trumps endorsement of Mastriano, a leading voice in the movement to overturn the 2020 election results and who was present at the Capitol during the Jan. 6 insurrection, had alarmed local and national Republicans concerned about his ability to win a general election.",

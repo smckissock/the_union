@@ -5,14 +5,21 @@
   "headline": "\"The View\" hosts tickled by \"Trump minions\" at Fox News who are split over Dr. Oz Senate endorsement",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/11/joy-behar-theView-11061.jpg",
   "link": "https://www.salon.com/2022/04/14/the-view-dr-oz-senate-fox-news/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joy Saha",
   "authorUrl": "https://www.salon.com/writer/joy-saha",
   "termIds": [
-    815
+    718,
+    815,
+    1147,
+    1148,
+    1653,
+    4337,
+    200,
+    571
   ],
   "sentences": [
     "RELATED: \"The View\" sounds the alarm on Trump: \"Wake up, America, because our national nightmare is not over\"\nSunny Hostin questions Oz's credibility as a reputable physician after Oz fabricated the effectiveness of his Labrada brand weight loss pills.",

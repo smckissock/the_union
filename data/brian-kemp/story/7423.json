@@ -5,7 +5,7 @@
   "headline": "Georgia Governor Kemp Defeats Perdue in GOP Primary, Setting Up Rematch against Stacey Abrams",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/brian-kemp-election-night.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/georgia-governor-kemp-defeats-perdue-in-gop-primary-setting-up-rematch-against-stacey-abrams/",
-  "sentiment": "0.0",
+  "sentiment": "-0.238",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,13 @@
   "authorUrl": "https://www.nationalreview.com/author/brittany-bernstein/",
   "termIds": [
     815,
-    2095
+    1951,
+    2095,
+    4325,
+    146,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "Walker, a former University of Georgia football star, easily won the primary and will face Senator Raphael Warnock in November, despite concern from some that Walker may not be a strong general election candidate because of allegations he has faced in the past of domestic violence and making threats toward women.",

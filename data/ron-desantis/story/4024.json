@@ -5,14 +5,22 @@
   "headline": "Nolte: Rematch Poll Shows Trump Defeating Biden by 14 Points",
   "image": "https://media.breitbart.com/media/2020/10/Donald-Trump-Joe-Biden-combo-talking-getty-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/05/nolte-rematch-poll-shows-trump-defeating-biden-by-14-points/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John Nolte",
   "authorUrl": "https://www.breitbart.com/author/john-nolte/",
   "termIds": [
-    661
+    661,
+    895,
+    1147,
+    1158,
+    2087,
+    146,
+    416,
+    2661,
+    2945
   ],
   "sentences": [
     "Today, the party is not only seen as soft-on-crime, but in favor of open borders, lockdowns, school closings, masking and sexually grooming children, allowing mentally ill men in skirts to share your daughters dressing room, allowing men to compete in womens sports, infanticide, and spending us into the worst inflation in modern history.",

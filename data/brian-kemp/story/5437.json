@@ -5,7 +5,7 @@
   "headline": "Did Donald Trump's visit to Georgia change anything?",
   "image": "https://www.ajc.com/resizer/11RBfLwl9wU2W23VlDEajV1Ccts=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/QRA2APBWQK6XRCGRMHYXM3DIJI.jpg",
   "link": "https://www.ajc.com/politics/politically-georgia-did-donald-trumps-visit-to-georgia-change-anything/PMAQSMFHGNBHFJGO3YTCRT6DXM/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,10 @@
   "authorUrl": "https://www.ajc.com/staff/patricia-murphy/",
   "termIds": [
     815,
-    2095
+    1147,
+    2095,
+    501,
+    2672
   ],
   "sentences": [
     "Our team digs into why Georgia is the biggest test of Trumps influence, how Perdue is taking his complaints about the 2020 election one step further, and why Herschel Walker is taking a different approach.",

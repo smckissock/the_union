@@ -5,14 +5,21 @@
   "headline": "Ron DeSantis' Redistricting Map Apparently Deemed Too Racist Even For a DeSantis-Appointed Judge",
   "image": "https://media.vanityfair.com/photos/627d34c3c869e30568428313/master/w_2240,c_limit/1234724021",
   "link": "https://www.vanityfair.com/news/2022/05/florida-judge-rules-desantis-redistricting-map-unconstitutional",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Vanity Fair",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Eric Lutz",
   "authorUrl": "https://www.vanityfair.com/contributor/eric-lutz",
   "termIds": [
-    661
+    661,
+    1587,
+    3879,
+    146,
+    482,
+    562,
+    3508,
+    2661
   ],
   "sentences": [
     "People should pick their politicians, not the other way around.?\nIf giving the governor redistricting powers was undemocratic in and of itself, his proposed map was even more so: In targeting what he called unconstitutional racial gerrymanders,? he essentially engaged in gerrymandering himself, breaking up a predominantly Black district represented by Congressman Al Lawson and spreading its Democratic-leaning voters through four Republican-leaning districts; Republicans, who currently represent 16 of 27 Florida seats in the United States House of Representatives, would have a 20-8 advantage under the new map, which adds another district due to population growth.",

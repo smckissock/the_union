@@ -5,14 +5,17 @@
   "headline": "Sabatini pushes Constitutional Carry special session",
   "image": "https://www.orlandosentinel.com/resizer/VwwnGz9aFYXYsRItAUVuza_a02M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LB7T46Y5RDJJB7VFDOMUPQVNQ.jpg",
   "link": "https://www.orlandosentinel.com/politics/os-ne-sabatini-constitutional-carry-special-session-20220414-3yi6qhsy3jax7hyi2wbhdaftmy-story.html?outputType=amp",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Orlando Sentinel",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    2219,
+    2672,
+    5015
   ],
   "sentences": [
     "Sabatini, who has frequently clashed with legislative leaders, has proposed constitutional carry bills in recent years, but they have not moved forward.",

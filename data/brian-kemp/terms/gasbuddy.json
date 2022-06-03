@@ -1,20 +1,29 @@
 [
   {
-    "id": 5116,
-    "mediaId": 12,
-    "date": "2022-00-15",
-    "sentence": "",
-    "author": "Michael E. Kanell",
-    "title": "Atlanta gas prices dip below $4 a gallon, but still near historic high",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5436,
     "mediaId": 25,
-    "date": "2022-00-29",
+    "date": "3/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Aimee Picchi",
     "title": "Here's where drivers are seeing the biggest breaks on gas prices",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 5116,
+    "mediaId": 12,
+    "date": "4/15/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Michael E. Kanell",
+    "title": "Atlanta gas prices dip below $4 a gallon, but still near historic high",
+    "sentiment": "0"
+  },
+  {
+    "id": 8763,
+    "mediaId": 25,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Georgia\nOn March 18, Georgia Governor <span class='selected-term'>Brian Kemp</span> signed a bill to temporarily suspend the state's excise tax on motor fuel sales.",
+    "author": "Sarah Ewall-Wice",
+    "title": "New York joins growing number of states attempting to provide relief at the pump",
+    "sentiment": "0"
   }
 ]

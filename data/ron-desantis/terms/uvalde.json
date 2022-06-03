@@ -2,28 +2,73 @@
   {
     "id": 8530,
     "mediaId": 136,
-    "date": "2022-00-28",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "Florida Republican Governor <span class='selected-term'>Ron DeSantis</span> has targeted Disney with legislation in recent months after the company opposed what critics dubbed as the \"Don't Say Gay\" bill.",
     "author": "Xander Landen",
     "title": "Ron Johnson Takes Heat for Linking School Shootings to 'Wokeness'",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8523,
     "mediaId": 129,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Uvalde Live Updates: As Biden Visits Texas, Confronting Anger and Grief",
     "sentiment": "0"
   },
   {
-    "id": 8523,
-    "mediaId": 129,
-    "date": "2022-00-29",
+    "id": 8811,
+    "mediaId": 1546,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "In 2020, conservative Governor <span class='selected-term'>Ron DeSantis</span> appointed him to the Florida Board of Education.",
+    "author": "Matt Haines",
+    "title": "US Teachers Debate Guns in the Classroom",
+    "sentiment": "0"
+  },
+  {
+    "id": 8823,
+    "mediaId": 19,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Hannah Bleau",
+    "title": "Report: DeSantis to Veto $35 Million for Tampa Bay Rays Facility After Teams Anti-Gun Rant",
+    "sentiment": "0"
+  },
+  {
+    "id": 8773,
+    "mediaId": 195,
+    "date": "6/3/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
-    "title": "Uvalde Live Updates: As Biden Visits Texas, Confronting Anger and Grief",
-    "sentiment": "0.0"
+    "title": "DeSantis vetoes funds for Tampa Bay Rays practice facility after team tweets on gun control",
+    "sentiment": "0"
+  },
+  {
+    "id": 8775,
+    "mediaId": 136,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "A ticketed event on Thursday hosted by conservative political commentator Dave Rubin and starring Florida Governor <span class='selected-term'>Ron DeSantis</span> was suddenly interrupted by gun control activists who tried to draw the governor's attention over the issue of gun safety.",
+    "author": "Giulia Carbonaro",
+    "title": "Ron DeSantis Event Disrupted by Florida Gun Control Activists",
+    "sentiment": "-0.95"
+  },
+  {
+    "id": 8775,
+    "mediaId": 136,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "A ticketed event on Thursday hosted by conservative political commentator Dave Rubin and starring Florida Governor <span class='selected-term'>Ron DeSantis</span> was suddenly interrupted by gun control activists who tried to draw the governor's attention over the issue of gun safety.",
+    "author": "Giulia Carbonaro",
+    "title": "Ron DeSantis Event Disrupted by Florida Gun Control Activists",
+    "sentiment": "0"
+  },
+  {
+    "id": 8782,
+    "mediaId": 32,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "More from NBC News:\nFull-throttle: How the Florida Legislature is making <span class='selected-term'>Ron DeSantis</span> into a GOP juggernaut\nFBI blocked planned cyberattack on childrens hospital, director says\nAll of these kids are angels: Family and friends say goodbye to Uvalde victims\nFor so many of you at home, I want to be very clear, this is not about taking away anyones guns.",
+    "author": "Shannon Pettypiece",
+    "title": "Biden calls on Congress to act on gun control, saying hospitals and schools have become killing fields",
+    "sentiment": "0"
   }
 ]

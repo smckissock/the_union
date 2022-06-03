@@ -5,7 +5,7 @@
   "headline": "Georgia's Brian Kemp raises $2.7M for reelection bid",
   "image": "https://www.wabe.org/app/uploads/2022/03/AP21266659872036-336x189.jpg",
   "link": "https://www.wabe.org/georgias-brian-kemp-raises-2-7m-for-reelection-bid/",
-  "sentiment": "0.0",
+  "sentiment": "-0.452",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,15 @@
   "authorUrl": "",
   "termIds": [
     1664,
+    1665,
     1896,
+    1951,
     2095,
-    3082
+    3082,
+    4325,
+    146,
+    428,
+    2672
   ],
   "sentences": [
     "After an earlier ruling that Kemp could not spend money from the committee against Perdue, U.S. District Judge Mark Cohen ruled last week that Kemp's Georgians First Leadership Committee cannot solicit or receive contributions until after the primary election and any possible runoff that makes him the Republican nominee for governor.",

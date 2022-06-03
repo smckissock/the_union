@@ -5,14 +5,20 @@
   "headline": "Biden May Cancel At Least $10,000 Of Student Loan Debt For Some Individuals, Report Says",
   "image": "https://imageio.forbes.com/specials-images/imageserve/626c1a9eeb96465694b393f7/Biden/0x0.jpg?fit=crop&format=jpg&crop=2858,1609,x0,y71,safe",
   "link": "https://www.forbes.com/sites/madelinehalpert/2022/04/29/white-house-reportedly-weighing-canceling-at-least-10000-of-student-loan-debt-for-some-individuals/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Forbes",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Madeline Halpert",
   "authorUrl": "https://www.forbes.com/sites/madelinehalpert/",
   "termIds": [
-    661
+    661,
+    1341,
+    2087,
+    3929,
+    146,
+    3154,
+    2590
   ],
   "sentences": [
     "Why would you make a truck driver, or a waitress, or a construction worker pay off the debt for somebody that did a PhD program in gender studies?? he said, adding such a move would be wrong.? Graduate students borrow about 37% of all federal student loan dollars, according to the Education Data Initiative, a research group that uses data from the Department of Education and other government sources to provide analysis on higher education in the U.S.\n43.4 million.",

@@ -5,14 +5,23 @@
   "headline": "Ex-Trump Aide Slams Former Boss for Endorsements 'Based on Grievance'",
   "image": "https://d.newsweek.com/en/full/2042740/trump-endorsements-based-grievance-former-aide.webp?w=790&f=4c29dd2f9e22cdc0804fdd9ee66b249e",
   "link": "https://www.newsweek.com/ex-trump-aide-slams-former-boss-endorsements-based-grievance-1708930",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Andrew Stanton",
   "authorUrl": "https://www.newsweek.com/authors/andrew-stanton",
   "termIds": [
-    2095
+    1147,
+    1434,
+    2087,
+    2095,
+    2203,
+    2279,
+    4034,
+    4325,
+    106,
+    2672
   ],
   "sentences": [
     "Former President Donald Trump's endorsements, sought after by Republican candidates across the country, who hope to capitalize on his popularity among GOP voters, have become a way for him to continue building influence within the party while also rewarding candidates who have been loyal to him.",

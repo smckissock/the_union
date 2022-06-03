@@ -5,14 +5,21 @@
   "headline": "Democratic U.S. Senate candidate Alex Lasry calls for more cops on the street, tighter gun laws",
   "image": "https://www.gannett-cdn.com/presto/2021/10/26/PMJS/69f52157-6447-4de1-8588-77fa76ec6fc9-MJS_labor30_10_hoffman.jpg_labor30.JPG?crop=1460,2258,x1901,y6&width=600&height=928&format=pjpg&auto=webp",
   "link": "https://www.jsonline.com/story/news/politics/elections/2022/05/19/alex-lasry-public-safety-plan-calls-more-cops-street/9824218002/",
-  "sentiment": "0.0",
+  "sentiment": "-0.332",
   "mediaOutlet": "Milwaukee Journal Sentinel ",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bill Glauber",
   "authorUrl": "https://www.jsonline.com/staff/2646086001/bill-glauber/",
   "termIds": [
-    741
+    741,
+    2322,
+    317,
+    545,
+    571,
+    2771,
+    2793,
+    2794
   ],
   "sentences": [
     "\"What we can do at the federal government is make sure that we're sending resources and federal dollars, our tax dollars back to ensure that our mayors our sheriff's departments, our police departments, our schools have what they need,\" Lasry said.",

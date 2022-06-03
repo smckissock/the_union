@@ -5,7 +5,7 @@
   "headline": "Conservative urges American Christians to reject the new right's authoritarian impulses",
   "image": "https://s.yimg.com/uu/api/res/1.2/S.pI97U7A4orkDR88n2QBg--~B/Zmk9ZmlsbDtweW9mZj0wO3c9MjYwO2g9MTQ0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-05/68eb0bb0-cbe0-11ec-bdfd-ae6599de28a1",
   "link": "https://ca.news.yahoo.com/conservative-urges-american-christians-to-reject-the-new-rights-authoritarian-impulses-190625309.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "",
   "termIds": [
     661,
-    3103
+    683,
+    2191,
+    2524,
+    3103,
+    3711,
+    4804,
+    87,
+    2945
   ],
   "sentences": [
     "French has launched an effort with another Christian leader,, to rally American evangelicals to support liberal democracy at a moment of increasing peril.?\nFrench and Chang, a former pastor who is now a consulting professor at Duke Divinity School and a senior fellow at Fuller Theological Seminary, have begun a and are building efforts to create videos and other online content to educate and persuade Christians that they should care about democracy.",

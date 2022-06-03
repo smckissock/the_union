@@ -5,14 +5,19 @@
   "headline": "Clarence Thomas resumes hearing oral arguments after absence from Supreme Court",
   "image": "https://mediadc.brightspotcdn.com/dims4/default/3d3d121/2147483647/strip/true/crop/2290x1202+0+15/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F1b%2Fd7%2F5836bbc843629435bbabf857405b%2Fclarence-thomas.jpg",
   "link": "https://www.washingtonexaminer.com/news/clarence-thomas-resumes-hearing-oral-arguments-after-absence-from-supreme-court",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Examiner",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kaelan Deese",
   "authorUrl": "",
   "termIds": [
-    815
+    812,
+    815,
+    1865,
+    2347,
+    482,
+    2945
   ],
   "sentences": [
     "Justices will hear several high-profile cases over the next two weeks including the court's first examination of Trump-era immigration policy, a First Amendment case over whether a public school football coach has the right to pray on the field, and a case over a procedural dispute stemming from a police officer's failure to issue a Miranda warning.",

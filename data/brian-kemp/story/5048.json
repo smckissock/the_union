@@ -5,14 +5,23 @@
   "headline": "Gableman deleting records as he conducts partisan 2020 election review in Wisconsin",
   "image": "https://www.rawstory.com/media-library/special-counsel-michael-gableman.jpg?id=29452062&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/2657193699/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    780,
+    1596,
+    1608,
+    2095,
+    4200,
+    4522,
+    624,
+    3595,
+    3622,
+    2972
   ],
   "sentences": [
     "An irrelevant or useless document includes documents that the OSC is not intending to further investigate, and is not intending to rely upon for its recommendations or reports.?\nFor months, American Oversight has been pursuing lawsuits against Gableman and Assembly Speaker Robin Vos (R-Burlington) seeking access to records relating to the investigation.",

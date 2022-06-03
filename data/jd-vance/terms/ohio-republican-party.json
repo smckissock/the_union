@@ -1,152 +1,8 @@
 [
   {
-    "id": 6045,
-    "mediaId": 409,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "John McCormack",
-    "title": "Ohio GOP Senate Poll: Vance 26, Mandel 24, Dolan 21",
-    "sentiment": "0"
-  },
-  {
-    "id": 6046,
-    "mediaId": 65,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Ohio GOP Senate Primary: Timken plans ground game blitz to get undecided voters on her side",
-    "sentiment": "0"
-  },
-  {
-    "id": 6048,
-    "mediaId": 233,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "Rick Rouan",
-    "title": "In Ohio GOP Senate race, candidates play on Trumpiness without Trump",
-    "sentiment": "0"
-  },
-  {
-    "id": 5991,
-    "mediaId": 124,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "",
-    "title": "Vance works to lock up Ohio GOP Senate race as Trump-averse candidate rises",
-    "sentiment": "-0.335"
-  },
-  {
-    "id": 5994,
-    "mediaId": 195,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Olafimihan Oshin",
-    "title": "Mandel confident of win in Ohio GOP Senate primary without Trump endorsement",
-    "sentiment": "0"
-  },
-  {
-    "id": 5995,
-    "mediaId": 237,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Ryan King",
-    "title": "Trump critic Matt Dolan catapults to second in eleventh-hour Ohio GOP Senate poll",
-    "sentiment": "0.483"
-  },
-  {
-    "id": 5997,
-    "mediaId": 169,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Jon Skolnik",
-    "title": "Marjorie Taylor Greene jumps in the middle of heated Ohio GOP primary race",
-    "sentiment": "0.958"
-  },
-  {
-    "id": 6000,
-    "mediaId": 65,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Amy Nelson",
-    "title": "Josh Mandel 'confident' he'll win Ohio GOP Senate primary without Trump's support",
-    "sentiment": "0"
-  },
-  {
-    "id": 6013,
-    "mediaId": 65,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Dolan surges late in Ohio GOP Senate primary, says voters 'leaving some other candidates' to back his campaign",
-    "sentiment": "0"
-  },
-  {
-    "id": 5894,
-    "mediaId": 136,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "J.D. Vance Keeps Last-Minute Polling Lead Over Dolan as Ohio Booths Close",
-    "sentiment": "0"
-  },
-  {
-    "id": 5901,
-    "mediaId": 223,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Spencer Brown",
-    "title": "J.D. Vance Wins Ohio GOP Senate Primary",
-    "sentiment": "0.916"
-  },
-  {
-    "id": 5904,
-    "mediaId": 237,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Kate Scanlon",
-    "title": "Vance wins Ohio GOP Senate nomination after Trump endorsement in heated primary",
-    "sentiment": "-0.693"
-  },
-  {
-    "id": 5907,
-    "mediaId": 65,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Leaked Supreme Court abortion draft reverberates in Ohio GOP Senate race, candidates tout pro-life credentials",
-    "sentiment": "0"
-  },
-  {
-    "id": 5931,
-    "mediaId": 65,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Tyler Olson",
-    "title": "Ohio GOP Senate race: Voters weigh Trump support for Vance against 2016 comments critical of former president",
-    "sentiment": "0.382"
-  },
-  {
-    "id": 5820,
-    "mediaId": 151,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Trump-backed Vance wins Ohio GOP Senate nod",
-    "sentiment": "0.536"
-  },
-  {
-    "id": 5741,
-    "mediaId": 19,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "John Binder",
-    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement",
-    "sentiment": "0"
-  },
-  {
     "id": 6439,
     "mediaId": 558,
-    "date": "2022-00-08",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Ohio GOP Senate hopeful: Middle class doesn't pay fair share",
@@ -155,7 +11,7 @@
   {
     "id": 6442,
     "mediaId": 237,
-    "date": "2022-00-08",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "David M. Drucker",
     "title": "JD Vance bets Ohio GOP Senate bid on illegal immigration",
@@ -164,7 +20,7 @@
   {
     "id": 6434,
     "mediaId": 19,
-    "date": "2022-00-10",
+    "date": "4/10/2022 12:00:00 AM",
     "sentence": "",
     "author": "John Binder",
     "title": "Ohio GOP Senate Candidate Mike Gibbons: Middle Class Not Really Paying  Fair Share in Taxes",
@@ -173,7 +29,7 @@
   {
     "id": 6426,
     "mediaId": 237,
-    "date": "2022-00-12",
+    "date": "4/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "David M. Drucker",
     "title": "Ohio GOP Senate rivals Gibbons and Mandel tag-team in jabs at pro-Vance poll",
@@ -182,7 +38,7 @@
   {
     "id": 6418,
     "mediaId": 65,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Steinhauser",
     "title": "Ohio GOP Senate contender Timken takes aim at Biden's 'runaway inflation' in new ad",
@@ -191,7 +47,7 @@
   {
     "id": 6419,
     "mediaId": 65,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tyler Olson",
     "title": "Rep. Kat Cammack backs Mike Gibbons in Ohio GOP Senate primary",
@@ -200,7 +56,7 @@
   {
     "id": 6421,
     "mediaId": 237,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kate Scanlon",
     "title": "Gibbons ad hits Vance and Timken on taxes in fiery Ohio GOP Senate primary",
@@ -209,7 +65,7 @@
   {
     "id": 6410,
     "mediaId": 409,
-    "date": "2022-00-14",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "Nate Hochman",
     "title": "Report: Trump Plans to Endorse J. D. Vance in the Ohio GOP Senate Primary",
@@ -218,7 +74,7 @@
   {
     "id": 6371,
     "mediaId": 65,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tyler Olson",
     "title": "Trump endorses JD Vance in Ohio GOP Senate primary",
@@ -227,7 +83,7 @@
   {
     "id": 6374,
     "mediaId": 195,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Julia Manchester",
     "title": "Trump endorses Vance in Ohio GOP Senate primary",
@@ -236,7 +92,7 @@
   {
     "id": 6377,
     "mediaId": 195,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Julia Manchester",
     "title": "Ohio GOP leaders press Trump to not endorse JD Vance",
@@ -245,7 +101,7 @@
   {
     "id": 6381,
     "mediaId": 237,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Chris Irvine",
     "title": "Donald Trump endorses JD Vance for Ohio Senate",
@@ -254,7 +110,7 @@
   {
     "id": 6384,
     "mediaId": 65,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Steinhauser",
     "title": "Ohio GOP Senate showdown: Dolan knocks rivals for name-calling instead of results",
@@ -263,7 +119,7 @@
   {
     "id": 6392,
     "mediaId": 19,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "John Binder",
     "title": "Donald Trump Endorses Populist J.D. Vance in Ohio Republican Senate Primary Race",
@@ -272,7 +128,7 @@
   {
     "id": 6397,
     "mediaId": 1164,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Adam Schrader",
     "title": "Trump endorses J.D. Vance for Ohio senate seat",
@@ -281,7 +137,7 @@
   {
     "id": 6347,
     "mediaId": 233,
-    "date": "2022-00-16",
+    "date": "4/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "David Jackson",
     "title": "J.D. Vance lands Donald Trump endorsement in crowded Ohio GOP Senate primary",
@@ -290,7 +146,7 @@
   {
     "id": 6311,
     "mediaId": 195,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tal Axelrod",
     "title": "JD Vance rolls out statewide ad touting Trump endorsement",
@@ -299,7 +155,7 @@
   {
     "id": 6261,
     "mediaId": 19,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Wendell HusebÃ¸",
     "title": "Poll: J.D. Vance Takes Huge Lead in Ohios Senate Race",
@@ -308,7 +164,7 @@
   {
     "id": 5023,
     "mediaId": 43,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Morning Digest: Federal judges let Ohio GOP run out the clock and use illegal gerrymandered maps",
@@ -317,7 +173,7 @@
   {
     "id": 6239,
     "mediaId": 239,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Joseph Clark",
     "title": "Trump touts Vance at Ohio rally",
@@ -326,7 +182,7 @@
   {
     "id": 6183,
     "mediaId": 233,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Haley BeMiller",
     "title": "Donald Trump holds Ohio rally amid criticism of J.D. Vance endorsement for U.S. Senate",
@@ -335,7 +191,7 @@
   {
     "id": 6142,
     "mediaId": 65,
-    "date": "2022-00-26",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Fox News Poll: Vance moves into top spot in Ohio GOP Senate primary",
@@ -344,7 +200,7 @@
   {
     "id": 6120,
     "mediaId": 195,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Gaetz, Greene to stump for Vance in Ohio ahead of GOP Senate primary",
@@ -353,7 +209,7 @@
   {
     "id": 6126,
     "mediaId": 409,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "John McCormack",
     "title": "Does Matt Dolan Have a Shot in the Ohio GOP Senate Race?",
@@ -362,7 +218,7 @@
   {
     "id": 6133,
     "mediaId": 195,
-    "date": "2022-00-27",
+    "date": "4/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tal Axelrod",
     "title": "Vance leads Senate GOP primary field in Ohio: poll",
@@ -371,7 +227,7 @@
   {
     "id": 6118,
     "mediaId": 19,
-    "date": "2022-00-28",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "John Binder",
     "title": "Exclusive: Trump-Endorsed J.D. Vance Takes Commanding Lead in New Poll",
@@ -380,10 +236,154 @@
   {
     "id": 6067,
     "mediaId": 65,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tyler Olson",
     "title": "Dolan 'not looking backwards' in Ohio GOP Senate primary dominated by Trump, amid bump in polls down stretch",
     "sentiment": "0.422"
+  },
+  {
+    "id": 6045,
+    "mediaId": 409,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "John McCormack",
+    "title": "Ohio GOP Senate Poll: Vance 26, Mandel 24, Dolan 21",
+    "sentiment": "0"
+  },
+  {
+    "id": 6046,
+    "mediaId": 65,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Ohio GOP Senate Primary: Timken plans ground game blitz to get undecided voters on her side",
+    "sentiment": "0"
+  },
+  {
+    "id": 6048,
+    "mediaId": 233,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Rick Rouan",
+    "title": "In Ohio GOP Senate race, candidates play on Trumpiness without Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 5991,
+    "mediaId": 124,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Vance works to lock up Ohio GOP Senate race as Trump-averse candidate rises",
+    "sentiment": "-0.335"
+  },
+  {
+    "id": 5994,
+    "mediaId": 195,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Olafimihan Oshin",
+    "title": "Mandel confident of win in Ohio GOP Senate primary without Trump endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 5995,
+    "mediaId": 237,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Ryan King",
+    "title": "Trump critic Matt Dolan catapults to second in eleventh-hour Ohio GOP Senate poll",
+    "sentiment": "0.483"
+  },
+  {
+    "id": 5997,
+    "mediaId": 169,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Skolnik",
+    "title": "Marjorie Taylor Greene jumps in the middle of heated Ohio GOP primary race",
+    "sentiment": "0.958"
+  },
+  {
+    "id": 6000,
+    "mediaId": 65,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Amy Nelson",
+    "title": "Josh Mandel 'confident' he'll win Ohio GOP Senate primary without Trump's support",
+    "sentiment": "0"
+  },
+  {
+    "id": 6013,
+    "mediaId": 65,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Dolan surges late in Ohio GOP Senate primary, says voters 'leaving some other candidates' to back his campaign",
+    "sentiment": "0"
+  },
+  {
+    "id": 5894,
+    "mediaId": 136,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "J.D. Vance Keeps Last-Minute Polling Lead Over Dolan as Ohio Booths Close",
+    "sentiment": "0"
+  },
+  {
+    "id": 5901,
+    "mediaId": 223,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Spencer Brown",
+    "title": "J.D. Vance Wins Ohio GOP Senate Primary",
+    "sentiment": "0.916"
+  },
+  {
+    "id": 5904,
+    "mediaId": 237,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Kate Scanlon",
+    "title": "Vance wins Ohio GOP Senate nomination after Trump endorsement in heated primary",
+    "sentiment": "-0.693"
+  },
+  {
+    "id": 5907,
+    "mediaId": 65,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Leaked Supreme Court abortion draft reverberates in Ohio GOP Senate race, candidates tout pro-life credentials",
+    "sentiment": "0"
+  },
+  {
+    "id": 5931,
+    "mediaId": 65,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Tyler Olson",
+    "title": "Ohio GOP Senate race: Voters weigh Trump support for Vance against 2016 comments critical of former president",
+    "sentiment": "0.382"
+  },
+  {
+    "id": 5820,
+    "mediaId": 151,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Trump-backed Vance wins Ohio GOP Senate nod",
+    "sentiment": "0.536"
+  },
+  {
+    "id": 5741,
+    "mediaId": 19,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "John Binder",
+    "title": "J.D. Vance: Karl Rove Tried to Tank My Candidacy After Trump Endorsement",
+    "sentiment": "0"
   }
 ]

@@ -5,14 +5,19 @@
   "headline": "Clayton Sheriff Victor Hill pleads not guilty to new federal charges",
   "image": "https://www.ajc.com/resizer/QBYHIPICBSO5xoHRp-hMIvMvkGc=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/WDUFI7HDN5BSJCHYMNXPF522GE.png",
   "link": "https://www.ajc.com/news/atlanta-news/clayton-sheriff-victor-hill-pleads-not-guilty-to-new-federal-charges/XTBLO4W4ZBEWXMHOAKPWU5LOPM/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Leon Stafford",
   "authorUrl": "https://www.ajc.com/staff/leon-stafford/",
   "termIds": [
-    2095
+    2095,
+    3745,
+    4366,
+    4429,
+    2613,
+    4941
   ],
   "sentences": [
     "Hills attorneys entered the not guilty plea during an arraignment before U.S. Magistrate Judge Russell Vineyard on charges the controversial sheriff allegedly violated the civil rights of two detainees in the Clayton County jail by strapping them into restraint chairs as a form of punishment.",

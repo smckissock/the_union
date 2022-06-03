@@ -5,14 +5,23 @@
   "headline": "Ahead of Georgia primary, RNC chairwoman calls on Republicans to unite",
   "image": "https://www.gannett-cdn.com/presto/2020/08/25/USAT/5cf90977-df1b-443d-b7ef-22f593190d9f-XXX_sd_News__Republican_National_Convention__26392_.jpg?crop=2562,1442,x150,y0&width=2562&height=1442&format=pjpg&auto=webp",
   "link": "https://www.usatoday.com/story/news/politics/2022/05/22/republicans-unite-ronna-mcdaniel-georgia-primary/9883863002/",
-  "sentiment": "0.0",
+  "sentiment": "0.222",
   "mediaOutlet": "USA Today",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Merdie Nzanga",
   "authorUrl": "https://www.usatoday.com/staff/7269536001/merdie-nzanga/",
   "termIds": [
-    2095
+    1147,
+    1434,
+    1685,
+    2095,
+    4325,
+    146,
+    427,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "University of Georgia Professor Charles Bullock told USA TODAY that Trump's endorsement \"really doesn't make much of a difference in the governor's race because Brian Kemp is well-known.\"",

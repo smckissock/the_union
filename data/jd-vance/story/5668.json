@@ -5,14 +5,23 @@
   "headline": "Biden Heads for JD Vances Home Turf as Democrat Sits Out Event",
   "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKcnSPHsUtwI/v0/-1x-1.jpg",
   "link": "https://www.bloomberg.com/news/articles/2022-05-06/biden-heads-for-vance-s-ohio-turf-but-ryan-won-t-join-him",
-  "sentiment": "0",
+  "sentiment": "0.506",
   "mediaOutlet": "Bloomberg.com",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Josh Wingrove",
   "authorUrl": "",
   "termIds": [
-    3103
+    781,
+    1115,
+    1801,
+    2087,
+    3103,
+    146,
+    571,
+    2609,
+    2845,
+    2945
   ],
   "sentences": [
     "Ohios two current senators, Republican Rob Portman and Democrat Sherrod Brown, will join Biden on Friday, as will Greg Landsman, a Democratic city councilman in Cincinnati who is challenging Representative Steve Chabots re-election, an official familiar with the event said.",

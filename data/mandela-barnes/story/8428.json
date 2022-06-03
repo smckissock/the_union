@@ -5,7 +5,7 @@
   "headline": "Scoop: PAC to spend $1M to oust Squad' member Tlaib",
   "image": "https://www.politico.com/dims4/default/928d542/2147483647/legacy_thumbnail/1200x799%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F48%2Fd9%2F4f5b72e645449664aff292138636%2Fthesitdown-sellers-1.jpg",
   "link": "https://www.politico.com/newsletters/the-recast/2022/05/27/scoop-pac-to-spend-1m-to-oust-squad-member-talib-00035738",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "",
   "termIds": [
     741,
-    2039
+    1389,
+    2039,
+    2087,
+    4824,
+    4894,
+    5720,
+    6206,
+    101,
+    116,
+    2645,
+    2721
   ],
   "sentences": [
     "For her part, Tlaib has been unequivocal in her disdain for Israel and its treatment of Palestinians and this week introduced a resolution in the House to recognize Palestinian Nakba  a term describing the displacement of Palestinians ahead of the 1948 establishment of Israel.",

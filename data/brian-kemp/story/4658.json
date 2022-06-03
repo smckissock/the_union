@@ -5,14 +5,22 @@
   "headline": "Georgia School Athletics Group Bars Male Students from Girls Sports",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/03/lia-thomas-ncaa-finals-500.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/georgia-school-athletics-group-bars-male-students-from-girls-sports/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Zachary Evans",
   "authorUrl": "https://www.nationalreview.com/author/zachary-evans/",
   "termIds": [
-    2095
+    2048,
+    2095,
+    2520,
+    4651,
+    539,
+    2672,
+    2710,
+    2738,
+    2946
   ],
   "sentences": [
     "Governor Andy Beshear of Kentucky, a Democrat, and Spencer Cox of Utah and Eric Holcomb of Indiana, both Republicans, argued in their veto messages that the legislation would likely be struck down in court and that there were few-to-no instances of transgender student athletes in their states, making the laws irrelevant.",

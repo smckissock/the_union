@@ -5,14 +5,23 @@
   "headline": "Trump endorses Doug Mastriano for Pennsylvania governor",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/02b4c43ecc154065a659c91e637b2f80.jpg?w=2560&h=1440&crop=1",
   "link": "https://thehill.com/news/campaign/3488353-trump-endorses-doug-mastriano-for-pennsylvania-governor/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Caroline Vakil",
   "authorUrl": "https://thehill.com/author/caroline-vakil/",
   "termIds": [
-    3102
+    1147,
+    1282,
+    1990,
+    1997,
+    2052,
+    3102,
+    428,
+    2862,
+    5479,
+    5483
   ],
   "sentences": [
     "We understand you participated in these activities based on assertions of voter fraud and other asserted irregularities and based on a stated belief that under the U.S. Constitution the state legislature has the sole authority to direct the manner of selecting delegates to the Electoral College. We have an interest in understanding these activities and the theories that motivated them,? Thompson wrote.",

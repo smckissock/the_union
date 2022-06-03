@@ -5,14 +5,18 @@
   "headline": "In primaries, a spotlight on the unhealed wounds of 2020 - and the ongoing divisions in America",
   "image": "https://www.gannett-cdn.com/presto/2022/05/18/USAT/6c42fe47-d0c4-4264-b7b2-538ce8daf7f5-AP_Election_2022_Pennsylvania_Governor.jpeg?width=660&height=371&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.usatoday.com/story/news/politics/elections/2022/05/18/midterms-primaries-trump/9800845002/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "USA Today",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "David Jackson",
   "authorUrl": "https://www.usatoday.com/staff/2647924001/david-jackson/",
   "termIds": [
-    3102
+    1147,
+    1990,
+    2087,
+    3102,
+    428
   ],
   "sentences": [
     "Republicans were sharply divided in Tuesday primaries\nDoug Mastriano, a state senator and outspoken election denier, won the GOP bid for Pa. governor\nA winner in Pa. said he wouldn't have certified Biden's victory in 2020\nAnalyst says Trump is a \"cancer on the Republican Party\"\nWASHINGTON  If the latest primaries are any indication, the wounds from the 2020 election and the violent insurrection that followed it still run deep  and figure to get worse during the 2022 midterm elections.",

@@ -5,7 +5,7 @@
   "headline": "Democrat tax scofflaw tells billionaires: 'Pay your taxes'",
   "image": "https://www.wnd.com/wp-content/uploads/2022/03/yacht-luxury-boats-wealthy-expensive-money-rich-vladimir-putin-jpg.jpg",
   "link": "https://www.wnd.com/2022/04/democrat-tax-scofflaw-tells-billionaires-pay-taxes/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,9 @@
   "authorUrl": "https://www.wnd.com/author/wndstaff/",
   "termIds": [
     2039,
-    2171
+    2171,
+    318,
+    571
   ],
   "sentences": [
     "\"But Barnes seemed uncharacteristically concerned about tax punctuality when he took a swipe at the super-rich in a social media post on Monday,\" the Free Beacon reported after he was found writing on social media; \"Dear Billionaires: Pay your taxes.\"",

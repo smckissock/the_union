@@ -5,14 +5,19 @@
   "headline": "Crypto-Backed Mortgages on the Rise Despite Crypto Market Pullback",
   "image": "https://s.yimg.com/ny/api/res/1.2/6.mD6MyYZyU9exuDqhOUlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/aR8pR9MtpF2OFeky96GXwA--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/0900bbfa45466ed80f48a64e5bbb888a",
   "link": "https://nz.finance.yahoo.com/news/crypto-backed-mortgages-rise-despite-015541601.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bob Mason",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4442,
+    3144,
+    3654,
+    2661,
+    2945
   ],
   "sentences": [
     "With Bitcoin and the broader market showing a strong correlation with the NASDAQ and the Fed about to embark on a journey toward monetary policy normalization, crypto-backed mortgages could be in for a hard landing.",

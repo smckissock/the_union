@@ -5,14 +5,17 @@
   "headline": "Protective order against lieutenant gov candidate tossed",
   "image": "https://s.yimg.com/ny/api/res/1.2/iNN4F923F.Wp7sLeDtbwtg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY3NjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/RRikCdcKPyLkP7oN5phKfQ--~B/aD00NTg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cp.org/c1f745fd0d6a7d2ac57f25598b83a88b",
   "link": "https://ca.news.yahoo.com/protective-order-against-lieutenant-gov-172543875.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1990,
+    3102,
+    428,
+    2862
   ],
   "sentences": [
     "HONESDALE, Pa. (AP)  A judge dismissed a temporary protective order against a candidate for Pennsylvania lieutenant governor on Friday after his attorneys attacked the motivation and credibility of the candidate's wife, who had testified he was verbally abusive and made threats.",

@@ -5,14 +5,17 @@
   "headline": "DeSantis Defends Disney Call as Poll Shows Voters Reject Company Punishment",
   "image": "https://d.newsweek.com/en/full/2028575/florida-governor-desantis-holds-roundtable-cuba.webp?w=790&f=25e0d8b85a17672c8326f959dafd8c84",
   "link": "https://www.newsweek.com/desantis-defends-disney-call-poll-shows-voters-reject-company-punishment-1702250",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Emma Mayer",
   "authorUrl": "https://www.newsweek.com/authors/emma-mayer",
   "termIds": [
-    661
+    661,
+    4464,
+    524,
+    2661
   ],
   "sentences": [
     "While DeSantis is still a favorite of the Republican Party, 36 percent of Republicans also voted they would be less likely to support a candidate who believes that there should be laws that remove any tax benefits from large corporations that support more liberal views.",

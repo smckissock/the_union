@@ -1,17 +1,8 @@
 [
   {
-    "id": 5798,
-    "mediaId": 195,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Roe, Ohio primary dominate",
-    "sentiment": "0"
-  },
-  {
     "id": 6386,
     "mediaId": 195,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Russia plots next move amid setbacks",
@@ -20,10 +11,19 @@
   {
     "id": 6294,
     "mediaId": 195,
-    "date": "2022-00-19",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Presented by Facebook  Mask-free travelers allowed, TSA says",
+    "sentiment": "0"
+  },
+  {
+    "id": 5798,
+    "mediaId": 195,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Roe, Ohio primary dominate",
     "sentiment": "0"
   }
 ]

@@ -5,14 +5,19 @@
   "headline": "Owners of company that manufactures gun used in Uvalde school shooting are prolific GOP donors: report",
   "image": "https://www.rawstory.com/media-library/image.jpg?id=29862653&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/daniel-defense-2657402381/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sky Palma",
   "authorUrl": "https://www.rawstory.com/u/sky_palma",
   "termIds": [
-    815
+    815,
+    1245,
+    428,
+    525,
+    6104,
+    6069
   ],
   "sentences": [
     "The ability of the industry to use money to advance its policy agenda has increased given the dramatic rise in firearm sales that weve seen over the last two or three years, said Timothy D. Lytton, a law professor at Georgia State University.",

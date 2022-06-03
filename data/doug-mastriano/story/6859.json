@@ -5,14 +5,23 @@
   "headline": "The Most Pivotal Elections in 2022 Are Not the Ones You Think",
   "image": "https://static01.nyt.com/images/2022/05/12/opinion/12McQuade/12McQuade-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/12/opinion/midterms-state-races.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    712,
+    926,
+    1083,
+    1147,
+    1990,
+    2087,
+    2203,
+    2279,
+    3102,
+    2661
   ],
   "sentences": [
     "If they win office, Republicans will control the voting process in these five crucial swing states where the 2024 election may be decided:\nOne closely watched race will be in Georgia, where the Republican incumbent, Brad Raffensperger, is fighting for his political life in the May 24 primary after having refused Mr. Trumps demands to find? the 11,780 votes he needed to overturn Mr. Bidens victory in that state.",

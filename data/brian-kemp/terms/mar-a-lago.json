@@ -1,8 +1,17 @@
 [
   {
+    "id": 8112,
+    "mediaId": 12,
+    "date": "2/24/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
+    "sentiment": "0"
+  },
+  {
     "id": 5091,
     "mediaId": 169,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "Many eyes are on Georgia as a microcosm of the \"Mar-a-Lago Machine\" in action, where Trump has waged a particularly ugly crusade against GOP Governor <span class='selected-term'>Brian Kemp</span> and Secretary of State Brad Raffensberger, along with anyone associated with them, endorsing their challengers and insisting that all GOP candidates running for any office sign off on the Big Lie.",
     "author": "Heather Digby Parton",
     "title": "Does Trump still have the juice? His spotty endorsement record suggests decline",
@@ -11,19 +20,10 @@
   {
     "id": 5051,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "Kevin McCarthy saved Trump from political 'extinction' -- and some Republicans secretly resent him\nNOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
     "author": "Brad Reed",
     "title": "Kevin McCarthy saved Trump from 'political extinction' -- and many Republicans secretly resent him: NYT reporter",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 8112,
-    "mediaId": 12,
-    "date": "2022-00-24",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
-    "sentiment": "0.0"
+    "sentiment": "0"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "id": 7647,
-    "mediaId": 178,
-    "date": "2022-00-01",
-    "sentence": "But anyone in these parts old enough to remember the name <span class='selected-term'>Herschel Walker</span> knows not to dismiss Jimmy's strategy when it comes to the NFL draft.",
-    "author": "Mark Craig",
-    "title": "Annual first-round feeding frenzy on quarterbacks doesn't materialize  and rightfully so",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7683,
     "mediaId": 238,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "They had shipped star running back <span class='selected-term'>Herschel Walker</span> to Minnesota for a massive haul, including eight picks, and quarterback Steve Walsh to New Orleans for three more.",
     "author": "Sam Fortier",
     "title": "The enduring value of the NFL drafts most famous and misunderstood chart",
     "sentiment": "0.583"
+  },
+  {
+    "id": 7647,
+    "mediaId": 178,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "But anyone in these parts old enough to remember the name <span class='selected-term'>Herschel Walker</span> knows not to dismiss Jimmy's strategy when it comes to the NFL draft.",
+    "author": "Mark Craig",
+    "title": "Annual first-round feeding frenzy on quarterbacks doesn't materialize  and rightfully so",
+    "sentiment": "0"
   }
 ]

@@ -5,7 +5,7 @@
   "headline": "Primary Results: Trump Repudiated, Republicans Enthused, Democrats Focused On Theoretical Issues",
   "image": "https://media.townhall.com/townhall/reu/ha/2022/129/0492ae83-d128-4d3b-85b2-518278fbe61b.png",
   "link": "https://townhall.com/columnists/michaelbarone/2022/05/27/primary-results-trump-repudiated-republicans-enthused-democrats-focused-on-theoretical-issues-n2607877",
-  "sentiment": "0.0",
+  "sentiment": "-0.726",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://townhall.com/columnists/michaelbarone/",
   "termIds": [
     661,
-    2095
+    805,
+    1147,
+    1951,
+    2095,
+    2279,
+    4325,
+    146,
+    428
   ],
   "sentences": [
     "The Georgia results do not bode well for Democratic governor candidate Stacey Abrams, who claimed baselessly that she won the 2018 election, and for the charges -- accepted and recounted as gospel by national Democrats and by Delta Air Lines, Coca-Cola and Major League Baseball corporate executives -- that state Republicans' changes in voting laws amounted to voter suppression.",

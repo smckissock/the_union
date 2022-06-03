@@ -2,16 +2,16 @@
   {
     "id": 4001,
     "mediaId": 1067,
-    "date": "2022-00-05",
+    "date": "5/5/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Floridians expect sensible gun laws. This is insanity | Editorial",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4001,
     "mediaId": 1067,
-    "date": "2022-00-05",
+    "date": "5/5/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Floridians expect sensible gun laws. This is insanity | Editorial",
@@ -20,28 +20,37 @@
   {
     "id": 3550,
     "mediaId": 136,
-    "date": "2022-00-16",
+    "date": "5/16/2022 12:00:00 AM",
     "sentence": "Parkland father Fred Guttenberg said this week that he believed that Republican politicians, including Florida Governor <span class='selected-term'>Ron DeSantis</span>, bear some responsibility for Saturday's massacre at a Buffalo grocery store that is being investigated as a hate crime.",
     "author": "Khaleda Rahman",
     "title": "Parkland Father Blames Ron DeSantis, Other Republicans for Buffalo Shooting",
     "sentiment": "0"
   },
   {
-    "id": 3550,
-    "mediaId": 136,
-    "date": "2022-00-16",
-    "sentence": "Parkland father Fred Guttenberg said this week that he believed that Republican politicians, including Florida Governor <span class='selected-term'>Ron DeSantis</span>, bear some responsibility for Saturday's massacre at a Buffalo grocery store that is being investigated as a hate crime.",
-    "author": "Khaleda Rahman",
-    "title": "Parkland Father Blames Ron DeSantis, Other Republicans for Buffalo Shooting",
-    "sentiment": "0.0"
-  },
-  {
     "id": 8541,
     "mediaId": 136,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "Following the shooting, a 407-page report and police response was published and presented to Florida Governor <span class='selected-term'>Ron DeSantis</span>.",
     "author": "Matthew Impelli",
     "title": "How Police Response Times Compare in School Shootings Since Columbine",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8851,
+    "mediaId": 558,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Alexander Nazaryan",
+    "title": "States rush to expand gun rights despite calls for stricter laws",
+    "sentiment": "0"
+  },
+  {
+    "id": 8811,
+    "mediaId": 1546,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "In 2020, conservative Governor <span class='selected-term'>Ron DeSantis</span> appointed him to the Florida Board of Education.",
+    "author": "Matt Haines",
+    "title": "US Teachers Debate Guns in the Classroom",
+    "sentiment": "0"
   }
 ]

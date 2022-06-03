@@ -1,17 +1,8 @@
 [
   {
-    "id": 5781,
-    "mediaId": 238,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
-    "sentiment": "0"
-  },
-  {
     "id": 8175,
     "mediaId": 169,
-    "date": "2022-00-09",
+    "date": "2/9/2022 12:00:00 AM",
     "sentence": "",
     "author": "Igor Derysh",
     "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
@@ -20,7 +11,7 @@
   {
     "id": 6262,
     "mediaId": 43,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Daily Kos Elections Live Digest: 4/21",
@@ -29,7 +20,7 @@
   {
     "id": 6160,
     "mediaId": 195,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "Juan Williams",
     "title": "Juan Williams: Trump rains on McConnells parade",
@@ -38,10 +29,28 @@
   {
     "id": 6101,
     "mediaId": 237,
-    "date": "2022-00-28",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "David M. Drucker",
     "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
+    "sentiment": "0"
+  },
+  {
+    "id": 5781,
+    "mediaId": 238,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Live updates Political parties plot next moves on terrain shaken by leaked draft abortion opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 8612,
+    "mediaId": 238,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion Has Trump lost his hold on the GOP? Hardly.",
     "sentiment": "0"
   }
 ]

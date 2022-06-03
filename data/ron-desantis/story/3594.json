@@ -5,14 +5,20 @@
   "headline": "Alabamas ban on medication for trans youths is blocked by judge",
   "image": "",
   "link": "https://www.washingtonpost.com/nation/2022/05/14/alabama-hormone-therapy-puberty-blockers-judge/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Anne Branigin",
   "authorUrl": "https://www.washingtonpost.com/people/anne-branigin/",
   "termIds": [
-    661
+    661,
+    834,
+    2250,
+    4338,
+    4509,
+    3611,
+    2537
   ],
   "sentences": [
     "Greg Abbotts directive to investigate gender-affirming care as child abuse.?\nBurke wrote in his opinion that parents have a fundamental right to direct the medical care of their children subject to accepted medical standards? and that discrimination based on gender-nonconformity equates to sex discrimination.?\nBurkes opinion, which cites Supreme Court and federal court precedent, blocks the part of the Alabama law that would prevent doctors from providing minors with age-appropriate gender-affirming care such as puberty blockers and hormone therapy.",

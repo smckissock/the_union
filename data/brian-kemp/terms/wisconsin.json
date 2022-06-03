@@ -1,44 +1,71 @@
 [
   {
-    "id": 4796,
-    "mediaId": 43,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Rebekah Sager",
-    "title": "Biden suspends Gov. Kemps attempt to block ACA site from hundreds of thousands of Georgia residents",
-    "sentiment": "-0.482"
-  },
-  {
     "id": 5209,
     "mediaId": 33,
-    "date": "2022-00-12",
+    "date": "4/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "Andy Rose and Theresa Waldrop",
     "title": "Georgia governor signs bill allowing most residents to carry a concealed gun without a permit",
     "sentiment": "0"
   },
   {
-    "id": 4482,
-    "mediaId": 238,
-    "date": "2022-00-17",
-    "sentence": "They have this exact data and, in fact, many of them inside of the GBI and inside of <span class='selected-term'>Brian Kemp</span>s office and inside of Raffenspergers office are very eager to try to fight back and push back against True the Vote.",
-    "author": "Philip Bump",
-    "title": "Discussing the gaps in 2000 Mules with Dinesh DSouza",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5105,
     "mediaId": 209,
-    "date": "2022-00-17",
+    "date": "4/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "The Week Staff",
     "title": "Putting more guns on the street",
     "sentiment": "0"
   },
   {
+    "id": 5048,
+    "mediaId": 157,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "NOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
+    "author": "",
+    "title": "Gableman deleting records as he conducts partisan 2020 election review in Wisconsin",
+    "sentiment": "0"
+  },
+  {
+    "id": 4938,
+    "mediaId": 238,
+    "date": "4/26/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "In Wisconsin, a complex debate on crime foreshadows a midterm fight",
+    "sentiment": "0"
+  },
+  {
+    "id": 4913,
+    "mediaId": 12,
+    "date": "4/27/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Michael E. Kanell",
+    "title": "Wisconsin meat snack firm to build 800-worker plant in Perry",
+    "sentiment": "0"
+  },
+  {
+    "id": 4796,
+    "mediaId": 43,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Rebekah Sager",
+    "title": "Biden suspends Gov. Kemps attempt to block ACA site from hundreds of thousands of Georgia residents",
+    "sentiment": "-0.482"
+  },
+  {
+    "id": 4482,
+    "mediaId": 238,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "They have this exact data and, in fact, many of them inside of the GBI and inside of <span class='selected-term'>Brian Kemp</span>s office and inside of Raffenspergers office are very eager to try to fight back and push back against True the Vote.",
+    "author": "Philip Bump",
+    "title": "Discussing the gaps in 2000 Mules with Dinesh DSouza",
+    "sentiment": "0"
+  },
+  {
     "id": 4469,
     "mediaId": 129,
-    "date": "2022-00-18",
+    "date": "5/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
@@ -47,43 +74,16 @@
   {
     "id": 4458,
     "mediaId": 129,
-    "date": "2022-00-19",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
     "sentiment": "-0.879"
   },
   {
-    "id": 5048,
-    "mediaId": 157,
-    "date": "2022-00-21",
-    "sentence": "NOW WATCH: Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
-    "author": "",
-    "title": "Gableman deleting records as he conducts partisan 2020 election review in Wisconsin",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4938,
-    "mediaId": 238,
-    "date": "2022-00-26",
-    "sentence": "",
-    "author": "",
-    "title": "In Wisconsin, a complex debate on crime foreshadows a midterm fight",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4913,
-    "mediaId": 12,
-    "date": "2022-00-27",
-    "sentence": "",
-    "author": "Michael E. Kanell",
-    "title": "Wisconsin meat snack firm to build 800-worker plant in Perry",
-    "sentiment": "0"
-  },
-  {
     "id": 8463,
     "mediaId": 195,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Dennis Aftergut",
     "title": "Rays of a much-needed, principled GOP shine through",
@@ -92,7 +92,7 @@
   {
     "id": 8491,
     "mediaId": 238,
-    "date": "2022-00-28",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "Dan Balz",
     "title": "Trump is trapped in the past, and its hurting him with GOP voters",

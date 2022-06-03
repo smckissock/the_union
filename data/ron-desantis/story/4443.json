@@ -5,14 +5,21 @@
   "headline": "DeSantis blasts Disney execs attack on parents: 'Walt Disney would not want that'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc987b04-6d5d-4148-867d-1a386f86b94b/e79ae65d-c4ca-4dfd-83f3-626e001e4433/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/desantis-blasts-disney-attack-parents-walt-disney-would-not-want-that",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    718,
+    4464,
+    524,
+    3230,
+    2590,
+    2661,
+    2851
   ],
   "sentences": [
     "They are paying money to run their operations  they will continue paying money to run their operations, and that will be true if the state is in charge of a district, if it's dissolved to the locals, it doesn't matter.",

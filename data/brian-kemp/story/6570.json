@@ -5,15 +5,24 @@
   "headline": "Trump's bid to control election offices hits first battleground",
   "image": "https://www.politico.com/dims4/default/0ded8d5/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Faf%2Fc1%2F057b948249098d3231c2899ee2b3%2Fap20322055500606.jpg",
   "link": "https://www.politico.com/news/2022/05/20/georgia-secretary-of-state-election-trump-00034001",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
+    1147,
+    1152,
     2095,
-    3102
+    2203,
+    2279,
+    3102,
+    428,
+    501,
+    2617,
+    2672,
+    2706
   ],
   "sentences": [
     "A voter who is more likely to return in the runoff is a voter who is more motivated by something, [and] I think conventional wisdom would say that the anti-Raffensperger electorate would prevail in the runoff,? said Jason Shepherd, a former Cobb County GOP chair who has appeared in an ad for the incumbent.",

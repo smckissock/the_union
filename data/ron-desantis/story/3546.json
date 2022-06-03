@@ -5,14 +5,19 @@
   "headline": "Ban on protests in front of homes signed by Gov. DeSantis",
   "image": "https://s.yimg.com/ny/api/res/1.2/et2wSwQBSkbWzkUXJv_P5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc0ODtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/rGTPSYNDT0zAf6roZYeEKw--~B/aD0yNzU3O3c9MzU0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/23874358941b48f95d531ec6288c3733",
   "link": "https://nz.finance.yahoo.com/amphtml/news/ban-protests-front-homes-signed-220504801.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3524,
+    2661,
+    2926,
+    5109,
+    5113
   ],
   "sentences": [
     "This bill will provide protection to those living in residential communities and I am glad to sign it into law.?\nSome Democrats opposed the bill, arguing it infringes on people's First Amendment rights to free speech.",

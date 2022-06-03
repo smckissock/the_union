@@ -1,8 +1,17 @@
 [
   {
+    "id": 6148,
+    "mediaId": 43,
+    "date": "4/26/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David Neiwert\nDaily Kos Staff",
+    "title": "Trumpists coalesce at megachurch rallies to create their own brand of",
+    "sentiment": "0"
+  },
+  {
     "id": 5866,
     "mediaId": 43,
-    "date": "2022-00-04",
+    "date": "5/4/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "QAnon rando defeats established pols in Ohio House district GOP hopes to flip",
@@ -11,7 +20,7 @@
   {
     "id": 5590,
     "mediaId": 238,
-    "date": "2022-00-10",
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion How the GOP strategy to paint Democrats as extreme really works",
@@ -20,7 +29,7 @@
   {
     "id": 5531,
     "mediaId": 169,
-    "date": "2022-00-15",
+    "date": "5/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Amanda Marcotte",
     "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame",
@@ -29,19 +38,10 @@
   {
     "id": 5538,
     "mediaId": 157,
-    "date": "2022-00-15",
+    "date": "5/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Amanda Marcotte",
     "title": "Mass shooting in Buffalo: Tucker Carlson and other right-wing conspiracy theorists share the blame",
-    "sentiment": "0"
-  },
-  {
-    "id": 6148,
-    "mediaId": 43,
-    "date": "2022-00-26",
-    "sentence": "",
-    "author": "David Neiwert\nDaily Kos Staff",
-    "title": "Trumpists coalesce at megachurch rallies to create their own brand of",
     "sentiment": "0"
   }
 ]

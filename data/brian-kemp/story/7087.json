@@ -5,15 +5,23 @@
   "headline": "Why Trump's full court press in Georgia hasn't helped Perdue's bid to oust Kemp",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6e66ea-7086-4777-bf11-a0f4921c2232/0836f440-2adb-45dd-9d9e-97a227d9ee9e/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/trump-georgia-governor-endorsement-perdue-kemp",
-  "sentiment": "0.0",
+  "sentiment": "-0.559",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Steinhauser",
   "authorUrl": "https://www.foxnews.com/person/s/paul-steinhauser",
   "termIds": [
+    679,
     815,
-    2095
+    1147,
+    1903,
+    1951,
+    2087,
+    2095,
+    2136,
+    4325,
+    2672
   ],
   "sentences": [
     "The poll indicates Trump remains very popular with Georgia Republicans  at 78% favorability  but only 37% of GOP voters said the former presidents backing of Perdue made it more likely theyd support the former senator, with six out of 10 saying Trumps endorsement had no effect or made it more likely theyd be less supportive of Perdue.",

@@ -5,14 +5,21 @@
   "headline": "The left changed the definition of populism due to Trump",
   "image": "https://www.wnd.com/wp-content/uploads/2018/10/trump-rally-illinois.jpg",
   "link": "https://www.wnd.com/?p=4982312",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WND",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Rachel Alexander",
   "authorUrl": "https://www.wnd.com/author/ralexander/",
   "termIds": [
-    2171
+    690,
+    938,
+    959,
+    1147,
+    1813,
+    2093,
+    2171,
+    19
   ],
   "sentences": [
     "He says the left has cleverly defined populism as those who \"oppose political pluralism and minority rights  regularly indulge in conspiracy theories; favor aggressive forms of identity politics; disparage political opponents including 'the establishment' as downright illegitimate; erode constitutional norms; deliberately undercut civil society; press toward authoritarian forms of government; and thereby threaten the very bases of liberal democracy itself.\"",

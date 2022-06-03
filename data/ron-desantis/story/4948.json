@@ -5,7 +5,7 @@
   "headline": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
   "image": "https://imageio.forbes.com/specials-images/imageserve/62673261f9cc01f46e8c70eb/CPAC-DeSantis/0x0.jpg?fit=crop&format=jpg&crop=3387,1905,x0,y0,safe",
   "link": "https://www.forbes.com/sites/masonbissada/2022/04/25/florida-gov-desantis-signs-bill-to-form-election-police-force/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Forbes",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,12 @@
   "authorUrl": "https://www.forbes.com/sites/masonbissada/",
   "termIds": [
     661,
-    2095
+    1147,
+    2087,
+    2095,
+    3908,
+    4325,
+    2661
   ],
   "sentences": [
     "DeSantis is one of several Republican officials to propose more stringent investigations into voter fraudwhich researchers say is vanishingly rareas part of a broad push to emphasize election integrity.? Georgia gubernatorial candidate David Perdue, a former senator who lost his seat to Sen. Jon Ossoff (D) last year and is now challenging incumbent Gov.",

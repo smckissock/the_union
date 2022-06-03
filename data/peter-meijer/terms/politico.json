@@ -2,28 +2,37 @@
   {
     "id": 88,
     "mediaId": 151,
-    "date": "2022-00-01",
+    "date": "1/1/2022 12:00:00 AM",
     "sentence": " Rep. <span class='selected-term'>Peter Meijer</span> (R-Mich.)  Fiona Hill  Barton Gellman.",
     "author": "",
     "title": "POLITICO Playbook: Welcome to 2022",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 40,
-    "mediaId": 157,
-    "date": "2022-00-20",
-    "sentence": "Doug Ducey and 'RINO Congressman <span class='selected-term'>Peter Meijer</span>.'",
-    "author": "Tom Boggioni",
-    "title": "Trump sicced his followers on the GOP's 'RINOs' -- and it's tearing the party apart: report",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 55,
     "mediaId": 151,
-    "date": "2022-00-20",
+    "date": "2/20/2022 12:00:00 AM",
     "sentence": "Others, like Michigan's <span class='selected-term'>PETER MEIJER</span> and FRED UPTON, face Trump-backed candidates with steep uphill odds in new districts.",
     "author": "",
     "title": "POLITICO Playbook: Harris declares unity,' while Zelenskyy accuses appeasement'",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 40,
+    "mediaId": 157,
+    "date": "3/20/2022 12:00:00 AM",
+    "sentence": "Doug Ducey and 'RINO Congressman <span class='selected-term'>Peter Meijer</span>.'",
+    "author": "Tom Boggioni",
+    "title": "Trump sicced his followers on the GOP's 'RINOs' -- and it's tearing the party apart: report",
+    "sentiment": "0"
+  },
+  {
+    "id": 8646,
+    "mediaId": 151,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Hillary Scholten  who is running in Michigan's redrawn 3rd District, which includes several large West Michigan suburbs, and is currently held by Republican Rep. <span class='selected-term'>Peter Meijer</span>  said she's heard about the issue from voters over the last week.",
+    "author": "",
+    "title": "How the gun debate will be won or lost in the suburbs",
+    "sentiment": "0"
   }
 ]

@@ -5,14 +5,23 @@
   "headline": "Republicans Are Trying to Seize Veto Power Over the 2024 Election",
   "image": "https://www.rollingstone.com/wp-content/uploads/2022/04/kristina-karamo-michigan-gop.jpg?resize=1800,1200&w=1200",
   "link": "https://www.rollingstone.com/politics/politics-features/michigan-election-denier-trump-2024-biglie-1342918/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Rolling Stone",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kara Voght",
   "authorUrl": "",
   "termIds": [
-    1901
+    1147,
+    1536,
+    1802,
+    1901,
+    307,
+    308,
+    428,
+    2645,
+    2678,
+    2791
   ],
   "sentences": [
     "Instead, we are left to clean up the mess caused by violent protestors overrunning the U.S. Capitol in an attempt to undermine the people's business.?\nNow, standing in a sea of red caps, I wondered how many attendees milling about the building that shared DeVos' name also shared her view of Trump: Someone whose politics she supported, but whose conspiracies breached a fundamental precedent.",

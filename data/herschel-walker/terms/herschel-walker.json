@@ -1098,15 +1098,6 @@
     "sentiment": null
   },
   {
-    "id": 8087,
-    "mediaId": 129,
-    "date": "3/3/2022 12:00:00 AM",
-    "sentence": "Another Democratic political operation, American Bridge, is tying Ms. Greene to <span class='selected-term'>Herschel Walker</span>, the former University of Georgia football star recruited by Mr. Trump to challenge Senator Raphael Warnock, Democrat of Georgia, this fall.",
-    "author": "",
-    "title": "In Greene and Boebert, Democrats See a Helpful Political Target",
-    "sentiment": null
-  },
-  {
     "id": 1279,
     "mediaId": 19,
     "date": "3/3/2022 12:00:00 AM",
@@ -1122,6 +1113,15 @@
     "sentence": "They include:\n-- English poet Edmund Waller in 1606\n-- Industrialist George Pullman, inventor of the railway sleeping car, in 1831\n-- Telephone inventor Alexander Graham Bell in 1847\n-- Charles Ponzi, convicted of fraud for a pyramid scheme that bears his name, in 1882\n-- Movie star Jean Harlow in 1911\n-- Actor James \"Scotty\" Doohan in 1920\n-- Musician Arthel Lane \"Doc\" Watson in 1923\n-- Lee Radziwill, sister of Jacqueline Kennedy Onassis, in 1933\n-- Filmmaker George Miller in 1945 (age 77)\n-- Author Ron Chernow in 1949 (age 73)\n-- Actor Miranda Richardson in 1958 (age 64)\n-- Radio show host Ira Glass in 1959 (age 63)\n-- Football star <span class='selected-term'>Herschel Walker</span>, 1982 Heisman Trophy winner, in 1962 (age 60)\n-- Olympic gold medal heptathlete Jackie Joyner-Kersee in 1962 (age 60)\n-- Actor Julie Bowen in 1970 (age 52)\n-- Actor David Faustino in 1974 (age 48)\n-- Celebrity baker Buddy Valastro in 1977 (age 45)\n-- Actor Jessica Biel in 1982 (age 40)\n-- Singer Camila Cabello in 1997 (age 25)\n-- Actor Thomas Barbusca in 2003 (age 19)",
     "author": "UPI Staff",
     "title": "Famous birthdays for March 3: Jessica Biel, Jackie Joyner-Kersee",
+    "sentiment": null
+  },
+  {
+    "id": 8087,
+    "mediaId": 129,
+    "date": "3/3/2022 12:00:00 AM",
+    "sentence": "Another Democratic political operation, American Bridge, is tying Ms. Greene to <span class='selected-term'>Herschel Walker</span>, the former University of Georgia football star recruited by Mr. Trump to challenge Senator Raphael Warnock, Democrat of Georgia, this fall.",
+    "author": "",
+    "title": "In Greene and Boebert, Democrats See a Helpful Political Target",
     "sentiment": null
   },
   {
@@ -1143,21 +1143,21 @@
     "sentiment": null
   },
   {
-    "id": 8076,
-    "mediaId": 1576,
-    "date": "3/7/2022 12:00:00 AM",
-    "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
-    "author": "",
-    "title": "GOP stumbles, weak fundraising in Ga. and other states threaten path to Senate control",
-    "sentiment": null
-  },
-  {
     "id": 8075,
     "mediaId": 178,
     "date": "3/7/2022 12:00:00 AM",
     "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
     "author": "STEVE PEOPLES and BRIAN SLODYSKO Associated Press",
     "title": "Republican 'unforced errors' threaten path to Senate control",
+    "sentiment": null
+  },
+  {
+    "id": 8076,
+    "mediaId": 1576,
+    "date": "3/7/2022 12:00:00 AM",
+    "sentence": "Georgia Democratic Sen. Raphael Warnock finished the year with $22.9 million in the bank, while likely Republican challenger <span class='selected-term'>Herschel Walker</span>, the former football star who has been endorsed by Trump, reported $5.4 million.",
+    "author": "",
+    "title": "GOP stumbles, weak fundraising in Ga. and other states threaten path to Senate control",
     "sentiment": null
   },
   {
@@ -2646,21 +2646,21 @@
     "sentiment": null
   },
   {
-    "id": 7758,
-    "mediaId": 188,
-    "date": "4/15/2022 12:00:00 AM",
-    "sentence": "Georgia Republican Senate candidate <span class='selected-term'>Herschel Walker</span> graciously invited progressive journalist Elie Mystal to meet him and \"break bread\" after Mystal viciously attacked Walker's candidacy, but the offer was snubbed.",
-    "author": "Chris Pandolfo",
-    "title": "Herschel Walker invites progressive who viciously attacked him to 'break bread,' gets an utterly contemptuous response",
-    "sentiment": null
-  },
-  {
     "id": 7751,
     "mediaId": 1576,
     "date": "4/15/2022 12:00:00 AM",
     "sentence": "Football icon and Georgia Republican <span class='selected-term'>Herschel Walker</span> said Friday that his U.S. Senate campaign had raised $5.5 million in the first three months of 2022, a big haul that is still dwarfed by the $13.6 million that Democratic incumbent Raphael Warnock raised in the same period.",
     "author": "",
     "title": "Walker raises $5.5M in Georgia Senate race, trailing Warnock",
+    "sentiment": null
+  },
+  {
+    "id": 7758,
+    "mediaId": 188,
+    "date": "4/15/2022 12:00:00 AM",
+    "sentence": "Georgia Republican Senate candidate <span class='selected-term'>Herschel Walker</span> graciously invited progressive journalist Elie Mystal to meet him and \"break bread\" after Mystal viciously attacked Walker's candidacy, but the offer was snubbed.",
+    "author": "Chris Pandolfo",
+    "title": "Herschel Walker invites progressive who viciously attacked him to 'break bread,' gets an utterly contemptuous response",
     "sentiment": null
   },
   {
@@ -2934,21 +2934,21 @@
     "sentiment": null
   },
   {
-    "id": 7706,
-    "mediaId": 43,
-    "date": "4/20/2022 12:00:00 AM",
-    "sentence": "In terms of pickups, Republicans appear to be betting the farm on Georgia, where they are saddled with Trump-backed political neophyte and alleged wife abuser <span class='selected-term'>Herschel Walker</span>.",
-    "author": "",
-    "title": "Senate GOP super PAC playing a lot of defense for a supposed",
-    "sentiment": null
-  },
-  {
     "id": 6281,
     "mediaId": 43,
     "date": "4/20/2022 12:00:00 AM",
     "sentence": "x\nx\n1\nState\nName\nParty\n1Q\nRaised\nSelf-\nFund\nSpent\nCash\nRaised\nCTD\nSelf-Fund\nCTD\nx\nx\n2\nAK\nLisa Murkowski\n(R-inc)\n$1,574\n$0\n$550\n$5,288\n$7,453\n$0\n3\nAK\nKelly Tshibaka\n(R)\n$664\n$0\n$330\n$968\n$2,484\n$0\n4\nAL\nKatie Boyd Britt\n(R)\n$1,415\n$0\n$2,236\n$3,229\n$6,404\n$0\n5\nAL\nMo Brooks\n(R)\n$490\n$0\n$899\n$1,570\n$2,662\n$0\n6\nAL\nMike Durant\n(R)\n$290\n$2,650\n$1,352\n$4,096\n$455\n$6,800\n7\nAR\nJohn Boozman\n(R-inc)\n$1,114\n$0\n$2,116\n$2,508\n$5,521\n$0\n8\nAR\nJake Bequette\n(R)\n$335\n$0\n$191\n$556\n$1,107\n$35\n9\nAR\nJan Morgan\n(R)\n$211\n$0\n$217\n$55\n$546\n$1\n10\nAZ\nMark Kelly\n(D-inc)\n$11,165\n$0\n$6,439\n$23,320\n$39,000\n$0\n11\nAZ\nBlake Masters\n(R)\n$1,168\n$0\n$728\n$2,253\n$3,558\n$6\n12\nAZ\nMark Brnovich\n(R)\n$735\n$0\n$974\n$529\n$2,531\n$6\n13\nAZ\nMichael McGuire\n(R)\n$378\n$750\n$359\n$994\n$1,044\n$1,030\n14\nAZ\nJim Lamon\n(R)\n$275\n$5,000\n$4,040\n$7,176\n$832\n$13,000\n15\nAZ\nJustin Olson\n(R)\n$33\n$17\n$98\n$144\n$202\n$0\n16\nCA\nAlex Padilla\n(D-inc)\n$1,363\n$0\n$555\n$7,103\n$9,406\n$0\n17\nCA\nDan O'Dowd\n(D)\n$0\n$0\n$0\n$0\n$0\n$0\n18\nCO\nMichael Bennet\n(D-inc)\n$2,448\n$0\n$1,039\n$6,146\n$11,050\n$0\n19\nCO\nJoe O'Dea\n(R)\n$303\n$107\n$689\n$609\n$819\n$632\n20\nCO\nRon Hanks\n(R)\n$11\n$18\n$27\n$16\n$27\n$30\n21\nCT\nRichard Blumenthal\n(D-inc)\n$809\n$1\n$255\n$8,112\n$6,931\n$3\n22\nCT\nThemis Klarides\n(R)\n$425\n$40\n$18\n$448\n$425\n$40\n23\nCT\nLeora Levy\n(R)\n$284\n$761\n$82\n$963\n$284\n$761\n24\nFL\nVal Demings\n(D)\n$9,988\n$0\n$4,919\n$13,228\n$30,478\n$0\n25\nFL\nKen Russell\n(D)\n$236\n$0\n$280\n$285\n$1,222\n$0\n26\nFL\nAlan Grayson\n(D)\n$28\n$0\n$35\n$243\n$228\n$250\n27\nFL\nMarco Rubio\n(R-inc)\n$5,711\n$0\n$3,170\n$13,137\n$29,319\n$0\n28\nGA\nRaphael Warnock\n(D-inc)\n$13,470\n$0\n$10,836\n$25,580\n$44,194\n$0\n29\nGA\n<span class='selected-term'>Herschel Walker</span>\n(R)\n$5,158\n$0\n$3,181\n$7,422\n$14,218\n$0\n30\nGA\nLatham Saddler\n(R)\n$616\n$0\n$346\n$1,964\n$3,719\n$3\n31\nGA\nGary Black\n(R)\n$201\n$0\n$328\n$792\n$1,902\n$0\n32\nGA\nKelvin King\n(R)\n$199\n$0\n$386\n$145\n$1,148\n$300\n33\nGA\nJosh Clark\n(R)\n$95\n$0\n$196\n$127\n$279\n$35\n34\nHI\nBrian Schatz\n(D-inc)\n$303\n$0\n$171\n$4,049\n$3,701\n$0\n35\nIA\nMichael Franken\n(D)\n$1,393\n$0\n$709\n$1,005\n$1,818\n$0\n36\nIA\nAbby Finkenauer\n(D)\n$1,146\n$0\n$1,090\n$780\n$3,066\n$0\n37\nIA\nChuck Grassley\n(R-inc)\n$1,628\n$0\n$739\n$4,600\n$6,194\n$0\n38\nIA\nJim Carlin\n(R)\n$16\n$80\n$95\n$5\n$81\n$297\n39\nID\nMike Crapo\n(R-inc)\n$553\n$0\n$388\n$5,987\n$5,505\n$0\n40\nIL\nTammy Duckworth\n(D-inc)\n$1,832\n$0\n$1,135\n$7,104\n$15,857\n$0\n41\nIN\nThomas McDermott\n(D)\n$248\n$0\n$162\n$117\n$403\n$0\n42\nIN\nTodd Young\n(R-inc)\n$1,063\n$0\n$1,060\n$6,189\n$11,720\n$0\n43\nKS\nMark Holland\n(D)\n$161\n$0\n$126\n$122\n$303\n$1\n44\nKS\nJerry Moran\n(R-inc)\n$677\n$0\n$168\n$5,326\n$5,350\n$0\n45\nKY\nCharles Booker\n(D)\n$837\n$0\n$717\n$528\n$3,159\n$0\n46\nKY\nRand Paul\n(R-inc)\n$3,586\n$0\n$2,817\n$8,629\n$19,348\n$0\n47\nLA\nGary Chambers\n(D)\n$781\n$7\n$312\n$469\n$781\n$7\n48\nLA\nLuke Mixon\n(D)\n$281\n$0\n$159\n$242\n$477\n$0\n49\nLA\nJohn Kennedy\n(R-inc)\n$5,123\n$0\n$2,307\n$13,967\n$22,674\n$0\n50\nMD\nChris Van Hollen\n(D-inc)\n$935\n$0\n$381\n$5,496\n$7,592\n$0\n51\nMO\nLucas Kunce\n(D)\n$841\n$0\n$707\n$942\n$3,291\n$0\n52\nMO\nVicky Hartzler\n(R)\n$495\n$0\n$748\n$1,527\n$2,424\n$0\n53\nMO\nEric Schmitt\n(R)\n$481\n$0\n$451\n$1,302\n$2,924\n$0\n54\nMO\nEric Greitens\n(R)\n$336\n$30\n$311\n$345\n$1,755\n$48\n55\nMO\nBilly Long\n(R)\n$155\n$0\n$290\n$500\n$1,276\n$250\n56\nMO\nDave Schatz\n(R)\n$90\n$1,000\n$117\n$2,135\n$258\n$2,000\n57\nMO\nMark McCloskey\n(R)\n$70\n$0\n$131\n$38\n$948\n$0\n58\nNC\nCheri Beasley\n(D)\n$3,659\n$0\n$1,339\n$5,139\n$8,569\n$1\n59\nNC\nPat McCrory\n(R)\n$1,122\n$0\n$830\n$2,241\n$4,127\n$0\n60\nNC\nTed Budd\n(R)\n$1,053\n$0\n$1,339\n$1,941\n$3,845\n$275\n61\nNC\nMarjorie Eastman\n(R)\n$212\n$160\n$217\n$441\n$629\n$166\n62\nNC\nMark Walker\n(R)\n$101\n$0\n$163\n$509\n$1,561\n$0\n63\nND\nJohn Hoeven\n(R-inc)\n$475\n$0\n$339\n$3,234\n$3,084\n$0\n64\nNH\nMaggie Hassan\n(D-inc)\n$4,281\n$0\n$1,980\n$7,616\n$21,627\n$0\n65\nNH\nChuck Morse\n(R)\n$735\n$6\n$68\n$672\n$735\n$6\n66\nNH\nKevin Smith\n(R)\n$409\n$0\n$97\n$312\n$409\n$0\n67\nNH\nDonald Bolduc\n(R)\n$105\n$0\n$80\n$82\n$305\n$0\n68\nNV\nCatherine Cortez Masto\n(D-inc)\n$4,341\n$0\n$3,747\n$11,083\n$21,674\n$0\n69\nNV\nAdam Laxalt\n(R)\n$1,581\n$0\n$1,035\n$2,239\n$4,304\n$0\n70\nNV\nSam Brown\n(R)\n$1,145\n$0\n$1,197\n$680\n$3,185\n$17\n71\nNY\nChuck Schumer\n(D-inc)\n$2,094\n$0\n$841\n$37,613\n$36,069\n$0\n72\nOH\nTim Ryan\n(D)\n$4,058\n$0\n$2,622\n$6,466\n$12,531\n$0\n73\nOH\nMorgan Harper\n(D)\n$323\n$3\n$385\n$378\n$1,191\n$7\n74\nOH\nJane Timken\n(R)\n$797\n$0\n$2,962\n$1,452\n$4,216\n$3,500\n75\nOH\nJosh Mandel\n(R)\n$507\n$0\n$3,716\n$2,789\n$2,742\n$0\n76\nOH\nJ.D.",
     "author": "",
     "title": "Daily Kos Elections 1Q 2022 Senate fundraising reports roundup",
+    "sentiment": null
+  },
+  {
+    "id": 7706,
+    "mediaId": 43,
+    "date": "4/20/2022 12:00:00 AM",
+    "sentence": "In terms of pickups, Republicans appear to be betting the farm on Georgia, where they are saddled with Trump-backed political neophyte and alleged wife abuser <span class='selected-term'>Herschel Walker</span>.",
+    "author": "",
+    "title": "Senate GOP super PAC playing a lot of defense for a supposed",
     "sentiment": null
   },
   {
@@ -3222,21 +3222,21 @@
     "sentiment": null
   },
   {
-    "id": 7646,
-    "mediaId": 25,
-    "date": "5/1/2022 12:00:00 AM",
-    "sentence": "In Ohio, in particular, JD Vance he's endorsed, a number of other candidates, Pennsylvania, <span class='selected-term'>Herschel Walker</span>, Georgia.",
-    "author": "",
-    "title": "Full transcript of \"Face the Nation\" on May 1, 2022",
-    "sentiment": null
-  },
-  {
     "id": 6055,
     "mediaId": 25,
     "date": "5/1/2022 12:00:00 AM",
     "sentence": "He's endorsed a number of other candidates: Pennsylvania, <span class='selected-term'>Herschel Walker</span>, Georgia.",
     "author": "",
     "title": "Transcript: Rep. Adam Kinzinger on \"Face the Nation,\" May 1, 2022",
+    "sentiment": null
+  },
+  {
+    "id": 7646,
+    "mediaId": 25,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "In Ohio, in particular, JD Vance he's endorsed, a number of other candidates, Pennsylvania, <span class='selected-term'>Herschel Walker</span>, Georgia.",
+    "author": "",
+    "title": "Full transcript of \"Face the Nation\" on May 1, 2022",
     "sentiment": null
   },
   {
@@ -3636,21 +3636,21 @@
     "sentiment": null
   },
   {
-    "id": 3525,
-    "mediaId": 157,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "IN OTHER NEWS: 'It's going to be a tough day': Georgia Republicans concerned over <span class='selected-term'>Herschel Walker</span>'s Senate run\nThe Republican Party itself stood right beside him, having quietly invited white supremacists into their ranks in the 1970s with Nixons Southern Strategy?; doubled down on it in 1980 when Reagans first official campaign speech was in Mississippi where 3 civil rights workers were murdered; and approved of racism as an overt political strategy when they refused to ostracize Trump for his primary announcement that Mexicans were rapists and murderers.",
-    "author": "Thom Hartmann",
-    "title": "The Buffalo terrorist didn't shoot alone",
-    "sentiment": null
-  },
-  {
     "id": 4489,
     "mediaId": 157,
     "date": "5/17/2022 12:00:00 AM",
     "sentence": "Vance in Ohio, <span class='selected-term'>Herschel Walker</span> in Georgia and Mehmet Oz in Pennsylvania -- in races around the country, and the \"Morning Joe\" host said they're unlikely to win Democratic votes and might not excite enough Republican voters.",
     "author": "Travis Gettys",
     "title": "'McConnell's worst nightmare': Morning Joe says Trump's 'bonkers' base is pushing for unelectable candidates",
+    "sentiment": null
+  },
+  {
+    "id": 3525,
+    "mediaId": 157,
+    "date": "5/17/2022 12:00:00 AM",
+    "sentence": "IN OTHER NEWS: 'It's going to be a tough day': Georgia Republicans concerned over <span class='selected-term'>Herschel Walker</span>'s Senate run\nThe Republican Party itself stood right beside him, having quietly invited white supremacists into their ranks in the 1970s with Nixons Southern Strategy?; doubled down on it in 1980 when Reagans first official campaign speech was in Mississippi where 3 civil rights workers were murdered; and approved of racism as an overt political strategy when they refused to ostracize Trump for his primary announcement that Mexicans were rapists and murderers.",
+    "author": "Thom Hartmann",
+    "title": "The Buffalo terrorist didn't shoot alone",
     "sentiment": null
   },
   {
@@ -3942,33 +3942,6 @@
     "sentiment": null
   },
   {
-    "id": 7228,
-    "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "This fall, Mr. Warnock is expected to face <span class='selected-term'>Herschel Walker</span>, the Republican former football star with scant political experience.",
-    "author": "",
-    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality",
-    "sentiment": null
-  },
-  {
-    "id": 7224,
-    "mediaId": 129,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "A recent Atlanta Journal-Constitution poll of likely Republican voters shows the U.S. Senate candidate and former University of Georgia running back <span class='selected-term'>Herschel Walker</span> with a big lead in his primary race, likely aided by both Mr. Trumps endorsement and Mr. Walkers status as a football legend.",
-    "author": "",
-    "title": "What Donald Trump Didnt Count On in Georgia",
-    "sentiment": null
-  },
-  {
-    "id": 7525,
-    "mediaId": 178,
-    "date": "5/22/2022 12:00:00 AM",
-    "sentence": "But there are many, many other reasons, I think, to be concerned about <span class='selected-term'>Herschel Walker</span> as a Senate candidate.''",
-    "author": "",
-    "title": "Herschel Walker: From football stardom to troubling Senate candidate",
-    "sentiment": null
-  },
-  {
     "id": 7520,
     "mediaId": 157,
     "date": "5/22/2022 12:00:00 AM",
@@ -3984,6 +3957,33 @@
     "sentence": "Meanwhile, Trump's chosen candidate <span class='selected-term'>Herschel Walker</span> has proven to be just as big of a disaster.",
     "author": "Sarah K. Burris",
     "title": "How the Republican Party's deal with Trump is leading to chaos in Georgia GOP elections",
+    "sentiment": null
+  },
+  {
+    "id": 7525,
+    "mediaId": 178,
+    "date": "5/22/2022 12:00:00 AM",
+    "sentence": "But there are many, many other reasons, I think, to be concerned about <span class='selected-term'>Herschel Walker</span> as a Senate candidate.''",
+    "author": "",
+    "title": "Herschel Walker: From football stardom to troubling Senate candidate",
+    "sentiment": null
+  },
+  {
+    "id": 7228,
+    "mediaId": 129,
+    "date": "5/22/2022 12:00:00 AM",
+    "sentence": "This fall, Mr. Warnock is expected to face <span class='selected-term'>Herschel Walker</span>, the Republican former football star with scant political experience.",
+    "author": "",
+    "title": "Democrats Fight Headwinds in Georgia and Beyond: The Problem Is Reality",
+    "sentiment": null
+  },
+  {
+    "id": 7224,
+    "mediaId": 129,
+    "date": "5/22/2022 12:00:00 AM",
+    "sentence": "A recent Atlanta Journal-Constitution poll of likely Republican voters shows the U.S. Senate candidate and former University of Georgia running back <span class='selected-term'>Herschel Walker</span> with a big lead in his primary race, likely aided by both Mr. Trumps endorsement and Mr. Walkers status as a football legend.",
+    "author": "",
+    "title": "What Donald Trump Didnt Count On in Georgia",
     "sentiment": null
   },
   {
@@ -4077,6 +4077,15 @@
     "sentiment": null
   },
   {
+    "id": 7509,
+    "mediaId": 1576,
+    "date": "5/23/2022 12:00:00 AM",
+    "sentence": "There are still kids who will wear <span class='selected-term'>Herschel Walker</span>s football jerseys some 40 years after he played for the University of Georgia.",
+    "author": "",
+    "title": "Herschel Walker's ties to veterans program face scrutiny",
+    "sentiment": null
+  },
+  {
     "id": 7497,
     "mediaId": 1576,
     "date": "5/23/2022 12:00:00 AM",
@@ -4092,15 +4101,6 @@
     "sentence": "AGRICULTURE COMMISSIONER\nAgriculture Commissioner Gary Black isnt seeking reelection, opting instead to run for U.S. Senate in the Republican primary that includes former football great <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
     "title": "Incumbents in Georgia face primary opponents down the ballot",
-    "sentiment": null
-  },
-  {
-    "id": 7509,
-    "mediaId": 1576,
-    "date": "5/23/2022 12:00:00 AM",
-    "sentence": "There are still kids who will wear <span class='selected-term'>Herschel Walker</span>s football jerseys some 40 years after he played for the University of Georgia.",
-    "author": "",
-    "title": "Herschel Walker's ties to veterans program face scrutiny",
     "sentiment": null
   },
   {
@@ -4212,24 +4212,6 @@
     "sentiment": null
   },
   {
-    "id": 7470,
-    "mediaId": 178,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "His preferred Senate candidate in Georgia, <span class='selected-term'>Herschel Walker</span>, easily won the GOP nomination despite warnings from Walker's Republican competitors about his history of domestic violence and mental health struggles.",
-    "author": "STEVE PEOPLES and JEFF AMY Associated Press",
-    "title": "Kemp wins Georgia GOP gov's race in stinging rebuke of Trump",
-    "sentiment": null
-  },
-  {
-    "id": 7459,
-    "mediaId": 178,
-    "date": "5/24/2022 12:00:00 AM",
-    "sentence": "In a stark reminder of the issue's divisiveness, Biden's call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
-    "author": "ZEKE MILLER and CHRIS MEGERIAN Associated Press",
-    "title": "Biden says 'we have to act' after Texas school shooting",
-    "sentiment": null
-  },
-  {
     "id": 7450,
     "mediaId": 157,
     "date": "5/24/2022 12:00:00 AM",
@@ -4311,12 +4293,21 @@
     "sentiment": null
   },
   {
-    "id": 7451,
-    "mediaId": 1576,
+    "id": 7470,
+    "mediaId": 178,
     "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Democratic U.S. Sen. Raphael Warnock will face Republican football legend <span class='selected-term'>Herschel Walker</span> for a coveted Senate seat in Georgia after both handily defeated primary challengers on Tuesday to set up a historic, high-stakes showdown.",
-    "author": "",
-    "title": "Georgia US Senate race will pit Warnock against Walker",
+    "sentence": "His preferred Senate candidate in Georgia, <span class='selected-term'>Herschel Walker</span>, easily won the GOP nomination despite warnings from Walker's Republican competitors about his history of domestic violence and mental health struggles.",
+    "author": "STEVE PEOPLES and JEFF AMY Associated Press",
+    "title": "Kemp wins Georgia GOP gov's race in stinging rebuke of Trump",
+    "sentiment": null
+  },
+  {
+    "id": 7459,
+    "mediaId": 178,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "In a stark reminder of the issue's divisiveness, Biden's call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
+    "author": "ZEKE MILLER and CHRIS MEGERIAN Associated Press",
+    "title": "Biden says 'we have to act' after Texas school shooting",
     "sentiment": null
   },
   {
@@ -4329,6 +4320,15 @@
     "sentiment": null
   },
   {
+    "id": 7476,
+    "mediaId": 188,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "Former NFL player <span class='selected-term'>Herschel Walker</span>, another Trump-backed candidate, secured victory in the Republican primary for U.S. Senate in Georgia, according to an AP race call, and will now go up against Democratic Sen. Raphael Warnock.",
+    "author": "Alex Nitzberg",
+    "title": "Georgia Gov. Brian Kemp defeats Trump-backed David Perdue in Peach State gubernatorial primary; Kemp will face off against Democrat Stacey Abrams during the general election",
+    "sentiment": null
+  },
+  {
     "id": 7477,
     "mediaId": 234,
     "date": "5/24/2022 12:00:00 AM",
@@ -4338,12 +4338,12 @@
     "sentiment": null
   },
   {
-    "id": 7476,
-    "mediaId": 188,
+    "id": 7451,
+    "mediaId": 1576,
     "date": "5/24/2022 12:00:00 AM",
-    "sentence": "Former NFL player <span class='selected-term'>Herschel Walker</span>, another Trump-backed candidate, secured victory in the Republican primary for U.S. Senate in Georgia, according to an AP race call, and will now go up against Democratic Sen. Raphael Warnock.",
-    "author": "Alex Nitzberg",
-    "title": "Georgia Gov. Brian Kemp defeats Trump-backed David Perdue in Peach State gubernatorial primary; Kemp will face off against Democrat Stacey Abrams during the general election",
+    "sentence": "Democratic U.S. Sen. Raphael Warnock will face Republican football legend <span class='selected-term'>Herschel Walker</span> for a coveted Senate seat in Georgia after both handily defeated primary challengers on Tuesday to set up a historic, high-stakes showdown.",
+    "author": "",
+    "title": "Georgia US Senate race will pit Warnock against Walker",
     "sentiment": null
   },
   {
@@ -5010,6 +5010,105 @@
     "sentence": "https://t.co/ekVgWmaEkM\n The Washington Post (@washingtonpost) May 27, 2022\nThe beneficiaries of the couples contributions include <span class='selected-term'>Herschel Walker</span>, who emerged victorious in Tuesdays primaries.",
     "author": "Rebecca Downs",
     "title": "Another Day, Another Bad Take From WaPo on Uvalde Shooting",
+    "sentiment": null
+  },
+  {
+    "id": 8758,
+    "mediaId": 223,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Despite Kemp's break from Trump, he shares no such break with the U.S. Senate primary winner <span class='selected-term'>Herschel Walker</span>, whom Trump endorsed and won easily Tuesday evening.",
+    "author": "Salena Zito",
+    "title": "Ignoring the Noise and Running on Good Governing Are the Biggest Lessons of Georgia",
+    "sentiment": null
+  },
+  {
+    "id": 8743,
+    "mediaId": 195,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "The browser does not support the specified video codec\n<span class='selected-term'>Herschel Walker</span>, the Georgia Republican Senate nominee and former NFL player, said he's mad at former President Trump for claiming he was the one who lured Walker into the race to unseat Sen. Raphael Warnock (D-Ga.).",
+    "author": "Max Greenwood",
+    "title": "Herschel Walker mad' at Trump over remarks about Senate bid",
+    "sentiment": null
+  },
+  {
+    "id": 8741,
+    "mediaId": 195,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Warnock, who won in a special election in 2021, is running for a full term of his own this year against former football star <span class='selected-term'>Herschel Walker</span>, and former state House Minority Leader Stacey Abrams is trying to unseat Gov.",
+    "author": "Max Greenwood",
+    "title": "Campaign Report  Biden confronts his most serious midterm issue",
+    "sentiment": null
+  },
+  {
+    "id": 8928,
+    "mediaId": 21,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Megan Varner/Getty Images\n<span class='selected-term'>Herschel Walker</span> said he's \"mad\" at former President Trump for comments about his Georgia Senate run.",
+    "author": "John L. Dorman",
+    "title": "Herschel Walker says he's 'mad' that Trump is 'taking credit' for his decision to run in the Georgia Senate race",
+    "sentiment": null
+  },
+  {
+    "id": 8739,
+    "mediaId": 136,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "\"Wouldn't it be fantastic if the legendary <span class='selected-term'>Herschel Walker</span> ran for the United States Senate in Georgia?\"",
+    "author": "Aila Slisco",
+    "title": "God, Not Trump, Inspired Herschel Walker to Run for Office, NFL Star Says",
+    "sentiment": null
+  },
+  {
+    "id": 8926,
+    "mediaId": 238,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "In Georgia, Josh Clark, a Republican Senate candidate who recently lost the primary to former football star <span class='selected-term'>Herschel Walker</span>, said in March that he planned to give away an AR-15 every week until the election.",
+    "author": "Colby Itkowitz",
+    "title": "Guns are all over GOP ads and social media, prompting some criticism",
+    "sentiment": null
+  },
+  {
+    "id": 8733,
+    "mediaId": 157,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The drama over the governor's race occurs as Georgia Republicans also try to take down Sen. Raphael Warnock (D-GA), against whom they have nominated Trump-approved former football player <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Matthew Chapman",
+    "title": "'Enormous anxiety' among Georgia GOP that Trump will sabotage them again this fall: reporter",
+    "sentiment": null
+  },
+  {
+    "id": 8923,
+    "mediaId": 223,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Source: AP Photo/Ben Gray\n<span class='selected-term'>Herschel Walker</span> and Donald Trump have been good friends for decades, dating back to 1983 when the Heisman Trophy winner was drafted by the New Jersey Generals, which was under Trump's ownership at the time.",
+    "author": "Leah Barkoukis",
+    "title": "Why Herschel Walker Is 'Mad' at Trump",
+    "sentiment": null
+  },
+  {
+    "id": 8920,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "It's a nuanced message at best, one Democratic strategist said of the incumbent senator who is up for reelection this year in a competitive race against Republican <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Amie Parnes",
+    "title": "Haunted Democrats fear gun control measures could cost them in midterms",
+    "sentiment": null
+  },
+  {
+    "id": 8918,
+    "mediaId": 136,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Georgia\nThe contest between Senator Raphael Warnock and former football star <span class='selected-term'>Herschel Walker</span> is looking to be one of the closest watched in the midterms.",
+    "author": "Jason Lemon",
+    "title": "Republicans' Chances of Beating Democrats for Control of Senate in Midterms",
+    "sentiment": null
+  },
+  {
+    "id": 8917,
+    "mediaId": 65,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "\"But just like his record of skyrocketing inflation, wallet busting gas prices, or surging crime in our communities, the voters of Georgia see what Warnock has done  and it's why they're going to elect a true leader and problem solver in <span class='selected-term'>Herschel Walker</span> come November,\" Lawson continued.",
+    "author": "Jessica Chasmar",
+    "title": "Warnock pushes Georgia voting suppression claims, despite voters shattering turnout records",
     "sentiment": null
   }
 ]

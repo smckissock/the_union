@@ -5,14 +5,23 @@
   "headline": "Texas Regulation of Social-Media Platforms Allowed by Appeals Court",
   "image": "https://images.wsj.net/im-542718/?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/texas-regulation-of-social-media-platforms-allowed-by-appeals-court-11652322676",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jacob Gershman",
   "authorUrl": "https://www.wsj.com/news/author/jacob-gershman",
   "termIds": [
-    661
+    661,
+    800,
+    1647,
+    2429,
+    2517,
+    3701,
+    428,
+    3602,
+    2557,
+    2934
   ],
   "sentences": [
     "Republican Texas Attorney General Ken Paxton tweeted that HB 20 is back in effect,? saying the Fifth Circuit made the right call here.?\nMatt Schruers, president of the Computer & Communications Industry Association, tweeted in response to the ruling: This unexplained order contravenes established First Amendment law.? The group co-filed the lawsuit against HB 20 with NetChoice, another trade organization.",

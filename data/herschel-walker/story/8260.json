@@ -5,14 +5,23 @@
   "headline": "OPINION: Raphael Warnocks year of victories, defeats, and Senate prayers",
   "image": "https://www.ajc.com/resizer/ISzNuhBRjGdGvJygqzaDKdzk_R4=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/6JSZGBFWYVE4HOBBDEXSS5N7VU.jpg",
   "link": "https://www.ajc.com/politics/opinion-raphael-warnocks-senate-prayers/7BLOSGJJSNGHTIQHJEWD54DPSM/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Patricia Murphy",
   "authorUrl": "https://www.ajc.com/staff/patricia-murphy/",
   "termIds": [
-    815
+    815,
+    1136,
+    1710,
+    1951,
+    2087,
+    2230,
+    428,
+    571,
+    2672,
+    2959
   ],
   "sentences": [
     "As a part of his job, Warnock was also appointed to the Senates Agriculture, Banking and Commerce committees and pushed bills to directly help Black farmers, send money and missions to Georgia military installations, and spend more than $1 trillion to build roads, bridges, and other new infrastructure projects around the country.",

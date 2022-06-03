@@ -5,14 +5,23 @@
   "headline": "GOP Leaders Remain Shackled to Donald Trump",
   "image": "https://images.wsj.net/im-530707?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/elite-republicans-really-think-of-donald-trump-truth-politics-gop-the-big-lie-resign-kevin-mccarthy-2020-2024-presidential-election-jan-6-capitol-hill-riot-protest-11650898092",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Gerard Baker",
   "authorUrl": "https://www.wsj.com/news/author/gerard-baker",
   "termIds": [
-    2095
+    886,
+    1147,
+    1609,
+    2095,
+    81,
+    156,
+    234,
+    428,
+    2590,
+    4917
   ],
   "sentences": [
     "There are too many capable Republicans who uphold high conservative ideals while embracing the populist values that are energizing the partys base, understand the need to abide by the U.S. Constitution, and believe in the importance of a Republican victory more than the satisfaction of their own self-grievance for it to be willingly shackled once again to the vanities of a cynical opportunist.",

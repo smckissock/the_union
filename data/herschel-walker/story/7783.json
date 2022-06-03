@@ -5,14 +5,22 @@
   "headline": "Poll: Republican Herschel Walker Shows 5-Point Lead over Democrat Sen. Raphael Warnock",
   "image": "https://media.breitbart.com/media/2022/01/GettyImages-1235507269-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/13/poll-republican-herschel-walker-five-point-lead-democrat-sen-raphael-warnock/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jacob Bliss",
   "authorUrl": "https://www.breitbart.com/author/jbliss/",
   "termIds": [
-    815
+    815,
+    1136,
+    2087,
+    146,
+    147,
+    428,
+    571,
+    2672,
+    2945
   ],
   "sentences": [
     "Last month, President Joe Biden attempted to indirectly meddle in the Senate race by kicking Walker, who was appointed by former President Donald Trump, off the Presidents Council on Sports, Fitness & Nutrition.",

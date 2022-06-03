@@ -5,14 +5,19 @@
   "headline": "Clayton Schools drops mask mandate in response to new Georgia law",
   "image": "https://www.ajc.com/resizer/kWQDdLiZFquW3fFX-eraqWHmNJo=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/B23MYFMWMBAKBEZFLIREYYUJ24.jpg",
   "link": "https://www.ajc.com/news/atlanta-news/clayton-schools-dropping-mask-mandate-to-comply-with-new-state-law/3YNJQTJKQBBPPLOA73J33U4TDQ/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Leon Stafford",
   "authorUrl": "https://www.ajc.com/staff/leon-stafford/",
   "termIds": [
-    2095
+    2095,
+    3187,
+    2555,
+    2613,
+    2646,
+    5116
   ],
   "sentences": [
     "We have used data and guidelines as provided by local, state, and federal officials in making the decisions to accomplish this.?\nBeasley said Kemps signing of the opt out? legislation created a mandate and that the decision impedes local control.",

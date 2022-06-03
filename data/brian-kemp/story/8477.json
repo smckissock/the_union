@@ -5,14 +5,21 @@
   "headline": "Trump was 'stunned' by Georgia Secretary of State Brad Raffensperger's Republican primary victory: report",
   "image": "https://i.insider.com/6293a5b1ff955c0019c5ecc3?width=1000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-raffensperger-stunned-georgia-secretary-state-republican-primary-win-report-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "John L. Dorman",
   "authorUrl": "https://www.businessinsider.com/author/john-l-dorman",
   "termIds": [
-    2095
+    1147,
+    1368,
+    2087,
+    2095,
+    2203,
+    2279,
+    428,
+    2672
   ],
   "sentences": [
     "In the months between the November 2020 general election and Biden's inauguration, Trump cajoled both Kemp and Raffensperger to overturn the election results, calling for a special legislative session to install pro-Trump electors who would disregard Biden's statewide victory.",

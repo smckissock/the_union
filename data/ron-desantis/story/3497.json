@@ -5,14 +5,22 @@
   "headline": "Republican Who Put Tent on Nancy Pelosi's Lawn Slams DeSantis Protest Law",
   "image": "https://d.newsweek.com/en/full/2039771/laura-loomer.webp?w=790&f=eceb35d9f1a9524744c30372a8116a23",
   "link": "https://www.newsweek.com/laura-loomer-ron-desantis-florida-residence-protest-law-1707579",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Adam Staten",
   "authorUrl": "https://www.newsweek.com/authors/adam-staten",
   "termIds": [
-    661
+    661,
+    1335,
+    4515,
+    428,
+    482,
+    539,
+    562,
+    2590,
+    2661
   ],
   "sentences": [
     "Loomer, in the post stating her opposition to the law, mentioned a 2019 protest at Nancy Pelosi's California residence, where Loomer reportedly jumped a fence and set up a tent on the yard, calling it \"one of my most effective protests.\"",

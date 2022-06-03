@@ -5,14 +5,20 @@
   "headline": "Disney Just Fired Its Corporate-Affairs Chief",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/04/disney-dont-say-gay-protest.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/disney-just-fired-its-corporate-affairs-chief/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kyle Smith",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1241,
+    4332,
+    4704,
+    524,
+    3508,
+    2661
   ],
   "sentences": [
     "Geoff Morrell, a former Pentagon spokesman who spent only three weeks as Disneys head of corporate affairs, was said in a terse Friday-afternoon corporate memo to be leaving the company to pursue other opportunities.?\nDeadline reports: The hope at the highest level is that Morrells removal and the new reorganization will allow the media giant to come out from underneath the falling debris of the current situation.? And who caused that debris to fall?",

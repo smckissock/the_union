@@ -5,14 +5,21 @@
   "headline": "The GOPs political stunts come at a high cost for Americans",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1120w,f_auto,q_auto:best/rockcms/2022-05/38-ROB-GOP-Political-Stunts-jg-a7be39.jpg",
   "link": "https://www.msnbc.com/the-reidout/reidout-blog/desantis-taxpayers-republicans-abbott-rcna26897",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "MSNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ja'han Jones",
   "authorUrl": "https://www.msnbc.com/author/ja-jones-ncpn371241",
   "termIds": [
-    661
+    661,
+    2087,
+    2250,
+    4066,
+    428,
+    524,
+    2661,
+    2945
   ],
   "sentences": [
     "At the national level, Republicans are goading Democrats into a game of chicken over Covid funding, claiming theyll block passage of any bill funding the pandemic response unless Democrats move to reinstate Title 42, the immigration policy that lets the U.S. turn migrants away on public health grounds.",

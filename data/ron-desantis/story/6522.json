@@ -5,7 +5,7 @@
   "headline": "At the Races: NY state of turmoil",
   "image": "https://i0.wp.com/cdn.media.rollcall.com/author/2019/10/AT-THE-RACES-LOGO-20202400x1300.jpg?fit=1240,698",
   "link": "https://www.rollcall.com/2022/05/19/at-the-races-ny-state-of-turmoil/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Roll Call",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,10 +14,18 @@
   "termIds": [
     661,
     821,
+    1147,
+    1226,
+    1609,
+    2087,
     2303,
     3094,
     3103,
-    3104
+    3104,
+    5304,
+    5375,
+    5431,
+    142
   ],
   "sentences": [
     "The Democratic Congressional Campaign Committee urged the state's highest court in a letter Wednesday, provided to Roll Call, to make immediate changes.\nBut regardless of the court's decision, the episode has already wreaked havoc among Democratic leaders and laid bare tensions within the caucus that have been simmering all cycle  due in no small part to the role DCCC Chair Sean Patrick Maloney has played as he fights to protect his own political future as a member of the New York delegation.",

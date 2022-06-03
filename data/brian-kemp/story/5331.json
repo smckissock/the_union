@@ -5,14 +5,15 @@
   "headline": "End of session passed flurry of health bills",
   "image": "https://www.wabe.org/app/uploads/2022/01/GoldDome.021119-e1575903082217-1-336x189.jpg",
   "link": "https://www.wabe.org/end-of-session-passed-flurry-of-health-bills/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    2672
   ],
   "sentences": [
     "Also passed during this session was a bill increasing lead poisoning protections and enforcement for children, something state regulators have identified as an extensive problem in Georgia.",

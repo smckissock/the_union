@@ -5,14 +5,19 @@
   "headline": "Coveted Donald Trump Endorsement Goes to J.D. Vance in Ohio Senate Race",
   "image": "",
   "link": "https://www.newsweek.com/coveted-donald-trump-endorsement-goes-jd-vance-ohio-senate-race-1698374",
-  "sentiment": "0",
+  "sentiment": "0.612",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Patricia McKnight",
   "authorUrl": "https://www.newsweek.com/authors/patricia-mcknight",
   "termIds": [
-    3103
+    1147,
+    1801,
+    3103,
+    380,
+    571,
+    2845
   ],
   "sentences": [
     "The Senate race in Ohio has several candidates who've announced their allegiance to Trump, but the former president finally chose Vance in a much-anticipated decision.",

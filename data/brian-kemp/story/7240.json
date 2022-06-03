@@ -5,14 +5,22 @@
   "headline": "Stacey Abrams says Georgia the worst state in the country to live, despite owning multiple houses there",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3e98f91-e688-4564-8658-65998a46c5c6/bf4bdba0-c201-4fa8-8c34-b5fd4c593e9b/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/stacey-abrams-georgia-worst-state-despite-owning-multiple-houses-there",
-  "sentiment": "0.0",
+  "sentiment": "-0.601",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jessica Chasmar",
   "authorUrl": "https://www.foxnews.com/person/c/jessica-chasmar",
   "termIds": [
-    2095
+    1951,
+    2095,
+    146,
+    428,
+    539,
+    5500,
+    2672,
+    2686,
+    5536
   ],
   "sentences": [
     "\"Im running for governor because I know that we have to have a conversation about who we are in this state and what we want for each other and from each other,\" Abrams said during a speech at the Gwinnett Democrats' Bluetopia Gala in Norcross, according to audio posted by the Gwinnett Daily Post.",

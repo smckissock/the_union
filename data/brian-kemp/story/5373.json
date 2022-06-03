@@ -5,14 +5,15 @@
   "headline": "Georgia bill ending need for gun license heads to governor",
   "image": "https://www.wabe.org/app/uploads/2022/02/Brian-Kemp013121-336x189.jpg",
   "link": "https://www.wabe.org/georgia-bill-ending-need-for-gun-license-heads-to-governor/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    2672
   ],
   "sentences": [
     "Georgia currently requires people to obtain a license to carry a loaded handgun outside their own homes, businesses or cars, although people can carry rifles and shotguns in many places without a permit and carry unloaded weapons in gun cases.",

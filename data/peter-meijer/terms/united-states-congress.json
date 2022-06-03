@@ -1,74 +1,74 @@
 [
   {
-    "id": 60,
-    "mediaId": 237,
-    "date": "2022-00-04",
-    "sentence": "It just doesn't seem productive,? Michigan Republican Rep. <span class='selected-term'>Peter Meijer</span> told the Washington Examiner.",
-    "author": "Emily Brooks",
-    "title": "Republican National Committee censures Liz Cheney and Kinzinger",
-    "sentiment": "0.0"
-  },
-  {
     "id": 87,
     "mediaId": 43,
-    "date": "2022-00-04",
+    "date": "1/4/2022 12:00:00 AM",
     "sentence": "? MI-03: Republican Rep. <span class='selected-term'>Peter Meijer</span> announced last week that he would defend the newly drawn 3rd District, which Michigan's new map transforms from a 51-47 Trump seat to a constituency Joe Biden would have carried 53-45.",
     "author": "",
     "title": "Morning Digest: Redistricting scrambled California's House map. Here's our guide to unscrambling it",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 24,
-    "mediaId": 238,
-    "date": "2022-00-05",
-    "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
-    "author": "Amy B Wang",
-    "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 26,
-    "mediaId": 261,
-    "date": "2022-00-05",
-    "sentence": "Also voting to impeach was U.S. Rep. <span class='selected-term'>Peter Meijer</span>, R-Grand Rapids, who is running for reelection this year despite Trump's endorsement of another candidate, John Gibbs.",
-    "author": "Todd Spangler",
-    "title": "Rep. Fred Upton announces retirement from Congress, has been in US House since 1987",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 80,
     "mediaId": 124,
-    "date": "2022-00-07",
+    "date": "1/7/2022 12:00:00 AM",
     "sentence": "Share this -\nAllan Smith\n9h ago / 8:32 PM UTC\nGOP Rep. who voted to impeach Trump shares video of House evacuation\nRep. <span class='selected-term'>Peter Meijer</span>, R-Mich., posted to Twitter a video he shot from the House gallery as the chamber was being evacuated during the Capitol riot.",
     "author": "",
     "title": "Jan. 6 Capitol riot: Full anniversary coverage",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
-    "id": 42,
-    "mediaId": 129,
-    "date": "2022-00-15",
-    "sentence": "It's grounding,? said Representative <span class='selected-term'>Peter Meijer</span>, Republican of Michigan, who was once an intelligence analyst in Afghanistan and now faces a challenger on his right endorsed by former President Donald J. Trump.",
-    "author": "",
-    "title": "Ukraine War Shifts the Agenda in Congress, Empowering the Center",
-    "sentiment": "0.0"
+    "id": 60,
+    "mediaId": 237,
+    "date": "2/4/2022 12:00:00 AM",
+    "sentence": "It just doesn't seem productive,? Michigan Republican Rep. <span class='selected-term'>Peter Meijer</span> told the Washington Examiner.",
+    "author": "Emily Brooks",
+    "title": "Republican National Committee censures Liz Cheney and Kinzinger",
+    "sentiment": "0"
   },
   {
     "id": 53,
     "mediaId": 124,
-    "date": "2022-00-22",
+    "date": "2/22/2022 12:00:00 AM",
     "sentence": "Three more Trump-endorsed candidates running against Republican House members who voted to impeach Trump over Jan. 6 will have a spot on stage: Loren Culp, who is challenging Rep. Dan Newhouse of Washington state; former Housing and Urban Development official John Gibbs, who is challenging Rep. <span class='selected-term'>Peter Meijer</span> of Michigan; and Russell Fry, who is challenging Rep. Tom Rice of South Carolina.",
     "author": "",
     "title": "Trump's Mar-a-Lago 'Magapalooza': Boost allies, settle scores",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 49,
     "mediaId": 21,
-    "date": "2022-00-28",
+    "date": "2/28/2022 12:00:00 AM",
     "sentence": "The political process was like a \"budding flower\" and CPAC networking was one piece, said John Gibbs, who is running in a Republican primary against Rep. <span class='selected-term'>Peter Meijer</span> of Michigan.",
     "author": "Kimberly Leonard",
     "title": "Inside the nation's most MAGA political boot camp where budding candidates work to build their conservative brand and score a few seconds with Donald Trump",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 42,
+    "mediaId": 129,
+    "date": "3/15/2022 12:00:00 AM",
+    "sentence": "It's grounding,? said Representative <span class='selected-term'>Peter Meijer</span>, Republican of Michigan, who was once an intelligence analyst in Afghanistan and now faces a challenger on his right endorsed by former President Donald J. Trump.",
+    "author": "",
+    "title": "Ukraine War Shifts the Agenda in Congress, Empowering the Center",
+    "sentiment": "0"
+  },
+  {
+    "id": 24,
+    "mediaId": 238,
+    "date": "4/5/2022 12:00:00 AM",
+    "sentence": "and <span class='selected-term'>Peter Meijer</span> (Mich.)  face tough primary challenges.",
+    "author": "Amy B Wang",
+    "title": "GOP Rep. Upton, who voted to impeach Trump, will not seek reelection",
+    "sentiment": "0"
+  },
+  {
+    "id": 26,
+    "mediaId": 261,
+    "date": "4/5/2022 12:00:00 AM",
+    "sentence": "Also voting to impeach was U.S. Rep. <span class='selected-term'>Peter Meijer</span>, R-Grand Rapids, who is running for reelection this year despite Trump's endorsement of another candidate, John Gibbs.",
+    "author": "Todd Spangler",
+    "title": "Rep. Fred Upton announces retirement from Congress, has been in US House since 1987",
+    "sentiment": "0"
   }
 ]

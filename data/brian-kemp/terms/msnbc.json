@@ -1,38 +1,38 @@
 [
   {
+    "id": 5037,
+    "mediaId": 157,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
+    "author": "Bob Brigham",
+    "title": "Crazytown: Former senator aghast Marjorie Taylor Greene has more power than Kevin McCarthy and Mitch McConnell",
+    "sentiment": "0"
+  },
+  {
+    "id": 4857,
+    "mediaId": 157,
+    "date": "4/29/2022 12:00:00 AM",
+    "sentence": "You have, in Georgia, <span class='selected-term'>Brian Kemp</span>, the Republican who was number one on Donald Trump's enemy list -- he hated him so much he said he'd support Stacey Abrams -- Kemp is humiliating his conspiracy opponent, David Perdue, right now, his pro-trump opponent.\"",
+    "author": "Tom Boggioni",
+    "title": "'QAnon freaks and lunatic fringe': Morning Joe panel goes off on 'crazy' Republicans",
+    "sentiment": "-0.829"
+  },
+  {
     "id": 4563,
     "mediaId": 65,
-    "date": "2022-00-11",
+    "date": "5/11/2022 12:00:00 AM",
     "sentence": "Back on April 2nd, 2020, she tweeted \"Reminder <span class='selected-term'>Brian Kemp</span> stole the gubernatorial election from Georgians and Stacey Abrams.\"",
     "author": "Greg Gutfeld",
     "title": "Greg Gutfeld: Karine Jean-Pierre's tweets matter",
     "sentiment": "0"
   },
   {
-    "id": 5037,
-    "mediaId": 157,
-    "date": "2022-00-21",
-    "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
-    "author": "Bob Brigham",
-    "title": "Crazytown: Former senator aghast Marjorie Taylor Greene has more power than Kevin McCarthy and Mitch McConnell",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7311,
     "mediaId": 65,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Nikolas Lanum",
     "title": "Georgia voting shattering turnout records after MSNBC, CNN, others ran with 'Jim Crow' accusations",
     "sentiment": "0"
-  },
-  {
-    "id": 4857,
-    "mediaId": 157,
-    "date": "2022-00-29",
-    "sentence": "You have, in Georgia, <span class='selected-term'>Brian Kemp</span>, the Republican who was number one on Donald Trump's enemy list -- he hated him so much he said he'd support Stacey Abrams -- Kemp is humiliating his conspiracy opponent, David Perdue, right now, his pro-trump opponent.\"",
-    "author": "Tom Boggioni",
-    "title": "'QAnon freaks and lunatic fringe': Morning Joe panel goes off on 'crazy' Republicans",
-    "sentiment": "-0.829"
   }
 ]

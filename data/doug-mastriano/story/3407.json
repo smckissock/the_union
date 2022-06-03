@@ -5,15 +5,24 @@
   "headline": "Pennsylvania Senate GOP Contest Headlines Crucial Slate of Primaries",
   "image": "https://images.wsj.net/im-545496/?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/pennsylvania-senate-gop-contest-headlines-crucial-slate-of-primaries-11652779802",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Aaron Zitner",
   "authorUrl": "https://www.wsj.com/news/author/aaron-zitner",
   "termIds": [
+    1147,
+    1653,
+    1990,
+    2087,
     2303,
-    3102
+    2491,
+    3102,
+    146,
+    428,
+    571,
+    2862
   ],
   "sentences": [
     "Brad Little is seeking a second term, but Mr. Trump has endorsed his challenger, the current lieutenant governor, Janice McGeachin, who has called herself an early supporter of Mr. Trump's first presidential campaign and practiced a controversial style of politics, twice issuing executive orders to loosen Covid-19 regulations while Mr. Little was out of the state.",

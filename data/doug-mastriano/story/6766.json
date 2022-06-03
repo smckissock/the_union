@@ -5,14 +5,20 @@
   "headline": "Trump-endorsed Jan. 6 protestor Doug Mastriano secures Pa. nomination",
   "image": "https://www.rawstory.com/media-library/doug-mastriano.jpg?id=29818594&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/doug-mastriano-jan-6/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bob Brigham",
   "authorUrl": "https://www.rawstory.com/u/bob_brigham",
   "termIds": [
-    3102
+    1147,
+    1990,
+    3102,
+    525,
+    550,
+    577,
+    2862
   ],
   "sentences": [
     "The select committee says Mastriano \"was part of a plan to arrange for an 'alternate' slate of electors from Pennsylvania for former President Trump and reportedly spoke with President Trump about post-election activities.\"",

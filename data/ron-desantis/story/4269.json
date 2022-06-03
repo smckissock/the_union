@@ -5,14 +5,23 @@
   "headline": "Rising: May 2, 2022",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/03/RISING-POSTING-TIMES-BG_01.png",
   "link": "https://thehill.com/hilltv/rising/3473575-rising-may-2-2022/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    762,
+    1335,
+    2087,
+    3705,
+    3724,
+    2661,
+    2870,
+    2942,
+    2945
   ],
   "sentences": [
     "Bidens new DISINFORMATION board leader thought Hunter laptop story was Russian misinfo: Robby Soave\nRobby Soave criticizes the Biden administrations new disinformation governance board underneath the Department of Homeland Security.",

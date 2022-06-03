@@ -5,14 +5,23 @@
   "headline": "'Reprehensible': Oz condemns GOP opponent's tweet on Islam",
   "image": "https://s.yimg.com/ny/api/res/1.2/BT5w1gU9POKNgsACQqkh2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/q_eI79F5quR3qFRvZV_XLw--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/8885ca21640e2a787d8dd5ea561bfbf0",
   "link": "https://nz.finance.yahoo.com/news/reprehensible-oz-condemns-gop-opponents-231218111.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "STEVE PEOPLES",
   "authorUrl": "",
   "termIds": [
-    3102
+    1653,
+    1990,
+    2491,
+    3102,
+    428,
+    539,
+    571,
+    2862,
+    2865,
+    5464
   ],
   "sentences": [
     "For months, the race for the Republican nomination for Pennsylvania's open Senate seat has been an expensive fight between former hedge fund CEO David McCormick and Oz, who have spent millions of dollars attacking each other on television.",

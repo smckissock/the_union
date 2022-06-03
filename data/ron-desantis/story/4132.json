@@ -5,14 +5,19 @@
   "headline": "Column: Corporations left California for lower taxes and fewer regulations. Will abortion rights bring them back?",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/8e8f34e/2147483647/strip/true/crop/5400x3600+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2F9f%2F056e9e4c44a1a03fc56eae8a8c82%2Fap21181779895503.jpg",
   "link": "https://www.latimes.com/business/story/2022-05-03/roe-v-wade-supreme-court-abortion-rights-california-corporations",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Michael Hiltzik",
   "authorUrl": "https://www.latimes.com/people/michael-hiltzik",
   "termIds": [
-    661
+    661,
+    482,
+    3183,
+    2798,
+    2934,
+    2945
   ],
   "sentences": [
     "Abortion regulations tend to track more general healthcare and social policies in most states; those that have enacted the harshest restrictions on abortion also tend to have less accommodating public health policies, such as less generous Medicaid programs and fewer mandates for commercial health plans, and less accommodative policies against discrimination.",

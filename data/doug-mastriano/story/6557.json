@@ -5,14 +5,24 @@
   "headline": "Johnny Depp and Other Pirates",
   "image": "https://static01.nyt.com/images/2022/05/21/opinion/21Dowd/21Dowd-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/05/21/opinion/johnny-depp-george-w-bush.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    913,
+    1539,
+    2030,
+    2087,
+    3102,
+    5262,
+    5312,
+    2558,
+    2590,
+    2942,
+    2959
   ],
   "sentences": [
     "As Reid Epstein wrote in The Times, Republican voters in Pennsylvania anointed right-wing gubernatorial candidate Doug Mastriano, who helped lead the brazen effort to overturn the states 2020 election and chartered buses to the rally before the Capitol riot, and who has since promoted a constitutionally impossible effort to decertify President Bidens victory in his state.?\nMastriano spread conspiracies about 2020 phantom ballots, hacked machines and dead voters.",

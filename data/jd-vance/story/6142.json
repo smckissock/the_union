@@ -5,14 +5,24 @@
   "headline": "Fox News Poll: Vance moves into top spot in Ohio GOP Senate primary",
   "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/639262ef-558a-4d1f-aafb-9af23e0224a8/1306593d-8947-4a33-8c08-054e2e6bce66/1280x720/match/931/524/image.jpg?ve=1&tl=1",
   "link": "https://www.foxnews.com/official-polls/fox-news-poll-vance-moves-top-spot-ohio-gop-senate-primary",
-  "sentiment": "0",
+  "sentiment": "0.922",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3103
+    946,
+    1801,
+    2027,
+    2466,
+    3103,
+    4682,
+    200,
+    379,
+    428,
+    571,
+    2845
   ],
   "sentences": [
     "Conducted April 20-24, 2022 under the joint direction of Beacon Research (D) and Shaw & Company Research (R), this Fox News Poll includes telephone interviews (landline and cellphone) with live interviewers among 906 Ohio Republican primary voters and has a margin of sampling error of plus or minus three percentage points.",

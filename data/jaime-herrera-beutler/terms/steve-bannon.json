@@ -1,20 +1,20 @@
 [
   {
-    "id": 61,
-    "mediaId": 165,
-    "date": "2022-00-03",
-    "sentence": "Joe Kent, the Army Special Forces veteran running to unseat Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.), also couldn't match the incumbent's haul, although the that the gap is narrower ($297,000 for Kent and $422,000 for Butler in the fourth quarter) than some of the other races, perhaps due to his frequent appearances throughout right-wing media, including Steve Bannon's podcast.",
-    "author": "William Vaillancourt",
-    "title": "Republicans Who Voted to Impeach Trump Are Fundraising Laps Around Their MAGA Primary Opponents",
-    "sentiment": "0.0"
-  },
-  {
     "id": 76,
     "mediaId": 120,
-    "date": "2022-00-17",
+    "date": "1/17/2022 12:00:00 AM",
     "sentence": "As for the rest of the contingent  Washington's <span class='selected-term'>Jaime Herrera Beutler</span>, Wyoming's Liz Cheney, Michigan's Peter Meijer, Washington's Dan Newhouse, South Carolina's Tom Rice, and California's David Valadao  each appear to be running for re-election this year.",
     "author": "Steve Benen",
     "title": "Another GOP member of the Impeachment 10 heads for the exits",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 61,
+    "mediaId": 165,
+    "date": "2/3/2022 12:00:00 AM",
+    "sentence": "Joe Kent, the Army Special Forces veteran running to unseat Rep. <span class='selected-term'>Jaime Herrera Beutler</span> (R-Wash.), also couldn't match the incumbent's haul, although the that the gap is narrower ($297,000 for Kent and $422,000 for Butler in the fourth quarter) than some of the other races, perhaps due to his frequent appearances throughout right-wing media, including Steve Bannon's podcast.",
+    "author": "William Vaillancourt",
+    "title": "Republicans Who Voted to Impeach Trump Are Fundraising Laps Around Their MAGA Primary Opponents",
+    "sentiment": "0"
   }
 ]

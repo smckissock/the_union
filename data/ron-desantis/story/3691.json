@@ -5,14 +5,19 @@
   "headline": "Roe v. Wade Overturn Could Force Male Birth Control Pill Development",
   "image": "https://d.newsweek.com/en/full/2035712/man-holding-pills.webp?w=790&f=b9d2d122c796f81290ca99a26526069b",
   "link": "https://www.newsweek.com/roe-wade-supreme-court-abortion-overturn-male-pill-1705714",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ed Browne",
   "authorUrl": "https://www.newsweek.com/authors/ed-browne",
   "termIds": [
-    661
+    661,
+    4740,
+    482,
+    3335,
+    3381,
+    2945
   ],
   "sentences": [
     "The point was echoed by Dr. Christina Wang, a male reproductive medicine specialist from the Lundquist Institute at Harbor-UCLA medical center, who told Newsweek that male contraceptive pills \"are necessary anyway\" but that changes occurring in the U.S. \"may stimulate more development of both female and male contraceptives.\"",

@@ -1,20 +1,20 @@
 [
   {
-    "id": 3966,
-    "mediaId": 129,
-    "date": "2022-00-06",
-    "sentence": "Right now, Republicans of all stripes  <span class='selected-term'>Ron DeSantis</span>, J.D.",
-    "author": "",
-    "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It.",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5260,
     "mediaId": 129,
-    "date": "2022-00-07",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "Donald Trump will talk about how, oh, <span class='selected-term'>Ron DeSantis</span> is fine, but I would absolutely beat him in 2024.",
     "author": "",
     "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 3966,
+    "mediaId": 129,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "Right now, Republicans of all stripes  <span class='selected-term'>Ron DeSantis</span>, J.D.",
+    "author": "",
+    "title": "Donald Trump Didnt Hijack the G.O.P. He Understood It.",
+    "sentiment": "0"
   }
 ]

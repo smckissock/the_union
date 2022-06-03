@@ -5,14 +5,23 @@
   "headline": "House Democrats scramble after redistricting lessens competitive edge",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/21/democrats-redistricting/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Colby Itkowitz",
   "authorUrl": "https://www.washingtonpost.com/people/colby-itkowitz/",
   "termIds": [
-    661
+    661,
+    1226,
+    1587,
+    2087,
+    5288,
+    140,
+    146,
+    562,
+    3292,
+    2661
   ],
   "sentences": [
     "Democratic leaders in states like California, Colorado and Oregon established independent commissions to more transparently draw new district lines that they hoped would be less partisan and more representative  but doing so seems to have put the party at a disadvantage given that Republicans in several states, including DeSantis, were still determined to draw maps as favorably as possible for their party.",

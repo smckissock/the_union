@@ -5,7 +5,7 @@
   "headline": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
   "image": "https://static01.nyt.com/images/2022/05/18/multimedia/18pol-deniers-mastriano/18pol-deniers-mastriano-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/18/us/politics/midterms-trump-2020-election.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,15 @@
   "authorUrl": "",
   "termIds": [
     815,
+    1147,
+    1990,
+    2087,
     2095,
-    3102
+    3102,
+    4325,
+    428,
+    2672,
+    2862
   ],
   "sentences": [
     "In North Carolina, Mr. Budd, who objected to the 2020 results after the Jan. 6 attack on the Capitol, began his campaign by calling Mr. Bidens victory legitimate.? After a year of the primary campaign and following Mr. Trumps endorsement, hed backtracked and on Tuesday said he had constitutional concerns about 2020.?\nEven Republican candidates who dont subscribe to the most radical theories aiming to overturn past elections are playing political footsie with those who do.",

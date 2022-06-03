@@ -5,14 +5,19 @@
   "headline": "When it comes to offseason promises, Dallas Cowboys owner Jerry Jones is the GOAT",
   "image": "https://s.yimg.com/ny/api/res/1.2/M_ELIkuqu8tUYONXhQfCng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTg4NDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/LI.mknZMmBa2UDhePUPDag--~B/aD0xNDMwO3c9MTE0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fort_worth_star_telegram_mcclatchy_952/ac56c441c849cc5b42c851c7eeaf3b55",
   "link": "https://news.yahoo.com/jerry-jones-had-dollar-every-100000606.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    5694,
+    5818,
+    5964,
+    5971,
+    5579
   ],
   "sentences": [
     "February 2005\nThe Cowboys were aggressive in the offseason, adding veterans such as quarterback Drew Bledsoe, defensive tackle Jason Ferguson, guard Marco Rivera and defensive back Anthony Henry.",

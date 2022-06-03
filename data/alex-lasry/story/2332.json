@@ -5,7 +5,7 @@
   "headline": "Opinion: Democrats must make a strategic choice in Wisconsin's Senate race",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/04/13/wisconsin-senate-primary-democrats-must-make-strategic-choice-mandela-barnes/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,7 +15,14 @@
     741,
     802,
     1568,
-    2039
+    1925,
+    2039,
+    146,
+    318,
+    428,
+    571,
+    2855,
+    2972
   ],
   "sentences": [
     "One can imagine that Sen. Ron Johnson, the Republican incumbent whom Barnes would face should he win his party's nomination, would like nothing more than to make this a race against socialism.? Johnson has a boatload of controversies and gaffes, including his latest flub when he admitted that the plastics business he owned, as well as some of his prominent donors, benefited from the small-business tax provision that he pushed for in the 2017 tax cuts.",

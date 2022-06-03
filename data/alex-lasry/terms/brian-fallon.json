@@ -1,20 +1,20 @@
 [
   {
-    "id": 2349,
-    "mediaId": 367,
-    "date": "2022-00-24",
-    "sentence": "In many ways, Barnes, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>, Outagamie County Executive Tom Nelson and state Treasurer Sarah Godlewski are following the political path Baldwin blazed.",
-    "author": "Bill Glauber",
-    "title": "Democratic U.S. Senate contenders in Wisconsin focus on manufacturing",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2397,
     "mediaId": 195,
-    "date": "2022-00-25",
+    "date": "1/25/2022 12:00:00 AM",
     "sentence": "Mandela Barnes, Outagamie County Executive Tom Nelson and Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span> have also supported scrapping the filibuster.",
     "author": "Alexander Bolton",
     "title": "Democrats say change to filibuster just a matter of time",
+    "sentiment": "0"
+  },
+  {
+    "id": 2349,
+    "mediaId": 367,
+    "date": "3/24/2022 12:00:00 AM",
+    "sentence": "In many ways, Barnes, Milwaukee Bucks executive <span class='selected-term'>Alex Lasry</span>, Outagamie County Executive Tom Nelson and state Treasurer Sarah Godlewski are following the political path Baldwin blazed.",
+    "author": "Bill Glauber",
+    "title": "Democratic U.S. Senate contenders in Wisconsin focus on manufacturing",
     "sentiment": "0"
   }
 ]

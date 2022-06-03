@@ -2,16 +2,16 @@
   {
     "id": 5162,
     "mediaId": 33,
-    "date": "2022-00-14",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "En Georgia, por ejemplo, los partidarios de la Gran Mentira, la falsa afirmacin de que las elecciones de 2020 fueron robadas al expresidente Donald Trump, abuchearon al gobernador <span class='selected-term'>Brian Kemp</span>, un republicano acrrimo que se enfrenta a un desafo en las primarias de un candidato elegido a dedo por el expresidente.",
     "author": "Por Frida Ghitis",
     "title": "OPININ | As podra verse la venganza de Putin contra Estados Unidos",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 1984,
     "mediaId": 12,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp headed to David Perdue's hometown, with David Perdue's cousin",
@@ -20,19 +20,28 @@
   {
     "id": 7262,
     "mediaId": 234,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "Senator David Perdue is almost certain to lose to incumbent <span class='selected-term'>Brian Kemp</span>is among several contests into which Trump has injected himself this cycle.",
     "author": "",
     "title": "Report: State Legislatures Have Become a Linchpin of Trumps Attack on Free and Fair Elections",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 8517,
     "mediaId": 34,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Julie Hollar",
     "title": "Corporate Media Obsess About Trump, But Ignore Broad GOP Attack on Democracy",
     "sentiment": "-0.309"
+  },
+  {
+    "id": 8621,
+    "mediaId": 21,
+    "date": "5/30/2022 12:00:00 AM",
+    "sentence": "Perdue was thrashed by incumbent <span class='selected-term'>Brian Kemp</span>, getting 21% of the vote compared to Kemp's 73%.",
+    "author": "Tom Porter",
+    "title": "Trump angrily attacked Perdue as 'lazy' for losing his primary, report says  a criticism more often used of Trump himself",
+    "sentiment": "-0.858"
   }
 ]

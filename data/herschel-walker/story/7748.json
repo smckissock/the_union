@@ -5,14 +5,23 @@
   "headline": "The U.S.F.L. Isnt Back. The U.S.F.L. Is Here.",
   "image": "https://static01.nyt.com/images/2022/04/14/sports/14usfl2/merlin_205503870_7ede53ab-cec8-4497-b03f-a7818835d71f-superJumbo.jpg?quality=75&auto=webp",
   "link": "https://www.nytimes.com/2022/04/15/sports/football/usfl-faq.html",
-  "sentiment": "0.0",
+  "sentiment": "0.695",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    792,
+    815,
+    5804,
+    5871,
+    5976,
+    5990,
+    6020,
+    6027,
+    5621,
+    5661
   ],
   "sentences": [
     "Other recent efforts  the United Football League (four seasons), the Fall Experimental Football League (two seasons), the Alliance of American Football (less than a season) and the second iteration of the XFL (less than a season, though it plans to return next year under new leadership)  stalled fairly quickly, despite showy launches and piles of talent.",

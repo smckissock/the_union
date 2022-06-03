@@ -5,14 +5,16 @@
   "headline": "An activist wants to ban the Bible in Florida schools as a challenge to Ron DeSantis' new book restriction bill",
   "image": "https://i.insider.com/626ba266c8c8ac0019410402?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/activist-files-petition-ban-bible-florida-schools-under-new-law-2022-4",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Loh",
   "authorUrl": "https://www.businessinsider.com/author/matthew-loh",
   "termIds": [
-    661
+    661,
+    2661,
+    2926
   ],
   "sentences": [
     "\"In the end, if Jimmy and Susie are curious about any of the above, they can do what everyone does  get a room at the Motel Six and grab the Gideons,\" he added, signing off as the \"Bishop of the First Church of Mars\" and executive director of \"Schadenboner Incorporated.\"",

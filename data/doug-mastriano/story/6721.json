@@ -5,7 +5,7 @@
   "headline": "Voters decide Pennsylvania, North Carolina, Idaho primaries, in test of Trump's clout: LIVE UPDATES",
   "image": "https://a57.foxnews.com/livenews.foxnews.com/images/2022/05/1248/702/8e091b873c5bb08d1beae0dc36b0a283.png?tl=1&ve=1",
   "link": "https://www.foxnews.com/live-news/voters-decide-pennsylvania-north-carolina-idaho-primaries-in-test-of-trump-s-clout-live-updates",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,16 @@
   "authorUrl": "https://www.foxnews.com/person/o/tyler-olson",
   "termIds": [
     821,
+    943,
+    1147,
+    2087,
     2303,
-    3102
+    3102,
+    3915,
+    571,
+    2834,
+    2862,
+    5034
   ],
   "sentences": [
     "FAST FACTS\nTrump-backed Pennsylvania Senate candidate Mehmet Oz is in a tight race with former hedge fund executive Dave McCormick and conservative commentator Kathy Barnette\nThe GOP establishment, including Trump, has attacked Barnette as not sufficiently vetted and warned she may not be able to win the general election in Pennsylvania\nTrump-backed Pennsylvania governor candidate Doug Mastriano, who's focused on Trump's false claims the 2020 election was stolen, surged ahead of primary day.",

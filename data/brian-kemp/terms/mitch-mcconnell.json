@@ -2,34 +2,25 @@
   {
     "id": 8097,
     "mediaId": 12,
-    "date": "2022-00-01",
+    "date": "3/1/2022 12:00:00 AM",
     "sentence": "",
     "author": "Greg Bluestein",
     "title": "Walker wont go to Marjorie Taylor Greene event after she spoke at pro-Putin rally",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3894,
-    "mediaId": 129,
-    "date": "2022-00-06",
-    "sentence": "But if you disagree with me, my doors always open.?\nGovernors like <span class='selected-term'>Brian Kemp</span> of Georgia and Ron DeSantis of Florida have said relatively little on the issue since the draft opinion came out.",
-    "author": "",
-    "title": "G.O.P. Lawmakers Recast Abortion Stance, Wary of Voter Backlash",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 5260,
     "mediaId": 129,
-    "date": "2022-00-07",
+    "date": "4/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Four Opinion Writers on How the G.O.P. Fringe Took Over American Politics",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 5167,
     "mediaId": 21,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Brent D. Griffiths",
     "title": "McConnell said Trump is 'always setting up somebody to blame it on' ahead of Georgia's pivotal 2021 Senate runoffs",
@@ -38,61 +29,70 @@
   {
     "id": 5168,
     "mediaId": 21,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Bryan Metzger",
     "title": "McConnell told Republican senators they've 'got to stay focused on Georgia' immediately after Trump told them that he could overturn the 2020 presidential election: book",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 5032,
+    "mediaId": 169,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Chauncey DeVega",
+    "title": "Has the mainstream media already made its peace with fascism? We'll soon find out",
+    "sentiment": "0"
+  },
+  {
+    "id": 5037,
+    "mediaId": 157,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
+    "author": "Bob Brigham",
+    "title": "Crazytown: Former senator aghast Marjorie Taylor Greene has more power than Kevin McCarthy and Mitch McConnell",
+    "sentiment": "0"
+  },
+  {
+    "id": 3894,
+    "mediaId": 129,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "But if you disagree with me, my doors always open.?\nGovernors like <span class='selected-term'>Brian Kemp</span> of Georgia and Ron DeSantis of Florida have said relatively little on the issue since the draft opinion came out.",
+    "author": "",
+    "title": "G.O.P. Lawmakers Recast Abortion Stance, Wary of Voter Backlash",
+    "sentiment": "0"
   },
   {
     "id": 3401,
     "mediaId": 151,
-    "date": "2022-00-14",
+    "date": "5/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: Clarence Thomas speaks",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4483,
     "mediaId": 238,
-    "date": "2022-00-17",
+    "date": "5/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "Henry Olsen",
     "title": "Opinion Republicans have only themselves to blame for unelectable big lie candidates",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4461,
     "mediaId": 195,
-    "date": "2022-00-19",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Recount looms in Pennsylvania",
     "sentiment": "0"
   },
   {
-    "id": 5032,
-    "mediaId": 169,
-    "date": "2022-00-21",
-    "sentence": "",
-    "author": "Chauncey DeVega",
-    "title": "Has the mainstream media already made its peace with fascism? We'll soon find out",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5037,
-    "mediaId": 157,
-    "date": "2022-00-21",
-    "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene",
-    "author": "Bob Brigham",
-    "title": "Crazytown: Former senator aghast Marjorie Taylor Greene has more power than Kevin McCarthy and Mitch McConnell",
-    "sentiment": "0.0"
-  },
-  {
     "id": 7242,
     "mediaId": 136,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "\"Good for <span class='selected-term'>Brian Kemp</span> who stayed the course and showed what you can do when you have a real record to run on and you don't have to kowtow to this and you don't have to change yourselfbe who you are and that authenticity has carried him.\"",
     "author": "Thomas Kika",
     "title": "McConnell Adviser Blames Trump for 'Embarrassing' End to Perdue's Career",
@@ -101,7 +101,7 @@
   {
     "id": 7261,
     "mediaId": 157,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "\"Good for <span class='selected-term'>Brian Kemp</span> who stayed the course and showed what you can do when you have a real record to run on and you don't have to kowtow to this and you don't have to change yourself -- be who you are and that authenticity has carried him.\"",
     "author": "Tom Boggioni",
     "title": "Trump to blame for 'embarrassing' end of David Perdue's political career: Mitch McConnell adviser",
@@ -110,7 +110,7 @@
   {
     "id": 8441,
     "mediaId": 129,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "Governor's Race: <span class='selected-term'>Brian Kemp</span> scored a landslide victory over David Perdue, delivering Mr. Trump his biggest setback of the 2022 primaries.",
     "author": "",
     "title": "Republican Governors Lose Their Dread of Trump",

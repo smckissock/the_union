@@ -5,14 +5,17 @@
   "headline": "Biden anunci una liberacin histrica de reservas de petrleo y presiona a las compaas petroleras para que hagan su parte para reducir los precios de la gasolina",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220322122122-dinero-sot-story-tablet.jpg",
   "link": "https://cnnespanol.cnn.com/2022/03/31/biden-liberacion-historica-reservas-petroleo-reducir-precios-gasolina-trax/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kevin Liptak",
   "authorUrl": "https://cnnespanol.cnn.com/author/kevin-liptak/",
   "termIds": [
-    2095
+    2030,
+    2087,
+    2095,
+    2945
   ],
   "sentences": [
     "Biden aborda un problema poltico importante\nAprovechar la reserva, la reserva de 600 millones de barriles de petrleo crudo almacenados en cavernas subterrneas de sal en Louisiana y Texas, generalmente solo tiene un efecto limitado en los precios del gas debido a la cantidad de petrleo que se puede liberar a la vez, pero actuara como una seal poltica de que Biden contina enfrentando el problema.",

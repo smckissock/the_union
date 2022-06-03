@@ -5,14 +5,22 @@
   "headline": "Hawley introduces bill to strip 'woke' Disney of special copyright protections",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2add491b-83f6-4103-ba6e-aa506cc62859/cd047710-b4a4-4367-a66b-11a0cf64f02d/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/hawley-bill-end-disneys-special-copyright-protections",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kelly Laco",
   "authorUrl": "https://www.foxnews.com/person/l/kelly-laco",
   "termIds": [
-    661
+    661,
+    1241,
+    1448,
+    2347,
+    4414,
+    4464,
+    524,
+    545,
+    577
   ],
   "sentences": [
     "However, the Florida law doesn't actually contain the word \"gay,\" but states that \"classroom instruction by school personnel or third parties on sexual orientation or gender identity may not occur in kindergarten through grade 3 or in a manner that is not age appropriate or developmentally appropriate for students in accordance with state standards.\"",

@@ -5,14 +5,20 @@
   "headline": "Desantis Signs Bill Banning Protests Outside of Residences",
   "image": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1600/b4c2a57a5db284849220aa559e8c2729.jpg",
   "link": "https://www.theroot.com/desantis-signs-bill-banning-protests-outside-of-residen-1848941783",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Root",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Murjani Rawls",
   "authorUrl": "https://www.theroot.com/author/murjanirawls",
   "termIds": [
-    661
+    661,
+    971,
+    2305,
+    43,
+    482,
+    2661,
+    2945
   ],
   "sentences": [
     "Francesca Menes, a co-founder of the social justice organization The Black Collective, stated the new law builds on the unconstitutional foundations of the anti-protest bill last year and only reaffirms our will to make sure our voices are heard in order to create a brighter future for the people of our state.?",

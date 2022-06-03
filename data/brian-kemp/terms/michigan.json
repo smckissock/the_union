@@ -1,35 +1,44 @@
 [
   {
+    "id": 5349,
+    "mediaId": 136,
+    "date": "4/2/2022 12:00:00 AM",
+    "sentence": "Walker is running to unseat Democratic Senator Raphael Warnock while Perdue is challenging Republican Governor <span class='selected-term'>Brian Kemp</span>.",
+    "author": "Alexandra Hutzler",
+    "title": "How to Watch Trump Michigan Rally: Time, Live Stream for GOP Event",
+    "sentiment": "0"
+  },
+  {
+    "id": 5032,
+    "mediaId": 169,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Chauncey DeVega",
+    "title": "Has the mainstream media already made its peace with fascism? We'll soon find out",
+    "sentiment": "0"
+  },
+  {
     "id": 4779,
     "mediaId": 223,
-    "date": "2022-00-02",
+    "date": "5/2/2022 12:00:00 AM",
     "sentence": "Lindenbaum's name appears as the third signature on the original complaint in the lawsuit alleging voter suppression in the race that saw then-Republican Secretary of State <span class='selected-term'>Brian Kemp</span> defeat Abrams by 55,000 votes statewide in the governor's race.",
     "author": "Guy Benson",
     "title": "Surprise: Biden Nominates Conspiratorial Election Truther to Oversee US Elections",
     "sentiment": "-0.866"
   },
   {
-    "id": 5349,
-    "mediaId": 136,
-    "date": "2022-00-02",
-    "sentence": "Walker is running to unseat Democratic Senator Raphael Warnock while Perdue is challenging Republican Governor <span class='selected-term'>Brian Kemp</span>.",
-    "author": "Alexandra Hutzler",
-    "title": "How to Watch Trump Michigan Rally: Time, Live Stream for GOP Event",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4634,
     "mediaId": 195,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> is far from the only chief executive using taxpayer money to claim credit for new (or relocated) jobs.",
     "author": "Michael Farren",
     "title": "Sick of sneaky state subsidies? Ban secret deals",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4575,
     "mediaId": 223,
-    "date": "2022-00-10",
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "",
     "author": "Matt Vespa",
     "title": "What a Woman Found Walking Her Dog Should Spark More Questions About Election Integrity",
@@ -38,25 +47,16 @@
   {
     "id": 4466,
     "mediaId": 302,
-    "date": "2022-00-19",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Associated Press",
     "title": "Biden invokes Defense Production Act for baby formula shortage",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5032,
-    "mediaId": 169,
-    "date": "2022-00-21",
-    "sentence": "",
-    "author": "Chauncey DeVega",
-    "title": "Has the mainstream media already made its peace with fascism? We'll soon find out",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7359,
     "mediaId": 151,
-    "date": "2022-00-25",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Raffensperger wins Georgia secretary of state primary over Trump-backed opponent",
@@ -65,7 +65,7 @@
   {
     "id": 8463,
     "mediaId": 195,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Dennis Aftergut",
     "title": "Rays of a much-needed, principled GOP shine through",
@@ -74,10 +74,19 @@
   {
     "id": 8464,
     "mediaId": 238,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Aaron Blake",
     "title": "Trump's GOP election purge marches on, despite setbacks in Georgia",
+    "sentiment": "0"
+  },
+  {
+    "id": 8763,
+    "mediaId": 25,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Georgia\nOn March 18, Georgia Governor <span class='selected-term'>Brian Kemp</span> signed a bill to temporarily suspend the state's excise tax on motor fuel sales.",
+    "author": "Sarah Ewall-Wice",
+    "title": "New York joins growing number of states attempting to provide relief at the pump",
     "sentiment": "0"
   }
 ]

@@ -1,44 +1,8 @@
 [
   {
-    "id": 6040,
-    "mediaId": 129,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "",
-    "title": "How Ohios Map Will Test J.D. Vances Political Allure",
-    "sentiment": "0"
-  },
-  {
-    "id": 5823,
-    "mediaId": 136,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Katherine Fung",
-    "title": "J.D. Vance Campaign First Test of Donald Trump Jr.'s Political Influence",
-    "sentiment": "0"
-  },
-  {
-    "id": 5857,
-    "mediaId": 43,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "2022 Midterm Primary Season Kicks of With Voting System Failures in OH: 'BradCast' 5/4/2022",
-    "sentiment": "0"
-  },
-  {
-    "id": 5866,
-    "mediaId": 43,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "",
-    "title": "QAnon rando defeats established pols in Ohio House district GOP hopes to flip",
-    "sentiment": "0"
-  },
-  {
     "id": 6265,
     "mediaId": 19,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Bois",
     "title": "Watch  Ohios J.D. Vance Diagnoses How Americas Leaders Drained Working Class Jobs Overseas at Newsmax Town Hall",
@@ -47,10 +11,46 @@
   {
     "id": 6117,
     "mediaId": 157,
-    "date": "2022-00-28",
+    "date": "4/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "Bob Brigham",
     "title": "Donald Trump Jr lashes out at Ted Cruz-backed candidate in Ohio",
+    "sentiment": "0"
+  },
+  {
+    "id": 6040,
+    "mediaId": 129,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "How Ohios Map Will Test J.D. Vances Political Allure",
+    "sentiment": "0"
+  },
+  {
+    "id": 5823,
+    "mediaId": 136,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Katherine Fung",
+    "title": "J.D. Vance Campaign First Test of Donald Trump Jr.'s Political Influence",
+    "sentiment": "0"
+  },
+  {
+    "id": 5857,
+    "mediaId": 43,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "2022 Midterm Primary Season Kicks of With Voting System Failures in OH: 'BradCast' 5/4/2022",
+    "sentiment": "0"
+  },
+  {
+    "id": 5866,
+    "mediaId": 43,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "QAnon rando defeats established pols in Ohio House district GOP hopes to flip",
     "sentiment": "0"
   }
 ]

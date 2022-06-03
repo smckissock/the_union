@@ -5,14 +5,21 @@
   "headline": "Florida appeals court reinstates DeSantis congressional map",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1",
   "link": "https://thehill.com/news/ap/ap-u-s-news/florida-appeals-court-reinstates-desantis-congressional-map/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "BRENDAN FARRINGTON",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1058,
+    1587,
+    428,
+    482,
+    562,
+    2661,
+    2926
   ],
   "sentences": [
     "While Im disappointed in todays decision by the appellate court to reinstate DeSantis unconstitutional map, I am confident that the Florida Supreme Court will soon take over this issue and protect the rights of Black voters in North Florida,? Lawson said in a statement emailed to media outlets.",

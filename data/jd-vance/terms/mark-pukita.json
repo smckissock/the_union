@@ -1,17 +1,8 @@
 [
   {
-    "id": 6033,
-    "mediaId": 43,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "",
-    "title": "Watch The Previous Guy Forget The Name Of The Piece Of Sh*t He Endorsed In Ohio",
-    "sentiment": "0.393"
-  },
-  {
     "id": 6439,
     "mediaId": 558,
-    "date": "2022-00-08",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Ohio GOP Senate hopeful: Middle class doesn't pay fair share",
@@ -20,7 +11,7 @@
   {
     "id": 6396,
     "mediaId": 19,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "John Nolte",
     "title": "Nolte: Ohio Senate Poll Shows Trump Nod Could Put J.D. Vance over the Top",
@@ -29,10 +20,19 @@
   {
     "id": 6295,
     "mediaId": 409,
-    "date": "2022-00-19",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jim Geraghty",
     "title": "The Medias Dirty Secret about GOP Coverage",
     "sentiment": "0.443"
+  },
+  {
+    "id": 6033,
+    "mediaId": 43,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Watch The Previous Guy Forget The Name Of The Piece Of Sh*t He Endorsed In Ohio",
+    "sentiment": "0.393"
   }
 ]

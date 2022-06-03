@@ -5,7 +5,7 @@
   "headline": "Opinion A conservative Christian quietly battles against right-wing hysteria",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/02/david-french-cuture-war-ron-desantis-jd-vance/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,11 @@
   "authorUrl": "",
   "termIds": [
     661,
-    3103
+    1801,
+    3103,
+    428,
+    524,
+    2845
   ],
   "sentences": [
     "French: The campaigns of harassment and intimidation and threats that have been leveled against conservative opponents of the right  or against Republican politicians who had the courage to stand up for the American republic itself in the aftermath of Jan. 6  should tell us that people are taking these declarations of emergency with deadly seriousness.",

@@ -1,26 +1,35 @@
 [
   {
+    "id": 5078,
+    "mediaId": 151,
+    "date": "4/19/2022 12:00:00 AM",
+    "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
+    "author": "",
+    "title": "Florida's redistricting session: Quick, partisan, and bitter",
+    "sentiment": "0"
+  },
+  {
+    "id": 4366,
+    "mediaId": 302,
+    "date": "4/29/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
+    "sentiment": "0"
+  },
+  {
     "id": 4112,
     "mediaId": 302,
-    "date": "2022-00-03",
+    "date": "5/3/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kirby Wilson",
     "title": "Will Florida Republicans ban abortion? Heres what we know.",
     "sentiment": "0"
   },
   {
-    "id": 4112,
-    "mediaId": 302,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Kirby Wilson",
-    "title": "Will Florida Republicans ban abortion? Heres what we know.",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3939,
     "mediaId": 151,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Florida Republicans won't let go of Disney's campaign cash",
@@ -29,82 +38,73 @@
   {
     "id": 3939,
     "mediaId": 151,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Florida Republicans won't let go of Disney's campaign cash",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3847,
     "mediaId": 302,
-    "date": "2022-00-09",
+    "date": "5/9/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Gov. DeSantis office considered a bill to target libel laws, records show",
     "sentiment": "0"
   },
   {
-    "id": 3847,
-    "mediaId": 302,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "Gov. DeSantis office considered a bill to target libel laws, records show",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3655,
     "mediaId": 302,
-    "date": "2022-00-12",
+    "date": "5/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Florida Big Sugars campaign donations reach $6M in state races",
     "sentiment": "0"
   },
   {
-    "id": 3655,
+    "id": 8854,
     "mediaId": 302,
-    "date": "2022-00-12",
+    "date": "6/1/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
-    "title": "Florida Big Sugars campaign donations reach $6M in state races",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5078,
-    "mediaId": 151,
-    "date": "2022-00-19",
-    "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
-    "author": "",
-    "title": "Florida's redistricting session: Quick, partisan, and bitter",
+    "title": "Florida school safety bill on DeSantis desk focuses on mental health",
     "sentiment": "0"
   },
   {
-    "id": 5078,
+    "id": 8787,
     "mediaId": 151,
-    "date": "2022-00-19",
-    "sentence": "Flashback  Just remember this January quote from a current Republican legislator who was granted anonymity: They are not going to embarrass <span class='selected-term'>Ron DeSantis</span>.",
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "How about <span class='selected-term'>Ron DeSantis</span>, Americas governor, said Simpson, echoing the nickname conservatives across the country have bestowed upon Floridas governor.",
     "author": "",
-    "title": "Florida's redistricting session: Quick, partisan, and bitter",
-    "sentiment": "0.0"
+    "title": "'Just the way it goes': DeSantis axes $3B from Legislature's budget in front of Republican leaders",
+    "sentiment": "-0.313"
   },
   {
-    "id": 4366,
-    "mediaId": 302,
-    "date": "2022-00-29",
-    "sentence": "",
+    "id": 8787,
+    "mediaId": 151,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "How about <span class='selected-term'>Ron DeSantis</span>, Americas governor, said Simpson, echoing the nickname conservatives across the country have bestowed upon Floridas governor.",
     "author": "",
-    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
+    "title": "'Just the way it goes': DeSantis axes $3B from Legislature's budget in front of Republican leaders",
     "sentiment": "0"
   },
   {
-    "id": 4366,
+    "id": 8790,
     "mediaId": 302,
-    "date": "2022-00-29",
+    "date": "6/2/2022 12:00:00 AM",
     "sentence": "",
-    "author": "",
-    "title": "DeSantis promises Florida permitless carry gun law before he leaves governors office",
-    "sentiment": "0.0"
+    "author": "Colleen Wright",
+    "title": "Tampa Bay vetoes disappointing, say area leaders",
+    "sentiment": "0"
+  },
+  {
+    "id": 8793,
+    "mediaId": 302,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Lawrence Mower",
+    "title": "DeSantis cuts GOP priorities as he approves $110B budget",
+    "sentiment": "0"
   }
 ]

@@ -5,14 +5,20 @@
   "headline": "Shapiro calls Mastriano dangerous and divisive",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2020/10/shapirojosh_paag_102220msnbc.png?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/sunday-talk-shows/3497167-shapiro-calls-mastriano-dangerous-and-divisive/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mychael Schnell",
   "authorUrl": "https://thehill.com/author/mychael-schnell/",
   "termIds": [
-    3102
+    1147,
+    1713,
+    1990,
+    2329,
+    3102,
+    392,
+    2862
   ],
   "sentences": [
     "Pennsylvania Attorney General Josh Shapiro (D) on Sunday said Pennsylvania state Sen. Doug Mastriano (R), whom he will face in the commonwealths gubernatorial race, is dangerous? and divisive.?\nDuring an interview with co-anchor Dana Bash on CNNs State of the Union,? Shapiro called out Mastriano for a number of policy stances, including abortion, and noted the state lawmakers presence in Washington on Jan. 6, 2021.\nHe is extreme and he is dangerous.",

@@ -5,7 +5,7 @@
   "headline": "Democrats look to diversify ranks in bid to keep Senate",
   "image": "https://cdn.jwplayer.com/v2/media/zzjmM7J0/poster.jpg?width=640",
   "link": "https://thehill.com/homenews/campaign/588692-democrats-look-to-diversify-ranks-in-bid-to-keep-senate",
-  "sentiment": "0.0",
+  "sentiment": "0.823",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,7 +14,14 @@
   "termIds": [
     741,
     802,
-    2039
+    1916,
+    2039,
+    2087,
+    146,
+    318,
+    562,
+    571,
+    2945
   ],
   "sentences": [
     "Their candidacies shone a light on their lived experiences and how these inequities affected their lives.?\nBiden's Build Back Better package stalled in the Senate last month after moderate Sen. Joe Manchin (D-W.Va.) abruptly said in a cable news interview that he would not support it, sending fellow Democratic senators and rank-and-file voters into an angry fury after months of discussions and promises about passing the legislation by the end of 2021.",

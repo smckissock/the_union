@@ -1,8 +1,26 @@
 [
   {
+    "id": 5109,
+    "mediaId": 169,
+    "date": "4/16/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Skolnik",
+    "title": "Corporate America steps up to fight for abortion access  after backing anti-abortion Republicans",
+    "sentiment": "0"
+  },
+  {
+    "id": 5112,
+    "mediaId": 157,
+    "date": "4/16/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Skolnik",
+    "title": "Corporate America steps up to fight for abortion access  after backing anti-abortion Republicans",
+    "sentiment": "0"
+  },
+  {
     "id": 4683,
     "mediaId": 19,
-    "date": "2022-00-05",
+    "date": "5/5/2022 12:00:00 AM",
     "sentence": "",
     "author": "Simon Kent",
     "title": "Georgia High School Association Begins Transgender Sports Ban",
@@ -11,28 +29,19 @@
   {
     "id": 4634,
     "mediaId": 195,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "Georgia Governor <span class='selected-term'>Brian Kemp</span> is far from the only chief executive using taxpayer money to claim credit for new (or relocated) jobs.",
     "author": "Michael Farren",
     "title": "Sick of sneaky state subsidies? Ban secret deals",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
-    "id": 5109,
-    "mediaId": 169,
-    "date": "2022-00-16",
+    "id": 8745,
+    "mediaId": 18,
+    "date": "5/31/2022 12:00:00 AM",
     "sentence": "",
-    "author": "Jon Skolnik",
-    "title": "Corporate America steps up to fight for abortion access  after backing anti-abortion Republicans",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 5112,
-    "mediaId": 157,
-    "date": "2022-00-16",
-    "sentence": "",
-    "author": "Jon Skolnik",
-    "title": "Corporate America steps up to fight for abortion access  after backing anti-abortion Republicans",
-    "sentiment": "0.0"
+    "author": "Associated Press",
+    "title": "Republicans eager to reopen economy; Democrats more cautious",
+    "sentiment": "0.295"
   }
 ]

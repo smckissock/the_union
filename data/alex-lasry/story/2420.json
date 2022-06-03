@@ -5,7 +5,7 @@
   "headline": "Wisconsin Republican Ron Johnson to run for re-election to Senate, reversing self-imposed term-limit vow",
   "image": "https://images.mktw.net/im-280077?width=700&size=1.5005861664712778&pixel_ratio=3",
   "link": "https://www.marketwatch.com/story/wisconsin-republican-ron-johnson-to-run-for-re-election-to-senate-reversing-self-imposed-term-limit-vow-01641788003",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Marketwatch",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,16 @@
   "termIds": [
     741,
     802,
+    1112,
+    1147,
+    1490,
     1568,
-    2039
+    1925,
+    2039,
+    428,
+    571,
+    2771,
+    2972
   ],
   "sentences": [
     "Why do we assume that the body's natural immune system isn't the marvel that it really is??\nFrom the archives (June 2021): Senate Republican Ron Johnson of Wisconsin is planning an event to publicize adverse vaccine experiences\nJohnson has espoused conspiracy theories related to last year's Capitol raid that attempted to shift blame for what happened away from Trump supporters.",

@@ -5,14 +5,23 @@
   "headline": "Herschel Walkers Senate Bid in Georgia Is Powered by Fandom",
   "image": "https://static01.nyt.com/images/2022/04/19/multimedia/00pol-walker-photo01/00pol-walker-photo01-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/04/20/us/politics/herschel-walker-georgia-senate.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1098,
+    1136,
+    5956,
+    571,
+    584,
+    2555,
+    2672,
+    2747,
+    2934
   ],
   "sentences": [
     "Mr. Warnock, the freshman Democrat, has raised more than $13 million in the last three months, according to campaign finance data, and he will be backed by national Democrats eager to prove their 2020 victories were more than just a rejection of former President Donald J. Trump, but instead were a permanent shift in a rapidly changing Southern state.",

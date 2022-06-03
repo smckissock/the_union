@@ -5,14 +5,20 @@
   "headline": "Trump slams GOP candidate in Pa. governors race for not going after 2020 election fraud",
   "image": "https://twt-thumbs.washtimes.com/media/image/2022/04/12/election_2022_pennsylvania_governor_93803_c0-251-6000-3749_s885x516.jpg?bfee798b140155ee7106e1a89845758c6071a6da",
   "link": "https://www.washingtontimes.com/news/2022/apr/12/trump-slams-gop-candidate-pa-governors-race-not-go/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Dave Boyer",
   "authorUrl": "https://www.washingtontimes.com/staff/dave-boyer/",
   "termIds": [
-    3102
+    1147,
+    1282,
+    1997,
+    2087,
+    3102,
+    146,
+    428
   ],
   "sentences": [
     "Former President Donald Trump blasted Pennsylvania GOP gubernatorial candidate Bill McSwain on Tuesday, saying the former federal prosecutor did absolutely nothing? to investigate Mr. Trumps claims of election fraud in 2020.\nDo not vote for Bill McSwain, a coward, who let our country down,? Mr. Trump said in a statement.",

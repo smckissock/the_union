@@ -1,83 +1,65 @@
 [
   {
-    "id": 4293,
-    "mediaId": 195,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "Joe Concha",
-    "title": "Joe Bidens Ministry of Truth",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3902,
-    "mediaId": 237,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Jenny Goldsberry",
-    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
-    "sentiment": "0"
-  },
-  {
-    "id": 3902,
-    "mediaId": 237,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Jenny Goldsberry",
-    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3826,
-    "mediaId": 302,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "Climate catastrophists need to chill | Column",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3618,
-    "mediaId": 129,
-    "date": "2022-00-13",
-    "sentence": "",
-    "author": "Liam Stack",
-    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
-    "sentiment": "0"
-  },
-  {
-    "id": 3618,
-    "mediaId": 129,
-    "date": "2022-00-13",
-    "sentence": "",
-    "author": "Liam Stack",
-    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7125,
-    "mediaId": 302,
-    "date": "2022-00-20",
-    "sentence": "",
-    "author": "",
-    "title": "Are Democrats up to preventing the next coup attempt? | Column",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4451,
     "mediaId": 239,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Robert Knight",
     "title": "DeSantis delivers a roundhouse blow to Disney",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4451,
     "mediaId": 239,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Robert Knight",
     "title": "DeSantis delivers a roundhouse blow to Disney",
     "sentiment": "0.828"
+  },
+  {
+    "id": 4293,
+    "mediaId": 195,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Joe Concha",
+    "title": "Joe Bidens Ministry of Truth",
+    "sentiment": "0"
+  },
+  {
+    "id": 3902,
+    "mediaId": 237,
+    "date": "5/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jenny Goldsberry",
+    "title": "Jewish heritage museum staff attempt to ban DeSantis from premises: Report",
+    "sentiment": "0"
+  },
+  {
+    "id": 3826,
+    "mediaId": 302,
+    "date": "5/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Climate catastrophists need to chill | Column",
+    "sentiment": "0"
+  },
+  {
+    "id": 3618,
+    "mediaId": 129,
+    "date": "5/13/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Liam Stack",
+    "title": "What Happened When a Conservative Jewish Group Invited DeSantis to Speak",
+    "sentiment": "0"
+  },
+  {
+    "id": 7125,
+    "mediaId": 302,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Are Democrats up to preventing the next coup attempt? | Column",
+    "sentiment": "0"
   }
 ]

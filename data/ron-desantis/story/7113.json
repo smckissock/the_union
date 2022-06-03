@@ -5,14 +5,20 @@
   "headline": "Florida lawmakers to target roof claims, lawyers during property insurance session",
   "image": "https://www.tampabay.com/resizer//bh0N6U4Etl_TSGeYV0tKG2GsGP0=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/EWBKJHWQCSCANJCIKVVXBPCX6I.jpg",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/20/florida-lawmakers-to-target-roof-claims-lawyers-during-property-insurance-session/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lawrence Mower",
   "authorUrl": "https://www.tampabay.com/author/lawrence-mower",
   "termIds": [
-    661
+    661,
+    3836,
+    562,
+    571,
+    3355,
+    2661,
+    2926
   ],
   "sentences": [
     "Theyre going to have to give up that lifetime investment of their home and put it on the market because now their premium is higher than their mortgage payment.?\nThe proposed legislation would create an exemption in the states building code, so that roofs that are more than 25% damaged but already comply with the 2007 building code may be repaired instead of being required to be replaced.",

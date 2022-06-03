@@ -5,7 +5,7 @@
   "headline": "GOP to Board of Canvassers on petition fraud scandal: Evaluate each signature one-by-one",
   "image": "https://www.gannett-cdn.com/presto/2022/04/23/PDTF/8c1baf8e-d819-4256-b7bd-b9bd4ae7f1b9-04232022_gopconvention-5.jpeg?crop=2399,1350,x0,y122&width=2399&height=1350&format=pjpg&auto=webp",
   "link": "https://www.freep.com/story/news/politics/elections/2022/05/25/petition-fraud-scandal-gop-governor-signatures/9935368002/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Detroit Free Press",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,16 @@
   "authorUrl": "https://www.freep.com/staff/2646657001/paul-egan/",
   "termIds": [
     651,
+    712,
     1844,
-    3099
+    3099,
+    6081,
+    6086,
+    146,
+    2645,
+    2748,
+    2791,
+    6087
   ],
   "sentences": [
     "LANSING  The Michigan Republican Party will argue Thursday that the Bureau of Elections should compare each allegedly fraudulent signature on gubernatorial candidates' nominating petitions to those the state has on file, and not make wholesale rejections of all signatures collected by circulators suspected of fraud, according to a legal memo obtained by the Free Press.",

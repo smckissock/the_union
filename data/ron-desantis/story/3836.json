@@ -5,14 +5,18 @@
   "headline": "When Inclusivity Is Code for Intolerance",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/03/Ron-DeSantis.jpg?w=1592",
   "link": "https://www.nationalreview.com/2022/05/when-inclusivity-is-code-for-intolerance/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Mario Loyola",
   "authorUrl": "https://www.nationalreview.com/author/mario-loyola/",
   "termIds": [
-    661
+    661,
+    3426,
+    3584,
+    2661,
+    2826
   ],
   "sentences": [
     "As Tikvahs chairman and executive director Elliott Abrams and Eric Cohen write in the Wall Street Journal, museum staff said that DeSantis doesnt align with the museums values and its message of inclusivity.?\nThe governors planned speech, The Florida Model and Why Its Good for Jews,? could hardly be characterized as ...",

@@ -1,62 +1,17 @@
 [
   {
-    "id": 4775,
-    "mediaId": 12,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Shannon McCaffrey",
-    "title": "Race for Georgia insurance commissioner seeks to move past scandal",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4792,
-    "mediaId": 25,
-    "date": "2022-00-02",
-    "sentence": "Willis notified at least four state officials of her investigation in February 2021, sending document preservation notices to Georgia Governor <span class='selected-term'>Brian Kemp</span>, Lieutenant Governor Geoff Duncan, Secretary of State Brad Raffensperger and Attorney General Chris Carr.",
-    "author": "Graham Kates",
-    "title": "Special grand jury considering Trump election interference in Georgia convenes",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4795,
-    "mediaId": 157,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Brad Reed",
-    "title": "Trump to phone in stump speech for David Perdue as his quest to beat Brian Kemp spirals downward",
-    "sentiment": "-0.802"
-  },
-  {
-    "id": 4603,
-    "mediaId": 129,
-    "date": "2022-00-09",
-    "sentence": "Unease over that rise has prompted the Republican-led state legislature, and the Republican governor, <span class='selected-term'>Brian Kemp</span>, to enact a flurry of anti-crime bills.",
-    "author": "",
-    "title": "Young Thug, Atlanta Rap Star, Is Arrested on Gang-Related Charges",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2126,
     "mediaId": 12,
-    "date": "2022-00-11",
+    "date": "4/11/2022 12:00:00 AM",
     "sentence": "It's up to <span class='selected-term'>Brian Kemp</span> and David Perdue to explain to Republican women and to all Georgians why they are excluding Kandiss Taylor from participating in multiple Republican primary debates,? Groh-Wargo said.",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp tangles with grassroots hecklers yelling Liar!'",
     "sentiment": "-0.721"
   },
   {
-    "id": 3313,
-    "mediaId": 1576,
-    "date": "2022-00-13",
-    "sentence": "",
-    "author": "",
-    "title": "Judge dismisses Perdue suit pushing 2020 election fraud claims",
-    "sentiment": "-0.651"
-  },
-  {
     "id": 5081,
     "mediaId": 157,
-    "date": "2022-00-19",
+    "date": "4/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "30 people called to testify in Georgia's Trump investigation have refused",
@@ -65,7 +20,7 @@
   {
     "id": 4966,
     "mediaId": 12,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "Vanessa McCray",
     "title": "Fulton County parents drop mask lawsuit against school district",
@@ -74,10 +29,64 @@
   {
     "id": 4820,
     "mediaId": 25,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "Willis notified at least four state officials of her investigation in February 2021, sending document preservation notices to Georgia Governor <span class='selected-term'>Brian Kemp</span>, Lieutenant Governor Geoff Duncan, Secretary of State Brad Raffensperger and Attorney General Chris Carr.",
     "author": "Graham Kates",
     "title": "Special grand jury considering Trump election interference in Georgia convenes Monday",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 4775,
+    "mediaId": 12,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Shannon McCaffrey",
+    "title": "Race for Georgia insurance commissioner seeks to move past scandal",
+    "sentiment": "0"
+  },
+  {
+    "id": 4792,
+    "mediaId": 25,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "Willis notified at least four state officials of her investigation in February 2021, sending document preservation notices to Georgia Governor <span class='selected-term'>Brian Kemp</span>, Lieutenant Governor Geoff Duncan, Secretary of State Brad Raffensperger and Attorney General Chris Carr.",
+    "author": "Graham Kates",
+    "title": "Special grand jury considering Trump election interference in Georgia convenes",
+    "sentiment": "0"
+  },
+  {
+    "id": 4795,
+    "mediaId": 157,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Brad Reed",
+    "title": "Trump to phone in stump speech for David Perdue as his quest to beat Brian Kemp spirals downward",
+    "sentiment": "-0.802"
+  },
+  {
+    "id": 4603,
+    "mediaId": 129,
+    "date": "5/9/2022 12:00:00 AM",
+    "sentence": "Unease over that rise has prompted the Republican-led state legislature, and the Republican governor, <span class='selected-term'>Brian Kemp</span>, to enact a flurry of anti-crime bills.",
+    "author": "",
+    "title": "Young Thug, Atlanta Rap Star, Is Arrested on Gang-Related Charges",
+    "sentiment": "0"
+  },
+  {
+    "id": 3313,
+    "mediaId": 1576,
+    "date": "5/13/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Judge dismisses Perdue suit pushing 2020 election fraud claims",
+    "sentiment": "-0.651"
+  },
+  {
+    "id": 8732,
+    "mediaId": 25,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Graham Kates",
+    "title": "Georgia secretary of state to testify to grand jury investigating Trump effort to overturn election",
+    "sentiment": "0"
   }
 ]

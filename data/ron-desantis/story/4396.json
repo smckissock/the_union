@@ -5,14 +5,16 @@
   "headline": "Rejecting social emotional learning in math books doesnt add up, educators say",
   "image": "https://www.orlandosentinel.com/subscriptions/modal-24-7-365/img/device-uda.svg",
   "link": "https://www.orlandosentinel.com/news/education/os-ne-math-books-emotional-learning-20220429-mgrualhdivak3c6l4d2kbvrgtm-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Orlando Sentinel",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Leslie Postal",
   "authorUrl": "https://www.orlandosentinel.com/os-leslie-postal-bio-20140717-staff.html#nt=byline",
   "termIds": [
-    661
+    661,
+    3199,
+    2661
   ],
   "sentences": [
     "But what most puzzled some educators and academics was the states determination to ban books that included social emotional learning.?\nAfter all, a decent description of that tenet can be found in Floridas new individual freedom? law (HB 7), the one Gov.",

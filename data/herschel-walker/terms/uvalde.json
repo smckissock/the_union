@@ -2,34 +2,34 @@
   {
     "id": 7417,
     "mediaId": 18,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "Associated Press",
     "title": "Biden says we have to act after Texas school shooting",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7459,
     "mediaId": 178,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "In a stark reminder of the issue's divisiveness, Biden's call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "ZEKE MILLER and CHRIS MEGERIAN Associated Press",
     "title": "Biden says 'we have to act' after Texas school shooting",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7388,
     "mediaId": 943,
-    "date": "2022-00-25",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "ZEKE MILLER and CHRIS MEGERIAN",
     "title": "President Biden delivers emotional plea for new gun restrictions after Texas school shooting",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7405,
     "mediaId": 18,
-    "date": "2022-00-25",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "In a stark reminder of the issues divisiveness, Bidens call for gun measures was booed at a campaign event in Georgia hosted by <span class='selected-term'>Herschel Walker</span>, who won the Republican nomination for U.S. Senate.",
     "author": "Associated Press",
     "title": "Biden says we have to act after Texas school shooting",
@@ -38,7 +38,7 @@
   {
     "id": 8595,
     "mediaId": 157,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "One of the couple's beneficiaries is Trump-endorsed former football star <span class='selected-term'>Herschel Walker</span>, who is running for Georgia Senate.",
     "author": "Sky Palma",
     "title": "Owners of company that manufactures gun used in Uvalde school shooting are prolific GOP donors: report",
@@ -47,7 +47,7 @@
   {
     "id": 8575,
     "mediaId": 223,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "https://t.co/ekVgWmaEkM\n The Washington Post (@washingtonpost) May 27, 2022\nThe beneficiaries of the couples contributions include <span class='selected-term'>Herschel Walker</span>, who emerged victorious in Tuesdays primaries.",
     "author": "Rebecca Downs",
     "title": "Another Day, Another Bad Take From WaPo on Uvalde Shooting",
@@ -56,10 +56,28 @@
   {
     "id": 8579,
     "mediaId": 151,
-    "date": "2022-00-29",
+    "date": "5/29/2022 12:00:00 AM",
     "sentence": "Only in Georgia, it was incumbent Sen. Raphael Warnock who issued the call Thursday for three televised debates, as soon as his fall Senate election match-up with <span class='selected-term'>Herschel Walker</span> was set.",
     "author": "",
     "title": "He doesn't speak in beautiful syntax: GOP bets the Senate that Walker is ready for prime time",
     "sentiment": "-0.858"
+  },
+  {
+    "id": 8741,
+    "mediaId": 195,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Warnock, who won in a special election in 2021, is running for a full term of his own this year against former football star <span class='selected-term'>Herschel Walker</span>, and former state House Minority Leader Stacey Abrams is trying to unseat Gov.",
+    "author": "Max Greenwood",
+    "title": "Campaign Report  Biden confronts his most serious midterm issue",
+    "sentiment": "0"
+  },
+  {
+    "id": 8920,
+    "mediaId": 195,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "It's a nuanced message at best, one Democratic strategist said of the incumbent senator who is up for reelection this year in a competitive race against Republican <span class='selected-term'>Herschel Walker</span>.",
+    "author": "Amie Parnes",
+    "title": "Haunted Democrats fear gun control measures could cost them in midterms",
+    "sentiment": "0"
   }
 ]

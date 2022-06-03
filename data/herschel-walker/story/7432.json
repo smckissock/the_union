@@ -5,14 +5,22 @@
   "headline": "Herschel Walker Claims Trump Never Said The Presidential Election Was 'Stolen'",
   "image": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1600/5861c6d69e63460d597f5270dce8b638.jpg",
   "link": "https://www.theroot.com/herschel-walker-somehow-claims-trump-never-said-electio-1848971149",
-  "sentiment": "0.0",
+  "sentiment": "-0.809",
   "mediaOutlet": "The Root",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Murjani Rawls",
   "authorUrl": "https://www.theroot.com/author/murjanirawls",
   "termIds": [
-    815
+    815,
+    1147,
+    1951,
+    146,
+    428,
+    571,
+    2555,
+    2672,
+    2945
   ],
   "sentences": [
     "Last week, Trump said at a rally in Texas that he was writing a book named The Crime of the Century based on his false allegations of voter fraud, regarding the 2020 election.",

@@ -5,14 +5,21 @@
   "headline": "Poll Shows Risk for Republicans Backing No-Exception Abortion Bans",
   "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1WcAUlv.dyY/v3/840x-1.jpg",
   "link": "https://www.bloomberg.com/news/articles/2022-05-06/poll-shows-risk-for-republicans-on-no-exception-abortion-bans",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Bloomberg.com",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ryan Teague Beckwith",
   "authorUrl": "https://www.bloomberg.com/authors/AUOfxG9Ntnc/ryan-t-beckwith",
   "termIds": [
-    661
+    661,
+    1284,
+    2064,
+    2250,
+    428,
+    3482,
+    2846,
+    2945
   ],
   "sentences": [
     "A broad majority of Americans in a new poll say abortion should be legal if the mothers life or health are at risk or the pregnancy is a result of rape, a potential political risk for Republican lawmakers backing bans with no exceptions.",

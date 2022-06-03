@@ -5,7 +5,7 @@
   "headline": "POLITICO Playbook: White House wonders: To mask, or not to mask?",
   "image": "https://www.politico.com/dims4/default/b6e03d1/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F7d%2Fc7%2F2068c9754529b5b8280ef048899a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1271584032",
   "link": "https://www.politico.com/newsletters/playbook/2022/04/19/white-house-wonders-to-mask-or-not-to-mask-00026178",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,9 +14,17 @@
   "termIds": [
     741,
     802,
+    1223,
     2039,
+    2087,
     2303,
-    3103
+    3103,
+    4040,
+    4469,
+    91,
+    182,
+    403,
+    562
   ],
   "sentences": [
     "PHOTO OF THE DAY\nPLAYBOOK READS\nTHE ECONOMY\nA HEADLINE THE WHITE HOUSE WONT LIKE  Hot Economy, Rising Inflation: The Fed Has Never Successfully Fixed a Problem Like This,? by WSJs Jon Hilsenrath and Nick Timiraos: Central bank says it is possible, but many factors are out of its control; they are strikingly behind?\nJAN. 6 AND ITS AFTERMATH\nTRAIL OF TEXTS  A trove of text messages released Monday showed that top members of the Oath Keepers now facing seditious conspiracy charges chatted for days about providing security for some of the highest-profile figures associated with DONALD TRUMPs effort to overturn the election,? Kyle Cheney reports.",

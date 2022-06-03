@@ -5,14 +5,22 @@
   "headline": "Biden's incoming press secretary Karine Jean-Pierre called Fox News 'racist'",
   "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTc4MjEyMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY3NTM0Nzk4Nn0.AZFbQSy_s8QJTsOdF6W3PG3ycD_MvzOup0TfOLjmZ2Q/img.jpg?width=1245&quality=85&coordinates=0%2C107%2C0%2C0&height=700",
   "link": "https://www.theblaze.com/news/biden-s-incoming-press-secretary-karine-jean-pierre-called-fox-news-racist",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Blaze",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Chris Pandolfo",
   "authorUrl": "https://www.theblaze.com/u/christopherpandolfo",
   "termIds": [
-    2095
+    683,
+    1024,
+    1098,
+    1147,
+    2087,
+    2095,
+    4715,
+    200,
+    427
   ],
   "sentences": [
     "\"Fox News was racist before #coronavirus, they are racist during coronavirus, and Fox News will be racist after the coronavirus\" @JoyAnnReid \\n\\n#AMJoy #MSNBC #SundayMorningpic.twitter.com/0oOQWqkSE8\n Karine Jean-Pierre (@Karine Jean-Pierre) 1584313699\nAccording to a transcript of the program pulled by Mediaite, Reid brought up how Tucker Carlson referred to the coronavirus as the \"Chinese coronavirus,\" asserting that Fox hosts were following President Donald Trump's lead in labeling it a \"foreign\" virus to stir up \"xenophobia.\"",

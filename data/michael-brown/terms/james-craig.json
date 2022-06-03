@@ -1,12 +1,21 @@
 [
   {
+    "id": 896,
+    "mediaId": 675,
+    "date": "4/20/2022 12:00:00 AM",
+    "sentence": "Politics\nEducation\nMoney\nWorld\nMORE COMMENTARY\nLarry Elder\n<span class='selected-term'>Michael Brown</span>\nMichelle Malkin\nRead all of today's COMMENTARY...\nNew Section",
+    "author": "Bob Unruh",
+    "title": "Marjorie Taylor Greene warns Dems of 'another way to play this game'",
+    "sentiment": "0"
+  },
+  {
     "id": 3293,
     "mediaId": 261,
     "date": "5/12/2022 12:00:00 AM",
     "sentence": "But that means Tudor Dixon, <span class='selected-term'>Michael Brown</span>, Donna Brandenburg, Ralph Rebandt and Michael Markey won't be onstage with their competitors.",
     "author": "Dave Boucher",
     "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3454,
@@ -15,7 +24,7 @@
     "sentence": "",
     "author": "Paul Egan",
     "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7301,
@@ -24,7 +33,7 @@
     "sentence": "Bureau staff also determined that three other lesser-known GOP candidates  Donna Brandenburg, <span class='selected-term'>Michael Brown</span> and Michael Markey  did not turn in enough valid signatures.",
     "author": "DAVID EGGERT",
     "title": "Primary problem: Michigan GOP governor candidates short signatures",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7300,
@@ -33,7 +42,7 @@
     "sentence": "",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
-    "sentiment": "0.0"
+    "sentiment": "-0.692"
   },
   {
     "id": 7473,
@@ -42,6 +51,42 @@
     "sentence": "",
     "author": "",
     "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8663,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Those deemed ineligible included Johnson, Craig, Markey, Donna Brandenburg and <span class='selected-term'>Michael Brown</span>, who immediately withdrew from the governor's race.",
+    "author": "Amy B Wang",
+    "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
+    "sentiment": "0"
+  },
+  {
+    "id": 8668,
+    "mediaId": 261,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Arpan Lobo",
+    "title": "Disqualified Republican governor hopefuls battle it out in court",
+    "sentiment": "0"
+  },
+  {
+    "id": 8670,
+    "mediaId": 157,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon King",
+    "title": "Michigan 'quality guru' Perry Johnson remains off August primary ballot after unanimous court ruling",
+    "sentiment": "0"
+  },
+  {
+    "id": 8655,
+    "mediaId": 157,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
   }
 ]

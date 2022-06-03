@@ -5,14 +5,19 @@
   "headline": "FL judge says Biden border policies merely a speedbump for migrants as catch-and-release lawsuit advances",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b95b5b78-5785-46bc-8f6d-81a5fcf0f3e1/bde712b5-8376-4379-aba0-3b7ebdefb70c/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/florida-judge-biden-policies-speedbump-migrants-catch-release-lawsuit",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kelly Laco",
   "authorUrl": "https://www.foxnews.com/person/l/kelly-laco",
   "termIds": [
-    661
+    661,
+    1147,
+    2087,
+    4556,
+    553,
+    2661
   ],
   "sentences": [
     "Wetherell's order states that the Biden administration has \"adopted and are implementing policies that contravene explicit mandates and restrictions in the immigration statutes and that the policies have effectively turned the southern border into little more than a speedbump for the hundreds of thousands of aliens who have flooded across the border into the country since January 2021 and the thousands more who are arriving at the border daily.\"",

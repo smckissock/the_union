@@ -5,14 +5,21 @@
   "headline": "Trevor Noah is still trending day after White House correspondents' dinner, as he should be",
   "image": "https://images.dailykos.com/images/1064700/story_image/Trevor_Noah.jpeg?1651419389",
   "link": "https://www.dailykos.com/story/2022/5/1/2095110/-Trevor-Noah-is-still-trending-day-after-White-House-correspondents-dinner-as-he-should-be",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    895,
+    906,
+    1147,
+    1427,
+    1609,
+    2087,
+    2282
   ],
   "sentences": [
     "President Joe Biden shakes hands with comedian Trevor Noah during the White House correspondents' dinner on Saturday at the Washington Hilton Hotel in Washington, D.C.\nPresident Joe Biden did not disappoint at the White House correspondents dinner on Saturday, which was the first time since 2019 officials have been able to host the event after cancellations resulting from the COVID-19 pandemic.",

@@ -1,8 +1,17 @@
 [
   {
+    "id": 8112,
+    "mediaId": 12,
+    "date": "2/24/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Greg Bluestein",
+    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
+    "sentiment": "0"
+  },
+  {
     "id": 2126,
     "mediaId": 12,
-    "date": "2022-00-11",
+    "date": "4/11/2022 12:00:00 AM",
     "sentence": "It's up to <span class='selected-term'>Brian Kemp</span> and David Perdue to explain to Republican women and to all Georgians why they are excluding Kandiss Taylor from participating in multiple Republican primary debates,? Groh-Wargo said.",
     "author": "Tia Mitchell",
     "title": "The Jolt: Brian Kemp tangles with grassroots hecklers yelling Liar!'",
@@ -11,25 +20,16 @@
   {
     "id": 7202,
     "mediaId": 151,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "'No one's paying any attention': The week that Republicans ignored Trump's election lies",
     "sentiment": "-0.644"
   },
   {
-    "id": 8112,
-    "mediaId": 12,
-    "date": "2022-00-24",
-    "sentence": "",
-    "author": "Greg Bluestein",
-    "title": "The Jolt: Trump stepping up focus on Georgia candidates",
-    "sentiment": "0.0"
-  },
-  {
     "id": 8473,
     "mediaId": 157,
-    "date": "2022-00-26",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "Travis Gettys",
     "title": "Republicans talk trash about Trump as endorsements flop",
@@ -38,10 +38,19 @@
   {
     "id": 8571,
     "mediaId": 151,
-    "date": "2022-00-26",
+    "date": "5/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "'Trump picked this fight': Why heavyweight Republicans no longer fear Trump",
+    "sentiment": "0"
+  },
+  {
+    "id": 8772,
+    "mediaId": 157,
+    "date": "5/30/2022 12:00:00 AM",
+    "sentence": "On Monday, Pence made his most emphatic break yet with the ex-president when he headlined a rally for Trump foe <span class='selected-term'>Brian Kemp</span> on the eve of the Georgia governor's landslide victory over a Trump-backed primary challenger.",
+    "author": "Agence France-Presse",
+    "title": "The comeback kid: ex-VP Pence steps out of Trump's shadow",
     "sentiment": "0"
   }
 ]

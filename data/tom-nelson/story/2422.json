@@ -5,7 +5,7 @@
   "headline": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/01/2022-01-09T181837Z_1902241611_RC2UVR9S7Y0Y_RTRMADP_3_USA-SENATE-JOHNSON-1200x800.jpg",
   "link": "https://www.pbs.org/newshour/politics/wisconsin-republican-sen-ron-johnson-will-seek-reelection",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "PBS NewsHour",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,16 @@
   "termIds": [
     741,
     802,
+    1490,
     1568,
-    2039
+    1925,
+    1968,
+    2039,
+    2353,
+    428,
+    571,
+    2771,
+    2972
   ],
   "sentences": [
     "Why do we assume that the body's natural immune system isn't the marvel that it really is??\nJohnson has espoused conspiracy theories related to last year's Capitol raid that attempted to shift blame for what happened away from Trump supporters.",

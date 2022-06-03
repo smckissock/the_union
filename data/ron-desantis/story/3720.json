@@ -5,14 +5,17 @@
   "headline": "Can Disney Restore Wall Streets Faith in Hollywood (and Streaming) After a Dismal Earnings Cycle?",
   "image": "https://s.yimg.com/ny/api/res/1.2/MOu3oHWaoR_H3bnJTmPdcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/K8OdM0vO.Z9WdU6JzSDMxw--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thewrap.com/50126559c2039883ef4900b5ecfcfd8f",
   "link": "https://sg.news.yahoo.com/disney-restore-wall-street-faith-130000031.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joe Bel Bruno",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    351,
+    524,
+    2700
   ],
   "sentences": [
     "Investors hope the worlds largest entertainment conglomerate will calm frayed nerves after Netflix kicked off the industry-wide anxiety on April 19 by reporting a 200,000 drop in subscribers  its first loss in more than a decade  and warned of steeper declines ahead as layoffs have already begun.",

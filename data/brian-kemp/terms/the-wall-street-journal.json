@@ -1,20 +1,29 @@
 [
   {
-    "id": 7075,
-    "mediaId": 323,
-    "date": "2022-00-20",
-    "sentence": "Plus, Donald Trump recommends Mehmet Oz declare victory before all the votes have been counted in Pennsylvania, and the contest between Georgia Governor <span class='selected-term'>Brian Kemp</span> and David Perdue enters the homestretch.Read Transcript\nAD\nLoading advertisement...\n00:00\n1x\nSubscribe\nApple Podcasts\nGoogle Podcasts\nSpotify\niHeartRadio\nTuneIn\nStitcher\nAmazon Alexa\nRSS\nProsecutors presented evidence this week that Mr. Sussmann worked with cyber-researchers and opposition-research firm Fusion GPS to produce the claims on behalf of the Clinton campaign, and to feed them to the FBI.",
-    "author": "The Editorial Board",
-    "title": "Hillary Clinton Did It",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4949,
     "mediaId": 323,
-    "date": "2022-00-25",
+    "date": "4/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "The Editorial Board",
     "title": "Remain in Mexico Policy Goes to the Supreme Court",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 7075,
+    "mediaId": 323,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "Plus, Donald Trump recommends Mehmet Oz declare victory before all the votes have been counted in Pennsylvania, and the contest between Georgia Governor <span class='selected-term'>Brian Kemp</span> and David Perdue enters the homestretch.Read Transcript\nAD\nLoading advertisement...\n00:00\n1x\nSubscribe\nApple Podcasts\nGoogle Podcasts\nSpotify\niHeartRadio\nTuneIn\nStitcher\nAmazon Alexa\nRSS\nProsecutors presented evidence this week that Mr. Sussmann worked with cyber-researchers and opposition-research firm Fusion GPS to produce the claims on behalf of the Clinton campaign, and to feed them to the FBI.",
+    "author": "The Editorial Board",
+    "title": "Hillary Clinton Did It",
+    "sentiment": "0"
+  },
+  {
+    "id": 8741,
+    "mediaId": 195,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Max Greenwood",
+    "title": "Campaign Report  Biden confronts his most serious midterm issue",
+    "sentiment": "0"
   }
 ]

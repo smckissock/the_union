@@ -5,14 +5,23 @@
   "headline": "Abortion battles in states fire up after Supreme Court leak",
   "image": "https://www.chicagotribune.com/resizer/Tkd6oOJldSslfaeHu6VdW_lfvwo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/BVAQZIRWJBAOPLX7ZCAIATTCDU.jpg",
   "link": "https://www.chicagotribune.com/nation-world/ct-aud-nw-abortion-states-supreme-court-20220504-haobcystojdibfyndrdsyn3doe-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Chicago Tribune",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "LINDSAY WHITEHURST",
   "authorUrl": "",
   "termIds": [
-    3102
+    1625,
+    1713,
+    1935,
+    2069,
+    2140,
+    3102,
+    428,
+    482,
+    2590,
+    2957
   ],
   "sentences": [
     "(Wong Maye-E/AP)\nThe Supreme Courts apparent intention to abolish a nationwide right to abortion, spelled out in a draft opinion leaked this week, will expand the battlefield of the nations most highly charged culture war, taking it to states where abortion access has long been assured.",

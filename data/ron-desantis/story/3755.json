@@ -5,14 +5,17 @@
   "headline": "Some Florida School Yearbooks Delayed Over Student Protest Photos",
   "image": "https://d.newsweek.com/en/full/2035053/yearbook-delay-florida-dont-say-gay.webp?w=790&f=1a4ee96a237a46152097c1695e42a509",
   "link": "https://www.newsweek.com/some-florida-school-yearbooks-delayed-over-student-protest-photos-1705397",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Thomas Kika",
   "authorUrl": "https://www.newsweek.com/authors/thomas-kika",
   "termIds": [
-    661
+    661,
+    3450,
+    2661,
+    5120
   ],
   "sentences": [
     "Unfortunately, the pictures and descriptions that depicted this event did not meet school board policy and were not caught earlier in the review process...I look forward to everyone getting to see the yearbook and having the opportunity to enjoy it themselves.\"",

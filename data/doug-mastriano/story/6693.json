@@ -5,14 +5,20 @@
   "headline": "'Really terrible scenario': Pennsylvania Republican raises alarm about his own party's nominee for governor",
   "image": "https://www.rawstory.com/media-library/meet-the-far-right-pennsylvania-republican-who-believes-that-god-was-behind-trumps-attempted-coup.jpg?id=26721140&width=1200&coordinates=0%2C30%2C0%2C31&height=600",
   "link": "https://www.rawstory.com/doug-mastriano-2657345262/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brad Reed",
   "authorUrl": "https://www.rawstory.com/u/brad_reed",
   "termIds": [
-    3102
+    1990,
+    3102,
+    5247,
+    393,
+    428,
+    2862,
+    2865
   ],
   "sentences": [
     "Schmidt also emphasized that Pennsylvania governors are responsible for appointing their own secretaries of state, which would give Mastriano a free hand to appoint a fellow election denier to an office where they would be capable of refusing to certify election results.",

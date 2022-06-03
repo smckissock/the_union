@@ -5,14 +5,24 @@
   "headline": "Brad Raffensperger stood up to Trump. Now hes courting Trumps base.",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/20/brad-raffensperger-stood-up-trump-now-hes-courting-trumps-base/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Amy Gardner",
   "authorUrl": "https://www.washingtonpost.com/people/amy-gardner/",
   "termIds": [
-    2095
+    1147,
+    1152,
+    2087,
+    2095,
+    2203,
+    2279,
+    428,
+    501,
+    2555,
+    2672,
+    2900
   ],
   "sentences": [
     "Throughout the hour-long call, as Trump alternately berated Raffensperger, tried to flatter him, begged him to act and threatened him with vague criminal consequences if he refused to pursue his false claims, Raffensperger stood firm, explaining that the president was relying on debunked accusations and that Joe Bidens 11,779-vote victory in the state was fair and accurate.",

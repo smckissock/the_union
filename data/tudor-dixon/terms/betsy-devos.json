@@ -2,10 +2,19 @@
   {
     "id": 7302,
     "mediaId": 261,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "\"The DeVos family have decided to stand with <span class='selected-term'>Tudor Dixon</span> as being the next right governor for the state of Michigan,\" Dick DeVos said Monday on the Paul W. Smith show on WJR-AM in Detroit.",
     "author": "Paul Egan",
     "title": "Michigan's DeVos family throws its support behind Tudor Dixon for governor",
     "sentiment": "0.235"
+  },
+  {
+    "id": 8663,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The five remaining GOP gubernatorial candidates include <span class='selected-term'>Tudor Dixon</span>, Ryan Kelley, Ralph Rebandt, Kevin Rinke and Garrett Soldano.",
+    "author": "Amy B Wang",
+    "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
+    "sentiment": "0"
   }
 ]

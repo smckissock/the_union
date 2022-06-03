@@ -5,14 +5,15 @@
   "headline": "DeSantis promises to sign constitutional carry gun law before he leaves governors office",
   "image": "https://www.orlandosentinel.com/resizer/d7G1JY1rtAWA-iUiuWBpvoTcJc0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/KMJUVFKDWKI52ZDL5V4AF6JCUU.aspx",
   "link": "https://www.orlandosentinel.com/politics/os-ne-desantis-constitutional-carry-promise-20220429-2mcmlduttrdiph25kgfg6r4zge-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Orlando Sentinel",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jeffrey Schweers",
   "authorUrl": "https://www.orlandosentinel.com/os-jeffrey-schweers-bio-staff.html#nt=byline",
   "termIds": [
-    661
+    661,
+    2661
   ],
   "sentences": [
     "We used to be the leader on Second Amendment issues,? DeSantis said, noting that 25 other states have already passed constitutional carry legislation, which allows people to carry handguns without a concealed weapons license or permit.",

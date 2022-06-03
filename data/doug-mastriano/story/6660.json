@@ -5,14 +5,21 @@
   "headline": "Daywatch: Heres what the GOP candidates for Illinois governor said at a Tribune Editorial Board session",
   "image": "https://www.chicagotribune.com/resizer/qs228YW61AWWXhXsR5m8QeBuMts=/1200x630/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUBOS7ICUVFOJHY5XLBIM3ZQJ4.png",
   "link": "https://www.chicagotribune.com/news/ct-aud-cb-daywatch-newsletter-may18-20220518-pvj3m4wnanfzpfrctb3ykuzrxy-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Chicago Tribune",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Chicago Tribune staff",
   "authorUrl": "https://www.chicagotribune.com/chi-chicago-tribune-staff-20140826-staff.html#nt=byline",
   "termIds": [
-    3102
+    1567,
+    1990,
+    3102,
+    428,
+    3240,
+    5183,
+    2707,
+    5486
   ],
   "sentences": [
     "A Meta spokesperson said the augmented reality technology is not facial recognition, but the company was taking this step to prevent meritless and distracting litigation under laws in these two states based on a mischaracterization of how our features work.? Heres what to know about augmented reality and biometric privacy law.",

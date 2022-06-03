@@ -5,14 +5,17 @@
   "headline": "Josh Hawley introduces bill that would strip Disney of Mickey Mouse copyright",
   "image": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-continuous-scroll-mobile@1/v1652282419/GettyImages-543900540.jpg",
   "link": "https://theweek.com/josh-hawley/1013458/josh-hawley-introduces-bill-that-would-strip-disney-of-mickey-mouse-copyright",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Week",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brendan Morrow",
   "authorUrl": "https://theweek.com/authors/brendan-morrow",
   "termIds": [
-    661
+    661,
+    1448,
+    428,
+    524
   ],
   "sentences": [
     "As The Hollywood Reporter explains, Disney first received 56 years of copyright protection for Mickey Mouse but pushed for Congress to pass new copyright laws in the 1970s and 1990s, under which the character will not become public domain until 2024.",

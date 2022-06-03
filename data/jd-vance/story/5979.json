@@ -5,14 +5,23 @@
   "headline": "Trump-backed JD Vance secures GOP senate nomination  after brutal Ohio primary campaign",
   "image": "https://www.rawstory.com/media-library/ohio-gop-senate-candidate-jd-vance.jpg?id=29712481&width=1200&coordinates=0%2C66%2C0%2C67&height=600",
   "link": "https://www.rawstory.com/jd-vance-ohio/",
-  "sentiment": "0",
+  "sentiment": "0.68",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bob Brigham",
   "authorUrl": "https://www.rawstory.com/u/bob_brigham",
   "termIds": [
-    3103
+    1054,
+    1147,
+    1710,
+    1801,
+    2027,
+    2466,
+    3103,
+    428,
+    571,
+    2845
   ],
   "sentences": [
     "\"In the November general election, the Ohio Senate race is rated as 'solid Republican' by Inside Elections, 'lean R' by The Cook Political Report, and 'likely R' by Sabato's Crystal Ball at the University of Virginia Center for Politics,\" Business Insider reported.",

@@ -5,14 +5,20 @@
   "headline": "Trump endorses Mastriano for Pennsylvania governor",
   "image": "https://s.yimg.com/ny/api/res/1.2/Y9SqqrGiSVP3_Ew55OPJqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/5M1SRR3DSvXQNMG2VoHbtg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/c25297c89be3e1c56b74db7050d44144",
   "link": "https://sg.news.yahoo.com/trump-endorses-mastriano-pennsylvania-governor-144627985.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    1147,
+    1990,
+    2087,
+    3102,
+    393,
+    428,
+    2862
   ],
   "sentences": [
     "In August, Mastriano was removed from the state's 2020 election audit, as the state's top Republican senator said he was focused on \"politics and showmanship\" rather than an actual investigation.",

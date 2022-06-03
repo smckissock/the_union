@@ -5,14 +5,20 @@
   "headline": "Georgia lawmakers create flat income tax, cutting $1 billion",
   "image": "https://www.ajc.com/resizer/dZofX6zRCBNNpnawDOcXFtsvGHg=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/HJJDYLQ2A7BZ2XDGAIELNL2LOY.jpg",
   "link": "https://www.ajc.com/news/georgia-news/georgia-lawmakers-create-flat-income-tax-cutting-1-billion/KRRBFXELIZBXVEQBXKPXQMKGGQ/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "JEFF AMY",
   "authorUrl": "",
   "termIds": [
-    2095
+    1178,
+    2095,
+    3744,
+    428,
+    575,
+    2555,
+    2672
   ],
   "sentences": [
     "After the first cut, the rate would gradually step down by 0.1 percentage points each year until it got to 4.99% However, tax cuts would pause any year in which state revenue doesnt grow 3%, any year that revenue is lower than any of the five previous years, or any year the state doesnt have more money in its savings account than the tax cut would cost.",

@@ -5,7 +5,7 @@
   "headline": "Former Detroit Police Chief James Craig files lawsuit over removal from August ballot",
   "image": "https://www.gannett-cdn.com/authoring/video-thumbnails/f6b3ac1b-76b2-4d1d-bf48-60013625da27_poster.jpg?width=660&height=371&fit=crop&format=pjpg&auto=webp",
   "link": "https://www.freep.com/story/news/politics/elections/2022/05/28/james-craig-republican-gov-candidate-files-lawsuit/9967691002/",
-  "sentiment": "0.0",
+  "sentiment": "-0.622",
   "mediaOutlet": "Detroit Free Press",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,15 @@
   "authorUrl": "https://www.freep.com/staff/2646657001/paul-egan/",
   "termIds": [
     651,
+    1645,
     1844,
-    3099
+    3099,
+    308,
+    428,
+    2645,
+    2791,
+    2842,
+    6087
   ],
   "sentences": [
     "Elections staff found names of dead voters, voters who no longer lived at the address listed, multiple names clearly written in the same handwriting, and evidence of \"round tabling\" or \"round robining,\" in which multiple circulators pass around sheets, taking turns signing names so that the handwriting and ink does not match, according to reports released Monday.",

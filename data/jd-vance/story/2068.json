@@ -5,14 +5,23 @@
   "headline": "Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio",
   "image": "https://static01.nyt.com/images/2022/04/15/us/politics/15pol-ohio-vance/merlin_202912767_67fc18cf-bcce-46ce-a981-ca17a2f3ea27-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/04/15/us/politics/ohio-jd-vance-trump-endorsement.html",
-  "sentiment": "0",
+  "sentiment": "0.179",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3103
+    668,
+    683,
+    946,
+    1147,
+    1801,
+    2466,
+    3103,
+    428,
+    571,
+    2845
   ],
   "sentences": [
     "Calling Mr. Vance our best chance for victory in what could be a very tough race,? Mr. Trump said in a statement that the candidate was strong on the Border, tough on Crime, understands how to use Taxes and Tariffs to hold China accountable, will fight to break up Big Tech, and has been a warrior on the Rigged and Stolen Presidential Election.?\nThe move amounted to a major bet on Mr. Vance and on Mr. Trump's influence over Republican primary voters in conservative-leaning Ohio, where several high-profile candidates are facing off in a contentious and at times nasty campaign to replace the retiring Senator Rob Portman, a Republican.",

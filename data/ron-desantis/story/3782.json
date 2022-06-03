@@ -5,14 +5,21 @@
   "headline": "Va. school board delays vote on telling parents how students self-identify",
   "image": "",
   "link": "https://www.washingtonpost.com/education/2022/05/10/orange-county-schools-students-self-identify/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4345,
+    4579,
+    4754,
+    3647,
+    2661,
+    2849,
+    2953
   ],
   "sentences": [
     "One speaker cited Romans 12:2 from the Bible and asked the board not to heed to the patterns of the world.? He compared teachers who conversed with students about their gender identity or sexual orientation to groomers, whether it was grooming them to be social justice warriors or grooming them to be confused about their gender.? He told the board that teachers should be focused instead on subjects like civics, math or English.",

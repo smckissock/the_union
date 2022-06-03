@@ -5,14 +5,21 @@
   "headline": "Voting is surging in Georgia despite controversial new election law",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/21/voting-is-surging-georgia-despite-controversial-new-election-law/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Brown",
   "authorUrl": "https://www.washingtonpost.com/people/matthew-brown/",
   "termIds": [
-    2095
+    1147,
+    1951,
+    2087,
+    2095,
+    2203,
+    2555,
+    2672,
+    5487
   ],
   "sentences": [
     "The law imposes new identification requirements for those casting ballots by mail, curtails the use of drop boxes for absentee ballots, makes it a crime for third-party groups to hand out food and water to voters standing in line, blocks the use of mobile voting vans  as Fulton County did in 2020 after purchasing two vehicles at a cost of more than $700,000  and prevents local governments from directly accepting grants from the private sector for election administration.",

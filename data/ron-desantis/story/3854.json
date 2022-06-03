@@ -5,14 +5,20 @@
   "headline": "Dem senator spars with Fox News host over Florida law",
   "image": "https://www.politico.com/dims4/default/286a423/2147483647/legacy_thumbnail/1200x799%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0d%2F88%2F05a613ed4f8d8a5fa62415173b4c%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1320211362",
   "link": "https://www.politico.com/news/2022/05/08/murphy-baier-florida-dont-say-gay-00030902",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1949,
+    2013,
+    199,
+    200,
+    428,
+    2661
   ],
   "sentences": [
     "This effort in Florida to sort-of target gay kids in schools, I just think is mean-spirited and something that I had not seen from the Republican Party when I first started out in politics 20 years ago.?\nBaier interrupted Murphy to challenge him, saying the law  which has sparked a national battle over sex education and gender issues since being signed by Republican Gov.",

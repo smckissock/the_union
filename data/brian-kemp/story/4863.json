@@ -5,14 +5,18 @@
   "headline": "Political Antics: Democrats take aim at Kemps education bill signing blitz",
   "image": "https://www.wabe.org/app/uploads/2019/06/AP_99031201969.jpg",
   "link": "https://www.wabe.org/?p=277545",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    4781,
+    146,
+    2662,
+    2672
   ],
   "sentences": [
     "How can you not teach intersectionality when you have to teach about the lived experience of people throughout history who have different identities and different experiences??\nThe legislation doesnt mention critical race theory, which is typically taught in graduate-level coursework but has become a catchall term for conservative opponents of diversity and inclusion training and education.",

@@ -5,14 +5,23 @@
   "headline": "Sen. Marco Rubio avoids saying which national abortion ban Republicans should run on in the midterm elections, predicting states would decide",
   "image": "https://i.insider.com/62897fbeb9dbb40018cb2f4f?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/marco-rubio-wont-say-which-abortion-ban-he-supports-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Kimberly Leonard",
   "authorUrl": "https://www.businessinsider.com/author/kimberly-leonard",
   "termIds": [
-    661
+    661,
+    971,
+    1341,
+    2087,
+    5353,
+    146,
+    428,
+    482,
+    571,
+    2661
   ],
   "sentences": [
     "Ever since the Supreme Court leak, Democratic campaigns have been pressuring Republicans to say whether they support banning abortion even in cases of rape and incest, and Republican campaigns have been pressuring Democrats to say whether they believe abortion should be allowed even in the final stages of pregnancy.",

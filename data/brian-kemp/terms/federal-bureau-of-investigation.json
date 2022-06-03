@@ -1,29 +1,29 @@
 [
   {
-    "id": 3392,
-    "mediaId": 238,
-    "date": "2022-00-16",
-    "sentence": "",
-    "author": "Olivier Knox",
-    "title": "Progressives (mostly) line up behind Bidens Ukraine policy",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7075,
-    "mediaId": 323,
-    "date": "2022-00-20",
-    "sentence": "Plus, Donald Trump recommends Mehmet Oz declare victory before all the votes have been counted in Pennsylvania, and the contest between Georgia Governor <span class='selected-term'>Brian Kemp</span> and David Perdue enters the homestretch.Read Transcript\nAD\nLoading advertisement...\n00:00\n1x\nSubscribe\nApple Podcasts\nGoogle Podcasts\nSpotify\niHeartRadio\nTuneIn\nStitcher\nAmazon Alexa\nRSS\nProsecutors presented evidence this week that Mr. Sussmann worked with cyber-researchers and opposition-research firm Fusion GPS to produce the claims on behalf of the Clinton campaign, and to feed them to the FBI.",
-    "author": "The Editorial Board",
-    "title": "Hillary Clinton Did It",
-    "sentiment": "0.0"
-  },
-  {
     "id": 5047,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "Trump rages against <span class='selected-term'>Brian Kemp</span> for purportedly conspiring against Marjorie Taylor Greene\nWatrous said that after sitting on the steps for approximately 15 minutes, he walked away and met a woman who had a YouTube channel whom he told he had gone inside and there wasnt much to see.? The woman wanted to go inside the Capitol and Watrous stated he reentered the Capitol with her.?\nPerhaps sealing Watrous fate was this interchange with the judge, as reported by Syracuse.com:\nWatrous, who was seeking probation rather than jail, told Howell that he was 100% on the side of Capitol Police,? according to MacFarlane.",
     "author": "Ray Hartmann",
     "title": "Capitol rioter gets smacked down by judge after claiming he was not 'part of that mob'",
     "sentiment": "-0.796"
+  },
+  {
+    "id": 3392,
+    "mediaId": 238,
+    "date": "5/16/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Olivier Knox",
+    "title": "Progressives (mostly) line up behind Bidens Ukraine policy",
+    "sentiment": "0"
+  },
+  {
+    "id": 7075,
+    "mediaId": 323,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "Plus, Donald Trump recommends Mehmet Oz declare victory before all the votes have been counted in Pennsylvania, and the contest between Georgia Governor <span class='selected-term'>Brian Kemp</span> and David Perdue enters the homestretch.Read Transcript\nAD\nLoading advertisement...\n00:00\n1x\nSubscribe\nApple Podcasts\nGoogle Podcasts\nSpotify\niHeartRadio\nTuneIn\nStitcher\nAmazon Alexa\nRSS\nProsecutors presented evidence this week that Mr. Sussmann worked with cyber-researchers and opposition-research firm Fusion GPS to produce the claims on behalf of the Clinton campaign, and to feed them to the FBI.",
+    "author": "The Editorial Board",
+    "title": "Hillary Clinton Did It",
+    "sentiment": "0"
   }
 ]

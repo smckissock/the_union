@@ -1,35 +1,8 @@
 [
   {
-    "id": 4810,
-    "mediaId": 151,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "",
-    "title": "Trumps criminal justice reform bill becomes persona non grata among GOPers",
-    "sentiment": "0"
-  },
-  {
-    "id": 5280,
-    "mediaId": 12,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Ernie Suggs",
-    "title": "Black Atlanta women judges say Ketanji Brown Jackson scrutiny familiar",
-    "sentiment": "0"
-  },
-  {
-    "id": 5266,
-    "mediaId": 233,
-    "date": "2022-00-07",
-    "sentence": "",
-    "author": "Editors",
-    "title": "Jackson's Senate confirmation, Ukraine-Russia war, the Masters: 5 things to know Thursday",
-    "sentiment": "0.0"
-  },
-  {
     "id": 1089,
     "mediaId": 19,
-    "date": "2022-00-26",
+    "date": "3/26/2022 12:00:00 AM",
     "sentence": "Right here in your state, we are going to throw out your spineless RINO Governor <span class='selected-term'>Brian Kemp</span>, and we are going to replace him with a fearless America First patriot in David Perdue,? Trump plans to say.",
     "author": "Ashley Oliver",
     "title": "Exclusive  Trump at Georgia Rally: A Vote for RINO Brian Kemp' Is a Vote for Stacey Abrams'",
@@ -38,19 +11,46 @@
   {
     "id": 5441,
     "mediaId": 124,
-    "date": "2022-00-28",
+    "date": "3/28/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Midterm environment looks more like 2010 than 2018 in NBC News poll",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 5399,
     "mediaId": 323,
-    "date": "2022-00-30",
+    "date": "3/30/2022 12:00:00 AM",
     "sentence": "WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022Play video: WSJ Opinion: Stacey Abrams, Voter Suppression and Georgia 2022\n Potomac Watch: Stacey Abrams lost the 2018 Georgia governor's race to republican <span class='selected-term'>Brian Kemp</span>, and to this day she's never accepted the result.",
     "author": "The Editorial Board",
     "title": "Tennessees Political Protection Racket",
     "sentiment": "-0.67"
+  },
+  {
+    "id": 5280,
+    "mediaId": 12,
+    "date": "4/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Ernie Suggs",
+    "title": "Black Atlanta women judges say Ketanji Brown Jackson scrutiny familiar",
+    "sentiment": "0"
+  },
+  {
+    "id": 5266,
+    "mediaId": 233,
+    "date": "4/7/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Editors",
+    "title": "Jackson's Senate confirmation, Ukraine-Russia war, the Masters: 5 things to know Thursday",
+    "sentiment": "0"
+  },
+  {
+    "id": 4810,
+    "mediaId": 151,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Trumps criminal justice reform bill becomes persona non grata among GOPers",
+    "sentiment": "0"
   }
 ]

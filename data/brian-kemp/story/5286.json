@@ -5,14 +5,23 @@
   "headline": "Tornadoes Decimate Small Towns in Georgia, South Carolina, Leaving 1 Dead",
   "image": "https://d.newsweek.com/en/full/2015666/tornado-aftermath.webp?w=790&f=9614d9c7e68b9db8372226ff24b98c63",
   "link": "https://www.newsweek.com/tornadoes-decimate-small-towns-georgia-south-carolina-leaving-1-dead-1695526",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Zoe Strozewski",
   "authorUrl": "https://www.newsweek.com/authors/zoe-strozewski",
   "termIds": [
-    2095
+    2095,
+    539,
+    3532,
+    3658,
+    2672,
+    2910,
+    4915,
+    4935,
+    5093,
+    5135
   ],
   "sentences": [
     "South Carolina Governor Henry McMaster had not posted anything on Twitter about the weather by Wednesday morning, but he urged state residents Tuesday night to monitor local forecasts and be prepared to take precautions for their safety.",

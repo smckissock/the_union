@@ -1,38 +1,38 @@
 [
   {
-    "id": 7793,
-    "mediaId": 124,
-    "date": "2022-00-12",
-    "sentence": "White House removes Dr. Oz and <span class='selected-term'>Herschel Walker</span> from advisory panel after Senate runs\nMarch 24, 202200:17\nBut by the time McCormick showed up Wednesday, Trump was already close to endorsing Oz, said two other Trump advisers, who said Trump wasnt swayed by the arguments of those close to him who were backing McCormick.",
-    "author": "",
-    "title": "Dr. Oz bets Trump endorsement can catapult him in Pa. Senate race",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 6196,
-    "mediaId": 195,
-    "date": "2022-00-23",
-    "sentence": "He has endorsed a number of a candidates in GOP Senate primaries who make the party establishment uneasy  former football star <span class='selected-term'>Herschel Walker</span> in Georgia, TV personality Mehmet Oz in Pennsylvania and author J.D.",
-    "author": "Niall Stanage",
-    "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7464,
-    "mediaId": 157,
-    "date": "2022-00-24",
-    "sentence": "Federal and state campaign records show the GOP candidates backed by the former president spent tens of thousands of dollars at the private club, and Georgia Senate candidate <span class='selected-term'>Herschel Walker</span> spent nearly $200,000 there so far during the election cycle, including a payment of more than $135,000 in December and about $65,000 last month, reported CNBC.",
-    "author": "Travis Gettys",
-    "title": "GOP candidates spent $400K at Mar-A-Lago asking for Trumps endorsement",
-    "sentiment": "0"
-  },
-  {
     "id": 8112,
     "mediaId": 12,
-    "date": "2022-00-24",
+    "date": "2/24/2022 12:00:00 AM",
     "sentence": "The Florida compound will host back-to-back fundraisers in mid-March, along with a third <span class='selected-term'>Herschel Walker</span> event.",
     "author": "Greg Bluestein",
     "title": "The Jolt: Trump stepping up focus on Georgia candidates",
     "sentiment": "0.428"
+  },
+  {
+    "id": 7793,
+    "mediaId": 124,
+    "date": "4/12/2022 12:00:00 AM",
+    "sentence": "White House removes Dr. Oz and <span class='selected-term'>Herschel Walker</span> from advisory panel after Senate runs\nMarch 24, 202200:17\nBut by the time McCormick showed up Wednesday, Trump was already close to endorsing Oz, said two other Trump advisers, who said Trump wasnt swayed by the arguments of those close to him who were backing McCormick.",
+    "author": "",
+    "title": "Dr. Oz bets Trump endorsement can catapult him in Pa. Senate race",
+    "sentiment": "0"
+  },
+  {
+    "id": 6196,
+    "mediaId": 195,
+    "date": "4/23/2022 12:00:00 AM",
+    "sentence": "He has endorsed a number of a candidates in GOP Senate primaries who make the party establishment uneasy  former football star <span class='selected-term'>Herschel Walker</span> in Georgia, TV personality Mehmet Oz in Pennsylvania and author J.D.",
+    "author": "Niall Stanage",
+    "title": "The Memo: McCarthy furor underlines Trumps grip on GOP",
+    "sentiment": "0"
+  },
+  {
+    "id": 7464,
+    "mediaId": 157,
+    "date": "5/24/2022 12:00:00 AM",
+    "sentence": "Federal and state campaign records show the GOP candidates backed by the former president spent tens of thousands of dollars at the private club, and Georgia Senate candidate <span class='selected-term'>Herschel Walker</span> spent nearly $200,000 there so far during the election cycle, including a payment of more than $135,000 in December and about $65,000 last month, reported CNBC.",
+    "author": "Travis Gettys",
+    "title": "GOP candidates spent $400K at Mar-A-Lago asking for Trumps endorsement",
+    "sentiment": "0"
   }
 ]

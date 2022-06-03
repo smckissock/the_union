@@ -5,14 +5,21 @@
   "headline": "The Disney fiasco could have ominous consequences for Floridas government, major credit agency warns",
   "image": "https://s.yimg.com/ny/api/res/1.2/xWfkQ87Ndf2Y32vW8rDg0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/5XTTGO6Reix5U1qq3FG44g--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/00185e458afe72c4d37996a650ac50f2",
   "link": "https://finance.yahoo.com/news/disney-fiasco-could-ominous-consequences-185401161.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Colin Lodewick",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    524,
+    3269,
+    2661,
+    2849,
+    5082,
+    5109,
+    5130
   ],
   "sentences": [
     "Late on Thursday, Fitch Ratingsone of the Big Three? credit rating agenciessent a warning to Florida: Dissolving Disneys special district without careful provision for its outstanding debt could threaten the states financial reputation.",

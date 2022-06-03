@@ -5,7 +5,7 @@
   "headline": "Column: Trump's goal is to solidify control over the GOP, not help it win elections",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/69c2462/2147483647/strip/true/crop/3600x2400+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Fa0%2F60c2f17f4dc5849f142e050ecfe7%2Felection-2022-ohio-06721.jpg",
   "link": "https://www.latimes.com/opinion/story/2022-05-17/donald-trump-endorsements-conservatives-maga-conservatives-republicans",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     661,
-    3094
+    1147,
+    1653,
+    1710,
+    2491,
+    3094,
+    4713,
+    428,
+    2661,
+    2666,
+    2862
   ],
   "sentences": [
     "I have Donald Trump tattooed on my rear end.'?\nCruz's remarks invited mockery, given that he battled Trump for the GOP presidential nomination in 2016 all the way to the convention and then pledged his love for Trump  despite the fact that Trump had insulted Cruz's wife, suggested Cruz's father was linked to President Kennedy's assassination and claimed Cruz stole the Iowa caucuses.",

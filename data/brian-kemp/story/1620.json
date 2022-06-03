@@ -5,14 +5,22 @@
   "headline": "The Jolt: Brian Kemp says no more election law changes this year",
   "image": "https://www.ajc.com/resizer/ha8oJIMVDKEgJzaj9yzuFDrSrow=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/AH7O2I3M673FYVTRAAGNQTCWYA.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-brian-kemp-says-no-more-election-law-changes-this-year/CG3KWAR6LRBENPDPE6O457E7HA/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Bluestein",
   "authorUrl": "https://www.ajc.com/staff/greg-bluestein/",
   "termIds": [
-    2095
+    2040,
+    2087,
+    2095,
+    220,
+    428,
+    513,
+    571,
+    2555,
+    2586
   ],
   "sentences": [
     "I told the leader (of the Senate), You're not going to see me being part of a caucus that's running around primarying a bunch of our members because they're not conservative enough.?\nCongressional Democrats' new strategy for passing federal voting legislation took shape late Wednesday, but the question remains: are 50 Democrats in the Senate willing to change the rules so that Republicans can't use the filibuster to block action?",

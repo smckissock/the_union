@@ -5,14 +5,23 @@
   "headline": "Floridas $1 Billion Disney Question",
   "image": "https://images.wsj.net/im-535222?width=860&size=1.3837837837837839&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/floridas-1-billion-disney-question-11651347911",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Heather Gillers",
   "authorUrl": "https://www.wsj.com/news/author/heather-gillers",
   "termIds": [
-    661
+    661,
+    4721,
+    524,
+    611,
+    3326,
+    3425,
+    2661,
+    5029,
+    5082,
+    5109
   ],
   "sentences": [
     "Open Queue\nWhen Florida Republicans approved a bill to strip Walt Disney Co. DIS -3.17% of its special taxing privileges in April amid controversy over how gender and sexuality are taught in schools, they failed to address a key question: Who is responsible for paying back nearly $1 billion in municipal debt used to build roads, walkways and other infrastructure around Disney World?",

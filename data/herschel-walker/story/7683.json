@@ -5,14 +5,23 @@
   "headline": "The enduring value of the NFL drafts most famous and misunderstood chart",
   "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OZFRPVNT6RBRBHZNRTWLTNP4YM.jpg&w=916",
   "link": "https://www.washingtonpost.com/sports/2022/04/25/nfl-trade-value-chart/",
-  "sentiment": "0.0",
+  "sentiment": "0.583",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Sam Fortier",
   "authorUrl": "https://www.washingtonpost.com/people/sam-fortier/",
   "termIds": [
-    815
+    815,
+    5697,
+    5888,
+    5971,
+    5972,
+    6031,
+    582,
+    5567,
+    5579,
+    5621
   ],
   "sentences": [
     "In the three decades since  despite the leagues tremendous structural changes, despite a growing number of critics poking holes in the chart, despite many teams developing their own charts, despite McCoys own admission that he created a history textbook instead of a price list  the chart has endured, more or less controlling the trade market of draft picks.",

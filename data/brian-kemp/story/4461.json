@@ -5,16 +5,24 @@
   "headline": "The Hills Morning Report  Recount looms in Pennsylvania",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/MR_pennsylvaniaballot_051822_ap.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/morning-report/3493920-the-hills-morning-report-recount-looms-in-pennsylvania/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Alexis Simendinger",
   "authorUrl": "https://thehill.com/author/alexis-simendinger/",
   "termIds": [
+    1148,
+    1765,
+    1770,
+    1864,
     2095,
     3102,
-    3103
+    3103,
+    2862,
+    2888,
+    2912,
+    2942
   ],
   "sentences": [
     "As The Hills Morgan Chalfant and Laura Kelly report, Bidens efforts to focus his international attentions on allies and military security in Asia  and on Beijings nationalist aims  were overtaken this year by Russias war with Ukraine, which experts say virtually guarantees the U.S. will need to devote more resources in the short and medium term to bolstering European security in addition to confronting China.",

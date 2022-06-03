@@ -5,14 +5,20 @@
   "headline": "NYC politician pulls funding from Jewish museum over alleged DeSantis snub",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a13c49a7-a234-4f00-a210-e23fd913c629/7bd39b5a-67a1-4ec3-b510-6fd5f1040f81/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/ny-politician-funding-jewish-museum-desantis-snub",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lawrence Richard",
   "authorUrl": "https://www.foxnews.com/person/r/lawrence-richard",
   "termIds": [
-    661
+    661,
+    4160,
+    3426,
+    3446,
+    2661,
+    2721,
+    2826
   ],
   "sentences": [
     "Councilwoman Inna Vernikov, one of five GOP city lawmakers, said in a statement on Sunday that she would be withholding a $5,000 donation she previously planned to give the Museum of Jewish Heritage after she claimed the museum barred the Republican governor from a speaking event.",

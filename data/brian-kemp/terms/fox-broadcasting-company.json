@@ -1,20 +1,20 @@
 [
   {
-    "id": 4140,
-    "mediaId": 65,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Jack Durschlag",
-    "title": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4841,
     "mediaId": 33,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jamie Gangel",
     "title": "CNN Exclusive: New text messages reveal Fox's Hannity advising Trump White House and seeking direction",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 4140,
+    "mediaId": 65,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jack Durschlag",
+    "title": "Landmark abortion ruling to be struck down, leak suggests; High prices here to stay, experts say",
+    "sentiment": "0"
   }
 ]

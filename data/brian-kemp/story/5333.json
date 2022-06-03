@@ -5,14 +5,18 @@
   "headline": "Georgia governor signs sweeping mental health bill into law",
   "image": "https://www.ajc.com/resizer/ipY-VCo3IqKrBNX4hp4eJ4oXKqw=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/WOCGX5PPUKADBRXEBHSAWNL45I.jpg",
   "link": "https://www.ajc.com/news/georgia-news/georgia-governor-signs-sweeping-mental-health-bill-into-law/EGONVEOBGNFYBO2BBURASRQOEE/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "SUDHIN THANAWALA",
   "authorUrl": "",
   "termIds": [
-    2095
+    1178,
+    2095,
+    3339,
+    2555,
+    2672
   ],
   "sentences": [
     "Today, we fulfill Speaker Ralston's vision and that of so many others who have partnered for this accomplishment to bring hope to the many families across Georgia who have a loved one suffering from some form of mental or behavioral challenge,\" Kemp said at the state Capitol.",

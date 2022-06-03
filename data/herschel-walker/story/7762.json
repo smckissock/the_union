@@ -5,14 +5,20 @@
   "headline": "'The View's' Sunny Hostin claims Trump 'ran the country into the ground' despite multiple crises under Biden",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ceaf5f2-e1d7-4ac9-a679-1ede8f1f9e54/b797c3ec-3fe2-48a7-97d8-c2158a3938bf/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/the-view-sunny-hostin-trump-country-ground-crises-biden",
-  "sentiment": "0.0",
+  "sentiment": "-0.409",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brandon Gillespie",
   "authorUrl": "https://www.foxnews.com/person/g/brandon-gillespie",
   "termIds": [
-    815
+    787,
+    815,
+    1147,
+    1653,
+    2087,
+    4337,
+    5977
   ],
   "sentences": [
     "Hostin argued that the vast support being seen for celebrity candidates, despite their lack of political experience, was due to \"the cult of celebrity,\" adding she was \"shocked\" when Trump won the 2016 presidential election \"on his business record\" when, she falsely claimed, he \"wasn't a real businessman.\"",

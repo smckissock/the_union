@@ -5,7 +5,7 @@
   "headline": "*** Election Night Livewire *** Georgia, Alabama, Texas, Arkansas, Minnesota Vote in Key Primaries",
   "image": "https://media.breitbart.com/media/2022/04/AP22115061957308-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/24/election-night-livewire-georgia-alabama-texas-arkansas-minnesota-vote-in-key-primaries/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,17 @@
   "authorUrl": "https://www.breitbart.com/author/matthew-boyle/",
   "termIds": [
     815,
-    2095
+    896,
+    2095,
+    2422,
+    2475,
+    4325,
+    2537,
+    2551,
+    2557,
+    2672,
+    2796,
+    2934
   ],
   "sentences": [
     "ET\nFormer President Donald Trumps team passes along this list of endorsements he has made in tonights elections:\nAlabama-01: Carl, Jerry\nAlabama-02: Moore, Barry\nAlabama-03: Rogers, Mike\nAlabama-04: Aderholt, Robert\nAlabama-06: Palmer, Gary\n\nArkansas-Senate: Boozman, John\nArkansas-Governor: Sanders, Sarah Huckabee\nArkansas-Attorney General: Griffin, Tim\nArkansas-01: Crawford, Rick\nArkansas-04: Westerman, Bruce\n\nGeorgia-Governor: Perdue, David\nGeorgia-Lieutenant Governor: Jones, Burt\nGeorgia-Secretary of State: Hice, Jody\nGeorgia-Attorney General: Gordon, John\nGeorgia-Insurance Commissioner: Witt, Patrick\nGeorgia-Senate: Walker, Herschel\nGeorgia-01: Carter, Buddy\nGeorgia-06: Evans, Jake\nGeorgia-09: Clyde, Andrew\nGeorgia-10: Jones, Vernon\nGeorgia-11: Loudermilk, Barry\nGeorgia-12: Allen, Rick\nGeorgia-14: Greene, Marjorie Taylor\n\nTexas-Attorney General: Paxton, Ken\nTexas-Land Commissioner: Buckingham, Dawn\nTexas-State House-61: Frazier, Frederick\nTexas-State Senate-24: Flores, Pete\nTexas-Tarrant County-District Attorney: Sorrells, Phil\nTrump is expected to win many of these, but some are going to be tightespecially those in Georgia.",

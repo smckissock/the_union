@@ -5,14 +5,21 @@
   "headline": "Biden asks GOP Senate candidates Mehmet Oz, Herschel Walker to resign from presidential board",
   "image": "https://www.gannett-cdn.com/presto/2021/09/09/USAT/a7e501b5-e4ed-4930-be12-3bb01b98449d-desktop_biden_thumb.png?crop=1911,1075,x0,y0&width=1911&height=1075&format=pjpg&auto=webp",
   "link": "https://www.usatoday.com/story/news/politics/2022/03/24/biden-mehmet-oz-herschel-walker-presidents-council/7152919001/",
-  "sentiment": "0.0",
+  "sentiment": "-0.881",
   "mediaOutlet": "USA Today",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Rick Rouan",
   "authorUrl": "https://www.usatoday.com/staff/3457496001/rick-rouan/",
   "termIds": [
-    815
+    815,
+    1147,
+    1653,
+    2087,
+    5915,
+    5968,
+    428,
+    571
   ],
   "sentences": [
     "Resign or be fired\nOz and Walker received their appointments to the committee, alongside famed sports figures such as New England Patriots coach Bill Belichick and ex-New York Yankees pitcher Mariano Rivera, in December 2020 as Trump was finishing the final days of his term.",

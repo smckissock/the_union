@@ -5,14 +5,23 @@
   "headline": "Key issues",
   "image": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5HKQ5IMGGNH4VBWHM46OPXNWTQ.png&w=1800",
   "link": "https://www.washingtonpost.com/politics/interactive/2022/key-issues-voting-2022-midterms/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1174,
+    2058,
+    2087,
+    2305,
+    146,
+    149,
+    482,
+    571,
+    2934
   ],
   "sentences": [
     "Abortion\nAbortion was catapulted to the forefront in May after Politico published an authentic draft of an opinion written by Justice Samuel A. Alito Jr., showing that the Supreme Court was positioned to strike down Roe v. Wade in the case involving Mississippis restrictive abortion law.",

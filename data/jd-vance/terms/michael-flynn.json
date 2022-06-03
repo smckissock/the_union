@@ -1,35 +1,8 @@
 [
   {
-    "id": 6056,
-    "mediaId": 157,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "Sarah K. Burris",
-    "title": "Trump accidentally endorses JD Vance opponent Josh Mandel after bragging about his dementia test scores",
-    "sentiment": "-0.226"
-  },
-  {
-    "id": 5994,
-    "mediaId": 195,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Olafimihan Oshin",
-    "title": "Mandel confident of win in Ohio GOP Senate primary without Trump endorsement",
-    "sentiment": "0"
-  },
-  {
-    "id": 6000,
-    "mediaId": 65,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Amy Nelson",
-    "title": "Josh Mandel 'confident' he'll win Ohio GOP Senate primary without Trump's support",
-    "sentiment": "0"
-  },
-  {
     "id": 6266,
     "mediaId": 157,
-    "date": "2022-00-21",
+    "date": "4/21/2022 12:00:00 AM",
     "sentence": "",
     "author": "Matthew Chapman",
     "title": "Starbucks' Howard Schultz suffers 'hugely embarrassing blow' after his iconic Seattle roastery unionizes",
@@ -38,7 +11,7 @@
   {
     "id": 6221,
     "mediaId": 163,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "James Oliphant",
     "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
@@ -47,7 +20,7 @@
   {
     "id": 6223,
     "mediaId": 165,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jack Crosbie",
     "title": "After Losing Trumps Endorsement, Ohio Republican Calls in Mike Flynn to Dial Up the MAGA Insanity",
@@ -56,7 +29,7 @@
   {
     "id": 6224,
     "mediaId": 151,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Vance surge remakes Ohio Senate race",
@@ -65,7 +38,7 @@
   {
     "id": 6234,
     "mediaId": 558,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "James Oliphant",
     "title": "The golden ticket: Will Trump's endorsement in Ohio race burnish or tarnish his star power?",
@@ -74,7 +47,7 @@
   {
     "id": 6242,
     "mediaId": 157,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Sky Palma",
     "title": "Michael Flynn says Trump made a 'huge mistake' endorsing J.D. Vance: 'People around him are advising him poorly'",
@@ -83,7 +56,7 @@
   {
     "id": 6194,
     "mediaId": 136,
-    "date": "2022-00-23",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jason Lemon",
     "title": "Trump Ohio Rally to Inflame MAGA-World Civil War Over J.D. Vance Senate Bid",
@@ -92,7 +65,7 @@
   {
     "id": 6148,
     "mediaId": 43,
-    "date": "2022-00-26",
+    "date": "4/26/2022 12:00:00 AM",
     "sentence": "",
     "author": "David Neiwert\nDaily Kos Staff",
     "title": "Trumpists coalesce at megachurch rallies to create their own brand of",
@@ -101,10 +74,37 @@
   {
     "id": 6085,
     "mediaId": 151,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Republican who refuses to bend the knee to Trump surges in Ohio Senate race",
+    "sentiment": "0"
+  },
+  {
+    "id": 6056,
+    "mediaId": 157,
+    "date": "5/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Sarah K. Burris",
+    "title": "Trump accidentally endorses JD Vance opponent Josh Mandel after bragging about his dementia test scores",
+    "sentiment": "-0.226"
+  },
+  {
+    "id": 5994,
+    "mediaId": 195,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Olafimihan Oshin",
+    "title": "Mandel confident of win in Ohio GOP Senate primary without Trump endorsement",
+    "sentiment": "0"
+  },
+  {
+    "id": 6000,
+    "mediaId": 65,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Amy Nelson",
+    "title": "Josh Mandel 'confident' he'll win Ohio GOP Senate primary without Trump's support",
     "sentiment": "0"
   }
 ]

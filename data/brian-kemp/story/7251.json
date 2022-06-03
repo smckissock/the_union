@@ -5,14 +5,22 @@
   "headline": "Inside the Republican push to stop Trumps vendetta tour in Georgia",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/22/trump-kemp-perdue-georgia/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Matthew Brown",
   "authorUrl": "https://www.washingtonpost.com/people/matthew-brown/",
   "termIds": [
-    2095
+    761,
+    1147,
+    1284,
+    1434,
+    2095,
+    146,
+    425,
+    428,
+    2672
   ],
   "sentences": [
     "Meeting at the desert Biltmore resort in Phoenix in mid-November, they agreed to confront a new threat to their incumbents: Former president Donald Trump was ramping up support for primary challengers as part of what one former governor called a personal vendetta tour.?\nTo protect incumbents up for reelection this year, the Republican Governors Association decided to spend millions of dollars in primaries, an unusual step for an organization that typically reserves its cash for general election matchups against Democrats.",

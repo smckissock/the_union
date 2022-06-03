@@ -5,15 +5,22 @@
   "headline": "Kevin McCarthy squaring off with far-right Republicans over pivotal House seat: report",
   "image": "https://www.rawstory.com/media-library/kevin-mccarthy-marjorie-taylor-greene.jpg?id=29424872&width=1200&coordinates=0%2C17%2C0%2C33&height=600",
   "link": "https://www.rawstory.com/kevin-mccarthy-2656789909/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Boggioni",
   "authorUrl": "https://www.rawstory.com/u/tom_boggioni",
   "termIds": [
+    1609,
     2125,
-    2303
+    2248,
+    2303,
+    403,
+    428,
+    562,
+    2661,
+    2707
   ],
   "sentences": [
     "I'm going to side with the Jim Jordans  the tip of the spear in Washington.?\n\"This Texas primary is reigniting the long-running, intra-party battle between insurgent candidates  tea partiers in the early 2010s, MAGA-world in the 2020s  and more establishment-oriented Republicans, each trying to grow their influence in Congress.",

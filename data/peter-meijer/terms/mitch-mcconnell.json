@@ -1,20 +1,20 @@
 [
   {
-    "id": 68,
-    "mediaId": 163,
-    "date": "2022-00-01",
-    "sentence": "Scalise gave money in September to at least three House members who voted to impeach Trump: <span class='selected-term'>Peter Meijer</span> of Michigan and Jaime Herrera Beutler of Washington state - who are both facing Trump-endorsed challengers - as well as David Valadao of California.",
-    "author": "Alexandra Ulmer",
-    "title": "Republican U.S. lawmakers funnel money to colleagues who crossed Trump",
-    "sentiment": "0.0"
-  },
-  {
     "id": 85,
     "mediaId": 129,
-    "date": "2022-00-05",
+    "date": "1/5/2022 12:00:00 AM",
     "sentence": "Representatives Jaime Herrera Beutler of Washington, <span class='selected-term'>Peter Meijer</span> of Michigan and Fred Upton of Michigan have Trump-endorsed primary challengers on their heels and uncertain political futures.",
     "author": "",
     "title": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 68,
+    "mediaId": 163,
+    "date": "2/1/2022 12:00:00 AM",
+    "sentence": "Scalise gave money in September to at least three House members who voted to impeach Trump: <span class='selected-term'>Peter Meijer</span> of Michigan and Jaime Herrera Beutler of Washington state - who are both facing Trump-endorsed challengers - as well as David Valadao of California.",
+    "author": "Alexandra Ulmer",
+    "title": "Republican U.S. lawmakers funnel money to colleagues who crossed Trump",
+    "sentiment": "0"
   }
 ]

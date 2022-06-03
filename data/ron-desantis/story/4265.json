@@ -5,14 +5,20 @@
   "headline": "Potential DeSantis Challenger Charlie Crist Is Open to Forcing Masks in Florida",
   "image": "https://media.breitbart.com/media/2022/05/Election-2022-Florida-Governor-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/02/potential-desantis-challenger-charlie-crist-open-forcing-masks-florida/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Hannah Bleau",
   "authorUrl": "https://www.breitbart.com/author/hannah-bleau/",
   "termIds": [
-    661
+    661,
+    1761,
+    3636,
+    2661,
+    2851,
+    2863,
+    5162
   ],
   "sentences": [
     "This will go over well in Florida\nCharlie Crist is open to another round of mask mandates g https://t.co/4EXU4yjGO2\nDeSantis, however, has continued to stand firm, even in the face of constant criticisms and attacks from the establishment media and blue state leaders throughout the pandemic.",

@@ -6,7 +6,7 @@
     "sentence": "",
     "author": "Max Greenwood",
     "title": "Seven primary races to watch on Tuesday",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4490,
@@ -15,7 +15,7 @@
     "sentence": "",
     "author": "",
     "title": "7 takeaways from primaries in Pennsylvania, North Carolina, Oregon",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4472,
@@ -24,7 +24,7 @@
     "sentence": "",
     "author": "Associated Press",
     "title": "Primary takeaways: Election denier wins, bad behavior dooms Cawthorn",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4476,
@@ -33,7 +33,7 @@
     "sentence": "",
     "author": "",
     "title": "Election denier wins GOP nomination for Pennsylvania governor: Takeaways from Tuesdays primaries",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4479,
@@ -42,7 +42,7 @@
     "sentence": "",
     "author": "",
     "title": "Takeaways: Election denier wins, bad behavior dooms Cawthorn",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4458,
@@ -51,7 +51,7 @@
     "sentence": "",
     "author": "",
     "title": "Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots",
-    "sentiment": "0.0"
+    "sentiment": "-0.879"
   },
   {
     "id": 4466,
@@ -60,7 +60,7 @@
     "sentence": "",
     "author": "Associated Press",
     "title": "Biden invokes Defense Production Act for baby formula shortage",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 6541,
@@ -69,7 +69,7 @@
     "sentence": "",
     "author": "Cheryl Teh",
     "title": "Trump is ditching David Perdue, the Georgia GOP candidate he backed who is now struggling in his gubernatorial race",
-    "sentiment": "0.0"
+    "sentiment": "-0.778"
   },
   {
     "id": 7194,
@@ -78,7 +78,7 @@
     "sentence": "As Tuesday's primary elections approach in Georgia, Trump appears poised to be delivered a major proxy defeat in the Republican Party's gubernatorial primary, where he endorsed former Senator David Perdue against incumbent GOP Governor <span class='selected-term'>Brian Kemp</span>.",
     "author": "Andrew Stanton",
     "title": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan",
-    "sentiment": "0.0"
+    "sentiment": "-0.925"
   },
   {
     "id": 7198,
@@ -87,7 +87,7 @@
     "sentence": "",
     "author": "Cameron McWhirter",
     "title": "Georgia Governor Race Is a Test for Trump. It Isn't Going Well.",
-    "sentiment": "0.0"
+    "sentiment": "-0.593"
   },
   {
     "id": 7350,
@@ -96,7 +96,7 @@
     "sentence": "Here is what else is going on:\nOn Monday, Trump and Mike Pence, his former vice president, held dueling events for their respective candidates in the Republican primary for governor: David Perdue, a former senator and Dollar General executive who entered the race at Trump's insistence, and <span class='selected-term'>Brian Kemp</span>, the incumbent.",
     "author": "",
     "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
-    "sentiment": "0.0"
+    "sentiment": "-0.762"
   },
   {
     "id": 8418,
@@ -105,6 +105,15 @@
     "sentence": "Notably, he endorsed former Senator David Perdue, who ran against GOP Governor <span class='selected-term'>Brian Kemp</span> for governor, and Representative Jody Hice, who ran for secretary of state against GOP incumbentBrad Raffensperger.",
     "author": "Andrew Stanton",
     "title": "Lindell Claims Georgia Primaries 'Stolen' to Ding Trump Endorsement Cred",
-    "sentiment": "0.0"
+    "sentiment": "-0.72"
+  },
+  {
+    "id": 8642,
+    "mediaId": 129,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Mr. Raffensperger and <span class='selected-term'>Brian Kemp</span> frequently pointed to the law during their campaigns, arguing that they had tightened up the system and fixed problems that many in their party blamed for Mr. Trump's defeat.",
+    "author": "",
+    "title": "They Insisted the 2020 Election Was Tainted. Their 2022 Primary Wins? Not So Much.",
+    "sentiment": "0"
   }
 ]

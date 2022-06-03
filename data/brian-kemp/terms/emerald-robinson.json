@@ -2,10 +2,37 @@
   {
     "id": 4511,
     "mediaId": 675,
-    "date": "2022-00-13",
+    "date": "5/13/2022 12:00:00 AM",
     "sentence": "Democratic activist Stacey Abrams, known for her get-out-the-vote activism, is running again for governor of Georgia after narrowly losing to the current governor, <span class='selected-term'>Brian Kemp</span>, in 2018.",
     "author": "Art Moore",
     "title": "'2000 Mules' investigator: Georgia officials intimidating my witnesses",
     "sentiment": "-0.764"
+  },
+  {
+    "id": 8911,
+    "mediaId": 136,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "Former President Donald Trump's \"Save America\" political action committee (PAC) on Tuesday sent an email to subscribers that linked to an article that claims Governor <span class='selected-term'>Brian Kemp</span>'s victory in last week's Republican gubernatorial primary was the result of voter fraud.",
+    "author": "Jon Jackson",
+    "title": "Trump Pushes Claim That Brian Kemp's 50-Point Victory Was Fraud",
+    "sentiment": "-0.785"
+  },
+  {
+    "id": 8728,
+    "mediaId": 169,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "RELATED: Georgia GOP outraged Trump turned against <span class='selected-term'>Brian Kemp</span>: 'I am just so mad  beyond words\"\nThere is no evidence that Georgia's gubernatorial primary was impacted by fraud.",
+    "author": "Jon Skolnik",
+    "title": "Trump continues to cry \"obvious fraud\" in Georgia  even after losing candidates he endorsed concede",
+    "sentiment": "-0.967"
+  },
+  {
+    "id": 8734,
+    "mediaId": 157,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Skolnik",
+    "title": "Trump continues to cry 'obvious fraud' in Georgia  even after losing candidates he endorsed concede",
+    "sentiment": "-0.928"
   }
 ]

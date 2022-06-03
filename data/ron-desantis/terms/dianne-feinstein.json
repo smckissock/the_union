@@ -2,10 +2,19 @@
   {
     "id": 6386,
     "mediaId": 195,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Alexis Simendinger",
     "title": "The Hills Morning Report  Russia plots next move amid setbacks",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8816,
+    "mediaId": 223,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "Candidates like Florida Governor <span class='selected-term'>Ron DeSantis</span>, former Secretary of State Mike Pompeo, and U.S.",
+    "author": "Victor Davis Hanson",
+    "title": "Trumpology",
+    "sentiment": "0"
   }
 ]

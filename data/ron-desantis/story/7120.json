@@ -5,14 +5,21 @@
   "headline": "Appeals court puts Florida congressional redistricting decision on hold",
   "image": "https://www.tampabay.com/resizer//1yDIcStcrH-lPcvIAFWH27mtLIc=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/ZQFOBUJZERRPUWAPUVEEPADAPQ.jpg",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/20/appeals-court-puts-florida-congressional-redistricting-decision-on-hold/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    428,
+    478,
+    482,
+    545,
+    562,
+    2661,
+    2926
   ],
   "sentences": [
     "He wrote, in part, that compliance with the Fair Districts amendments non-diminishment provision is a compelling state interest.?\nAlso, he wrote that addressing the history of voting-related racial discrimination and a lack of representation in North Florida in itself constitutes a compelling state interest.?\nThe appeals court order Friday reinstating the stay did not delve into details of the federal and state constitutional issues.",

@@ -5,16 +5,25 @@
   "headline": "Another GOP member of the Impeachment 10 heads for the exits",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2022_02/3529689/220114-john-katko-ew-1211p.jpg",
   "link": "https://www.msnbc.com/rachel-maddow-show/another-gop-member-impeachment-10-heads-exits-n1287590",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "MSNBC",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Steve Benen",
   "authorUrl": "https://www.nbcnews.com/author/steve-benen-ncpn433601",
   "termIds": [
+    1147,
+    1614,
+    1839,
     1901,
+    2010,
     2125,
-    3094
+    3094,
+    255,
+    428,
+    562,
+    2590,
+    2957
   ],
   "sentences": [
     "The New Yorker supported last year's infrastructure compromise; he helped negotiate a bipartisan deal to create an independent 9/11 commission; he backed a criminal contempt referral against Steve Bannon for failing to comply with a congressional subpoena; and he voted to impeach Donald Trump a year ago this week.",

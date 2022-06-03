@@ -5,14 +5,23 @@
   "headline": "With Trump in Her State, Haley Finds Some Political Distance (Gently)",
   "image": "https://static01.nyt.com/images/2022/03/11/us/politics/11pol-haley/merlin_145086279_4f9434e7-3103-41e1-b4e9-8932538c1e1d-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/03/11/us/politics/nikki-haley-trump.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1064,
+    1147,
+    1563,
+    2117,
+    2195,
+    5708,
+    428,
+    2910,
+    2959
   ],
   "sentences": [
     "Mr. Trump will be in Florence, S.C., on Saturday to rally his faithful behind Ms. Maces primary challenger, Katie Arrington, and another pro-Trump Republican, Russell Fry, who is challenging Representative Tom Rice, one of 10 Republicans who voted to impeach the former president for inciting the Jan. 6 attack on the Capitol.",

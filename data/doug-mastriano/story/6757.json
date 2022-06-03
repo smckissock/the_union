@@ -5,14 +5,23 @@
   "headline": "Pennsylvania governors race could have outsize impact on abortion access",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/6d62ef6/2147483647/strip/true/crop/3000x2000+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff9%2Fec%2F6522594645499ec24abf15d17f51%2Fap22105741325392.jpg",
   "link": "https://www.latimes.com/politics/story/2022-05-17/pennsylvania-kansas-governors-races-abortion-roe-wade",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Arit John",
   "authorUrl": "https://www.latimes.com/people/arit-john",
   "termIds": [
-    3102
+    1713,
+    1864,
+    3102,
+    331,
+    400,
+    482,
+    2732,
+    2791,
+    2862,
+    2972
   ],
   "sentences": [
     "But in a handful of states, particularly Pennsylvania and Kansas, the winner of the November gubernatorial races could have a significant impact, vetoing or signing into law abortion legislation that would affect millions of people of reproductive age both in their jurisdictions and in nearby states.",

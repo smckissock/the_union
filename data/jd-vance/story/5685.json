@@ -5,14 +5,18 @@
   "headline": "The only way for Democrats to ride the abortion tiger to victory in November",
   "image": "https://s.yimg.com/ny/api/res/1.2/j1p4wjFmnMM49k9E_MoD1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/hU44WkqkKDFiExPpEWdBvA--~B/aD00NzU7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_week_574/b65ceb3f03b6a4939a6901a5019f570c",
   "link": "https://ca.news.yahoo.com/only-way-democrats-ride-abortion-095810891.html",
-  "sentiment": "0",
+  "sentiment": "-0.47",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Damon Linker",
   "authorUrl": "",
   "termIds": [
-    3103
+    781,
+    1801,
+    3103,
+    146,
+    428
   ],
   "sentences": [
     "In the days since the leaked draft of a majority opinion overturning Roe v. Wade (1973) was published by Politico, Democrats have convinced themselves that this is a huge political gift for the party and an equally massive liability for Republicans  because the country is overwhelmingly pro-choice and doesn't want to see the landmark decision reversed.",

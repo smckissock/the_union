@@ -5,14 +5,22 @@
   "headline": "Georgia Secretary of State Raffensperger faces Trump ally",
   "image": "https://www.wabe.org/app/uploads/2022/05/Untitled-1440-×-810-px-336x189.jpg",
   "link": "https://www.wabe.org/georgia-secretary-of-state-raffensperger-faces-trump-ally/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1147,
+    1776,
+    2087,
+    2095,
+    2203,
+    2279,
+    146,
+    428,
+    2672
   ],
   "sentences": [
     "All of them have championed voting rights and criticized a sweeping election law passed by Republicans in the General Assembly in 2021 that shortened the period to request an absentee ballot, added an ID requirement, restricted drop boxes, and stripped the secretary of state of his seat on the State Election Board, among other things.",

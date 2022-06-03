@@ -5,14 +5,16 @@
   "headline": "'Why are there still apes?' Trump-backed Senate candidate casts doubt on evolution",
   "image": "https://www.rawstory.com/media-library/police-report-herschel-walker-s-ex-girlfriend-claimed-he-threatened-her-life.jpg?id=27660634&width=1200&coordinates=0%2C23%2C0%2C24&height=600",
   "link": "https://www.rawstory.com/herschel-walker-2656963915/",
-  "sentiment": "0.0",
+  "sentiment": "-0.739",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brad Reed",
   "authorUrl": "https://www.rawstory.com/u/brad_reed",
   "termIds": [
-    815
+    815,
+    1147,
+    2672
   ],
   "sentences": [
     "Divorce papers obtained by the Associated Press earlier this year revealed that Walker's ex-wife, Cindy Grossman, in the past leveled several allegations of violent and abusive behavior against him.",

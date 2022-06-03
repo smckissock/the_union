@@ -5,14 +5,19 @@
   "headline": "Newsom to Use Tax Breaks to Attract Companies from States That Restrict Abortion",
   "image": "https://www.nationalreview.com/wp-content/uploads/2021/02/gavin-newsom-california-governor.jpg?w=1592",
   "link": "https://www.nationalreview.com/news/newsom-to-use-tax-breaks-to-attract-companies-in-states-that-ban-abortion/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brittany Bernstein",
   "authorUrl": "https://www.nationalreview.com/author/brittany-bernstein/",
   "termIds": [
-    661
+    661,
+    1394,
+    524,
+    2590,
+    2661,
+    2934
   ],
   "sentences": [
     "Disney has been an outspoken critic of the measure, going so far as to say its goal as a company? is having the bill repealed by the legislature or struck down in the courts.?\nIn return, Florida stripped Disney of its independent special district? status, with Governor Ron DeSantis warning that if the company chose to use its economic might to attack the parents of my state,? he would treat it as a provocation? and fight back.?\nNewsoms proposal could be an invitation to Disney, which plans to relocate roughly 2,000 California positions to a new Florida campus despite LGBT groups protests.",

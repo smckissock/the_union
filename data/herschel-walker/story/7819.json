@@ -5,7 +5,7 @@
   "headline": "Sunday shows preview: Ukraine, West condemn Russian attacks on civilians",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/02/sullivanjake_02112022ap.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/sunday-talk-shows/3263279-sunday-shows-preview-ukraine-west-condemn-russian-attacks-on-civilians/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,8 +13,18 @@
   "authorUrl": "https://thehill.com/author/lexi-lonas/",
   "termIds": [
     815,
+    1252,
+    1501,
+    1609,
+    2087,
     2303,
-    3094
+    3094,
+    4020,
+    4685,
+    3436,
+    2888,
+    2942,
+    6073
   ],
   "sentences": [
     "Fox News Sunday  White House press secretary Jen Psaki; Sen. Mitch McConnell (R-Ky.)\nFox News Sunday Morning Futures  Ranking member of House Judiciary Committee Rep. Jim Jordan (R-Ohio); Herschel Walker, Georgia Senate candidate; House Minority Leader Rep. Kevin Mccarthy (R-Calif.); U.S. Army combat veteran and Florida Congressional candidate Cory Mills.",

@@ -5,14 +5,17 @@
   "headline": "Opinion: Overturning Roe would threaten Georgians health",
   "image": "https://www.ajc.com/resizer/xwnEAa9v_2GRf_gbm7pMUNq7iMA=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/L6R3HUAAH5A25ARK3M3JRWMIFA.jpg",
   "link": "https://www.ajc.com/opinion/opinion-overturning-roe-would-threaten-georgians-health/TRC2PYFNTVHQFIWWHXWQRZ3P3M/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    2095,
+    482,
+    3129,
+    2672
   ],
   "sentences": [
     "Brian Kemp in 2019, but put on hold pending the U.S. Supreme Courts decision on abortion, Georgias law prohibits a pregnant person from getting an abortion after cardiac activity is detected in an embryo, considered to be around 6 weeks  when many women may have just missed their first period and dont even know they are pregnant.",

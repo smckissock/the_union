@@ -5,14 +5,21 @@
   "headline": "Rivian CEO reportedly warns about supply chain issues",
   "image": "https://www.ajc.com/resizer/Z6xkCsTx_Br5Ay2wrNOViwfmDdg=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/5QOPAFB3K5DO3XJ6VOCRDRINPY.jpg",
   "link": "https://www.ajc.com/news/rivian-ceo-reportedly-warns-about-supply-chain-issues/JZOYBLRTVBDZFCBHQVKXQRVZA4/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "J. Scott Trubey",
   "authorUrl": "https://www.ajc.com/staff/j-scott-trubey/",
   "termIds": [
-    2095
+    2095,
+    3909,
+    436,
+    493,
+    2590,
+    2672,
+    2707,
+    2945
   ],
   "sentences": [
     "The CEO of electric vehicle maker Rivian, which plans a sprawling factory an hour east of Atlanta, said in media interviews published Monday that computer chip shortages hampering his company and the auto industry could pale compared to looming challenges in sourcing components for EV batteries.",

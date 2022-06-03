@@ -5,16 +5,25 @@
   "headline": "It's Not Exactly Trump's Republican Party",
   "image": "https://media.townhall.com/townhall/reu/ha/2021/270/148aff45-d5bf-43b5-8bc5-4d77be7169b1.jpg",
   "link": "https://townhall.com/columnists/michaelbarone/2022/05/20/its-not-exactly-trumps-republican-party-n2607543",
-  "sentiment": "0",
+  "sentiment": "0.656",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Michael Barone",
   "authorUrl": "https://townhall.com/columnists/michaelbarone/",
   "termIds": [
+    800,
     821,
+    1147,
+    1404,
+    1801,
+    1878,
+    2136,
+    2250,
     2303,
-    3103
+    3103,
+    146,
+    428
   ],
   "sentences": [
     "Primary polling is not an exact science, but the numbers support the conclusion that Trump jumped on the bandwagon of a candidate who had performed well in debates about as well as the conclusion that he swung thousands of voters in Vance's direction.",

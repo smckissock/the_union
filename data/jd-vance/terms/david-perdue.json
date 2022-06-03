@@ -1,26 +1,35 @@
 [
   {
-    "id": 1797,
-    "mediaId": 239,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Susan Ferrechio",
-    "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement",
-    "sentiment": "0.16"
-  },
-  {
     "id": 6349,
     "mediaId": 151,
-    "date": "2022-00-16",
+    "date": "4/16/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: Palin returns with a thud in Alaska",
     "sentiment": "0"
   },
   {
+    "id": 4984,
+    "mediaId": 136,
+    "date": "4/24/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "Donald Trump's 'Emotional' Endorsements Will 'Backfire': Chris Christie",
+    "sentiment": "-0.951"
+  },
+  {
+    "id": 1797,
+    "mediaId": 239,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Susan Ferrechio",
+    "title": "J.D. Vance wins GOP Senate primary in Ohio after last-minute Trump endorsement",
+    "sentiment": "0.16"
+  },
+  {
     "id": 6583,
     "mediaId": 195,
-    "date": "2022-00-19",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Brad Bannon",
     "title": "Party primaries test power of Trumps backing and progressive platform",
@@ -29,7 +38,7 @@
   {
     "id": 6605,
     "mediaId": 33,
-    "date": "2022-00-19",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Gabby Orr",
     "title": "Trump may hold off on more endorsements for coming primaries, advisers say",
@@ -38,7 +47,7 @@
   {
     "id": 6608,
     "mediaId": 234,
-    "date": "2022-00-19",
+    "date": "5/19/2022 12:00:00 AM",
     "sentence": "",
     "author": "Eric Lutz",
     "title": "Donald Trumps Georgia Revenge Fantasy Isnt Quite Panning Out",
@@ -47,7 +56,7 @@
   {
     "id": 6538,
     "mediaId": 195,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "Niall Stanage",
     "title": "The Memo: Trump faces critical popularity test in Georgia",
@@ -56,7 +65,7 @@
   {
     "id": 6575,
     "mediaId": 129,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Its Trumps Party, and Hell Lie if He Wants To",
@@ -65,7 +74,7 @@
   {
     "id": 7194,
     "mediaId": 136,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "Andrew Stanton",
     "title": "Trump Endorsement More 'Matchbox Car' Than 'Freight Train': Geoff Duncan",
@@ -74,7 +83,7 @@
   {
     "id": 7224,
     "mediaId": 129,
-    "date": "2022-00-22",
+    "date": "5/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "What Donald Trump Didnt Count On in Georgia",
@@ -83,7 +92,7 @@
   {
     "id": 7326,
     "mediaId": 1546,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ken Bredemeier",
     "title": "Trump's Election Fraud Claims Face a Test in Georgia",
@@ -92,25 +101,16 @@
   {
     "id": 7329,
     "mediaId": 33,
-    "date": "2022-00-23",
+    "date": "5/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Eric Bradner",
     "title": "Republicans look to Georgia for a path beyond Trump's 2020 grievances",
     "sentiment": "0"
   },
   {
-    "id": 4984,
-    "mediaId": 136,
-    "date": "2022-00-24",
-    "sentence": "",
-    "author": "Andrew Stanton",
-    "title": "Donald Trump's 'Emotional' Endorsements Will 'Backfire': Chris Christie",
-    "sentiment": "-0.951"
-  },
-  {
     "id": 7309,
     "mediaId": 323,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Cameron McWhirter",
     "title": "Georgia GOP Primary Elections for Governor and Secretary of State Are Top Contests Today",
@@ -119,7 +119,7 @@
   {
     "id": 7349,
     "mediaId": 32,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kevin Breuninger",
     "title": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch",
@@ -128,7 +128,7 @@
   {
     "id": 7350,
     "mediaId": 129,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
@@ -137,10 +137,19 @@
   {
     "id": 7331,
     "mediaId": 238,
-    "date": "2022-00-25",
+    "date": "5/25/2022 12:00:00 AM",
     "sentence": "",
     "author": "David Weigel",
     "title": "Kemp, Raffensperger win in blow to Trump and his false election claims",
+    "sentiment": "0"
+  },
+  {
+    "id": 8911,
+    "mediaId": 136,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Jon Jackson",
+    "title": "Trump Pushes Claim That Brian Kemp's 50-Point Victory Was Fraud",
     "sentiment": "0"
   }
 ]

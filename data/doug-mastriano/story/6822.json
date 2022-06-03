@@ -5,14 +5,24 @@
   "headline": "Trump-Endorsed Doug Mastriano's Chances of Beating GOP Rivals: Polls",
   "image": "https://d.newsweek.com/en/full/2037860/doug-mastriano.webp?w=790&f=6b502ad161491bc845a9cc2eea80a140",
   "link": "https://www.newsweek.com/trump-endorsed-doug-mastrianos-chances-beating-gop-rivals-polls-1706690",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jason Lemon",
   "authorUrl": "https://www.newsweek.com/authors/jason-lemon",
   "termIds": [
-    3102
+    1147,
+    1282,
+    1990,
+    1997,
+    2087,
+    3102,
+    146,
+    201,
+    428,
+    571,
+    2862
   ],
   "sentences": [
     "Despite these claims, which have been consistently debunked and discredited by top election officials and former Trump administration officials, Biden won the state by more than 80,000 votes, a little over 1 percent of the total votes.",

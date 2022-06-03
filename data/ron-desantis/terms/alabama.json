@@ -1,134 +1,17 @@
 [
   {
-    "id": 4247,
-    "mediaId": 239,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Victor Morton",
-    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
-    "sentiment": "-0.896"
-  },
-  {
-    "id": 4247,
-    "mediaId": 239,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Victor Morton",
-    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4104,
-    "mediaId": 63,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Nicholas Reimann",
-    "title": "Louisiana Lawmakers Kill Dont Say Gay Bill Banning Teachers From Discussing Gender Identity",
-    "sentiment": "0"
-  },
-  {
-    "id": 4104,
-    "mediaId": 63,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Nicholas Reimann",
-    "title": "Louisiana Lawmakers Kill Dont Say Gay Bill Banning Teachers From Discussing Gender Identity",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4008,
-    "mediaId": 19,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "AWR Hawkins",
-    "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 4008,
-    "mediaId": 19,
-    "date": "2022-00-05",
-    "sentence": "",
-    "author": "AWR Hawkins",
-    "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights",
-    "sentiment": "0.355"
-  },
-  {
-    "id": 3827,
-    "mediaId": 65,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "",
-    "title": "Alabama law criminalizing gender transition surgery, drugs for minors takes effect",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3594,
-    "mediaId": 238,
-    "date": "2022-00-14",
-    "sentence": "",
-    "author": "Anne Branigin",
-    "title": "Alabamas ban on medication for trans youths is blocked by judge",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3462,
-    "mediaId": 238,
-    "date": "2022-00-19",
-    "sentence": "",
-    "author": "Hannah Natanson",
-    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
-    "sentiment": "0"
-  },
-  {
-    "id": 3462,
-    "mediaId": 238,
-    "date": "2022-00-19",
-    "sentence": "",
-    "author": "Hannah Natanson",
-    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7133,
-    "mediaId": 136,
-    "date": "2022-00-20",
-    "sentence": "Though Governor <span class='selected-term'>Ron DeSantis</span> earned the ire of the Beltway crowd and press corps for his handling of the pandemic, the state he governs ranked almost equally with another large state, California, on the mortality front (28th and 27th respectively).",
-    "author": "Lee Habeeb",
-    "title": "Federalism is on a Roll | Opinion",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7274,
-    "mediaId": 65,
-    "date": "2022-00-22",
-    "sentence": "",
-    "author": "",
-    "title": "Florida suspends abortion clinic after hospitalizations",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 7345,
-    "mediaId": 1576,
-    "date": "2022-00-25",
-    "sentence": "",
-    "author": "",
-    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4376,
     "mediaId": 558,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jeff Deal",
     "title": "DeSantis says hell bring constitutional carry to Florida before he leaves office",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4376,
     "mediaId": 558,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jeff Deal",
     "title": "DeSantis says hell bring constitutional carry to Florida before he leaves office",
@@ -137,19 +20,118 @@
   {
     "id": 4345,
     "mediaId": 124,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors",
     "sentiment": "0"
   },
   {
-    "id": 4345,
-    "mediaId": 124,
-    "date": "2022-00-30",
+    "id": 4247,
+    "mediaId": 239,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Victor Morton",
+    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
+    "sentiment": "-0.896"
+  },
+  {
+    "id": 4247,
+    "mediaId": 239,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Victor Morton",
+    "title": "Ron DeSantis mocks total disaster Biden: Hes Brandon to me",
+    "sentiment": "0"
+  },
+  {
+    "id": 4104,
+    "mediaId": 63,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Nicholas Reimann",
+    "title": "Louisiana Lawmakers Kill Dont Say Gay Bill Banning Teachers From Discussing Gender Identity",
+    "sentiment": "0"
+  },
+  {
+    "id": 4008,
+    "mediaId": 19,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "AWR Hawkins",
+    "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights",
+    "sentiment": "0"
+  },
+  {
+    "id": 4008,
+    "mediaId": 19,
+    "date": "5/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "AWR Hawkins",
+    "title": "Ron DeSantis: Requiring Permits for Concealed Carry is Subcontracting Your Rights",
+    "sentiment": "0.355"
+  },
+  {
+    "id": 3827,
+    "mediaId": 65,
+    "date": "5/9/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
-    "title": "Justice Department challenges Alabama law criminalizing transgender health care for minors",
-    "sentiment": "0.0"
+    "title": "Alabama law criminalizing gender transition surgery, drugs for minors takes effect",
+    "sentiment": "0"
+  },
+  {
+    "id": 3594,
+    "mediaId": 238,
+    "date": "5/14/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Anne Branigin",
+    "title": "Alabamas ban on medication for trans youths is blocked by judge",
+    "sentiment": "0"
+  },
+  {
+    "id": 3462,
+    "mediaId": 238,
+    "date": "5/19/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Hannah Natanson",
+    "title": "This Florida teacher married a woman. Now shes not a teacher anymore.",
+    "sentiment": "0"
+  },
+  {
+    "id": 7133,
+    "mediaId": 136,
+    "date": "5/20/2022 12:00:00 AM",
+    "sentence": "Though Governor <span class='selected-term'>Ron DeSantis</span> earned the ire of the Beltway crowd and press corps for his handling of the pandemic, the state he governs ranked almost equally with another large state, California, on the mortality front (28th and 27th respectively).",
+    "author": "Lee Habeeb",
+    "title": "Federalism is on a Roll | Opinion",
+    "sentiment": "0"
+  },
+  {
+    "id": 7274,
+    "mediaId": 65,
+    "date": "5/22/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Florida suspends abortion clinic after hospitalizations",
+    "sentiment": "0"
+  },
+  {
+    "id": 7345,
+    "mediaId": 1576,
+    "date": "5/25/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Takeaways: Trump's big primary defeat; scandals for the win",
+    "sentiment": "0"
+  },
+  {
+    "id": 8774,
+    "mediaId": 195,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "DeSantis seeks to block transgender youths from transition-related therapies",
+    "sentiment": "0"
   }
 ]

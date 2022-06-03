@@ -5,14 +5,21 @@
   "headline": "Florida suspends abortion clinic after hospitalizations",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41ca6df1-4a84-48b8-8abf-f84c5bca3311/c639361d-2063-4aa4-8d7c-94e2da132103/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/us/florida-suspends-abortion-clinic-hospitalizations",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    5496,
+    2537,
+    2661,
+    2672,
+    2766,
+    5060,
+    5095
   ],
   "sentences": [
     "In cases cited by the agency, the clinic failed to monitor the patients at all times, didn't provide medical records when patients were transferred for greater care and didn't contact the patients within 24 hours after they left the clinic to assess their recovery, said the order which was issued on Friday.",

@@ -5,14 +5,22 @@
   "headline": "Trump Backs Doug Mastriano, a Far-Right Loyalist, to Lead Pennsylvania",
   "image": "https://static01.nyt.com/images/2022/05/13/multimedia/00pol-trump-mastriano-photo/00pol-trump-mastriano-photo-facebookJumbo.jpg",
   "link": "https://www.nytimes.com/2022/05/14/us/politics/trump-endorses-doug-mastriano.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    3102
+    905,
+    1147,
+    1282,
+    1713,
+    1990,
+    3102,
+    562,
+    571,
+    2862
   ],
   "sentences": [
     "There is no one in Pennsylvania who has done more, or fought harder, for election integrity,? Mr. Trump said in a statement, adding that Mr. Mastriano would also fight violent crime, strengthen our borders, protect life, defend our under-siege Second Amendment, and help our military and our vets.?\nA Fox News poll released Tuesday showed Mr. Mastriano with a lead of 12 percentage points over his closest primary rival, former Representative Lou Barletta.",

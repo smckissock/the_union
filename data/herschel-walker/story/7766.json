@@ -5,14 +5,23 @@
   "headline": "Warnock raises $13.6 million in first quarter of 2022",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/02/warnockraphael_021622gn_lead.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/campaign/3267213-warnock-raises-13-6-million-in-first-quarter-of-2022/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tal Axelrod",
   "authorUrl": "https://thehill.com/author/tal-axelrod/",
   "termIds": [
-    815
+    815,
+    1136,
+    2087,
+    2493,
+    5799,
+    146,
+    428,
+    571,
+    5621,
+    2672
   ],
   "sentences": [
     "From fighting to cap the cost of insulin and lower prices at the gas pump to pushing for student loan debt relief, Reverend Warnocks commitment to serving the people of Georgia continues to drive the biggest grassroots fundraising effort in any Senate race this cycle.",

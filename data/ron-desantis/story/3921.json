@@ -5,14 +5,20 @@
   "headline": "Jobless claims remain low amid DeSantis warnings",
   "image": "https://www.tampabay.com/resizer//WWqfkv_xnb1Ro0GJRCfujIVoFoc=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/4YKM4ACPQZM4OGV3KZAPQRB5TU.jpg",
   "link": "https://www.tampabay.com/news/business/2022/05/06/jobless-claims-remain-low-amid-desantis-warnings/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1147,
+    2087,
+    2305,
+    187,
+    2661,
+    2926
   ],
   "sentences": [
     "Social Security --- something seniors have paid in for their whole life, and it has to be reauthorized.?\nScott, who chairs the National Republican Senatorial Committee, responded to Biden in a Fox News interview by saying that almost every sentence was a complete lie.?\nMeanwhile, DeSantis contends Florida is well-positioned to ward off any initial hits of a recession.",

@@ -5,14 +5,19 @@
   "headline": "Trump-loving Doug Mastriano aired 'poisonous' conspiracies in old thesis calling for military takeover of US society",
   "image": "https://www.rawstory.com/media-library/doug-mastriano.jpg?id=29820804&width=1200&coordinates=0%2C25%2C0%2C25&height=600",
   "link": "https://www.rawstory.com/doug-mastriano-2657360053/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Travis Gettys",
   "authorUrl": "https://www.rawstory.com/u/travis_gettys",
   "termIds": [
-    3102
+    1147,
+    1990,
+    3102,
+    428,
+    5171,
+    2862
   ],
   "sentences": [
     "The Donald Trump-endorsed Republican candidate published the highly unusual thesis in 2001, when he was a major at the Air Forces Air Command and Staff College, from the point of view of a colonel living in 2018 who has taken refuge in an \"isolated cavern\" following the collapse of the U.S. military and the deaths of millions of Americans under a left-wing leader by the United Nations and the European Union, reported the Washington Post.",

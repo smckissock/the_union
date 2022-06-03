@@ -5,7 +5,7 @@
   "headline": "Biden Keeps Eye on Domestic Politics as He Travels Through Asia",
   "image": "https://images.wsj.net/im-549299/?width=860&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/biden-keeps-eye-on-domestic-politics-as-he-travels-through-asia-11653210485",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,14 @@
   "authorUrl": "https://www.wsj.com/news/author/andrew-restuccia",
   "termIds": [
     815,
-    2095
+    1147,
+    2087,
+    2095,
+    571,
+    2725,
+    2904,
+    5073,
+    5145
   ],
   "sentences": [
     "On Sunday in Seoul, Mr. Biden appeared alongside the chairman of Hyundai Motor Group, Chung Eui-sun, to tout the South Korean car makers plans to invest more than $10 billion in advanced automotive technology and in an electric-vehicle plant outside Savannah, Ga.\nIt means economic opportunity for an awful lot of Americans,? Mr. Biden said, adding that the plant would hire 8,000 workers.",

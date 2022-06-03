@@ -5,7 +5,7 @@
   "headline": "Kemp wins Georgia GOP gov's race in stinging rebuke of Trump",
   "image": "https://chorus.stimg.co/23586751/1gagov.JPG?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=1",
   "link": "https://www.startribune.com/kemp-wins-georgia-gop-govs-race-in-stinging-rebuke-of-trump/600175930/",
-  "sentiment": "0.0",
+  "sentiment": "0.397",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     815,
-    2095
+    896,
+    1147,
+    2095,
+    2203,
+    4325,
+    227,
+    428,
+    2537,
+    2555,
+    2672
   ],
   "sentences": [
     "The changes made it harder to vote by mail, which was popular among Democrats in 2020 amid the pandemic; introduced new voter identification requirements that critics warned might disenfranchise Black voters; and expanded early voting in rural areas that typically vote Republican.",

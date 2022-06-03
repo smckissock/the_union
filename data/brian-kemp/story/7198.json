@@ -5,7 +5,7 @@
   "headline": "Georgia Governor Race Is a Test for Trump. It Isn't Going Well.",
   "image": "https://images.wsj.net/im-548921/?width=700&size=1.5&pixel_ratio=3",
   "link": "https://www.wsj.com/articles/georgia-governor-race-trump-kemp-perdue-11653229699",
-  "sentiment": "0.0",
+  "sentiment": "-0.593",
   "mediaOutlet": "Wall Street Journal",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,9 +13,17 @@
   "authorUrl": "https://www.wsj.com/news/author/cameron-mcwhirter",
   "termIds": [
     821,
+    1147,
+    1434,
+    1549,
+    1801,
+    2087,
     2095,
     2303,
-    3103
+    3103,
+    5510,
+    2671,
+    2672
   ],
   "sentences": [
     "All of [Biden's] policies have hurt the small man and helped the corporate world, said Dee Dettman, 57, a Kemp supporter from Gainesville, Ga.\nShe and her husband run a pressure-washing business, and the reopening of the state's economy early in the pandemic helped cinch her backing for the incumbent, Ms. Dettman said.",

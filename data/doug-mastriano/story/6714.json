@@ -5,14 +5,22 @@
   "headline": "Pennsylvania county says some mail-in ballots won't scan due to printing error",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/294ec31d-4950-4126-b67d-3bf689f07135/a8dd7ecd-0c2e-4b69-ba27-7e0d31d0c897/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/us/pennsylvania-county-ballots-scan-printing-error",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Best",
   "authorUrl": "https://www.foxnews.com/person/b/paul-best",
   "termIds": [
-    3102
+    701,
+    1147,
+    1625,
+    1770,
+    3102,
+    392,
+    428,
+    2862,
+    5034
   ],
   "sentences": [
     "TRUMP'S GOP CLOUT IS ON THE LINE IN PENNSYLVANIA'S REPUBLICAN SENATE PRIMARY\nOfficials blamed Act 77, a state law passed in 2019 that expands mail-in voting but prevents counties from opening the ballots until the morning of the election, making it impossible for them to foresee problems like they ran into Tuesday.",

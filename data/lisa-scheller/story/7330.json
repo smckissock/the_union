@@ -5,14 +5,22 @@
   "headline": "House GOP reelection arm spotlights candidate running in key swing district who overcame drug addiction",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3e98f91-e688-4564-8658-65998a46c5c6/bf4bdba0-c201-4fa8-8c34-b5fd4c593e9b/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/house-gop-reelection-arm-spotlights-candidate-key-swing-district-overcame-drug-addiction",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Paul Steinhauser",
   "authorUrl": "https://www.foxnews.com/person/s/paul-steinhauser",
   "termIds": [
-    5168
+    2087,
+    4501,
+    5168,
+    146,
+    337,
+    428,
+    562,
+    2862,
+    5555
   ],
   "sentences": [
     "Scheller, who's the GOP nominee in one of the most competitive House districts in the nation, shared in a paid media effort by the National Republican Congressional Committee (NRCC) that she \"overcame drug addiction and founded Hope and Coffee, a place where those recovering from addiction can get their lives back on track.\"",

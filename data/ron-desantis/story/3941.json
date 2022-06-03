@@ -5,14 +5,21 @@
   "headline": "This day in history, May 6: German airship Hindenburg catches fire and crashes while attempting to dock at Lakehurst",
   "image": "https://img.newspapers.com/img/img?clippingId=101088974&width=700&height=430&ts=1607535806",
   "link": "https://www.chicagotribune.com/history/ct-aud-today-history-almanac-may-6-20220506-gjnmj3ec6vbjtildryqc7sar44-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Chicago Tribune",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Associated Press",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    771,
+    1340,
+    3859,
+    4462,
+    4475,
+    3661,
+    2944
   ],
   "sentences": [
     "Todays Highlight in History:\nOn May 6, 1937, the hydrogen-filled German airship Hindenburg caught fire and crashed while attempting to dock at Lakehurst, New Jersey; 35 of the 97 people on board were killed along with a crewman on the ground.",

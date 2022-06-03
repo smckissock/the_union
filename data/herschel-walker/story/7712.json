@@ -5,14 +5,20 @@
   "headline": "Opinion: The media still havent learned how to cover the GOP threat to democracy",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/04/19/media-still-dont-know-how-to-cover-republicans-gop-democracy/",
-  "sentiment": "0.0",
+  "sentiment": "-0.248",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    146,
+    428,
+    482,
+    571,
+    2672,
+    2834
   ],
   "sentences": [
     "Fifth, when major news breaks about the attempt coup  such as revelations that a senator lied about the extent of his involvement in the effort to overturn the election and badger state legislatures into overriding the will of their voters  the media should demand comment, both from the person implicated and from GOP leadership.",

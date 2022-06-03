@@ -5,14 +5,20 @@
   "headline": "Pennsylvanias Senate Enigma",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/05/dr-oz-trump-rally.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/pennsylvanias-senate-enigma/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Dan McLaughlin",
   "authorUrl": "https://www.nationalreview.com/author/dan-mclaughlin/",
   "termIds": [
-    3102
+    1282,
+    1990,
+    1997,
+    3102,
+    5294,
+    571,
+    2862
   ],
   "sentences": [
     "She warns that Mastriano could be a disaster:\nIf Mastriano wins the Republican primary in Pennsylvania, he may well cost Republicans the Senate race that will share the ballot this fall, a couple of congressional races, and perhaps even majorities in the state House and state Senate.",

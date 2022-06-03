@@ -5,14 +5,24 @@
   "headline": "Somali-born Air Force veteran says Biden's Afghanistan withdrawal sparked her run for Congress",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbc42352-2598-4400-bb0e-a03eb132efee/af0e0b00-6d8b-4a10-8e09-b84d9757f001/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/air-force-veteran-amal-torres-somali-immigrant-maryland-run-congress",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joshua Q. Nelson",
   "authorUrl": "https://www.foxnews.com/person/n/joshua-q-nelson",
   "termIds": [
-    661
+    661,
+    2087,
+    485,
+    541,
+    545,
+    2535,
+    2560,
+    2730,
+    2782,
+    5061,
+    5126
   ],
   "sentences": [
     "Torres said that while she believes Black people's lives matter, she made clear that the organization Black Lives Matter is \"not dedicated to the lives of Black people or enabling any sort of productive outcome that supports protecting the lives of Black people.\"",

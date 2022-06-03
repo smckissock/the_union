@@ -5,7 +5,7 @@
   "headline": "Wisconsin Republican Sen. Ron Johnson will seek reelection",
   "image": "https://chorus.stimg.co/23156081/merlin_66016682.jpg?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=1",
   "link": "https://www.startribune.com/wisconsin-republican-sen-ron-johnson-will-seek-reelection/600134136/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,8 +14,16 @@
   "termIds": [
     741,
     802,
+    1147,
+    1490,
     1568,
-    2039
+    1925,
+    2039,
+    2353,
+    428,
+    622,
+    2855,
+    2972
   ],
   "sentences": [
     "MADISON, Wis.  Republican U.S. Sen. Ron Johnson of Wisconsin, one of former President Donald Trump's biggest backers, announced Sunday that he will seek reelection in the battleground state, breaking his promise not to seek a third term.",

@@ -5,7 +5,7 @@
   "headline": "Trump looms large over Tuesday primaries in Georgia, Alabama, Arkansas, and runoff in Texas",
   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/05/1862/1048/George-P-Bush-Victoria-Texas-May-18-2022.png.jpg?ve=1&tl=1",
   "link": "https://www.foxnews.com/politics/trump-ballot-looms-large-tuesday-primaries-georgia-alabama-arkansas-texas",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "",
   "termIds": [
     815,
-    2095
+    1147,
+    1951,
+    2095,
+    2475,
+    4325,
+    2537,
+    2551,
+    2672,
+    2934
   ],
   "sentences": [
     "But since getting ditched by the former president, Brooks has seen his fortunes rebound, and heading into Tuesdays primary was neck and neck with Katie Britt, Shelbys former chief of staff and a former president of the Business Council of Alabama, and self-funder Mike Durant, a business executive and former U.S. Army Black Hawk helicopter pilot who saw combat in \"Desert Storm\" in Iraq and who survived a crash during fighting in Somalia that was spotlighted in the movie \"Black Hawk Down.\"",

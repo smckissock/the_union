@@ -5,14 +5,23 @@
   "headline": "Youngkin gets backlash over stance on protests outside Alitos home",
   "image": "",
   "link": "https://www.washingtonpost.com/dc-md-va/2022/05/10/youngkin-alito-protests-virginia/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1070,
+    1758,
+    2058,
+    3923,
+    4512,
+    482,
+    539,
+    2953,
+    4979
   ],
   "sentences": [
     "Virginia State Police were closely monitoring, fully coordinated with Fairfax County and near the protests.?\nIn another tweet, the governor said: Virginia State Police will assist federal and local law enforcement as needed to ensure the safety of our citizens, including Supreme Court Justices, who call Virginia home.?\nNot good enough,? Will Chamberlain, a lawyer with The Article III Project, which supports constitutionalist judges and judicial independence, tweeted back to Youngkin.",

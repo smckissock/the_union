@@ -5,7 +5,7 @@
   "headline": "Much Higher Minority Early Voting in Georgias Upcoming Primaries",
   "image": "https://www.nationalreview.com/wp-content/uploads/2022/01/Georgia-Voting-1.jpg?w=1592",
   "link": "https://www.nationalreview.com/corner/much-higher-minority-early-voting-in-georgias-upcoming-primaries/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "National Review",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,12 @@
   "authorUrl": "https://www.nationalreview.com/author/jim-geraghty/",
   "termIds": [
     815,
-    2095
+    1951,
+    2087,
+    2095,
+    4677,
+    428,
+    2672
   ],
   "sentences": [
     "The fact that this years GOP Senate primary features Herschel Walker, arguably the greatest college football player of all time who won a national championship with the University of Georgia, probably helps stir public interest in the race, as well as President Trumps furious denunciations of incumbent GOP governor Brian Kemp, although Kemp is leading the polls by a wide margin.",

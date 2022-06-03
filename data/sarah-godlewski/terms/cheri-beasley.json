@@ -2,46 +2,46 @@
   {
     "id": 59,
     "mediaId": 195,
-    "date": "2022-00-06",
+    "date": "2/6/2022 12:00:00 AM",
     "sentence": "Two other contenders who can put their own money into the contest are state treasurer <span class='selected-term'>Sarah Godlewski</span>, supported by women's groups, and Alex Lasry, whose family owns the Milwaukee Bucks professional basketball team.",
     "author": "Albert Hunt",
     "title": "Midterm primaries might be critical to balance of the Senate",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2390,
     "mediaId": 238,
-    "date": "2022-00-07",
+    "date": "2/7/2022 12:00:00 AM",
     "sentence": "Democrats have plenty of options, including Milwaukee Bucks executive Alex Lasry and State Treasurer <span class='selected-term'>Sarah Godlewski</span>, who has made her appeal in rural areas a key argument for her campaign.",
     "author": "",
     "title": "Opinion: Democrats cannot afford to blow it in Wisconsin's Senate race",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2361,
     "mediaId": 195,
-    "date": "2022-00-15",
+    "date": "3/15/2022 12:00:00 AM",
     "sentence": "Mandela Barnes (D) leading that primary field with 23 percent support, with Milwaukee Bucks executive Alex Lasry trailing at 13 percent support, Outagamie County Executive Tom Nelson garnering five percent support and State Treasurer <span class='selected-term'>Sarah Godlewski</span> three percent.",
     "author": "Julia Manchester",
     "title": "Democratic group runs ad hitting Ron Johnson over Trump 2017 tax bill",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3453,
-    "mediaId": 238,
-    "date": "2022-00-15",
-    "sentence": "In Wisconsin, state Treasurer <span class='selected-term'>Sarah Godlewski</span>, who is seeking the Democratic nomination for Senate, has released a TV ad focusing on abortion that ends with her saying: As your senator, I will never sit by and allow our rights to be stripped away.\nIn North Carolina, for a Democrat to win statewide, strong turnout among Black voters as well as a significant share of suburban swing voters would likely be required.",
-    "author": "Annie Linskey",
-    "title": "In N.C., a Black woman brings up abortion in Senate run. Her Trump-backed rival doesnt.",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2312,
     "mediaId": 151,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "Until there is a plan, for the safety of our citizens and those seeking asylum, they should not lift it,? said Wisconsin state Treasurer <span class='selected-term'>Sarah Godlewski</span>, who is running for the Democratic Senate nomination.",
     "author": "",
     "title": "More Dem Senate hopefuls split with Biden on border",
+    "sentiment": "0"
+  },
+  {
+    "id": 3453,
+    "mediaId": 238,
+    "date": "5/15/2022 12:00:00 AM",
+    "sentence": "In Wisconsin, state Treasurer <span class='selected-term'>Sarah Godlewski</span>, who is seeking the Democratic nomination for Senate, has released a TV ad focusing on abortion that ends with her saying: As your senator, I will never sit by and allow our rights to be stripped away.\nIn North Carolina, for a Democrat to win statewide, strong turnout among Black voters as well as a significant share of suburban swing voters would likely be required.",
+    "author": "Annie Linskey",
+    "title": "In N.C., a Black woman brings up abortion in Senate run. Her Trump-backed rival doesnt.",
     "sentiment": "0"
   }
 ]

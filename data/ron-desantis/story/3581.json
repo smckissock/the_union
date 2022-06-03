@@ -5,14 +5,24 @@
   "headline": "Can Val Demings Defeat Marco Rubio and Overcome Democrats' Florida Malaise?",
   "image": "https://d.newsweek.com/en/full/2027989/former-nato-secretary-general-anders-fogh-rasmussen.jpg?w=397&h=265&l=71&t=44&f=948235e1a63379aa770e7342999a74f0",
   "link": "https://www.newsweek.com/2022/05/27/can-val-demings-defeat-marco-rubio-overcome-democrats-florida-malaise-1703538.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Adrian Carrasquillo",
   "authorUrl": "https://www.newsweek.com/authors/adrian-carrasquillo",
   "termIds": [
-    661
+    661,
+    971,
+    1572,
+    2305,
+    2418,
+    2505,
+    4243,
+    146,
+    562,
+    2661,
+    2851
   ],
   "sentences": [
     "The data-first group Mi Vecino (my neighbor in Spanish) was co-founded in the aftermath of Democratic underperformance in the state in 2020 by Puerto Rican and Cuban organizer Alex Berrios, who feels his background as a former boxer helps dispel the broad-brush meme of the latte-sipping liberal, and Devon Murphy-Anderson, the no-nonsense former finance director of the Florida Democratic Party, who has raised $1.5 million for the group and wields voter data as a sword and shield to illustrate the story of why Democrats need to do more in a changing Florida.",

@@ -1,83 +1,83 @@
 [
   {
-    "id": 2223,
-    "mediaId": 151,
-    "date": "2022-00-01",
-    "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
-    "author": "",
-    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
-    "sentiment": "0.0"
-  },
-  {
     "id": 85,
     "mediaId": 129,
-    "date": "2022-00-05",
+    "date": "1/5/2022 12:00:00 AM",
     "sentence": "In September, he endorsed a square-jawed, Army Special Forces veteran, <span class='selected-term'>Joe Kent</span>, to challenge Ms. Herrera Beutler, who before her vote had revealed one of the most damning vignettes of Jan. 6 for Mr. Trump.",
     "author": "",
     "title": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3301,
-    "mediaId": 238,
-    "date": "2022-00-13",
-    "sentence": "Sometime after a Trump-endorsed House candidate, <span class='selected-term'>Joe Kent</span>, announced his candidacy for Washington states 3rd District last year, McCarthy advised one Republican lawmaker in a private conversation not to endorse him, according to multiple people briefed on the conversation, who like some others spoke on the condition of anonymity to discuss a private exchange.",
-    "author": "Josh Dawsey",
-    "title": "More Republicans are working to undermine Trump endorsements",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 77,
     "mediaId": 195,
-    "date": "2022-00-14",
+    "date": "1/14/2022 12:00:00 AM",
     "sentence": "She faces multiple GOP primary challengers, including one endorsed by Trump, Army Special Forces veteran <span class='selected-term'>Joe Kent</span>.",
     "author": "Cristina Marcos",
     "title": "The fates of the 10 House Republicans who voted to impeach Trump",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2256,
     "mediaId": 237,
-    "date": "2022-00-17",
+    "date": "1/17/2022 12:00:00 AM",
     "sentence": "It's going to come from the right, too.?\nHe was one of two Republican candidates, along with <span class='selected-term'>Joe Kent</span> of Washington, to attend a September Justice for J6? rally in support of alleged participants of the Jan. 6 Capitol riot still in Washington, D.C., jails.",
     "author": "Emily Brooks",
     "title": "A top GOP House candidate in Georgia says election doubts still driving voters",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 75,
     "mediaId": 237,
-    "date": "2022-00-18",
+    "date": "1/18/2022 12:00:00 AM",
     "sentence": "Rep. Jaime Herrera Beutler\nThe six-term Washington state lawmaker faces several primary challengers, including the Trump-backed <span class='selected-term'>Joe Kent</span>.",
     "author": "Kate Scanlon",
     "title": "A year later, where 10 House Republicans who voted to impeach Trump stand politically",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 37,
-    "mediaId": 157,
-    "date": "2022-00-24",
-    "sentence": "When Trump endorsed challenger <span class='selected-term'>Joe Kent</span>, he described him as \"running against RINO and incompetent Congresswoman Jaime Herrera Beutler.\"",
-    "author": "Bob Brigham",
-    "title": "Kevin McCarthy is directly at odds' with Trump's revenge tour' against Republicans: report",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 52,
     "mediaId": 129,
-    "date": "2022-00-24",
+    "date": "2/24/2022 12:00:00 AM",
     "sentence": "There was probably a time when it made sense to have someone like Kevin McCarthy, but we need new leadership in the House,? said <span class='selected-term'>Joe Kent</span>, a square-jawed former Special Forces officer who is trying to unseat Representative Jaime Herrera Beutler in Washington, one of 10 Republicans who voted to impeach Mr. Trump after the Capitol attack.",
     "author": "",
     "title": "Courting G.O.P.'s Mainstream and Extreme, McCarthy Plots Rise to Speaker",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 2238,
     "mediaId": 43,
-    "date": "2022-00-25",
+    "date": "2/25/2022 12:00:00 AM",
     "sentence": "These chyrons appeared during Carlson's show, accompanying Carlson's statements prior to and during his colloquy with his guest, <span class='selected-term'>Joe Kent</span>a Donald Trump-endorsed zealot currently attempting to unseat Washington Rep. Jaime Herrera Butler.",
     "author": "",
     "title": "America now has its own 'Fifth Column,' and its name is Fox News",
     "sentiment": "-0.373"
+  },
+  {
+    "id": 37,
+    "mediaId": 157,
+    "date": "3/24/2022 12:00:00 AM",
+    "sentence": "When Trump endorsed challenger <span class='selected-term'>Joe Kent</span>, he described him as \"running against RINO and incompetent Congresswoman Jaime Herrera Beutler.\"",
+    "author": "Bob Brigham",
+    "title": "Kevin McCarthy is directly at odds' with Trump's revenge tour' against Republicans: report",
+    "sentiment": "0"
+  },
+  {
+    "id": 2223,
+    "mediaId": 151,
+    "date": "4/1/2022 12:00:00 AM",
+    "sentence": "Vance, <span class='selected-term'>Joe Kent</span> and David Sacks.",
+    "author": "",
+    "title": "POLITICO Playbook PM: What the March jobs report means for Biden",
+    "sentiment": "0"
+  },
+  {
+    "id": 3301,
+    "mediaId": 238,
+    "date": "5/13/2022 12:00:00 AM",
+    "sentence": "Sometime after a Trump-endorsed House candidate, <span class='selected-term'>Joe Kent</span>, announced his candidacy for Washington states 3rd District last year, McCarthy advised one Republican lawmaker in a private conversation not to endorse him, according to multiple people briefed on the conversation, who like some others spoke on the condition of anonymity to discuss a private exchange.",
+    "author": "Josh Dawsey",
+    "title": "More Republicans are working to undermine Trump endorsements",
+    "sentiment": "0"
   }
 ]

@@ -5,7 +5,7 @@
   "headline": "Cmo el asalto al Capitolio del 6 de enero cambi lo que significa ser republicano en un condado de Pensilvania",
   "image": "https://cnnespanol.cnn.com/wp-content/uploads/2022/01/220104000610-capitol-riot-file-01062021-full-169.jpg?quality=100&strip=info&w=1024",
   "link": "https://cnnespanol.cnn.com/2022/01/06/asalto-capitolio-republicano-pensilvania-trax/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,10 @@
   "authorUrl": "https://cnnespanol.cnn.com/author/jeremy-herb/",
   "termIds": [
     3094,
-    3102
+    3102,
+    428,
+    2862,
+    5034
   ],
   "sentences": [
     "El condado tambin est cerca de los distritos de dos republicanos electos que fueron fundamentales para ayudar a Trump a intentar subvertir las elecciones: el representante estadounidense Scott Perry y el senador estatal Doug Mastriano, que provienen de distritos al oeste de Lancaster y participaron en los esfuerzos de Trump para presionar al Departamento de Justicia para que apoyara sus falsas afirmaciones sobre el fraude electoral.",

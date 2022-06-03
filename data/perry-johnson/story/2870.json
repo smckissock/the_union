@@ -5,7 +5,7 @@
   "headline": "Morning Digest: Trump's 'bro' now frontrunner following Ohio Republican's unexpected retirement",
   "image": "https://images.dailykos.com/images/1056465/story_image/GettyImages-1325666480.jpeg?1649282302",
   "link": "https://www.dailykos.com/story/2022/4/7/2090496/-Morning-Digest-Trump-s-bro-now-frontrunner-following-Ohio-Republican-s-unexpected-retirement",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     651,
-    2303
+    1147,
+    1276,
+    1299,
+    1670,
+    1927,
+    2303,
+    428,
+    571,
+    2536,
+    2845
   ],
   "sentences": [
     "1Q Fundraising\nFL-Sen: Val Demings (D): $10 million raised, $13.1 million cash-on-hand\nIA-Sen: Michael Franken (D): $1.4 million raised, $1 million cash-on-hand\nNH-Sen: Maggie Hassan (D-inc): $4.3 million raised, $7.5 million cash-on-hand\nCA-26: Matt Jacobs (R): $320,000 raised\nFL-15: Jackie Toledo (R): $353,000 raised (in three weeks)\nIL-03: Gilbert Villegas (D): $390,000 raised\nIL-06: Sean Casten (D-inc): $784,000 raised, $2 million cash-on-hand\nIL-13: Nikki Budzinski (D): $500,000 raised, $1 million cash-on-hand\nNE-01: Patty Pansing Brooks (D): $270,000 raised\nNY-18: Colin Schmitt (R): $350,000 raised\nOH-01: Greg Landsman (D): $532,000 raised, $415,000 cash-on-hand\nRI-02: Jessica de la Cruz (R): $65,000 raised (in \"two weeks of active 1Q fundraising\"), additional $20,000 self-funded\nSenate\n? AL-Sen: The first half of Army veteran Mike Durant's ad details his near-death experience during the 1993 \"Black Hawk Down\" incident in Somalia, with the narrator declaring, \"Mike Durant was saved by his brothers.",

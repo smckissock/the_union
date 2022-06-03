@@ -5,7 +5,7 @@
   "headline": "The Jolt: Trump candidates in Georgia split from pro-Putin rhetoric",
   "image": "https://www.ajc.com/resizer/Qh2SVWxFA3VTO8yTsw-R-eR9CFU=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/ZYFTW56KFAGG5AF6MWUUD2TQKQ.jpg",
   "link": "https://www.ajc.com/politics/politics-blog/the-jolt-trump-candidates-in-georgia-split-from-pro-putin-rhetoric/OOSHDNFL3NAWHIRQOBCYTHXY3M/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Atlanta Journal-Constitution",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "https://www.ajc.com/staff/tia-mitchell/",
   "termIds": [
     815,
-    2095
+    1147,
+    1274,
+    2030,
+    2087,
+    2095,
+    2279,
+    2555,
+    2672,
+    2942
   ],
   "sentences": [
     "Its time for your weekend reading list, including:\n* Tuesdays Political Insider column, OPINION: The radical liberal Raphael Warnock we were warned about has not materialized;\n* Jamie DuPrees Washington column Thursday, Opinion: Putin goes back to the U.S.S.R.;\n* And a look ahead at Sundays Political Insider column, OPINION: The good, the bad, and the un-American in the response to the Ukraine crisis.",

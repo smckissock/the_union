@@ -5,16 +5,26 @@
   "headline": "Peter Thiel plans to wind down his involvement in 2022 after Vance's victory in Ohio",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220506125216-02-peter-thiel-0407-file-restricted-exlarge-169.jpg",
   "link": "https://www.cnn.com/2022/05/06/politics/peter-thiel-jd-vance-ohio-gop/index.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Gabby Orr and Michael Warren",
   "authorUrl": "",
   "termIds": [
+    677,
+    1119,
+    1147,
+    1801,
     2006,
+    2524,
     3085,
-    3094
+    3094,
+    102,
+    380,
+    2661,
+    2788,
+    2845
   ],
   "sentences": [
     "People close to both Thiel and Trump expect the billionaire tech investor to remain quietly involved in the political arena even if his financial contributions slow down, citing his proximity to the former President and the likelihood that he would serve as an informal adviser to Masters and Vance should one or both make it to the Senate.",

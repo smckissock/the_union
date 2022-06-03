@@ -5,14 +5,23 @@
   "headline": "Vulnerable Democrats buck Biden on Trump-era immigration fight",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/04/kellymark_040522gn_lead.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/senate/3269162-vulnerable-democrats-buck-biden-on-trump-era-immigration-fight/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jordain Carney",
   "authorUrl": "https://thehill.com/author/jordain-carney/",
   "termIds": [
-    2039
+    886,
+    1060,
+    1147,
+    1765,
+    2039,
+    2066,
+    2087,
+    2505,
+    146,
+    571
   ],
   "sentences": [
     "Sen. Mark Kelly (D-Ariz.) offered a stark warning to the administration as he visited the U.S.-Mexico border this week: Without a comprehensive plan, they could face a humanitarian crisis.?\nThe administration's decision to end the Trump-era Title 42 policy, which allows for the rapid expulsion of migrants at the border and blocks them from seeking asylum due to the pandemic, has opened up a high-profile rift between Biden and Democrats in races that will determine if they keep the Senate majority.",

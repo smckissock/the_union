@@ -5,7 +5,7 @@
   "headline": "Hitler, But Dumber: The Vladimir Putin Story",
   "image": "https://images.dailykos.com/images/1045058/story_image/778FB608-D1F1-4EF2-92A6-E93992D1E800.jpeg?1646449482",
   "link": "https://www.dailykos.com/story/2022/3/4/2084018/-Hitler-But-Dumber-The-Vladimir-Putin-Story",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,7 +14,13 @@
   "termIds": [
     661,
     815,
-    2303
+    1053,
+    1969,
+    2030,
+    2087,
+    2303,
+    5879,
+    346
   ],
   "sentences": [
     "Stripped, by Wily Joe Biden, of the capacity to justify military aggression with a false flag attack, the best narrative the master manipulator could muster was some feeble sputtering about de-Nazification, like a paint-covered kindergartner blaming the dog for the crude treasure map that appeared on the living room carpet.",

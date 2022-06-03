@@ -5,14 +5,21 @@
   "headline": "Dr. Oz called out an Islamophobic tweet from a GOP opponent who said 'Pedophilia is a Cornerstone of Islam'",
   "image": "https://i.insider.com/6280698f9147a30018b47b87?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/dr-oz-calls-opponent-tweet-about-islam-and-pedophilia-reprehensible-2022-5",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Hannah Getahun",
   "authorUrl": "https://www.businessinsider.com/author/hannah-getahun",
   "termIds": [
-    3102
+    1653,
+    3102,
+    3671,
+    428,
+    539,
+    571,
+    2826,
+    2945
   ],
   "sentences": [
     "Barnette, who has recently been making headlines for moving up in the polls for the Pennsylvania Senate race, tweeted a link in 2015 to a post from the now-defunct conservative site UFP News with the headline \"Pedophilia is a Cornerstone of Islam.\"",

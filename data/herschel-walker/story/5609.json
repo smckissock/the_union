@@ -5,7 +5,7 @@
   "headline": "What Were Watching For in the Nebraska and West Virginia Primaries",
   "image": "https://static01.nyt.com/images/2022/05/09/multimedia/09onpolitics-herbster-photo/09onpolitics-herbster-photo-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/09/us/politics/nebraska-west-virginia-midterm-primary-elections.html",
-  "sentiment": "0.0",
+  "sentiment": "-0.472",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     815,
-    3103
+    819,
+    1147,
+    1332,
+    2087,
+    2136,
+    3024,
+    3103,
+    428,
+    2816,
+    2969
   ],
   "sentences": [
     "No matter who wins the Democratic primary, either candidate is well positioned to take on Don Bacon and his extremist policies in this Biden-won seat.?\nWhat to read\nFar-right activists associated with the QAnon conspiracy theory movement are intercepting migrant children at the southern border and collecting information about their families, based on an unfounded belief that they are falling prey to sex-trafficking rings, Miriam Jordan reports.",

@@ -5,14 +5,20 @@
   "headline": "Ron DeSantis Likens U.S. Abortion Laws to North Korea, China",
   "image": "https://d.newsweek.com/en/full/2030606/florida-gov-ron-desantis.webp?w=790&f=8ebda76e39307db82d4fc603536b4d1b",
   "link": "https://www.newsweek.com/ron-desantis-comments-roe-vs-wade-supreme-court-north-korea-china-1703188",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Adam Staten",
   "authorUrl": "https://www.newsweek.com/authors/adam-staten",
   "termIds": [
-    661
+    661,
+    827,
+    2590,
+    2661,
+    2863,
+    2945,
+    5073
   ],
   "sentences": [
     "\"And I think part of the things with this discussion about some of the Supreme Court's case law is it's shown Americans who look at that and then look at, say, Europe just how out-of-step the United States has been and really how radical the juris prudence has been compared to a lot of industrialized countries,\" DeSantis said in a clip posted to Twitter.",

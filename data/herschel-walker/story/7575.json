@@ -5,14 +5,23 @@
   "headline": "NRSC to Drop $53 Million in TV Ads to Retake Senate Majority",
   "image": "https://media.breitbart.com/media/2021/07/Ron-Johnson-640x480.jpeg",
   "link": "https://www.breitbart.com/politics/2022/05/12/nrsc-to-drop-53-million-in-tv-ads-to-retake-senate-majority/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Hannah Bleau",
   "authorUrl": "https://www.breitbart.com/author/hannah-bleau/",
   "termIds": [
-    815
+    678,
+    815,
+    886,
+    963,
+    1136,
+    1925,
+    338,
+    428,
+    571,
+    3625
   ],
   "sentences": [
     "The advertising dollars bring to more than $300 million the amount of money the top Republican and Democratic campaign committees and super PACs have announced they will spend this year, as parties and outside groups race to lock down less expensive advertising rates before costs soar after Labor Day.",

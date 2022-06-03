@@ -5,14 +5,21 @@
   "headline": "Report rejects Rebekah Jones' claim that Florida doctored COVID data",
   "image": "https://www.tampabay.com/resizer//4VCcAMJVut4E-kZLuPGaFkkaPe0=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/BZQMDYWZRQVIM6SHR54EGPBDS4.jpg",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/28/report-rejects-rebekah-jones-claim-that-florida-doctored-covid-data/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    3948,
+    6223,
+    6231,
+    539,
+    3280,
+    3281,
+    2661
   ],
   "sentences": [
     "As DeSantis was preparing to end COVID-19 restrictions in order to reopen the state for business, Jones alleged that Shamarial Roberson, the now-former deputy secretary of the Florida Department of Health, had directed her to manipulate data on the state's COVID-19 digital dashboard to downplay the high case count in rural counties.",

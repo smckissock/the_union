@@ -5,14 +5,21 @@
   "headline": "Trump admits he wanted Barr to take the fall for election scheme: I said look, get impeached",
   "image": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/08/donald-trump-bill-barr-0819211.jpg",
   "link": "https://www.salon.com/2022/04/14/admits-he-wanted-barr-to-take-the-fall-for-scheme-i-said-look-get-impeached/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Salon",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Igor Derysh",
   "authorUrl": "https://www.salon.com/writer/igor-derysh",
   "termIds": [
-    3102
+    1147,
+    1148,
+    1804,
+    1997,
+    2525,
+    3102,
+    550,
+    2865
   ],
   "sentences": [
     "Trump claimed in an interview with Fox News host Sean Hannity that Barr did not want to investigate his baseless voter fraud claims because he was worried about being impeached even though Barr has repeatedly said the Justice Department did not pursue the claims because there was no evidence of any widespread fraud that could have affected the election outcome.",

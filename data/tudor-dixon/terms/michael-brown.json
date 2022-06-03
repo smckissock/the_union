@@ -6,7 +6,7 @@
     "sentence": "But that means <span class='selected-term'>Tudor Dixon</span>, Michael Brown, Donna Brandenburg, Ralph Rebandt and Michael Markey won't be onstage with their competitors.",
     "author": "Dave Boucher",
     "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 3454,
@@ -15,7 +15,7 @@
     "sentence": "That means that barring some change, Norton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, Michigan State Police Capt.",
     "author": "Paul Egan",
     "title": "GOP candidate for governor balks at Detroit Chamber debate over COVID-19 requirements",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7301,
@@ -24,7 +24,7 @@
     "sentence": "Another GOP candidate, <span class='selected-term'>Tudor Dixon</span>, had also contested Craig's voter signatures as fake.",
     "author": "DAVID EGGERT",
     "title": "Primary problem: Michigan GOP governor candidates short signatures",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7300,
@@ -33,7 +33,7 @@
     "sentence": "The reports also say that Oakland County businessman and \"quality guru\" Perry Johnson did not file enough valid signatures, but they clear Norton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, whose petitions were also the subject of a complaint.",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
-    "sentiment": "0.0"
+    "sentiment": "-0.882"
   },
   {
     "id": 7473,
@@ -42,6 +42,33 @@
     "sentence": "Craigs signatures had been challenged by Democrats and a superPAC supporting right-wing media personality <span class='selected-term'>Tudor Dixon</span>.",
     "author": "",
     "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8663,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The five remaining GOP gubernatorial candidates include <span class='selected-term'>Tudor Dixon</span>, Ryan Kelley, Ralph Rebandt, Kevin Rinke and Garrett Soldano.",
+    "author": "Amy B Wang",
+    "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
+    "sentiment": "0"
+  },
+  {
+    "id": 8670,
+    "mediaId": 157,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Currently, there are five Republican candidates for governor on the August ballot: businessman Kevin Rinke, right-wing media personality <span class='selected-term'>Tudor Dixon</span>, chiropractor Garrett Soldano, far-right activist Ryan Kelley and the Rev.",
+    "author": "Jon King",
+    "title": "Michigan 'quality guru' Perry Johnson remains off August primary ballot after unanimous court ruling",
+    "sentiment": "0"
+  },
+  {
+    "id": 8655,
+    "mediaId": 157,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "Businessman Kevin Rinke, right-wing media personality <span class='selected-term'>Tudor Dixon</span>, chiropractor Garrett Soldano and the Rev.",
+    "author": "",
+    "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
   }
 ]

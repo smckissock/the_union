@@ -5,17 +5,22 @@
   "headline": "Poll: Democrat Gretchen Whitmer Tied with Former Detroit Police Chief James Craig in Michigan Governor's Race",
   "image": "https://media.breitbart.com/media/2021/08/ipiccy_image-3-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/01/13/poll-democrat-gretchen-whitmer-tied-with-former-detroit-police-chief-james-craig-in-michigan-governors-race/",
-  "sentiment": "0.0",
+  "sentiment": "-0.27",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Ashley Oliver",
   "authorUrl": "https://www.breitbart.com/author/ashley-oliver/",
   "termIds": [
+    773,
     1844,
     2002,
     2298,
-    3075
+    3075,
+    428,
+    2645,
+    2748,
+    2791
   ],
   "sentences": [
     "While the report has not been released to the public yet, Whitmer's Department of Health and Human Services has spoken out ahead of its publication, claiming, according to a letter leaked to the Detroit Free Press, that the report contains a series of errors.?\nMichigan-based journalist Charlie LeDuff, who closely followed Whitmer's coronavirus policy impact on long-term care facility residents, estimated the new report  if the numbers prove to be valid  would put the Michigan governor on par with disgraced former New York Gov.",

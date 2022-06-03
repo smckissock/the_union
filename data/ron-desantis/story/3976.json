@@ -5,14 +5,22 @@
   "headline": "Fact-Checker's Own Website Proves DeSantis Accurate in 'Mostly False' Entry",
   "image": "https://media.townhall.com/townhall/reu/s1280x720/2022/125/66fbb8d3-a712-4029-9ed3-329460992e27.png",
   "link": "https://townhall.com/columnists/bradslager/2022/05/05/factcheckers-own-website-proves-desantis-accurate-in-mostly-false-entry-n2606845",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Townhall",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Brad Slager",
   "authorUrl": "https://townhall.com/columnists/bradslager/",
   "termIds": [
-    661
+    661,
+    683,
+    1024,
+    1223,
+    2517,
+    4057,
+    4161,
+    4590,
+    3195
   ],
   "sentences": [
     "https://t.co/bciCJDWGGP\n The New York Times (@nytimes) May 5, 2022\n- \"It is unclear what role his childhood  coming up in a time and place in which there was hardly a free exchange of ideas and where government misinformation was used to demonize Black South Africans  may have played in that decision.\"",

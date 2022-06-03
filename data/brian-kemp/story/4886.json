@@ -5,14 +5,21 @@
   "headline": "Lawsuit seeks to block Georgia law that bans most abortions",
   "image": "https://twt-thumbs.washtimes.com/media/image/2019/06/28/abortion_georgia_03239_c0-229-5472-3419_s885x516.jpg?c1d93beed655d999d21da6df656357387ea64660",
   "link": "https://www.washingtontimes.com/news/2019/jun/28/lawsuit-seeks-to-block-georgia-law-that-bans-most-/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "KATE BRUMBACK",
   "authorUrl": "",
   "termIds": [
-    2095
+    1323,
+    1438,
+    2095,
+    401,
+    3122,
+    3171,
+    2555,
+    2672
   ],
   "sentences": [
     "But I believe that Georgia has proceeded with common sense, with the support of science and on a legally sound foundation thatll ultimately be upheld in our courts.?\nSetlzer noted that Georgias law is unlike other states heartbeat? bills because it establishes the full personhood? of fetuses across the legal code.",

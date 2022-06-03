@@ -5,14 +5,21 @@
   "headline": "Poll: Kemp leads Perdue by 32 points ahead of Georgia's GOP gubernatorial primary",
   "image": "https://www.politico.com/dims4/default/368ca2c/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F5f%2F91%2F1275a3dc4f799c08656e26921026%2Fap22126769365252.jpg",
   "link": "https://www.politico.com/news/2022/05/18/poll-kemp-perdue-georgia-republican-gubernatorial-primary-00033638",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1434,
+    2087,
+    2095,
+    2203,
+    4325,
+    428,
+    2555,
+    2672
   ],
   "sentences": [
     "The May 24 primary between Perdue and Kemp has seen heavy involvement from former President Donald Trump, who has made the governor one of his top midterm targets, along with Georgia Secretary of State Brad Raffensperger, for refusing to intervene and overturn the states election results in 2020, when President Joe Biden narrowly won Georgia.",

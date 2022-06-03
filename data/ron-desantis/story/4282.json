@@ -5,14 +5,18 @@
   "headline": "MSNBC warns of right-wing extremists weaponizing 'motherhood'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfc4f3e8-eb27-4b1f-97ec-638f28cb98df/57315dbc-bf77-43c2-bbf4-a88b9e6b8863/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/msnbc-right-wing-extremists-motherhood",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lindsay Kornick",
   "authorUrl": "https://www.foxnews.com/person/k/lindsay-kornick",
   "termIds": [
-    661
+    661,
+    1758,
+    3907,
+    4459,
+    327
   ],
   "sentences": [
     "In Mein Kampf, Hitler fixated on boxing and jujitsu, believing they could help him create an army of millions whose aggressive spirit and impeccably trained bodies, combined with fanatical love of the fatherland, would do more for the German nation than any mediocre tactical weapons training,\" she wrote.",

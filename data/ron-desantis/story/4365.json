@@ -5,14 +5,19 @@
   "headline": "Bugs Bunny's Controversial History Revisited After Ron DeSantis' Comments",
   "image": "https://d.newsweek.com/en/full/2028758/bugs-bunnys-history-revisited-after-desantis-comments.webp?w=790&f=daba9cc0bcd31f1a7c56d295f4c1bd47",
   "link": "https://www.newsweek.com/bugs-bunnys-controversial-history-revisted-ron-desantis-comments-1702332",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Fatma Khaled",
   "authorUrl": "https://www.newsweek.com/authors/fatma-khaled",
   "termIds": [
-    661
+    661,
+    1837,
+    3983,
+    539,
+    2661,
+    2818
   ],
   "sentences": [
     "\"One of the things that really bugged me were these Zoom videos with all these people that are high up in Disney, talking about how there was intention to inject sexuality into the programming for these very young kids,\" he said on Wednesday during a campaign event for Republican U.S. Senate candidate Adam Laxalt in Nevada, according to The Recount.",

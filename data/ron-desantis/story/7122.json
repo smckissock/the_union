@@ -5,14 +5,15 @@
   "headline": "DeSantis signs bill targeting fentanyl, meth dealers",
   "image": "https://www.tampabay.com/resizer//3w_PZvEGWGfhARCltjT1zfRGZF4=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/5HX3FSKJQUHUMHSXWKJ6OR2UHE.jpg",
   "link": "https://www.tampabay.com/news/florida-politics/2022/05/20/desantis-signs-bill-targeting-fentanyl-meth-dealers/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2661
   ],
   "sentences": [
     "But were also doing things like the first lady (Casey DeSantis) is doing, the outreach to the young kids.?\nIncoming House Speaker Paul Renner, R-Palm Coast, added that if you come and sell fentanyl to our citizens, you will spend the best years of your life here in Florida in prison.?\nThe law, which will go into effect Oct. 1, follows recommendations from the Statewide Task Force on Opioid Abuse, which DeSantis created in 2019.",

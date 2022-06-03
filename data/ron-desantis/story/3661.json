@@ -5,14 +5,16 @@
   "headline": "Ron DeSantis to appoint new Florida secretary of state who could oversee his 2022 re-election: report",
   "image": "https://www.rawstory.com/media-library/ron-desantis.jpg?id=29798376&width=1200&coordinates=0%2C0%2C0%2C50&height=600",
   "link": "https://www.rawstory.com/ron-desantis-secretary-of-state/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Bob Brigham",
   "authorUrl": "https://www.rawstory.com/u/bob_brigham",
   "termIds": [
-    661
+    661,
+    428,
+    2661
   ],
   "sentences": [
     "Ron DeSantis, according to a Thursday email sent to the states county election supervisors by Maria Matthews, director of the states Division of Elections,\" the Tampa Bay Times reported Thursday.",

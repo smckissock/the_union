@@ -1,29 +1,29 @@
 [
   {
-    "id": 4461,
-    "mediaId": 195,
-    "date": "2022-00-19",
-    "sentence": "",
-    "author": "Alexis Simendinger",
-    "title": "The Hills Morning Report  Recount looms in Pennsylvania",
-    "sentiment": "0"
-  },
-  {
     "id": 4841,
     "mediaId": 33,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jamie Gangel",
     "title": "CNN Exclusive: New text messages reveal Fox's Hannity advising Trump White House and seeking direction",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4848,
     "mediaId": 33,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "With the silence of the Republican Governor <span class='selected-term'>Brian Kemp</span> over the voting issues in Georgia, both rank-in-file Republicans and many state leaders are bitterly divided.",
     "author": "",
     "title": "READ: 82 texts between Sean Hannity and Mark Meadows",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 4461,
+    "mediaId": 195,
+    "date": "5/19/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Alexis Simendinger",
+    "title": "The Hills Morning Report  Recount looms in Pennsylvania",
+    "sentiment": "0"
   }
 ]

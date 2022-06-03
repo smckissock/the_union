@@ -5,7 +5,7 @@
   "headline": "Pennsylvania Republicans to draft bill to relocate migrants on Biden DHS flights to Delaware",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0a7adce-f214-4546-84cb-26d1d21cd9bc/82c876bb-2e56-4610-9b08-623b3c328240/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/politics/pennsylvania-republicans-to-draft-bill-diverting-illegal-immigrants-from-secretive-biden-dhs-flights-to-delawa",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     661,
-    3102
+    1625,
+    1990,
+    2087,
+    3102,
+    5376,
+    428,
+    2643,
+    2862,
+    4916,
+    5003
   ],
   "sentences": [
     "\"If the federal government is not willing to provide extra dollars to communities that have experienced increased strain on their healthcare systems, increased number of students in school districts and education costs and other services within our communities, then they shouldnt be forced to take on more illegal immigrants and the additional financial responsibility,\" he said\nAnother Pennsylvania Republican, state Sen. Doug Mastriano of Chambersburg, said Thursday he will be co-sponsoring Scavello's legislation.",

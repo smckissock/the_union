@@ -1,62 +1,17 @@
 [
   {
-    "id": 2380,
-    "mediaId": 124,
-    "date": "2022-00-01",
-    "sentence": "",
-    "author": "",
-    "title": "Biden's State of the Union checklist expands from economy to Covid and war in Europe",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2449,
     "mediaId": 43,
-    "date": "2022-00-01",
+    "date": "1/1/2022 12:00:00 AM",
     "sentence": "Let's show them we're NOT backing down: https://t.co/4OXYM6kWP5 pic.twitter.com/o6xQ538lJz\n <span class='selected-term'>Mandela Barnes</span> (@TheOtherMandela) December 20, 2021",
     "author": "",
     "title": "The way forward is to view Manchin and Sinema as opportunities not just as obstacles",
     "sentiment": "0.871"
   },
   {
-    "id": 2375,
-    "mediaId": 21,
-    "date": "2022-00-03",
-    "sentence": "Clockwise from upper left: 2022 Senate candidates <span class='selected-term'>Mandela Barnes</span> and Sen. Ron Johnson of Wisconsin, and Rep. Val Demings and Sen. Marco Rubio of Florida.",
-    "author": "Kayla Epstein",
-    "title": "These 9 Senate races hold the key to who will control Joe Biden's agenda after the midterm elections in November",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2371,
-    "mediaId": 195,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Johnson touts work with Milwaukee faith initiative in new ads",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2367,
-    "mediaId": 151,
-    "date": "2022-00-14",
-    "sentence": "",
-    "author": "",
-    "title": "GOP Senate candidates thrash each other ahead of fight for majority",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 2368,
-    "mediaId": 367,
-    "date": "2022-00-14",
-    "sentence": "",
-    "author": "Bill Glauber",
-    "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson",
-    "sentiment": "0.0"
-  },
-  {
     "id": 2387,
     "mediaId": 367,
-    "date": "2022-00-21",
+    "date": "2/21/2022 12:00:00 AM",
     "sentence": "Not only does <span class='selected-term'>Mandela Barnes</span> oppose holding bad actors like John Chisholm accountable, but he wants to enable more violent criminals like Darrell Brooks to walk free via reckless cash bail policies,\" said Anna Kelly, spokeswoman for the Republican Party.",
     "author": "Daniel Bice",
     "title": "Bice: U.S. Senate candidate Mandela Barnes favors eliminating cash bail nationally, aide says",
@@ -65,7 +20,7 @@
   {
     "id": 2386,
     "mediaId": 367,
-    "date": "2022-00-23",
+    "date": "2/23/2022 12:00:00 AM",
     "sentence": "More:<span class='selected-term'>Mandela Barnes</span> raises $1.23 million during last 3 months of 2021 in Wisconsin U.S. Senate race\nIn joining the state treasurer race, Battino is expected to build on what she learned on the campaign trail over the past year, with voters raising concerns about such issues as rural broadband, health care and financial insecurity.",
     "author": "Bill Glauber",
     "title": "Gillian Battino expected to leave Democratic U.S. Senate race and announce run for state treasurer",
@@ -74,10 +29,55 @@
   {
     "id": 2385,
     "mediaId": 367,
-    "date": "2022-00-24",
+    "date": "2/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Bill Glauber",
     "title": "'Voters don't know where he's at': Tom Nelson turns sights on Democratic rival Mandela Barnes in U.S. Senate race",
     "sentiment": "-0.684"
+  },
+  {
+    "id": 2380,
+    "mediaId": 124,
+    "date": "3/1/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Biden's State of the Union checklist expands from economy to Covid and war in Europe",
+    "sentiment": "0"
+  },
+  {
+    "id": 2375,
+    "mediaId": 21,
+    "date": "3/3/2022 12:00:00 AM",
+    "sentence": "Clockwise from upper left: 2022 Senate candidates <span class='selected-term'>Mandela Barnes</span> and Sen. Ron Johnson of Wisconsin, and Rep. Val Demings and Sen. Marco Rubio of Florida.",
+    "author": "Kayla Epstein",
+    "title": "These 9 Senate races hold the key to who will control Joe Biden's agenda after the midterm elections in November",
+    "sentiment": "0"
+  },
+  {
+    "id": 2371,
+    "mediaId": 195,
+    "date": "3/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Johnson touts work with Milwaukee faith initiative in new ads",
+    "sentiment": "0"
+  },
+  {
+    "id": 2367,
+    "mediaId": 151,
+    "date": "3/14/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "GOP Senate candidates thrash each other ahead of fight for majority",
+    "sentiment": "0"
+  },
+  {
+    "id": 2368,
+    "mediaId": 367,
+    "date": "3/14/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Bill Glauber",
+    "title": "Democrat Sarah Godlewski releases her first TV ad in her bid for U.S. Senate, takes swipe at Republican Ron Johnson",
+    "sentiment": "0"
   }
 ]

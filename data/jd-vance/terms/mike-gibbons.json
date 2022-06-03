@@ -1,98 +1,17 @@
 [
   {
-    "id": 5992,
-    "mediaId": 195,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Julia Manchester",
-    "title": "Vance waves off Trump fumbling his name: Im not worried about it at all",
-    "sentiment": "-0.643"
-  },
-  {
-    "id": 6009,
-    "mediaId": 195,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Brad Dress",
-    "title": "Trump fumbles JD Vances name at rally",
-    "sentiment": "0"
-  },
-  {
-    "id": 6010,
-    "mediaId": 558,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "Tom LoBianco",
-    "title": "What to know about Tuesday's big Republican primary in Ohio",
-    "sentiment": "0.403"
-  },
-  {
-    "id": 6033,
-    "mediaId": 43,
-    "date": "2022-00-02",
+    "id": 7973,
+    "mediaId": 124,
+    "date": "3/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
-    "title": "Watch The Previous Guy Forget The Name Of The Piece Of Sh*t He Endorsed In Ohio",
-    "sentiment": "0.393"
-  },
-  {
-    "id": 6039,
-    "mediaId": 129,
-    "date": "2022-00-02",
-    "sentence": "",
-    "author": "",
-    "title": "In Ohio Senate Fight, G.O.P. Shows Strains of Its Identity Crisis",
+    "title": "The GOP's bid to retake the Senate is encountering early struggles",
     "sentiment": "0"
-  },
-  {
-    "id": 5901,
-    "mediaId": 223,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Spencer Brown",
-    "title": "J.D. Vance Wins Ohio GOP Senate Primary",
-    "sentiment": "0.916"
-  },
-  {
-    "id": 5904,
-    "mediaId": 237,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Kate Scanlon",
-    "title": "Vance wins Ohio GOP Senate nomination after Trump endorsement in heated primary",
-    "sentiment": "-0.693"
-  },
-  {
-    "id": 5954,
-    "mediaId": 19,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "John Binder",
-    "title": "Ohio Chamber of Commerce Issues Last Ditch Veiled Attack on Trump-Endorsed J.D. Vance: Beware of Populism",
-    "sentiment": "-0.198"
-  },
-  {
-    "id": 5979,
-    "mediaId": 157,
-    "date": "2022-00-03",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Trump-backed JD Vance secures GOP senate nomination  after brutal Ohio primary campaign",
-    "sentiment": "0.68"
-  },
-  {
-    "id": 5851,
-    "mediaId": 157,
-    "date": "2022-00-04",
-    "sentence": "",
-    "author": "Bob Brigham",
-    "title": "Far-right takes a victory lap as JD Vance begins grueling general election battle against Tim Ryan",
-    "sentiment": "-0.476"
   },
   {
     "id": 6434,
     "mediaId": 19,
-    "date": "2022-00-10",
+    "date": "4/10/2022 12:00:00 AM",
     "sentence": "",
     "author": "John Binder",
     "title": "Ohio GOP Senate Candidate Mike Gibbons: Middle Class Not Really Paying  Fair Share in Taxes",
@@ -101,7 +20,7 @@
   {
     "id": 6416,
     "mediaId": 136,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Aila Slisco",
     "title": "With GOP Candidates Vying for His Backing, Donald Trump Plans Rally in Ohio",
@@ -110,7 +29,7 @@
   {
     "id": 6419,
     "mediaId": 65,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tyler Olson",
     "title": "Rep. Kat Cammack backs Mike Gibbons in Ohio GOP Senate primary",
@@ -119,7 +38,7 @@
   {
     "id": 6421,
     "mediaId": 237,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kate Scanlon",
     "title": "Gibbons ad hits Vance and Timken on taxes in fiery Ohio GOP Senate primary",
@@ -128,7 +47,7 @@
   {
     "id": 5139,
     "mediaId": 63,
-    "date": "2022-00-14",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "Nicholas Reimann",
     "title": "Trump Reportedly Backing J.D. Vance In Ohio Senate RaceLatest Test Of Dubious Endorsement Power",
@@ -137,7 +56,7 @@
   {
     "id": 6362,
     "mediaId": 112,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Associated Press",
     "title": "Formerly anti-Trump author of Hillbilly Elegy wins long-running battle for ex-presidents endorsement in GOP Senate primary in Ohio",
@@ -146,7 +65,7 @@
   {
     "id": 6380,
     "mediaId": 409,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Caroline Downey",
     "title": "Trump Endorses J. D. Vance in Ohio Senate Race",
@@ -155,7 +74,7 @@
   {
     "id": 6383,
     "mediaId": 98,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Trump backs Hillbilly Elegy author J.D. Vance in U.S. Senate primary in Ohio",
@@ -164,7 +83,7 @@
   {
     "id": 6384,
     "mediaId": 65,
-    "date": "2022-00-15",
+    "date": "4/15/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Steinhauser",
     "title": "Ohio GOP Senate showdown: Dolan knocks rivals for name-calling instead of results",
@@ -173,7 +92,7 @@
   {
     "id": 6341,
     "mediaId": 157,
-    "date": "2022-00-17",
+    "date": "4/17/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "Trump refused to endorse Ohio's Josh Mandel because he's 'embarrassing': report",
@@ -182,7 +101,7 @@
   {
     "id": 6307,
     "mediaId": 124,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Trump Jr. to campaign with J.D. Vance in Ohio following father's endorsement",
@@ -191,7 +110,7 @@
   {
     "id": 6310,
     "mediaId": 238,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Ukraine is taking up less and less of the campaign conversation",
@@ -200,7 +119,7 @@
   {
     "id": 6318,
     "mediaId": 65,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Paul Steinhauser",
     "title": "JD Vance highlights Trump endorsement with new TV ad in Ohios GOP Senate primary showdown",
@@ -209,25 +128,16 @@
   {
     "id": 6327,
     "mediaId": 157,
-    "date": "2022-00-18",
+    "date": "4/18/2022 12:00:00 AM",
     "sentence": "",
     "author": "Alex Henderson",
     "title": "Ukraines nightmare asserts itself in Ohios bitter US Senate race",
     "sentiment": "0"
   },
   {
-    "id": 7973,
-    "mediaId": 124,
-    "date": "2022-00-22",
-    "sentence": "",
-    "author": "",
-    "title": "The GOP's bid to retake the Senate is encountering early struggles",
-    "sentiment": "0"
-  },
-  {
     "id": 6204,
     "mediaId": 237,
-    "date": "2022-00-23",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Kate Scanlon",
     "title": "Blistering Ohio Senate GOP primary fight hits final stretch with fresh sniping",
@@ -236,7 +146,7 @@
   {
     "id": 6214,
     "mediaId": 157,
-    "date": "2022-00-23",
+    "date": "4/23/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "Trump has a built-in excuse if his JD Vance endorsement flops with voters: Larry Sabato",
@@ -245,7 +155,7 @@
   {
     "id": 6171,
     "mediaId": 165,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jack Crosbie",
     "title": "Trump Squeezes In J.D. Vance Endorsement Between Rants About Water Pressure in Ohio",
@@ -254,7 +164,7 @@
   {
     "id": 6172,
     "mediaId": 195,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Albert Hunt",
     "title": "McConnells dilemma: What if Trumps candidates win?",
@@ -263,7 +173,7 @@
   {
     "id": 6175,
     "mediaId": 409,
-    "date": "2022-00-24",
+    "date": "4/24/2022 12:00:00 AM",
     "sentence": "",
     "author": "Caroline Downey",
     "title": "Trump Blasts Failures of Biden Admin, Campaigns for Vance at Ohio Rally",
@@ -272,10 +182,100 @@
   {
     "id": 6076,
     "mediaId": 129,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Once Soft-Spoken, Ohio Conservatives Embrace the Bombast",
     "sentiment": "0"
+  },
+  {
+    "id": 5992,
+    "mediaId": 195,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Julia Manchester",
+    "title": "Vance waves off Trump fumbling his name: Im not worried about it at all",
+    "sentiment": "-0.643"
+  },
+  {
+    "id": 6009,
+    "mediaId": 195,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Brad Dress",
+    "title": "Trump fumbles JD Vances name at rally",
+    "sentiment": "0"
+  },
+  {
+    "id": 6010,
+    "mediaId": 558,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Tom LoBianco",
+    "title": "What to know about Tuesday's big Republican primary in Ohio",
+    "sentiment": "0.403"
+  },
+  {
+    "id": 6033,
+    "mediaId": 43,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Watch The Previous Guy Forget The Name Of The Piece Of Sh*t He Endorsed In Ohio",
+    "sentiment": "0.393"
+  },
+  {
+    "id": 6039,
+    "mediaId": 129,
+    "date": "5/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "In Ohio Senate Fight, G.O.P. Shows Strains of Its Identity Crisis",
+    "sentiment": "0"
+  },
+  {
+    "id": 5901,
+    "mediaId": 223,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Spencer Brown",
+    "title": "J.D. Vance Wins Ohio GOP Senate Primary",
+    "sentiment": "0.916"
+  },
+  {
+    "id": 5904,
+    "mediaId": 237,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Kate Scanlon",
+    "title": "Vance wins Ohio GOP Senate nomination after Trump endorsement in heated primary",
+    "sentiment": "-0.693"
+  },
+  {
+    "id": 5954,
+    "mediaId": 19,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "John Binder",
+    "title": "Ohio Chamber of Commerce Issues Last Ditch Veiled Attack on Trump-Endorsed J.D. Vance: Beware of Populism",
+    "sentiment": "-0.198"
+  },
+  {
+    "id": 5979,
+    "mediaId": 157,
+    "date": "5/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Trump-backed JD Vance secures GOP senate nomination  after brutal Ohio primary campaign",
+    "sentiment": "0.68"
+  },
+  {
+    "id": 5851,
+    "mediaId": 157,
+    "date": "5/4/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Bob Brigham",
+    "title": "Far-right takes a victory lap as JD Vance begins grueling general election battle against Tim Ryan",
+    "sentiment": "-0.476"
   }
 ]

@@ -5,14 +5,21 @@
   "headline": "Armenian Americans rally in opposition to Oz's Pennsylvania Senate bid",
   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220318-mehmet-oz-mjf-1213-e9c932.jpg",
   "link": "https://www.nbcnews.com/politics/politics-news/armenian-americans-rally-opposition-ozs-pennsylvania-senate-bid-rcna24084",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "NBC News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    1147,
+    2429,
+    5874,
+    393,
+    2940,
+    2959,
+    6035
   ],
   "sentences": [
     "After Biden recognized it, finally, after all these years of efforts, were really concerned about Oz, because we know the power of Turkish lobbying and Turkish interests in U.S. politics, said the founder of the United Armenian Fund, Harut Sassounian, the publisher of an Armenian newspaper in Glendale, California, which is known as \"Little Armenia.\"",

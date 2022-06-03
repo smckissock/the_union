@@ -5,14 +5,22 @@
   "headline": "Mark Penn on 'Kilmeade Show': Ron DeSantis 'significantly ahead' for 2024 if Trump doesn't run",
   "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e873a9c7-3f3b-4da4-8188-836f348dc0d9/a862ba0c-6bea-4e97-a2ed-f12c2da157c7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
   "link": "https://www.foxnews.com/media/ron-desantis-presidential-2024-trump-run-mark-penn",
-  "sentiment": "0.0",
+  "sentiment": "0.781",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Fox News Staff",
   "authorUrl": "https://www.foxnews.com/person/s/fox-news-staff",
   "termIds": [
-    661
+    661,
+    1147,
+    1303,
+    2087,
+    2314,
+    4447,
+    146,
+    428,
+    2661
   ],
   "sentences": [
     "MARK PENN: On the Republican side, I do see DeSantis really getting stronger and stronger and emerging  if Trump either runs and he runs against him or Trump doesn't run, DeSantis clearly has put himself significantly ahead of everybody else on the Republican side.",

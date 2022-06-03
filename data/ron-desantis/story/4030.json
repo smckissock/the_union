@@ -5,14 +5,19 @@
   "headline": "Anular Roe v. Wade sera mortal, dicen mdicos de Florida Central y defensores del aborto que estn indignados",
   "image": "https://www.orlandosentinel.com/resizer/CD3qK67qZARlCMhaISu18v5kGrI=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QCK35XGFPFEPNEGY7E4DTWIBKM.jpg",
   "link": "https://www.orlandosentinel.com/espanol/os-ex-roe-v-wade-reacciones-florida-central-20220504-xtjcb6z7f5g4hmp5wjv2avt22e-story.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Orlando Sentinel",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Orlando Sentinel Staff",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    2058,
+    3645,
+    2661,
+    4982,
+    5152
   ],
   "sentences": [
     "Segn la ley estatal, las clnicas de aborto deben tener un acuerdo de transferencia de pacientes por escrito con un hospital dentro de una proximidad razonable? a la clnica, y los mdicos deben tener privilegios de admisin en un hospital dentro de una proximidad razonable?.",

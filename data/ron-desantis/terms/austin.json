@@ -2,28 +2,28 @@
   {
     "id": 3918,
     "mediaId": 98,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "",
     "author": "Nathan Crooks",
     "title": "Mayor invites Elon Musk and Twitter to relocate: Miami is a global city",
     "sentiment": "0"
   },
   {
-    "id": 3918,
-    "mediaId": 98,
-    "date": "2022-00-06",
-    "sentence": "",
-    "author": "Nathan Crooks",
-    "title": "Mayor invites Elon Musk and Twitter to relocate: Miami is a global city",
-    "sentiment": "0.0"
-  },
-  {
     "id": 3656,
     "mediaId": 323,
-    "date": "2022-00-12",
+    "date": "5/12/2022 12:00:00 AM",
     "sentence": "",
     "author": "Jacob Gershman",
     "title": "Texas Regulation of Social-Media Platforms Allowed by Appeals Court",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8806,
+    "mediaId": 881,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "In Florida, Governor <span class='selected-term'>Ron DeSantis</span> appointed Ester Byrd, a prominent Moms for Liberty member, to Floridas Board of Education.",
+    "author": "Claire Woodcock",
+    "title": "Moms for Liberty has allied with Republicans across the U.S. to change what public school libraries are allowed to offer.",
+    "sentiment": "0"
   }
 ]

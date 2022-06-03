@@ -5,14 +5,16 @@
   "headline": "How a Debut Graphic Memoir Became the Most Banned Book in the Country",
   "image": "https://static01.nyt.com/images/2022/05/30/multimedia/30Kobabe-JP/30Kobabe-JP-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/01/books/maia-kobabe-gender-queer-book-ban.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4891,
+    2953
   ],
   "sentences": [
     "And it arrived in the middle of a politically and emotionally charged debate about gender identity and transgender rights, as Republican elected officials in Texas, Florida and elsewhere have put forward legislation that would criminalize providing medically accepted treatment to transgender children, or ban discussions of gender identity and sexuality in some elementary school grades.",

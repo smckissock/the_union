@@ -5,14 +5,21 @@
   "headline": "Majority of Democrat Sen. Raphael Warnocks Campaign Donations Are from Out of State",
   "image": "https://media.breitbart.com/media/2022/04/Raphael-Warnock-Walking-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/04/26/majority-of-democrat-sen-raphael-warnocks-campaign-donations-are-from-out-of-state/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jacob Bliss",
   "authorUrl": "https://www.breitbart.com/author/jbliss/",
   "termIds": [
-    815
+    815,
+    1136,
+    5799,
+    146,
+    338,
+    428,
+    571,
+    2672
   ],
   "sentences": [
     "However, despite Warnocks campaign touting his grassroots fundraising and his commitment to the Peach State, an analysis by the National Republican Senatorial Committee (NRSC) showed that of his $7,181,954.84, only 11.4 percent ($821,259.72) were from donors within the state.",

@@ -1,8 +1,17 @@
 [
   {
+    "id": 7885,
+    "mediaId": 151,
+    "date": "3/27/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
+    "sentiment": "0"
+  },
+  {
     "id": 195,
     "mediaId": 157,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Timothy Evans",
     "title": "Trump finally opens his war chest as he struggles to take down GOP governor Brian Kemp in Georgia",
@@ -11,7 +20,7 @@
   {
     "id": 2107,
     "mediaId": 157,
-    "date": "2022-00-13",
+    "date": "4/13/2022 12:00:00 AM",
     "sentence": "",
     "author": "Ross Williams",
     "title": "Trump makes first big midterm donation  invests in ousting GOP Gov Brian Kemp",
@@ -20,7 +29,7 @@
   {
     "id": 2088,
     "mediaId": 1576,
-    "date": "2022-00-14",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Trump PAC gives $500,000 to attack Georgia's Brian Kemp",
@@ -29,16 +38,16 @@
   {
     "id": 3401,
     "mediaId": 151,
-    "date": "2022-00-14",
+    "date": "5/14/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "POLITICO Playbook: Clarence Thomas speaks",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7095,
     "mediaId": 157,
-    "date": "2022-00-20",
+    "date": "5/20/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tom Boggioni",
     "title": "Trump growing gun shy about endorsements as his losses pile up: report",
@@ -47,25 +56,16 @@
   {
     "id": 6556,
     "mediaId": 151,
-    "date": "2022-00-21",
+    "date": "5/21/2022 12:00:00 AM",
     "sentence": " One interesting nugget: Trumps political machine recently transferred $2 million to various pro-David Perdue and anti-<span class='selected-term'>Brian Kemp</span> efforts in Georgia,? NYTs Shane Goldmacher reports, noting that it is by far, the most Trump has spent on another politician.?\n Georgia's Latino population keeps growing.",
     "author": "",
     "title": "POLITICO Playbook: Sean Patrick Maloney dodges a bullet",
     "sentiment": "-0.582"
   },
   {
-    "id": 7885,
-    "mediaId": 151,
-    "date": "2022-00-27",
-    "sentence": "",
-    "author": "",
-    "title": "POLITICO Playbook: Bidens 9-word ad-lib that set the world ablaze",
-    "sentiment": "0.0"
-  },
-  {
     "id": 8485,
     "mediaId": 21,
-    "date": "2022-00-28",
+    "date": "5/28/2022 12:00:00 AM",
     "sentence": "He came to Georgia to campaign for Trump foe <span class='selected-term'>Brian Kemp</span>, who easily won his GOP gubernatorial primary this week.",
     "author": "John L. Dorman",
     "title": "Chris Christie says Trump wants the GOP to be the 'party of me,' where 'everything has to be about him'",

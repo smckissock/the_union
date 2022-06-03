@@ -2,28 +2,64 @@
   {
     "id": 32,
     "mediaId": 261,
-    "date": "2022-00-02",
+    "date": "4/2/2022 12:00:00 AM",
     "sentence": "Also, as of Friday, Oakland County businessman and former auto dealer <span class='selected-term'>Kevin Rinke</span> said he hadn't made a decision as to whether to attend, a spokeswoman said.",
     "author": "Todd Spangler",
     "title": "Donald Trump rally in Michigan on Saturday, April 2: Everything you need to know",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 904,
     "mediaId": 195,
-    "date": "2022-00-16",
+    "date": "4/16/2022 12:00:00 AM",
     "sentence": "Meanwhile, GOP gubernatorial candidate <span class='selected-term'>Kevin Rinke</span> launched a $500,000 two-week ad buy late last month on television, radio, and digital platforms.",
     "author": "Julia Manchester",
     "title": "Whitmer goes on offense amid barrage of GOP attacks in Michigan",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7473,
     "mediaId": 157,
-    "date": "2022-00-24",
+    "date": "5/24/2022 12:00:00 AM",
     "sentence": "Businessman <span class='selected-term'>Kevin Rinke</span>, chiropractor Garrett Soldano, far-right activist Ryan Kelley and the Rev.",
     "author": "",
     "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
-    "sentiment": "0.0"
+    "sentiment": "0"
+  },
+  {
+    "id": 8663,
+    "mediaId": 238,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "The five remaining GOP gubernatorial candidates include Tudor Dixon, Ryan Kelley, Ralph Rebandt, <span class='selected-term'>Kevin Rinke</span> and Garrett Soldano.",
+    "author": "Amy B Wang",
+    "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
+    "sentiment": "0"
+  },
+  {
+    "id": 8656,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "It's going to be decided by people who have traditionally struggled with President Trump,\" said Oakland County businessman <span class='selected-term'>Kevin Rinke</span>.",
+    "author": "Dave Boucher",
+    "title": "Michigan GOP gubernatorial candidates eager for Donald Trump's endorsement",
+    "sentiment": "0.42"
+  },
+  {
+    "id": 8657,
+    "mediaId": 261,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Lou Jacobson and Clara Hendrickson",
+    "title": "Kevin Rinke ad falsely claims 'dead people always vote Democrat'",
+    "sentiment": "0"
+  },
+  {
+    "id": 8655,
+    "mediaId": 157,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "Businessman <span class='selected-term'>Kevin Rinke</span>, right-wing media personality Tudor Dixon, chiropractor Garrett Soldano and the Rev.",
+    "author": "",
+    "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
   }
 ]

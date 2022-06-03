@@ -5,14 +5,21 @@
   "headline": "Karol Markowicz on NYC Jewish museum canceling DeSantis speaking event: 'Political games'",
   "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d63a6ebb-aac4-42e5-a8e7-16bb10cecb22/533db9ac-ce17-4671-b37e-0952a33f0221/1280x720/match/image.jpg",
   "link": "https://www.foxnews.com/media/ron-desantis-jewish-museum-cancels-event-markowicz",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "FOX News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Amy Nelson",
   "authorUrl": "https://www.foxnews.com/person/n/amy-nelson",
   "termIds": [
-    661
+    661,
+    4298,
+    4302,
+    523,
+    539,
+    3426,
+    2661,
+    2826
   ],
   "sentences": [
     "Elliot Abrams and Eric Cohen, who were working closely with the museum to plan the event, wrote in a Wall Street Journal op-ed that museum staff claimed DeSantis didnt \"align with the museums values and its message of inclusivity.\"",

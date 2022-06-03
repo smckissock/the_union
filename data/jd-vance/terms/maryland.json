@@ -1,8 +1,35 @@
 [
   {
+    "id": 8175,
+    "mediaId": 169,
+    "date": "2/9/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Igor Derysh",
+    "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
+    "sentiment": "0"
+  },
+  {
+    "id": 6262,
+    "mediaId": 43,
+    "date": "4/21/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Daily Kos Elections Live Digest: 4/21",
+    "sentiment": "0"
+  },
+  {
+    "id": 6101,
+    "mediaId": 237,
+    "date": "4/28/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "David M. Drucker",
+    "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
+    "sentiment": "0"
+  },
+  {
     "id": 5693,
     "mediaId": 25,
-    "date": "2022-00-06",
+    "date": "5/6/2022 12:00:00 AM",
     "sentence": "",
     "author": "Adam Brewster, Jacob Rosen",
     "title": "Here are the states vying to hold the first presidential Democratic primary contests in 2024",
@@ -11,25 +38,16 @@
   {
     "id": 5631,
     "mediaId": 151,
-    "date": "2022-00-07",
+    "date": "5/7/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Ohio was a test case for 2024. The GOP establishment looks screwed.",
     "sentiment": "0"
   },
   {
-    "id": 8175,
-    "mediaId": 169,
-    "date": "2022-00-09",
-    "sentence": "",
-    "author": "Igor Derysh",
-    "title": "Republicans in chaos: Conflict with Trump endangers GOP Senate prospects",
-    "sentiment": "0"
-  },
-  {
     "id": 5572,
     "mediaId": 129,
-    "date": "2022-00-11",
+    "date": "5/11/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "4 takeaways from Tuesdays primaries in Nebraska and West Virginia.",
@@ -38,37 +56,19 @@
   {
     "id": 5580,
     "mediaId": 195,
-    "date": "2022-00-11",
+    "date": "5/11/2022 12:00:00 AM",
     "sentence": "",
     "author": "Tal Axelrod",
     "title": "Mooney wins West Virginia primary, handing Trump another win",
     "sentiment": "0"
   },
   {
-    "id": 6262,
-    "mediaId": 43,
-    "date": "2022-00-21",
-    "sentence": "",
-    "author": "",
-    "title": "Daily Kos Elections Live Digest: 4/21",
-    "sentiment": "0"
-  },
-  {
     "id": 8509,
     "mediaId": 238,
-    "date": "2022-00-27",
+    "date": "5/27/2022 12:00:00 AM",
     "sentence": "",
     "author": "Felicia Sonmez",
     "title": "Post Politics Now Biden to address Naval Academy graduates; Trump to speak at NRA convention",
-    "sentiment": "0"
-  },
-  {
-    "id": 6101,
-    "mediaId": 237,
-    "date": "2022-00-28",
-    "sentence": "",
-    "author": "David M. Drucker",
-    "title": "Larry Hogan to throw down 2024 marker with Reagan library speech",
     "sentiment": "0"
   }
 ]

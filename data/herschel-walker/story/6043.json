@@ -5,7 +5,7 @@
   "headline": "Trump makes closing pitch for Nebraska candidate accused of groping",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/01/trump-herbster-nebraska-republicans/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,16 @@
   "authorUrl": "",
   "termIds": [
     815,
-    3103
+    1147,
+    1839,
+    1902,
+    1909,
+    2136,
+    2470,
+    3010,
+    3103,
+    588,
+    2816
   ],
   "sentences": [
     "They include Herschel Walker, a U.S. Senate candidate in Georgia who has been accused of threatening the lives of two women, as well as Sean Parnell, who ended his U.S. Senate campaign in Pennsylvania last year amid domestic abuse allegations, and Roy Moore, a 2017 candidate for U.S. Senate in Alabama who was accused by two women of initiating unwanted sexual encounters when Moore was in his 30s and they were 16 and 14.",

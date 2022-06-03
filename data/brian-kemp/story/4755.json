@@ -5,14 +5,21 @@
   "headline": "Southeast Planned Parenthood says they'll help patients cross state lines if Roe V. Wade is overturned",
   "image": "https://www.wabe.org/app/uploads/2019/06/abortionprotest.jpg",
   "link": "https://www.wabe.org/southeast-planned-parenthood-says-theyll-help-patients-cross-state-lines-if-roe-v-wade-is-overturned/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1389,
+    2095,
+    400,
+    401,
+    482,
+    2672,
+    2798,
+    4949
   ],
   "sentences": [
     "If Roe is overturned, for us, we will likely see Governor Kemps six-week abortion ban that was passed in 2019 be enacted,? said Lauren Frazier, director of communications and marketing with Planned Parenthood Southeast.",

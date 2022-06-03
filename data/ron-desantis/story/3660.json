@@ -5,14 +5,19 @@
   "headline": "How Two Middle School Desperadoes Ended Up in a Police Shootout",
   "image": "https://static01.nyt.com/images/2022/04/05/us/00florida-juveniles-chitwood-2/merlin_198595515_beaeffc0-a24a-464a-8a8a-602c4b0399c0-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/12/us/middle-school-shootout-police.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    462,
+    3289,
+    2661,
+    4966,
+    5151
   ],
   "sentences": [
     "In a state still reeling from the mass murder of 17 people at a Parkland high school in 2018  killed by a teenager with a history of mental health challenges  juvenile health advocates say Nicoles case raises serious questions about how a child could have had so many repeated interactions with police officers, social service agencies and psychiatrists without ever getting the long-term therapy that might have broken the dangerous cycle.",

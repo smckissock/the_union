@@ -2,25 +2,16 @@
   {
     "id": 6440,
     "mediaId": 238,
-    "date": "2022-00-08",
+    "date": "4/8/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: GOP built on fraud, fear and fascism? If the jackboot fits...",
-    "sentiment": "0.0"
-  },
-  {
-    "id": 3799,
-    "mediaId": 19,
-    "date": "2022-00-10",
-    "sentence": "",
-    "author": "Jordan Dixon-Hamilton",
-    "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 6220,
     "mediaId": 238,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
@@ -29,46 +20,46 @@
   {
     "id": 6220,
     "mediaId": 238,
-    "date": "2022-00-22",
+    "date": "4/22/2022 12:00:00 AM",
     "sentence": "",
     "author": "",
     "title": "Opinion: Disney should leave Florida. Its time for DeSanty World.",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 4364,
     "mediaId": 136,
-    "date": "2022-00-29",
+    "date": "4/29/2022 12:00:00 AM",
     "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> on Friday touted his state's recent ban on what he calls \"Zuckerbucks,\" referring to money that Meta CEO Mark Zuckerberg donated to local elections departments ahead of the 2020 election.",
     "author": "Xander Landen",
     "title": "What Are 'Zuckerbucks'? DeSantis Touts Ban in Election Enforcement",
     "sentiment": "0"
   },
   {
-    "id": 4364,
-    "mediaId": 136,
-    "date": "2022-00-29",
-    "sentence": "Florida Governor <span class='selected-term'>Ron DeSantis</span> on Friday touted his state's recent ban on what he calls \"Zuckerbucks,\" referring to money that Meta CEO Mark Zuckerberg donated to local elections departments ahead of the 2020 election.",
-    "author": "Xander Landen",
-    "title": "What Are 'Zuckerbucks'? DeSantis Touts Ban in Election Enforcement",
-    "sentiment": "0.0"
-  },
-  {
     "id": 4351,
     "mediaId": 19,
-    "date": "2022-00-30",
+    "date": "4/30/2022 12:00:00 AM",
     "sentence": "",
     "author": "James P. Pinkerton",
     "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk",
     "sentiment": "0"
   },
   {
-    "id": 4351,
+    "id": 3799,
     "mediaId": 19,
-    "date": "2022-00-30",
+    "date": "5/10/2022 12:00:00 AM",
     "sentence": "",
-    "author": "James P. Pinkerton",
-    "title": "Pinkerton: Seeking the Right Strategy for Big Tech Beyond Elon Musk",
-    "sentiment": "0.0"
+    "author": "Jordan Dixon-Hamilton",
+    "title": "Louisiana and Missouri Sue Biden for Colluding with Big Tech to Censor Conservatives",
+    "sentiment": "0"
+  },
+  {
+    "id": 8866,
+    "mediaId": 234,
+    "date": "6/1/2022 12:00:00 AM",
+    "sentence": "Republicans zeroed in on Big Tech entities like Meta, Alphabet, and Twitter under Donald Trump, a sentiment that reached a fever pitch in the aftermath of Trumps 2020 defeat, when top Republican figures, such as Senator Josh Hawley and Governor <span class='selected-term'>Ron DeSantis</span>, claimed these companies were rigged against conservatives.",
+    "author": "Caleb Ecarma",
+    "title": "Document Requests and Subpoenas and Depositions: GOP Reportedly Planning a War Against Big Tech",
+    "sentiment": "0"
   }
 ]

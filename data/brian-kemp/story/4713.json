@@ -5,14 +5,18 @@
   "headline": "Georgia high school athletic group bans transgender athletes",
   "image": "https://www.wabe.org/app/uploads/2022/04/AP22118474380378-336x189.jpg",
   "link": "https://www.wabe.org/?p=279335",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "WABE",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2095
+    1178,
+    2095,
+    4764,
+    2672,
+    5143
   ],
   "sentences": [
     "Their actions, to move so hastily and without consideration of the harms that this will do, without actually researching the complexities and nuances of this issue, will ultimately hurt kids throughout Georgia,? said Jeff Graham, the executive director of Georgia Equality, a group that advocates for the gay, lesbian, bisexual and transgender community.",

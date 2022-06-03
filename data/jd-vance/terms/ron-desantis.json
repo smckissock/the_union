@@ -24,7 +24,7 @@
     "sentence": "",
     "author": "Brent D. Griffiths",
     "title": "Trump endorses 'Never Trump guy' JD Vance, ignoring many Ohio Republicans who wanted him to pick a different candidate in a key Senate race",
-    "sentiment": "0"
+    "sentiment": "-0.358"
   },
   {
     "id": 6386,
@@ -123,7 +123,7 @@
     "sentence": "",
     "author": "Nick Evans",
     "title": "'We love Trump, but he's not God': Trump fans unmoved by his endorsement of J.D. Vance",
-    "sentiment": "0"
+    "sentiment": "-0.284"
   },
   {
     "id": 6145,
@@ -267,7 +267,7 @@
     "sentence": "",
     "author": "Henry Olsen",
     "title": "Opinion A Trump endorsement is powerful. But clearly not insurmountable.",
-    "sentiment": "0"
+    "sentiment": "0.448"
   },
   {
     "id": 3382,
@@ -339,6 +339,24 @@
     "sentence": "",
     "author": "",
     "title": "Trump's Primary Losses Puncture His Invincibility",
+    "sentiment": "0"
+  },
+  {
+    "id": 8612,
+    "mediaId": 238,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Max Boot",
+    "title": "Opinion Has Trump lost his hold on the GOP? Hardly.",
+    "sentiment": "0"
+  },
+  {
+    "id": 8696,
+    "mediaId": 129,
+    "date": "5/31/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Lawyer who plotted to overturn Trumps 2020 loss recruits election deniers to watch over the vote.",
     "sentiment": "0"
   }
 ]

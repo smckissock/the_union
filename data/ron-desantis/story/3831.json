@@ -5,14 +5,23 @@
   "headline": "Juan Williams: Biden is right to call out GOP as extreme on abortion",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/24c25e08809748f09a6cf8e2235f7ec4.jpg?w=2560&h=1440&crop=1",
   "link": "https://thehill.com/opinion/3481309-juan-williams-biden-is-right-to-call-out-gop-as-extreme-on-abortion/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Juan Williams",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    1147,
+    1291,
+    1813,
+    1930,
+    2087,
+    4697,
+    4857,
+    146,
+    428
   ],
   "sentences": [
     "Ron DeSantis is seeking to gin up his right-wing base voters ahead of his re-election bid in November by signing a law to halt discussion of sexual orientation or gender identity? in schools through Grade Three  or at any later point that is not deemed age appropriate.?\nHe is raising money and winning media attention by feuding with the Walt Disney Corporation over its opposition to the law.",

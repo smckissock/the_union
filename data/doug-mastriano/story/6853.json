@@ -5,14 +5,21 @@
   "headline": "Opinion An openly pro-coup Trumpist could become Pennsylvanias next governor",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/12/an-openly-pro-coup-trumpist-could-become-pennsylvanias-next-governor/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Greg Sargent",
   "authorUrl": "",
   "termIds": [
-    3102
+    1147,
+    1713,
+    1990,
+    2087,
+    3102,
+    146,
+    428,
+    2862
   ],
   "sentences": [
     "He has made it clear he believes the 2020 election was rigged, and he would have put his own electors in place if he were governor.?\nThis is not just about the big lie,? Shapiro said, noting that this formulation undersells the degree to which Mastriano poses a danger to democracy.?\nSome might dismiss that as a partisan argument.",

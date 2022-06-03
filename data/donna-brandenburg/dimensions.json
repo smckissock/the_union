@@ -1,13 +1,91 @@
 {
   "appName": "Donna Brandenburg",
   "appSlug": "donna-brandenburg",
-  "featuredStoryId": 8432,
+  "featuredStoryId": 8655,
   "terms": [
+    {
+      "id": 146,
+      "name": "Democratic Party",
+      "type": "Organization",
+      "stories": 3
+    },
+    {
+      "id": 307,
+      "name": "Michigan Democratic Party",
+      "type": "Organization",
+      "stories": 4
+    },
+    {
+      "id": 308,
+      "name": "Michigan Republican Party",
+      "type": "Organization",
+      "stories": 5
+    },
+    {
+      "id": 311,
+      "name": "Michigan Supreme Court",
+      "type": "Organization",
+      "stories": 3
+    },
+    {
+      "id": 428,
+      "name": "Republican Party",
+      "type": "Organization",
+      "stories": 16
+    },
+    {
+      "id": 2980,
+      "name": "Business Leaders for Michigan",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 3224,
+      "name": "Detroit Regional Chamber",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 5615,
+      "name": "Michigan State University",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 6088,
+      "name": "1st Michigan Volunteer Infantry Regiment",
+      "type": "Organization",
+      "stories": 1
+    },
+    {
+      "id": 6118,
+      "name": "Michigan Court of Appeals",
+      "type": "Organization",
+      "stories": 5
+    },
+    {
+      "id": 6293,
+      "name": "Michigan State Police",
+      "type": "Organization",
+      "stories": 2
+    },
     {
       "id": 651,
       "name": "Perry Johnson",
       "type": "Person",
-      "stories": 12
+      "stories": 18
+    },
+    {
+      "id": 712,
+      "name": "Jocelyn Benson",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 773,
+      "name": "Gretchen Whitmer",
+      "type": "Person",
+      "stories": 4
     },
     {
       "id": 815,
@@ -16,16 +94,52 @@
       "stories": 1
     },
     {
+      "id": 890,
+      "name": "Chuck Yob",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1088,
+      "name": "Dana Nessel",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1147,
+      "name": "Donald Trump",
+      "type": "Person",
+      "stories": 4
+    },
+    {
+      "id": 1536,
+      "name": "Meshawn Maddock",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1583,
+      "name": "Rick Snyder",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 1645,
+      "name": "Mike Brown",
+      "type": "Person",
+      "stories": 1
+    },
+    {
       "id": 1682,
       "name": "Ryan Kelley",
       "type": "Person",
-      "stories": 9
+      "stories": 14
     },
     {
       "id": 1844,
       "name": "James Craig",
       "type": "Person",
-      "stories": 12
+      "stories": 18
     },
     {
       "id": 1901,
@@ -34,28 +148,70 @@
       "stories": 1
     },
     {
+      "id": 1978,
+      "name": "Duncan L. Hunter",
+      "type": "Person",
+      "stories": 1
+    },
+    {
       "id": 2002,
       "name": "Tudor Dixon",
       "type": "Person",
-      "stories": 9
+      "stories": 14
+    },
+    {
+      "id": 2030,
+      "name": "Vladimir Putin",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2081,
+      "name": "Matthew DePerno",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2087,
+      "name": "Joe Biden",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 2163,
+      "name": "Ed Markey",
+      "type": "Person",
+      "stories": 1
     },
     {
       "id": 2171,
       "name": "Michael Brown",
       "type": "Person",
-      "stories": 5
+      "stories": 9
+    },
+    {
+      "id": 2206,
+      "name": "John Engler",
+      "type": "Person",
+      "stories": 1
     },
     {
       "id": 2298,
       "name": "Garrett Soldano",
       "type": "Person",
-      "stories": 9
+      "stories": 14
+    },
+    {
+      "id": 3051,
+      "name": "Shawn Kelley",
+      "type": "Person",
+      "stories": 1
     },
     {
       "id": 3075,
       "name": "Kevin Rinke",
       "type": "Person",
-      "stories": 9
+      "stories": 14
     },
     {
       "id": 3087,
@@ -79,13 +235,157 @@
       "id": 3095,
       "name": "Ralph Rebandt",
       "type": "Person",
-      "stories": 9
+      "stories": 14
     },
     {
       "id": 3099,
       "name": "Donna Brandenburg",
       "type": "Person",
-      "stories": 12
+      "stories": 18
+    },
+    {
+      "id": 4343,
+      "name": "Michael Kelly",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 5506,
+      "name": "Betsy DeVos",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 5542,
+      "name": "Bill Schuette",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 5545,
+      "name": "John Sellek",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 5546,
+      "name": "Michael D. Brown",
+      "type": "Person",
+      "stories": 2
+    },
+    {
+      "id": 6081,
+      "name": "Ronald Weiser",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 6086,
+      "name": "Michael A. Brown",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 6189,
+      "name": "Jonathan Brater",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 6370,
+      "name": "William Johnson",
+      "type": "Person",
+      "stories": 1
+    },
+    {
+      "id": 2645,
+      "name": "Detroit",
+      "type": "Place",
+      "stories": 11
+    },
+    {
+      "id": 2678,
+      "name": "Grand Rapids",
+      "type": "Place",
+      "stories": 2
+    },
+    {
+      "id": 2737,
+      "name": "Kent County",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2748,
+      "name": "Lansing",
+      "type": "Place",
+      "stories": 5
+    },
+    {
+      "id": 2761,
+      "name": "Livingston County",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2791,
+      "name": "Michigan",
+      "type": "Place",
+      "stories": 16
+    },
+    {
+      "id": 2842,
+      "name": "Oakland County",
+      "type": "Place",
+      "stories": 5
+    },
+    {
+      "id": 2863,
+      "name": "People's Republic of China",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 2958,
+      "name": "Washington Township",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 3064,
+      "name": "Farmington Hills",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 3066,
+      "name": "Howell",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 3068,
+      "name": "Mackinac Island",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 5556,
+      "name": "Norton Shores",
+      "type": "Place",
+      "stories": 1
+    },
+    {
+      "id": 6087,
+      "name": "Grand Haven",
+      "type": "Place",
+      "stories": 3
+    },
+    {
+      "id": 6248,
+      "name": "Stevensville",
+      "type": "Place",
+      "stories": 1
     }
   ],
   "media": [

@@ -5,7 +5,7 @@
   "headline": "Netflixs message to employees and woke Hollywoods retreat",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/1695c8d/2147483647/strip/true/crop/1080x812+0+0/resize/840x632!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F73%2Fe5%2F5a9891e5475d85e86dbad59a8d67%2F220517-wideshot-netflixculture.jpg",
   "link": "https://www.latimes.com/entertainment-arts/business/newsletter/2022-05-17/wide-shot-newsletter-netflix-chappelle-disney-desantis-woke-hollywood-retreat-the-wide-shot",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,15 @@
   "authorUrl": "https://www.latimes.com/people/ryan-faughnder",
   "termIds": [
     661,
-    3103
+    1241,
+    2322,
+    3103,
+    4257,
+    4332,
+    4631,
+    351,
+    524,
+    2700
   ],
   "sentences": [
     "In keeping with its famously blunt culture, Netflixs message effectively codifies the policy Sarandos originally expressed, which sparked outrage from LGBTQ activists and some employees, who protested Netflixs support of Chappelle with a virtual walkout and a tense gathering in front of the companys Los Angeles offices on Sunset Boulevard.",

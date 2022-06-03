@@ -5,14 +5,22 @@
   "headline": "Corporate America buckles down for culture war on Roe v Wade",
   "image": "https://s.yimg.com/ny/api/res/1.2/kFPOy1muH4ZEDfUWMGwmpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3NjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/OCKKQrh85aovqGE70URLZA--~B/aD02MDA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/theguardian_763/c85aed66f6df7491219c81bf6d87018e",
   "link": "https://sg.news.yahoo.com/corporate-america-buckles-down-culture-070022057.html",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lauren Aratani",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4235,
+    4645,
+    4726,
+    122,
+    3183,
+    3388,
+    2934,
+    2945
   ],
   "sentences": [
     "Jen Stark, senior director of corporate strategy at Tara Health Foundation, who helped coordinate the of over 180 executives in a statement against abortion bans in 2019, said the potential backlash from conservative lawmakers proves that companies need to act on abortion restrictions beyond mitigating effects for their employees.",

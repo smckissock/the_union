@@ -5,14 +5,21 @@
   "headline": "State Board of Education expected to approve new commissioner today",
   "image": "https://www.tampabay.com/resizer//JTGK5b1NqUjFdsZH-Ck0NMmyHCQ=/900x506/smart/filters:format(webP)/cloudfront-us-east-1.images.arcpublishing.com/tbt/WU7PEWQDKZOCQX44QZ64PR3664.jpg",
   "link": "https://www.tampabay.com/news/education/2022/04/29/state-board-of-education-expected-to-approve-new-commissioner-today/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Tampa Bay Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    661
+    661,
+    4371,
+    4729,
+    3279,
+    3639,
+    2661,
+    2859,
+    4969
   ],
   "sentences": [
     "Hot topics\nMath textbooks: The Florida Department of Education continued to provide little information about why it rejected certain math books, or put some back on the approved list after initial rejection.",

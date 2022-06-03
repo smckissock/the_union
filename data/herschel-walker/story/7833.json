@@ -5,14 +5,17 @@
   "headline": "Everybody Knows",
   "image": "https://images.dailykos.com/images/763576/story_image/dunce0.jpg?1580939242",
   "link": "https://www.dailykos.com/story/2022/4/7/2090638/-Everybody-Knows",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Daily Kos",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815
+    815,
+    2347,
+    2498,
+    2945
   ],
   "sentences": [
     "But they also know most people dont know diddly squat about the complex science behind sex chromosomes and the various hormones that make sex a broad spectrum and that non-binary people are WAY more common than they learned in Sunday school or their biology classes based on a 1960s understanding of genetics and human development.",

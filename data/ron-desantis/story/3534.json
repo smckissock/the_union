@@ -5,14 +5,22 @@
   "headline": "DeSantis says Florida may take over Disneys special district",
   "image": "",
   "link": "https://www.washingtonpost.com/nation/2022/05/16/desantis-says-florida-may-take-over-disneys-special-district/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lori Rozsa",
   "authorUrl": "https://www.washingtonpost.com/people/lori-rozsa/",
   "termIds": [
-    661
+    661,
+    1241,
+    4464,
+    524,
+    611,
+    2661,
+    5109,
+    5113,
+    5130
   ],
   "sentences": [
     "He said that for local governments, itd be a cash cow for them if they had Disney.? He added that its more likely that the state will simply assume control and make sure that were able to impose the law and make sure were collecting the taxes.?\nPeople who criticize me saying youre punishing Disney are also saying were going to relieve Disney of $766 million in debt?",

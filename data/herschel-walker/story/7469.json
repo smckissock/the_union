@@ -5,14 +5,18 @@
   "headline": "The View gets heated as Kellyanne Conway refuses to answer questions about her allegiance to Trump",
   "image": "https://www.rawstory.com/media-library/kellyanne-conway.jpg?id=29845131&width=1200&coordinates=0%2C14%2C0%2C36&height=600",
   "link": "https://www.rawstory.com/the-view-goes-off-the-rails-as-interview-with-kellyanne-conway-gets-heated-and-personal/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Raw Story",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Boggioni",
   "authorUrl": "https://www.rawstory.com/u/tom_boggioni",
   "termIds": [
-    815
+    815,
+    906,
+    1147,
+    4524,
+    5949
   ],
   "sentences": [
     "Kellyanne Conway's appearance on ABC's \"The View\" almost came to an abrupt end on Tuesday as the former adviser to Donald Trump got into a heated argument with View panelist Alyssa Farah Griffin, who also served in the Trump administration as a spokesperson for the Pentagon as well as former White House chief of staff Mark Meadows.",

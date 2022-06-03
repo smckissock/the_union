@@ -5,14 +5,23 @@
   "headline": "Jan. 6 panel targets key players in false Trump elector strategy",
   "image": "https://static.politico.com/6e/6a/653bfaa24a0d9bd16c9c0992e442/220215-mark-finchem-ap-773.png",
   "link": "https://www.politico.com/news/2022/02/15/jan-6-panel-targets-key-players-in-false-trump-elector-strategy-00009222",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    2171
+    926,
+    1147,
+    1413,
+    1434,
+    2087,
+    2171,
+    2478,
+    34,
+    428,
+    2550
   ],
   "sentences": [
     "The correspondence included emails from a National Archives inspector official that said the office was pursuing a case of potential fraud against a second slate of would-be Trump electors in Arizona who identified themselves as sovereign citizens.? Deputy Attorney General Lisa Monaco indicated in a CNN interview federal prosecutors were also scrutinizing the issue.",

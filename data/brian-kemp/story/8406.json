@@ -5,15 +5,24 @@
   "headline": "The Hills Morning Report  Will Congress act on guns?",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/MR_robbelementarytexasshooting_052522_ap.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/morning-report/3502268-the-hills-morning-report-will-congress-act-on-guns/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Alexis Simendinger",
   "authorUrl": "https://thehill.com/author/alexis-simendinger/",
   "termIds": [
+    1341,
+    2034,
     2095,
-    3094
+    2250,
+    3094,
+    5802,
+    545,
+    6120,
+    2703,
+    2934,
+    6069
   ],
   "sentences": [
     "White House conifer garden\nYellowstone National Park\nPortrait of Muir to hang in Roosevelts White House quarters\nNew railroad route to northwest Wyoming\nWhile campaigning for a second term during the summer of 2012, former President Obama mentioned to audiences that daughters Sasha and Malia had enjoyed a month of sports, crafts and some ice cream at summer camp in which politically noteworthy state?",

@@ -5,14 +5,19 @@
   "headline": "Florida bans protests outside homes",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/17/florida-protest-ban/",
-  "sentiment": "0.0",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Lindsey Bever",
   "authorUrl": "https://www.washingtonpost.com/people/lindsey-bever/",
   "termIds": [
-    661
+    661,
+    2058,
+    3928,
+    482,
+    3252,
+    2661
   ],
   "sentences": [
     "Thats not the case here in Florida, where we have seen legislation the last two sessions undermining this vital right and attacking the Black communities that have relied on it to bring about meaningful change for generations.?\nThe new law, her statement said, builds on the unconstitutional foundations of the anti-protest bill last year and only reaffirms our will to make sure our voices are heard in order to create a brighter future for the people of our state.?\nDeSantis has recently signed a number of controversial bills, largely regarding education.",

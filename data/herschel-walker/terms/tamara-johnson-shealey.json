@@ -2,16 +2,16 @@
   {
     "id": 8047,
     "mediaId": 1576,
-    "date": "2022-00-11",
+    "date": "3/11/2022 12:00:00 AM",
     "sentence": "Republicans: Gary Black, Josh Clark, Kelvin King, Jonathan Jon McColumn, Latham Saddler, <span class='selected-term'>Herschel Walker</span>.",
     "author": "",
     "title": "Candidates confirmed for 2022 election in Georgia as qualifying ends",
-    "sentiment": "0.0"
+    "sentiment": "0"
   },
   {
     "id": 7772,
     "mediaId": 239,
-    "date": "2022-00-14",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
     "author": "Jeff Amy",
     "title": "Georgias Sen. Warnock raises $13.6M in 2022s first quarter",
@@ -20,10 +20,19 @@
   {
     "id": 7773,
     "mediaId": 1576,
-    "date": "2022-00-14",
+    "date": "4/14/2022 12:00:00 AM",
     "sentence": "Republican <span class='selected-term'>Herschel Walker</span> is the frontrunner among six GOP candidates in the May 24 primary.",
     "author": "",
     "title": "Georgia's Sen. Warnock raises $13.6M in 2022's first quarter",
     "sentiment": "0.927"
+  },
+  {
+    "id": 8917,
+    "mediaId": 65,
+    "date": "6/2/2022 12:00:00 AM",
+    "sentence": "\"But just like his record of skyrocketing inflation, wallet busting gas prices, or surging crime in our communities, the voters of Georgia see what Warnock has done  and it's why they're going to elect a true leader and problem solver in <span class='selected-term'>Herschel Walker</span> come November,\" Lawson continued.",
+    "author": "Jessica Chasmar",
+    "title": "Warnock pushes Georgia voting suppression claims, despite voters shattering turnout records",
+    "sentiment": "0"
   }
 ]
