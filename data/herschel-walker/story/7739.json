@@ -5,22 +5,14 @@
   "headline": "Herschel Walker Is Betting Favorite to Win Georgia Senate Seat",
   "image": "https://d.newsweek.com/en/full/2021192/walker-senate-race.webp?w=790&f=554b8a4f455f92cc813b0990fa659c02",
   "link": "https://www.newsweek.com/herschel-walker-georgia-senate-election-favorite-1698260",
-  "sentiment": "0.748",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Zoe Strozewski",
   "authorUrl": "https://www.newsweek.com/authors/zoe-strozewski",
   "termIds": [
-    815,
-    1136,
-    1147,
-    1312,
-    232,
-    428,
-    571,
-    584,
-    2672
+    815
   ],
   "sentences": [
     "While the betting odds collected by US-Bookies are separate from polling numbers for the Senate race in Georgia, several polls since the beginning of the year have shown that Walker is leading his Republican counterparts and Senator Raphael Warnock, who is favored to win the Democratic nomination.",

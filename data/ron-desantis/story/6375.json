@@ -5,7 +5,7 @@
   "headline": "Trump endorses 'Never Trump guy' JD Vance, ignoring many Ohio Republicans who wanted him to pick a different candidate in a key Senate race",
   "image": "https://i.insider.com/618994c7326b26001835526e?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-endorses-jd-vance-ignoring-ohio-republicans-in-senate-race-2022-4",
-  "sentiment": "0.577",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,7 @@
   "authorUrl": "https://www.businessinsider.com/author/brent-d-griffiths",
   "termIds": [
     661,
-    1147,
-    1766,
-    1801,
-    2466,
-    3103,
-    428,
-    571,
-    2845
+    3103
   ],
   "sentences": [
     "\"While we were working hard in Ohio to support you and Make America Great Again, JD Vance was actively working against your candidacy,\" the letter said, adding Vance did not support Trump in 2016 and saying \"he referred to your supporters as 'racists.'\"",

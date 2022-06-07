@@ -5,22 +5,17 @@
   "headline": "Some Democrat voters are participating in Republican primaries in an attempt to block Trump-endorsed candidates",
   "image": "https://i.insider.com/629694613050690018311bff?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/democrats-trump-endorsed-candidates-voting-republican-primaries-2022-5",
-  "sentiment": "-0.788",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Steve Peoples and Aaron Kessler",
   "authorUrl": "http://www.ap.org",
   "termIds": [
-    1147,
-    1248,
     2095,
-    2203,
     2303,
     3094,
-    3102,
-    146,
-    428
+    3102
   ],
   "sentences": [
     "\"It is clear that Brad Raffensperger carried a majority of the Republican vote here in the state of Georgia, and that there are people who stopped voting in Republican primaries after 2016 who are now reengaged,\" said Jordan Fuchs, a consultant to the Raffensperger campaign.",

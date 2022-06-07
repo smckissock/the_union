@@ -5,7 +5,7 @@
   "headline": "Primary problem: Michigan GOP governor candidates short signatures",
   "image": "https://ca-times.brightspotcdn.com/dims4/default/aa096f1/2147483647/strip/true/crop/4866x3244+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F75%2F29e0eecc46cead0ef95ac2635cc6%2F52dac7c3363a4c1cbcb6c27b2e5b30bc",
   "link": "https://www.latimes.com/politics/story/2022-05-23/primary-problem-michigan-gop-governor-candidates-short-sigs",
-  "sentiment": "-0.881",
+  "sentiment": "0",
   "mediaOutlet": "LA Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,6 @@
   "authorUrl": "",
   "termIds": [
     651,
-    773,
     1682,
     1844,
     2002,
@@ -21,12 +20,7 @@
     2298,
     3075,
     3095,
-    3099,
-    146,
-    307,
-    308,
-    428,
-    2791
+    3099
   ],
   "sentences": [
     "Those qualifying for the ballot would be Dixon, a former conservative TV news host who netted the DeVos family endorsement earlier Monday; chiropractor and grass-roots activist Garrett Soldano; wealthy self-funding businessman Kevin Rinke; real estate broker and anti-coronavirus lockdown activist Ryan Kelley; and pastor Ralph Rebandt.",

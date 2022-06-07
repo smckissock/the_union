@@ -5,23 +5,14 @@
   "headline": "Republicans' Chances of Beating Democrats for Control of Senate in Midterms",
   "image": "https://d.newsweek.com/en/full/2050536/mitch-mcconnell-chuck-schumer.webp?w=790&f=5eb4af6877b6cdaa73e28d16f10cedd6",
   "link": "https://www.newsweek.com/republicans-chances-flipping-senate-democratic-control-midterms-1712378",
-  "sentiment": "0.448",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jason Lemon",
   "authorUrl": "https://www.newsweek.com/authors/jason-lemon",
   "termIds": [
-    815,
-    886,
-    1136,
-    1147,
-    146,
-    428,
-    571,
-    2550,
-    2672,
-    2818
+    815
   ],
   "sentences": [
     "As the midterms approach, Republicans feel emboldened by President Joe Biden's tanking approval rating and widespread criticism of the Democrats' leadership in Washington, D.C.giving them hope they'll be able to flip the Senate back to GOP control in November.",

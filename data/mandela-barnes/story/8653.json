@@ -5,7 +5,7 @@
   "headline": "Internal campaign poll shows Godlewski leading in Wisconsin Democratic Senate primary",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/06/GodlewskiSarah.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/campaign/3507964-internal-campaign-poll-shows-godlewski-leading-in-wisconsin-democratic-senate-primary/",
-  "sentiment": "0.401",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -15,12 +15,7 @@
     741,
     802,
     1568,
-    1925,
-    2039,
-    482,
-    571,
-    2855,
-    2972
+    2039
   ],
   "sentences": [
     "The browser does not support the specified video codec\nWisconsin state Treasurer Sarah Godlewski is leading in the state's Democratic Senate primary, according to an internal campaign polling memo exclusively obtained by The Hill.",

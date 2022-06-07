@@ -24,7 +24,7 @@
     "sentence": "Gretchen Whitmer (D) is tied with Republican gubernatorial candidate <span class='selected-term'>James Craig</span> in Michigan's race for governor, according to an internal polling memo released Thursday.",
     "author": "Ashley Oliver",
     "title": "Poll: Democrat Gretchen Whitmer Tied with Former Detroit Police Chief James Craig in Michigan Governor's Race",
-    "sentiment": "-0.27"
+    "sentiment": "0"
   },
   {
     "id": 1006,
@@ -69,7 +69,7 @@
     "sentence": "Former Detroit Police Chief and Michigan gubernatorial candidate <span class='selected-term'>James Craig</span> holds a wide lead over all other Republican primary challengers, according to a poll.",
     "author": "Jacob Bliss",
     "title": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals",
-    "sentiment": "0.361"
+    "sentiment": "0"
   },
   {
     "id": 924,
@@ -78,7 +78,7 @@
     "sentence": "Former Detroit Police Chief <span class='selected-term'>James Craig</span> is leading his closest opponent, Garrett Soldano, by 17 points in the Republican primary race for Michigan governor, according to a polling memo released Friday.",
     "author": "Ashley Oliver",
     "title": "Poll: Former Detroit Police Chief James Craig Holds Double-Digit Lead in Michigan Governor's Primary",
-    "sentiment": "0.376"
+    "sentiment": "0"
   },
   {
     "id": 32,
@@ -105,7 +105,7 @@
     "sentence": "Polls have consistently shown former Detroit Police Chief <span class='selected-term'>James Craig</span> leading the Republican field, but with nowhere near majority support.",
     "author": "Paul Egan",
     "title": "Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says",
-    "sentiment": "0.271"
+    "sentiment": "0"
   },
   {
     "id": 901,
@@ -150,7 +150,7 @@
     "sentence": "More:Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says\nCandidates <span class='selected-term'>James Craig</span>, Perry Johnson, Ryan Kelley, Kevin Rinke and Garrett Soldano made the cut, according to a news release.",
     "author": "Dave Boucher",
     "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
-    "sentiment": "-0.538"
+    "sentiment": "0"
   },
   {
     "id": 3292,
@@ -159,7 +159,7 @@
     "sentence": "Notably absent from the debate was former Detroit Police Chief <span class='selected-term'>James Craig</span>, who was once seen as the clear Republican front-runner.",
     "author": "Paul Egan",
     "title": "Higher education funding highlights divisions among GOP candidates for governor at debate",
-    "sentiment": "-0.547"
+    "sentiment": "0"
   },
   {
     "id": 3454,
@@ -177,7 +177,7 @@
     "sentence": "The recommendations immediately transformed the race in the battleground state and dealt a major blow to former Detroit Police Chief <span class='selected-term'>James Craig</span>, who has led in polling despite campaign problems, and businessman Perry Johnson, who has spent millions of his own money to run.",
     "author": "DAVID EGGERT",
     "title": "Primary problem: Michigan GOP governor candidates short signatures",
-    "sentiment": "-0.881"
+    "sentiment": "0"
   },
   {
     "id": 7300,
@@ -195,7 +195,7 @@
     "sentence": "Brown, as well as financial adviser Michael Markey, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businesswoman Donna Brandenburg and self-described quality guru Perry Johnson, all had signatures that the bureau recommended to be deemed insufficient as many were fraudulent.",
     "author": "",
     "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
-    "sentiment": "-0.403"
+    "sentiment": "0"
   },
   {
     "id": 8663,
@@ -204,7 +204,7 @@
     "sentence": "The Wednesday ruling means Johnson cannot appear on the Aug. 2 primary ballot, and it probably does not bode well for the other would-be candidates  including former Detroit police chief <span class='selected-term'>James Craig</span> and businessman Michael Markey  who had filed similar legal challenges to try to continue their campaigns.",
     "author": "Amy B Wang",
     "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
-    "sentiment": "-0.946"
+    "sentiment": "0"
   },
   {
     "id": 8664,
@@ -240,7 +240,7 @@
     "sentence": "More:<span class='selected-term'>James Craig</span> loses bid to appear on primary ballot after Michigan court denies appeal\nMore:Whitmer 'optimistic' on gun reform, but key Dem says 'full of s---' GOP won't act\nAllegations of voter fraud in Michigan\nPoliticians aligned with former President Donald Trump have consistently raised the specter of voter fraud to explain how Trump could have lost the state to Joe Biden by more than 154,000 votes in the 2020 presidential race after winning it in 2016.",
     "author": "Lou Jacobson and Clara Hendrickson",
     "title": "Kevin Rinke ad falsely claims 'dead people always vote Democrat'",
-    "sentiment": "-0.812"
+    "sentiment": "0"
   },
   {
     "id": 8659,
@@ -267,6 +267,42 @@
     "sentence": "Five candidates  financial adviser Michael Markey, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businesswoman Donna Brandenburg, self-described quality guru Perry Johnson and Michigan State Police Capt.",
     "author": "",
     "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
+  },
+  {
+    "id": 8958,
+    "mediaId": 25,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "Detroit's former police chief, <span class='selected-term'>James Craig</span>, is in the same category.",
+    "author": "",
+    "title": "2 Michigan gubernatorial candidates lose final appeals and will remain off ballot after phony petition signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8972,
+    "mediaId": 21,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "The candidates who will remain off the ballot include former Detroit police chief <span class='selected-term'>James Craig</span>  who for months had been seen as a frontrunner in the race  along with businessmen Perry Johnson and Michael Markey Jr.",
+    "author": "John L. Dorman",
+    "title": "Michigan Supreme Court blocks three GOP gubernatorial candidates from ballot over forged petition signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8964,
+    "mediaId": 261,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "Along with Johnson, the Bureau of Elections found issues with signatures submitted by former Detroit Police Chief <span class='selected-term'>James Craig</span>, Grand Haven financial adviser Michael Markey, Byron Center businesswoman Donna Brandenburg and Michigan State Police Capt.",
+    "author": "Arpan Lobo",
+    "title": "Perry Johnson files lawsuit in federal court to get on GOP primary ballot for governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 8969,
+    "mediaId": 157,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "Despite a Michigan Supreme Court decision that kept Republican <span class='selected-term'>James Craig</span> off of the August primary ballot, the former Detroit police chief says he is evaluating next steps in a bid to stay in the gubernatorial race.",
+    "author": "Jon King",
+    "title": "Michigan Republican on getting booted from ballot over fraudulent signatures: Not going to let this go'",
     "sentiment": "0"
   }
 ]

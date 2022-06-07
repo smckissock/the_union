@@ -5,7 +5,7 @@
   "headline": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
   "image": "",
   "link": "https://www.washingtonpost.com/opinions/2022/05/17/trump-2024-rivals-presidential-hopefuls/",
-  "sentiment": "0.607",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,7 @@
   "authorUrl": "https://www.washingtonpost.com/people/hugh-hewitt/",
   "termIds": [
     661,
-    805,
-    1147,
-    1284,
-    1813,
-    2087,
-    2095,
-    2305,
-    427,
-    428,
-    2550
+    2095
   ],
   "sentences": [
     "Duceys record of flat taxes, charter schools and more cops along the border fits squarely in the partys normal lane for a governor from the West, but Ducey might be forcibly drafted by one of the formerly powerful but now sidelined business advocacy associations inside the Beltway that need to rebuild burnt bridges to the GOP.",

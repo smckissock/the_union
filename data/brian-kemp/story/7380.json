@@ -5,7 +5,7 @@
   "headline": "Trump rebuked with stinging losses in Georgia GOP contests",
   "image": "https://chorus.stimg.co/23586751/1gagov.JPG?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=1",
   "link": "https://www.startribune.com/trump-rebuked-with-stinging-losses-in-georgia-gop-contests/600175930/",
-  "sentiment": "0.44",
+  "sentiment": "0",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,7 @@
   "authorUrl": "",
   "termIds": [
     815,
-    896,
-    1147,
-    2095,
-    2475,
-    4325,
-    227,
-    428,
-    2551,
-    2672,
-    2934
+    2095
   ],
   "sentences": [
     "The changes made it harder to vote by mail, which was popular among Democrats in 2020 amid the pandemic; introduced new voter identification requirements that critics warned might disenfranchise Black voters; and expanded early voting in rural areas that typically vote Republican.",

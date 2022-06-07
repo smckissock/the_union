@@ -6,7 +6,7 @@
     "sentence": "More:Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says\nCandidates <span class='selected-term'>James Craig</span>, Perry Johnson, Ryan Kelley, Kevin Rinke and Garrett Soldano made the cut, according to a news release.",
     "author": "Dave Boucher",
     "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
-    "sentiment": "-0.538"
+    "sentiment": "0"
   },
   {
     "id": 3454,
@@ -24,7 +24,7 @@
     "sentence": "The recommendations immediately transformed the race in the battleground state and dealt a major blow to former Detroit Police Chief <span class='selected-term'>James Craig</span>, who has led in polling despite campaign problems, and businessman Perry Johnson, who has spent millions of his own money to run.",
     "author": "DAVID EGGERT",
     "title": "Primary problem: Michigan GOP governor candidates short signatures",
-    "sentiment": "-0.881"
+    "sentiment": "0"
   },
   {
     "id": 7300,
@@ -42,7 +42,7 @@
     "sentence": "Brown, as well as financial adviser Michael Markey, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businesswoman Donna Brandenburg and self-described quality guru Perry Johnson, all had signatures that the bureau recommended to be deemed insufficient as many were fraudulent.",
     "author": "",
     "title": "GOP candidates deemed ineligible as massive signature fraud scandal upends Michigan gubernatorial race",
-    "sentiment": "-0.403"
+    "sentiment": "0"
   },
   {
     "id": 8663,
@@ -51,7 +51,7 @@
     "sentence": "The Wednesday ruling means Johnson cannot appear on the Aug. 2 primary ballot, and it probably does not bode well for the other would-be candidates  including former Detroit police chief <span class='selected-term'>James Craig</span> and businessman Michael Markey  who had filed similar legal challenges to try to continue their campaigns.",
     "author": "Amy B Wang",
     "title": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
-    "sentiment": "-0.946"
+    "sentiment": "0"
   },
   {
     "id": 8668,
@@ -60,7 +60,7 @@
     "sentence": "Former Detroit Police Chief <span class='selected-term'>James Craig</span>, Oakland County businessman Perry Johnson, Grand Haven financial adviser Michael Markey and Byron Center businesswoman Donna Brandenburg all failed to submit enough valid signatures to appear on the primary ballot, the Michigan Bureau of Elections concluded May 23.",
     "author": "Arpan Lobo",
     "title": "Disqualified Republican governor hopefuls battle it out in court",
-    "sentiment": "-0.941"
+    "sentiment": "0"
   },
   {
     "id": 8670,
@@ -78,6 +78,24 @@
     "sentence": "Five candidates  financial adviser Michael Markey, former Detroit Police Chief <span class='selected-term'>James Craig</span>, businesswoman Donna Brandenburg, self-described quality guru Perry Johnson and Michigan State Police Capt.",
     "author": "",
     "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
+  },
+  {
+    "id": 8975,
+    "mediaId": 261,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "The board's impasse sparked a frenzy of lawsuits from disqualified gubernatorial candidates, including two of the top-polling Republicans in the race: former Detroit Police Chief <span class='selected-term'>James Craig</span> and Oakland County businessman and self-described \"quality guru\" Perry Johnson.",
+    "author": "Dave Boucher",
+    "title": "Procedural step squashed 5 Republican campaigns for Michigan's next governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 8964,
+    "mediaId": 261,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "Along with Johnson, the Bureau of Elections found issues with signatures submitted by former Detroit Police Chief <span class='selected-term'>James Craig</span>, Grand Haven financial adviser Michael Markey, Byron Center businesswoman Donna Brandenburg and Michigan State Police Capt.",
+    "author": "Arpan Lobo",
+    "title": "Perry Johnson files lawsuit in federal court to get on GOP primary ballot for governor",
     "sentiment": "0"
   }
 ]

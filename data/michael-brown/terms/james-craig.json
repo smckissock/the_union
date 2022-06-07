@@ -1,14 +1,5 @@
 [
   {
-    "id": 896,
-    "mediaId": 675,
-    "date": "4/20/2022 12:00:00 AM",
-    "sentence": "Politics\nEducation\nMoney\nWorld\nMORE COMMENTARY\nLarry Elder\n<span class='selected-term'>Michael Brown</span>\nMichelle Malkin\nRead all of today's COMMENTARY...\nNew Section",
-    "author": "Bob Unruh",
-    "title": "Marjorie Taylor Greene warns Dems of 'another way to play this game'",
-    "sentiment": "0"
-  },
-  {
     "id": 3293,
     "mediaId": 261,
     "date": "5/12/2022 12:00:00 AM",
@@ -42,7 +33,7 @@
     "sentence": "",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
-    "sentiment": "-0.692"
+    "sentiment": "0"
   },
   {
     "id": 7473,
@@ -87,6 +78,24 @@
     "sentence": "",
     "author": "",
     "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
+  },
+  {
+    "id": 8975,
+    "mediaId": 261,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "The action left those four candidates plus <span class='selected-term'>Michael Brown</span>, who dropped out rather than pursue legal action, off the ballot.",
+    "author": "Dave Boucher",
+    "title": "Procedural step squashed 5 Republican campaigns for Michigan's next governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 8964,
+    "mediaId": 261,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Arpan Lobo",
+    "title": "Perry Johnson files lawsuit in federal court to get on GOP primary ballot for governor",
     "sentiment": "0"
   }
 ]

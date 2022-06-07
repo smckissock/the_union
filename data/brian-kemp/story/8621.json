@@ -5,24 +5,15 @@
   "headline": "Trump angrily attacked Perdue as 'lazy' for losing his primary, report says  a criticism more often used of Trump himself",
   "image": "https://i.insider.com/6294ab2fff955c0019c5f6fb?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-says-perdue-lazy-georgiaa-governor-primary-defeat-wapo-2022-5",
-  "sentiment": "-0.858",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Tom Porter",
   "authorUrl": "https://www.businessinsider.com/author/tom-porter",
   "termIds": [
-    1147,
-    2087,
     2095,
-    2203,
-    2279,
-    2429,
-    3094,
-    4325,
-    428,
-    525,
-    2672
+    3094
   ],
   "sentences": [
     "Trump staked a large amount of political capital on the races in Georgia, where he wanted revenge on Kemp and Raffensperger for their refusal to endorse his bogus claim that he lost the state to Joe Biden in 2020 because of fraud.",

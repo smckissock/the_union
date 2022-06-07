@@ -123,7 +123,7 @@
     "sentence": "",
     "author": "Michael Barone",
     "title": "It's Not Exactly Trump's Republican Party",
-    "sentiment": "0.656"
+    "sentiment": "0"
   },
   {
     "id": 7194,
@@ -168,6 +168,15 @@
     "sentence": "",
     "author": "",
     "title": "Live Updates: What to Watch For in Today's Elections in Georgia and Beyond",
+    "sentiment": "0"
+  },
+  {
+    "id": 9093,
+    "mediaId": 151,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Business groups add to chorus pushing to enact anti-counterfeits bill",
     "sentiment": "0"
   }
 ]

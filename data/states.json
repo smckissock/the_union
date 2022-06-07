@@ -15,8 +15,8 @@
             "name": "Ron Desantis",
             "incumbent": "True",
             "slug": "ron-desantis",
-            "storyCount": "731",
-            "localStoryCount": "200"
+            "storyCount": "774",
+            "localStoryCount": "218"
           }
         ]
       }
@@ -38,8 +38,8 @@
             "name": "Brian Kemp",
             "incumbent": "True",
             "slug": "brian-kemp",
-            "storyCount": "495",
-            "localStoryCount": "158"
+            "storyCount": "503",
+            "localStoryCount": "160"
           }
         ]
       },
@@ -56,7 +56,7 @@
             "name": "Herschel Walker",
             "incumbent": "False",
             "slug": "herschel-walker",
-            "storyCount": "452",
+            "storyCount": "458",
             "localStoryCount": "116"
           }
         ]
@@ -79,64 +79,72 @@
             "name": "Donna Brandenburg",
             "incumbent": "False",
             "slug": "donna-brandenburg",
-            "storyCount": "4",
-            "localStoryCount": "14"
+            "storyCount": "6",
+            "localStoryCount": "16"
           },
           {
             "party": "R",
             "name": "Michael Brown",
             "incumbent": "False",
             "slug": "michael-brown",
-            "storyCount": "115",
-            "localStoryCount": "8"
+            "storyCount": "118",
+            "localStoryCount": "10"
           },
           {
             "party": "R",
             "name": "James Craig",
             "incumbent": "False",
             "slug": "james-craig",
-            "storyCount": "45",
-            "localStoryCount": "19"
+            "storyCount": "53",
+            "localStoryCount": "21"
           },
           {
             "party": "R",
             "name": "Tudor Dixon",
             "incumbent": "False",
             "slug": "tudor-dixon",
-            "storyCount": "24",
-            "localStoryCount": "15"
+            "storyCount": "27",
+            "localStoryCount": "16"
           },
           {
             "party": "R",
             "name": "Perry Johnson",
             "incumbent": "False",
             "slug": "perry-johnson",
-            "storyCount": "29",
-            "localStoryCount": "18"
+            "storyCount": "36",
+            "localStoryCount": "20"
           },
           {
             "party": "R",
             "name": "Ryan Kelley",
             "incumbent": "False",
             "slug": "ryan-kelley",
-            "storyCount": "10",
-            "localStoryCount": "11"
+            "storyCount": "13",
+            "localStoryCount": "13"
+          },
+          {
+            "party": "R",
+            "name": "Michael Markey Jr.",
+            "incumbent": "False",
+            "slug": "michael-markey-jr-",
+            "storyCount": "1",
+            "localStoryCount": "0"
           },
           {
             "party": "R",
             "name": "Ralph Rebandt",
             "incumbent": "False",
             "slug": "ralph-rebandt",
-            "storyCount": "5",
-            "localStoryCount": "12"
+            "storyCount": "8",
+            "localStoryCount": "13"
           },
           {
             "party": "R",
             "name": "Kevin Rinke",
             "incumbent": "False",
             "slug": "kevin-rinke",
-            "storyCount": "19",
-            "localStoryCount": "13"
+            "storyCount": "22",
+            "localStoryCount": "14"
           },
           {
             "party": "R",
@@ -151,8 +159,8 @@
             "name": "Garrett Soldano",
             "incumbent": "False",
             "slug": "garrett-soldano",
-            "storyCount": "28",
-            "localStoryCount": "12"
+            "storyCount": "31",
+            "localStoryCount": "13"
           }
         ]
       },
@@ -200,7 +208,7 @@
             "name": "J.D. Vance",
             "incumbent": "False",
             "slug": "jd-vance",
-            "storyCount": "757",
+            "storyCount": "768",
             "localStoryCount": "22"
           }
         ]
@@ -223,8 +231,8 @@
             "name": "Doug Mastriano",
             "incumbent": "False",
             "slug": "doug-mastriano",
-            "storyCount": "369",
-            "localStoryCount": "31"
+            "storyCount": "375",
+            "localStoryCount": "32"
           }
         ]
       },

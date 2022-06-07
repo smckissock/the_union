@@ -5,7 +5,7 @@
   "headline": "Pro-Bernie group endorses in key Dem Senate primary",
   "image": "https://www.politico.com/dims4/default/e49f502/2147483647/legacy_thumbnail/1200x800%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F20%2F54%2F9f7168dc4632b6c5b9ee79f16a53%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1053879964",
   "link": "https://www.politico.com/news/2022/04/28/pro-bernie-endorses-dem-senate-primary-00028474",
-  "sentiment": "0.742",
+  "sentiment": "0",
   "mediaOutlet": "Politico",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,15 +14,8 @@
   "termIds": [
     741,
     802,
-    1333,
     1568,
-    1916,
-    2039,
-    373,
-    386,
-    571,
-    2793,
-    2972
+    2039
   ],
   "sentences": [
     "Asked for comment for this story, Barnes spokesperson Madeline McDaniel said, Mandela is proud to be endorsed by more than 130 local elected officials in Wisconsin, influential local and national groups, and members of Congress from all corners of the Democratic Party, from Sen. Elizabeth Warren and Sen. Cory Booker to [House] Majority Whip Jim Clyburn.?\nBarnes has also received the support of liberal groups such as the Working Families Party, Progressive Change Campaign Committee and the Center for Popular Democracy Action.",

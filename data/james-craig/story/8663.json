@@ -5,7 +5,7 @@
   "headline": "Mich. GOP candidate ruled ineligible for ballot after fraudulent petitions",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/06/01/perry-johnson-michigan-governor-fraud-appeals/",
-  "sentiment": "-0.946",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,7 +13,6 @@
   "authorUrl": "https://www.washingtonpost.com/people/amy-b-wang/",
   "termIds": [
     651,
-    1147,
     1682,
     1844,
     2002,
@@ -21,14 +20,7 @@
     2298,
     3075,
     3095,
-    3099,
-    5506,
-    5546,
-    311,
-    428,
-    6118,
-    2645,
-    2791
+    3099
   ],
   "sentences": [
     "The elections bureau said it did not have reason to believe specific candidates or campaigns were aware that their petitions were being fraudulently circulated, but made their recommendations to disqualify five of them based on whether a candidate met the 15,000-signature threshold after invalid signatures were removed from their petitions.",

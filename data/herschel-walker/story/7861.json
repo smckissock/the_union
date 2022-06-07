@@ -5,22 +5,14 @@
   "headline": "GOP Senate candidate Herschel Walker has been overstating his academic achievements for years",
   "image": "https://cdn.cnn.com/cnnnext/dam/assets/220331174145-01-herschel-walker-0326-exlarge-169.jpg",
   "link": "https://www.cnn.com/2022/04/01/politics/kfile-herschel-walker-overstated-academic-achievements/index.html",
-  "sentiment": "-0.343",
+  "sentiment": "0",
   "mediaOutlet": "CNN",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Andrew Kaczynski and Em Steck",
   "authorUrl": "",
   "termIds": [
-    815,
-    1147,
-    106,
-    146,
-    428,
-    571,
-    584,
-    5654,
-    2945
+    815
   ],
   "sentences": [
     "\"There is not a single voter in Georgia who believes that whether Herschel graduated at the 'top of his class' or as Valedictorian 40 years ago has any bearing on his ability to be a great United States Senator,\" Mallory Blount, communications director for the campaign, said in a statement.",

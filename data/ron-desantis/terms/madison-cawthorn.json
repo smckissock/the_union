@@ -54,15 +54,6 @@
     "sentiment": "0"
   },
   {
-    "id": 4309,
-    "mediaId": 151,
-    "date": "5/1/2022 12:00:00 AM",
-    "sentence": "Thats why <span class='selected-term'>Ron DeSantis</span> is one step ahead  first you ban the math textbooks, then nobody knows how to count the votes.",
-    "author": "",
-    "title": "Trevor Noah's best jokes at the WHCD",
-    "sentiment": "0.642"
-  },
-  {
     "id": 4022,
     "mediaId": 157,
     "date": "5/5/2022 12:00:00 AM",
@@ -124,15 +115,6 @@
     "author": "Katherine Fung",
     "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
     "sentiment": "0"
-  },
-  {
-    "id": 3471,
-    "mediaId": 136,
-    "date": "5/18/2022 12:00:00 AM",
-    "sentence": "Although Barnette's performance could be troubling for Trump, it may bode well for another prominent Republican, Florida Governor <span class='selected-term'>Ron DeSantis</span>, who is emerging as a leading contender for the GOP's presidential nomination in 2024.",
-    "author": "Katherine Fung",
-    "title": "Trumpism Is Moving Beyond Trump and That's Good News for Ron DeSantis",
-    "sentiment": "0.281"
   },
   {
     "id": 3484,
@@ -222,6 +204,15 @@
     "sentence": "",
     "author": "Philip Bump",
     "title": "What's the far right trying to build power for?",
+    "sentiment": "0"
+  },
+  {
+    "id": 8962,
+    "mediaId": 129,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Pennsylvania court sides with McCormick for now, ordering undated ballots to be counted.",
     "sentiment": "0"
   }
 ]

@@ -5,7 +5,7 @@
   "headline": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
   "image": "https://www.gannett-cdn.com/presto/2020/06/25/PDTF/fac7a680-b741-40f9-991c-c90b4807a992-IMG_secondary_1_1_TAOVT80B_.JPG?crop=4715,2653,x0,y167&width=3200&height=1801&format=pjpg&auto=webp",
   "link": "https://www.freep.com/story/news/politics/2022/05/12/michigan-gop-governor-candidates-debate-mackinac/9749804002/",
-  "sentiment": "-0.538",
+  "sentiment": "0",
   "mediaOutlet": "Detroit Free Press",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -18,15 +18,9 @@
     2002,
     2171,
     2298,
-    3051,
     3075,
     3095,
-    3099,
-    308,
-    428,
-    2645,
-    2791,
-    3068
+    3099
   ],
   "sentences": [
     "\"The Mackinac Policy Conference is pleased to welcome Michigan's Republican Gubernatorial hopefuls to Michigan's Center Stage as they present their vision for our state's future,\" Sandy K. Baruah, president and chief executive officer of the Detroit Regional Chamber, said in a statement.",

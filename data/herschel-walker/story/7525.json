@@ -5,21 +5,14 @@
   "headline": "Herschel Walker: From football stardom to troubling Senate candidate",
   "image": "https://chorus.stimg.co/23577895/merlin_67496037.jpg?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=1",
   "link": "https://www.startribune.com/herschel-walker-georgia-senate-republican-primary-vikings-jim-souhan/600175360/",
-  "sentiment": "0.185",
+  "sentiment": "0",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    815,
-    2419,
-    5774,
-    571,
-    5617,
-    5655,
-    2636,
-    2672
+    815
   ],
   "sentences": [
     "Improbably muscular and fast, Walker benefited from and perpetuated every myth surrounding him  that he was his high school valedictorian (he wasn't), that he graduated from the University of Georgia (he didn't), that he performed 5,000 pushups and situps every night as a youth during sitcom commercials (mathematically and probably physically impossible).",

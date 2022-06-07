@@ -5,19 +5,14 @@
   "headline": "Trump-endorsed Senate candidate Herschel Walker supports a total abortion ban: 'there's no exception in my mind'",
   "image": "https://i.insider.com/628aac7db9dbb40018cb32c7?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/herschel-walker-supports-total-abortion-ban-no-exception-georgia-senate-2022-5",
-  "sentiment": "0.455",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Katherine Tangalakis-Lippert",
   "authorUrl": "https://www.businessinsider.com/author/katherine-tangalakis-lippert",
   "termIds": [
-    815,
-    1147,
-    78,
-    227,
-    571,
-    2672
+    815
   ],
   "sentences": [
     "Following a campaign event on Wednesday, Georgia GOP candidate for Senate Herschel Walker said he supports a total abortion ban with no exception for rape, incest, or the health of the mother.",

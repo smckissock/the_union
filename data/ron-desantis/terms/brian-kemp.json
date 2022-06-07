@@ -69,25 +69,7 @@
     "sentence": "The Florida governor, <span class='selected-term'>Ron DeSantis</span>, predicted a cold war? with Georgia if it elects the Democrat and voting rights campaigner Stacey Abrams as governor this year.",
     "author": "Martin Pengelly",
     "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says",
-    "sentiment": "-0.378"
-  },
-  {
-    "id": 5238,
-    "mediaId": 558,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "The Florida governor, <span class='selected-term'>Ron DeSantis</span>, predicted a cold war? with Georgia if it elects the Democrat and voting rights campaigner Stacey Abrams as governor this year.",
-    "author": "Martin Pengelly",
-    "title": "Stacey Abrams win in Georgia will lead to cold war with Florida, DeSantis says",
     "sentiment": "0"
-  },
-  {
-    "id": 5240,
-    "mediaId": 188,
-    "date": "4/9/2022 12:00:00 AM",
-    "sentence": "On Friday, Floridas Republican Governor <span class='selected-term'>Ron DeSantis</span> said that if Stacey Abrams wins Georgias upcoming gubernatorial election it could cause a cold war? between the two states.",
-    "author": "Samuel Mangold-Lenett",
-    "title": "Ron DeSantis says there could be a 'cold war' between Florida and Georgia if Stacey Abrams wins in 2022",
-    "sentiment": "-0.316"
   },
   {
     "id": 5240,
@@ -159,24 +141,6 @@
     "sentence": "",
     "author": "Mason Bissada",
     "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
-    "sentiment": "-0.532"
-  },
-  {
-    "id": 4948,
-    "mediaId": 63,
-    "date": "4/25/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Mason Bissada",
-    "title": "Florida Gov. DeSantis Signs Bill To Form Election Police Force",
-    "sentiment": "0"
-  },
-  {
-    "id": 6145,
-    "mediaId": 124,
-    "date": "4/26/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "",
-    "title": "'Mean,' 'circus': Some undecided Pa. GOP voters disappointed by Senate debate",
     "sentiment": "0"
   },
   {
@@ -277,15 +241,6 @@
     "author": "Hugh Hewitt",
     "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
     "sentiment": "0"
-  },
-  {
-    "id": 3506,
-    "mediaId": 238,
-    "date": "5/17/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Hugh Hewitt",
-    "title": "Opinion Trump hovers, but the number of his likely rivals keeps growing",
-    "sentiment": "0.607"
   },
   {
     "id": 3493,
@@ -393,15 +348,6 @@
     "sentence": "",
     "author": "Sarah K. Burris",
     "title": "Georgia Republicans rejected Trump  not just his lies: columnist",
-    "sentiment": "-0.476"
-  },
-  {
-    "id": 8527,
-    "mediaId": 157,
-    "date": "5/29/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Sarah K. Burris",
-    "title": "Georgia Republicans rejected Trump  not just his lies: columnist",
     "sentiment": "0"
   },
   {
@@ -447,6 +393,24 @@
     "sentence": "",
     "author": "Myra Adams",
     "title": "Two words explain why Trump won't run in 2024",
+    "sentiment": "0"
+  },
+  {
+    "id": 8962,
+    "mediaId": 129,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Pennsylvania court sides with McCormick for now, ordering undated ballots to be counted.",
+    "sentiment": "0"
+  },
+  {
+    "id": 9000,
+    "mediaId": 129,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "Frankly, Trumps only serious opponent for the nomination at this point is <span class='selected-term'>Ron DeSantis</span>, who seems to be beating the former president in the straw polls, at least in some states.",
+    "author": "",
+    "title": "There Has to Be a Tipping Point on Guns, Right?",
     "sentiment": "0"
   }
 ]

@@ -24,7 +24,7 @@
     "sentence": "",
     "author": "Grayson Quay",
     "title": "What to watch for in the Ohio and Indiana primary elections",
-    "sentiment": "0.326"
+    "sentiment": "0"
   },
   {
     "id": 5588,
@@ -213,7 +213,7 @@
     "sentence": "",
     "author": "Jonathan Bernstein",
     "title": "GOP voters aren't Trump zombies",
-    "sentiment": "0.431"
+    "sentiment": "0"
   },
   {
     "id": 5475,
@@ -339,7 +339,7 @@
     "sentence": "",
     "author": "",
     "title": "What Donald Trump Didnt Count On in Georgia",
-    "sentiment": "0.519"
+    "sentiment": "0"
   },
   {
     "id": 7229,
@@ -420,6 +420,15 @@
     "sentence": "",
     "author": "",
     "title": "Lawyer who plotted to overturn Trumps 2020 loss recruits election deniers to watch over the vote.",
+    "sentiment": "0"
+  },
+  {
+    "id": 8980,
+    "mediaId": 238,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Theodoric Meyer",
+    "title": "Democrats aren't counting on Jan. 6 committee hearings to help them with voters",
     "sentiment": "0"
   }
 ]

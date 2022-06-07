@@ -5,7 +5,7 @@
   "headline": "The Memo: Trump no longer holds MAGA movement in his palm",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/ozmehmet_perduedavid_brooksmo_052322ap-see-credits_split_trump-maga.jpg?strip=1&w=640",
   "link": "https://thehill.com/news/administration/3498715-the-memo-trump-no-longer-holds-maga-movement-in-his-palm/",
-  "sentiment": "0.663",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,17 +13,9 @@
   "authorUrl": "https://thehill.com/author/niall-stanage/",
   "termIds": [
     815,
-    896,
-    1147,
     2095,
     2303,
-    2475,
-    3103,
-    2537,
-    2551,
-    2672,
-    2845,
-    2946
+    3103
   ],
   "sentences": [
     "Trump endorsed Brooks way back in April 2021  just three months after the Alabama congressman had delivered an incendiary speech at the Jan. 6, 2021, Stop the Steal rally that immediately preceded the riot at the Capitol.",

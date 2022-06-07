@@ -5,22 +5,14 @@
   "headline": "Republicans eager to reopen economy; Democrats more cautious",
   "image": "https://www.bostonherald.com/wp-content/uploads/2020/04/Virus_Outbreak_Contrasting_Governors_44868-1.jpg?w=1569",
   "link": "https://www.bostonherald.com/2020/04/24/republicans-eager-to-reopen-economy-democrats-more-cautious/",
-  "sentiment": "0.295",
+  "sentiment": "0",
   "mediaOutlet": "Boston Herald",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Associated Press",
   "authorUrl": "https://www.bostonherald.com/author/associated-press/",
   "termIds": [
-    1147,
-    1935,
-    2053,
-    2095,
-    428,
-    2672,
-    2846,
-    2850,
-    2910
+    2095
   ],
   "sentences": [
     "The governors' actions stand in stark contrast to the decidedly more cautious approach of their Democratic counterparts in California, Michigan, New York, Oregon, Virginia and Washington, who say they will base their decisions on reopening the economy primarily on public health data and their ability to keep the virus outbreak in check.",

@@ -36,15 +36,6 @@
     "sentiment": "0"
   },
   {
-    "id": 4053,
-    "mediaId": 195,
-    "date": "5/4/2022 12:00:00 AM",
-    "sentence": "",
-    "author": "Kristin Tate",
-    "title": "Trump is Democrats only hope in 2024",
-    "sentiment": "0.163"
-  },
-  {
     "id": 3936,
     "mediaId": 238,
     "date": "5/6/2022 12:00:00 AM",
@@ -132,6 +123,42 @@
     "sentence": "",
     "author": "Max Boot",
     "title": "Opinion Has Trump lost his hold on the GOP? Hardly.",
+    "sentiment": "0"
+  },
+  {
+    "id": 8962,
+    "mediaId": 129,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Pennsylvania court sides with McCormick for now, ordering undated ballots to be counted.",
+    "sentiment": "0"
+  },
+  {
+    "id": 8945,
+    "mediaId": 151,
+    "date": "6/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "POLITICO Playbook: Democracy week in Washington",
+    "sentiment": "0"
+  },
+  {
+    "id": 8949,
+    "mediaId": 136,
+    "date": "6/5/2022 12:00:00 AM",
+    "sentence": "Florida's Governor <span class='selected-term'>Ron DeSantis</span> was favored for a second year over former President Donald Trump to be the Republican Party's 2024 presidential nominee at an annual conservative conference.",
+    "author": "Jason Lemon",
+    "title": "DeSantis Beats Trump Again in Conservative Straw Poll at Annual Conference",
+    "sentiment": "0"
+  },
+  {
+    "id": 8941,
+    "mediaId": 19,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Katherine Hamilton",
+    "title": "Lackluster Turnout at Nevada Rally for U.S. Senate Candidate Running Against Trump-Backed Adam Laxalt",
     "sentiment": "0"
   }
 ]

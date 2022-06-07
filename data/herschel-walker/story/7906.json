@@ -5,7 +5,7 @@
   "headline": "Trump heads to Georgia in high-stakes bid to shape Republican primaries",
   "image": "https://s.yimg.com/ny/api/res/1.2/m_XGYBpArphvXjwIs6Tvsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3NjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/h8QJbCN25kY3AyDg7IjqbQ--~B/aD02MDA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/theguardian_763/2a3d976cdaeeff11832865328d222e86",
   "link": "https://sg.news.yahoo.com/trump-heads-georgia-high-stakes-180922231.html",
-  "sentiment": "0.277",
+  "sentiment": "0",
   "mediaOutlet": "Yahoo News",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,7 @@
   "authorUrl": "",
   "termIds": [
     815,
-    1147,
-    2087,
-    2095,
-    2279,
-    2355,
-    4325,
-    146,
-    428,
-    2624,
-    2672
+    2095
   ],
   "sentences": [
     "Ex-president plans rally after endorsing candidates seeking to replace leaders who rejected his election lie\nDonald Trumps continuing effort to bend national Republican candidates to his will and the party to do his bidding faces a test in the key state of Georgia on Saturday as the former president holds a score-settling rally there in support of candidates who could boost any future re-election agenda.",

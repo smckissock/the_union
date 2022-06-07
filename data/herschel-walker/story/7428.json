@@ -5,7 +5,7 @@
   "headline": "Primary Election Results for Georgia, Texas, Alabama and Other States",
   "image": "https://d.newsweek.com/en/full/2044320/georgia-voting-primary-elections.webp?w=790&f=7eb62fb7724eee3a7c8c9b1b61d059a9",
   "link": "https://www.newsweek.com/primary-elections-results-1709600",
-  "sentiment": "-0.278",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "",
   "termIds": [
     815,
-    834,
-    1459,
-    2095,
-    2150,
-    4098,
-    2537,
-    2672,
-    2796,
-    2934
+    2095
   ],
   "sentences": [
     "Newsweek will be reporting on results from the following states:\nTexas\nAlabama\nGeorgia\nArkansas\nMinnesota\nTexas\nIn one significant Texas race, voters will have to decide between Democrat Henry Cuellar, who openly opposes abortion rights and his challenger Jessica Cisneros, who is in favor of keeping Roe v. Wade in place.",

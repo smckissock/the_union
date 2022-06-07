@@ -114,7 +114,7 @@
     "sentence": "More:Michigan's primary ballot may be 'disaster' for GOP candidates for governor, expert says\nCandidates James Craig, <span class='selected-term'>Perry Johnson</span>, Ryan Kelley, Kevin Rinke and Garrett Soldano made the cut, according to a news release.",
     "author": "Dave Boucher",
     "title": "Detroit chamber limits field for Michigan GOP gubernatorial debate in June on Mackinac",
-    "sentiment": "-0.512"
+    "sentiment": "0"
   },
   {
     "id": 3292,
@@ -213,7 +213,7 @@
     "sentence": "The Court of Claims decision mirrors Wednesday rulings from the Michigan Court of Appeals, which denied similar appeals from GOP gubernatorial hopefuls Oakland County businessman <span class='selected-term'>Perry Johnson</span> and Grand Haven financial adviser Michael Markey.",
     "author": "Arpan Lobo",
     "title": "James Craig loses bid to appear on primary ballot after Michigan court denies appeal",
-    "sentiment": "-0.592"
+    "sentiment": "0"
   },
   {
     "id": 8655,
@@ -222,6 +222,42 @@
     "sentence": "Five candidates  financial adviser Michael Markey, former Detroit Police Chief James Craig, businesswoman Donna Brandenburg, self-described quality guru <span class='selected-term'>Perry Johnson</span> and Michigan State Police Capt.",
     "author": "",
     "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
+  },
+  {
+    "id": 8958,
+    "mediaId": 25,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "The state Supreme Court was the last stop for <span class='selected-term'>Perry Johnson</span> and Michael Markey, who were doomed by forged signatures apparently created by paid circulators without the candidates' knowledge.",
+    "author": "",
+    "title": "2 Michigan gubernatorial candidates lose final appeals and will remain off ballot after phony petition signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8972,
+    "mediaId": 21,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "The candidates who will remain off the ballot include former Detroit police chief James Craig  who for months had been seen as a frontrunner in the race  along with businessmen <span class='selected-term'>Perry Johnson</span> and Michael Markey Jr.",
+    "author": "John L. Dorman",
+    "title": "Michigan Supreme Court blocks three GOP gubernatorial candidates from ballot over forged petition signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8964,
+    "mediaId": 261,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Arpan Lobo",
+    "title": "Perry Johnson files lawsuit in federal court to get on GOP primary ballot for governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 8969,
+    "mediaId": 157,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "The other candidates are: financial adviser Michael Markey, businessman <span class='selected-term'>Perry Johnson</span>, businesswoman Donna Brandenburg and Michigan State Police Capt.",
+    "author": "Jon King",
+    "title": "Michigan Republican on getting booted from ballot over fraudulent signatures: Not going to let this go'",
     "sentiment": "0"
   }
 ]

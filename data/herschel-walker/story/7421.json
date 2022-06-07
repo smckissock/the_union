@@ -5,7 +5,7 @@
   "headline": "Primary Live Updates: Sarah Huckabee Sanders Wins Arkansas Governor Primary",
   "image": "https://d.newsweek.com/en/full/2044681/2022-midterm-election-voters.webp?w=790&f=a312f4b8bfccfbbe6d003c289d1d96f1",
   "link": "https://www.newsweek.com/primary-live-updates-voters-head-polls-four-states-1709779",
-  "sentiment": "0.936",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "https://www.newsweek.com/authors/jake-thomas",
   "termIds": [
     815,
-    896,
-    1136,
-    1147,
-    1459,
-    1527,
-    2095,
-    2551,
-    2672,
-    2934
+    2095
   ],
   "sentences": [
     "Texas will see polls close next at 7 p.m. CT after having opened at 7 a.m.\nAlso located in the Central Time Zone, Arkansas will close polls at 7:30 p.m. after opening at 7:30 a.m.\n3 hr ago 18:00 PM EDT\nMarjorie Taylor Greene Face Primary Challenge in Georgia\nMarjorie Taylor Greene will face her first electoral test as Republican voters decide whether to renominate the firebrand representative after her turbulent first term in office.",

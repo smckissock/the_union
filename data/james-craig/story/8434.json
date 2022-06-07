@@ -5,7 +5,7 @@
   "headline": "Michigan Board of Canvassers Knocks Five Republican Candidates for Governor off Ballot",
   "image": "https://media.breitbart.com/media/2022/02/James-Craig-former-Detroit-Police-Chief-Michigan-Sept14-21-ap-640x480.jpg",
   "link": "https://www.breitbart.com/politics/2022/05/28/michigan-board-of-canvassers-knocks-five-republican-candidates-for-governor-off-ballot/",
-  "sentiment": "-0.594",
+  "sentiment": "0",
   "mediaOutlet": "Breitbart",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,12 +13,7 @@
   "authorUrl": "https://www.breitbart.com/author/jdixonhamilton/",
   "termIds": [
     651,
-    773,
-    1844,
-    146,
-    428,
-    6098,
-    2791
+    1844
   ],
   "sentences": [
     "Five Republican candidates for governor in Michigan will be kept off the state's primary election ballot after the state Board of Canvassers deadlocked along party lines when determining the validity of the candidates' signatures.",

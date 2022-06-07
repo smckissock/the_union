@@ -5,7 +5,7 @@
   "headline": "Georgia's primary elections on Tuesday are pivotal. Here's what to watch",
   "image": "https://image.cnbcfm.com/api/v1/image/107065691-1653331818775-gettyimages-1398519796-029a0016_2178b783-e276-4d55-8896-ee222677adc9.jpeg?v=1653331915&w=740&h=416&ffmt=webp",
   "link": "https://www.cnbc.com/2022/05/24/georgia-midterm-primary-elections-trumps-picks-challenge-gop-rivals.html",
-  "sentiment": "-0.643",
+  "sentiment": "0",
   "mediaOutlet": "CNBC",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,18 +13,10 @@
   "authorUrl": "",
   "termIds": [
     815,
-    896,
-    1147,
-    1527,
     2095,
-    2203,
     2303,
     3102,
-    3103,
-    4325,
-    2537,
-    2551,
-    2672
+    3103
   ],
   "sentences": [
     "Joe Raedle | Getty Images\nThe impact of Georgia's primary elections on Tuesday will reverberate far beyond state lines, as key races up and down the ballot test former President Donald Trump's political power and set the table for a showdown over which party controls Congress.",

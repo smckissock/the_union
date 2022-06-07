@@ -5,7 +5,7 @@
   "headline": "What 2022s primary results tell us about both parties",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/GeorgiaVoters_052422_ap.jpg?strip=1&w=640",
   "link": "https://thehill.com/opinion/campaign/3504286-what-2022s-primary-results-tell-us-about-both-parties/",
-  "sentiment": "0.772",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,14 +13,7 @@
   "authorUrl": "",
   "termIds": [
     815,
-    896,
-    1147,
-    1459,
-    2095,
-    2203,
-    2475,
-    2672,
-    2934
+    2095
   ],
   "sentences": [
     "Importantly, Tuesdays results do highlight the power of Trumps endorsement in races with no strong G.O.P incumbent, or when Trump backs an embattled incumbent  which also became evident earlier this month in the Republican primaries for U.S. Senate in Ohio, North Carolina and Pennsylvania, as well as Pennsylvania Governor.",

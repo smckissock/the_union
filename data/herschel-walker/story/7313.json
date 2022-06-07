@@ -5,7 +5,7 @@
   "headline": "What to Watch For in Todays Elections in Georgia and Beyond",
   "image": "https://static01.nyt.com/images/2022/05/24/multimedia/24pol-primary-live-what-to-watch-photo/24pol-primary-live-what-to-watch-photo-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/24/us/politics/georgia-elections-texas-arkansas-alabama-polls.html",
-  "sentiment": "0.656",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,7 @@
   "authorUrl": "",
   "termIds": [
     815,
-    1147,
-    1459,
-    1951,
-    2087,
-    2095,
-    2203,
-    4325,
-    2537,
-    2672
+    2095
   ],
   "sentences": [
     "This week, Georgia will also kick off one of the countrys most important Senate elections, between Senator Raphael Warnock, a Democrat running for re-election, and Herschel Walker, a Republican backed by Mr. Trump who is widely expected to cruise to victory in his partys primary.",

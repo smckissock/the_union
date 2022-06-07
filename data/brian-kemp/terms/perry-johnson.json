@@ -6,7 +6,7 @@
     "sentence": "",
     "author": "",
     "title": "Primary Elections Live Updates: Voters Reject Trump Endorsed Candidates in Georgia",
-    "sentiment": "-0.732"
+    "sentiment": "0"
   },
   {
     "id": 8441,
@@ -15,6 +15,15 @@
     "sentence": "Governor's Race: <span class='selected-term'>Brian Kemp</span> scored a landslide victory over David Perdue, delivering Mr. Trump his biggest setback of the 2022 primaries.",
     "author": "",
     "title": "Republican Governors Lose Their Dread of Trump",
-    "sentiment": "0.206"
+    "sentiment": "0"
+  },
+  {
+    "id": 8962,
+    "mediaId": 129,
+    "date": "6/3/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "",
+    "title": "Pennsylvania court sides with McCormick for now, ordering undated ballots to be counted.",
+    "sentiment": "0"
   }
 ]

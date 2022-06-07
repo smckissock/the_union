@@ -5,21 +5,15 @@
   "headline": "Trump loyalist who lost Georgia governor primary with just 3.4% of the vote is refusing to admit defeat",
   "image": "https://i.insider.com/62932fa0ff955c0019c5e85a?width=2000&format=jpeg&auto=webp",
   "link": "https://www.businessinsider.com/trump-loyalist-kandiss-taylor-georgia-primary-vote-wont-concede-2022-5",
-  "sentiment": "-0.886",
+  "sentiment": "0",
   "mediaOutlet": "Business Insider",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Joshua Zitser",
   "authorUrl": "https://www.businessinsider.com/author/joshua-zitser",
   "termIds": [
-    1147,
-    1951,
     2095,
-    3082,
-    4325,
-    428,
-    2555,
-    2672
+    3082
   ],
   "sentences": [
     "\"It is my opinion that our elections in Georgia have become a travesty spearheaded by the corrupt, organized, willful assault that Governor Brian Kemp, Secretary of State Brad Raffensperger, Attorney General Chris Carr, and gubernatorial candidate Stacey Abrams have inflicted on our election process,\" the press release continued.",

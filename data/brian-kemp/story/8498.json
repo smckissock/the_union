@@ -5,24 +5,15 @@
   "headline": "The Good News in Georgia Thats Bad News for Trump",
   "image": "https://static01.nyt.com/images/2022/05/29/opinion/28douthat1/merlin_205888119_87a3552c-049d-4ae9-88c7-1581932c8451-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
   "link": "https://www.nytimes.com/2022/05/28/opinion/georgia-trump-kemp-raffensperger.html",
-  "sentiment": "0.647",
+  "sentiment": "0",
   "mediaOutlet": "New York Times",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "",
   "authorUrl": "",
   "termIds": [
-    1147,
-    1990,
-    2087,
     2095,
-    2203,
-    2279,
-    3102,
-    4325,
-    4677,
-    428,
-    2672
+    3102
   ],
   "sentences": [
     "Back then, if you pointed out that all the Republicans in positions that really mattered in the aftermath of the 2020 election, across multiple states and multiple offices, did their jobs and declined to go along with Trump, the usual response was maybe it happened once but wouldnt happen again, because Trumps enmity was a guaranteed career-ender.",

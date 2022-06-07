@@ -5,22 +5,14 @@
   "headline": "National Right to Life endorses Herschel Walker",
   "image": "https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/03/walkerherschel_092521_ap-ben-gray_black-candidates.jpg?w=2000&ssl=1",
   "link": "https://thehill.com/news/3273383-national-right-to-life-endorses-herschel-walker/",
-  "sentiment": "0.94",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Natalie Prieb",
   "authorUrl": "https://thehill.com/author/natalie-prieb/",
   "termIds": [
-    815,
-    1136,
-    1147,
-    5997,
-    232,
-    342,
-    428,
-    571,
-    2672
+    815
   ],
   "sentences": [
     "The National Right to Life Committee (NRLC) pointed to Walkers support for various anti-abortion issues in the statement endorsing him, including his opposition to using tax dollars to pay for abortions or fund abortion providers.",

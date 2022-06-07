@@ -5,23 +5,15 @@
   "headline": "Trump Pushes Claim That Brian Kemp's 50-Point Victory Was Fraud",
   "image": "https://d.newsweek.com/en/full/2048825/donald-trumps-speaks-georgia.webp?w=790&f=83181544499a433c0f8462240d20a482",
   "link": "https://www.newsweek.com/donald-trump-pushes-claim-brian-kemp-victory-fraud-georgia-governor-1711793",
-  "sentiment": "-0.785",
+  "sentiment": "0",
   "mediaOutlet": "Newsweek",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Jon Jackson",
   "authorUrl": "https://www.newsweek.com/authors/jon-jackson",
   "termIds": [
-    1147,
-    1404,
-    1434,
     2095,
-    3103,
-    4325,
-    4330,
-    101,
-    6313,
-    2945
+    3103
   ],
   "sentences": [
     "Former President Donald Trump's \"Save America\" political action committee (PAC) on Tuesday sent an email to subscribers that linked to an article that claims Governor Brian Kemp's victory in last week's Republican gubernatorial primary was the result of voter fraud.",

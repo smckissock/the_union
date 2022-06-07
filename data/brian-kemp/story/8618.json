@@ -5,23 +5,17 @@
   "headline": "Some Democrats voting in GOP primaries to block Trump picks",
   "image": "https://chorus.stimg.co/23598483/merlin_67578791.jpg?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=1",
   "link": "https://www.startribune.com/some-democrats-voting-in-gop-primaries-to-block-trump-picks/600177821/",
-  "sentiment": "-0.694",
+  "sentiment": "0",
   "mediaOutlet": "Star Tribune ",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "STEVE PEOPLES and AARON KESSLER Associated Press",
   "authorUrl": "",
   "termIds": [
-    1147,
     2095,
-    2203,
-    2214,
     2303,
     3094,
-    3102,
-    146,
-    428,
-    2672
+    3102
   ],
   "sentences": [
     "\"It is clear that Brad Raffensperger carried a majority of the Republican vote here in the state of Georgia, and that there are people who stopped voting in Republican primaries after 2016 who are now reengaged,\" said Jordan Fuchs, a consultant to the Raffensperger campaign.",

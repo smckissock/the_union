@@ -5,7 +5,7 @@
   "headline": "Trump and Pence take separate sides in Georgias gubernatorial primary",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/23/trump-pence-kemp-purdue-georgia-primary/",
-  "sentiment": "-0.89",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,15 +13,8 @@
   "authorUrl": "https://www.washingtonpost.com/people/mariana-alfaro/",
   "termIds": [
     815,
-    1147,
-    1434,
-    1951,
     2095,
-    2303,
-    4325,
-    5543,
-    428,
-    2672
+    2303
   ],
   "sentences": [
     "In Georgia, the Republican Governors Association, which launched a remarkable bid to protect incumbents from Trump-backed challengers this primary season, poured about $5 million into the Kemp-Perdue race, according to a person familiar with the funding who spoke on the condition of anonymity to share private budget details.",

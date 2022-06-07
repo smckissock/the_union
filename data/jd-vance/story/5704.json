@@ -5,23 +5,14 @@
   "headline": "Vance to speak at Trump rally for Oz in Pennsylvania",
   "image": "https://thehill.com/wp-content/uploads/sites/2/2022/05/VanceJD.jpg?w=980&h=551&crop=1",
   "link": "https://thehill.com/news/campaign/3478851-vance-to-speak-at-trump-rally-for-oz-in-pennsylvania/",
-  "sentiment": "0.454",
+  "sentiment": "0",
   "mediaOutlet": "The Hill",
   "biasRatingId": 1,
   "wordCount": 0,
   "author": "Max Greenwood",
   "authorUrl": "https://thehill.com/author/max-greenwood/",
   "termIds": [
-    1147,
-    1801,
-    2491,
-    3103,
-    146,
-    201,
-    428,
-    571,
-    2845,
-    2862
+    3103
   ],
   "sentences": [
     "Vance, the newly minted Republican Senate nominee in Ohio, will speak at a rally alongside Donald Trump in Pennsylvania on Friday as the former president looks to get another one of his endorsed candidates, celebrity physician Mehmet Oz, across the finish line in that states GOP Senate primary.",

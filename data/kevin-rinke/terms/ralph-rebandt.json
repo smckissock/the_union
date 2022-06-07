@@ -123,7 +123,7 @@
     "sentence": "It's going to be decided by people who have traditionally struggled with President Trump,\" said Oakland County businessman <span class='selected-term'>Kevin Rinke</span>.",
     "author": "Dave Boucher",
     "title": "Michigan GOP gubernatorial candidates eager for Donald Trump's endorsement",
-    "sentiment": "0.42"
+    "sentiment": "0"
   },
   {
     "id": 8659,
@@ -150,6 +150,42 @@
     "sentence": "Businessman <span class='selected-term'>Kevin Rinke</span>, right-wing media personality Tudor Dixon, chiropractor Garrett Soldano and the Rev.",
     "author": "",
     "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
+  },
+  {
+    "id": 8958,
+    "mediaId": 25,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "There still will be five other candidates in the Republican primary: Tudor Dixon, <span class='selected-term'>Kevin Rinke</span>, Garrett Soldano, Ralph Rebandt and Ryan Kelley.",
+    "author": "",
+    "title": "2 Michigan gubernatorial candidates lose final appeals and will remain off ballot after phony petition signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8972,
+    "mediaId": 21,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "The GOP candidates who will appear on the ballot include businesswoman Tudor Dixon; pastor Ralph Rebandt; real estate broker Ryan Kelley; businessman <span class='selected-term'>Kevin Rinke</span>; and chiropractor Garrett Soldano.",
+    "author": "John L. Dorman",
+    "title": "Michigan Supreme Court blocks three GOP gubernatorial candidates from ballot over forged petition signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8964,
+    "mediaId": 261,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "Gretchen Whitmer, a Democrat, in November: Norton Shores businesswoman Tudor Dixon, Farmington Hills pastor Ralph Rebandt, Mattawan chiropractor Garrett Soldano, Pontiac businessman <span class='selected-term'>Kevin Rinke</span> and Ottawa County real estate agent Ryan Kelley.",
+    "author": "Arpan Lobo",
+    "title": "Perry Johnson files lawsuit in federal court to get on GOP primary ballot for governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 8969,
+    "mediaId": 157,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "The rulings have left five GOP candidates on the ballot, which had to be finalized by last Friday: Businessman <span class='selected-term'>Kevin Rinke</span>, right-wing media personality Tudor Dixon, chiropractor Garrett Soldano, far-right activist Ryan Kelley and the Rev.",
+    "author": "Jon King",
+    "title": "Michigan Republican on getting booted from ballot over fraudulent signatures: Not going to let this go'",
     "sentiment": "0"
   }
 ]

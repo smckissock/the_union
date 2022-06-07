@@ -5,7 +5,7 @@
   "headline": "GOP voters choose nominees with first loyalty to Trump, not McConnell",
   "image": "",
   "link": "https://www.washingtonpost.com/politics/2022/05/18/senate-gop-trump-mccconnell-vance-oz-budd/",
-  "sentiment": "0.386",
+  "sentiment": "0",
   "mediaOutlet": "Washington Post",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -13,16 +13,7 @@
   "authorUrl": "https://www.washingtonpost.com/people/paul-kane/",
   "termIds": [
     815,
-    1133,
-    1147,
-    1174,
-    1448,
-    1765,
-    1801,
-    2087,
-    2491,
-    3103,
-    428
+    3103
   ],
   "sentences": [
     "People have to look at the candidates Republicans have put forward and understand that theyre very far to the right.?\nPeters has spent the past year and a half chairing the Homeland Security Committee, turning it into a surprisingly bipartisan panel through his close relationship with Portman, the ranking Republican on the committee.",

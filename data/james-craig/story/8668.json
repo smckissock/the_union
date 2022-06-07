@@ -5,7 +5,7 @@
   "headline": "Disqualified Republican governor hopefuls battle it out in court",
   "image": "https://www.gannett-cdn.com/presto/2022/05/26/PDTF/19dc1eef-8d5a-4497-bcec-fe38c08ea5f0-candidates2.jpg?crop=723,407,x405,y550&width=723&height=407&format=pjpg&auto=webp",
   "link": "https://www.freep.com/story/news/politics/2022/06/01/heres-where-republican-governor-candidates-appeals-stand-court/7459331001/",
-  "sentiment": "-0.941",
+  "sentiment": "0",
   "mediaOutlet": "Detroit Free Press",
   "biasRatingId": 1,
   "wordCount": 0,
@@ -14,15 +14,8 @@
   "termIds": [
     651,
     1844,
-    2163,
     2171,
-    3099,
-    6370,
-    428,
-    6118,
-    2645,
-    2791,
-    6087
+    3099
   ],
   "sentences": [
     "Here is where each remaining candidate's challenge currently stands:\nPerry Johnson\nJohnson filed a lawsuit Friday in the Michigan Court of Appeals alleging that the review of the signatures he submitted to qualify for the primary ballot violated state election law because a signature-by-signature review comparing the one on the petition with the one on the voter's registration file was not carried out.",

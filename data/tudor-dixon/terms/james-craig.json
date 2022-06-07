@@ -78,7 +78,7 @@
     "sentence": "The poll also found that Kevin Rinke holds five percent of the vote, <span class='selected-term'>Tudor Dixon</span> and Ryan Kelly have four percent, and Perry Johnson and Mike Brown hold three percent.",
     "author": "Jacob Bliss",
     "title": "Poll: Former Detroit Police Chief James Craig Holds Wide Lead over Republican Rivals",
-    "sentiment": "0.489"
+    "sentiment": "0"
   },
   {
     "id": 924,
@@ -87,7 +87,7 @@
     "sentence": "Trailing Craig and Soldano were several other candidates in the packed primary race, including businessman Perry Johnson at eight percent, real estate broker and activist Ryan Kelly at six percent, conservative commentator <span class='selected-term'>Tudor Dixon</span> at three percent, and former car dealership owner Kevin Rinke at two percent, according to the poll.",
     "author": "Ashley Oliver",
     "title": "Poll: Former Detroit Police Chief James Craig Holds Double-Digit Lead in Michigan Governor's Primary",
-    "sentiment": "0.472"
+    "sentiment": "0"
   },
   {
     "id": 32,
@@ -222,7 +222,7 @@
     "sentence": "The reports also say that Oakland County businessman and \"quality guru\" Perry Johnson did not file enough valid signatures, but they clear Norton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, whose petitions were also the subject of a complaint.",
     "author": "Paul Egan",
     "title": "State elections report: James Craig and Perry Johnson filed too few signatures for ballot",
-    "sentiment": "-0.882"
+    "sentiment": "0"
   },
   {
     "id": 7473,
@@ -267,7 +267,7 @@
     "sentence": "Joining Rinke onstage outside the Grand Hotel on Mackinac Island were Norton Shores businesswoman and conservative commentator <span class='selected-term'>Tudor Dixon</span>, Oakland County pastor Ralph Rebandt and Kalamazoo chiropractor Garrett Soldano.",
     "author": "Dave Boucher",
     "title": "Michigan GOP gubernatorial candidates eager for Donald Trump's endorsement",
-    "sentiment": "0.264"
+    "sentiment": "0"
   },
   {
     "id": 8659,
@@ -294,6 +294,42 @@
     "sentence": "Businessman Kevin Rinke, right-wing media personality <span class='selected-term'>Tudor Dixon</span>, chiropractor Garrett Soldano and the Rev.",
     "author": "",
     "title": "Michigan GOP gov. candidates infuse debate with conspiracies about Whitmer and voting",
+    "sentiment": "0"
+  },
+  {
+    "id": 8958,
+    "mediaId": 25,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "There still will be five other candidates in the Republican primary: <span class='selected-term'>Tudor Dixon</span>, Kevin Rinke, Garrett Soldano, Ralph Rebandt and Ryan Kelley.",
+    "author": "",
+    "title": "2 Michigan gubernatorial candidates lose final appeals and will remain off ballot after phony petition signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8972,
+    "mediaId": 21,
+    "date": "6/4/2022 12:00:00 AM",
+    "sentence": "The GOP candidates who will appear on the ballot include businesswoman <span class='selected-term'>Tudor Dixon</span>; pastor Ralph Rebandt; real estate broker Ryan Kelley; businessman Kevin Rinke; and chiropractor Garrett Soldano.",
+    "author": "John L. Dorman",
+    "title": "Michigan Supreme Court blocks three GOP gubernatorial candidates from ballot over forged petition signatures",
+    "sentiment": "0"
+  },
+  {
+    "id": 8964,
+    "mediaId": 261,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "Gretchen Whitmer, a Democrat, in November: Norton Shores businesswoman <span class='selected-term'>Tudor Dixon</span>, Farmington Hills pastor Ralph Rebandt, Mattawan chiropractor Garrett Soldano, Pontiac businessman Kevin Rinke and Ottawa County real estate agent Ryan Kelley.",
+    "author": "Arpan Lobo",
+    "title": "Perry Johnson files lawsuit in federal court to get on GOP primary ballot for governor",
+    "sentiment": "0"
+  },
+  {
+    "id": 8969,
+    "mediaId": 157,
+    "date": "6/6/2022 12:00:00 AM",
+    "sentence": "The rulings have left five GOP candidates on the ballot, which had to be finalized by last Friday: Businessman Kevin Rinke, right-wing media personality <span class='selected-term'>Tudor Dixon</span>, chiropractor Garrett Soldano, far-right activist Ryan Kelley and the Rev.",
+    "author": "Jon King",
+    "title": "Michigan Republican on getting booted from ballot over fraudulent signatures: Not going to let this go'",
     "sentiment": "0"
   }
 ]

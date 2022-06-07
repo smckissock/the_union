@@ -6,7 +6,7 @@
     "sentence": "",
     "author": "Jake Lahut",
     "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
-    "sentiment": "0.402"
+    "sentiment": "0"
   },
   {
     "id": 736,
@@ -15,7 +15,7 @@
     "sentence": "",
     "author": "Jake Lahut",
     "title": "How Marjorie Taylor Greene's endorsement of J.D. Vance shows what it takes to make it into the next generation's MAGA clique",
-    "sentiment": "0.655"
+    "sentiment": "0"
   },
   {
     "id": 6246,
@@ -42,7 +42,7 @@
     "sentence": "",
     "author": "",
     "title": "Opinion The bottom line in Ohio? Trump wins.",
-    "sentiment": "-0.485"
+    "sentiment": "0"
   },
   {
     "id": 3301,
@@ -141,6 +141,15 @@
     "sentence": "",
     "author": "Max Boot",
     "title": "Opinion Has Trump lost his hold on the GOP? Hardly.",
+    "sentiment": "0"
+  },
+  {
+    "id": 8947,
+    "mediaId": 136,
+    "date": "6/5/2022 12:00:00 AM",
+    "sentence": "",
+    "author": "Andrew Stanton",
+    "title": "Trump Endorses 'Strong' McCarthy Despite Boos at Rally, Sparks MAGA Outrage",
     "sentiment": "0"
   }
 ]
